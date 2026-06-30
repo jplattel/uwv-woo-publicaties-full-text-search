@@ -6,12 +6,21 @@
     <meta name="base-path" content="{{ base_path }}" />
     <title>UWV Woo-publicaties</title>
     <link rel="stylesheet" href="{{ base_path }}assets/style.css" />
-    <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
   </head>
   <body>
     <header class="site-header">
-      <h1>UWV Woo-publicaties</h1>
-      <p>Doorzoekbare OCR-extracten van Woo-besluiten op uwv.nl</p>
+      <div class="site-header-inner">
+        <div>
+          <h1>UWV Woo-publicaties</h1>
+          <p>Doorzoekbare OCR-extracten van Woo-besluiten op uwv.nl</p>
+        </div>
+        <nav class="site-nav" aria-label="Hoofdnavigatie">
+          <a class="site-nav-link is-active" href="{{ base_path }}">Zoeken</a>
+          <a class="site-nav-link" href="{{ base_path }}publications.html">Publicaties</a>
+          <a class="site-nav-link" href="{{ base_path }}statistics.html">Statistieken</a>
+          <a class="site-nav-link" href="{{ base_path }}about.html">Over</a>
+        </nav>
+      </div>
     </header>
     <main>
       <div class="search-box">
@@ -20,12 +29,55 @@
           type="search"
           placeholder="Zoek op onderwerp, titel, tekst…"
           autofocus
+          disabled
         />
       </div>
-      <div id="search-suggestions" class="search-suggestions"></div>
-      <div id="result-count" class="meta-bar"></div>
+      <div id="search-suggestions" class="search-suggestions" aria-busy="true">
+        <span class="search-suggestions-label">Voorbeeldzoekopdrachten:</span>
+      </div>
+      <div id="search-filters" class="search-filters" hidden>
+        <div class="search-filters-row">
+          <label class="filter-field">
+            <span>Van jaar</span>
+            <select id="filter-year-from"></select>
+          </label>
+          <label class="filter-field">
+            <span>Tot jaar</span>
+            <select id="filter-year-to"></select>
+          </label>
+          <label class="filter-field">
+            <span>Type</span>
+            <select id="filter-type"></select>
+          </label>
+          <label class="filter-field">
+            <span>Sortering</span>
+            <select id="sort-by">
+              <option value="relevance">Relevantie</option>
+              <option value="date-desc">Nieuwste eerst</option>
+              <option value="date-asc">Oudste eerst</option>
+            </select>
+          </label>
+          <label class="filter-checkbox">
+            <input id="filter-ocr" type="checkbox" />
+            Alleen OCR
+          </label>
+        </div>
+      </div>
+      <div id="search-status" class="search-status is-loading" aria-live="polite">
+        <span class="search-spinner" aria-hidden="true"></span>
+        <span id="search-status-text">Zoekindex laden…</span>
+      </div>
+      <div id="result-count" class="meta-bar">Zoekindex laden…</div>
       <div id="results"></div>
+      <nav id="pagination" class="pagination" aria-label="Paginering" hidden></nav>
     </main>
+    <div id="page-loader" class="page-loader is-visible" aria-live="polite" aria-busy="true">
+      <div class="page-loader-card">
+        <span class="page-loader-spinner" aria-hidden="true"></span>
+        <p class="page-loader-title">Zoekindex laden</p>
+        <p id="page-loader-detail" class="page-loader-detail">Documenten worden klaargezet voor zoeken…</p>
+      </div>
+    </div>
     <script src="{{ base_path }}assets/app.js"></script>
   </body>
 </html>

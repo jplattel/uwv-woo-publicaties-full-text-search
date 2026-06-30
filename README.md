@@ -85,7 +85,7 @@ uv run python scripts/build_site.py --base-path /
 uv run python -m http.server --directory docs 8080
 ```
 
-Open `http://localhost:8080/`. For a project site base path, pass e.g. `--base-path /uwv-woo-verzoeken/`.
+Open `http://localhost:8080/`. You should see the search page (not a directory listing). If you only see a `doc/` folder, the build was interrupted — run the build command again and wait for "Build complete".
 
 Deploy workflow: `.github/workflows/pages.yml`
 

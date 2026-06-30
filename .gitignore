@@ -7,4 +7,7 @@ venv/
 .DS_Store
 *.pdf
 docs/
+docs.build/
+docs.old/
+scripts/node_modules/
 .python-version

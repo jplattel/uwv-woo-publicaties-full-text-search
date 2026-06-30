@@ -1,0 +1,8 @@
+{
+  "name": "uwv-woo-search-index",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "minisearch": "7.1.0"
+  }
+}
