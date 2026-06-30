@@ -1,0 +1,1481 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-46-participatiewet-2017-oktober",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-46-participatiewet-2017-oktober",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/407a9482-5b1e-4c9e-9357-e52d8b0f7c96/bijlage-46-participatiewet-2017-oktober.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 46 Participatiewet 2017 oktober (PDF, 288 kB)",
+  "retrieved_at": "2026-06-30T14:22:00+00:00",
+  "sha256": "644b9d8f8b28b978f3c38ed24feab6037101bf8c9d363da5e11208e321314bb2",
+  "page_count": 5,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        209.93,
+        342.25,
+        455.5,
+        354.25
+      ],
+      "text": "Onderzoek Betrouwbaarheid registratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        255.53,
+        364.21,
+        410.27,
+        376.21
+      ],
+      "text": "herindeling in IAW-radar",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        306.31,
+        495.25,
+        359.8,
+        504.25
+      ],
+      "text": "SMZ-BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        298.39,
+        535.69,
+        367.67,
+        544.69
+      ],
+      "text": "Oktober 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.94,
+        73.09,
+        183.99,
+        84.13
+      ],
+      "text": "1. Achtergrond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        98.12,
+        516.02,
+        107.12
+      ],
+      "text": "Per 1 januari 2018 wordt, in het kader van de Participatiewet, de uitkering van een Wajonger met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        110.72,
+        516.84,
+        119.72
+      ],
+      "text": "arbeidsvermogen verlaagd van maximaal 75% van het minimumloon naar maximaal 70% van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        123.32,
+        495.64,
+        132.32
+      ],
+      "text": "minimumloon. SMZ beoordeelt of de Wajonger al dan niet arbeidsvermogen heeft en deelt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        135.92,
+        498.87,
+        144.92
+      ],
+      "text": "Wajonger zonder arbeidsvermogen in naar “Duurzaam Geen Arbeidsvermogen” (DGA) of “niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        148.64,
+        270.69,
+        157.64
+      ],
+      "text": "Duurzaam Geen Arbeidsvermogen” (nDGA).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        171.08,
+        508.04,
+        180.08
+      ],
+      "text": "SMZ is in 2015 gestart met het indelen van het gehele Wajong bestand, en zal voor 1 december",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        183.68,
+        514.37,
+        192.68
+      ],
+      "text": "2017 de effectueringsbrief versturen naar de Wajonger waarvan de uitkering verlaagd wordt naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        196.28,
+        449.84,
+        205.28
+      ],
+      "text": "70% omdat deze arbeidsvermogen of niet Duurzaam Geen Arbeidsvermogen heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        218.84,
+        483.21,
+        227.84
+      ],
+      "text": "De registratie DGA en nDGA in IaW Radar per ultimo 2017 is bepalend voor het al dan niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        231.44,
+        277.86,
+        240.44
+      ],
+      "text": "verlagen van de uitkering per 1 januari 2018.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.94,
+        276.9,
+        283.26,
+        287.94
+      ],
+      "text": "2. Aanleiding huidig onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        301.91,
+        521.37,
+        310.91
+      ],
+      "text": "De betrouwbaarheid van de indeling is oa. geborgd door een bestandsvergelijking tussen GCU data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        314.51,
+        508.45,
+        323.51
+      ],
+      "text": "en registratie SMF, en door controles door adviseurs IaW op verschillende thema’s (bijvoorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        327.23,
+        243.81,
+        336.23
+      ],
+      "text": "DGA en Werkregeling en omgekeerd).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        349.67,
+        501.95,
+        358.67
+      ],
+      "text": "Door de accountantsdienst (IAD) is bij een steekproef van 170 gevallen een onderzoek gedaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        362.27,
+        485.48,
+        371.27
+      ],
+      "text": "naar het gehele herindelingsproces inclusief de dienstverlening door het werkbedrijf aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        374.87,
+        522.52,
+        383.87
+      ],
+      "text": "Wajongers. Bij dit IAD-onderzoek is 1 foutieve registratie vastgesteld (d.w.z. in 0,59% van de 170",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        387.35,
+        512.51,
+        396.35
+      ],
+      "text": "onderzochte gevallen). De stuurgroep heeft echter in 2016 bepaald dat maximaal 0,5% fouten in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        399.95,
+        518.66,
+        408.95
+      ],
+      "text": "de registratie acceptabel is. Het IAD-onderzoek kwam dus uit op een hoger percentage fouten dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        412.55,
+        519.43,
+        421.55
+      ],
+      "text": "was toegestaan. Daarom was een vervolgonderzoek nodig. Het relatief geringe aantal van De door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        425.15,
+        504.39,
+        434.15
+      ],
+      "text": "de IAD onderzochte dossiers (170) kon niet worden gezien als een representatieve steekproef.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        437.75,
+        500.13,
+        446.75
+      ],
+      "text": "Om een betrouwbare uitspraak te doen ten aanzien van de juistheid van de registratie met als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        450.23,
+        508.19,
+        459.23
+      ],
+      "text": "norm 99,5% zijn minimaal 750 dossiercontroles benodigd (zie rapport IAD). Afgesproken werd,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        462.95,
+        471.5,
+        471.95
+      ],
+      "text": "dat BC&K SMZ dit vervolgonderzoek naar de kwaliteit van de registratie zou verrichten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.94,
+        485.72,
+        188.92,
+        496.76
+      ],
+      "text": "3. Vraagstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        510.85,
+        514.38,
+        519.85
+      ],
+      "text": "Is de uitkomst van de herindeling correct in IAW-radar opgenomen, en voldoet deze aan de norm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        523.57,
+        203.37,
+        532.57
+      ],
+      "text": "van 99,5% betrouwbaarheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.94,
+        546.32,
+        171.35,
+        557.36
+      ],
+      "text": "Methodiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.94,
+        547.93,
+        98.55,
+        556.93
+      ],
+      "text": "4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        571.33,
+        524.34,
+        580.33
+      ],
+      "text": "Voor het onderzoek naar de juiste registratie in IAW-radar zijn 750 dossiers beoordeeld. Hiervoor is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        583.93,
+        522.03,
+        592.93
+      ],
+      "text": "door het project een bestand geleverd met de herindelingsresultaten zoals deze in IAW-Radar tot 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        596.53,
+        522.42,
+        605.53
+      ],
+      "text": "oktober 2017 waren verwerkt (zie hieronder). Het betreft 240.221 gevallen, onderverdeeld naar de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        609.25,
+        441.26,
+        618.25
+      ],
+      "text": "verschillende bronnen, met diverse indelingsresultaten of statussen van gevallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.54,
+        632.09,
+        514.4,
+        640.13
+      ],
+      "text": "Bron* DGA NDGA niet indelen onbepaald onb. naar totaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        415.06,
+        641.81,
+        465.66,
+        649.85
+      ],
+      "text": "beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.18,
+        652.01,
+        517.95,
+        660.05
+      ],
+      "text": "Centraal beschikt 68.247 72.211 140.458",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.74,
+        664.88,
+        512.92,
+        672.92
+      ],
+      "text": "Centrale brief 7.034 7.034",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        84.38,
+        677.6,
+        515.43,
+        685.64
+      ],
+      "text": "Decentraal beschikt 42.304 37.688 1 79.993",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.22,
+        690.32,
+        512.92,
+        698.36
+      ],
+      "text": "Koploper 451 2.376 2.827",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.18,
+        703.04,
+        508.85,
+        711.08
+      ],
+      "text": "Nog niet beschikt 5 698 86 9 798",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        93.02,
+        715.88,
+        512.92,
+        723.92
+      ],
+      "text": "Gedeeltelijk AO 3.422",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        95.06,
+        728.6,
+        512.92,
+        736.64
+      ],
+      "text": "Studieregeling 4.913 4.913",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        75.5,
+        741.32,
+        508.85,
+        749.36
+      ],
+      "text": "voor 1-1-2018 pensioen 776",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.06,
+        754.04,
+        519.75,
+        762.08
+      ],
+      "text": "Totaal 118.041 112.973 4.914 86 9 240.221",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        518.76,
+        787.84,
+        524.48,
+        796.84
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        798.56,
+        374.03,
+        806.6
+      ],
+      "text": "Onderzoek Betrouwbaarheid registratie herindeling in IAW-radar versie 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        95.36,
+        512.7,
+        104.36
+      ],
+      "text": "Omdat BC&K SMZ begin 2017 ook onderzoek heeft gedaan naar de registratie van de herindeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        107.96,
+        501.54,
+        116.96
+      ],
+      "text": "op 300 gevallen vanuit SMF (150 DGA/150 NDGA), is besloten om deze gevallen langs de door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        120.56,
+        505.19,
+        129.56
+      ],
+      "text": "IAW-RADAR vastgelegde resultaten te leggen. Naast deze 300 gevallen is dus uit het hierboven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        133.04,
+        520.51,
+        142.04
+      ],
+      "text": "genoemde aangeleverde bestand een aselecte steekproef van nog eens 450 gevallen geselecteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        145.64,
+        517.48,
+        154.64
+      ],
+      "text": "Omdat er 1 geval is afgevallen uit de in 2017 beoordeelde 300 gevallen is er thans 1 extra dossier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        158.36,
+        447.41,
+        167.36
+      ],
+      "text": "getrokken uit de massa. Dit levert uiteindelijk een steekproef van 451 gevallen op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        217.25,
+        228.32,
+        375.01,
+        237.32
+      ],
+      "text": "Verdeling steekproef resterend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        242.64,
+        513.2,
+        250.68
+      ],
+      "text": "Bron DGA NDGA niet indelen onbepaald onb. naar indelen totaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        254.28,
+        143.68,
+        262.32
+      ],
+      "text": "Centraal beschikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        210.65,
+        255.84,
+        507.65,
+        263.88
+      ],
+      "text": "127 133 260",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        267.48,
+        128.46,
+        275.52
+      ],
+      "text": "Centrale brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        213.17,
+        269.04,
+        505.13,
+        277.08
+      ],
+      "text": "13 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        280.71,
+        153.15,
+        288.75
+      ],
+      "text": "Decentraal beschikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        213.17,
+        282.27,
+        507.65,
+        290.31
+      ],
+      "text": "79 71 150",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        293.91,
+        109.39,
+        301.95
+      ],
+      "text": "Koploper",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        215.69,
+        295.47,
+        502.61,
+        303.51
+      ],
+      "text": "1 4 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        307.11,
+        143.68,
+        315.15
+      ],
+      "text": "Nog niet beschikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        215.69,
+        308.67,
+        505.13,
+        316.71
+      ],
+      "text": "2 8 2 1 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        321.87,
+        502.61,
+        329.91
+      ],
+      "text": "Gedeeltelijk AO 1 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        333.51,
+        131.74,
+        341.55
+      ],
+      "text": "Studieregeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        295.87,
+        335.07,
+        502.61,
+        343.11
+      ],
+      "text": "8 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        346.71,
+        170.92,
+        354.75
+      ],
+      "text": "voor 1-1-2018 pensioen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        295.87,
+        348.27,
+        502.61,
+        356.31
+      ],
+      "text": "1 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.7,
+        359.91,
+        101.76,
+        367.95
+      ],
+      "text": "Totaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        209.69,
+        361.47,
+        508.6,
+        369.51
+      ],
+      "text": "222 216 8 2 1 451",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.94,
+        417.18,
+        183.54,
+        428.22
+      ],
+      "text": "5. Bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        442.31,
+        329.73,
+        451.31
+      ],
+      "text": "Vervolg onderzoek naar de in 2017 onderzochte gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        464.89,
+        524.05,
+        473.89
+      ],
+      "text": "De door BC&K begin 2017 onderzochte gevallen zijn na een check op 6 gevallen na overeenkomstig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        477.37,
+        508.26,
+        486.37
+      ],
+      "text": "de eerder geboekte uitkomst van de herindeling in SMF. In 4 gevallen is de status gewijzigd van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        489.97,
+        507.14,
+        498.97
+      ],
+      "text": "nDGA naar DGA, deze zijn na controle in EAED terecht als DGA geregistreerd; in 1 geval was de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        502.57,
+        498.97,
+        511.57
+      ],
+      "text": "status gewijzigd naar “niet indelen” omdat de klant is gaan studeren en in de studieregeling is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        515.17,
+        516.72,
+        524.17
+      ],
+      "text": "gezet; en 1 geval komt niet meer voor omdat het recht ondertussen is beëindigd. Na een check in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        527.77,
+        512.67,
+        536.77
+      ],
+      "text": "EAED blijkt dat de registratie van de uitkomst van alle onderzochte gevallen in IAW-radar correct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        540.49,
+        81.42,
+        549.49
+      ],
+      "text": "is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        563.05,
+        154.81,
+        572.05
+      ],
+      "text": "Nieuwe steekproef",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        585.49,
+        473.9,
+        594.49
+      ],
+      "text": "Van de bron “nog niet beschikt” (13 gevallen) is het overgrote deel (8 gevallen) nog niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        598.09,
+        512.65,
+        607.09
+      ],
+      "text": "beoordeeld door de SMZ locatie;, in 2 gevallen was de status correct, echter zijn deze tijdens het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        610.69,
+        519.01,
+        619.69
+      ],
+      "text": "onderzoek alsnog door SMZ beschikt en staat de status en indelingsresultaat correct in IAW-radar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        623.17,
+        484.15,
+        632.17
+      ],
+      "text": "In 2 gevallen is er niet beschikt omdat de uitkering op dit moment is geschorst ivm met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        635.77,
+        498.99,
+        644.77
+      ],
+      "text": "“vertrokken onbekend waarheen”-status. In 1 geval staat het geval nog open omdat er op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        648.49,
+        504.09,
+        657.49
+      ],
+      "text": "hoofdkantoor net gerappelleerd is en is men in afwachting van het zogeheten reactie formulier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        670.96,
+        498.81,
+        679.96
+      ],
+      "text": "Voor de gecontroleerde gevallen geldt dat de uitkomsten die in IAW-radar staan geregistreerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        683.68,
+        436.41,
+        692.68
+      ],
+      "text": "overeenkomen met de laatste beslissing die in EAED is opgenomen en/of status.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.94,
+        706.43,
+        172.47,
+        717.47
+      ],
+      "text": "6. Conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        731.56,
+        500.49,
+        740.56
+      ],
+      "text": "De uitkomst van de herindeling en de registratie hiervan in IAW-radar voldoet in 100% van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        744.04,
+        523.48,
+        753.04
+      ],
+      "text": "gecontroleerde gevallen. De betrouwbaarheidsindicator van het bestand in IaW-radar per 3 oktober",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        756.76,
+        262.59,
+        765.76
+      ],
+      "text": "2017 bedraagt derhalve meer dan 99,5%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        518.76,
+        787.84,
+        524.48,
+        796.84
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        798.56,
+        374.03,
+        806.6
+      ],
+      "text": "Onderzoek Betrouwbaarheid registratie herindeling in IAW-radar versie 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.94,
+        73.09,
+        198.35,
+        84.13
+      ],
+      "text": "7. Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        98.12,
+        519.63,
+        107.12
+      ],
+      "text": "Wij adviseren de procesmanager IaW door te gaan met de controles op het ingedeelde bestand tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        110.84,
+        261.93,
+        119.84
+      ],
+      "text": "het moment van overdracht aan Uitkeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        133.28,
+        505.75,
+        142.28
+      ],
+      "text": "Wij adviseren aan de directeur uitvoering SMZ te bezien of op andere dossiers gebruik gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        145.88,
+        513.93,
+        154.88
+      ],
+      "text": "kan worden van de ervaringen welke het programma IaW heeft opgedaan met het borgen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        158.6,
+        274.0,
+        167.6
+      ],
+      "text": "kwaliteit (registratie is gelijk aan beslissing).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        518.76,
+        787.84,
+        524.48,
+        796.84
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        798.56,
+        374.03,
+        806.6
+      ],
+      "text": "Onderzoek Betrouwbaarheid registratie herindeling in IAW-radar versie 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.33,
+        476.77,
+        274.63,
+        485.77
+      ],
+      "text": "Colofon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.33,
+        522.01,
+        376.72,
+        531.01
+      ],
+      "text": "Uitgever SMZ BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.33,
+        567.13,
+        382.58,
+        576.13
+      ],
+      "text": "Datum 24-10-2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.33,
+        589.69,
+        343.22,
+        598.69
+      ],
+      "text": "Versie 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        328.51,
+        617.81,
+        486.59,
+        625.85
+      ],
+      "text": "Onderzoek Betrouwbaarheid registratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.33,
+        618.01,
+        287.61,
+        627.01
+      ],
+      "text": "Document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        328.51,
+        628.97,
+        427.96,
+        637.01
+      ],
+      "text": "herindeling in IAW-radar",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        232.85,
+        695.66,
+        271.51,
+        701.72
+      ],
+      "text": " 2017 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        232.85,
+        714.02,
+        517.35,
+        720.02
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        232.85,
+        722.54,
+        514.02,
+        728.54
+      ],
+      "text": "een geautomatiseerd gegevensbestand, of openbaar gemaakt, in enige vorm, of enige wijze,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        232.85,
+        731.06,
+        512.22,
+        737.06
+      ],
+      "text": "hetzij elektronisch, mechanisch, door fotokopieën, opnamen of enige andere manier, zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        232.85,
+        739.58,
+        384.18,
+        745.58
+      ],
+      "text": "voorafgaande schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        518.76,
+        787.84,
+        524.48,
+        796.84
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        798.56,
+        374.03,
+        806.6
+      ],
+      "text": "Onderzoek Betrouwbaarheid registratie herindeling in IAW-radar versie 0.1",
+      "source": "text"
+    }
+  ]
+}

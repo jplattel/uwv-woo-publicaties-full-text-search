@@ -1,0 +1,6677 @@
+{
+  "source_id": "2024-02-20-woo-besluit-over-registreren-ip-adressen/2024-02-20-bijlage-2-20230327-dt-05b-rapport-kwaliteitstoets-gebruik-vbl-dhh-2022-v09",
+  "publication_slug": "2024-02-20-woo-besluit-over-registreren-ip-adressen",
+  "pdf_slug": "2024-02-20-bijlage-2-20230327-dt-05b-rapport-kwaliteitstoets-gebruik-vbl-dhh-2022-v09",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-over-registreren-ip-adressen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/c3eec296-ecca-41af-a795-59110ec3ca68/bijlage-2-20230327-dt-05b-rapport-kwaliteitstoets-gebruik-vbl-dhh-2022-v09.pdf",
+  "publication_title": "Woo-besluit over registeren IP adressen",
+  "publication_date": "2024-02-20T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2. 20230327 DT 05B Rapport kwaliteitstoets gebruik VBL DHH 2022 v0.9 (PDF, 285 kB)",
+  "retrieved_at": "2026-06-30T13:11:27+00:00",
+  "sha256": "556c86a8d6aa8e7973adeba91628acfb6632539189b0f34aa82e30a1ccfb3fb1",
+  "page_count": 12,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        80.59,
+        501.99,
+        104.59
+      ],
+      "text": "Rapportage kwaliteitstoets op het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        113.95,
+        493.37,
+        137.95
+      ],
+      "text": "gebruik van de risicoscan Verblijf",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        147.55,
+        270.38,
+        171.55
+      ],
+      "text": "Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.44,
+        178.6,
+        229.68,
+        194.56
+      ],
+      "text": "Directie Handhaving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        401.04,
+        511.12,
+        545.49,
+        521.08
+      ],
+      "text": "BC&K Handhaving versie 0.9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        348.36,
+        524.61,
+        545.65,
+        533.61
+      ],
+      "text": "Geaccordeerd in DT-overleg Handhaving ….",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        56.64,
+        70.03,
+        231.35,
+        90.07
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        110.97,
+        467.67,
+        119.97
+      ],
+      "text": "1. Aanleiding en doel ................................................................................... 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        139.41,
+        467.68,
+        148.41
+      ],
+      "text": "2. Management summary ............................................................................ 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.6,
+        153.69,
+        467.61,
+        162.69
+      ],
+      "text": "2.1 Besturend proces .............................................................................. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.6,
+        167.85,
+        467.61,
+        176.85
+      ],
+      "text": "2.2 Primair proces .................................................................................. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.6,
+        182.13,
+        467.61,
+        191.13
+      ],
+      "text": "2.3 Aanbevelingen .................................................................................. 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        196.29,
+        473.13,
+        205.29
+      ],
+      "text": "2.3.1 Management respons proceseigenaar (Portefeuillehouder Kwaliteit)5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        224.61,
+        467.67,
+        233.61
+      ],
+      "text": "3. Onderzoeksbevindingen .......................................................................... 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        368.07,
+        237.98,
+        377.38,
+        247.89
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.6,
+        238.89,
+        467.61,
+        247.89
+      ],
+      "text": "3.1 Besturend proces (sturing en kwaliteitsborging in de lijn) ................... 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.6,
+        253.05,
+        467.61,
+        262.05
+      ],
+      "text": "3.2 Primair proces .................................................................................. 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        267.33,
+        467.6,
+        276.33
+      ],
+      "text": "3.2.1 Algemeen ............................................................................. 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        281.49,
+        467.61,
+        290.49
+      ],
+      "text": "3.2.2 Uitval ................................................................................... 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        295.65,
+        467.6,
+        304.65
+      ],
+      "text": "3.2.3 Bureauonderzoek WN02 ......................................................... 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        309.93,
+        467.6,
+        318.93
+      ],
+      "text": "3.2.4 Onderzoek toezichthouder WN25 ............................................. 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        324.09,
+        470.72,
+        333.09
+      ],
+      "text": "3.2.5 Objectieve verwijtbaarheid (WN05) en afhandelen rapport (WN06)9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        338.25,
+        467.72,
+        347.25
+      ],
+      "text": "3.2.6 Overige aanvullende onderzoeksbevindingen ........................... 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        366.57,
+        467.55,
+        375.57
+      ],
+      "text": "Bijlage 1: Onderzoeksopzet ............................................................................... 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.6,
+        380.85,
+        467.72,
+        389.85
+      ],
+      "text": "3.3 Opzet onderzoek ............................................................................. 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        395.13,
+        467.72,
+        404.13
+      ],
+      "text": "3.3.1 Besturend proces ................................................................. 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.56,
+        409.29,
+        467.73,
+        418.29
+      ],
+      "text": "3.3.2 Primair proces ..................................................................... 11",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        56.64,
+        467.81,
+        272.42,
+        485.81
+      ],
+      "text": "1. Aanleiding en doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        513.93,
+        531.23,
+        522.93
+      ],
+      "text": "In september 2018 ontstond maatschappelijke onrust door diverse berichtgevingen in de media omtrent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        526.53,
+        526.2,
+        535.53
+      ],
+      "text": "het onrechtmatig gebruik van WW-uitkeringen. Naar aanleiding hiervan zijn afspraken gemaakt over te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        539.13,
+        503.04,
+        548.13
+      ],
+      "text": "nemen maatregelen. Eén van de maatregelen met een preventief karakter die is toegezegd, is het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        551.73,
+        201.64,
+        560.73
+      ],
+      "text": "ontwikkelen van risicomodellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        576.81,
+        545.24,
+        585.81
+      ],
+      "text": "Eén van de voorwaarden voor het recht op een WW-uitkering is namelijk dat de cliënt in Nederland verblijft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        589.41,
+        528.91,
+        598.41
+      ],
+      "text": "en daarmee beschikbaar is voor de Nederlandse arbeidsmarkt (art. 19, lid 1 sub e WW). Zodra de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        602.01,
+        517.04,
+        611.01
+      ],
+      "text": "buiten Nederland verblijft, zonder toestemming van UWV, vervalt zijn recht op een WW-uitkering. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.63,
+        614.61,
+        403.51,
+        623.61
+      ],
+      "text": "inlichtingenplicht wordt in deze situaties eveneens overtreden (art. 25 WW).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.63,
+        627.21,
+        514.01,
+        636.21
+      ],
+      "text": "Mocht hiervan sprake zijn, dan is UWV gerechtigd de WW-uitkering te herzien, met een intrekking of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.62,
+        639.81,
+        527.58,
+        648.81
+      ],
+      "text": "beëindiging tot gevolg. Een uitzondering hierop ontstaat als de WW-uitkering met toestemming van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.61,
+        652.29,
+        155.42,
+        661.29
+      ],
+      "text": "UWV is geëxporteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.61,
+        677.49,
+        523.88,
+        686.49
+      ],
+      "text": "De risicoscan Verblijf Buitenland is gericht op het signaleren van potentieel onrechtmatig verblijf in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.61,
+        690.09,
+        528.88,
+        699.09
+      ],
+      "text": "buitenland binnen de WW-populatie. Door een vroegtijdige detectie van onderzoekswaardige signalen is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.61,
+        702.69,
+        509.16,
+        711.69
+      ],
+      "text": "het mogelijk het risico op verblijf buitenland effectief te mitigeren en eventuele financiële schade te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.61,
+        715.29,
+        123.49,
+        724.29
+      ],
+      "text": "minimaliseren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.61,
+        727.78,
+        541.0,
+        736.78
+      ],
+      "text": "De risicoselectie die gegenereerd wordt door de risicoscan bestaat uit WW-uitkeringsgerechtigden met een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.6,
+        740.38,
+        531.42,
+        749.38
+      ],
+      "text": "lopende uitkering én een verhoogde kans op verblijf in het buitenland. De risicoscan geeft dus enkel een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.6,
+        752.98,
+        542.35,
+        761.98
+      ],
+      "text": "indicatie dat in een specifiek geval menselijk onderzoek nodig is om onrechtmatig verblijf in het buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        66.57,
+        526.07,
+        75.57
+      ],
+      "text": "uit te kunnen sluiten. Om de risicoscan te controleren en vooringenomenheid te voorkomen zijn aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        79.05,
+        541.51,
+        88.05
+      ],
+      "text": "selectie ook willekeurig geselecteerde WW-uitkeringsgerechtigden zonder dit verhoogde risico toegevoegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        91.65,
+        529.7,
+        100.65
+      ],
+      "text": "Er wordt alleen een onderzoek ingesteld als er op feiten gebaseerde aanwijzingen zijn van verblijf in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        104.25,
+        107.56,
+        113.25
+      ],
+      "text": "buitenland.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        129.45,
+        531.37,
+        138.45
+      ],
+      "text": "In de Gegevens Effect Beoordeling (GEB) behorend bij dit risicomodel is als een van de risico’s benoemd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        142.05,
+        534.19,
+        151.05
+      ],
+      "text": "dat medewerkers gaan werken met een proces waarin zij mogelijk onjuist handelen inzake de signaallijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        154.53,
+        504.77,
+        163.53
+      ],
+      "text": "(zie risico 1). Het risico bestaat dat de medewerkers de cliënten op de lijst al als ‘regelovertreders’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        167.13,
+        494.25,
+        176.13
+      ],
+      "text": "beschouwen (‘bias’) terwijl dit nog vastgesteld moet worden in het onderzoek. Dit kan leiden tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        179.73,
+        299.47,
+        188.73
+      ],
+      "text": "benadeling, discriminatie en negatieve beeldvorming.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        192.33,
+        466.22,
+        201.33
+      ],
+      "text": "Eén van de beheersmaatregelen die is geformuleerd is het uitvoeren van een operationele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        204.93,
+        515.46,
+        213.93
+      ],
+      "text": "kwaliteitsmeting. Het uitvoeren van een 2e lijns-onderzoek met betrekking tot het Risicoscan Verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        217.53,
+        444.53,
+        226.53
+      ],
+      "text": "Buitenland is opgenomen in de analysekalender dHH en is geaccordeerd door het DT.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.63,
+        242.62,
+        511.67,
+        251.62
+      ],
+      "text": "Gezien bovenstaande is het doel van dit onderzoek vast te stellen in hoeverre de professionals in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.63,
+        255.22,
+        502.56,
+        264.22
+      ],
+      "text": "uitvoering proportioneel, passend en zonder vooringenomenheid onderzoek doen op basis van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.63,
+        267.82,
+        536.61,
+        276.82
+      ],
+      "text": "risicosignaal (primair proces) en in hoeverre het besturend proces in de 1e lijn effectief wordt uitgevoerd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        56.64,
+        301.85,
+        315.94,
+        319.85
+      ],
+      "text": "2. Management summary",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        354.71,
+        193.15,
+        365.75
+      ],
+      "text": "2.1 Besturend proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        375.45,
+        477.0,
+        384.45
+      ],
+      "text": "Ten aanzien van sturing en kwaliteitsborging op dit onderwerp is momenteel sprake van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        388.05,
+        533.68,
+        397.05
+      ],
+      "text": "overgangssituatie waarbij de overdracht van de behandeling van deze risicosignalen van de projectgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        400.65,
+        542.19,
+        409.65
+      ],
+      "text": "Verblijf Buitenland naar de reguliere organisatie in volle gang is en steeds meer HHD’s en inspecteurs/TO’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        413.25,
+        515.86,
+        422.25
+      ],
+      "text": "zich bezig houden met de risicosignalen. Tot op heden heeft er nog geen volledige overdracht van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.65,
+        425.85,
+        529.51,
+        434.85
+      ],
+      "text": "projectgroep naar de reguliere organisatie plaatsgevonden in de zin dat er nog geen afspraken gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.65,
+        438.33,
+        545.26,
+        447.33
+      ],
+      "text": "zijn ten aanzien van de inrichting van een uniforme kwaliteitsborging van dit onderwerp in de districten. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.65,
+        450.93,
+        526.46,
+        459.93
+      ],
+      "text": "districten gaan hier nu nog verschillend mee om. De aan de projectgroep gekoppelde manager zal naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        463.53,
+        544.32,
+        472.53
+      ],
+      "text": "verwachting in Q1-2023 een voorstel ten aanzien van de (uniforme) kwaliteitsborging van de risicosignalen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        476.13,
+        416.16,
+        485.13
+      ],
+      "text": "VBL door de districten inbrengen voor het overleg van de Regiegroep Kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        495.35,
+        175.26,
+        506.39
+      ],
+      "text": "2.2 Primair proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        516.09,
+        531.18,
+        525.09
+      ],
+      "text": "Bij geen van de onderzochte dossiers zijn aanwijzingen aangetroffen van vooringenomenheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        528.69,
+        403.35,
+        537.69
+      ],
+      "text": "bij het uitvoeren van het onderzoek en het nemen van de beslissing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        553.77,
+        514.64,
+        562.77
+      ],
+      "text": "Wel zijn in diverse gevallen bevindingen gedaan ten aanzien van het proportioneel uitvoeren van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        566.37,
+        517.39,
+        575.37
+      ],
+      "text": "onderzoek en het nemen van een passende beslissing maar deze bevindingen zijn niet altijd alleen te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        578.97,
+        514.79,
+        587.97
+      ],
+      "text": "relateren aan het gebruik van de risicoscan Verblijf Buitenland en zijn ook gerelateerd aan generieke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.65,
+        591.57,
+        275.21,
+        600.57
+      ],
+      "text": "bevindingen m.b.t. de kwaliteit in de uitvoering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        604.05,
+        544.23,
+        613.05
+      ],
+      "text": "In hoofdstuk 3 zijn de bevindingen per onderzoeksvraag opgenomen en worden de bevindingen inhoudelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        616.65,
+        543.97,
+        625.65
+      ],
+      "text": "toegelicht inclusief voorbeelden om meer kleuring en duiding te geven bij de resultaten van het onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        641.85,
+        499.23,
+        650.85
+      ],
+      "text": "Hieronder is een selectie van de belangrijkste (aanvullende) onderzoeksbevindingen opgenomen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.67,
+        653.71,
+        60.81,
+        662.71
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        654.45,
+        517.29,
+        663.45
+      ],
+      "text": "Met name het correct beoordelen van de aanpakwaardigheid (WN37) vraagt aandacht. Het kwam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        667.05,
+        527.31,
+        676.05
+      ],
+      "text": "regelmatig voor dat medewerkers zaken als niet-aanpakwaardig afsloten vanwege een niet lopende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        679.54,
+        540.65,
+        688.54
+      ],
+      "text": "uitkering, terwijl de uitkering nog wel liep bij de eerste beoordeling. Hier is vanuit de projectgroep een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        692.14,
+        511.68,
+        701.14
+      ],
+      "text": "beheersmaatregel op ingezet waarbij het afsluiten van dossiers als niet-aanpakwaardig via twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        704.74,
+        527.62,
+        713.74
+      ],
+      "text": "controleurs van de projectgroep Risicoscan Verblijf Buitenland liep. Het is van belang de beheersing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        717.34,
+        528.11,
+        726.34
+      ],
+      "text": "van dit risico te blijven borgen na overdracht aan de lijnorganisatie. De beheersing van dit risico zal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        729.94,
+        517.93,
+        738.94
+      ],
+      "text": "onderdeel uitmaken van het voorstel t.a.v. uniforme kwaliteitsborging die de aan de projectgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.67,
+        742.54,
+        501.33,
+        751.54
+      ],
+      "text": "gekoppelde manager naar verwachting in Q1-2023 zal aanbieden aan de regiegroep kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        65.82,
+        60.78,
+        74.82
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        66.57,
+        512.76,
+        75.57
+      ],
+      "text": "T.a.v. de vastlegging van de uitval bij niet-onderzoekswaardige zaken valt op dat de Memo’s die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        79.05,
+        531.86,
+        88.05
+      ],
+      "text": "hiervoor gebruikt worden, inhoudelijk sterk van elkaar verschillen waardoor niet altijd te herleiden is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        91.65,
+        538.66,
+        100.65
+      ],
+      "text": "dat het onderzoek met voldoende diepgang is uitgevoerd. Oorzaak hiervoor is dat in de werkinstructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        104.25,
+        499.47,
+        113.25
+      ],
+      "text": "niet is opgenomen welke elementen uit het onderzoek hierin tenminste terug moeten komen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        116.1,
+        60.78,
+        125.1
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        116.85,
+        516.75,
+        125.85
+      ],
+      "text": "In het onderzoek is vastgesteld dat op basis van Suwinet Inkijk een viertal elementen regelmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        129.45,
+        534.75,
+        138.45
+      ],
+      "text": "onderbelicht zijn in de uitgevoerde bureauonderzoeken in de WN02 omdat nut en noodzaak van deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        142.05,
+        499.51,
+        151.05
+      ],
+      "text": "onderzoekselementen onduidelijk zijn voor de betrokken HHD blijkens de vastlegging van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        278.62,
+        152.32,
+        325.98,
+        158.32
+      ],
+      "text": "art. 5.1. lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        154.53,
+        276.53,
+        163.53
+      ],
+      "text": "bureauonderzoek in de onderzoeksopdracht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        178.98,
+        60.78,
+        187.98
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        179.73,
+        544.82,
+        188.73
+      ],
+      "text": "T.a.v. het onderzoek uitgevoerd door de toezichthouder in de WN25 is bij diverse cases vastgesteld dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        192.33,
+        530.13,
+        201.33
+      ],
+      "text": "het onderzoek niet volledig is. Hierdoor bestaat het risico dat de verblijfsperiode in het buitenland in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        204.93,
+        541.99,
+        213.93
+      ],
+      "text": "werkelijkheid anders/langer is geweest dan in het onderzoek is vastgesteld, wat mogelijk invloed heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        217.53,
+        285.19,
+        226.53
+      ],
+      "text": "op de opgelegde sanctie en/of terugvordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        229.26,
+        60.78,
+        238.26
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        230.01,
+        517.23,
+        239.01
+      ],
+      "text": "Daarnaast is de door de toezichthouder gehanteerde onderzoeksmethode niet altijd in lijn met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.65,
+        242.61,
+        531.56,
+        251.61
+      ],
+      "text": "werkinstructie en daardoor in sommige gevallen minder proportioneel. Hierbij lijkt sprake te zijn van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.65,
+        255.21,
+        536.72,
+        264.21
+      ],
+      "text": "onvoldoende bekendheid met de actuele specifieke aspecten van de werkinstructie Verblijf Buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        267.81,
+        538.41,
+        276.81
+      ],
+      "text": "ten opzichte van de ‘gebruikelijke’ werkwijze in het verleden. Hierbij kan o.a. gedacht worden aan het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        280.41,
+        506.17,
+        289.41
+      ],
+      "text": "te vroeg in het proces persoonlijk overhandigen van de uitnodigingsbrief, het afleggen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        292.89,
+        501.95,
+        301.89
+      ],
+      "text": "huisbezoek, onvoldoende herleidbaarheid van de cautie en het opvragen/vorderen van te veel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        305.49,
+        388.84,
+        314.49
+      ],
+      "text": "bewijsmiddelen te vroeg in het onderzoek of een combinatie hiervan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.65,
+        317.35,
+        60.79,
+        326.35
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.65,
+        318.09,
+        535.81,
+        327.09
+      ],
+      "text": "Ten aanzien van de passendheid van de vaststelling van de objectieve en subjectieve verwijtbaarheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.65,
+        330.69,
+        429.71,
+        339.69
+      ],
+      "text": "in de WN05/06 zijn bij 3 van de 25 onderzochte dossiers bevindingen gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.65,
+        343.29,
+        527.91,
+        352.29
+      ],
+      "text": "Bij één dossier is het onderzoeksrapport van de toezichthouder door beide betrokken HHD’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.65,
+        346.69,
+        98.05,
+        355.69
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        355.89,
+        516.37,
+        364.89
+      ],
+      "text": "niet correct geïnterpreteerd waardoor de cliënt ten onrechte een boete en terugvordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        368.38,
+        506.53,
+        377.38
+      ],
+      "text": "opgelegd heeft gekregen. Nadat de cliënt een bezwaar heeft ingediend, is de beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        380.98,
+        177.43,
+        389.98
+      ],
+      "text": "teruggedraaid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        393.58,
+        541.79,
+        402.58
+      ],
+      "text": "Bij de andere twee dossiers valt op dat dit vrijwel identieke zaken betreft waarbij verschillende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        396.97,
+        98.06,
+        405.97
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        406.18,
+        528.83,
+        415.18
+      ],
+      "text": "beslissingen genomen zijn. Hierbij is bij de ene cliënt besloten dat het aannemelijk is dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        418.78,
+        539.06,
+        427.78
+      ],
+      "text": "cliënt in het buitenland verbleef met een terugvordering tot gevolg en is de motivatie hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        431.26,
+        518.3,
+        440.26
+      ],
+      "text": "herleidbaar uit de motivatie subjectieve verwijtbaarheid. Bij de andere cliënt echter is het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        443.86,
+        534.49,
+        452.86
+      ],
+      "text": "verblijf in het buitenland aantoonbaar geacht met zowel een terugvordering als een boete tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        456.46,
+        539.26,
+        465.46
+      ],
+      "text": "gevolg. Uit de motivatie subjectieve verwijtbaarheid bij deze casus is niet herleidbaar op basis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.66,
+        469.06,
+        414.34,
+        478.06
+      ],
+      "text": "van welke bewijslast het verblijf buitenland aantoonbaar is geacht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.67,
+        480.91,
+        60.81,
+        489.91
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        481.66,
+        545.33,
+        490.66
+      ],
+      "text": "Bij een aantal dossiers valt bij de bepaling van de subjectieve verwijtbaarheid in de WN06 op dat wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        494.26,
+        515.08,
+        503.26
+      ],
+      "text": "aangegeven dat de cliënt niet gereageerd heeft op het voornemen een boete op te leggen. Strikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        506.74,
+        535.3,
+        515.74
+      ],
+      "text": "genomen klopt dit maar bij deze dossiers heeft de cliënt in het eerdere gesprek met de inspecteur én",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        519.34,
+        512.95,
+        528.34
+      ],
+      "text": "soms ook in een nagekomen reactie wel een reactie/weerwoord gegeven. Het lijkt daarom in die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        531.94,
+        536.4,
+        540.94
+      ],
+      "text": "gevallen te kort door de bocht om alleen de focus te leggen op een evt. reactie van de klant n.a.v. de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        544.54,
+        516.13,
+        553.54
+      ],
+      "text": "aankondigingsbrief. Het is van belang om bij het nemen van de boetebeslissing en het motiveren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        557.14,
+        542.68,
+        566.14
+      ],
+      "text": "hiervan in de beslissingsbrief breder te kijken en in de argumentatie bij de beslissing ook in te gaan op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        569.74,
+        428.51,
+        578.74
+      ],
+      "text": "de eerder in het proces gegeven verklaring/argumenten/reactie van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.67,
+        581.48,
+        60.81,
+        590.48
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        582.23,
+        511.23,
+        591.23
+      ],
+      "text": "Daarnaast zijn er diverse en uiteenlopende generieke kwaliteitsbevindingen gedaan die gebruikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        594.83,
+        410.47,
+        603.83
+      ],
+      "text": "kunnen worden in het vakinhoudelijk overleg, casus overleggen et cetera.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        614.03,
+        176.34,
+        625.07
+      ],
+      "text": "2.3 Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        634.77,
+        536.5,
+        643.77
+      ],
+      "text": "Op basis van de bevindingen uit dit onderzoek adviseren we de portefeuillehouder kwaliteit het volgende:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        647.37,
+        541.22,
+        656.37
+      ],
+      "text": "1. Voor verdere vakmanschapsontwikkeling en bevorderen van een zoveel mogelijk uniforme afhandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        659.97,
+        541.89,
+        668.97
+      ],
+      "text": "van vergelijkbare zaken is het van belang regelmatig casus overleggen te houden. Het advies is om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        672.57,
+        545.16,
+        681.57
+      ],
+      "text": "onderzoeksbevindingen inclusief de in het onderzoek opgenomen voorbeelden te delen en te bespreken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        685.05,
+        498.35,
+        694.05
+      ],
+      "text": "met de managers, betrokken medewerkers en kwaliteitsregisseurs op de kantoren, bv. in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.64,
+        697.65,
+        370.12,
+        706.65
+      ],
+      "text": "vakinhoudelijk overleg, werkoverleg, casus overleggen et cetera.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.65,
+        710.25,
+        545.73,
+        719.25
+      ],
+      "text": "2. Periodiek middels de MOK specifiek een controle uitvoeren op de naleving van de werkinstructie Verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.65,
+        722.85,
+        519.91,
+        731.85
+      ],
+      "text": "Buitenland waarbij de aandachtspunten uit dit onderzoek meegenomen worden in de beoordeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        735.45,
+        516.88,
+        744.45
+      ],
+      "text": "3. Bij het vaststellen dat een zaak niet onderzoekswaardig is in de WN02, dusdanig invullen van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.67,
+        748.05,
+        521.65,
+        757.05
+      ],
+      "text": "afsluitende Memo dat de diepgang van het uitgevoerde onderzoek herleidbaar is (denk aan: welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.64,
+        66.57,
+        508.02,
+        75.57
+      ],
+      "text": "systemen zijn geraadpleegd, wat kwam hieruit) en dit op te nemen in de werkinstructie Verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.65,
+        79.05,
+        126.16,
+        88.05
+      ],
+      "text": "Buitenland.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.65,
+        91.65,
+        537.86,
+        100.65
+      ],
+      "text": "4. Het advies is om bij het nemen van de boetebeslissing en het motiveren hiervan in de beslissingsbrief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.65,
+        104.25,
+        543.23,
+        113.25
+      ],
+      "text": "breder te kijken dan alleen of de cliënt n.a.v. de aankondigingsbrief een reactie heeft gegeven en in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.66,
+        116.85,
+        490.66,
+        125.85
+      ],
+      "text": "argumentatie bij de beslissing ook in te gaan op de eventueel eerder in het proces gegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.66,
+        129.45,
+        278.34,
+        138.45
+      ],
+      "text": "verklaring/argumenten/reactie van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.06,
+        160.53,
+        458.27,
+        169.53
+      ],
+      "text": "2.3.1 Management respons proceseigenaar (Portefeuillehouder Kwaliteit)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.67,
+        188.72,
+        540.97,
+        197.72
+      ],
+      "text": "Met mijn dankzegging is het rapport besproken met de afdeling BC&K. Wat als rode draad door dit rapport",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.68,
+        201.32,
+        540.26,
+        210.32
+      ],
+      "text": "loopt is vooral aandacht geven aan de werkstroom risicoscan buitenland om volledig zijn in de afhandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.68,
+        213.92,
+        544.24,
+        222.92
+      ],
+      "text": "en verankeren dat aandacht in de districten repeterend terugkomt om de bewustwording op gezette tijden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.68,
+        226.52,
+        492.4,
+        235.52
+      ],
+      "text": "te blijven prikkelen. Er gaat veel goed, maar een aantal zaken kunnen net wat scherper worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.68,
+        239.01,
+        182.37,
+        248.01
+      ],
+      "text": "afgehandeld c.q. verbeterd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        264.21,
+        234.03,
+        273.21
+      ],
+      "text": "Met betrekking tot aanbeveling 1 en 2:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        276.81,
+        539.2,
+        285.81
+      ],
+      "text": "Ad 1:Inzake de vakmanschaps ontwikkeling en periodiek aandacht geven, moet dit rapport na vaststelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        289.41,
+        533.43,
+        298.41
+      ],
+      "text": "in het DT in maart, worden besproken in de districtsmanagementteams door de DM uiterlijk in de maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        301.89,
+        494.65,
+        310.89
+      ],
+      "text": "april waarbij afspraken worden gemaakt over het bespreken van de onderzoeksbevindingen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        314.49,
+        533.42,
+        323.49
+      ],
+      "text": "medewerkers en kwaliteitsregisseurs. Om tot een goede borging te komen van dit onderwerp en het niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        327.09,
+        517.75,
+        336.09
+      ],
+      "text": "eenmalig wordt besproken, blijven we middels de regiegroep kwaliteit periodiek aandacht (1 keer per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        339.69,
+        543.1,
+        348.69
+      ],
+      "text": "kwartaal) vragen voor de risicoscan verblijf buitenland mede aangejaagd door de afdeling BC&K. We zullen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        352.29,
+        527.27,
+        361.29
+      ],
+      "text": "hiertoe een terugkerend actiepunt per kwartaal opnemen in de actielijst van de Regiegroep kwaliteit, te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        364.89,
+        167.19,
+        373.89
+      ],
+      "text": "starten per 01-05-2023.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        377.37,
+        526.67,
+        386.37
+      ],
+      "text": "Ad 2: Daarnaast zijn er in de MOK al items opgenomen die in de controle kunnen worden meegenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        389.97,
+        502.46,
+        398.97
+      ],
+      "text": "inzake het juist uitvoeren van de werkinstructie. Hierbij zullen we de toelichting op de betreffende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        402.57,
+        538.19,
+        411.57
+      ],
+      "text": "meetpunten in de MOK aanvullen met een verwijzing naar de werkinstructie Risicoscan Verblijf Buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        415.17,
+        163.35,
+        424.17
+      ],
+      "text": "(deadline 01-05-2023).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        427.77,
+        536.53,
+        436.77
+      ],
+      "text": "Ook zullen we drie maanden na de herstart van de afhandeling van risicosignalen Verblijf Buitenland naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        440.26,
+        521.38,
+        449.26
+      ],
+      "text": "aanleiding van de hierboven beschreven bijsturing, de bevindingen t.a.v. van de risicosignalen Verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        452.86,
+        504.93,
+        461.86
+      ],
+      "text": "Buitenland ophalen uit de reguliere MOK om te analyseren welke bevindingen nog worden gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        478.06,
+        527.93,
+        487.06
+      ],
+      "text": "De aan de projectgroep gekoppelde manager zal naar verwachting in Q1-2023 een voorstel ten aanzien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        490.66,
+        509.84,
+        499.66
+      ],
+      "text": "van de (uniforme) kwaliteitsborging van de risicosignalen VBL door de districten inbrengen voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.63,
+        503.26,
+        223.37,
+        512.26
+      ],
+      "text": "overleg van de Regiegroep Kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        528.33,
+        210.87,
+        537.33
+      ],
+      "text": "Met betrekking tot aanbeveling 3:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        540.93,
+        468.82,
+        549.93
+      ],
+      "text": "Als een zaak (dus dit heeft niet alleen betrekking op risicosignalen Verblijf Buitenland) niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        553.53,
+        508.02,
+        562.53
+      ],
+      "text": "onderzoekswaardig wordt beoordeeld in de WN02 moet dit worden vastgelegd bij thema onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        566.13,
+        543.83,
+        575.13
+      ],
+      "text": "middels een memo. Deze memo’s kunnen qua diepgang beter en meer beargumenteerd worden opgesteld,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        578.73,
+        506.11,
+        587.73
+      ],
+      "text": "dit is van wezenlijk belang aangezien de accountantsdienst in de vervolgaudit in het jaar 2022 hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        591.21,
+        527.65,
+        600.21
+      ],
+      "text": "opmerkingen over had inzake de WW fraude. Juist deze categorie moet herleidbaar zijn, transparant en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        603.81,
+        515.94,
+        612.81
+      ],
+      "text": "reproduceerbaar: met andere woorden we moeten in deze categorie ons handelen kunnen verklaren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        616.41,
+        544.7,
+        625.41
+      ],
+      "text": "De aangedragen adviezen omtrent vastleggingen van geraadpleegde bronnen en systemen worden zo snel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        629.01,
+        544.71,
+        638.01
+      ],
+      "text": "als mogelijk opgevolgd door specifiek in de werkinstructie Risicoscan Verblijf Buitenland op te nemen welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        641.61,
+        530.15,
+        650.61
+      ],
+      "text": "elementen uit het onderzoek hierin tenminste terug moeten komen. In Q4 zullen we middels de MOK de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        654.09,
+        515.61,
+        663.09
+      ],
+      "text": "resultaten ophalen van de bijsturing op dit punt (in brede zin, niet alleen voor Verblijf Buitenland) en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        666.69,
+        521.06,
+        675.69
+      ],
+      "text": "bespreken in de regiegroep kwaliteit. Dit nemen we op als actiepunt op de actielijst van de regiegroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        679.29,
+        97.96,
+        688.29
+      ],
+      "text": "kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        704.49,
+        210.85,
+        713.49
+      ],
+      "text": "Met betrekking tot aanbeveling 4:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        717.09,
+        512.06,
+        726.09
+      ],
+      "text": "Het breder kijken bij de boetebeslissing en de motivering hiervan in de beslissingsbrief, is reeds een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        729.57,
+        537.26,
+        738.57
+      ],
+      "text": "onderkend verbeterpunt dat is opgenomen in de meetpunten in de MOK. In Q3 zullen we middels de MOK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        742.17,
+        529.7,
+        751.17
+      ],
+      "text": "de resultaten ophalen van de bijsturing op dit punt (in brede zin, niet alleen voor Verblijf Buitenland) en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        66.57,
+        521.06,
+        75.57
+      ],
+      "text": "bespreken in de regiegroep kwaliteit. Dit nemen we op als actiepunt op de actielijst van de regiegroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        79.05,
+        97.96,
+        88.05
+      ],
+      "text": "kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        56.64,
+        100.61,
+        328.51,
+        118.61
+      ],
+      "text": "3. Onderzoeksbevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        415.92,
+        152.35,
+        428.34,
+        164.51
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        153.47,
+        457.92,
+        164.51
+      ],
+      "text": "3.1 Besturend proces (sturing en kwaliteitsborging in de lijn)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        174.21,
+        540.82,
+        183.21
+      ],
+      "text": "Het behandelen van risicosignalen afkomstig uit de risicoscan Verblijf Buitenland was tot voor kort volledig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        186.81,
+        538.92,
+        195.81
+      ],
+      "text": "in handen van een projectgroep onder aansturing van een gekoppelde manager. Hierbij vervulden thema-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        199.41,
+        528.2,
+        208.41
+      ],
+      "text": "onderzoekers met ruime ervaring op het onderwerp de rol van (coachende) controleur. De projectgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        212.01,
+        481.95,
+        221.01
+      ],
+      "text": "had een beperkte omvang om zo ervaringen en verbeterpunten effectief te kunnen delen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        224.49,
+        274.37,
+        233.49
+      ],
+      "text": "medewerkers bv. in een vakinhoudelijk overleg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        249.69,
+        543.7,
+        258.69
+      ],
+      "text": "Door de controleurs werden kwaliteitsmetingen gedaan m.b.t. de eerste fase van het onderzoek tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.67,
+        262.29,
+        533.27,
+        271.29
+      ],
+      "text": "het onderzoek door de inspecteur/themaonderzoeker (WN25). Dit gold voor zowel zaken die doorgaan in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.67,
+        274.89,
+        530.27,
+        283.89
+      ],
+      "text": "het proces i.v.m. mogelijk misbruik en/of oneigenlijk gebruik als zaken waarbij het onderzoek stopgezet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.68,
+        287.37,
+        534.5,
+        296.37
+      ],
+      "text": "wordt (uitval i.v.m. niet aanpakwaardig of niet-onderzoekswaardig). Zaken die verder het proces in gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.69,
+        299.97,
+        503.15,
+        308.97
+      ],
+      "text": "(WN05/06) waarbij de objectieve en subjectieve verwijtbaarheid beoordeeld wordt, maakten geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.69,
+        312.57,
+        530.61,
+        321.57
+      ],
+      "text": "onderdeel uit van de kwaliteitsmeting door de projectgroep. Deze maken deel uit van het reguliere werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        448.86,
+        324.26,
+        458.14,
+        334.17
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.69,
+        325.17,
+        512.61,
+        334.17
+      ],
+      "text": "van de Handhavingsdeskundigen en ook van de reguliere kwaliteitsonderzoeken in de lijn door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.63,
+        337.77,
+        526.21,
+        346.77
+      ],
+      "text": "kwaliteitsregisseurs. De uitkomsten van de kwaliteitsmetingen door de controleurs van de projectgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        350.37,
+        513.26,
+        359.37
+      ],
+      "text": "werden zowel individueel (via de manager bij TO/inspectie) als in het vakinhoudelijke overleg (HHD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        362.85,
+        106.97,
+        371.85
+      ],
+      "text": "besproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        388.05,
+        505.58,
+        397.05
+      ],
+      "text": "Inmiddels is sprake van een overgangssituatie waarbij de overdracht van de behandeling van deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        400.65,
+        540.65,
+        409.65
+      ],
+      "text": "risicosignalen naar de reguliere organisatie in volle gang is o.a. middels een training voor de medewerkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        413.25,
+        509.35,
+        422.25
+      ],
+      "text": "waarin de ervaringen van de projectgroep zijn verwerkt. Hierdoor breidt de groep HHD’s, TO-ers en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.65,
+        425.85,
+        515.46,
+        434.85
+      ],
+      "text": "inspecteurs die deze risicosignalen behandelt en onderzoekt zich steeds verder uit over de districten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        450.93,
+        523.82,
+        459.93
+      ],
+      "text": "Tot op heden heeft er nog geen volledige overdracht van de projectgroep naar de reguliere organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        463.53,
+        528.1,
+        472.53
+      ],
+      "text": "plaatsgevonden in de zin dat er nog geen afspraken gemaakt zijn ten aanzien van de inrichting van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        476.13,
+        336.91,
+        485.13
+      ],
+      "text": "uniforme kwaliteitsborging van dit onderwerp in de districten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        488.73,
+        531.39,
+        497.73
+      ],
+      "text": "Daarnaast vallen de zaken afkomstig uit de risicosignalen nu in de reguliere werkvoorraad, waaruit weer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.67,
+        501.22,
+        503.57,
+        510.22
+      ],
+      "text": "een selectie wordt gemaakt voor het uitvoeren van de Meting Operationele Kwaliteit (MOK). Het is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.68,
+        513.82,
+        535.79,
+        522.82
+      ],
+      "text": "daarmee niet geborgd dat er regelmatig zaken afkomstig uit het risicosignaal VBL worden geselecteerd in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.68,
+        526.42,
+        508.01,
+        535.42
+      ],
+      "text": "de MOK en ook niet dat de kwaliteitsregisseurs die een dergelijke zaak oppakken vanuit de MOK de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.68,
+        539.02,
+        529.9,
+        548.02
+      ],
+      "text": "specifieke elementen uit de werkinstructie kennen waarop gelet moeten worden. Er zijn in de MOK geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.68,
+        551.62,
+        528.61,
+        560.62
+      ],
+      "text": "toetsvragen opgenomen ten aanzien de specifieke kenmerken van het behandelen van een risicosignaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.68,
+        564.22,
+        543.62,
+        573.22
+      ],
+      "text": "VBL. Uit interviews komt naar voren dat de districten hier nu verschillend mee omgaan en hier verschillend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.69,
+        576.7,
+        539.95,
+        585.7
+      ],
+      "text": "zicht op hebben en houden. District Randstad Noord bijvoorbeeld heeft momenteel een kwaliteitsregisseur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.7,
+        589.3,
+        532.04,
+        598.3
+      ],
+      "text": "met ervaring op dit onderwerp dedicated ingezet op de controle op VBL die deze zaken filtert uit de MOK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        601.9,
+        300.24,
+        610.9
+      ],
+      "text": "en beoordeelt, maar dit geldt niet voor alle districten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        627.1,
+        530.07,
+        636.1
+      ],
+      "text": "Gezien het bovenstaande zal de aan de projectgroep gekoppelde manager naar verwachting in Q1-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        639.58,
+        534.92,
+        648.58
+      ],
+      "text": "een voorstel ten aanzien van de (uniforme) kwaliteitsborging van de risicosignalen VBL door de districten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        652.18,
+        312.98,
+        661.18
+      ],
+      "text": "inbrengen voor het overleg van de Regiegroep Kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        664.78,
+        540.79,
+        673.78
+      ],
+      "text": "Specifiek zal in deze voorlegger ook worden meegenomen hoe moet worden omgegaan met de monitoring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        677.38,
+        545.69,
+        686.38
+      ],
+      "text": "op een correcte beoordeling van de aanpakwaardigheid (WN37). Uit de 1e lijnscontrole die op dit onderdeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        689.98,
+        532.28,
+        698.98
+      ],
+      "text": "uitgevoerd is, kwam naar voren dat een aanzienlijk deel van de gecontroleerde zaken onterecht als niet-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        702.58,
+        543.36,
+        711.58
+      ],
+      "text": "aanpakwaardig werd beoordeeld vanwege een niet lopende uitkering terwijl de uitkering nog wel liep bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        715.07,
+        537.27,
+        724.07
+      ],
+      "text": "1e beoordeling. Hier is vervolgens een beheersmaatregel op ingezet waarbij het afsluiten van dossiers als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.71,
+        727.67,
+        530.38,
+        736.67
+      ],
+      "text": "niet-aanpakwaardig via twee controleurs van de projectgroep Risicoscan Verblijf Buitenland loopt. Het is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.72,
+        740.27,
+        527.88,
+        749.27
+      ],
+      "text": "onduidelijk hoe dit risico straks beheerst gaat worden bij de volledige overdracht aan de lijnorganisatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.64,
+        67.19,
+        175.26,
+        78.23
+      ],
+      "text": "3.2 Primair proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        68.04,
+        93.93,
+        163.62,
+        102.93
+      ],
+      "text": "3.2.1 Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        109.52,
+        465.86,
+        118.52
+      ],
+      "text": "In dit onderzoek zijn 45 dossiers inhoudelijk gecontroleerd op basis van de geformuleerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        122.01,
+        540.5,
+        131.01
+      ],
+      "text": "onderzoeksvragen. In de volgende paragrafen zijn zowel de bevindingen per onderzoeksvraag opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        134.61,
+        513.48,
+        143.61
+      ],
+      "text": "als de aanvullende onderzoeksbevindingen en worden de bevindingen inhoudelijk toegelicht inclusief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        147.21,
+        456.95,
+        156.21
+      ],
+      "text": "voorbeelden om meer kleuring en duiding te geven bij de resultaten van het onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        68.05,
+        178.41,
+        142.89,
+        187.41
+      ],
+      "text": "3.2.2 Uitval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        194.01,
+        517.1,
+        203.01
+      ],
+      "text": "Onderzoeksvraag: In hoeverre is de uitval in de WN37, WN02 en WN05 plausibel, correct en conform",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        206.49,
+        204.61,
+        215.49
+      ],
+      "text": "werkinstructie gedocumenteerd?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.65,
+        230.94,
+        60.79,
+        239.94
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.65,
+        231.69,
+        279.64,
+        240.69
+      ],
+      "text": "Uitval WN37 Beoordelen aanpakwaardigheid:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.66,
+        243.38,
+        113.98,
+        253.29
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.65,
+        244.29,
+        543.21,
+        253.29
+      ],
+      "text": "Uit de lijnscontrole die op dit onderdeel uitgevoerd is, kwam naar voren dat een aanzienlijk deel van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        256.89,
+        513.91,
+        265.89
+      ],
+      "text": "de gecontroleerde zaken onterecht als niet-aanpakwaardig werden beoordeeld vanwege een niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        330.98,
+        268.46,
+        340.3,
+        278.37
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        269.37,
+        503.57,
+        278.37
+      ],
+      "text": "lopende uitkering terwijl de uitkering nog wel liep bij de beoordeling. Hier is vervolgens een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        281.97,
+        495.7,
+        290.97
+      ],
+      "text": "beheersmaatregel op ingezet waarbij het afsluiten van dossiers als niet-aanpakwaardig via 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        294.57,
+        527.91,
+        303.57
+      ],
+      "text": "controleurs van de projectgroep Risicoscan Verblijf Buitenland loopt. Het is onduidelijk hoe dit risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        307.17,
+        534.82,
+        316.17
+      ],
+      "text": "straks beheerst gaat worden bij de volledige overdracht aan de lijnorganisatie. De beheersing van dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        319.77,
+        533.46,
+        328.77
+      ],
+      "text": "risico zal onderdeel uitmaken van het voorstel met betrekking tot de beheersing van de kwaliteit van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        332.37,
+        545.47,
+        341.37
+      ],
+      "text": "de risicosignalen VBL die de aan de projectgroep gekoppelde manager naar verwachting in Q1-2023 zal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        344.85,
+        251.23,
+        353.85
+      ],
+      "text": "aanbieden aan de regiegroep kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.64,
+        369.3,
+        60.78,
+        378.3
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        370.05,
+        298.35,
+        379.05
+      ],
+      "text": "Uitval WN02 Beoordelen onderzoekswaardigheid:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        382.65,
+        517.71,
+        391.65
+      ],
+      "text": "Er zijn 10 dossiers (5 hertoets 1e lijn) gecontroleerd. Bij 2 van de 10 gecontroleerde dossiers zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.64,
+        395.25,
+        533.84,
+        404.25
+      ],
+      "text": "bevindingen gedaan. Bij het eerste dossier is niet reproduceerbaar dat alle IP-logging periodes in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        407.85,
+        540.64,
+        416.85
+      ],
+      "text": "buitenland meegenomen zijn in het onderzoek en afsluitende memo. Bij het tweede dossier is de tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        420.33,
+        377.71,
+        429.33
+      ],
+      "text": "in de afsluitende memo onvoldoende duidelijk voor de derde lezer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        445.53,
+        243.6,
+        454.53
+      ],
+      "text": "Aanvullende onderzoeksbevindingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        458.13,
+        538.28,
+        467.13
+      ],
+      "text": "In de werkinstructie is opgenomen dat wanneer er geen feitelijke aanwijzingen zijn voor niet-gemelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        470.73,
+        532.05,
+        479.73
+      ],
+      "text": "vakantie of verblijf buitenland anders dan vakantie, in een Memo moet worden vastgelegd hoe je tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        483.22,
+        542.52,
+        492.22
+      ],
+      "text": "deze conclusie gekomen bent. Nadere instructies over de diepgang van deze vastlegging ontbreken. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        495.82,
+        542.01,
+        504.82
+      ],
+      "text": "het onderzoek viel op dat de onderzochte memo’s hierdoor inhoudelijk sterk konden verschillen. In het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        508.42,
+        545.38,
+        517.42
+      ],
+      "text": "ene memo wordt ‘hoog over’ aangegeven dat uit het onderzoek geen informatie naar voren is gekomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        521.02,
+        527.01,
+        530.02
+      ],
+      "text": "dat de cliënt in het buitenland heeft verbleven. In andere memo’s wordt het uitgevoerde onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        533.62,
+        529.19,
+        542.62
+      ],
+      "text": "met meer diepgang vastgelegd (denk aan: welke systemen zijn er geraadpleegd, wat kwam hieruit)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.63,
+        546.22,
+        419.54,
+        555.22
+      ],
+      "text": "waardoor het uitgevoerde onderzoek beter te volgen is voor de derde-lezer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        558.7,
+        501.96,
+        567.7
+      ],
+      "text": "@Het advies is om bij het vaststellen dat een zaak niet onderzoekswaardig is in de WN02, het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        571.3,
+        533.46,
+        580.3
+      ],
+      "text": "afsluitende Memo dusdanig in te vullen dat de diepgang van het onderzoek herleidbaar is (denk aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        583.9,
+        322.97,
+        592.9
+      ],
+      "text": "welke systemen zijn geraadpleegd, wat kwam hieruit).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.62,
+        608.35,
+        60.76,
+        617.35
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        609.1,
+        311.89,
+        618.1
+      ],
+      "text": "Uitval WN05 Beoordelen objectieve verwijtbaarheid:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        621.58,
+        541.23,
+        630.58
+      ],
+      "text": "Er zijn 10 dossiers gecontroleerd. Bij 2 van de 10 gecontroleerde dossiers zijn bevindingen gedaan. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        634.18,
+        544.01,
+        643.18
+      ],
+      "text": "één dossier is in het motivatieformulier geen onderbouwing opgenomen waarom de cliënt niet objectief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.62,
+        646.78,
+        397.95,
+        655.78
+      ],
+      "text": "verwijtbaar is. Bij het tweede dossier ontbreekt het motivatieformulier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        68.02,
+        665.39,
+        236.07,
+        674.39
+      ],
+      "text": "3.2.3 Bureauonderzoek WN02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.62,
+        680.98,
+        508.89,
+        689.98
+      ],
+      "text": "Onderzoeksvraag: In hoeverre is de conclusie van het bureauonderzoek (WN02) plausibel en alleen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.62,
+        693.58,
+        509.21,
+        702.58
+      ],
+      "text": "gebaseerd op feitelijke aanwijzingen voor niet gemelde vakantie of (langdurig of veelvuldig) verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.62,
+        706.07,
+        204.47,
+        715.07
+      ],
+      "text": "buitenland anders dan vakantie?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        66.57,
+        537.88,
+        75.57
+      ],
+      "text": "Bij alle 25 onderzochte dossiers is vastgesteld dat de conclusie van het bureauonderzoek uitgevoerd in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        79.05,
+        531.82,
+        88.05
+      ],
+      "text": "WN02 overall plausibel was en alleen gebaseerd op feitelijke aanwijzingen voor niet gemelde vakantie of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        91.65,
+        237.54,
+        100.65
+      ],
+      "text": "verblijf buitenland anders dan vakantie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        116.85,
+        225.62,
+        125.85
+      ],
+      "text": "Aanvullende onderzoeksbevindingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        129.45,
+        527.81,
+        138.45
+      ],
+      "text": "In de werkinstructie is opgenomen dat het van belang is een uitgebreid bureau-onderzoek uit te voeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.63,
+        142.05,
+        531.8,
+        151.05
+      ],
+      "text": "waarbij alle relevante UWV-systemen, Suwinet en IP-loggingsgegevens worden geraadpleegd om een zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.62,
+        154.53,
+        524.72,
+        163.53
+      ],
+      "text": "compleet mogelijk cliëntbeeld op te bouwen en zo feitelijk mogelijk vast te kunnen stellen dat de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.63,
+        167.13,
+        301.97,
+        176.13
+      ],
+      "text": "mogelijk in het buitenland verblijft of heeft verbleven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        179.72,
+        526.46,
+        188.73
+      ],
+      "text": "Suwinet Inkijk raadpleeg je om je een beeld van de cliënt te vormen. Als je de gegevens los van elkaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        439.28,
+        190.12,
+        486.64,
+        196.12
+      ],
+      "text": "art. 5.1. lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        192.33,
+        437.16,
+        201.33
+      ],
+      "text": "bekijkt, zegt het niet zoveel. Echter in samenhang ontstaat een beeld van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        242.61,
+        536.53,
+        251.61
+      ],
+      "text": "In het onderzoek is vastgesteld dat op basis van Suwinet Inkijk een viertal elementen onderbelicht zijn in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        255.21,
+        537.14,
+        264.21
+      ],
+      "text": "de uitgevoerde onderzoeken omdat nut en noodzaak van deze onderzoekselementen onduidelijk zijn voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        267.81,
+        542.79,
+        276.81
+      ],
+      "text": "de betrokken HHD blijkens de vastlegging in de onderzoeksopdracht. Het gaat om de volgende elementen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        278.61,
+        58.98,
+        284.61
+      ],
+      "text": "a",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        285.81,
+        59.31,
+        291.81
+      ],
+      "text": "rt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        293.01,
+        57.31,
+        299.01
+      ],
+      "text": ".",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        300.21,
+        58.98,
+        306.21
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        307.41,
+        57.31,
+        313.41
+      ],
+      "text": ".",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        314.61,
+        58.98,
+        320.61
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        321.81,
+        57.31,
+        327.81
+      ],
+      "text": ".",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        329.01,
+        58.3,
+        335.01
+      ],
+      "text": "li",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        336.21,
+        58.98,
+        342.21
+      ],
+      "text": "d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        343.41,
+        58.98,
+        349.41
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        350.61,
+        58.64,
+        356.61
+      ],
+      "text": "s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        357.81,
+        58.98,
+        363.81
+      ],
+      "text": "u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        365.01,
+        58.98,
+        371.01
+      ],
+      "text": "b",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        55.64,
+        372.21,
+        56.97,
+        378.21
+      ],
+      "text": "i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        68.04,
+        412.17,
+        280.74,
+        421.17
+      ],
+      "text": "3.2.4 Onderzoek toezichthouder WN25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.65,
+        427.76,
+        521.14,
+        436.76
+      ],
+      "text": "Onderzoeksvraag: Is op passende/proportionele wijze en zonder vooringenomenheid onderzocht of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.65,
+        440.25,
+        543.93,
+        449.25
+      ],
+      "text": "cliënt zonder dit te melden in het buitenland heeft verbleven hetzij voor een vakantie of een verblijf anders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.57,
+        452.56,
+        125.47,
+        463.89
+      ],
+      "text": "vakantie?1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.65,
+        454.89,
+        73.38,
+        463.89
+      ],
+      "text": "dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        480.09,
+        511.38,
+        489.09
+      ],
+      "text": "Bij geen van de 25 onderzochte dossiers zijn aanwijzingen van vooringenomenheid in het kader van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.63,
+        492.57,
+        304.6,
+        501.57
+      ],
+      "text": "verblijf in het buitenland richting de cliënt vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        505.17,
+        529.14,
+        514.17
+      ],
+      "text": "Wel is bij diverse cases vastgesteld dat het onderzoek niet volledig is. Hierdoor bestaat het risico dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        517.77,
+        543.0,
+        526.77
+      ],
+      "text": "verblijfsperiode in werkelijkheid anders/langer is geweest dan in het onderzoek is vastgesteld wat mogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        530.37,
+        329.13,
+        539.37
+      ],
+      "text": "invloed heeft op de opgelegde sanctie en/of terugvordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        542.97,
+        542.61,
+        551.97
+      ],
+      "text": "Daarnaast zijn de gehanteerde onderzoeksmethoden niet altijd in lijn met de werkinstructie en in sommige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        555.57,
+        519.95,
+        564.57
+      ],
+      "text": "gevallen minder proportioneel waarbij sprake lijkt te zijn van onvoldoende bekendheid met de actuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        568.05,
+        538.34,
+        577.05
+      ],
+      "text": "specifieke aspecten van de werkinstructie Verblijf Buitenland ten opzichte van de ‘gebruikelijke’ werkwijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        580.65,
+        128.21,
+        589.65
+      ],
+      "text": "in het verleden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        605.11,
+        60.78,
+        614.11
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.64,
+        605.85,
+        539.51,
+        614.85
+      ],
+      "text": "In diverse cases is de verblijfsperiode vastgesteld op basis van de mondelinge verklaring van de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.64,
+        618.45,
+        529.77,
+        627.45
+      ],
+      "text": "in combinatie met de IP-loggingsgegevens maar zonder banktransacties op te vragen ter verificatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.64,
+        630.94,
+        539.84,
+        639.94
+      ],
+      "text": "Hierdoor bestaat het risico dat de verblijfsperiode in werkelijkheid anders/langer is geweest dan in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.64,
+        643.54,
+        523.5,
+        652.54
+      ],
+      "text": "onderzoek is vastgesteld wat mogelijk invloed heeft op de opgelegde sanctie en/of terugvordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        655.39,
+        60.78,
+        664.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.64,
+        656.14,
+        517.64,
+        665.14
+      ],
+      "text": "In de werkinstructie wordt aangegeven dat het uitdrukkelijk niet de bedoeling is de cliënt thuis te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.63,
+        668.74,
+        537.09,
+        677.74
+      ],
+      "text": "bezoeken. Als de cliënt een lopende uitkering heeft, kan de uitnodigingsbrief verstuurd worden of aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.64,
+        681.34,
+        539.62,
+        690.34
+      ],
+      "text": "de cliënt overhandigd worden op zijn verblijfsadres. Overhandigen op het verblijfsadres is aan de orde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.63,
+        693.94,
+        507.75,
+        702.94
+      ],
+      "text": "als je weet dat een cliënt niet op het bij UWV bekende adres verblijft of als dat niet duidelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        738.81,
+        61.11,
+        746.85
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        64.44,
+        741.81,
+        545.82,
+        749.85
+      ],
+      "text": "Op basis van voortschrijdend inzicht is de oorspronkelijke toetsvraag aangepast naar deze variant die de lading van het onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        84.96,
+        755.85,
+        273.07,
+        763.89
+      ],
+      "text": "beter dekt, zie ook de verklaring hiervoor in Bijlage 1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        66.57,
+        531.28,
+        75.57
+      ],
+      "text": "Bij diverse cases valt op dat de onderzoeker direct ervoor kiest de brief te overhandigen of achter te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        79.05,
+        495.69,
+        88.05
+      ],
+      "text": "laten op het huisadres zonder eerst een uitnodigingsbrief te versturen. In één geval geeft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        91.65,
+        540.22,
+        100.65
+      ],
+      "text": "onderzoeker de cliënt direct bij de deur de cautie en stelt vragen over het verblijf in het buitenland. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        104.25,
+        533.95,
+        113.25
+      ],
+      "text": "twee gevallen vindt echt een huisbezoek plaats waarin het gesprek met de cliënt plaats vindt, beiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        116.85,
+        366.89,
+        125.85
+      ],
+      "text": "wel met een door de cliënt ondertekend toestemmingsformulier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.65,
+        128.7,
+        60.79,
+        137.7
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        129.45,
+        524.54,
+        138.45
+      ],
+      "text": "In de werkinstructie wordt aangegeven dat zowel bij het onderzoek naar niet gemeld verblijf in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        142.05,
+        539.76,
+        151.05
+      ],
+      "text": "buitenland als bij ongemelde vakantie in het cliëntgesprek de cautie moet worden gegeven. In diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        154.53,
+        270.77,
+        163.53
+      ],
+      "text": "cases is niet herleidbaar dat dit is gebeurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.65,
+        166.39,
+        60.79,
+        175.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        167.13,
+        541.72,
+        176.13
+      ],
+      "text": "Ook is in enkele gevallen sprake van het opvragen van te veel bewijsmiddelen in een te vroeg stadium",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        179.73,
+        536.23,
+        188.73
+      ],
+      "text": "van het onderzoek, denk hierbij aan het opvragen bij de uitnodiging van niet alleen de bankgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        192.33,
+        538.46,
+        201.33
+      ],
+      "text": "maar ook al van het huurcontract, bewijs dat de cliënt een zorgverzekering heeft en naast het geldige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        204.93,
+        510.81,
+        213.93
+      ],
+      "text": "identiteitsbewijs ook nog een specifieke uitvraag naar een geldig paspoort. Of het opvragen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        217.53,
+        541.76,
+        226.53
+      ],
+      "text": "uitgebreide gegevens bij de ex-werkgever van de cliënt voordat de cliënt op gesprek is geweest en bv.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        230.02,
+        473.54,
+        239.02
+      ],
+      "text": "bankgegevens heeft kunnen laten zien. In het eerste stadium van onderzoek zijn de IP-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        242.62,
+        535.27,
+        251.62
+      ],
+      "text": "logginggegevens in combinatie met de banktransacties van de cliënt en evt. het gespek met de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        255.22,
+        431.38,
+        264.22
+      ],
+      "text": "vaak al ruim voldoende voor de beeldvorming in het kader van het onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.64,
+        267.07,
+        60.78,
+        276.07
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        267.82,
+        539.25,
+        276.82
+      ],
+      "text": "Daarnaast komt het voor dat bankgegevens worden gevorderd bij een derde voordat deze eerst bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        280.42,
+        177.88,
+        289.42
+      ],
+      "text": "cliënt zijn opgevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.64,
+        292.15,
+        60.78,
+        301.15
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.64,
+        292.9,
+        545.06,
+        301.9
+      ],
+      "text": "Ook is in één geval de cliënt niet bereikt op basis van de eerste uitnodigingsbrief en is in plaats van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        305.5,
+        509.5,
+        314.5
+      ],
+      "text": "versturen van een herhaalde uitnodiging de brief bestemd voor weigerachtige cliënten gestuurd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        318.1,
+        520.61,
+        327.1
+      ],
+      "text": "waarin onder meer strafrechtelijke vervolging door het OM als stok achter de deur wordt vermeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        329.95,
+        60.8,
+        338.95
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        330.7,
+        536.21,
+        339.7
+      ],
+      "text": "In de werkinstructie VBL staat als uitgangspunt dat geen iRN-onderzoek aangevraagd wordt en er via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        343.3,
+        527.72,
+        352.3
+      ],
+      "text": "de laptop of desktop niet op internet gezocht worden naar gegevens van de cliënt. Toch is er in één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        355.9,
+        393.77,
+        364.9
+      ],
+      "text": "geval een iRN onderzoek uitgevoerd naar de activiteiten van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.65,
+        367.64,
+        60.79,
+        376.64
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        368.38,
+        525.22,
+        377.38
+      ],
+      "text": "Bij sommige cliënten is sprake van een combinatie van de hierboven gemelde zaken en is daarmee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        380.98,
+        500.51,
+        389.98
+      ],
+      "text": "sprake van ‘overkill’ in de onderzoeksmethode. De werkwijze in deze cases is niet conform de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        393.58,
+        527.64,
+        402.58
+      ],
+      "text": "werkinstructie maar uit deze dossiers komen geen aanwijzingen naar voren dat hier sprake zou zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.65,
+        406.18,
+        544.57,
+        415.18
+      ],
+      "text": "van bias richting de cliënt in het kader van verblijf in het buitenland. Hier lijkt eerder sprake te zijn van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        418.78,
+        536.8,
+        427.78
+      ],
+      "text": "onvoldoende bekendheid met de actuele specifieke aspecten van de werkinstructie Verblijf Buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.66,
+        431.27,
+        352.53,
+        440.27
+      ],
+      "text": "ten opzichte van de ‘gebruikelijke’ werkwijze in het verleden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        68.06,
+        462.47,
+        453.47,
+        471.47
+      ],
+      "text": "3.2.5 Objectieve verwijtbaarheid (WN05) en afhandelen rapport (WN06)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.67,
+        478.07,
+        542.34,
+        487.07
+      ],
+      "text": "Onderzoeksvraag: Is de vaststelling van de objectieve en subjectieve verwijtbaarheid plausibel en passend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.67,
+        490.67,
+        197.42,
+        499.67
+      ],
+      "text": "bij het uitgevoerde onderzoek?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.67,
+        515.75,
+        527.02,
+        524.75
+      ],
+      "text": "Bij geen van de 25 onderzochte dossiers zijn aanwijzingen aangetroffen van vooringenomenheid bij het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.67,
+        528.35,
+        544.99,
+        537.35
+      ],
+      "text": "beoordelen van de objectieve en subjectieve verwijtbaarheid in het kader van het verblijf in het buitenland.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.68,
+        540.95,
+        534.41,
+        549.95
+      ],
+      "text": "Bij 3 van de 25 onderzochte dossiers zijn bevindingen gedaan ten aanzien van de de passendheid van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.68,
+        553.55,
+        421.36,
+        562.55
+      ],
+      "text": "vaststelling van de objectieve en/of subjectieve verwijtbaarheid in de WN05/06:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.68,
+        565.4,
+        60.82,
+        574.4
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.68,
+        566.15,
+        528.23,
+        575.15
+      ],
+      "text": "Bij één dossier is de cliënt zowel objectief als subjectief verwijtbaar geacht terwijl uit het onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.68,
+        578.75,
+        526.55,
+        587.75
+      ],
+      "text": "naar een klacht hierover naar voren kwam dat de cliënt niets te verwijten viel. Hier was sprake van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.68,
+        591.23,
+        541.22,
+        600.23
+      ],
+      "text": "een niet correcte interpretatie van het onderzoeksrapport door beide betrokken HHD’s. Nadat de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.68,
+        603.83,
+        478.71,
+        612.83
+      ],
+      "text": "bezwaar heeft ingediend en het daaropvolgende onderzoek afgerond was is de beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.69,
+        616.43,
+        141.46,
+        625.43
+      ],
+      "text": "teruggedraaid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.69,
+        628.28,
+        60.83,
+        637.28
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.69,
+        629.03,
+        505.62,
+        638.03
+      ],
+      "text": "Opmerkelijk in het onderzoek waren twee vrijwel identieke zaken waarbij beide cliënten na het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.7,
+        641.63,
+        543.38,
+        650.63
+      ],
+      "text": "verstrekken van de WW-uitkering naar het buitenland vertrokken zijn, het niet gelukt is om de cliënten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.7,
+        654.11,
+        544.01,
+        663.11
+      ],
+      "text": "te spreken en als bewijsmiddelen alleen de IP-logging in combinatie met de gevorderde bank gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.7,
+        666.71,
+        400.04,
+        675.71
+      ],
+      "text": "(die alleen pintransacties in het buitenland laten zien) beschikbaar zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.03,
+        679.31,
+        532.73,
+        688.31
+      ],
+      "text": "Bij de ene cliënt is besloten dat het aannemelijk is dat de cliënt in het buitenland verbleef met een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        67.03,
+        682.71,
+        72.43,
+        691.71
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.04,
+        691.91,
+        509.13,
+        700.91
+      ],
+      "text": "terugvordering tot gevolg en is de motivatie hiervoor herleidbaar uit de motivatie subjectieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.04,
+        704.51,
+        158.88,
+        713.51
+      ],
+      "text": "verwijtbaarheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.04,
+        717.11,
+        509.31,
+        726.11
+      ],
+      "text": "Bij de andere cliënt echter is het verblijf in het buitenland aantoonbaar geacht met zowel een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        67.04,
+        720.51,
+        72.44,
+        729.51
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.04,
+        729.6,
+        534.29,
+        738.6
+      ],
+      "text": "terugvordering als een boete tot gevolg. Voor het aantoonbaar achten van verblijf buitenland geldt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.04,
+        742.2,
+        534.09,
+        751.2
+      ],
+      "text": "een zwaardere bewijslast als bij het aannemelijk achten. Aantonen houdt in dat in redelijkheid niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        85.04,
+        754.8,
+        517.05,
+        763.8
+      ],
+      "text": "kan worden getwijfeld aan de juistheid van het verwijt dat de verdachte wordt gemaakt. Uit de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        547.68,
+        815.44,
+        552.79,
+        823.48
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.96,
+        66.57,
+        543.93,
+        75.57
+      ],
+      "text": "motivatie subjectieve verwijtbaarheid bij deze casus is niet herleidbaar op basis van welke bewijslast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.96,
+        79.05,
+        292.12,
+        88.05
+      ],
+      "text": "het verblijf buitenland aantoonbaar is geacht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.96,
+        104.25,
+        542.53,
+        113.25
+      ],
+      "text": "@Voor verdere vakmanschapsontwikkeling en bevorderen van een zoveel mogelijk uniforme afhandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.96,
+        116.85,
+        535.89,
+        125.85
+      ],
+      "text": "van vergelijkbare zaken is het van belang regelmatig casusoverleggen te houden. Zoals genoemd is dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.97,
+        129.45,
+        504.59,
+        138.45
+      ],
+      "text": "niet specifiek aan deze risico scan te koppelen maar lijkt een breder thema mbt kwaliteit te zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.65,
+        154.53,
+        225.63,
+        163.53
+      ],
+      "text": "Aanvullende onderzoeksbevindingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.65,
+        166.39,
+        60.79,
+        175.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        167.13,
+        545.32,
+        176.13
+      ],
+      "text": "Bij een aantal dossiers valt bij de bepaling van de subjectieve verwijtbaarheid in de WN06 op dat wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        179.73,
+        515.02,
+        188.73
+      ],
+      "text": "aangegeven dat de cliënt niet gereageerd heeft op het voornemen een boete op te leggen. Strikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        192.33,
+        535.34,
+        201.33
+      ],
+      "text": "genomen klopt dit maar bij deze dossiers heeft de cliënt in het eerdere gesprek met de inspecteur én",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        204.93,
+        513.03,
+        213.93
+      ],
+      "text": "soms ook in een nagekomen reactie wel een reactie/weerwoord gegeven. Het lijkt daarom in die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        217.53,
+        536.46,
+        226.53
+      ],
+      "text": "gevallen te kort door de bocht om alleen de focus te leggen op een evt. reactie van de klant n.a.v. de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        230.02,
+        504.86,
+        239.02
+      ],
+      "text": "aankondigingsbrief. Het is daarom van belang om bij het nemen van de boetebeslissing en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        242.62,
+        539.97,
+        251.62
+      ],
+      "text": "motiveren hiervan in de beslissingsbrief breder te kijken en in de argumentatie bij de beslissing ook in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        255.22,
+        479.98,
+        264.22
+      ],
+      "text": "te gaan op de eerder in het proces gegeven verklaring/argumenten/reactie van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        68.05,
+        286.42,
+        340.61,
+        295.42
+      ],
+      "text": "3.2.6 Overige aanvullende onderzoeksbevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        301.9,
+        494.68,
+        310.9
+      ],
+      "text": "De onderstaande overige aanvullende onderzoeksbevindingen vielen als ‘bijvangst’ op tijdens de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        314.5,
+        129.5,
+        323.5
+      ],
+      "text": "dossiercontrole:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        326.35,
+        60.8,
+        335.35
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.66,
+        327.1,
+        542.03,
+        336.1
+      ],
+      "text": "In één dossier waar het gesprek met de cliënt heeft plaatsgevonden tijdens een huisbezoek, viel in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.66,
+        339.7,
+        540.04,
+        348.7
+      ],
+      "text": "gespreksverslag op dat de vragen gedrukt waren en dat de antwoorden op de vragen handgeschreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.66,
+        352.3,
+        436.73,
+        361.3
+      ],
+      "text": "waren, onduidelijk is of dit het handschrift van de cliënt is of van de inspecteur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.65,
+        364.15,
+        60.79,
+        373.15
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.65,
+        364.9,
+        508.21,
+        373.9
+      ],
+      "text": "AVG: in diverse dossiers is geconstateerd dat er expliciet gevraagd wordt naar de reden van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.66,
+        377.38,
+        514.22,
+        386.38
+      ],
+      "text": "ziekmelding van de cliënt en/of dat de gezondheidstoestand te expliciet wordt opgenomen in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.67,
+        389.98,
+        110.23,
+        398.98
+      ],
+      "text": "dossier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.68,
+        401.84,
+        60.82,
+        410.84
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.68,
+        402.58,
+        492.95,
+        411.58
+      ],
+      "text": "In de motivatie subjectieve verwijtbaarheid staat dat als mate van verwijtbaarheid 'normaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.68,
+        415.18,
+        539.87,
+        424.18
+      ],
+      "text": "verwijtbaar 50%' wordt toegepast, dit matcht niet met het feit dat een waarschuwing wordt opgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.68,
+        427.04,
+        60.82,
+        436.04
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.68,
+        427.78,
+        443.84,
+        436.78
+      ],
+      "text": "Bij één dossier staan 2 IP-loggingsbestanden in EA: één is van een andere cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.68,
+        439.52,
+        60.82,
+        448.52
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.68,
+        440.27,
+        544.18,
+        449.27
+      ],
+      "text": "Bij twee dossiers valt op dat in het gespreksverslag staat dat de inspecteur zich gelegitimeerd heeft als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.68,
+        452.87,
+        522.59,
+        461.87
+      ],
+      "text": "medewerker UWV. Niet duidelijk is hoe dit heeft plaatsgevonden aangezien het om een telefonisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.69,
+        465.47,
+        142.65,
+        474.47
+      ],
+      "text": "interview gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.69,
+        477.32,
+        60.83,
+        486.32
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.69,
+        478.07,
+        536.47,
+        487.07
+      ],
+      "text": "Bij het versturen van correctiebrieven n.a.v. een eerdere foutieve berekening van het teveel betaalde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.69,
+        490.67,
+        535.55,
+        499.67
+      ],
+      "text": "bedrag en de boete is bij de gecorrigeerde boetebeslissing in de toelichting op de beslissing verzuimd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.69,
+        503.27,
+        518.02,
+        512.27
+      ],
+      "text": "de momenten te vermelden waarop UWV de cliënt heeft laten weten wat haar verplichtingen zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.69,
+        515.0,
+        60.83,
+        524.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.69,
+        515.75,
+        541.68,
+        524.75
+      ],
+      "text": "De inspecteur geeft bij één dossier in het onderzoeksrapport aan dat tijdens het proces van uitnodigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.69,
+        528.35,
+        496.53,
+        537.35
+      ],
+      "text": "van de cliënt voor een gesprek ook bleek dat de cliënt twee weken in Italie zat. Uit EA is niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.7,
+        540.95,
+        542.89,
+        549.95
+      ],
+      "text": "herleidbaar dat dit verblijf buitenland gemeld is door cliënt maar dit verblijf is ook niet meegenomen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.7,
+        553.55,
+        142.66,
+        562.55
+      ],
+      "text": "het onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.7,
+        565.4,
+        60.84,
+        574.4
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.7,
+        566.15,
+        533.86,
+        575.15
+      ],
+      "text": "Door de inspecteur is een vragenformulier gehanteerd die naar de cliënt is verstuurd om in te vullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.71,
+        578.75,
+        500.09,
+        587.75
+      ],
+      "text": "Dit is niet conform de werkinstructie, maar waarschijnlijk bedoeld als maatwerk aangezien de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.71,
+        591.23,
+        477.71,
+        600.23
+      ],
+      "text": "inspecteur aangeeft dit gedaan te hebben omdat de cliënt inmiddels weer fulltime werkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.71,
+        616.43,
+        525.43,
+        625.43
+      ],
+      "text": "@Het advies om de aanvullende onderzoeksbevindingen te delen en te bespreken met de managers en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.71,
+        629.03,
+        508.13,
+        638.03
+      ],
+      "text": "medewerkers op de kantoren, bv. in het vakinhoudelijk overleg, werkoverleg, casusoverleggen etc.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        547.68,
+        815.44,
+        557.96,
+        823.48
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        56.64,
+        69.53,
+        334.26,
+        87.53
+      ],
+      "text": "Bijlage 1: Onderzoeksopzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        122.27,
+        189.45,
+        133.31
+      ],
+      "text": "3.3 Opzet onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        143.01,
+        525.84,
+        152.01
+      ],
+      "text": "De onderzoeksopzet is afgestemd met het hoofd BC&K (opdrachtgever), de portefeuillehouder kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.65,
+        155.61,
+        535.24,
+        164.61
+      ],
+      "text": "(districtsmanager Randstad Noord) namens de toenmalige directeur Uitvoering en met het hoofd R&I. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.65,
+        168.21,
+        386.05,
+        177.21
+      ],
+      "text": "opzet is ter informatie aangeboden aan het DT-overleg van 30-05-2022.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        193.52,
+        425.31,
+        204.56
+      ],
+      "text": "Als leidraad voor het onderzoek zijn de volgende onderzoeksvragen geformuleerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        68.04,
+        214.77,
+        201.77,
+        223.77
+      ],
+      "text": "3.3.1 Besturend proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.65,
+        229.62,
+        60.79,
+        238.62
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        230.36,
+        535.56,
+        239.36
+      ],
+      "text": "In hoeverre wordt gestuurd en gemonitord door het verantwoordelijke management op het mitigeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        242.96,
+        518.04,
+        251.96
+      ],
+      "text": "van het risico dat medewerkers de cliënten op de signaallijst al beschouwen als ‘regelovertreders’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        255.56,
+        339.24,
+        264.56
+      ],
+      "text": "terwijl dit nog vastgesteld moet worden in het onderzoek?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.65,
+        267.42,
+        60.79,
+        276.42
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        268.16,
+        525.56,
+        277.16
+      ],
+      "text": "Wordt er ook een operationele kwaliteitsmeting door de 1e lijn op dit onderwerp uitgevoerd en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        280.76,
+        255.24,
+        289.76
+      ],
+      "text": "welke frequentie, prioriteit en kwaliteit?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.65,
+        292.5,
+        60.79,
+        301.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        293.25,
+        537.58,
+        302.25
+      ],
+      "text": "In hoeverre is de operationele kwaliteitsmeting op het juiste detailniveau ingericht op het toetsen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        305.85,
+        421.14,
+        314.85
+      ],
+      "text": "de naleving van de werkinstructie ‘Risicoscan Verblijf Buitenland’, denk aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        110.65,
+        318.45,
+        502.46,
+        327.45
+      ],
+      "text": "WN02: Het raadplegen van alle relevante systemen om gegevens te verzamelen en te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        92.65,
+        321.84,
+        98.05,
+        330.84
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        110.65,
+        331.05,
+        167.78,
+        340.05
+      ],
+      "text": "combineren;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        110.65,
+        343.65,
+        536.96,
+        352.65
+      ],
+      "text": "WN25: Correcte naleving van de in de werkinstructie genoemde deelgebieden/sub paragrafen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        92.65,
+        347.04,
+        98.05,
+        356.04
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        110.65,
+        356.13,
+        338.07,
+        365.13
+      ],
+      "text": "ten aanzien van het uitvoeren van het onderzoek;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        110.65,
+        368.73,
+        528.94,
+        377.73
+      ],
+      "text": "WN05 en WN06: Correcte naleving van de in de werkinstructie genoemde deelgebieden/sub",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        92.65,
+        372.12,
+        98.05,
+        381.12
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        110.65,
+        381.33,
+        520.41,
+        390.33
+      ],
+      "text": "paragrafen ten aanzien van het bepalen van de objectieve en subjectieve verwijtbaarheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.65,
+        393.18,
+        60.79,
+        402.18
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        393.93,
+        508.74,
+        402.93
+      ],
+      "text": "Hoe en aan wie wordt gerapporteerd over de uitkomsten van de 1e lijns-kwaliteitsmeting op dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        406.53,
+        127.78,
+        415.53
+      ],
+      "text": "onderwerp?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        418.38,
+        60.78,
+        427.38
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        419.13,
+        535.67,
+        428.13
+      ],
+      "text": "Hoe wordt opvolging gegeven aan de uitkomsten van een 1e lijns-kwaliteitsmeting op dit onderwerp?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        430.87,
+        60.78,
+        439.87
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        431.61,
+        445.7,
+        440.61
+      ],
+      "text": "In hoeverre wordt de PDCA-cyclus op effectieve wijze rond gemaakt in de 1e lijn?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        68.04,
+        465.69,
+        187.13,
+        474.69
+      ],
+      "text": "3.3.2 Primair proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        188.29,
+        480.38,
+        197.62,
+        490.29
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        481.29,
+        475.21,
+        490.29
+      ],
+      "text": "Op basis van interviews met lijns-controleurs projectgroep Risicoscan Verblijf Buitenland:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        493.14,
+        60.78,
+        502.14
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        493.89,
+        535.83,
+        502.89
+      ],
+      "text": "In hoeverre zijn de betrokken medewerkers op de hoogte van het risico op vooringenomenheid en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        506.37,
+        333.72,
+        515.37
+      ],
+      "text": "werkinstructie en hoe handelen zij hiernaar (interviews)?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        534.45,
+        540.73,
+        543.45
+      ],
+      "text": "Op basis van dossiercontrole (hertoetsing van in 1e lijns-controle betrokken dossiers, indien beschikbaar):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        559.53,
+        82.51,
+        568.53
+      ],
+      "text": "Uitval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        571.38,
+        60.78,
+        580.38
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        572.13,
+        516.26,
+        581.13
+      ],
+      "text": "In hoeverre is de uitval in de WN37, WN02 en WN05 plausibel, correct en conform werkinstructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        584.73,
+        529.53,
+        593.73
+      ],
+      "text": "gedocumenteerd? (Deze vraag is op basis van voortschrijdend inzicht in het onderwerp toegevoegd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        597.33,
+        197.9,
+        606.33
+      ],
+      "text": "gedurende het onderzoek.)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        622.52,
+        194.24,
+        633.56
+      ],
+      "text": "Bureauonderzoek (WN02):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        637.14,
+        60.78,
+        646.14
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        637.89,
+        505.47,
+        646.89
+      ],
+      "text": "In hoeverre is de conclusie van het bureauonderzoek (WN02) plausibel en alleen gebaseerd op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        650.49,
+        513.98,
+        659.49
+      ],
+      "text": "feitelijke aanwijzingen voor niet gemelde vakantie of (langdurig of veelvuldig) verblijf buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        663.09,
+        171.82,
+        672.09
+      ],
+      "text": "anders dan vakantie?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        688.17,
+        165.73,
+        697.17
+      ],
+      "text": "Onderzoek (WN25):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        700.02,
+        60.78,
+        709.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        700.77,
+        536.7,
+        709.77
+      ],
+      "text": "Is in het onderzoek op plausibele wijze aannemelijk gemaakt of aangetoond dat de cliënt langdurig of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.64,
+        713.37,
+        526.65,
+        722.37
+      ],
+      "text": "veelvuldig in het buitenland heeft verbleven anders dan vakantie? In het kader van voortschrijdend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        725.97,
+        519.7,
+        734.97
+      ],
+      "text": "inzicht is gedurende het onderzoek gebleken dat het beter was geweest de toetsvraag als volgt te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        738.57,
+        540.09,
+        747.57
+      ],
+      "text": "formuleren: ‘Is op passende/proportionele wijze en zonder vooringenomenheid onderzocht of de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.65,
+        751.05,
+        534.68,
+        760.05
+      ],
+      "text": "zonder dit te melden in het buitenland heeft verbleven hetzij voor een vakantie of een verblijf anders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        547.68,
+        815.44,
+        557.96,
+        823.48
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.64,
+        66.57,
+        533.86,
+        75.57
+      ],
+      "text": "dan vakantie?’ In het onderzoek is dit onderdeel wel met deze strekking getoetst. De oorspronkelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.65,
+        79.05,
+        527.01,
+        88.05
+      ],
+      "text": "toetsvraag wekt de indruk dat bij ieder dossier in de deelwaarneming sprake was van een cliënt die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.65,
+        91.65,
+        503.27,
+        100.65
+      ],
+      "text": "ongemeld in het buitenland heeft verbleven. Dit is echter in het onderzoek nog vast te stellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.64,
+        116.85,
+        376.84,
+        125.85
+      ],
+      "text": "Objectieve verwijtbaarheid (WN05) en afhandelen rapport (WN06)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.64,
+        128.7,
+        60.78,
+        137.7
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.64,
+        129.45,
+        506.78,
+        138.45
+      ],
+      "text": "Is de vaststelling van de objectieve en subjectieve verwijtbaarheid plausibel en passend bij het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.64,
+        141.93,
+        183.36,
+        150.93
+      ],
+      "text": "uitgevoerde onderzoek?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.64,
+        167.13,
+        488.74,
+        176.13
+      ],
+      "text": "Het primaire proces is getoetst op basis van een kwalitatieve deelwaarneming van 45 dossiers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.64,
+        187.65,
+        435.62,
+        196.65
+      ],
+      "text": "(De onderzoeksresultaten op dossierniveau zijn beschikbaar bij de afdeling BC&K. )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        547.68,
+        815.44,
+        557.96,
+        823.48
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.64,
+        825.04,
+        397.39,
+        833.08
+      ],
+      "text": "Rapportage kwaliteitstoets op het gebruik van de risicoscan Verblijf Buitenland 2022",
+      "source": "text"
+    }
+  ]
+}

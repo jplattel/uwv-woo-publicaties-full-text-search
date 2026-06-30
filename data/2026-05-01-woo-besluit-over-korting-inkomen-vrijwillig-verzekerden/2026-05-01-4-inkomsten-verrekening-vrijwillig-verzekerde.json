@@ -1,0 +1,989 @@
+{
+  "source_id": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden/2026-05-01-4-inkomsten-verrekening-vrijwillig-verzekerde",
+  "publication_slug": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_slug": "2026-05-01-4-inkomsten-verrekening-vrijwillig-verzekerde",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/80d0e3ff-6f01-4f2d-bee1-2cb2525fa629/4-inkomsten-verrekening-vrijwillig-verzekerde.pdf",
+  "publication_title": "Woo-besluit over korting inkomen vrijwillig verzekerden",
+  "publication_date": "2026-05-01T06:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 4. Inkomsten verrekening vrijwillig verzekerde (PDF, 177 kB)",
+  "retrieved_at": "2026-06-30T11:24:28+00:00",
+  "sha256": "f45fa2f33df86ea7d986830e2bd3eca45d154bfc7015c5ecfe86a0185901e740",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        650.75,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UC » Afhandelen inkomstenkorting » Verwerken inkomsten » Inkomstenverrekening vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        288.0,
+        316.73,
+        313.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        342.0,
+        466.31,
+        363.0
+      ],
+      "text": "Inkomstenverrekening vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        390.0,
+        768.74,
+        401.25
+      ],
+      "text": "Map ‘Berekenen inkomsten per dag’ Bepalen duur korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        410.25,
+        215.96,
+        421.5
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        430.5,
+        736.64,
+        441.75
+      ],
+      "text": "Vanaf 1 juli 2022 is de inkomstenverrekening gewijzigd voor vrijwillig verzekerden die vanaf 1 juli 2022 gedeeltelijk gaan werken. Voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        450.0,
+        574.77,
+        461.25
+      ],
+      "text": "vrijwillig verzekerden die vóór 1 juli 2022 al gedeeltelijk werken, wijzigt de inkomstenverrekening niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        481.5,
+        553.68,
+        492.75
+      ],
+      "text": "Wie Uitkeringsconsulent (UC)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        501.75,
+        532.38,
+        513.0
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        522.0,
+        725.63,
+        533.25
+      ],
+      "text": "Samenvatting Je bepaalt of je de inkomsten moet korten op de Ziektewet-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.37,
+        541.5,
+        749.81,
+        552.75
+      ],
+      "text": "uitkering van de vrijwillig verzekerde. Als dat zo is, bereken je het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.37,
+        561.0,
+        540.53,
+        572.25
+      ],
+      "text": "bedrag van de korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        581.25,
+        100.28,
+        592.5
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        601.5,
+        482.97,
+        612.75
+      ],
+      "text": "Intern ZW-proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        621.75,
+        208.09,
+        633.0
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        642.0,
+        140.98,
+        653.25
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        662.25,
+        136.43,
+        673.5
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        682.5,
+        106.31,
+        693.75
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        42.75,
+        321.79,
+        63.75
+      ],
+      "text": "Berekenen kortingsbedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        78.75,
+        707.05,
+        90.0
+      ],
+      "text": "Voor de inkomstenverrekening vanaf 1 juli 2022 heb je voor het berekenen van de korting voor een vrijwillig verzekerde altijd het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        98.25,
+        219.54,
+        109.5
+      ],
+      "text": "‘verzekerbare dagloon’ nodig.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        117.75,
+        725.62,
+        129.0
+      ],
+      "text": "Je berekent het ‘verzekerbare dagloon’ op grond van de inkomsten in het jaar voorafgaand aan de eerste ziektedag. Lees voor meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        137.25,
+        412.89,
+        148.5
+      ],
+      "text": "informatie de Wetsuitleg inkomstenverrekening vrijwillig verzekerde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        168.0,
+        490.59,
+        179.25
+      ],
+      "text": "Je hebt het ‘verzekerbare dagloon’ nodig voor de B/C-factor van de kortingsformule:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        415.5,
+        380.1,
+        426.75
+      ],
+      "text": "Voor de kortingsformule bij een vrijwillig verzekerde betekent:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        442.5,
+        82.57,
+        460.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        446.25,
+        569.05,
+        457.5
+      ],
+      "text": "A: het inkomstenbedrag per dag dat je hebt berekend volgens 1 van de volgende werkinstructies:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        462.0,
+        97.57,
+        480.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        465.75,
+        266.67,
+        477.0
+      ],
+      "text": "Inkomsten uit (gedeeltelijk) werk",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        481.5,
+        97.57,
+        499.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        485.25,
+        460.12,
+        496.5
+      ],
+      "text": "Inkomsten uit zelfstandig werk of NVZP-arbeid (niet vrijwillig verzekerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        501.0,
+        97.57,
+        519.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        504.75,
+        272.52,
+        516.0
+      ],
+      "text": "Inkomsten uit (VUT-/pre)pensioen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        520.5,
+        97.57,
+        538.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        524.25,
+        257.34,
+        535.5
+      ],
+      "text": "Inkomsten vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        540.0,
+        82.57,
+        558.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        543.75,
+        515.09,
+        555.0
+      ],
+      "text": "B: het ‘verzekerde dagloon’. Dit is het dagloon waarvoor de cliënt zich heeft verzekerd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        559.5,
+        82.57,
+        577.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        563.25,
+        235.2,
+        574.5
+      ],
+      "text": "C: het ‘verzekerbare dagloon’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        594.75,
+        348.89,
+        613.5
+      ],
+      "text": "Berekenen verzekerbare dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        627.75,
+        313.04,
+        639.0
+      ],
+      "text": "Je berekent het ‘verzekerbare dagloon’ als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        658.5,
+        733.49,
+        669.75
+      ],
+      "text": "De belastbare winst uit onderneming vermeerderd met de ondernemersaftrek, de MKB-winstvrijstelling en/of het resultaat uit overige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        678.0,
+        497.27,
+        689.25
+      ],
+      "text": "werkzaamheden van het jaar voorafgaand aan de eerste ziektedag gedeeld door 261.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        708.75,
+        576.85,
+        720.0
+      ],
+      "text": "Nadat je het ‘verzekerbare dagloon’ hebt berekend, ga je verder met ‘Indexeren verzekerbare dagloon’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        740.25,
+        342.54,
+        759.0
+      ],
+      "text": "Indexeren verzekerbare dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        773.25,
+        574.63,
+        784.5
+      ],
+      "text": "Je indexeert het ‘verzekerbare dagloon’ (net als het dagloon waarvoor de cliënt zich heeft verzekerd).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        804.0,
+        735.12,
+        815.25
+      ],
+      "text": "Als de eerste kortingsdag voor 1 juli valt, dan indexeer je het ‘verzekerbare dagloon’ volgens de indexering van 1 januari. Als de eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        823.5,
+        760.62,
+        834.75
+      ],
+      "text": "kortingsdag na 1 juli valt, dan indexeer je het ‘verzekerbare dagloon’ eerst met de indexering van 1 januari en daarna met de indexering van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        843.0,
+        100.69,
+        854.25
+      ],
+      "text": "1 juli.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        873.75,
+        632.17,
+        885.0
+      ],
+      "text": "Het percentage waarmee je indexeert staat in de Staalkaart SV van 1 januari en/of 1 juli van het betreffende jaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        904.5,
+        540.4,
+        915.75
+      ],
+      "text": "Nadat je het ‘verzekerbare dagloon’ hebt geïndexeerd, ga je verder met ‘Berekenen B/C-factor’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        936.0,
+        255.42,
+        954.75
+      ],
+      "text": "Berekenen B/C-factor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        969.0,
+        752.57,
+        980.25
+      ],
+      "text": "De B/C-factor is het ‘verzekerde dagloon’ gedeeld door het (geïndexeerde) ‘verzekerbare dagloon’. Je berekent de B/C-factor maar 1 keer,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        988.5,
+        368.28,
+        999.75
+      ],
+      "text": "omdat dit tijdens de duur van de uitkering niet meer wijzigt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1019.25,
+        620.76,
+        1030.5
+      ],
+      "text": "Als het ‘verzekerbare dagloon’ (C) hetzelfde of lager is dan het ‘verzekerde dagloon’ (B), dan is de B/C-factor 1.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1050.75,
+        295.26,
+        1069.5
+      ],
+      "text": "Berekenen kortingsbedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1083.75,
+        553.8,
+        1095.0
+      ],
+      "text": "Je kunt nu het kortingsbedrag voor een vrijwillig verzekerde berekenen met de volgende formule:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        124.5,
+        652.16,
+        135.75
+      ],
+      "text": "Je maakt een memo aan in UZS met als titel ‘Berekening kortingsbedrag’ en registreert hierin de volgende gegevens:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        151.5,
+        82.57,
+        169.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        155.25,
+        356.54,
+        166.5
+      ],
+      "text": "het ‘verzekerbare dagloon’ en hoe je dit hebt berekend",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        171.0,
+        82.57,
+        189.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        174.75,
+        426.02,
+        186.0
+      ],
+      "text": "het ‘geïndexeerde verzekerbare dagloon’ en hoe je dit hebt berekend",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        190.5,
+        82.57,
+        208.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        194.25,
+        546.05,
+        205.5
+      ],
+      "text": "de bovengenoemde formule, maar dan gevuld met het uitkeringspercentage en de bedragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        228.75,
+        541.93,
+        240.0
+      ],
+      "text": "Hiermee vind je de B/C-factor terug als je opnieuw een korting voor het geval moet berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        259.5,
+        743.74,
+        270.75
+      ],
+      "text": "Je registreert het kortingsbedrag volgens de werkinstructie Registreren inkomsten in UZS. Je gaat daarna verder met de werkinstructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        279.0,
+        180.85,
+        290.25
+      ],
+      "text": "Bepalen duur korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        310.5,
+        108.55,
+        321.75
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        431.62,
+        327.0,
+        437.7,
+        345.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        330.75,
+        707.56,
+        342.0
+      ],
+      "text": "Intern Kortingsbedrag per dag voor een vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        431.62,
+        346.5,
+        437.7,
+        364.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        444.37,
+        350.25,
+        533.15,
+        361.5
+      ],
+      "text": "Registratie in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        370.5,
+        148.84,
+        381.75
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        390.75,
+        130.71,
+        402.0
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        422.25,
+        144.62,
+        433.5
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        442.5,
+        506.1,
+        453.75
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        429.37,
+        462.0,
+        517.73,
+        473.25
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        482.25,
+        276.08,
+        493.5
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        502.5,
+        130.33,
+        513.75
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        522.75,
+        144.12,
+        534.0
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        543.0,
+        768.74,
+        554.25
+      ],
+      "text": "Map ‘Berekenen inkomsten per dag’ Bepalen duur korting",
+      "source": "text"
+    }
+  ]
+}

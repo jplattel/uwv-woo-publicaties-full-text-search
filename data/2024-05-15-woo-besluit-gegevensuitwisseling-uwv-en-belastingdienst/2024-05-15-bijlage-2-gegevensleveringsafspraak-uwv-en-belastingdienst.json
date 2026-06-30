@@ -1,0 +1,1853 @@
+{
+  "source_id": "2024-05-15-woo-besluit-gegevensuitwisseling-uwv-en-belastingdienst/2024-05-15-bijlage-2-gegevensleveringsafspraak-uwv-en-belastingdienst",
+  "publication_slug": "2024-05-15-woo-besluit-gegevensuitwisseling-uwv-en-belastingdienst",
+  "pdf_slug": "2024-05-15-bijlage-2-gegevensleveringsafspraak-uwv-en-belastingdienst",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-gegevensuitwisseling-uwv-en-belastingdienst",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/9bbded9c-9693-48a9-a808-369ab08137ff/bijlage-2-gegevensleveringsafspraak-uwv-en-belastingdienst.pdf",
+  "publication_title": "Woo-besluit gegevensuitwisseling UWV en Belastingdienst",
+  "publication_date": "2024-05-15T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2. Gegevensleveringsafspraak UWV en belastingdienst (PDF, 441 kB)",
+  "retrieved_at": "2026-06-30T13:01:15+00:00",
+  "sha256": "9b17633c066cfe2321742061b1cecf51a1efebdc81f760ad989768032f96b2e8",
+  "page_count": 5,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        1147.0,
+        106.0,
+        1533.0,
+        131.0
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        1147.0,
+        140.0,
+        1549.0,
+        166.0
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        255.0,
+        175.0,
+        1443.0,
+        203.0
+      ],
+      "text": "uwV met externe afnemer",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        196.0,
+        281.0,
+        1186.0,
+        307.0
+      ],
+      "text": "Versie Blad",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        199.0,
+        313.0,
+        1229.0,
+        339.0
+      ],
+      "text": "13 1van5",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        484.0,
+        720.0,
+        1171.0,
+        769.0
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        772.0,
+        852.0,
+        879.0,
+        876.0
+      ],
+      "text": "tussen",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        344.0,
+        977.0,
+        1308.0,
+        1002.0
+      ],
+      "text": "UITVOERINGSINSTITUUT WERKNEMERSVERZEKERINGEN",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        807.0,
+        1110.0,
+        845.0,
+        1129.0
+      ],
+      "text": "en",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        650.0,
+        1230.0,
+        1006.0,
+        1255.0
+      ],
+      "text": "BELASTINGDIENST",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        486.0,
+        1367.0,
+        1165.0,
+        1395.0
+      ],
+      "text": "Afsprakenset behorende bij de gegevenslevering",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        512.0,
+        1406.0,
+        1140.0,
+        1434.0
+      ],
+      "text": "Webservice Loonaangiftegegevens (CWS-LA)",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        700.0,
+        1968.0,
+        954.0,
+        1990.0
+      ],
+      "text": "Klantcode : 13800",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        640.0,
+        2025.0,
+        1011.0,
+        2054.0
+      ],
+      "text": "Contractnummer : N",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        683.0,
+        2080.0,
+        970.0,
+        2101.0
+      ],
+      "text": "GLV-nummer : 4052",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        1147.0,
+        106.0,
+        1534.0,
+        131.0
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        1147.0,
+        140.0,
+        1549.0,
+        166.0
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        255.0,
+        175.0,
+        1443.0,
+        203.0
+      ],
+      "text": "uwV met externe afnemer",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        196.0,
+        281.0,
+        1186.0,
+        307.0
+      ],
+      "text": "Versie Blad",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        199.0,
+        313.0,
+        1229.0,
+        339.0
+      ],
+      "text": "13 2van5",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        425.0,
+        1317.0,
+        451.0
+      ],
+      "text": "UWV Gegevensdiensten en de Belastingdienst (hierna te noemen: Afnemer) leggen in de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        456.0,
+        1402.0,
+        481.0
+      ],
+      "text": "Gegevensleveringsafspraak (GLA) afspraken vast rond de gegevenslevering en de bijbehorende",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        486.0,
+        396.0,
+        512.0
+      ],
+      "text": "dienstverlening.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        200.0,
+        547.0,
+        568.0,
+        576.0
+      ],
+      "text": "1_ Productbeschrijving",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        611.0,
+        1368.0,
+        637.0
+      ],
+      "text": "Met het product Webservice Loonaangiftegegevens leveren wij real-time via een Webservice,",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        642.0,
+        1396.0,
+        667.0
+      ],
+      "text": "loonaangiftegegevens; op maat gesneden voor de afnemer conform de gegevensbehoefte voor",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        673.0,
+        1352.0,
+        698.0
+      ],
+      "text": "diens taakuitvoering en doelbinding. Hiermee ontvangt de afnemer proportioneel gegevens.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        703.0,
+        1450.0,
+        728.0
+      ],
+      "text": "Voorwaarde voor deze gegevenslevering is dat wordt voldaan aan wettelijke grondslag, doelbinding",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        734.0,
+        1167.0,
+        759.0
+      ],
+      "text": "en proportionaliteit. Dit wordt bepaald door de aanvraag juridisch te toetsen.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        793.0,
+        1325.0,
+        819.0
+      ],
+      "text": "Deze configureerbare Webservice (CWS) is een standaard Webservice die per afnemer en",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        824.0,
+        1270.0,
+        849.0
+      ],
+      "text": "taakuitvoering een verschillende subset van de gegevens ter beschikking kan stellen.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        198.0,
+        850.0,
+        1382.0,
+        880.0
+      ],
+      "text": "Één afnemer kan meerdere configuraties afnemen voor verschillende taakuitvoeringen, iedere",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        885.0,
+        779.0,
+        911.0
+      ],
+      "text": "configuratie krijgt een ander contractnummer.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        946.0,
+        1136.0,
+        972.0
+      ],
+      "text": "Met dit Product is voor deze gegevenslevering een configuratie opgevoerd.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        977.0,
+        1400.0,
+        1002.0
+      ],
+      "text": "De gegevenslevering is een levering vanuit de Polis naar de Belastingdienst BVV rekenmachine.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        214.0,
+        1039.0,
+        991.0,
+        1059.0
+      ],
+      "text": "Begindatum contract 11-11-2020",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        214.0,
+        1070.0,
+        1189.0,
+        1090.0
+      ],
+      "text": "Naam configuratie Berekenen Berekenen Beslagvrije Voet",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        195.0,
+        1093.0,
+        1455.0,
+        1138.0
+      ],
+      "text": "[Versie _ |4®",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        213.0,
+        1103.0,
+        290.0,
+        1122.0
+      ],
+      "text": "Versie",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        195.0,
+        1125.0,
+        1457.0,
+        1172.0
+      ],
+      "text": "[Berichtversie O |009 O |",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        1198.0,
+        476.0,
+        1222.0
+      ],
+      "text": "1.1 Gegevensset",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1256.0,
+        1418.0,
+        1282.0
+      ],
+      "text": "Voor de inhoudelijke gegevensset wordt verwezen naar de specificatie voor dit gegevensproduct.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        1287.0,
+        1255.0,
+        1312.0
+      ],
+      "text": "De gegevensspecificaties zijn te downloaden via het portaal Mijn Gegevensdiensten.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        198.0,
+        1378.0,
+        496.0,
+        1407.0
+      ],
+      "text": "2 Leverafspraken",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1442.0,
+        535.0,
+        1462.0
+      ],
+      "text": "2.1 Distributiekanaal",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        1504.0,
+        978.0,
+        1529.0
+      ],
+      "text": "De gegevens worden via een Webservice beschikbaar gesteld.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1534.0,
+        1445.0,
+        1559.0
+      ],
+      "text": "Voor externe afnemers wordt gebruik gemaakt van Digikoppeling en UWV Systeem Integratie (SI).",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1595.0,
+        703.0,
+        1621.0
+      ],
+      "text": "2.2 Openstelling en Performance",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        508.0,
+        1658.0,
+        1247.0,
+        1678.0
+      ],
+      "text": "95% van de gevraagde antwoorden maximaal 3 seconden.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        214.0,
+        1684.0,
+        1408.0,
+        1718.0
+      ],
+      "text": "Beschikbaarheid 24 uur per dag, 7 dagen per week, behalve onderhoudsweekenden e.d.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        489.0,
+        1711.0,
+        1457.0,
+        1756.0
+      ],
+      "text": "| _O Alleentijden kantoortijden |",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        507.0,
+        1720.0,
+        840.0,
+        1740.0
+      ],
+      "text": "Alleen tijden kantoortijden",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1813.0,
+        606.0,
+        1839.0
+      ],
+      "text": "2.3 Beveiliging en Privacy",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        1875.0,
+        1313.0,
+        1900.0
+      ],
+      "text": "Beveiliging- en privacy afspraken zijn terug te vinden in de algemene voorwaarden UWV",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1904.0,
+        1440.0,
+        1929.0
+      ],
+      "text": "Gegevensdiensten. De algemene voorwaarden worden als bijlage bij de overeenkomst geleverd en",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1934.0,
+        395.0,
+        1960.0
+      ],
+      "text": "staan op uwv.nl",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        1995.0,
+        632.0,
+        2021.0
+      ],
+      "text": "2.4 Beveiliging webservices",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        2057.0,
+        1431.0,
+        2082.0
+      ],
+      "text": "Voor deze externe koppeling is het volgende Organisatie Identificatie Nummer (OIN) bekend voor",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        2087.0,
+        1104.0,
+        2112.0
+      ],
+      "text": "het uitwisselen van het beveiligingscertificaat: O0O0000002003214394001",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1147.0,
+        106.0,
+        1533.0,
+        131.0
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1147.0,
+        140.0,
+        1549.0,
+        166.0
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        255.0,
+        175.0,
+        1443.0,
+        203.0
+      ],
+      "text": "uwV met externe afnemer",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        196.0,
+        281.0,
+        1186.0,
+        307.0
+      ],
+      "text": "Versie Blad",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        199.0,
+        313.0,
+        1229.0,
+        339.0
+      ],
+      "text": "13 3van5",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        395.0,
+        605.0,
+        420.0
+      ],
+      "text": "2.5 Zichtbaarheidstermijn",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        456.0,
+        1365.0,
+        481.0
+      ],
+      "text": "De productspecificatie op het portaal Mijn Gegevensdiensten blijft beschikbaar gedurende de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        486.0,
+        578.0,
+        512.0
+      ],
+      "text": "looptijd van de overeenkomst.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        191.0,
+        574.0,
+        646.0,
+        616.0
+      ],
+      "text": "3_ Omvang & hoeveelheden",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        642.0,
+        519.0,
+        662.0
+      ],
+      "text": "Overzicht van het volume",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        673.0,
+        1401.0,
+        698.0
+      ],
+      "text": "Het aantal BSN' s is vermenigvuldigd met 1,8 omdat ook partner gegevens opgevraagd moeten",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        703.0,
+        870.0,
+        728.0
+      ],
+      "text": "worden als er sprake is van een partnerschapsrelatie.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        199.0,
+        760.0,
+        1461.0,
+        820.0
+      ],
+      "text": "e J e J J |",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        214.0,
+        795.0,
+        306.0,
+        815.0
+      ],
+      "text": "maand",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        199.0,
+        796.0,
+        1466.0,
+        919.0
+      ],
+      "text": "|, |4 am |a a |",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        857.0,
+        1160.0,
+        877.0
+      ],
+      "text": "Unieke BSN, 22.000 22.000",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        920.0,
+        1322.0,
+        940.0
+      ],
+      "text": "unieke BSN, 400 400 400",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        982.0,
+        786.0,
+        1002.0
+      ],
+      "text": "unieke BSN 9400",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        199.0,
+        982.0,
+        1461.0,
+        1104.0
+      ],
+      "text": "n e e aa |z e |",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        214.0,
+        1044.0,
+        1160.0,
+        1063.0
+      ],
+      "text": "Unieke BSN per dag 9400 22.400 22.400",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        199.0,
+        1070.0,
+        1461.0,
+        1130.0
+      ],
+      "text": "a P",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        1106.0,
+        1322.0,
+        1126.0
+      ],
+      "text": "1.8 keer per BSN, 720 40.320 40.320 720",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        199.0,
+        1133.0,
+        1461.0,
+        1162.0
+      ],
+      "text": "|",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        1201.0,
+        380.0,
+        1220.0
+      ],
+      "text": "8 uur op dag",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        1263.0,
+        1128.0,
+        1283.0
+      ],
+      "text": "8 uur op dag 1,40",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        195.0,
+        1286.0,
+        1344.0,
+        1369.0
+      ],
+      "text": "e e |oa Jaz Jua |aa aa",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        236.0,
+        1324.0,
+        1128.0,
+        1348.0
+      ],
+      "text": "i uur per dag 0,2 4,7 11,2",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        1387.0,
+        1435.0,
+        1412.0
+      ],
+      "text": "UWV kan een technische begrenzing inzetten indien het aantal bevragingen boven de afgesproken",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1417.0,
+        391.0,
+        1437.0
+      ],
+      "text": "aantallen komt.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1479.0,
+        429.0,
+        1498.0
+      ],
+      "text": "3.1 Berichten",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        1540.0,
+        715.0,
+        1565.0
+      ],
+      "text": "Het aantal berichten zijn 20 per seconde.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1630.0,
+        731.0,
+        1655.0
+      ],
+      "text": "3.2 Melden structurele afwijkingen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        1691.0,
+        1453.0,
+        1716.0
+      ],
+      "text": "De afnemer meldt structurele afwijkingen in de netwerkbelasting van te voren in overleg met UWV",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1722.0,
+        464.0,
+        1747.0
+      ],
+      "text": "Gegegevensdiensten.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        206.0,
+        1786.0,
+        327.0,
+        1844.0
+      ],
+      "text": "4_ Prod",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        1876.0,
+        1442.0,
+        1901.0
+      ],
+      "text": "De afnemer dient rekening te houden met collectieve wijzigingen in het product. Bijvoorbeeld door",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1908.0,
+        1360.0,
+        1933.0
+      ],
+      "text": "wetswijzigingen, bronwijzigingen, wijzigingen in de gegevenshuishouding, wijzigingen in het",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1937.0,
+        1256.0,
+        1962.0
+      ],
+      "text": "collectief gegevensmodel van UWV Gegevensdiensten, innovatieve ontwikkeling etc.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        197.0,
+        1998.0,
+        1414.0,
+        2024.0
+      ],
+      "text": "Als de afnemer een wijziging in het product wenst kan deze een wijzigingsverzoek indienen door",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        198.0,
+        2029.0,
+        1454.0,
+        2054.0
+      ],
+      "text": "middel van een nieuw Gegevensleveringsverzoek via e- GLV via het portaal Mijn Gegevensdiensten.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        1147.0,
+        106.0,
+        1534.0,
+        131.0
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        1147.0,
+        140.0,
+        1549.0,
+        166.0
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        255.0,
+        175.0,
+        1443.0,
+        203.0
+      ],
+      "text": "uwV met externe afnemer",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        196.0,
+        281.0,
+        1186.0,
+        307.0
+      ],
+      "text": "Versie Blad",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        199.0,
+        313.0,
+        1229.0,
+        339.0
+      ],
+      "text": "13 4van5",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        395.0,
+        1424.0,
+        420.0
+      ],
+      "text": "Gegevensdiensten zal in beide bovenstaande situaties de productwijziging in behandeling nemen.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        425.0,
+        1452.0,
+        451.0
+      ],
+      "text": "De afnemer zal op de hoogte worden gehouden van het verloop en verdere afspraken en uitvoering",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        456.0,
+        554.0,
+        476.0
+      ],
+      "text": "met de afnemer afstemmen.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        191.0,
+        513.0,
+        607.0,
+        558.0
+      ],
+      "text": "5 Klachten en geschillen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        581.0,
+        1323.0,
+        606.0
+      ],
+      "text": "Klachten of geschillen betreffende leveringen en de totstandkoming hiervan worden altijd",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        611.0,
+        1414.0,
+        637.0
+      ],
+      "text": "schriftelijk (e-mail) ingediend. Eerste aanspreekpunt is het team Leveren & Services, bereikbaar",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        642.0,
+        1382.0,
+        667.0
+      ],
+      "text": "vi I@uwv.nl. De manager wordt op de hoogte gebracht van de klacht of het",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        212.0,
+        643.0,
+        467.0,
+        670.0
+      ],
+      "text": "\\",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        673.0,
+        1381.0,
+        698.0
+      ],
+      "text": "geschil. Wanneer partijen niet tot een oplossing kunnen komen, vindt escalatie plaats naar de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        703.0,
+        815.0,
+        729.0
+      ],
+      "text": "directeur Uitvoering van UWV Gegevensdiensten.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        198.0,
+        793.0,
+        745.0,
+        822.0
+      ],
+      "text": "6 __Vragen, verstoringen & contact",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        859.0,
+        1426.0,
+        884.0
+      ],
+      "text": "Op werkdagen informeren wij u zodra bekend is dat de levering niet tijdig kan plaatsvinden. Is er",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        889.0,
+        1449.0,
+        915.0
+      ],
+      "text": "een storing in het weekend of op een feestdag, dan informeren wij u op de eerstvolgende werkdag.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        918.0,
+        1428.0,
+        944.0
+      ],
+      "text": "Ook worden verstoringen weergegeven op de nieuwspagina van de Servicedesk IV. Problemen en",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        949.0,
+        682.0,
+        974.0
+      ],
+      "text": "incidenten worden in overleg opgelost.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        215.0,
+        1012.0,
+        1014.0,
+        1035.0
+      ],
+      "text": "UWV Gegevensdiensten Aanspreekpunt",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        213.0,
+        1044.0,
+        1157.0,
+        1063.0
+      ],
+      "text": "Contacten over o.a.: Loket Leveren & Services",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1074.0,
+        1265.0,
+        1100.0
+      ],
+      "text": "- Nieuw gegevensproduct aanvragen Bereikbaarheid: op werkdagen van",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1105.0,
+        1036.0,
+        1130.0
+      ],
+      "text": "- Wijzigingsverzoek 8.00 tot 17.00 uur",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        213.0,
+        1130.0,
+        1235.0,
+        1167.0
+      ],
+      "text": "gegevensproduct/gegevenslevering Email e e n",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1164.0,
+        1251.0,
+        1190.0
+      ],
+      "text": "- Techniek/ berichtenverkeer Telefoon (Klant Contact Centrum):",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1195.0,
+        1007.0,
+        1220.0
+      ],
+      "text": "- Levering niet op tijd 088 - 898 20 10",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1226.0,
+        471.0,
+        1251.0
+      ],
+      "text": "- Functionele vragen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1256.0,
+        715.0,
+        1282.0
+      ],
+      "text": "- Inhoudelijke vragen over de gegevens",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1287.0,
+        482.0,
+        1307.0
+      ],
+      "text": "- Kwaliteitsincidenten",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        1381.0,
+        332.0,
+        1401.0
+      ],
+      "text": "Afnemer",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        215.0,
+        1408.0,
+        1476.0,
+        1442.0
+      ],
+      "text": "Naam Functie E-mail Telefoon",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        529.0,
+        1534.0,
+        757.0,
+        1558.0
+      ],
+      "text": "Accountmanager ,",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        531.0,
+        1563.0,
+        754.0,
+        1589.0
+      ],
+      "text": "Procesdeskundige",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        195.0,
+        1664.0,
+        460.0,
+        1694.0
+      ],
+      "text": "Z__Verstoringen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        1730.0,
+        1391.0,
+        1755.0
+      ],
+      "text": "Wij trachten de afnemer zo spoedig mogelijk te informeren zodra bekend is dat de service niet",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        1759.0,
+        823.0,
+        1785.0
+      ],
+      "text": "bereikbaar zal zijn i.v.m. bijvoorbeeld onderhoud.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        1820.0,
+        1308.0,
+        1846.0
+      ],
+      "text": "Op werkdagen informeren wij de afnemer zodra bekend is dat de levering niet tijdig kan",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        1851.0,
+        1384.0,
+        1876.0
+      ],
+      "text": "plaatsvinden. Is er een storing in het weekend of op een feestdag, dan informeren wij u op de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        1881.0,
+        496.0,
+        1907.0
+      ],
+      "text": "eerstvolgende werkdag.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        1943.0,
+        1326.0,
+        1968.0
+      ],
+      "text": "De afnemer kan verstoringen melden bij het loket Leveren & Services. Hierbij houdt UWV",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        1973.0,
+        954.0,
+        1999.0
+      ],
+      "text": "Gegevensdiensten rekening met het belang van de levering.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        198.0,
+        2034.0,
+        864.0,
+        2060.0
+      ],
+      "text": "Problemen en incidenten worden in overleg opgelost.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        1147.0,
+        106.0,
+        1534.0,
+        131.0
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        1147.0,
+        140.0,
+        1549.0,
+        166.0
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        255.0,
+        175.0,
+        1443.0,
+        203.0
+      ],
+      "text": "uwV met externe afnemer",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        196.0,
+        281.0,
+        1186.0,
+        307.0
+      ],
+      "text": "Versie Blad",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        199.0,
+        313.0,
+        1229.0,
+        339.0
+      ],
+      "text": "13 5van5",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        197.0,
+        394.0,
+        600.0,
+        423.0
+      ],
+      "text": "8_ Escalatiemanagement",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        197.0,
+        460.0,
+        1335.0,
+        485.0
+      ],
+      "text": "Geschillen tussen partijen betreffende leveringen en totstandkoming hiervan worden altijd",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        197.0,
+        491.0,
+        1453.0,
+        516.0
+      ],
+      "text": "schriftelijk (e-mail) bij elkaar ingediend. De manager van UWV Gegevensdiensten, afdeling Leveren",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        197.0,
+        520.0,
+        1430.0,
+        545.0
+      ],
+      "text": "en Services, wordt op de hoogte gebracht van het geschil. Wanneer uit overleg tussen de partijen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        198.0,
+        550.0,
+        1352.0,
+        576.0
+      ],
+      "text": "blijkt dat geen overeenstemming over het geschil kan worden bereikt, wordt het geschil ter",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        198.0,
+        581.0,
+        1438.0,
+        606.0
+      ],
+      "text": "bespreking en besluitvorming voorgelegd aan de directeur Uitvoering van UWV Gegevensdiensten.",
+      "source": "ocr"
+    }
+  ]
+}

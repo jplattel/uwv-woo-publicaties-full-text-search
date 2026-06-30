@@ -1,0 +1,4877 @@
+{
+  "source_id": "2026-01-12-woo-besluit-oude-en-huidige-werkinstructie-uitbetaling-bov/2026-01-12-werkinstructie-bov-voor-2024",
+  "publication_slug": "2026-01-12-woo-besluit-oude-en-huidige-werkinstructie-uitbetaling-bov",
+  "pdf_slug": "2026-01-12-werkinstructie-bov-voor-2024",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-oude-en-huidige-werkinstructie-uitbetaling-bov",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/2f47ebd6-a9a2-4ad2-8565-89122a68fe74/werkinstructie-bov-voor-2024.pdf",
+  "publication_title": "Woo-besluit oude en huidige werkinstructie uitbetaling BOV",
+  "publication_date": "2026-01-12T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Werkinstructie BOV versie van 2024 (PDF, 3 MB)",
+  "retrieved_at": "2026-06-30T12:08:16+00:00",
+  "sha256": "96284cbe16fca44473b5888b8eb399918f9a7dd8de3553e05e952dac22ed9b09",
+  "page_count": 8,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        71.0,
+        91.02,
+        306.0,
+        114.02
+      ],
+      "text": "Proces ZWOude",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        146.0,
+        91.02,
+        238.72,
+        115.02
+      ],
+      "text": "Backoffice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        323.0,
+        103.01,
+        337.57,
+        115.01
+      ],
+      "text": "versie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        71.0,
+        162.02,
+        414.0,
+        183.02
+      ],
+      "text": "Inkomsten bij samenloop ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        289.0,
+        164.02,
+        307.0,
+        183.02
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        71.0,
+        190.02,
+        160.1,
+        211.02
+      ],
+      "text": "(AGV/BOV)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        249.01,
+        200.34,
+        263.01
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        296.01,
+        419.0,
+        310.01
+      ],
+      "text": "Wie Uitkeringsdeskundige (UD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        317.01,
+        389.0,
+        331.01
+      ],
+      "text": "Divisie Uitkeren Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        345.0,
+        322.01,
+        346.5,
+        331.01
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        338.01,
+        488.13,
+        352.01
+      ],
+      "text": "Samenvatting Omdat de cliënt gedeeltelijk werkt bereken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        499.0,
+        341.01,
+        504.33,
+        352.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        456.0,
+        345.01,
+        457.0,
+        352.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        303.0,
+        359.01,
+        459.5,
+        373.01
+      ],
+      "text": "verwerk je de korting het betaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        401.0,
+        361.01,
+        410.0,
+        372.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        303.0,
+        379.01,
+        472.91,
+        393.01
+      ],
+      "text": "ouderschapsverlof (BOV) of aanvullend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        303.0,
+        400.01,
+        487.71,
+        414.01
+      ],
+      "text": "geboorteverlof (AGV) de ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        405.0,
+        402.01,
+        410.33,
+        413.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        72.0,
+        421.01,
+        91.17,
+        435.01
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        303.0,
+        442.01,
+        484.69,
+        456.01
+      ],
+      "text": "Filterregel andere overlappende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        443.01,
+        503.0,
+        457.01
+      ],
+      "text": "Intern 207 ‘Geen ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        303.0,
+        463.01,
+        440.09,
+        477.01
+      ],
+      "text": "melding dezelfde aanvrager’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        342.0,
+        466.01,
+        351.0,
+        477.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        72.0,
+        484.01,
+        186.92,
+        498.01
+      ],
+      "text": "Termijnen procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        125.0,
+        487.01,
+        130.33,
+        499.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        506.01,
+        133.78,
+        520.01
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        531.01,
+        131.62,
+        545.01
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        556.01,
+        100.43,
+        570.01
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        79.0,
+        90.02,
+        153.25,
+        111.02
+      ],
+      "text": "Filterregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        123.01,
+        487.0,
+        137.01
+      ],
+      "text": "Vanuit het automatisch claimproces is filterregel andere overlappende melding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        296.0,
+        124.01,
+        447.0,
+        138.01
+      ],
+      "text": "207 ‘Geen ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        498.0,
+        126.01,
+        507.0,
+        137.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        144.01,
+        503.0,
+        158.01
+      ],
+      "text": "dezelfde aanvrager’ niet akkoord bevonden door UZS. Na de controle het filterresultaat blijkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        389.0,
+        147.01,
+        398.0,
+        158.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        164.01,
+        210.57,
+        178.01
+      ],
+      "text": "dat de cliënt gedeeltelijk werkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        185.01,
+        488.91,
+        199.01
+      ],
+      "text": "Je gebruikt deze werkinstructie de korting het betaald ouderschapsverlof of aanvullend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        219.0,
+        188.01,
+        293.0,
+        199.01
+      ],
+      "text": "om van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        206.01,
+        349.71,
+        220.01
+      ],
+      "text": "geboorteverlof berekenen verwerken de ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.0,
+        207.01,
+        151.0,
+        220.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        205.0,
+        208.01,
+        273.33,
+        219.01
+      ],
+      "text": "en op",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        79.0,
+        244.02,
+        356.0,
+        265.02
+      ],
+      "text": "Berekenen kortingsbedrag dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        305.0,
+        248.02,
+        320.75,
+        264.02
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        277.01,
+        482.87,
+        291.01
+      ],
+      "text": "Voordat je de korting het betaald ouderschapsverlof (BOV) of aanvullend geboorteverlof",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        176.0,
+        279.01,
+        185.0,
+        290.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        297.01,
+        390.25,
+        311.01
+      ],
+      "text": "(AGV) berekent bepaal je welke de volgende situaties het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        199.0,
+        298.01,
+        413.83,
+        311.01
+      ],
+      "text": "eerst gaat:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        222.0,
+        300.01,
+        277.0,
+        311.01
+      ],
+      "text": "om van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        151.0,
+        304.01,
+        152.0,
+        311.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        329.01,
+        502.85,
+        343.01
+      ],
+      "text": "Situatie 1: samenloop ZW-uitkering AGV of BOV vanuit hetzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        292.0,
+        330.01,
+        301.75,
+        343.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        192.0,
+        332.01,
+        220.0,
+        343.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        392.01,
+        483.5,
+        406.01
+      ],
+      "text": "Situatie 2: samenloop ZW of ZWW-uitkering AGV of BOV vanuit ander",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        334.0,
+        393.01,
+        343.75,
+        406.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        192.0,
+        395.01,
+        457.0,
+        406.01
+      ],
+      "text": "van een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        413.01,
+        147.85,
+        427.01
+      ],
+      "text": "dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        79.0,
+        450.02,
+        434.14,
+        469.02
+      ],
+      "text": "Situatie 1: samenloop AGV/BOV vanuit",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        244.0,
+        451.02,
+        257.33,
+        470.02
+      ],
+      "text": "ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        277.0,
+        452.02,
+        292.75,
+        469.02
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        79.0,
+        475.02,
+        242.07,
+        494.02
+      ],
+      "text": "hetzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        505.01,
+        222.73,
+        519.01
+      ],
+      "text": "Hier zijn 2 verschillende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        537.01,
+        418.85,
+        551.01
+      ],
+      "text": "Situatie 1A: samenloop ZW AGV/BOV vanuit hetzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        220.0,
+        538.01,
+        439.75,
+        551.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        558.01,
+        221.5,
+        572.01
+      ],
+      "text": "werkgeversbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        620.01,
+        418.85,
+        634.01
+      ],
+      "text": "Situatie 1B: samenloop AGV/BOV vanuit hetzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        219.0,
+        621.01,
+        438.75,
+        634.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        200.0,
+        621.01,
+        208.0,
+        635.01
+      ],
+      "text": "ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        641.01,
+        224.5,
+        655.01
+      ],
+      "text": "werknemersbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        212.0,
+        673.01,
+        444.5,
+        686.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        673.01,
+        422.5,
+        687.01
+      ],
+      "text": "Situatie 1A: samenloop ZW AGV/BOV vanuit hetzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        693.01,
+        214.25,
+        707.01
+      ],
+      "text": "werkgeversbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        714.01,
+        501.82,
+        728.01
+      ],
+      "text": "De cliënt krijgt ZW-uitkering via de werkgever werkt ook gedeeltelijk bij deze werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        149.0,
+        716.01,
+        313.33,
+        727.01
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        91.0,
+        734.01,
+        437.59,
+        748.01
+      ],
+      "text": "kort de loonwaarde de ZW-uitkering volgens de werkinstructies Completeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        735.01,
+        83.0,
+        749.01
+      ],
+      "text": "Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        179.0,
+        737.01,
+        184.33,
+        748.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        73.01,
+        501.85,
+        87.01
+      ],
+      "text": "inkomstengegevens Registreren inkomsten in UZS. De cliënt in datzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        364.0,
+        74.01,
+        383.17,
+        87.01
+      ],
+      "text": "neemt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        169.0,
+        75.01,
+        174.33,
+        86.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        93.01,
+        483.7,
+        107.01
+      ],
+      "text": "of Als de cliënt verlof tijdelijk minder of niet werkt de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        79.0,
+        94.01,
+        131.5,
+        108.01
+      ],
+      "text": "AGV BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        144.0,
+        96.01,
+        504.0,
+        107.01
+      ],
+      "text": "op. vanwege en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        114.01,
+        509.33,
+        128.01
+      ],
+      "text": "AGV- of BOV-uitkering de cliënt wijzigt de korting de ZW-uitkering. Je kort de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        254.0,
+        115.01,
+        285.11,
+        128.01
+      ],
+      "text": "ontvangt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        116.01,
+        384.33,
+        127.01
+      ],
+      "text": "voor op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        292.0,
+        120.01,
+        293.0,
+        127.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        134.01,
+        508.33,
+        148.01
+      ],
+      "text": "BOV-uitkering de BOV-rechtperiode de ZW-uitkering. kunt het vaststellen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        361.0,
+        135.01,
+        365.0,
+        149.01
+      ],
+      "text": "Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        149.0,
+        137.01,
+        493.0,
+        148.01
+      ],
+      "text": "over op voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        155.01,
+        485.5,
+        169.01
+      ],
+      "text": "korting sv-loon uit polis gebruiken wel het AGV- of BOV-bedrag dat betalen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        114.0,
+        157.01,
+        128.4,
+        169.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        264.0,
+        158.01,
+        452.0,
+        169.01
+      ],
+      "text": "maar we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        259.0,
+        162.01,
+        260.0,
+        169.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        102.0,
+        176.01,
+        409.0,
+        190.01
+      ],
+      "text": "de aangevraagde verlofperiode. Het bedrag de periode in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        356.0,
+        177.01,
+        372.67,
+        190.01
+      ],
+      "text": "staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        178.01,
+        299.33,
+        189.01
+      ],
+      "text": "over en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        196.01,
+        500.5,
+        210.01
+      ],
+      "text": "Als de werkgever aanvulling de AGV of BOV betaalt kort je die aanvulling ook tijdens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        160.0,
+        199.01,
+        232.33,
+        210.01
+      ],
+      "text": "een op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        347.0,
+        203.01,
+        348.0,
+        210.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        217.01,
+        505.33,
+        231.01
+      ],
+      "text": "de rechtperiode. Je het de eventuele aanvulling bij de werkgever de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        167.0,
+        218.01,
+        489.75,
+        231.01
+      ],
+      "text": "vraagt percentage met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        264.0,
+        219.01,
+        395.33,
+        230.01
+      ],
+      "text": "van op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        237.01,
+        388.91,
+        251.01
+      ],
+      "text": "brief SET00I060 ‘Verzoek ontbrekende info WAZO bij werkgever’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        200.0,
+        240.01,
+        206.67,
+        251.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        258.01,
+        470.33,
+        272.01
+      ],
+      "text": "Je kort het bedrag de uitkering de eventuele aanvulling (dus niet het dagloon) in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        160.0,
+        260.01,
+        240.33,
+        271.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        279.01,
+        209.66,
+        293.01
+      ],
+      "text": "samenlopende rechtperioden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        83.0,
+        310.01,
+        437.56,
+        324.01
+      ],
+      "text": "De ZW-rechtperiode is daarbij de periode waarin het recht uitkering bestaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        354.0,
+        313.01,
+        359.33,
+        324.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        83.0,
+        373.01,
+        483.33,
+        387.01
+      ],
+      "text": "De AGV-/BOV-rechtperiode is daarbij de periode in UZS de uitkering vanaf de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        352.0,
+        376.01,
+        384.89,
+        387.01
+      ],
+      "text": "waarover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        394.01,
+        342.56,
+        408.01
+      ],
+      "text": "ingangsdatum in 1 aaneensluitende periode wordt betaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        426.01,
+        440.71,
+        440.01
+      ],
+      "text": "Als je de hebt bereken je het kortingsbedrag dag als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        186.0,
+        427.01,
+        223.8,
+        440.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        121.0,
+        428.01,
+        379.25,
+        439.01
+      ],
+      "text": "gegevens per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        232.0,
+        432.01,
+        233.0,
+        439.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        446.01,
+        239.09,
+        460.01
+      ],
+      "text": "AGV- of BOV-uitkering aanvulling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        447.01,
+        193.0,
+        460.01
+      ],
+      "text": "+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        471.01,
+        349.0,
+        480.01
+      ],
+      "text": "——————————————————————————-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        487.01,
+        262.5,
+        501.01
+      ],
+      "text": "Aantal rechtdagen AGV- of BOV-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        508.01,
+        481.62,
+        522.01
+      ],
+      "text": "Let De werkgever geeft bij het (betaald) verlof tijdens de ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        251.0,
+        510.01,
+        501.0,
+        521.01
+      ],
+      "text": "opnemen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.0,
+        510.01,
+        122.0,
+        522.01
+      ],
+      "text": "op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        528.01,
+        498.33,
+        542.01
+      ],
+      "text": "wijziging in de loonwaarde vaak niet de het betaalde verlof kort je in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        276.0,
+        529.01,
+        282.0,
+        543.01
+      ],
+      "text": "Na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        260.0,
+        531.01,
+        356.0,
+        542.01
+      ],
+      "text": "op. aanvraag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        549.01,
+        499.25,
+        563.01
+      ],
+      "text": "periode (in UZS) het verlof in aaneensluitende periode betaald wordt alleen het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        130.0,
+        551.01,
+        281.0,
+        562.01
+      ],
+      "text": "waarover een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        569.01,
+        477.7,
+        583.01
+      ],
+      "text": "bedrag de of BOV-uitkering (plus eventuele aanvulling de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        159.0,
+        570.01,
+        177.4,
+        584.01
+      ],
+      "text": "AGV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        127.0,
+        572.01,
+        416.0,
+        583.01
+      ],
+      "text": "van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        590.01,
+        476.22,
+        604.01
+      ],
+      "text": "daarop) niet ook de loonwaarde. Het eventueel teveel betaalde ziekengeld in dezelfde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        131.0,
+        593.01,
+        136.33,
+        604.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        610.01,
+        429.25,
+        624.01
+      ],
+      "text": "periode verreken je achteraf de AGV- of BOV-uitkering of je vordert het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        220.0,
+        611.01,
+        456.71,
+        624.01
+      ],
+      "text": "met terug.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        631.01,
+        196.23,
+        645.01
+      ],
+      "text": "Voorbeelden BOV-aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        211.0,
+        652.01,
+        443.5,
+        665.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        652.01,
+        421.5,
+        666.01
+      ],
+      "text": "Situatie 1B: samenloop ZW AGV/BOV vanuit hetzelfde dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        672.01,
+        218.25,
+        686.01
+      ],
+      "text": "werknemersbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        692.01,
+        476.33,
+        706.01
+      ],
+      "text": "Dit is dezelfde situatie als situatie het verschil dat in deze (zeldzame) situatie de",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        230.0,
+        693.01,
+        502.4,
+        707.01
+      ],
+      "text": "1A AGV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        246.0,
+        694.01,
+        255.75,
+        707.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        335.0,
+        695.01,
+        341.0,
+        706.01
+      ],
+      "text": "we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        713.01,
+        489.33,
+        727.01
+      ],
+      "text": "/BOV-uitkering de werknemer betalen in plaats de werkgever. De korting de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        152.0,
+        715.01,
+        161.75,
+        727.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        318.0,
+        716.01,
+        475.33,
+        727.01
+      ],
+      "text": "van aan op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        79.0,
+        734.01,
+        491.0,
+        748.01
+      ],
+      "text": "ZW-uitkering blijft hetzelfde (zoals bij situatie 1A). Omdat werknemersbetaling is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        343.0,
+        736.01,
+        386.0,
+        747.01
+      ],
+      "text": "er voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        73.01,
+        481.5,
+        87.01
+      ],
+      "text": "gekozen kun je in principe eventueel teveel betaalde ZW-uitkering niet de AGV of BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        397.0,
+        74.01,
+        406.75,
+        87.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        79.01,
+        117.0,
+        86.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        93.01,
+        497.25,
+        107.01
+      ],
+      "text": "verrekenen. uit dat de werkgever bij het doorbetalen het ziekengeld tijdens het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        145.0,
+        94.01,
+        157.8,
+        107.01
+      ],
+      "text": "gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        134.0,
+        94.01,
+        138.67,
+        108.01
+      ],
+      "text": "Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        167.0,
+        96.01,
+        381.0,
+        107.01
+      ],
+      "text": "ervan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        114.01,
+        379.23,
+        128.01
+      ],
+      "text": "verlof al rekening houdt deze korting minder loon doorbetaalt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        188.0,
+        115.01,
+        197.75,
+        128.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        265.0,
+        116.01,
+        270.33,
+        127.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        146.0,
+        134.01,
+        481.62,
+        148.01
+      ],
+      "text": "werkgever geeft bij het (betaald) verlof tijdens de ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        135.01,
+        137.0,
+        149.01
+      ],
+      "text": "Let De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        251.0,
+        137.01,
+        501.0,
+        148.01
+      ],
+      "text": "opnemen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.0,
+        137.01,
+        122.0,
+        149.01
+      ],
+      "text": "op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        155.01,
+        498.33,
+        169.01
+      ],
+      "text": "wijziging in de loonwaarde vaak niet Na de het betaalde verlof kort je in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        260.0,
+        158.01,
+        356.0,
+        169.01
+      ],
+      "text": "op. aanvraag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        176.01,
+        499.25,
+        190.01
+      ],
+      "text": "periode (in UZS) het verlof in aaneensluitende periode betaald wordt alleen het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        130.0,
+        178.01,
+        281.0,
+        189.01
+      ],
+      "text": "waarover een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        196.01,
+        477.7,
+        210.01
+      ],
+      "text": "bedrag de AGV- of BOV-uitkering (plus eventuele aanvulling de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        127.0,
+        199.01,
+        416.0,
+        210.01
+      ],
+      "text": "van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        217.01,
+        476.22,
+        231.01
+      ],
+      "text": "daarop) niet ook de loonwaarde. Het eventueel teveel betaalde ziekengeld in dezelfde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.0,
+        219.01,
+        136.33,
+        230.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        237.01,
+        429.25,
+        251.01
+      ],
+      "text": "periode verreken je achteraf de AGV- of BOV-uitkering of je vordert het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        220.0,
+        238.01,
+        456.71,
+        251.01
+      ],
+      "text": "met terug.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        258.01,
+        493.67,
+        272.01
+      ],
+      "text": "In overleg werkgever werknemer verreken je wel of niet de betalen AGV- of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        127.0,
+        259.01,
+        418.0,
+        272.01
+      ],
+      "text": "met met te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        195.0,
+        260.01,
+        404.75,
+        271.01
+      ],
+      "text": "en nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        278.01,
+        481.0,
+        292.01
+      ],
+      "text": "BOV-uitkering. Als je niet verrekent is de terugvordering het teveel betaalde ziekengeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        338.0,
+        281.01,
+        347.0,
+        292.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        241.0,
+        285.01,
+        242.0,
+        292.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        299.01,
+        290.57,
+        313.01
+      ],
+      "text": "gedurende de samenlopende rechtperioden hoger.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        79.0,
+        336.02,
+        485.14,
+        355.02
+      ],
+      "text": "Situatie samenloop ZW/ZWW AGV/BOV vanuit",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        140.0,
+        337.02,
+        146.67,
+        356.02
+      ],
+      "text": "2:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        329.0,
+        338.02,
+        344.75,
+        355.02
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        79.0,
+        361.02,
+        215.07,
+        380.02
+      ],
+      "text": "ander dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        391.01,
+        222.73,
+        405.01
+      ],
+      "text": "Hier zijn verschillende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        121.0,
+        392.01,
+        122.5,
+        406.01
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        423.01,
+        433.85,
+        437.01
+      ],
+      "text": "Situatie 2A: samenloop ZW/ZWW AGV/BOV vanuit ander dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        251.0,
+        424.01,
+        454.75,
+        437.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        444.01,
+        221.5,
+        458.01
+      ],
+      "text": "werkgeversbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        506.01,
+        118.34,
+        520.01
+      ],
+      "text": "Situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.0,
+        507.01,
+        432.85,
+        521.01
+      ],
+      "text": "2B: samenloop ZW/ZWW AGV/BOV vanuit ander dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        250.0,
+        508.01,
+        453.75,
+        521.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        527.01,
+        224.5,
+        541.01
+      ],
+      "text": "werknemersbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        559.01,
+        440.5,
+        573.01
+      ],
+      "text": "Situatie 2A: ZW/ZWW AGV/BOV vanuit dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        244.0,
+        560.01,
+        462.5,
+        573.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        138.0,
+        560.01,
+        371.0,
+        574.01
+      ],
+      "text": "samenloop ander",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        580.01,
+        214.25,
+        594.01
+      ],
+      "text": "werkgeversbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        600.01,
+        476.0,
+        614.01
+      ],
+      "text": "De cliënt krijgt ZW- of ZWW-uitkering heeft daarnaast ander dienstverband. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        149.0,
+        603.01,
+        367.0,
+        614.01
+      ],
+      "text": "een en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        621.01,
+        474.86,
+        635.01
+      ],
+      "text": "inkomsten vanuit dat andere dienstverband kort je de ZW- of ZWW-uitkering. De cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        483.0,
+        622.01,
+        502.17,
+        635.01
+      ],
+      "text": "neemt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        302.0,
+        623.01,
+        307.33,
+        634.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        641.01,
+        486.33,
+        655.01
+      ],
+      "text": "in dat andere dienstverband AGV of BOV Je betaalt deze AGV- of BOV-uitkering de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        268.0,
+        644.01,
+        472.0,
+        655.01
+      ],
+      "text": "op. aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        662.01,
+        123.55,
+        676.01
+      ],
+      "text": "werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        682.01,
+        490.33,
+        696.01
+      ],
+      "text": "Bij werkgeversbetaling blijft het sv-loon (dat de werkgever tijdens het AGV of BOV in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        95.0,
+        685.01,
+        104.0,
+        696.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        703.01,
+        506.07,
+        717.01
+      ],
+      "text": "loonaangifte aangaf) het korten inkomen uit arbeid. Het maakt daarbij niet uit of de loonaangifte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        189.0,
+        704.01,
+        193.0,
+        717.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.0,
+        723.01,
+        491.67,
+        737.01
+      ],
+      "text": "wel of niet gevuld is code ‘K’ verminderde loondoorbetaling tijdens AGV of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        172.0,
+        724.01,
+        181.75,
+        737.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        191.0,
+        726.01,
+        280.75,
+        737.01
+      ],
+      "text": "een vanwege",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        79.0,
+        744.01,
+        95.8,
+        758.01
+      ],
+      "text": "BOV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        73.01,
+        507.0,
+        87.01
+      ],
+      "text": "Je blijft het sv-loon korten dat de werkgever in de loonaangifte als inkomen uit arbeid opgeeft. Als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        93.01,
+        501.25,
+        107.01
+      ],
+      "text": "de werkgever in loonaangiftetijdvak loon uitkering in verschillende opgeeft tel je het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        153.0,
+        94.01,
+        420.0,
+        108.01
+      ],
+      "text": "1 IKV’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        272.0,
+        96.01,
+        277.33,
+        107.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        463.0,
+        100.01,
+        464.0,
+        107.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        114.01,
+        321.71,
+        128.01
+      ],
+      "text": "inkomen uit de loon IKV de uitkerings IKV bij elkaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        193.0,
+        116.01,
+        340.25,
+        127.01
+      ],
+      "text": "en op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        143.0,
+        134.01,
+        467.5,
+        148.01
+      ],
+      "text": "kort het sv-loon in de loonaangifteperiode waarin het sv-loon is betaald als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        94.0,
+        135.01,
+        135.0,
+        149.01
+      ],
+      "text": "Let Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        474.0,
+        137.01,
+        478.0,
+        148.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.0,
+        137.01,
+        122.0,
+        149.01
+      ],
+      "text": "op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        94.0,
+        155.01,
+        492.0,
+        169.01
+      ],
+      "text": "samenloop is ZW-/ZWW-uitkering in de betaalperiode. Je kort dus niet het dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        155.0,
+        156.01,
+        164.75,
+        169.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        174.0,
+        158.01,
+        183.0,
+        169.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.0,
+        176.01,
+        372.56,
+        190.01
+      ],
+      "text": "de uitkering in de samenlopende perioden beide rechten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        94.0,
+        178.01,
+        309.0,
+        189.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        196.01,
+        350.71,
+        210.01
+      ],
+      "text": "Je berekent het gemiddelde inkomstenbedrag dag als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        280.0,
+        199.01,
+        288.25,
+        210.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        217.01,
+        379.13,
+        231.01
+      ],
+      "text": "Sv-loon in het loonaangiftetijdvak (sv-loon loon-ikv uitkerings-ikv)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        312.0,
+        218.01,
+        314.0,
+        231.01
+      ],
+      "text": "+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        242.01,
+        488.49,
+        251.01
+      ],
+      "text": "———————————————————————————————————————",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        263.01,
+        207.8,
+        272.01
+      ],
+      "text": "—————————————-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        107.0,
+        278.01,
+        451.07,
+        292.01
+      ],
+      "text": "(loonaangifte maand) of (loonaangifte weken) of (loonaangifte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        279.01,
+        481.5,
+        293.01
+      ],
+      "text": "2175 1 20 4 4 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        168.0,
+        281.01,
+        470.0,
+        292.01
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.0,
+        285.01,
+        91.0,
+        292.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        299.01,
+        98.17,
+        313.01
+      ],
+      "text": "week)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        82.0,
+        330.01,
+        97.0,
+        344.01
+      ],
+      "text": "Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.0,
+        331.01,
+        491.9,
+        345.01
+      ],
+      "text": "ZW-uitkering kort je dit bedrag dag de dagen dat in dit loonaangiftetijdvak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        110.0,
+        333.01,
+        381.0,
+        344.01
+      ],
+      "text": "een per op er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        94.0,
+        351.01,
+        198.71,
+        365.01
+      ],
+      "text": "recht is ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.0,
+        354.01,
+        134.33,
+        365.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        82.0,
+        414.01,
+        447.33,
+        428.01
+      ],
+      "text": "Bij ZWW-uitkering bereken je het maandinkomen kort je volgens de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        250.0,
+        415.01,
+        265.0,
+        428.01
+      ],
+      "text": "eerst",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        455.0,
+        415.01,
+        469.25,
+        429.01
+      ],
+      "text": "WW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        110.0,
+        417.01,
+        366.33,
+        428.01
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        94.0,
+        435.01,
+        197.67,
+        449.01
+      ],
+      "text": "verrekeningssystematiek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        244.0,
+        467.01,
+        461.5,
+        480.01
+      ],
+      "text": "met met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        467.01,
+        439.5,
+        481.01
+      ],
+      "text": "Situatie 2B: samenloop ZW/ZWW AGV/BOV vanuit ander dienstverband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        487.01,
+        218.25,
+        501.01
+      ],
+      "text": "werknemersbetaling AGV/BOV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        508.01,
+        476.0,
+        522.01
+      ],
+      "text": "De cliënt krijgt ZW- of ZWW-uitkering heeft daarnaast ander dienstverband. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        149.0,
+        510.01,
+        367.0,
+        521.01
+      ],
+      "text": "een en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        528.01,
+        474.86,
+        542.01
+      ],
+      "text": "inkomsten vanuit dat andere dienstverband kort je de of ZWW-uitkering. cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        483.0,
+        529.01,
+        502.17,
+        542.01
+      ],
+      "text": "neemt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        329.0,
+        529.01,
+        447.0,
+        543.01
+      ],
+      "text": "ZW- De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        302.0,
+        531.01,
+        307.33,
+        542.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        549.01,
+        504.5,
+        563.01
+      ],
+      "text": "in dat andere dienstverband AGV of BOV Je betaalt deze uitkeringen AGV- of BOV-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        268.0,
+        551.01,
+        276.25,
+        562.01
+      ],
+      "text": "op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        97.0,
+        569.01,
+        102.33,
+        583.01
+      ],
+      "text": "de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        110.0,
+        570.01,
+        157.27,
+        584.01
+      ],
+      "text": "werknemer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        572.01,
+        88.0,
+        583.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        590.01,
+        500.0,
+        604.01
+      ],
+      "text": "Ook bij werknemersbetaling blijft het sv-loon (dat de werkgever tijdens het AGV of BOV in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        115.0,
+        593.01,
+        124.0,
+        604.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        610.01,
+        464.33,
+        624.01
+      ],
+      "text": "de loonaangifte aangaf) het korten inkomen uit arbeid. maakt daarbij niet uit of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.0,
+        611.01,
+        206.0,
+        624.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        332.0,
+        611.01,
+        341.0,
+        625.01
+      ],
+      "text": "Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        631.01,
+        474.82,
+        645.01
+      ],
+      "text": "loonaangifte wel of niet gevuld is code ‘K’ verminderde loondoorbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        229.0,
+        632.01,
+        238.75,
+        645.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        249.0,
+        633.01,
+        337.75,
+        644.01
+      ],
+      "text": "een vanwege",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        651.01,
+        142.67,
+        665.01
+      ],
+      "text": "tijdens of",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        111.0,
+        652.01,
+        166.8,
+        666.01
+      ],
+      "text": "AGV BOV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        672.01,
+        504.0,
+        686.01
+      ],
+      "text": "Je blijft het sv-loon korten dat de werkgever in de loonaangifte als inkomen uit arbeid opgeeft. Na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        692.01,
+        408.5,
+        706.01
+      ],
+      "text": "het het verlof de werkgever de of BOV-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        308.0,
+        693.01,
+        326.4,
+        707.01
+      ],
+      "text": "AGV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.0,
+        694.01,
+        222.57,
+        707.01
+      ],
+      "text": "vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        95.0,
+        695.01,
+        431.0,
+        706.01
+      ],
+      "text": "opnemen van aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        713.01,
+        485.67,
+        727.01
+      ],
+      "text": "Je kort dan het (verminderde) sv-loon de werkgever de rechtstreeks betaalde AGV- of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        329.0,
+        715.01,
+        334.33,
+        727.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        248.0,
+        716.01,
+        257.0,
+        727.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.0,
+        734.01,
+        447.4,
+        748.01
+      ],
+      "text": "BOV-uitkering in de betaalperiode waarin samenloop is ZW- of ZWW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        328.0,
+        735.01,
+        337.75,
+        748.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        73.01,
+        432.71,
+        87.01
+      ],
+      "text": "Je berekent het gemiddelde kortingsbedrag samenlopende ziektedag als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        271.0,
+        75.01,
+        279.25,
+        86.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        93.01,
+        424.9,
+        107.01
+      ],
+      "text": "Sv-loon werkgever werknemersbetaling AGV/BOV in het loonaangiftetijdvak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        166.0,
+        94.01,
+        168.0,
+        107.01
+      ],
+      "text": "+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        119.01,
+        488.49,
+        128.01
+      ],
+      "text": "———————————————————————————————————————",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        139.01,
+        207.8,
+        148.01
+      ],
+      "text": "—————————————-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        155.01,
+        481.5,
+        169.01
+      ],
+      "text": "217 5 (loonaangifte 1 maand) of 20 (loonaangifte 4 weken) of 4 (loonaangifte 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        168.0,
+        158.01,
+        470.0,
+        169.01
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        162.01,
+        91.0,
+        169.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        176.01,
+        98.17,
+        190.01
+      ],
+      "text": "week)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        196.01,
+        484.85,
+        210.01
+      ],
+      "text": "Je kort het gemiddelde kortingsbedrag dag de ziektedagen in deze loonaangifteperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        251.0,
+        199.01,
+        291.33,
+        210.01
+      ],
+      "text": "per op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        217.01,
+        493.47,
+        231.01
+      ],
+      "text": "Let Als einde dienstverband samenloop (meer) is de werknemersbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        149.0,
+        219.01,
+        389.0,
+        230.01
+      ],
+      "text": "er na geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        113.0,
+        219.01,
+        122.0,
+        231.01
+      ],
+      "text": "op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        237.01,
+        443.25,
+        251.01
+      ],
+      "text": "AGV of BOV betaling sv-loon door de werkgever dan kort je vanaf het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        159.0,
+        238.01,
+        478.57,
+        251.01
+      ],
+      "text": "met moment",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        216.0,
+        240.01,
+        499.0,
+        251.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        353.0,
+        244.01,
+        354.0,
+        251.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        258.01,
+        374.71,
+        272.01
+      ],
+      "text": "betaling de AGV- of BOV-uitkering dag de ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        257.0,
+        260.01,
+        297.33,
+        271.01
+      ],
+      "text": "per op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        278.01,
+        127.59,
+        292.01
+      ],
+      "text": "Voorbeelden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        299.01,
+        264.2,
+        313.01
+      ],
+      "text": "Waar vind je het uitkeringsbedrag BOV?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        91.0,
+        319.01,
+        472.25,
+        333.01
+      ],
+      "text": "vindt het bedrag de uitkering in het scherm Simuleren betaalbaarstellen. kiest het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        320.01,
+        433.0,
+        334.01
+      ],
+      "text": "Je Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        165.0,
+        322.01,
+        174.0,
+        333.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        340.01,
+        463.4,
+        354.01
+      ],
+      "text": "keuzerondje ‘Daguitkering’ klikt de knop “Berekenen”. Het veld Totale uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        394.0,
+        341.01,
+        496.67,
+        354.01
+      ],
+      "text": "< > toont",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        204.0,
+        343.01,
+        245.33,
+        354.01
+      ],
+      "text": "en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        361.01,
+        234.17,
+        375.01
+      ],
+      "text": "de bruto daguitkering (dit is al 70%).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        381.01,
+        319.67,
+        395.01
+      ],
+      "text": "Je verder ‘Verwerken kortingsbedrag dag’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        91.0,
+        382.01,
+        152.75,
+        395.01
+      ],
+      "text": "gaat met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        286.0,
+        384.01,
+        294.25,
+        395.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        79.0,
+        419.02,
+        359.0,
+        440.02
+      ],
+      "text": "Verwerken kortingsbedrag dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        309.0,
+        424.02,
+        324.75,
+        440.02
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        91.0,
+        452.01,
+        502.0,
+        466.01
+      ],
+      "text": "kort altijd de werkelijke inkomsten de ziekmelding. Als het uitkeringspercentage 70 is kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        453.01,
+        83.0,
+        467.01
+      ],
+      "text": "Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        248.0,
+        455.01,
+        253.33,
+        466.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        484.0,
+        459.01,
+        485.0,
+        466.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        473.01,
+        357.71,
+        487.01
+      ],
+      "text": "je het kortingsbedrag dag ook 70% de ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        175.0,
+        475.01,
+        280.33,
+        486.01
+      ],
+      "text": "per voor op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        146.0,
+        493.01,
+        249.6,
+        507.01
+      ],
+      "text": "je de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.0,
+        494.01,
+        112.78,
+        508.01
+      ],
+      "text": "Daarvoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        123.0,
+        496.01,
+        135.8,
+        507.01
+      ],
+      "text": "voer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        83.0,
+        525.01,
+        368.75,
+        539.01
+      ],
+      "text": "Open het scherm Registreren gedeeltelijk werken tijdens ziekte.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        584.01,
+        501.0,
+        598.01
+      ],
+      "text": "Controleer of lopende korting is het gedeeltelijk werken. Als die is beëindig je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        587.01,
+        437.0,
+        598.01
+      ],
+      "text": "er een voor er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        451.0,
+        591.01,
+        452.0,
+        598.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        605.01,
+        479.87,
+        619.01
+      ],
+      "text": "de korting de periode dat betaald ouderschapsverlof of aanvullend geboorteverlof",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.0,
+        607.01,
+        234.0,
+        618.01
+      ],
+      "text": "voor er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        625.01,
+        466.07,
+        639.01
+      ],
+      "text": "wordt betaald. Gebruik hierbij Beëindiging korting de werkinstructie ‘Registreren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        321.0,
+        628.01,
+        330.0,
+        639.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        646.01,
+        481.91,
+        660.01
+      ],
+      "text": "inkomsten in UZS’. Gebruik de periode het verlof de inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        223.0,
+        648.01,
+        429.6,
+        659.01
+      ],
+      "text": "voor na weer opgegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.0,
+        666.01,
+        399.0,
+        680.01
+      ],
+      "text": "Registreer die ook volgens de werkinstructie Registreren inkomsten in",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        407.0,
+        667.01,
+        423.0,
+        681.01
+      ],
+      "text": "UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.0,
+        725.01,
+        97.0,
+        739.01
+      ],
+      "text": "Sla",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        111.0,
+        726.01,
+        116.33,
+        740.01
+      ],
+      "text": "de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.0,
+        728.01,
+        176.25,
+        739.01
+      ],
+      "text": "gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        81.0,
+        100.01,
+        448.91,
+        114.01
+      ],
+      "text": "Registreer de inkomsten de uitkering betaald ouderschapsverlof of aanvullend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        204.0,
+        103.01,
+        213.0,
+        114.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        94.0,
+        121.01,
+        414.0,
+        135.01
+      ],
+      "text": "geboorteverlof volgens de werkinstructie ‘Registreren inkomsten in UZS’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.0,
+        180.01,
+        116.33,
+        194.01
+      ],
+      "text": "Sla de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        124.0,
+        183.01,
+        176.25,
+        194.01
+      ],
+      "text": "gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        239.01,
+        280.71,
+        253.01
+      ],
+      "text": "Open het scherm Correspondentie bij geval.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        94.0,
+        260.01,
+        303.82,
+        274.01
+      ],
+      "text": "Verstuur de volgende brieven de werkgever:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        227.0,
+        263.01,
+        239.8,
+        274.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        94.0,
+        281.01,
+        485.8,
+        295.01
+      ],
+      "text": "SET12K195 ‘Korting i. inkomsten (uitsluitend ziektedag vanaf 1-7-2011) (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        322.0,
+        282.01,
+        341.71,
+        295.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        283.01,
+        212.33,
+        294.01
+      ],
+      "text": "o v. m.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        94.0,
+        350.01,
+        335.0,
+        364.01
+      ],
+      "text": "SET12K201 ‘Korting bij samenloop BOV/AGV ZW’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        353.01,
+        315.33,
+        364.01
+      ],
+      "text": "o en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        94.0,
+        382.01,
+        295.87,
+        396.01
+      ],
+      "text": "Of de volgende brieven de cliënt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        109.0,
+        383.01,
+        137.44,
+        396.01
+      ],
+      "text": "verstuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        239.0,
+        384.01,
+        251.8,
+        395.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        94.0,
+        414.01,
+        499.0,
+        428.01
+      ],
+      "text": "SET12K191 ‘Korting in verband inkomsten (uitsluitend ziektedag vanaf 1-7-2011)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        242.0,
+        415.01,
+        382.71,
+        428.01
+      ],
+      "text": "met eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        416.01,
+        78.0,
+        427.01
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        152.0,
+        479.01,
+        295.5,
+        493.01
+      ],
+      "text": "‘Korting bij samenloop BOV/AGV",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        94.0,
+        480.01,
+        335.0,
+        494.01
+      ],
+      "text": "SET12K202 ZW’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        482.01,
+        315.33,
+        493.01
+      ],
+      "text": "o en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        72.0,
+        512.01,
+        97.71,
+        526.01
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        79.0,
+        533.01,
+        335.89,
+        547.01
+      ],
+      "text": "Cliënt Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        306.0,
+        565.01,
+        456.0,
+        579.01
+      ],
+      "text": "SET12K191 ‘Korting in verband",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        466.0,
+        566.01,
+        475.75,
+        579.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        318.0,
+        586.01,
+        482.2,
+        600.01
+      ],
+      "text": "inkomsten (uitsluitend ziektedag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        420.0,
+        587.01,
+        439.71,
+        600.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        318.0,
+        606.01,
+        382.0,
+        620.01
+      ],
+      "text": "vanaf 1-7-2011)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        306.0,
+        665.01,
+        470.6,
+        679.01
+      ],
+      "text": "SET12K202 ‘Korting bij samenloop",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        318.0,
+        686.01,
+        396.0,
+        700.01
+      ],
+      "text": "BOV/AGV ZW’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        371.0,
+        688.01,
+        376.33,
+        699.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        303.0,
+        718.01,
+        335.89,
+        732.01
+      ],
+      "text": "Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        79.0,
+        719.01,
+        122.2,
+        733.01
+      ],
+      "text": "Werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        306.0,
+        84.01,
+        502.0,
+        98.01
+      ],
+      "text": "SET00I060 ‘Verzoek ontbrekende info",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        416.0,
+        87.01,
+        422.67,
+        98.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        318.0,
+        105.01,
+        410.82,
+        119.01
+      ],
+      "text": "WAZO bij werkgever’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        306.0,
+        163.01,
+        360.0,
+        177.01
+      ],
+      "text": "SET12K195",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        376.0,
+        164.01,
+        482.8,
+        178.01
+      ],
+      "text": "‘Korting i. inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        431.0,
+        166.01,
+        436.33,
+        177.01
+      ],
+      "text": "m.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        423.0,
+        167.01,
+        427.0,
+        178.01
+      ],
+      "text": "v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        318.0,
+        184.01,
+        462.5,
+        198.01
+      ],
+      "text": "(uitsluitend ziektedag vanaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        472.0,
+        185.01,
+        484.8,
+        199.01
+      ],
+      "text": "1-7-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        371.0,
+        186.01,
+        390.71,
+        199.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        318.0,
+        205.01,
+        363.8,
+        219.01
+      ],
+      "text": "2011) (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        306.0,
+        264.01,
+        470.6,
+        278.01
+      ],
+      "text": "SET12K201 ‘Korting bij samenloop",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        318.0,
+        285.01,
+        396.0,
+        299.01
+      ],
+      "text": "BOV/AGV ZW’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        371.0,
+        287.01,
+        376.33,
+        298.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.0,
+        318.01,
+        101.29,
+        332.01
+      ],
+      "text": "Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        306.0,
+        328.01,
+        348.67,
+        342.01
+      ],
+      "text": "Berekend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        363.0,
+        329.01,
+        458.0,
+        343.01
+      ],
+      "text": "kortingsbedrag dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        432.0,
+        331.01,
+        440.25,
+        342.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        305.0,
+        387.01,
+        360.38,
+        401.01
+      ],
+      "text": "Registraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        373.0,
+        388.01,
+        396.0,
+        402.01
+      ],
+      "text": "in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        421.01,
+        128.64,
+        435.01
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.0,
+        442.01,
+        128.5,
+        456.01
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        463.01,
+        130.15,
+        477.01
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.0,
+        485.01,
+        364.75,
+        499.01
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        303.0,
+        505.01,
+        376.9,
+        519.01
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        526.01,
+        253.82,
+        540.01
+      ],
+      "text": "Wettelijke basis informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        152.0,
+        527.01,
+        200.59,
+        541.01
+      ],
+      "text": "aanvullende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.0,
+        532.01,
+        148.0,
+        540.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.0,
+        548.01,
+        123.91,
+        562.01
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.0,
+        573.01,
+        136.58,
+        587.01
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    }
+  ]
+}

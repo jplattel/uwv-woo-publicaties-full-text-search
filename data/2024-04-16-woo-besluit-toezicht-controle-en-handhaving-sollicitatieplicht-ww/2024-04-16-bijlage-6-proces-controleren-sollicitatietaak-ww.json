@@ -1,0 +1,3785 @@
+{
+  "source_id": "2024-04-16-woo-besluit-toezicht-controle-en-handhaving-sollicitatieplicht-ww/2024-04-16-bijlage-6-proces-controleren-sollicitatietaak-ww",
+  "publication_slug": "2024-04-16-woo-besluit-toezicht-controle-en-handhaving-sollicitatieplicht-ww",
+  "pdf_slug": "2024-04-16-bijlage-6-proces-controleren-sollicitatietaak-ww",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-toezicht-controle-en-handhaving-sollicitatieplicht-ww",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/a35368ea-7a1f-4244-a235-f9004b3f52e6/bijlage-6-proces-controleren-sollicitatietaak-ww.pdf",
+  "publication_title": "Woo-besluit toezicht, controle en handhaving sollicitatieplicht WW",
+  "publication_date": "2024-04-16T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 6. Proces Controleren sollicitatietaak WW (PDF, 256 kB)",
+  "retrieved_at": "2026-06-30T13:08:39+00:00",
+  "sha256": "f41ded7861a5fc44beb8e55e8c45bf60c1552d7aae1d953e439a3bc3f3da5523",
+  "page_count": 12,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        259.1,
+        45.8,
+        276.88,
+        54.8
+      ],
+      "text": "WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        33.96,
+        57.8,
+        68.68,
+        66.8
+      ],
+      "text": "Domein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        259.1,
+        62.12,
+        695.67,
+        71.12
+      ],
+      "text": "Deze procesbeschrijving geldt voor werkzoekenden met een WW-uitkering of een IOW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        33.96,
+        79.04,
+        654.88,
+        88.04
+      ],
+      "text": "Wijziging t.o.v. vorige versie Processtap 7 ingevoegd: Contact opnemen met cliënt bij opleggen financiële maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        33.96,
+        95.96,
+        313.2,
+        104.96
+      ],
+      "text": "Datum wijziging 01-11-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        33.96,
+        112.88,
+        365.13,
+        121.88
+      ],
+      "text": "Productbeschrijving Controle sollicitatietaak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        33.96,
+        129.8,
+        454.63,
+        138.8
+      ],
+      "text": "Registraties QRC Sonar Opstarten handhaafdossier WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        158.75,
+        295.55,
+        167.75
+      ],
+      "text": "1. Automatische controle sollicitatietaak door Sonar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        178.07,
+        759.68,
+        187.07
+      ],
+      "text": "Vanaf het moment dat zijn werkloosheidsperiode (op basis van WW- of IOW-uitkering) ingaat, ontvangt de werkzoekende de sollicitatietaak in zijn Werkmap. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        194.51,
+        796.81,
+        203.51
+      ],
+      "text": "sollicitatietaak is gericht op de 4 sollicitatieactiviteiten per 4 weken (of een ander aantal dat is afgesproken), en omvat 2 maatregelwaardige gedragingen, indien de taak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        210.95,
+        326.38,
+        219.95
+      ],
+      "text": "niet wordt nagekomen: de sollicitatieplicht en de informatieplicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        227.39,
+        797.07,
+        236.39
+      ],
+      "text": "Controle op de sollicitatietaak vindt geautomatiseerd plaats. Bij de eerste keer dat de werkzoekende geen of onvoldoende activiteiten doorgeeft via de sollicitatietaak zet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        243.71,
+        792.93,
+        252.71
+      ],
+      "text": "Sonar automatisch een attenderingsbericht [tekst] in de werkmap van de werkzoekende. Bij elke volgende overtreding verschijnt automatisch een verantwoordingstaak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        260.15,
+        811.0,
+        269.15
+      ],
+      "text": "[tekst] in de Werkmap van de werkzoekende; daarop kan de werkzoekende een reactie geven waarom hij niet tijdig voldoende sollicitatie-activiteiten heeft doorgegeven en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        276.61,
+        224.74,
+        285.61
+      ],
+      "text": "eventueel sollicitatie-activiteiten aanvullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        293.05,
+        771.6,
+        302.05
+      ],
+      "text": "De criteria op basis waarvan Sonar een attenderingsbericht of een verantwoordingstaak aanmaakt, zijn beschreven in het document Criteria attenderingsbericht en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        309.37,
+        126.78,
+        318.37
+      ],
+      "text": "verantwoordingstaak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        342.25,
+        420.77,
+        351.25
+      ],
+      "text": "2. Eventueel actie van adviseur werk naar aanleiding van attenderingsbericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        358.57,
+        795.0,
+        367.57
+      ],
+      "text": "Het attenderingsbericht verschijnt automatisch in werkmap. De werkzoekende hoeft daar niet op te reageren en de adviseur werk hoeft daar normaliter geen actie op te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        375.01,
+        88.53,
+        384.01
+      ],
+      "text": "ondernemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        391.48,
+        783.76,
+        400.48
+      ],
+      "text": "Sonar heeft voor de attendering automatisch de overeenkomst ATTE01 aangemaakt. Die overeenkomst wordt niet getoond bij Mijn taken en op de startpagina van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        407.92,
+        790.51,
+        416.92
+      ],
+      "text": "adviseur, heeft een looptijd van 28 dagen en wordt na 7 dagen automatisch op status ‘Gereed’ gezet. De adviseur werk kan desgewenst op tabblad Overeenkomsten in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        424.24,
+        455.84,
+        433.24
+      ],
+      "text": "Sonar de overeenkomst ATTE01 handmatig op 'Gereed' zetten, maar dat hoeft dus niet persé.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        457.12,
+        808.53,
+        466.12
+      ],
+      "text": "Het kan zijn dat de adviseur werk constateert, bijvoorbeeld naar aanleiding van een reactie van de werkzoekende, dat het attenderingsbericht ten onrechte is aangemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        473.56,
+        780.36,
+        482.56
+      ],
+      "text": "In zo’n geval kan de adviseur werk op Sonar-tabblad Personalia de datum in het veld ‘Attendering verzonden’ verwijderen. Daarmee voorkom je dat bij een volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        489.88,
+        779.47,
+        498.88
+      ],
+      "text": "overtreding een verantwoordingstaak wordt aangemaakt. Meld dan wel aan de werkzoekende dat deze het attenderingsbericht als niet verzonden moet beschouwen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 1 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        45.18,
+        310.55,
+        54.18
+      ],
+      "text": "3. Beoordelen verantwoordingstaak door adviseur werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.56,
+        216.71,
+        509.12,
+        225.71
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        39.48,
+        233.87,
+        433.62,
+        242.87
+      ],
+      "text": "1. Zoeken naar De adviseur werk voert dagelijks de volgende twee acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        39.48,
+        250.31,
+        767.4,
+        259.31
+      ],
+      "text": "reactie op 1) De adviseur kijkt via een voorgedefinieerde query (PDQ) of er naar aanleiding van de verstuurde verantwoordingstaken reacties zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        39.48,
+        266.63,
+        785.34,
+        275.63
+      ],
+      "text": "verantwoordingstaak binnengekomen. De query ‘Ontvangen Klantreactie Verantw Soll’ is te vinden in Sonar onder Contacten – Rapportages. Je beoordeelt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.74,
+        283.09,
+        747.06,
+        292.09
+      ],
+      "text": "reacties die zijn binnengekomen op de verantwoordingstaak. Je treft de alsnog doorgegeven sollicitatieactiviteiten aan onder de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.74,
+        299.53,
+        709.83,
+        308.53
+      ],
+      "text": "oorspronkelijke sollicitatietaak. Op de rapportage is aan een vinkje in de kolom 'Nalevering' te zien dat een aanvullende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.74,
+        315.97,
+        542.07,
+        324.97
+      ],
+      "text": "sollicitatievermelding is aangeleverd na de oorspronkelijke einddatum van de taak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.74,
+        332.29,
+        800.46,
+        341.29
+      ],
+      "text": "Kijk ook bij ‘Mijn te behandelen rapportages’ onder het tabblad Contacten - Rapportages in Sonar. Klik daarvoor op ‘Ophalen te behandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.74,
+        348.73,
+        519.57,
+        357.73
+      ],
+      "text": "rapportages’. Daar kun je ook reacties op de verantwoordingstaak aantreffen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.74,
+        365.17,
+        806.08,
+        374.17
+      ],
+      "text": "2) De adviseur kijkt op het tabblad Overeenkomsten in Sonar of er verantwoordingstaken zijn waarop geen reactie is binnengekomen. Dat gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.74,
+        381.49,
+        756.72,
+        390.49
+      ],
+      "text": "via de query ‘Lopende Verantwoord Soll. taak’. Je pakt de lopende verantwoordingstaken op waarvan de einddatum is verstreken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.74,
+        414.4,
+        369.21,
+        423.4
+      ],
+      "text": "Let op: ‘Foutief aangemaakt’ niet gebruiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.74,
+        430.84,
+        787.9,
+        439.84
+      ],
+      "text": "Het is niet toegestaan een verantwoordingstaak in Sonar af te boeken met de constatering ‘Foutief aangemaakt’. Een verantwoordingstaak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.74,
+        447.16,
+        766.62,
+        456.16
+      ],
+      "text": "moet je altijd oppakken. We hebben de werkzoekende in de verantwoordingstaak gevraagd om te reageren op onze constatering dat hij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.74,
+        463.6,
+        804.63,
+        472.6
+      ],
+      "text": "onvoldoende sollicitatie-activiteiten heeft doorgegeven. De werkzoekende heeft er recht op van ons te horen wat we met zijn reactie (of met het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.74,
+        480.04,
+        346.24,
+        489.04
+      ],
+      "text": "ontbreken van zijn reactie) hebben gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        39.48,
+        513.54,
+        798.61,
+        522.54
+      ],
+      "text": "2. Beoordelen Voor de werkzoekende die geen reactie op de verantwoordingstaak heeft ingezonden, beoordeel je eerst of hij in staat is gebruik te maken van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        39.48,
+        529.98,
+        789.82,
+        538.98
+      ],
+      "text": "digivaardigheid het e-kanaal. Kijk of werkzoekende al eerder digitaal contact met Werkbedrijf heeft gehad (bijvoorbeeld een ingevulde Werkverkenner, cv op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 2 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        63.08,
+        793.77,
+        72.08
+      ],
+      "text": "werk.nl, werkmapberichten). Mogelijk zijn er ook andere signalen die duiden op gebrek aan digivaardigheid (bijvoorbeeld een telefoongesprek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        79.52,
+        242.07,
+        88.52
+      ],
+      "text": "met KCC; zie K3CR).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        113.12,
+        804.37,
+        122.12
+      ],
+      "text": "3. Aanbieden EKNM- Als de constatering luidt dat het e-kanaal niet mogelijk is, registreer je dat in Sonar en bied je de werkzoekende voortaan EKNM-dienstverlening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        129.44,
+        773.05,
+        138.44
+      ],
+      "text": "dienstverlening voor (via telefoon of eventueel beeldbellen of via de vestiging). Bespreek hoe de dienstverlening in de toekomst gaat verlopen en de wijze van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        145.88,
+        332.77,
+        154.88
+      ],
+      "text": "werkzoekende die aanleveren van de sollicitatieactiviteiten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        162.35,
+        799.47,
+        171.35
+      ],
+      "text": "geen gebruik kan Advies: informeer ook de Divisie Uitkeren over het feit dat de werkzoekende behoort tot de doelgroep E-kanaal niet mogelijk. Uitkeren kan dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        178.79,
+        496.5,
+        187.79
+      ],
+      "text": "maken van het e- regelen dat de werkzoekende zijn inkomstenopgave op papier kan inleveren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        195.11,
+        399.83,
+        204.11
+      ],
+      "text": "kanaal Gebruik hiervoor de kennisgeving mededeling in Sonar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        227.99,
+        794.13,
+        236.99
+      ],
+      "text": "Verder moet je dan nog wèl beoordelen in hoeverre er sprake is van verwijtbaarheid ten aanzien van het onvoldoende of niet tijdig doorgeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        244.31,
+        754.3,
+        253.31
+      ],
+      "text": "van sollicitatie-activiteiten. Gebrek aan digivaardigheid kan een reden zijn om de werkzoekende niet of minder verwijtbaar te achten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        260.75,
+        795.99,
+        269.75
+      ],
+      "text": "Omdat het e-kanaal voor deze werkzoekende niet mogelijk is, heeft hij geen gebruik kunnen maken van hoor-wederhoor via een reactie op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        277.21,
+        782.76,
+        286.21
+      ],
+      "text": "verantwoordingstaak. Daarom moet jij contact opnemen met de werkzoekende om hoor-wederhoor aan te bieden. Zie verder processtap 5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        293.65,
+        708.41,
+        302.65
+      ],
+      "text": "Je kunt het bieden van EKNM-dienstverlening en het bieden van hoor-wederhoor natuurlijk wel combineren in één gesprek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        327.13,
+        275.1,
+        336.13
+      ],
+      "text": "4. Beoordelen Je komt in deze processtap:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        343.57,
+        552.15,
+        352.57
+      ],
+      "text": "verdere inzet hoor- als de werkzoekende wèl een reactie op de verantwoordingstaak heeft ingestuurd; of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        343.65,
+        151.88,
+        352.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        39.48,
+        360.01,
+        779.25,
+        369.01
+      ],
+      "text": "wederhoor als de werkzoekende géén reactie op de verantwoordingstaak heeft ingestuurd èn je hebt vastgesteld dat het e-kanaal wèl mogelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        360.09,
+        151.88,
+        369.09
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        376.33,
+        802.15,
+        385.33
+      ],
+      "text": "Als een werkzoekende niet aan een verplichting voldoet, moet hij de kans krijgen om aan te geven wat de reden was voor het niet voldoen. Pas",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        392.8,
+        787.86,
+        401.8
+      ],
+      "text": "daarna mag UWV vaststellen of het niet voldoen aan de verplichting verwijtbaar is. Hoor-wederhoor is een recht van de werkzoekende, geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        409.24,
+        807.33,
+        418.24
+      ],
+      "text": "plicht. Hij hoeft daar geen gebruik van te maken. Met de verantwoordingstaak heeft de werkzoekende de kans gekregen om te reageren op onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        425.68,
+        794.09,
+        434.68
+      ],
+      "text": "vaststelling dat hij onvoldoende sollicitatieactiviteiten heeft doorgegeven. Daarmee hebben we de werkzoekende het recht op hoor-wederhoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        442.0,
+        788.88,
+        451.0
+      ],
+      "text": "geboden. Strikt genomen kan de adviseur werk op basis van een duidelijke reactie van de werkzoekende op de verantwoordingstaak meteen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        458.44,
+        798.79,
+        467.44
+      ],
+      "text": "een oordeel vellen over de verwijtbaarheid. Hetzelfde geldt als de werkzoekende nièt gereageerd heeft en dus geen gebruik heeft gemaakt van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        474.88,
+        283.33,
+        483.88
+      ],
+      "text": "zijn recht op hoor-wederhoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        507.66,
+        325.85,
+        516.66
+      ],
+      "text": "Professionele beoordeling adviseur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        524.1,
+        800.53,
+        533.1
+      ],
+      "text": "Er kunnen allerlei redenen zijn om met de werkzoekende toch te spreken voordat je een beslissing kunt nemen. Dienstverlening en handhaving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.74,
+        540.54,
+        746.07,
+        549.54
+      ],
+      "text": "gaan daarbij hand in hand. Het professionele oordeel van de adviseur werk op de situatie en de reactie van de werkzoekende op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 3 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        63.08,
+        800.49,
+        72.08
+      ],
+      "text": "verantwoordingstaak bepalen welke mix van dienstverlening en handhaving op zijn plaats is. Dat kan het wegnemen van onduidelijkheden zijn,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        79.52,
+        799.25,
+        88.52
+      ],
+      "text": "dat kan het bieden van een helpende hand zijn, dat kan inzet van gerichte dienstverlening zijn, maar wel steeds in combinatie met een oordeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        95.96,
+        750.4,
+        104.96
+      ],
+      "text": "over de verwijtbaarheid van het onvoldoende en/of niet tijdig voldoen aan de sollicitatietaak. Daarmee probeer je te bereiken dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        112.28,
+        410.38,
+        121.28
+      ],
+      "text": "werkzoekende dezelfde overtreding niet nog eens begaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        145.16,
+        544.67,
+        154.16
+      ],
+      "text": "Als je besluit dat je de werkzoekende wilt spreken, dan is de vorm van dat contact vrij:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        165.74,
+        161.63,
+        240.73,
+        170.63
+      ],
+      "text": "spontaan bellen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        161.71,
+        151.88,
+        170.71
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        177.95,
+        479.06,
+        187.03
+      ],
+      "text": "• een afspraak maken voor een telefonisch hoor-wederhoorgesprek, of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        165.74,
+        194.39,
+        498.21,
+        203.39
+      ],
+      "text": "een afspraak maken voor een hoor-wederhoorgesprek via beeldbellen, of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        194.47,
+        151.88,
+        203.47
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        165.74,
+        210.83,
+        487.88,
+        219.83
+      ],
+      "text": "een afspraak maken voor een hoor-wederhoorgesprek op de vestiging.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        210.91,
+        151.88,
+        219.91
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        227.15,
+        680.53,
+        236.15
+      ],
+      "text": "Je kiest een vorm op basis van de situatie van de werkzoekende en hetgeen je met de werkzoekende wilt bespreken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        260.03,
+        180.1,
+        269.03
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        276.49,
+        732.14,
+        285.49
+      ],
+      "text": "Vermeld uitgaande telefonische contacten altijd in K3CR. Zie de QRC Registreren uitgaande telefonische klantcontacten in K3CR.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        39.48,
+        309.97,
+        275.1,
+        318.97
+      ],
+      "text": "5. Inzetten hoor- Je komt in deze processtap:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        39.48,
+        326.41,
+        431.9,
+        335.41
+      ],
+      "text": "wederhoorgesprek als voor de werkzoekende het e-kanaal niet mogelijk is; of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        326.49,
+        151.88,
+        335.49
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        342.85,
+        804.24,
+        351.93
+      ],
+      "text": "• als het niet mogelijk is om alleen op basis van de reactie van de werkzoekende op de verantwoordingstaak de overtreding te beoordelen, en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        165.74,
+        359.29,
+        400.21,
+        368.29
+      ],
+      "text": "als spontaan bellen geen goede optie is of niet lukt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        359.37,
+        151.88,
+        368.37
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        375.61,
+        801.24,
+        384.61
+      ],
+      "text": "Is één van deze situaties aan de orde, dan nodigt de adviseur de werkzoekende uit voor een hoor-wederhoorgesprek. De vorm van dat gesprek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        392.08,
+        407.49,
+        401.08
+      ],
+      "text": "is telefonisch, beeldbellen of face to face op de vestiging.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        424.84,
+        434.55,
+        433.84
+      ],
+      "text": "Uitnodigen voor een telefonisch hoor-wederhoorgesprek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        441.28,
+        803.0,
+        450.28
+      ],
+      "text": "Maak in de Sonar-agenda een afspraak met als onderwerp ‘Hoor wederhoor Soll tel’ en zet de status op ‘gepland’. Verstuur de uitnodiging op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        457.72,
+        806.04,
+        466.72
+      ],
+      "text": "gebruikelijke manier. Maakt de cliënt gebruik van het e-kanaal, verstuur je de uitnodiging via de werkmap. Als de cliënt geen gebruik maakt van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.74,
+        474.16,
+        392.78,
+        483.16
+      ],
+      "text": "het e-kanaal, verstuur de uitnodiging dan via de post.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 4 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        63.08,
+        455.35,
+        72.08
+      ],
+      "text": "Uitnodigen voor een hoor-wederhoorgesprek via beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        79.52,
+        802.0,
+        88.52
+      ],
+      "text": "Maak in de Sonar-agenda een afspraak met als onderwerp ‘Hoor wederhoor Soll beeld’ en zet de status op ‘gepland’. Verstuur de uitnodiging op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        95.96,
+        800.77,
+        104.96
+      ],
+      "text": "de gebruikelijke manier. Maakt de cliënt gebruik van het e-kanaal, verstuur je de uitnodiging via de werkmap. Als de cliënt geen gebruik maakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        112.28,
+        447.78,
+        121.28
+      ],
+      "text": "van het e-kanaal, verstuur de uitnodiging dan via de post. Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        165.74,
+        128.72,
+        789.5,
+        137.72
+      ],
+      "text": "In de uitnodigingsbrief voor de beeldbelafspraak wordt vermeld dat het gesprek telefonisch zal plaatsvinden als beeldbellen niet lukt. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        128.8,
+        151.88,
+        137.8
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        165.74,
+        145.16,
+        784.17,
+        154.16
+      ],
+      "text": "telefoonnummer die hiervoor zal worden gebruikt staat in de uitnodigingsbrief. Daarom is het belangrijk dat het telefoonnummer op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        165.74,
+        161.63,
+        416.53,
+        170.63
+      ],
+      "text": "Sonar tabblad personalia niet ontbreekt of is gewijzigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        177.95,
+        649.06,
+        187.03
+      ],
+      "text": "• Stuur altijd een link en de flyer ‘Beeldbellen met UWV’ via een werkmapbericht voor de afspraak in teams.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        194.39,
+        775.45,
+        203.39
+      ],
+      "text": "Zie voor de werkwijze van het plannen van afspraken in Teams de QRC plannen en wijzigen afspraken (Sonar en Teams), de ‘Handreiking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        210.83,
+        784.24,
+        219.83
+      ],
+      "text": "beeldbellen met cliënt of externe partner’ en het ‘kader voor beeldbellen met werkzoekenden, werkgevers en externe partners Werkbedrijf’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        243.59,
+        456.24,
+        252.59
+      ],
+      "text": "Uitnodigen voor een hoor-wederhoorgesprek op de vestiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        260.03,
+        799.83,
+        269.03
+      ],
+      "text": "Maak in de Sonar-agenda een afspraak met als onderwerp ‘Hoor wederhoor sollicitatiepl.’ en zet de status op ‘gepland’. Verstuur de uitnodiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        276.49,
+        783.57,
+        285.49
+      ],
+      "text": "op de gebruikelijke manier. Maakt de cliënt gebruik van het e-kanaal, verstuur je de uitnodiging via de werkmap. Als de cliënt geen gebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        292.81,
+        443.92,
+        301.81
+      ],
+      "text": "maakt van het e-kanaal, verstuur de uitnodiging dan via de post.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        325.69,
+        309.35,
+        334.69
+      ],
+      "text": "Voeren hoor-wederhoorgesprek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        342.13,
+        746.04,
+        351.13
+      ],
+      "text": "Reden van dit gesprek is om te achterhalen waarom de werkzoekende niet volledig en/of niet tijdig zijn sollicitatie-activiteiten heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        358.45,
+        757.65,
+        367.45
+      ],
+      "text": "doorgegeven. Het doel van het gesprek is daarover duidelijkheid te verkrijgen, daarop zo nodig passende dienstverlening in te zetten,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        374.89,
+        771.53,
+        383.89
+      ],
+      "text": "desgewenst de helpende hand te bieden en je oordeel over de verwijtbaarheid van de overtreding vorm te geven. Daarmee probeer je te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        391.36,
+        789.56,
+        400.36
+      ],
+      "text": "bereiken dat de werkzoekende dezelfde overtreding niet nog eens begaat. Vertel zakelijk aan de werkzoekende wat je hebt geconstateerd en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        407.68,
+        414.69,
+        416.68
+      ],
+      "text": "geef de werkzoekende de gelegenheid daarop te reageren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        424.12,
+        377.29,
+        433.12
+      ],
+      "text": "Daarbij gaat het concreet om de volgende vragen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        440.56,
+        525.49,
+        449.64
+      ],
+      "text": "• Wat is de reden voor het niet doorgeven van voldoende sollicitatie-activiteiten?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        165.74,
+        457.0,
+        788.71,
+        466.0
+      ],
+      "text": "Indien er naar aanleiding van de verantwoordingstaak wèl voldoende sollicitatie-activiteiten zijn aangeleverd, wat is de reden voor het te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        457.08,
+        151.88,
+        466.08
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        165.74,
+        473.32,
+        323.9,
+        482.32
+      ],
+      "text": "laat doorgeven van die informatie?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        489.76,
+        782.28,
+        498.76
+      ],
+      "text": "Naar aanleiding van de reactie van de werkzoekende bepaal je of en zo ja, welke (extra) ondersteuning nodig is en vervolgens formuleer je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        506.22,
+        517.85,
+        515.22
+      ],
+      "text": "welke overtreding aan de orde is en in hoeverre er sprake is van verwijtbaarheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        522.66,
+        784.23,
+        531.66
+      ],
+      "text": "Als in dit gesprek de cliënt aangeeft dat hij volledig aan het werk is en niet kan voldoen aan de sollicitatieplicht volgt de adviseur het proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.74,
+        538.98,
+        804.13,
+        547.98
+      ],
+      "text": "Toepassen maatwerk sollicitatieplicht volledig werkenden WW en beoordeelt de situatie van de cliënt of er een maatwerk kan toegepast worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 5 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        63.08,
+        797.44,
+        72.08
+      ],
+      "text": "Als je in dit gesprek merkt dat de werkzoekende onvoldoende op de hoogte is van zijn rechten en plichten, neem je die met hem door. Sinds 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        79.52,
+        783.42,
+        88.52
+      ],
+      "text": "januari 2020 is op uwv.nl voor werkzoekenden in verschillende talen een samenvatting beschikbaar met de rechten en plichten van de WW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        95.96,
+        406.27,
+        104.96
+      ],
+      "text": "Deze samenvattingen zijn te downloaden in pdf-formaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        128.72,
+        761.87,
+        137.72
+      ],
+      "text": "Overheid en Onderwijs: als voor hoor-wederhoor een face to face gesprek op de vestiging nodig is, vindt dat plaats op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        145.16,
+        239.76,
+        154.16
+      ],
+      "text": "postcodevestiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        161.63,
+        767.15,
+        170.63
+      ],
+      "text": "Voor werkzoekenden uit de sector Overheid & Onderwijs geldt om praktische redenen een afwijking. De dienstverlening voor deze O&O-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        177.95,
+        769.26,
+        186.95
+      ],
+      "text": "werkzoekenden vindt plaats op het O&O Werkplein Groningen. Het O&O Werkplein Groningen schakelt de postcodevestiging in (dat is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        194.39,
+        647.38,
+        203.39
+      ],
+      "text": "vestiging van de regio waar de werkzoekende woont) als er een face-to face gesprek op de vestiging nodig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        210.83,
+        601.67,
+        219.83
+      ],
+      "text": "Zie daarvoor de procesbeschrijving Organiseren hoor-wederhoorgesprek voor O&O-werkzoekenden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        243.59,
+        406.72,
+        252.59
+      ],
+      "text": "Hoor-wederhoorgesprek heeft niet plaatsgevonden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        260.03,
+        783.26,
+        269.03
+      ],
+      "text": "Is de werkzoekende op het moment van de afspraak telefonisch niet bereikbaar of is de werkzoekende niet op de afspraak verschenen, dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        276.49,
+        771.69,
+        285.49
+      ],
+      "text": "stuur je geen nieuwe uitnodiging. In het kader van een zo efficiënt mogelijk proces krijgt de werkzoekende één kans op hoor-wederhoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        292.81,
+        790.04,
+        301.81
+      ],
+      "text": "Dan is je constatering dat de werkzoekende geen gebruik heeft gemaakt van zijn recht op hoor-wederhoor en beoordeel je de overtreding op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        309.25,
+        785.45,
+        318.25
+      ],
+      "text": "grond van de beschikbare gegevens. Het niet bereikbaar zijn voor of het niet verschijnen op de afspraak voor het hoor-wederhoorgesprek is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        325.69,
+        798.51,
+        334.69
+      ],
+      "text": "geen overtreding, omdat een hoor-wederhoorgesprek immers geen verplicht gesprek betreft. Maar het gevolg ervan is wel dat UWV gerechtigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        342.13,
+        783.68,
+        351.13
+      ],
+      "text": "is om zonder hoor-wederhoor de verwijtbaarheid van de 'oorspronkelijke' overtreding vast te stellen op basis van de beschikbare gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        39.48,
+        375.61,
+        197.93,
+        384.61
+      ],
+      "text": "6. Beoordelen Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        39.48,
+        392.08,
+        478.56,
+        401.08
+      ],
+      "text": "verwijtbaarheid Uit de sollicitatietaak kunnen twee mogelijke overtredingen voortkomen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        39.48,
+        408.52,
+        542.35,
+        417.52
+      ],
+      "text": "sollicitatieplicht en Overtreding van de sollicitatieplicht (te weinig sollicitatie-activiteiten doorgegeven)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        408.6,
+        151.88,
+        417.6
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        39.48,
+        424.84,
+        545.36,
+        433.84
+      ],
+      "text": "informatieplicht Overtreding van de informatieplicht (niet tijdig sollicitatie-activiteiten doorgegeven)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        424.92,
+        151.88,
+        433.92
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        457.72,
+        795.1,
+        466.72
+      ],
+      "text": "Als je een maatregel op de sollicitatieplicht oplegt (C3), mag je ten aanzien van dezelfde sollicitatietaak geen maatregel op de informatieplicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        474.16,
+        747.69,
+        483.16
+      ],
+      "text": "(C1) meer opleggen. Zijn beide overtredingen aanwezig, dan gaat de zwaarste overtreding (C3) boven de lichtere overtreding (C1).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        490.48,
+        798.85,
+        499.48
+      ],
+      "text": "Het stroomschema hieronder kan je helpen te bepalen in welk geval welke maatregel wordt opgelegd. Je zet het schema in aan het eind van je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        506.94,
+        804.94,
+        515.94
+      ],
+      "text": "onderzoek, dus nadat de werkzoekende eventueel sollicitatie-activiteiten heeft nageleverd en nadat je (als dat nodig was) met de werkzoekende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.74,
+        523.38,
+        410.43,
+        532.38
+      ],
+      "text": "hebt gebeld of een hoor-wederhoorgesprek hebt gevoerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 6 van 12",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        392.08,
+        154.14,
+        401.08
+      ],
+      "text": "*",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        157.22,
+        393.7,
+        805.74,
+        400.66
+      ],
+      "text": "Bij de eerste verwijtbare overtreding wordt een maatregel in de vorm van een waarschuwing opgelegd. Bij elke volgende verwijtbare overtreding binnen 2 jaar na het opleggen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        408.22,
+        449.94,
+        415.18
+      ],
+      "text": "waarschuwing heeft de maatregel de vorm van een financiële korting op de uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        421.24,
+        271.07,
+        430.24
+      ],
+      "text": "Uitleg bij stroomschema",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        454.12,
+        386.76,
+        463.12
+      ],
+      "text": "Voldoende sollicitatie-activiteiten doorgegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        470.44,
+        800.8,
+        479.44
+      ],
+      "text": "De verantwoordingstaak ontstond doordat werkzoekende geen of onvoldoende sollicitatie-activiteiten had doorgegeven op de sollicitatietaak. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        486.88,
+        758.61,
+        495.88
+      ],
+      "text": "de verantwoordingstaak krijgt werkzoekende de mogelijkheid sollicitatie-activiteiten alsnog aan te vullen. Doet de werkzoekende geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        503.34,
+        794.15,
+        512.34
+      ],
+      "text": "aanvulling, en heeft hij ook in een eventueel hoor-wederhoorgesprek niet duidelijk gemaakt dat hij wèl voldoende sollicitatie-activiteiten heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        519.78,
+        770.82,
+        528.78
+      ],
+      "text": "verricht, dan voldoet hij daarmee niet aan de norm (doorgaans 4 sollicitatie-activiteiten per 4 weken). Dan is sprake van een verwijtbare",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        147.74,
+        536.1,
+        309.51,
+        545.1
+      ],
+      "text": "overtreding van de sollicitatieplicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 7 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        63.08,
+        428.59,
+        72.08
+      ],
+      "text": "Geldige reden voor onvoldoende sollicitatie-activiteiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        79.52,
+        784.8,
+        88.52
+      ],
+      "text": "Als werkzoekende ook in reactie op de verantwoordingstaak niet voldoende sollicitatieactiviteiten heeft doorgegeven, maar daar een geldige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        95.96,
+        796.04,
+        104.96
+      ],
+      "text": "reden voor heeft, dan is er geen sprake van een verwijtbare overtreding van de sollicitatieplicht. Geeft de werkzoekende een reden die op zich",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        112.28,
+        598.29,
+        121.28
+      ],
+      "text": "niet geldig, maar wel begrijpelijk is, kun je overtreding ook als verminderd verwijtbaar beoordelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        145.16,
+        419.24,
+        154.16
+      ],
+      "text": "Geldige reden voor te laat of onvoldoende informeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        161.63,
+        803.58,
+        170.63
+      ],
+      "text": "De werkzoekende die door nalevering wèl voldoende sollicitatie-activiteiten over de periode van de sollicitatietaak heeft doorgegeven, of die een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        177.95,
+        744.01,
+        186.95
+      ],
+      "text": "geldige reden heeft gegeven voor het onvoldoende doorgeven van sollicitatie-activiteiten, is niet verwijtbaar op de sollicitatieplicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        194.39,
+        793.74,
+        203.39
+      ],
+      "text": "Maar dan is wel sprake van te laat aanleveren van informatie, omdat die informatie pas in reactie op de verantwoordingstaak is geleverd. Dus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        210.83,
+        490.09,
+        219.83
+      ],
+      "text": "moet je beoordelen of de werkzoekende daar een geldige reden voor heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        242.97,
+        158.08,
+        252.59
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        161.18,
+        243.59,
+        272.52,
+        252.59
+      ],
+      "text": "keer deze overtreding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        260.03,
+        799.89,
+        269.03
+      ],
+      "text": "Als de werkzoekende zich verwijtbaar heeft gedragen ten aanzien van de sollicitatieplicht of de informatieplicht, terwijl daar geen geldige reden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        276.49,
+        773.49,
+        285.49
+      ],
+      "text": "voor is, moet een maatregel worden opgelegd. Bij de eerste keer dat die overtreding begaan wordt, heeft die maatregel de vorm van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        292.81,
+        793.91,
+        301.81
+      ],
+      "text": "waarschuwing. Bij elke volgende overtreding op dezelfde overtreding binnen 2 jaar nà het opleggen van die waarschuwing heeft de maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        309.25,
+        798.03,
+        318.25
+      ],
+      "text": "de vorm van een financiële korting op de uitkering. De termijn van 2 jaar gaat lopen op de datum van de brief waarin de waarschuwing aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        325.69,
+        798.06,
+        334.69
+      ],
+      "text": "werkzoekende kenbaar is gemaakt. Kijk in EA om die brief te vinden; op tabblad Toelichtingen in Sonar staat vermeld wanneer het advies over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        342.13,
+        435.96,
+        351.13
+      ],
+      "text": "het geven van de waarschuwing is verstuurd aan Uitkeren WW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        374.89,
+        241.44,
+        383.89
+      ],
+      "text": "Categorie C1 of C3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        391.36,
+        780.75,
+        400.36
+      ],
+      "text": "Het Maatregelenbesluit socialezekerheidswetten verdeelt overtredingen onder in vijf categorieën. Bij elke categorie hoort een eigen set aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        621.03,
+        407.06,
+        671.48,
+        416.68
+      ],
+      "text": "1e 3e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        407.68,
+        719.62,
+        416.68
+      ],
+      "text": "maatregelen. Bij Werkbedrijf hebben we in de praktijk voornamelijk te maken met overtredingen uit de en de categorie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        382.0,
+        423.5,
+        391.23,
+        433.12
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        424.12,
+        776.63,
+        433.12
+      ],
+      "text": "Specifiek bij de sollicitatieplicht gaat het dan bij de categorie (C1) om deze overtreding: ‘Niet tijdig informatie doorgeven over verrichte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        440.56,
+        645.87,
+        449.56
+      ],
+      "text": "sollicitaties’. En bij de 3e categorie (C3) gaat het om: ‘Geen of te weinig sollicitatie-activiteiten doorgegeven’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        473.32,
+        289.17,
+        482.32
+      ],
+      "text": "Verwijtbaarheid beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        489.76,
+        788.64,
+        498.76
+      ],
+      "text": "Na constatering van een overtreding moet je onderzoeken of en in hoeverre er sprake is van verwijtbaarheid. Bij geen verwijtbaarheid wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        506.22,
+        266.34,
+        515.22
+      ],
+      "text": "geen maatregel opgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        522.66,
+        797.89,
+        531.66
+      ],
+      "text": "Als er wel sprake is van verwijtbaarheid, moet je eerst vaststellen of je kunt volstaan met het opleggen van een maatregel in de vorm van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        147.74,
+        538.98,
+        215.1,
+        547.98
+      ],
+      "text": "waarschuwing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 8 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        63.08,
+        785.01,
+        72.08
+      ],
+      "text": "Is een waarschuwing niet aan de orde, dan moet je beoordelen of sprake is van verminderde of verhoogde verwijtbaarheid. Bij verminderde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        79.52,
+        787.17,
+        88.52
+      ],
+      "text": "verwijtbaarheid hoort een minder zware maatregel; bij verhoogde verwijtbaarheid hoort een zwaardere maatregel dan de standaard hoogte.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        95.96,
+        538.19,
+        104.96
+      ],
+      "text": "Zie voor meer informatie het document Beoordelen verwijtbaarheid bij overtredingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        128.72,
+        794.83,
+        137.72
+      ],
+      "text": "De standaard maatregel voor het niet tijdig doorgeven van de sollicitatieactiviteiten is 5% gedurende een maand. Als het te laat inleveren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        145.16,
+        790.67,
+        154.16
+      ],
+      "text": "gegevens over sollicitatiegedrag niet leidt tot ten onrechte of teveel betaalde uitkering en het ook geen geen nadelige gevolgen heeft voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        161.63,
+        792.36,
+        170.63
+      ],
+      "text": "reintegratie van de cliënt, is in beginsel sprake van verminderde verwijtbaarheid en geldt een maatregel van 2% over een maand. Er staat ‘in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        177.95,
+        791.78,
+        186.95
+      ],
+      "text": "beginsel’, omdat er ook nog andere omstandigheden een rol kunnen spelen, die maken dat het toch niet voor de hand ligt om uit te gaan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        194.39,
+        632.03,
+        203.39
+      ],
+      "text": "verminderde verwijtbaarheid. Zie de Memo Verminderde verwijtbaarheid bij te laat doorgeven sollicitaties.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        227.15,
+        777.54,
+        236.15
+      ],
+      "text": "De standaardmaatregel voor het niet doorgeven van sollicitatieactiviteiten of het doorgeven van onvoldoende sollicitatieactiviteiten is 25%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        243.59,
+        804.58,
+        252.59
+      ],
+      "text": "gedurende 4 maanden. Beoordeel altijd of door verminderde of verhoogde verwijtbaarheid moet worden afgeweken van de standaardmaatregel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        260.03,
+        775.98,
+        269.03
+      ],
+      "text": "Uitgangspunt is wel dat het verrichten van te weinig sollicitatie-activiteiten in beginsel leidt tot schade aan de re-intregratie, waardoor dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        276.49,
+        516.63,
+        285.49
+      ],
+      "text": "aspect op zich nog geen reden is om verminderde verwijtbaarheid aan te nemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        309.25,
+        802.12,
+        318.25
+      ],
+      "text": "Het is niet toegestaan om deze maatregelen te ‘stapelen’; de zwaarste overtreding prevaleert. Concreet betekent dat in dit geval dat je pas aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        325.69,
+        773.92,
+        334.69
+      ],
+      "text": "het beoordelen van het te laat doorgeven van sollicitatieactiviteiten toekomt als er geen sprake is van verwijtbaarheid ten aanzien van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        342.13,
+        434.87,
+        351.13
+      ],
+      "text": "verplichting om voldoende sollicitatieactiviteiten door te geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        374.89,
+        699.59,
+        383.89
+      ],
+      "text": "In geval van recidive wordt een maatregel verhoogd. Of sprake is van recidive wordt beoordeeld door de divisie Uitkeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        39.48,
+        408.52,
+        801.64,
+        417.52
+      ],
+      "text": "7. Contact opnemen Werkbedrijf heeft als beleid ingesteld dat er voorafgaand aan het opleggen van een maatregel met financiële consequenties altijd een vorm van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        39.48,
+        424.84,
+        796.8,
+        433.84
+      ],
+      "text": "met cliënt bij contact met de cliënt moet zijn geweest. Als er een hoor-wederhoorgesprek heeft plaatsgevonden waarin al aan de cliënt is meegedeeld dat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        39.48,
+        441.28,
+        773.09,
+        450.28
+      ],
+      "text": "opleggen financiële een financiële maatregel opgelegd zal worden, kan deze processtap worden overgeslagen. Vooral in de situatie waarin de cliënt niet heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        39.48,
+        457.72,
+        790.12,
+        466.72
+      ],
+      "text": "maatregel gereageerd op de verantwoordingstaak of niet is verschenen op een hoor-wederhoorgesprek en je tot de conclusie komt dat er een financiële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        474.16,
+        524.16,
+        483.16
+      ],
+      "text": "maatregel moet worden opgelegd, zal deze processtap moeten worden uitgevoerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        506.94,
+        253.36,
+        515.94
+      ],
+      "text": "Financiële maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        523.38,
+        804.84,
+        532.38
+      ],
+      "text": "Hieronder verstaan we een maatregel waarbij gedurende een bepaalde tijd een lagere uitkering wordt betaald door een korting met een bepaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        147.74,
+        539.7,
+        622.21,
+        548.7
+      ],
+      "text": "percentage. Deze processtap geldt dus niet in geval de maatregel de vorm van een waarschuwing heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        28.32,
+        573.22,
+        796.37,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 9 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        63.08,
+        186.29,
+        72.08
+      ],
+      "text": "Contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        79.52,
+        761.38,
+        88.52
+      ],
+      "text": "Het contact met de cliënt mag worden gelegd via alle beschikbare kanalen: face-to-face, beeldbellen, telefonisch, werkmap. Er moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        95.96,
+        802.22,
+        104.96
+      ],
+      "text": "tenminste 3 pogingen gedaan worden om met de cliënt in contact te komen. Als dat na 3 keer niet is gelukt, kan de financiële maatregel alsnog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        112.28,
+        228.69,
+        121.28
+      ],
+      "text": "opgelegd worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        145.16,
+        621.53,
+        154.16
+      ],
+      "text": "Het doel van dit contact is de cliënt vooraf te informeren over het opleggen van de financiële maatregel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        39.48,
+        178.79,
+        313.93,
+        187.79
+      ],
+      "text": "8. Verwerken van Verwerken geen verwijtbaarheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        39.48,
+        195.11,
+        804.6,
+        204.11
+      ],
+      "text": "het resultaat Registreer je constatering met onderbouwing in Rapportage onder de verantwoordingstaak, sluit de verantwoordingstaak af met de constatering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        211.55,
+        741.86,
+        220.55
+      ],
+      "text": "“Niet verwijtbaar” en klik op ‘Constatering verwerken’. Hoe je dat goed registreert staat in de QRC Opstarten handhaafdossier ww.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        227.99,
+        727.82,
+        236.99
+      ],
+      "text": "De werkzoekende ontvangt in zijn Werkmap automatisch het bericht ‘Geldige reden voor het niet uitvoeren van sollicitatietaak’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        260.75,
+        279.17,
+        269.75
+      ],
+      "text": "Verwerken waarschuwing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        277.21,
+        376.94,
+        286.21
+      ],
+      "text": "De waarschuwing wordt op 3 plaatsen vastgelegd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        293.65,
+        776.44,
+        302.65
+      ],
+      "text": "1) Tabblad Toelichtingen: maak een nieuwe toelichting regel aan met Type: ‘Waarschuwing’. Vermeld bij de omschrijving dat het om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        165.74,
+        309.97,
+        431.9,
+        318.97
+      ],
+      "text": "waarschuwing C1, dan wel om een waarschuwing C3 gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        326.41,
+        798.61,
+        335.41
+      ],
+      "text": "2) Verantwoordingstaak: registreer bij de verantwoordingstaak de constatering ‘Verwijtbaar’ en klik op ‘de knop ‘Aanmaken handhaafdossier’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        342.85,
+        761.57,
+        351.85
+      ],
+      "text": "3) Handhaafdossier: Je ziet nu het specifieke handhaafdossier voor het niet nakomen van de sollicitatietaak. Vul het volledig in om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        165.74,
+        359.29,
+        793.7,
+        368.29
+      ],
+      "text": "waarschuwing te registreren. Hoe je dat goed registreert staat in de QRC Opstarten handhaafdossier ww. Klik vervolgens op 'Constatering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        165.74,
+        375.61,
+        218.92,
+        384.61
+      ],
+      "text": "verwerken’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        408.52,
+        795.6,
+        417.52
+      ],
+      "text": "De werkzoekende ontvangt in zijn Werkmap automatisch een bericht dat de niet nagekomen verplichting wordt beoordeeld en dat de uitkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        424.84,
+        299.69,
+        433.84
+      ],
+      "text": "per brief zal worden meegedeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        441.28,
+        773.03,
+        450.28
+      ],
+      "text": "De divisie Uitkeren zal de maatregel in de vorm van een waarschuwing opleggen. De divisie Uitkeren zorgt ook voor het versturen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        457.72,
+        373.58,
+        466.72
+      ],
+      "text": "beschikking waarin de maatregel wordt opgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        490.48,
+        257.13,
+        499.48
+      ],
+      "text": "Verwerken maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        506.94,
+        417.78,
+        515.94
+      ],
+      "text": "Het opleggen van de maatregel registreer je op 2 plaatsen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.74,
+        523.38,
+        800.89,
+        532.38
+      ],
+      "text": "1) Verantwoordingstaak: Registreer bij de verantwoordingstaak de constatering ‘Verwijtbaar’ en klik op ‘de knop ‘Aanmaken handhaafdossier’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        28.32,
+        573.22,
+        801.53,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 10 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        73.56,
+        45.92,
+        509.12,
+        54.92
+      ],
+      "text": "Naam Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        147.74,
+        63.08,
+        787.83,
+        72.08
+      ],
+      "text": "2) Handhaafdossier: Je ziet nu het specifieke handhaafdossier voor het niet nakomen van de sollicitatietaak. Vul het volledig in om de op te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        165.74,
+        79.52,
+        748.67,
+        88.52
+      ],
+      "text": "leggen maatregel te registreren. Hoe je dat goed registreert staat in de QRC Opstarten handhaafdossier WW. Klik vervolgens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        165.74,
+        95.96,
+        282.11,
+        104.96
+      ],
+      "text": "'Constatering verwerken’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        147.74,
+        128.72,
+        795.6,
+        137.72
+      ],
+      "text": "De werkzoekende ontvangt in zijn Werkmap automatisch een bericht dat de niet nagekomen verplichting wordt beoordeeld en dat de uitkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        147.74,
+        145.16,
+        299.69,
+        154.16
+      ],
+      "text": "per brief zal worden meegedeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        147.74,
+        161.63,
+        782.14,
+        170.63
+      ],
+      "text": "De divisie Uitkeren zal de eventuele recidive beoordelen en de maatregel opleggen. De divisie Uitkeren zorgt ook voor het versturen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        147.74,
+        177.95,
+        373.58,
+        186.95
+      ],
+      "text": "beschikking waarin de maatregel wordt opgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        240.83,
+        103.47,
+        249.83
+      ],
+      "text": "Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        257.15,
+        797.03,
+        266.15
+      ],
+      "text": "De werkzoekende met een WW-uitkering of een IOW-uitkering ontvangt elke 4 weken een sollicitatietaak in zijn Werkmap. Daarop moet hij zijn sollicitatie-activiteiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        273.61,
+        766.77,
+        282.61
+      ],
+      "text": "doorgeven. Doet hij dat niet of niet voldoende, stuurt Sonar automatisch bij de eerste overtreding een attenderingsbericht en bij elke volgende overtreding een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        290.05,
+        804.59,
+        299.05
+      ],
+      "text": "verantwoordingstaak. Deze procesbeschrijving behandelt de stappen die adviseur werk onderneemt als gevolg van de verantwoordingstaak en de wel of niet ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        306.49,
+        211.11,
+        315.49
+      ],
+      "text": "reactie van de werkzoekende daarop.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        339.25,
+        92.75,
+        348.25
+      ],
+      "text": "Doelgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        355.69,
+        805.81,
+        364.69
+      ],
+      "text": "Deze procesbeschrijving geldt voor alle werkzoekenden met een WW-uitkering of een IOW-uitkering die gebruik maken van het e-kanaal. Voor werkzoekenden die geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        372.13,
+        742.7,
+        381.13
+      ],
+      "text": "gebruik kunnen maken van het e-kanaal vindt controle op de sollicitatietaak plaats volgens de procesbeschrijving Controleren sollicitatietaak WW – EKNM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        404.92,
+        118.22,
+        413.92
+      ],
+      "text": "Relevante links",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        421.36,
+        251.08,
+        430.36
+      ],
+      "text": "Besluit Sollicitatieplicht werknemers WW 2012",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        437.68,
+        318.82,
+        446.68
+      ],
+      "text": "Beoordelen reactie cliënt bij mogelijk verwijtbaar gedrag WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        454.12,
+        277.56,
+        463.12
+      ],
+      "text": "Criteria attenderingsbericht en verantwoordingstaak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        470.56,
+        180.96,
+        479.56
+      ],
+      "text": "Dienstverleningsoverzicht O&O",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        487.0,
+        245.77,
+        496.0
+      ],
+      "text": "Beoordelen verwijtbaarheid bij overtredingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        503.34,
+        197.08,
+        512.34
+      ],
+      "text": "Handboek WW (paragraaf 318.06)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        519.78,
+        126.26,
+        528.78
+      ],
+      "text": "Maatregelenbesluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        40.8,
+        536.22,
+        146.75,
+        545.22
+      ],
+      "text": "Maatregelenmatrix WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        28.32,
+        573.22,
+        801.53,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 11 van 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        28.32,
+        16.64,
+        323.02,
+        28.64
+      ],
+      "text": "Proces Controleren sollicitatietaak ww - e-kanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        45.68,
+        352.83,
+        54.68
+      ],
+      "text": "Memo Verminderde verwijtbaarheid bij te laat doorgeven sollicitaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        62.12,
+        251.94,
+        71.12
+      ],
+      "text": "Proces Controleren sollicitatietaak WW - EKNM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        78.56,
+        223.54,
+        87.56
+      ],
+      "text": "Proces Niet verschenen op afspraak WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        94.88,
+        361.84,
+        103.88
+      ],
+      "text": "Proces Organiseren hoor-wederhoorgesprek voor O&O-werkzoekenden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        111.32,
+        353.71,
+        120.32
+      ],
+      "text": "Proces Toepassen maatwerk sollicitatieplicht volledig werkenden WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        127.76,
+        275.12,
+        136.76
+      ],
+      "text": "Proces Uitvoeren dienstverlening voor IOW-cliënten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        144.08,
+        286.19,
+        153.08
+      ],
+      "text": "QRC plannen en wijzigen afspraken (Sonar en Teams)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        160.55,
+        185.48,
+        169.55
+      ],
+      "text": "QRC Sonar Kennisgevingen WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        176.99,
+        236.33,
+        185.99
+      ],
+      "text": "QRC Sonar Opstarten handhaafdossier WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        193.43,
+        336.51,
+        202.43
+      ],
+      "text": "QRC Sonar Registreren uitgaande telefonische contacten in K3CR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        209.75,
+        168.41,
+        218.75
+      ],
+      "text": "Flyer 'Beeldbellen met UWV’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        226.19,
+        145.05,
+        235.19
+      ],
+      "text": "Kader voor beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        40.8,
+        242.63,
+        271.8,
+        251.63
+      ],
+      "text": "Samenvattingen van rechten en plichten op uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        28.32,
+        573.22,
+        801.53,
+        581.26
+      ],
+      "text": "Publicatiedatum 31-10-2023 pagina 12 van 12",
+      "source": "text"
+    }
+  ]
+}

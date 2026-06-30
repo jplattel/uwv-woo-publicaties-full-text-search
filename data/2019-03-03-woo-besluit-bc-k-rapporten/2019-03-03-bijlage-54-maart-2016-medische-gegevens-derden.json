@@ -1,0 +1,2861 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-54-maart-2016-medische-gegevens-derden",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-54-maart-2016-medische-gegevens-derden",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/90f5ef35-3324-4738-b056-7acc1629bd09/bijlage-54-maart-2016-medische-gegevens-derden.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 54 maart 2016 medische gegevens derden (PDF, 1 MB)",
+  "retrieved_at": "2026-06-30T14:22:14+00:00",
+  "sha256": "9be8af503eee13bc85bc8f83f62adf0735d52f850c36f2be3aa592d893d8d81b",
+  "page_count": 13,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.42,
+        304.09,
+        264.85,
+        316.09
+      ],
+      "text": "Medische Gegevens Derden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.42,
+        332.83,
+        347.07,
+        342.79
+      ],
+      "text": "Een inventariserend onderzoek naar het voorkomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.42,
+        345.07,
+        328.55,
+        355.03
+      ],
+      "text": "van medische en privacygevoelige informatie bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.42,
+        357.31,
+        239.6,
+        367.27
+      ],
+      "text": "dienstverlening aan gemeenten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        177.05,
+        494.71,
+        226.37,
+        505.75
+      ],
+      "text": "SMZ-BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.05,
+        516.07,
+        232.57,
+        527.11
+      ],
+      "text": "Maart 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        111.17,
+        110.16,
+        125.21
+      ],
+      "text": "Inhoud",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        152.54,
+        524.12,
+        163.58
+      ],
+      "text": "Aanleiding ................................................................................................................................................ 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        171.98,
+        524.12,
+        183.02
+      ],
+      "text": "Leeswijzer ................................................................................................................................................ 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        191.42,
+        524.12,
+        202.46
+      ],
+      "text": "Context .................................................................................................................................................... 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        210.98,
+        524.12,
+        222.02
+      ],
+      "text": "Probleemstelling ...................................................................................................................................... 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        230.42,
+        524.12,
+        241.46
+      ],
+      "text": "Onderzoeksobject ................................................................................................................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        249.98,
+        524.12,
+        261.02
+      ],
+      "text": "Norm ........................................................................................................................................................ 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        269.42,
+        524.12,
+        280.46
+      ],
+      "text": "Samenwerking ......................................................................................................................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        288.89,
+        524.12,
+        299.93
+      ],
+      "text": "Te onderzoeken vermeldingen van medische en privacygevoelige informatie ...................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        308.45,
+        524.12,
+        319.49
+      ],
+      "text": "Omvang van het onderzoek .................................................................................................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        327.89,
+        524.12,
+        338.93
+      ],
+      "text": "Bevindingen ............................................................................................................................................. 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        347.45,
+        524.12,
+        358.49
+      ],
+      "text": "Conclusie ................................................................................................................................................. 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        366.89,
+        524.12,
+        377.93
+      ],
+      "text": "Aanbevelingen ......................................................................................................................................... 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        386.45,
+        524.12,
+        397.49
+      ],
+      "text": "Bijlage 1: Voorbeelden AD-rapportage Indicatie Baanafspraak (kopie naar Gemeente) ....................... 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        405.89,
+        524.12,
+        416.93
+      ],
+      "text": "Bijlage 2: Tekstvoorbeelden uit Leidraad .............................................................................................. 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        425.33,
+        524.12,
+        436.37
+      ],
+      "text": "Literatuurlijst ......................................................................................................................................... 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.82,
+        73.71,
+        129.03,
+        87.75
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        91.28,
+        509.67,
+        100.28
+      ],
+      "text": "De directeur P&I heeft de afdeling BC&K opdracht gegeven een onderzoek uit te voeren naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        103.04,
+        464.34,
+        112.04
+      ],
+      "text": "voorkomen van ongewenste gegevens (medisch en privacygevoelig) in rapportages bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        114.92,
+        522.42,
+        123.92
+      ],
+      "text": "dienstverlening aan derden. Het gaat hierbij om de arbeidsdeskundige rapportages die in het kader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        126.68,
+        520.36,
+        135.68
+      ],
+      "text": "van de (complementaire) dienstverlening aan gemeenten worden opgesteld en ter beschikking van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        138.56,
+        483.83,
+        147.56
+      ],
+      "text": "deze gemeenten wordt gesteld. Aanleiding voor de onderzoeksopdracht is een niet officiële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        150.32,
+        514.56,
+        159.32
+      ],
+      "text": "bevinding van de accountantsdienst bij opgeleverde arbeidsdeskundige rapportages in het district",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        162.08,
+        117.16,
+        171.08
+      ],
+      "text": "Rijnmond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        181.88,
+        515.05,
+        190.88
+      ],
+      "text": "De vraag die moet worden beantwoord is of het hier een incident betreft, hoe groot het eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        193.76,
+        466.91,
+        202.76
+      ],
+      "text": "probleem is en of er redenen bestaan om aan te nemen dat ook bij andere vormen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        205.52,
+        402.38,
+        214.52
+      ],
+      "text": "dienstverlening het risico op ongewenste informatievoorziening optreedt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        225.32,
+        325.55,
+        234.32
+      ],
+      "text": "Dit rapport beschrijft de bevindingen van dit onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.82,
+        262.01,
+        128.35,
+        276.05
+      ],
+      "text": "Leeswijzer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        279.65,
+        518.65,
+        290.69
+      ],
+      "text": "In de tekst wordt verwezen naar de geraadpleegde literatuur door middel van cijfers tussen haakjes.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.82,
+        319.04,
+        114.21,
+        333.08
+      ],
+      "text": "Context",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        336.59,
+        498.51,
+        345.59
+      ],
+      "text": "Om de vraag te beantwoorden en daarvoor een adequaat onderzoek uit te voeren is allereerst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        348.35,
+        517.59,
+        357.35
+      ],
+      "text": "noodzakelijk een norm te hanteren waartegen de bevindingen kunnen worden afgezet. Ook is het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        360.11,
+        520.59,
+        369.11
+      ],
+      "text": "van belang de gehele informatieketen te bezien. Immers ongewenste medische gegeven kunnen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        371.99,
+        480.8,
+        380.99
+      ],
+      "text": "arbeidsdeskundige rapportages worden opgenomen niet alleen door de arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        383.75,
+        508.18,
+        392.75
+      ],
+      "text": "persoonlijk (zonder aangeven van de verzekeringsarts), maar ook min of meer geautomatiseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        395.51,
+        510.15,
+        404.51
+      ],
+      "text": "via de rapportagetools Medirap en AD-work, door het overnemen van gedeeltes van rapportages",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        407.39,
+        520.4,
+        416.39
+      ],
+      "text": "van de verzekeringsarts. Hierbij moet worden aangetekend dat er binnen het werkproces van UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        419.15,
+        517.26,
+        428.15
+      ],
+      "text": "grotere vrijheden bestaan met betrekking tot het aanleveren en uitwisselen van informatie dan bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        431.03,
+        297.55,
+        440.03
+      ],
+      "text": "het aanleveren van informatie aan derde partijen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        450.83,
+        517.64,
+        459.83
+      ],
+      "text": "Bij de documentstudie is gebleken dat er een vastgestelde norm bestaat waarin is beschreven wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        462.59,
+        495.96,
+        471.59
+      ],
+      "text": "wel en niet mag worden opgenomen in arbeidsdeskundige rapportages; dit is de ‘Beslisnotitie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        474.37,
+        511.5,
+        483.37
+      ],
+      "text": "Schriftelijke communicatie naar klant’ (1), vastgelegd in het uitvoeringsbericht UBSMZ 1310-011",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        486.25,
+        522.17,
+        495.25
+      ],
+      "text": "(15) . Daarnaast zijn richtinggevend de brief van het ministerie SZW van 25 oktober 2013 (2) met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        498.01,
+        504.13,
+        507.01
+      ],
+      "text": "betrekking tot informatievoorziening door bedrijfsartsen aan werkgevers en de Leidraad van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        509.77,
+        182.25,
+        518.77
+      ],
+      "text": "NVAB en Boaborea (11).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        529.57,
+        520.19,
+        538.57
+      ],
+      "text": "In mei 2013 constateert Gevers in zijn rapport dat op tuchtrechtelijke gronden de verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        541.45,
+        505.15,
+        550.45
+      ],
+      "text": "in grote lijnen kan worden gelijk gesteld aan de bedrijfsarts (16). Ook is de Handleiding Privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        553.21,
+        472.0,
+        562.21
+      ],
+      "text": "Verzuimregelingen van het Verbond van Verzekeraars en OVAL (10) relevant evenals de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        565.09,
+        502.7,
+        574.09
+      ],
+      "text": "handleiding ‘Omgaan met persoonsgegevens door arbeidsdeskundigen’ van SRA en NVvA (17).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        584.89,
+        514.75,
+        593.89
+      ],
+      "text": "We hebben onderzocht welke op medische en privacygevoelige informatie te herleiden termen er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        596.65,
+        487.61,
+        605.65
+      ],
+      "text": "in de arbeidsdeskundige rapportage aanwezig zijn (vermeldingen). Uitgangspunt is hetgeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        608.41,
+        233.95,
+        617.41
+      ],
+      "text": "beschreven staat in de beslisnotitie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.82,
+        645.1,
+        163.84,
+        659.14
+      ],
+      "text": "Probleemstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        662.68,
+        500.89,
+        671.68
+      ],
+      "text": "1. Primaire vraag die beantwoord moet worden is of er medische en / of privacygevoelige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        674.56,
+        510.99,
+        683.56
+      ],
+      "text": "informatie voorkomt in de arbeidsdeskundige rapportages die worden opgesteld in het kader van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        686.32,
+        216.8,
+        695.32
+      ],
+      "text": "dienstverlening aan gemeenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        706.12,
+        520.3,
+        715.12
+      ],
+      "text": "2. Secundaire vraag is hoe groot het eventuele probleem is en of er aanleiding bestaat verder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        717.88,
+        506.5,
+        726.88
+      ],
+      "text": "onderzoek te doen naar andere vormen van dienstverlening waarbij rapportages aan derden ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        729.76,
+        199.29,
+        738.76
+      ],
+      "text": "beschikking worden gesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.82,
+        73.71,
+        171.2,
+        87.75
+      ],
+      "text": "Onderzoeksobject",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        91.28,
+        511.65,
+        100.28
+      ],
+      "text": "Op grond van logistieke factoren is gekozen voor een inventariserend onderzoek bij de wettelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        103.04,
+        515.38,
+        112.04
+      ],
+      "text": "dienstverlening aan gemeenten (ABA). Veronderstelling is dat dit qua informatievoorziening gelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        114.92,
+        344.75,
+        123.92
+      ],
+      "text": "gesteld kan worden aan de complementaire dienstverlening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        134.72,
+        520.05,
+        143.72
+      ],
+      "text": "Bekeken zijn arbeidsdeskundige rapportages die zijn opgesteld in het kader van de dienstverlening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        146.48,
+        513.33,
+        155.48
+      ],
+      "text": "aan gemeenten. Niet in het onderzoek zijn betrokken de rapportages die worden opgesteld in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        158.36,
+        281.57,
+        167.36
+      ],
+      "text": "kader van de complementaire dienstverlening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        178.16,
+        501.46,
+        187.16
+      ],
+      "text": "Er worden rapportages onderzocht uit de tweede helft van 2015, gelijk aan de dossiers die zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        189.92,
+        433.74,
+        198.92
+      ],
+      "text": "onderzocht door de accountsdienst en die de aanleiding zijn voor dit onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.82,
+        226.61,
+        102.69,
+        240.65
+      ],
+      "text": "Norm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        244.16,
+        522.51,
+        253.16
+      ],
+      "text": "Zoals gezegd is uit vooronderzoek gebleken dat er een vastgestelde norm is met betrekking tot het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        255.92,
+        504.73,
+        264.92
+      ],
+      "text": "voorkomen van medische gegevens (1). Als uitgangspunt is gehanteerd wat is vastgelegd in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        267.8,
+        473.42,
+        276.8
+      ],
+      "text": "beslisnotie (zie bijlage) en de leidraad (11) die als basis voor de beslisnotitie is gebruikt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.82,
+        304.52,
+        152.31,
+        318.56
+      ],
+      "text": "Samenwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        322.07,
+        466.95,
+        331.07
+      ],
+      "text": "Uiteraard is de rapportage van dit onderzoek afgestemd met CEC, medisch adviseur en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        333.83,
+        179.13,
+        342.83
+      ],
+      "text": "arbeidskundig adviseur.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.82,
+        370.52,
+        490.72,
+        384.56
+      ],
+      "text": "Te onderzoeken vermeldingen van medische en privacygevoelige informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        388.07,
+        493.07,
+        397.07
+      ],
+      "text": "In de beslisnotitie zijn de volgende punten in de arbeidsdeskundige rapportages beschreven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        407.87,
+        228.02,
+        416.87
+      ],
+      "text": "Diagnose of diagnose code",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        407.95,
+        92.96,
+        416.95
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        419.75,
+        344.3,
+        428.83
+      ],
+      "text": " Expliciete klachten zoals knie of psychische klachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        431.51,
+        316.87,
+        440.51
+      ],
+      "text": "Algemene klachten zoals lichamelijke klachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        431.59,
+        92.96,
+        440.59
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        443.27,
+        296.99,
+        452.27
+      ],
+      "text": "Behandelaars of namen van behandelaars",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        443.35,
+        92.96,
+        452.35
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        463.07,
+        396.47,
+        472.07
+      ],
+      "text": "In de brief van het ministerie (2) staat als aanvullend punt beschreven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        482.89,
+        475.8,
+        491.89
+      ],
+      "text": "Privacygevoelige gegevens over sociale context zoals scheidingen, overlijden etc.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        482.97,
+        92.96,
+        491.97
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.82,
+        519.7,
+        222.7,
+        533.74
+      ],
+      "text": "Omvang van het onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        537.25,
+        519.16,
+        546.25
+      ],
+      "text": "Er werden in totaal 110 dossiers bekeken verdeeld over 11 districten / kantoren (exclusief BZ). De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        549.01,
+        283.75,
+        558.01
+      ],
+      "text": "dossiers zijn door BC&K te Utrecht onderzocht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 4",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        70.82,
+        73.71,
+        139.1,
+        87.75
+      ],
+      "text": "Bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        91.28,
+        516.51,
+        100.28
+      ],
+      "text": "Van de in totaal 110 onderzochte dossiers werd in 40 gevallen er een brief plus bijlage (tenminste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        103.04,
+        502.48,
+        112.04
+      ],
+      "text": "de arbeidsdeskundige rapportage) aan de gemeente gestuurd. Volgens de instructie moeten er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        114.92,
+        474.56,
+        123.92
+      ],
+      "text": "bijlagen worden verzonden bij opname in het doelgroepenregister. Dit is niet consequent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        126.68,
+        495.02,
+        135.68
+      ],
+      "text": "aangetroffen. Kwantitatieve gegevens hierover worden hier echter niet opgenomen omdat dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        138.56,
+        252.79,
+        147.56
+      ],
+      "text": "buiten de scope van het onderzoek valt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        111.25,
+        178.3,
+        176.55,
+        186.96
+      ],
+      "text": "vermeldingen*",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.58,
+        178.92,
+        435.26,
+        186.96
+      ],
+      "text": "Aantal totaal# brief plus brief plus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        309.43,
+        188.64,
+        437.36,
+        196.68
+      ],
+      "text": "bijlagen# bijlagen%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        199.32,
+        423.59,
+        207.36
+      ],
+      "text": "dossiers zonder 36 15 37%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        209.04,
+        138.58,
+        217.08
+      ],
+      "text": "vermeldingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        219.84,
+        423.59,
+        227.88
+      ],
+      "text": "dossiers met één vermelding 37 13 33%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        233.52,
+        423.59,
+        241.56
+      ],
+      "text": "dossiers met meer dan één 37 12 30%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        243.24,
+        127.53,
+        251.28
+      ],
+      "text": "vermelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        254.04,
+        426.1,
+        262.08
+      ],
+      "text": "Totaal onderzochte dossiers 110 40 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        267.72,
+        496.93,
+        275.76
+      ],
+      "text": "* Onder de term “vermeldingen” worden alle vormen van medische of privacygevoelige informatie die wij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        278.31,
+        167.2,
+        286.35
+      ],
+      "text": "aantroffen samengevat.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        179.59,
+        324.64,
+        414.02,
+        342.64
+      ],
+      "text": "Brief plus bijlage aan gemeente",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        286.78,
+        344.95,
+        307.19,
+        354.91
+      ],
+      "text": "n=40",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        185.98,
+        399.5,
+        196.07,
+        409.46
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.02,
+        402.21,
+        437.43,
+        412.17
+      ],
+      "text": "dossiers zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        291.74,
+        403.99,
+        301.83,
+        413.95
+      ],
+      "text": "15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.02,
+        414.43,
+        429.97,
+        424.39
+      ],
+      "text": "vermeldingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.02,
+        432.4,
+        443.02,
+        442.36
+      ],
+      "text": "dossiers met één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.02,
+        444.59,
+        419.72,
+        454.55
+      ],
+      "text": "vermelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        214.49,
+        460.24,
+        224.58,
+        470.2
+      ],
+      "text": "13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.02,
+        462.57,
+        466.73,
+        472.53
+      ],
+      "text": "dossiers met meer dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.02,
+        474.76,
+        437.22,
+        484.72
+      ],
+      "text": "één vermelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        561.85,
+        516.06,
+        570.85
+      ],
+      "text": "Bij de 40 dossiers waarbij bijlagen werden verzonden waren er 15 waarin geen enkele vermelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        573.61,
+        464.53,
+        582.61
+      ],
+      "text": "van de betreffende items werd gevonden. In 25 gevallen (13+12) werden een of meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        585.49,
+        481.16,
+        594.49
+      ],
+      "text": "vermeldingen gevonden. Dit betekent dat in grofweg 63% van de bijlagen sprake was van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        597.25,
+        515.68,
+        606.25
+      ],
+      "text": "vermelding van diagnose, expliciete – en algemene klachten, behandelaars (naam en / of functie)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        609.01,
+        210.8,
+        618.01
+      ],
+      "text": "of privacy gevoelige gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.58,
+        649.49,
+        441.11,
+        657.53
+      ],
+      "text": "Aard van vermeldingen in 25 gevallen aantal percentage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        663.2,
+        422.87,
+        671.24
+      ],
+      "text": "Diagnose of -code 1 3%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        677.0,
+        425.39,
+        685.04
+      ],
+      "text": "Expliciete klachten 10 26%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        690.8,
+        425.39,
+        698.84
+      ],
+      "text": "Algemene klachten 9 24%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        704.48,
+        422.87,
+        712.52
+      ],
+      "text": "Behandelaars (naam) 2 5%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        718.28,
+        425.39,
+        726.32
+      ],
+      "text": "Privacy 16 42%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.82,
+        731.96,
+        427.9,
+        740.0
+      ],
+      "text": "Totaal vermeldingen in 25 gevallen 38 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 5",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        179.59,
+        82.02,
+        414.02,
+        100.02
+      ],
+      "text": "Brief plus bijlage aan gemeente",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        216.79,
+        102.33,
+        376.86,
+        112.29
+      ],
+      "text": "Totaal vermeldingen in 25 gevallen: 38",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        242.98,
+        149.37,
+        248.03,
+        159.33
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        291.0,
+        157.63,
+        301.09,
+        167.59
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        380.5,
+        159.64,
+        453.43,
+        169.6
+      ],
+      "text": "Diagnose of -code",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        170.21,
+        163.63,
+        180.3,
+        173.59
+      ],
+      "text": "16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        380.5,
+        177.74,
+        456.27,
+        187.7
+      ],
+      "text": "Expliciete klachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        380.5,
+        195.83,
+        458.3,
+        205.79
+      ],
+      "text": "Algemene klachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        284.98,
+        213.88,
+        466.72,
+        223.87
+      ],
+      "text": "9 Behandelaars (naam)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        211.46,
+        217.65,
+        216.51,
+        227.61
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        380.5,
+        232.0,
+        409.46,
+        241.96
+      ],
+      "text": "Privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        319.19,
+        522.9,
+        328.19
+      ],
+      "text": "De verdeling naar items bij de 25 gevallen waarbij een brief plus bijlage(n) is verzonden en waarbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        331.07,
+        318.36,
+        340.07
+      ],
+      "text": "vermeldingen zijn gevonden is hierboven aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        350.87,
+        524.39,
+        359.87
+      ],
+      "text": "Gesteld kan worden dat voor iedereen duidelijk is dat het vermelden van diagnose en / of expliciete",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        362.63,
+        504.6,
+        371.63
+      ],
+      "text": "klachten onder het medisch geheim valt. Dat betekent dus dat er 11 maal ten onrechte hiervan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        374.51,
+        192.58,
+        383.51
+      ],
+      "text": "vermelding werd gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        394.31,
+        494.06,
+        403.31
+      ],
+      "text": "Moeilijker wordt het bij vermeldingen dan algemene klachten en privacy gevoelige gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        406.07,
+        517.8,
+        415.07
+      ],
+      "text": "Vooral bij de laatste is het niet altijd eenvoudig uit te maken welke gegevens nodig c.q. essentieel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        417.83,
+        524.01,
+        426.83
+      ],
+      "text": "zijn om eventuele belemmeringen in verdienvermogen te onderbouwen. In elk geval is duidelijk dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        429.71,
+        510.32,
+        438.71
+      ],
+      "text": "dit conform de richtlijnen SRA noodzakelijk en proportioneel moet zijn. Bij de algemene klachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        441.47,
+        502.21,
+        450.47
+      ],
+      "text": "zal verdere discussie noodzakelijk zijn om aan te geven wat wel en wat niet gerapporteerd kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        453.23,
+        107.43,
+        462.23
+      ],
+      "text": "worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        473.17,
+        412.01,
+        482.17
+      ],
+      "text": "In bijlage 1 zijn voorbeelden van aangetroffen vermeldingen weergegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        492.97,
+        471.25,
+        501.97
+      ],
+      "text": "Tevens kan geconcludeerd worden dat bij strikte navolging van de gehanteerde norm er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        504.73,
+        489.41,
+        513.73
+      ],
+      "text": "rapportages ontstaan die weinig zeggend zijn dan wel toegevoegde waarde missen. Het lijkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        516.49,
+        507.71,
+        525.49
+      ],
+      "text": "daarom verstandig een discussie over de norm te starten om en afweging te kunnen maken wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        528.37,
+        364.91,
+        537.37
+      ],
+      "text": "wel en wat niet relevant is in een arbeidsdeskundige rapportage.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        70.82,
+        73.71,
+        123.85,
+        87.75
+      ],
+      "text": "Conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        91.28,
+        328.96,
+        100.28
+      ],
+      "text": "De beantwoording van de onderzoeksvragen is als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        111.08,
+        518.49,
+        120.08
+      ],
+      "text": "1. Primaire vraag die beantwoord moet worden is of er medische en / of privacygevoelige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        122.96,
+        515.8,
+        131.96
+      ],
+      "text": "informatie voorkomt in de arbeidsdeskundige rapportages die worden opgesteld in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        134.72,
+        319.12,
+        143.72
+      ],
+      "text": "kader van dienstverlening aan gemeenten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        146.48,
+        489.18,
+        155.48
+      ],
+      "text": "Er komt medische en / of privacygevoelige informatie voor in arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        158.36,
+        181.83,
+        167.36
+      ],
+      "text": "rapportages.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        170.12,
+        505.44,
+        179.12
+      ],
+      "text": "2. Secundaire vraag is hoe groot het eventuele probleem is en of er aanleiding bestaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        181.88,
+        522.03,
+        190.88
+      ],
+      "text": "verder onderzoek te doen naar andere vormen van dienstverlening waarbij rapportages",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        193.76,
+        322.87,
+        202.76
+      ],
+      "text": "aan derden ter beschikking worden gesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        205.52,
+        524.33,
+        214.52
+      ],
+      "text": "Het voorkomen heeft gelet op het aantal gevonden vermeldingen geen incidenteel maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.1,
+        217.28,
+        236.87,
+        226.28
+      ],
+      "text": "een structureel karakter.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        70.82,
+        332.84,
+        152.79,
+        346.88
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        350.39,
+        510.95,
+        359.39
+      ],
+      "text": "De conceptrapportage plus conclusie is gedeeld met CEC en heeft tot de volgende aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        362.27,
+        101.87,
+        371.27
+      ],
+      "text": "geleid:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        382.07,
+        516.96,
+        391.07
+      ],
+      "text": "1. Het omgaan met medische en privacygevoelige informatie vergt, bij het aanwezig zijn van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        393.83,
+        488.82,
+        402.83
+      ],
+      "text": "richtlijnen, een bewustwordingsproces. De vakinhoudelijke lijn van CEC en Landelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        405.59,
+        514.07,
+        414.59
+      ],
+      "text": "Adviseurs spelen hier een essentiële rol in. Via de vakinhoudelijke lijn moet hier aandacht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        417.47,
+        201.82,
+        426.47
+      ],
+      "text": "aan worden besteed.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        429.23,
+        523.6,
+        438.23
+      ],
+      "text": "2. Een nader onderzoek in de uitvoering door de adviseurs om inzicht te krijgen in de kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        441.11,
+        513.52,
+        450.11
+      ],
+      "text": "van de aan de gemeenten verzonden rapportages. De uitkomsten daarvan zijn input voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        452.87,
+        378.74,
+        461.87
+      ],
+      "text": "het onder 1 genoemde bewustwordings- en verbeterproces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        464.63,
+        512.27,
+        473.63
+      ],
+      "text": "3. Overleg in gang zetten om afspraken te maken met alle partijen zoals VNG, KNMG, NVvA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        476.53,
+        425.35,
+        485.53
+      ],
+      "text": "over een eenduidige gedragen standaard voor informatie-uitwisseling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        73.71,
+        473.8,
+        87.75
+      ],
+      "text": "Bijlage 1: Voorbeelden AD-rapportage Indicatie Baanafspraak (kopie naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        92.21,
+        133.46,
+        106.25
+      ],
+      "text": "Gemeente)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 9",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        70.82,
+        73.71,
+        291.87,
+        87.75
+      ],
+      "text": "Bijlage 2: Tekstvoorbeelden uit Leidraad",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 10",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.82,
+        73.71,
+        144.81,
+        87.75
+      ],
+      "text": "Literatuurlijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        113.84,
+        466.61,
+        122.84
+      ],
+      "text": "1. Beslisnotitie Schriftelijke communicatie naar klant versie 1.0, CEC, 16-10-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        125.6,
+        433.02,
+        134.6
+      ],
+      "text": "2. Brief Ministerie van SZW Omgaan met medische gegevens, 25-10-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        137.36,
+        436.74,
+        146.36
+      ],
+      "text": "3. De Casemanager in de Arbo Unit en Privacywetgeving, CEC, 15-12-2015",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        149.24,
+        473.21,
+        158.24
+      ],
+      "text": "4. Uitvraag Medische gegevens behandelende sector versie 0.95, BC&K, 29-4-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        161.0,
+        506.22,
+        170.0
+      ],
+      "text": "5. Voorlegger DT SMZ Advies aan directie n.a.v. rapport professor Gevers versie 1.1, Hans",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.82,
+        172.76,
+        218.16,
+        181.76
+      ],
+      "text": "Romeijnders, 26-8-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        184.64,
+        414.75,
+        193.64
+      ],
+      "text": "6. Advies werkgroep Gevers Annotatie Jeanette van Haren, 22-8-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        196.4,
+        451.73,
+        205.4
+      ],
+      "text": "7. Bijlage voorlegger rapport Gevers versie 1.1, Hans Romeijnders, 19-8-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        208.16,
+        362.18,
+        217.16
+      ],
+      "text": "8. Borging medische gegevens ZW-Arbo, CEC, 25-11-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        220.04,
+        522.97,
+        229.04
+      ],
+      "text": "9. Impactanalyse (korte termijn) borging medische gegevens BO Ziektewet versie 1.0, 25-11-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.82,
+        231.8,
+        129.82,
+        240.8
+      ],
+      "text": "2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        243.68,
+        390.43,
+        252.68
+      ],
+      "text": "10. Handleiding privacy verzuimregelingen, VvV en Oval, juli 2014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        255.44,
+        342.18,
+        264.44
+      ],
+      "text": "11. Leidraad Bedrijfsarts en Privacy, NVAB en Boaborea",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        267.2,
+        452.98,
+        276.2
+      ],
+      "text": "12. Richtlijn Beheer gegevens vallend onder het medisch beroepsgeheim van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.82,
+        279.11,
+        289.45,
+        288.11
+      ],
+      "text": "verzekeringsarts versie 4.0, maart 2010",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        290.87,
+        446.17,
+        299.87
+      ],
+      "text": "13. Richtlijn rapporteren voor AD, CEC, januari 2010 versie 2.09, januari 2010",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        302.63,
+        406.23,
+        311.63
+      ],
+      "text": "14. Richtlijnen Omgaan met medische gegevens, KNMG, januari 2010",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        314.51,
+        513.97,
+        323.51
+      ],
+      "text": "15. Spontaan versturen Arbeidsdeskundig rapport naar werkgever, UBSMZ 1310-011, 25-10-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.82,
+        326.27,
+        129.82,
+        335.27
+      ],
+      "text": "2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        338.03,
+        226.32,
+        347.03
+      ],
+      "text": "16. Rapport Gevers, 1-5-2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        349.91,
+        493.05,
+        358.91
+      ],
+      "text": "17. Handleiding Omgaan met persoonsgegevens door arbeidsdeskundigen NVVA en SRA,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.82,
+        361.67,
+        167.55,
+        370.67
+      ],
+      "text": "oktober 2014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        232.97,
+        269.6,
+        271.27,
+        278.6
+      ],
+      "text": "Colofon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        232.97,
+        310.07,
+        373.36,
+        319.07
+      ],
+      "text": "Uitgever SMZ BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        232.97,
+        350.39,
+        381.36,
+        359.39
+      ],
+      "text": "Datum maart 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        232.97,
+        390.83,
+        339.86,
+        399.83
+      ],
+      "text": "Versie 1.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        232.97,
+        431.27,
+        501.63,
+        440.27
+      ],
+      "text": "Document Onderzoek Medische Gegevens Derden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        325.15,
+        447.71,
+        348.15,
+        456.71
+      ],
+      "text": "2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        229.49,
+        531.53,
+        234.23,
+        537.53
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 13,
+      "bbox": [
+        235.61,
+        531.73,
+        263.13,
+        537.73
+      ],
+      "text": "2016, UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        229.49,
+        566.89,
+        512.39,
+        572.89
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        229.49,
+        577.81,
+        493.07,
+        583.81
+      ],
+      "text": "gegevensbestand, of openbaar gemaakt, in enige vorm, of enige wijze, hetzij elektronisch, mechanisch, door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        229.49,
+        588.85,
+        487.15,
+        594.85
+      ],
+      "text": "fotokopieën, opnamen of enige andere manier, zonder voorafgaande schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        785.24,
+        524.59,
+        793.28
+      ],
+      "text": "Concept rapportage Medische Gegevens Derden versie 0.6 12",
+      "source": "text"
+    }
+  ]
+}

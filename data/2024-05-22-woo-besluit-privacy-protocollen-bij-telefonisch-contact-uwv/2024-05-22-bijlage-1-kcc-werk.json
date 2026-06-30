@@ -1,0 +1,5477 @@
+{
+  "source_id": "2024-05-22-woo-besluit-privacy-protocollen-bij-telefonisch-contact-uwv/2024-05-22-bijlage-1-kcc-werk",
+  "publication_slug": "2024-05-22-woo-besluit-privacy-protocollen-bij-telefonisch-contact-uwv",
+  "pdf_slug": "2024-05-22-bijlage-1-kcc-werk",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-privacy-protocollen-bij-telefonisch-contact-uwv",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/c6b33c5b-51e4-48bb-82e3-b6410d96370a/bijlage-1-kcc-werk.pdf",
+  "publication_title": "Woo-besluit privacy-protocollen bij telefonisch contact UWV",
+  "publication_date": "2024-05-22T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1. KCC Werk (PDF, 165 kB)",
+  "retrieved_at": "2026-06-30T13:00:58+00:00",
+  "sha256": "c76b1cf02cd12149a24d7c9037c89be8ffbdbd493175068eda4eb5518d06c7d9",
+  "page_count": 11,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.8,
+        90.87,
+        442.74,
+        116.43
+      ],
+      "text": "KCC werk- en systeeminstructies",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.8,
+        171.35,
+        231.63,
+        192.35
+      ],
+      "text": "Privacy-instructie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.8,
+        211.67,
+        451.06,
+        232.67
+      ],
+      "text": "Privacy-instructie Liveservice – Telefonie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.8,
+        251.48,
+        142.15,
+        270.44
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        285.86,
+        749.52,
+        297.38
+      ],
+      "text": "Het is belangrijk dat de privacy van de klant is gewaarborgd. Persoonlijke en vertrouwelijke gegevens mogen niet in verkeerde handen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        305.42,
+        147.71,
+        316.94
+      ],
+      "text": "terecht komen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        324.86,
+        655.24,
+        336.38
+      ],
+      "text": "Deze instructie is ook van toepassing als informatie wordt gemeld (i.p.v. gevraagd) door, namens of over een klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        363.86,
+        231.45,
+        375.38
+      ],
+      "text": "Onder ‘de klant’ wordt verstaan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        383.42,
+        452.82,
+        394.94
+      ],
+      "text": "– een werknemer, werkgever of instantie aan welke UWV diensten verleent.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        402.89,
+        711.26,
+        414.41
+      ],
+      "text": "Onder ‘derden’ vallen bellers die namens een klant (als belangenbehartiger) optreden of bellen (voor gegevens) over een klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        422.45,
+        94.01,
+        433.97
+      ],
+      "text": "Doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        441.89,
+        257.97,
+        453.41
+      ],
+      "text": "Het doel van deze instructie is dat je:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        461.45,
+        354.2,
+        472.97
+      ],
+      "text": "weet of je informatie aan de beller mag geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        462.28,
+        108.4,
+        472.24
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        495.29,
+        373.73,
+        506.81
+      ],
+      "text": "of je de informatie die je ontvangt mag verwerken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        496.12,
+        108.4,
+        506.08
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        514.85,
+        200.38,
+        526.37
+      ],
+      "text": "Deze instructie beschrijft:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        120.82,
+        535.25,
+        227.93,
+        545.73
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.8,
+        720.16,
+        312.41,
+        741.16
+      ],
+      "text": "Stappen privacy-instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        756.67,
+        457.18,
+        768.19
+      ],
+      "text": "Bij ieder binnenkomend gesprek moet je bewust zijn van de volgende zaken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        776.11,
+        117.27,
+        787.63
+      ],
+      "text": "Wie belt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        795.67,
+        314.96,
+        807.19
+      ],
+      "text": "Werknemer/Werkgever (voor zichzelf)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        796.5,
+        108.4,
+        806.46
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        829.51,
+        237.99,
+        841.03
+      ],
+      "text": "Iemand anders (derde)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        830.34,
+        108.4,
+        840.3
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        172.82,
+        849.07,
+        386.73,
+        860.59
+      ],
+      "text": "Namens de klant (als belangenbehartiger)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        154.82,
+        849.9,
+        159.4,
+        859.86
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        172.82,
+        888.07,
+        245.58,
+        899.59
+      ],
+      "text": "Over een klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        154.82,
+        888.9,
+        159.4,
+        898.86
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        921.94,
+        332.29,
+        933.46
+      ],
+      "text": "Wat is de vraag? Waarover wordt gebeld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        922.77,
+        108.4,
+        932.73
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        955.9,
+        298.66,
+        967.42
+      ],
+      "text": "Welk doel heeft de vraag/melding?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        956.73,
+        108.4,
+        966.69
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.82,
+        989.74,
+        284.77,
+        1001.26
+      ],
+      "text": "Mag ik de vraag beantwoorden?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.82,
+        990.57,
+        108.4,
+        1000.53
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        1009.3,
+        353.57,
+        1020.82
+      ],
+      "text": "Als het nodig is, vraag je deze gegevens uit bij de beller.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        1028.74,
+        306.05,
+        1040.26
+      ],
+      "text": "Algemene vragen mag je altijd beantwoorden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        1048.3,
+        597.4,
+        1059.82
+      ],
+      "text": "Een algemene vraag is een vraag waarvoor je naast de content in K3CR niet in systemen hoeft te kijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        1067.74,
+        768.5,
+        1079.26
+      ],
+      "text": "Bij voorkeur registreer je het BSN (werknemers) of Loonheffingennummer (werkgever) wel bij een algemene vraag. Heeft de beller dit niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        1087.3,
+        267.99,
+        1098.82
+      ],
+      "text": "bij de hand, dan geef je toch antwoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        1106.74,
+        725.71,
+        1118.26
+      ],
+      "text": "Persoonsgebonden vragen mag je alleen beantwoorden na toepassing van deze instructie of als dit in de content wordt vermeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        78.84,
+        737.49,
+        90.36
+      ],
+      "text": "Een persoonsgebonden vraag is een vraag waarvoor je voor het antwoord wel in de systemen moet kijken. Bijvoorbeeld: Resa Fasa,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        98.28,
+        161.44,
+        109.8
+      ],
+      "text": "Excasso of WWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        117.84,
+        146.82,
+        129.36
+      ],
+      "text": "Doorverbinden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        137.3,
+        767.51,
+        148.82
+      ],
+      "text": "Moet je binnen WN of WG doorverbinden naar een andere belgroep? Voltooi dan eerst stap 1 èn registreer je de gegevens van de derde in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        156.86,
+        227.98,
+        168.38
+      ],
+      "text": "K3CR. Pas dan verbind je door.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        176.3,
+        463.95,
+        187.82
+      ],
+      "text": "Bij doorverbinden van WG naar WN pas je de privacy-instructie (opnieuw) toe.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        195.86,
+        343.55,
+        207.38
+      ],
+      "text": "De privacy-instructie bestaat uit de volgende stappen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        70.8,
+        226.16,
+        525.38,
+        245.12
+      ],
+      "text": "1. Stel de identiteit van de beller en reden contact vast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        280.94,
+        547.05,
+        292.46
+      ],
+      "text": "Beller is Belt voor- of uit naam van- of Relatie / rol / bijzonderheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        207.38,
+        300.38,
+        258.64,
+        311.9
+      ],
+      "text": "over klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        320.66,
+        639.17,
+        332.18
+      ],
+      "text": "werknemer / voor zichzelf hieronder valt ook een werkgever die vanuit een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        340.1,
+        656.06,
+        351.62
+      ],
+      "text": "werkgever wettelijke verplichting belt over een (ex)werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        360.38,
+        547.6,
+        371.9
+      ],
+      "text": "derde namens (uit naam van) de klant Bijvoorbeeld bij werknemers:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        379.94,
+        584.85,
+        391.46
+      ],
+      "text": "(niet de klant) als belangenbehartiger Familie / partner, vertegenwoordiger,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        399.41,
+        673.14,
+        410.93
+      ],
+      "text": "advocaat/juridisch rechtshulpverlener, bewindvoerder,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        418.97,
+        496.33,
+        430.49
+      ],
+      "text": "schuldhulpverlener,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        438.41,
+        659.9,
+        449.93
+      ],
+      "text": "nabestaande (bij overleden klant = meestal familie),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        457.97,
+        656.11,
+        469.49
+      ],
+      "text": "gemachtigde, werkgever (als belangenbehartiger –",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        477.41,
+        671.67,
+        488.93
+      ],
+      "text": "wees hier altijd alert en kritisch op de informatie die je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        496.97,
+        449.22,
+        508.49
+      ],
+      "text": "verstrekt).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        516.41,
+        543.64,
+        527.93
+      ],
+      "text": "Bijvoorbeeld bij werkgevers:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        535.97,
+        607.51,
+        547.49
+      ],
+      "text": "Administratiekantoor, werkgeverservices,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        555.41,
+        670.82,
+        566.93
+      ],
+      "text": "advocaat/juridisch rechtshulpverlener, bewindvoerder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        574.97,
+        651.44,
+        586.49
+      ],
+      "text": "(curator), bij PGB’ers treedt de SVB voor sommige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        594.41,
+        663.77,
+        605.93
+      ],
+      "text": "zaken op namens de klant (bijv. 42-ste-weekmelding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        397.37,
+        613.97,
+        418.54,
+        625.49
+      ],
+      "text": "ZW)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        207.38,
+        634.97,
+        596.95,
+        646.49
+      ],
+      "text": "over een klant Werkgevers, Gemeente, Politie/Justitie,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        654.43,
+        586.17,
+        665.95
+      ],
+      "text": "Centraal Administratiekantoor (CAK),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        673.99,
+        625.04,
+        685.51
+      ],
+      "text": "Participatiefonds (basisonderwijspersoneel),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.37,
+        693.43,
+        476.2,
+        704.95
+      ],
+      "text": "Sociaal attaché",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        724.54,
+        189.99,
+        739.54
+      ],
+      "text": "Beller: werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        754.99,
+        379.26,
+        766.51
+      ],
+      "text": "Deze telefonie wordt behandeld door Telefonie Werknemers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        774.43,
+        190.6,
+        785.95
+      ],
+      "text": "Controlevragen/-acties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        103.82,
+        794.82,
+        108.4,
+        804.78
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        120.82,
+        794.95,
+        227.93,
+        805.43
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        847.39,
+        458.56,
+        858.91
+      ],
+      "text": "Is er verder geen reden tot twijfel over de identiteit? Dan is de beller de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        866.83,
+        174.26,
+        878.35
+      ],
+      "text": "Ga verder met stap 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        896.38,
+        184.31,
+        911.38
+      ],
+      "text": "Beller: werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        926.86,
+        374.93,
+        938.38
+      ],
+      "text": "Deze telefonie wordt behandeld door Telefonie Werkgevers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        946.42,
+        190.6,
+        957.94
+      ],
+      "text": "Controlevragen/-acties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        103.82,
+        966.69,
+        108.4,
+        976.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        120.82,
+        966.82,
+        227.93,
+        977.3
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        1024.42,
+        498.13,
+        1035.94
+      ],
+      "text": "ZZP’ers en PGB’ers hebben doorgaans geen ; vraag in dat geval naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        499.87,
+        1025.41,
+        527.22,
+        1029.41
+      ],
+      "text": "art. 5.1 lid 2, su",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        293.84,
+        1025.4,
+        355.65,
+        1031.44
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        103.82,
+        1044.69,
+        108.4,
+        1054.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        120.82,
+        1044.82,
+        227.93,
+        1055.3
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        120.82,
+        79.8,
+        227.93,
+        90.28
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        132.26,
+        294.89,
+        143.78
+      ],
+      "text": "Als een werkgever over een werknemer belt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        103.82,
+        152.53,
+        108.4,
+        162.49
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        120.82,
+        152.66,
+        227.93,
+        163.14
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        272.9,
+        174.26,
+        284.42
+      ],
+      "text": "Ga verder met stap 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        302.45,
+        248.85,
+        317.45
+      ],
+      "text": "Beller: derde (niet de klant)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        333.02,
+        631.16,
+        344.54
+      ],
+      "text": "Belt een ander dan de klant? Bepaal eerst of er namens (uit naam van) de klant wordt gebeld of over een klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        352.46,
+        765.61,
+        363.98
+      ],
+      "text": "Als er namens (uit naam van) de klant wordt gebeld, is over het algemeen toestemming nodig van de klant. Er zijn enkele uitzonderingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        372.02,
+        240.43,
+        383.54
+      ],
+      "text": "Deze staan verderop beschreven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        391.49,
+        296.87,
+        403.01
+      ],
+      "text": "Wees in deze situaties altijd alert en kritisch.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        411.05,
+        661.81,
+        422.57
+      ],
+      "text": "Aarzelt de beller of geeft hij ontwijkende antwoorden? Dan heb je een reden tot twijfel. Wordt er wel namens de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        430.49,
+        391.67,
+        442.01
+      ],
+      "text": "(belangenbehartiger) of met toestemming van de klant gebeld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        460.04,
+        393.72,
+        475.04
+      ],
+      "text": "Beller belt namens de klant (belangenbehartiger)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        490.49,
+        534.47,
+        502.01
+      ],
+      "text": "Wordt er uit naam van de klant gebeld? Dan kan dit alleen in de rol van belangenbehartiger.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        510.05,
+        190.6,
+        521.57
+      ],
+      "text": "Controlevragen/-acties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        103.82,
+        530.32,
+        108.4,
+        540.28
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        120.82,
+        530.45,
+        227.93,
+        540.93
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        985.54,
+        103.08,
+        997.06
+      ],
+      "text": "Let op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        1005.1,
+        769.88,
+        1016.62
+      ],
+      "text": "Een werkgever die belt als belangenbehartiger van een werknemer wordt geholpen door Telefonie Werknemers. Komt een gesprek binnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        1024.54,
+        764.13,
+        1036.06
+      ],
+      "text": "bij Telefonie Werkgevers? Verbind de werkgever door naar Telefonie Werknemers. De vraag wordt dan geregistreerd waar die thuishoort,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        1044.1,
+        643.82,
+        1055.62
+      ],
+      "text": "nl bij de werknemer. Het is feitelijk een vraag van een werknemer die gesteld wordt door een belangenbehartiger.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        1063.54,
+        734.23,
+        1075.06
+      ],
+      "text": "Andersom, als de werkgever, in de rol van belangenbehartiger, belt naar Telefonie Werknemers wordt deze dus niet doorgezet naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        1083.1,
+        639.24,
+        1094.62
+      ],
+      "text": "Telefonie Werkgevers. Vraag dus altijd goed waarvoor de werkgever belt. Belt hij als belangenbehartiger of niet?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        78.84,
+        770.94,
+        90.36
+      ],
+      "text": "Wees in deze situatie extra alert. Heb je het idee dat de informatie die je gaat verstrekken niet in het belang is van de werknemer? Zeg dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        98.28,
+        399.17,
+        109.8
+      ],
+      "text": "dat je hierop alleen antwoord mag geven aan de werknemer zelf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        117.84,
+        174.26,
+        129.36
+      ],
+      "text": "Ga verder met stap 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        147.41,
+        334.57,
+        162.41
+      ],
+      "text": "Beller belt voor gegevens over een klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        177.86,
+        605.75,
+        189.38
+      ],
+      "text": "Er wordt over een klant gebeld als de beller bepaalde gegevens wil hebben (of doorgeven) over een klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        197.3,
+        679.39,
+        208.82
+      ],
+      "text": "Alleen aan onderstaande partijen wordt telefonisch informatie verstrekt over een klant, of als dit in K3CR wordt vermeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.8,
+        217.82,
+        176.91,
+        228.3
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        255.86,
+        496.43,
+        267.38
+      ],
+      "text": "Als verder geen reden tot twijfel is over de bedoeling, rol en identiteit (van de beller):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        121.82,
+        275.3,
+        205.81,
+        286.82
+      ],
+      "text": "Vraag en noteer:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        103.82,
+        276.13,
+        108.4,
+        286.09
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        172.82,
+        294.86,
+        463.31,
+        306.38
+      ],
+      "text": "De naam van de beller (dhr./mw., voorletter, achternaam)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        154.82,
+        295.69,
+        159.4,
+        305.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        172.82,
+        333.86,
+        382.58,
+        345.38
+      ],
+      "text": "De instantie van waaruit de beller handelt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        154.82,
+        334.69,
+        159.4,
+        344.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        363.05,
+        143.16,
+        376.61
+      ],
+      "text": "Werkgevers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        384.5,
+        483.8,
+        396.02
+      ],
+      "text": "Bij vragen over huidige werknemers, ex-werknemers of toekomstige werknemers:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        404.09,
+        758.48,
+        415.61
+      ],
+      "text": "Aan werkgevers wordt, buiten de uitzonderingen hieronder beschreven, over werknemers alleen telefonisch informatie verstrekt over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        423.53,
+        360.03,
+        435.05
+      ],
+      "text": "periode dat deze in dienst zijn geweest bij die werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        443.09,
+        748.77,
+        454.61
+      ],
+      "text": "Wil de werkgever informatie over een werknemer die buiten de dienstverbandperiode valt? Dan kan dat alleen als de werkgever daarin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        462.53,
+        392.82,
+        474.05
+      ],
+      "text": "belanghebbende is. Zoals bijvoorbeeld in de volgende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        482.09,
+        396.83,
+        493.61
+      ],
+      "text": "– werkgever is ERD: alleen informatie over recht, duur en hoogte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        501.53,
+        761.44,
+        513.05
+      ],
+      "text": "Let op! Is het ERD-schap beëindigd? Controleer dan altijd of de eerste ziektedag/WIA-dag voor de beëindigingsdatum ERD-schap ligt. Zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        521.09,
+        277.28,
+        532.61
+      ],
+      "text": "ja, dan is de werkgever belanghebbende.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        540.53,
+        756.38,
+        552.05
+      ],
+      "text": "– bij ZW-flex/WGA-flex: toekenningen en herstelmeldingen bevestig je telefonisch. Dit doe je alleen als je de beslissing in EA ziet staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        560.09,
+        171.63,
+        571.61
+      ],
+      "text": "– doelgroepregister",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        579.53,
+        753.83,
+        591.05
+      ],
+      "text": "Een ex-werkgever is belanghebbende als hij buiten de periode van het dienstverband, middels een beschikking door UWV op de hoogte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        599.09,
+        255.9,
+        610.61
+      ],
+      "text": "wordt gesteld over de ex-werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        618.53,
+        747.9,
+        630.05
+      ],
+      "text": "Vragen over de SFB-status van ex- en toekomstige werknemers moeten schriftelijk aangevraagd worden bij UWV Gegevensdiensten /",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        638.09,
+        290.92,
+        649.61
+      ],
+      "text": "Afd. PDI. Verwijs de werkgever naar uwv.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        657.55,
+        767.96,
+        669.07
+      ],
+      "text": "In alle andere situaties geef je geen informatie. Je geeft door dat deze informatie schriftelijk moet worden opgevraagd bij het betreffende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        677.11,
+        113.17,
+        688.63
+      ],
+      "text": "kantoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        706.3,
+        152.58,
+        719.86
+      ],
+      "text": "Arbodiensten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        727.75,
+        495.96,
+        739.27
+      ],
+      "text": "Verzuimbegeleiding wordt door werkgevers meestal uitbesteed aan een arbodienst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        747.31,
+        759.56,
+        758.83
+      ],
+      "text": "Omdat het gaat om statusinformatie en er verder geen persoonsgegevens mogen worden verstrekt, is hierover afgesproken dat er geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        766.75,
+        174.28,
+        778.27
+      ],
+      "text": "machtiging nodig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        786.31,
+        708.78,
+        797.83
+      ],
+      "text": "De arbodienst verstrekt de gegevens van de werkgever (Loonheffingennummer/bedrijfsnaam) en de werknemer (BSN/naam).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        805.75,
+        328.38,
+        817.27
+      ],
+      "text": "Je controleert of de werkgever belanghebbende is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        825.31,
+        733.15,
+        836.83
+      ],
+      "text": "Dat is hij binnen de eerste 104 weken van ziekte, evt. verlengd met een bepaalde periode als er sprake is van een sanctie. Of als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        844.75,
+        265.66,
+        856.27
+      ],
+      "text": "werkgever het dienstverband voortzet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        864.31,
+        765.34,
+        875.83
+      ],
+      "text": "Alleen vragen over de status van ingezonden RIV stukken (digitaal of schriftelijk) in het kader van de Wet Poortwachter (wachttijd tot aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        883.75,
+        316.92,
+        895.27
+      ],
+      "text": "de WIA) mogen telefonisch worden beantwoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        912.94,
+        140.7,
+        926.5
+      ],
+      "text": "Gemeenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        934.54,
+        303.33,
+        946.06
+      ],
+      "text": "Identificatie: Ingangsnummer voor gemeenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        954.1,
+        555.22,
+        965.62
+      ],
+      "text": "Voor gemeenten is een speciaal ingangsnummer dat uitkomt bij Ketentelefonie (088-8982003).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        973.54,
+        738.18,
+        985.06
+      ],
+      "text": "In de Agent Desktop van Odigo kan je dat zien aan de eindcijfers 08 of 15 van het binnenkomende nummer (het bovenste nummer).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        993.1,
+        600.75,
+        1004.62
+      ],
+      "text": "Als een ander dan een gemeente dit nummer belt, verwijs dan naar Telefonie Werknemers of Werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        1012.54,
+        646.06,
+        1024.06
+      ],
+      "text": "Het komt voor dat een gemeenten toch via een ander nummer binnenkomt. Bijvoorbeeld het WN- of WG-nummer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        1032.1,
+        764.63,
+        1043.62
+      ],
+      "text": "Geef dan de informatie die je mag verstrekken en vraag de gemeente of zij in het vervolg het nummer van de Ketentelefoon willen bellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        1051.54,
+        286.48,
+        1063.06
+      ],
+      "text": "Geef dit nummer (088-8982003) dan door.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        1071.1,
+        482.41,
+        1082.62
+      ],
+      "text": "De informatie die je telefonisch aan gemeenten mag verstrekken staat hieronder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        1090.54,
+        178.98,
+        1102.06
+      ],
+      "text": "Beoordeling uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        78.84,
+        585.13,
+        90.36
+      ],
+      "text": "Heeft de klant bij de gemeente een uitkering aangevraagd? Dan kan de gemeente vragen stellen over:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        121.82,
+        98.28,
+        735.69,
+        109.8
+      ],
+      "text": "een UWV-uitkering (is er een aanvraag gedaan, hoogte, begin- en einddatum, aanvraag toeslag, boete, ligt er beslag op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        103.82,
+        99.11,
+        108.4,
+        109.07
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        121.82,
+        117.84,
+        331.58,
+        129.36
+      ],
+      "text": "uitkering, reden beëindiging, periodiciteit)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        121.82,
+        151.7,
+        312.61,
+        163.22
+      ],
+      "text": "adresgegevens zoals bekend bij UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        103.82,
+        152.53,
+        108.4,
+        162.49
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        121.82,
+        185.66,
+        230.07,
+        197.18
+      ],
+      "text": "de huidige werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        103.82,
+        186.49,
+        108.4,
+        196.45
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        205.1,
+        343.67,
+        216.62
+      ],
+      "text": "Alleen deze vragen mag je telefonisch beantwoorden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        224.66,
+        759.28,
+        236.18
+      ],
+      "text": "LET OP: Gemeenten bellen ook vaak over het percentage arbeidsongeschiktheid van een klant. Deze informatie mag je telefonisch NIET",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        244.1,
+        128.03,
+        255.62
+      ],
+      "text": "doorgeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        283.1,
+        239.91,
+        294.62
+      ],
+      "text": "Verwijs gemeente naar formulier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        302.66,
+        760.75,
+        314.18
+      ],
+      "text": "Kun je de bovenstaande informatie niet vinden of vraagt de gemeente andere informatie op? Maak dan GEEN terugbelverzoek. Vraag de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        322.1,
+        765.7,
+        333.62
+      ],
+      "text": "gemeente om een serviceformulier in te vullen en om dit te mailen naar gegevensdiensten@uwv.nl. Het formulier is te vinden op uwv.nl >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        341.66,
+        679.85,
+        353.18
+      ],
+      "text": "zakelijk > formulieren en documenten. Het formulier heet ‘Aanvragen gegevens UWV door gemeente of belastingdienst’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        361.1,
+        198.82,
+        372.62
+      ],
+      "text": "Beslag door de gemeente",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        380.66,
+        578.77,
+        392.18
+      ],
+      "text": "Als een gemeente beslag wil leggen op de uitkering, dan heeft de gemeente de rol van beslaglegger.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        400.13,
+        335.46,
+        411.65
+      ],
+      "text": "Je mag dan telefonisch geen gegevens verstrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        419.69,
+        748.14,
+        431.21
+      ],
+      "text": "De gemeente moet benodigde gegevens opvragen bij UWV Gegevensdiensten (afd. Services/team Leveren en Service) via het portaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        439.13,
+        244.19,
+        450.65
+      ],
+      "text": "UWV/Zakelijk/Gegevensdiensten.’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        458.69,
+        261.63,
+        470.21
+      ],
+      "text": "Informatie over Bezwaar of Beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        478.13,
+        729.65,
+        489.65
+      ],
+      "text": "Wil de gemeente weten of er een bezwaar is ingediend of een beslissing op het bezwaar is genomen? Dan moet de gemeente hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        497.69,
+        355.93,
+        509.21
+      ],
+      "text": "schriftelijk om vragen bij het Bezwaar & Beroep kantoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        517.13,
+        446.49,
+        528.65
+      ],
+      "text": "Vragen naar aanleiding van Individuele inkomenstoeslag en overige vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        536.69,
+        592.36,
+        548.21
+      ],
+      "text": "De gemeente vraagt deze informatie rechtstreeks op bij UWV, divisie UGD, afdeling Leveren en Service.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        565.88,
+        164.24,
+        579.44
+      ],
+      "text": "Sociaal attaché",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        587.33,
+        754.28,
+        598.85
+      ],
+      "text": "Een sociale attaché is een Nederlandse diplomaat in het buitenland (ambassadepersoneel van het ministerie van Buitenlandse Zaken),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        606.89,
+        351.34,
+        618.41
+      ],
+      "text": "geplaatst vanuit de SVB op de betreffende ambassade.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        626.33,
+        263.97,
+        637.85
+      ],
+      "text": "UWV beschouwt ze als ketenpartners.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        645.89,
+        736.61,
+        657.41
+      ],
+      "text": "Krijg je een gesprek van een medewerker uit naam van een attachee én er wordt een naam van een attachee genoemd? Dan mag je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        665.35,
+        213.68,
+        676.87
+      ],
+      "text": "klantinformatie verstrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        684.91,
+        325.75,
+        696.43
+      ],
+      "text": "De namen gelden als een soort van controlevraag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        704.35,
+        239.49,
+        715.87
+      ],
+      "text": "Het gaat om de volgende namen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        69.8,
+        724.87,
+        176.91,
+        735.35
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        831.1,
+        157.24,
+        844.66
+      ],
+      "text": "UWV (collega)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        852.67,
+        738.64,
+        864.19
+      ],
+      "text": "Voor UWV collega’s is een apart telefoonnummer: ( Dit gesprek komt binnen bij de belgroep Ketentelefoon en wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        330.11,
+        853.64,
+        407.98,
+        861.26
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        872.11,
+        278.66,
+        883.63
+      ],
+      "text": "herkend in Odigo aan: ‘UWV collega belt’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        891.67,
+        323.33,
+        903.19
+      ],
+      "text": "Als de collega op een ander nummer binnenkomt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        911.11,
+        476.23,
+        922.63
+      ],
+      "text": "– Controleer de naam van deze collega in Klantbeeld, UWV Vinder of in Outlook.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        930.7,
+        758.28,
+        942.22
+      ],
+      "text": "– Leg de vraag van de collega vast met de vraag: UWV Algemeen \\ Gegevensverstrekking \\ Algemeen: Kunt u mijn vraag beantwoorden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        950.14,
+        143.57,
+        961.66
+      ],
+      "text": "(UWV collega)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        979.33,
+        339.36,
+        992.89
+      ],
+      "text": "Participatiefonds (basisonderwijspersoneel)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        1000.9,
+        769.27,
+        1012.42
+      ],
+      "text": "Het Participatiefonds betaalt de uitkeringskosten van basisonderwijspersoneel en helpt bij het zoeken naar een nieuwe baan. Heb je geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        1020.34,
+        306.36,
+        1031.86
+      ],
+      "text": "WWO? Verbind door met de belgroep WG WW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        1039.9,
+        537.22,
+        1051.42
+      ],
+      "text": "In de K3CR content staan contactpersonen aan wie en welke informatie je mag verstrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        1069.09,
+        435.2,
+        1082.65
+      ],
+      "text": "Centraal Administratie Kantoor (CAK*) – voor WTCG-vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        1090.54,
+        579.81,
+        1102.06
+      ],
+      "text": "Achterhaal soort uitkering (BSN) en verbind door met de belgroep WN WAO, WN WIA of WN Wajong.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        78.84,
+        393.6,
+        90.36
+      ],
+      "text": "In de K3CR content staat welke informatie je mag verstrekken. .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        98.28,
+        769.4,
+        109.8
+      ],
+      "text": "* Het CAK voert de WTCG (Wet Tegemoetkoming voor Chronisch zieken en Gehandicapten) uit, berekent en incasseert de eigen bijdragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        117.84,
+        543.68,
+        129.36
+      ],
+      "text": "voor de AWBZ en de WMO en is verantwoordelijk voor de financiering van AWBZ-instellingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        147.05,
+        163.06,
+        160.61
+      ],
+      "text": "Politie / justitie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        168.5,
+        352.38,
+        180.02
+      ],
+      "text": "Doorverbinden met de belgroep WG Gegevensdiensten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        188.06,
+        591.81,
+        199.58
+      ],
+      "text": "Zie de vraag in K3CR: WG UGD \\ Aanvragen \\ Ik ben van de politie, kan ik telefonisch gegevens krijgen?",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        70.8,
+        218.36,
+        471.5,
+        237.32
+      ],
+      "text": "2. Verstrek de gegevens / neem de melding aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        252.86,
+        476.22,
+        264.38
+      ],
+      "text": "Als er geen twijfel is, verstrek je de gevraagde gegevens /verwerk je de melding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        272.3,
+        545.97,
+        283.82
+      ],
+      "text": "Je beoordeelt echter altijd kritisch of de gevraagde/verstrekte gegevens logisch en redelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        291.86,
+        136.94,
+        303.38
+      ],
+      "text": "Bijvoorbeeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        311.3,
+        764.36,
+        322.82
+      ],
+      "text": "Belt een derde namens een klant met de vraag naar het woonadres van de klant? Dan is dit niet logisch. De klant weet nl zelf wel waar hij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        330.86,
+        105.75,
+        342.38
+      ],
+      "text": "woont.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        350.3,
+        732.6,
+        361.82
+      ],
+      "text": "Hieronder de bijzondere situaties, uitzonderingen of uitsluitingen waar rekening mee moet worden gehouden bij het verstrekken of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        369.86,
+        205.55,
+        381.38
+      ],
+      "text": "registreren van informatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        409.61,
+        230.98,
+        421.13
+      ],
+      "text": "Gegevens Geheim:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        429.17,
+        528.87,
+        440.69
+      ],
+      "text": "Deze aanduiding kan verschijnen in het scherm K3CR Contactgegevens (WN).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        448.61,
+        480.17,
+        460.13
+      ],
+      "text": "Dit betekent dat de adresgegevens van deze klant (WN) geheim zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        468.17,
+        645.01,
+        479.69
+      ],
+      "text": "Onder geen enkele voorwaarde mag je telefonisch iets over adresgegevens (ook de woonplaats niet)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        487.61,
+        196.44,
+        499.13
+      ],
+      "text": "verstrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        528.17,
+        282.21,
+        539.69
+      ],
+      "text": "Bij ‘Klantrestricties’ in K3CR:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        547.61,
+        512.66,
+        559.13
+      ],
+      "text": "In bijzondere gevallen kan bij een BSN in K3CR restricties zijn aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        567.17,
+        480.55,
+        578.69
+      ],
+      "text": "Deze restricties gaan voor de instructies van deze privacy-instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        586.61,
+        471.69,
+        598.13
+      ],
+      "text": "Handel dus altijd naar de bepalingen van de aangegeven restrictie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        606.17,
+        615.18,
+        617.69
+      ],
+      "text": "Het kan gaan om bijv. een contactverbod, geheim adres, pandverbod of een afgesproken code.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        627.17,
+        240.38,
+        638.69
+      ],
+      "text": "Medische gegevens:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        646.61,
+        639.55,
+        658.13
+      ],
+      "text": "Medische en gezondheidsgegevens mogen nooit telefonisch worden verstrekt of uitgevraagd. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        666.19,
+        652.04,
+        677.71
+      ],
+      "text": "gegevens moeten altijd schriftelijk worden aangevraagd of persoonlijk worden besproken met de arts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        685.63,
+        634.62,
+        697.15
+      ],
+      "text": "Gegevens over gezondheid zijn alle gegevens over de gezondheidstoestand van de klant. Zij geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        705.19,
+        672.07,
+        716.71
+      ],
+      "text": "informatie over de lichamelijke of geestelijke gezondheidstoestand van de klant in het verleden, het heden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        724.63,
+        216.4,
+        736.15
+      ],
+      "text": "en de toekomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        744.19,
+        669.97,
+        755.71
+      ],
+      "text": "Je mag medische gegevens niet verwerken in K3CR. Wil de klant medische gegevens met je delen? Vertel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        763.63,
+        647.77,
+        775.15
+      ],
+      "text": "dan dat hij dit met een arts moet / kan bespreken. Je zegt tegen klant wat je wel kunt doen voor hem.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        804.19,
+        214.8,
+        815.71
+      ],
+      "text": "Fraudemelding:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        823.63,
+        527.6,
+        835.15
+      ],
+      "text": "Bij fraudemelding noteer je geen BSN of Loonheffingennummer van de beller.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        864.19,
+        390.7,
+        875.71
+      ],
+      "text": "Werkgeverservices – machtigingen (werkgevers):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        883.63,
+        648.31,
+        895.15
+      ],
+      "text": "Iedere organisatie die namens een werkgever optreedt en persoonsgebonden informatie opvraagt (of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        903.19,
+        674.5,
+        914.71
+      ],
+      "text": "verstrekt) over werknemers die bij de betreffende werkgever in dienst zijn/zijn geweest, moeten schriftelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        922.66,
+        315.48,
+        934.18
+      ],
+      "text": "gemachtigd zijn door de werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        942.22,
+        649.21,
+        953.74
+      ],
+      "text": "Denk aan accountantsbureaus, administratiekantoren, werkgeverservices, HRM-ondersteuners of een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        961.66,
+        238.54,
+        973.18
+      ],
+      "text": "externe boekhouder.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        133.94,
+        981.22,
+        196.09,
+        992.74
+      ],
+      "text": "WG ERD ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        1000.66,
+        621.81,
+        1012.18
+      ],
+      "text": "Controleer in UZS of het administratiekantoor gemachtigd is om informatie te ontvangen. Zie de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        1020.22,
+        252.26,
+        1031.74
+      ],
+      "text": "systeeminstructie UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        1039.66,
+        629.14,
+        1051.18
+      ],
+      "text": "Is er geen machtiging aanwezig? Dan mag je de vraag van de beller niet beantwoorden. Maak een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        1059.22,
+        575.89,
+        1070.74
+      ],
+      "text": "terugbelnotitie zodat het kantoor kan beoordelen of de vraag beantwoord mag worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        1078.66,
+        669.5,
+        1090.18
+      ],
+      "text": "Vermeld hierin: Geen machtiging zichtbaar in de systemen. Graag beoordelen of informatie verstrekt mag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.94,
+        1098.22,
+        319.22,
+        1109.74
+      ],
+      "text": "worden en terugkoppelen aan beller.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        133.94,
+        79.56,
+        174.57,
+        91.08
+      ],
+      "text": "LET OP!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        133.94,
+        99.12,
+        361.35,
+        110.64
+      ],
+      "text": "Algemene vragen – geen machtiging vereist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        133.94,
+        118.56,
+        576.79,
+        130.08
+      ],
+      "text": "Uiteraard mogen algemene (niet persoonsgebonden) vragen altijd beantwoord worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        133.94,
+        138.14,
+        317.18,
+        149.66
+      ],
+      "text": "Hiervoor is geen machtiging vereist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        133.94,
+        157.58,
+        651.58,
+        169.1
+      ],
+      "text": "Bij voorkeur registreer je de vraag bij het Loonheffingennummer van de werkgever namens wie gebeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        133.94,
+        177.14,
+        569.8,
+        188.66
+      ],
+      "text": "wordt, maar heeft de beller dit niet bij de hand, dan wordt het antwoord toch verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        70.8,
+        208.16,
+        336.94,
+        227.12
+      ],
+      "text": "3. Leg het gesprek vast in K3CR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        242.66,
+        213.41,
+        254.18
+      ],
+      "text": "Koppel de gebruikte flow(s)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        271.85,
+        198.03,
+        285.41
+      ],
+      "text": "Beller is niet de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        293.3,
+        483.61,
+        304.82
+      ],
+      "text": "Als een ander dan de klant belt, noteer je de aangegeven bellergegevens in K3CR.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        312.86,
+        398.14,
+        324.38
+      ],
+      "text": "Bij Naam beller vermeld je: dhr./mw., voorletters en achternaam.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        332.3,
+        313.76,
+        343.82
+      ],
+      "text": "Bij Relatie/functie maak je een keuze uit de lijst.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        70.8,
+        437.63,
+        584.98,
+        456.59
+      ],
+      "text": "4. Controlevragen niet beantwoord of twijfel over de identiteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        474.44,
+        266.19,
+        488.0
+      ],
+      "text": "Controlevragen niet beantwoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        495.89,
+        667.52,
+        507.41
+      ],
+      "text": "Als de controlevragen niet (correct) zijn beantwoord, mag je geen vragen beantwoorden die iets zeggen over de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        515.45,
+        752.09,
+        526.97
+      ],
+      "text": "Je mag zelfs niet bevestigen aan de beller of de klant bekend is bij UWV en/of een uitkering ontvangt of heeft ontvangen. Er mag niets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        534.89,
+        344.47,
+        546.41
+      ],
+      "text": "over klant vermeld of/bevestigd worden aan de beller.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        554.45,
+        122.06,
+        565.97
+      ],
+      "text": "Bij twijfel:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        573.89,
+        766.69,
+        585.41
+      ],
+      "text": "Als bij aanvang of tijdens het gesprek twijfel bij je opkomt of over de identiteit (zelfs na het correct beantwoorden van de controlevragen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        593.45,
+        754.88,
+        604.97
+      ],
+      "text": "of de bedoelingen van de beller (handelt de beller wel als belangenbehartiger en met toestemming van de klant), mag je geen (verdere)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        612.89,
+        188.74,
+        624.41
+      ],
+      "text": "informatie verstrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        632.45,
+        527.75,
+        643.97
+      ],
+      "text": "Zeg de beller dat je actie zal ondernemen als het nodig is (ook als de klant niet bekend is).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        651.89,
+        746.43,
+        663.41
+      ],
+      "text": "Je registreert de vraag als de klant wél bekend is bij ons en je maakt, indien van toepassing, een terugbelverzoek of informatiebericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        671.47,
+        504.53,
+        682.99
+      ],
+      "text": "voor de behandelaar en je vermeldt er dan bij ‘Ik twijfel aan de identiteit van de beller’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        70.8,
+        702.16,
+        596.49,
+        723.16
+      ],
+      "text": "Privacy-instructie Liveservice – Digitaal berichtenverkeer",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        70.8,
+        741.97,
+        142.15,
+        760.93
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        776.47,
+        745.25,
+        787.99
+      ],
+      "text": "Het is belangrijk dat de privacy van de klant is gewaarborgd. Persoonlijke en vertrouwelijke gegevens van UWV-klanten mogen niet in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        795.91,
+        241.28,
+        807.43
+      ],
+      "text": "verkeerde handen terecht komen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        815.47,
+        655.24,
+        826.99
+      ],
+      "text": "Deze instructie is ook van toepassing als informatie wordt gemeld (i.p.v. gevraagd) door, namens of over een klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        834.91,
+        733.82,
+        846.43
+      ],
+      "text": "Digitale berichten worden behandeld door klantadviseurs die daarvoor de opleiding KCC Mijn berichten succesvol hebben afgrond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        854.47,
+        547.43,
+        865.99
+      ],
+      "text": "Berichten van werkgevers worden behandeld door Liveservice Werkgevers (vestiging Almere).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        70.8,
+        884.77,
+        108.74,
+        903.73
+      ],
+      "text": "Doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        919.3,
+        298.91,
+        930.82
+      ],
+      "text": "Het doel van deze instructie is dat je weet of:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        938.74,
+        396.43,
+        950.26
+      ],
+      "text": "– je in het antwoord van een bericht informatie mag verstrekken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        958.3,
+        394.48,
+        969.82
+      ],
+      "text": "– je de informatie die je in een bericht ontvangt mag verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        997.3,
+        200.38,
+        1008.82
+      ],
+      "text": "Deze instructie beschrijft:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        1016.74,
+        390.03,
+        1028.26
+      ],
+      "text": "– wanneer je mag aannemen met de klant van doen te hebben,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        1036.3,
+        457.29,
+        1047.82
+      ],
+      "text": "– hoe te handelen als een derde contact opneemt namens of over een klant,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        1055.74,
+        732.87,
+        1067.26
+      ],
+      "text": "– enkele bijzondere situaties en de daaraan verbonden controleacties, instructies over doorverwijzen naar een ander kanaal, ander",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        1075.3,
+        254.01,
+        1086.82
+      ],
+      "text": "organisatieonderdeel of anderszins.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        70.8,
+        74.58,
+        170.36,
+        93.54
+      ],
+      "text": "Identificatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        111.75,
+        210.86,
+        126.75
+      ],
+      "text": "Burgers/werknemers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        142.1,
+        452.81,
+        153.62
+      ],
+      "text": "Burgers (werknemers) identificeren zich op het portaal van UWV met DigiD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        161.66,
+        698.9,
+        173.18
+      ],
+      "text": "Door de inlogprocedure via DigiD, mag je er bij burgers (werknemers) altijd van uitgaan dat je te doen hebt met de klant zelf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        191.21,
+        149.12,
+        206.21
+      ],
+      "text": "Werkgevers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        221.66,
+        749.04,
+        233.18
+      ],
+      "text": "Bij berichten via het werkgeversportaal mag je er van uitgaan dat je met de betreffende werkgever of zijn gemachtigde van doen hebt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        70.8,
+        251.96,
+        377.95,
+        270.92
+      ],
+      "text": "Welke informatie mag je verstrekken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        289.13,
+        212.0,
+        304.13
+      ],
+      "text": "Werknemers/burgers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        319.46,
+        356.69,
+        330.98
+      ],
+      "text": "Aan de klant mag je de volgende informatie verstrekken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        121.82,
+        339.02,
+        712.85,
+        350.54
+      ],
+      "text": "Algemene informatie. Dit is informatie waarvoor je naast de content in K3CR niet in andere systemen hoeft te kijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        103.82,
+        339.85,
+        108.4,
+        349.81
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        121.82,
+        372.86,
+        745.86,
+        384.38
+      ],
+      "text": "Persoonsgebonden informatie. Dit is informatie waarvoor je naast de content in K3CR wel in andere systemen moet kijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        103.82,
+        373.69,
+        108.4,
+        383.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        121.82,
+        392.45,
+        315.01,
+        403.97
+      ],
+      "text": "Bijvoorbeeld Resa Fasa, UZS of WWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        411.89,
+        255.21,
+        423.41
+      ],
+      "text": "Uitzonderingen/bijzondere situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        432.17,
+        282.21,
+        443.69
+      ],
+      "text": "Bij ‘Klantrestricties’ in K3CR:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        451.61,
+        512.66,
+        463.13
+      ],
+      "text": "In bijzondere gevallen kan bij een BSN in K3CR restricties zijn aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        471.17,
+        480.55,
+        482.69
+      ],
+      "text": "Deze restricties gaan voor de instructies van deze privacy-instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        490.61,
+        471.69,
+        502.13
+      ],
+      "text": "Handel dus altijd naar de bepalingen van de aangegeven restrictie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        510.17,
+        615.18,
+        521.69
+      ],
+      "text": "Het kan gaan om bijv. een contactverbod, geheim adres, pandverbod of een afgesproken code.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        531.17,
+        230.98,
+        542.69
+      ],
+      "text": "Gegevens Geheim:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        550.61,
+        627.81,
+        562.13
+      ],
+      "text": "Deze aanduiding kan verschijnen in het scherm K3CR Contactgegevens (WN). Dit betekent dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        570.17,
+        635.71,
+        581.69
+      ],
+      "text": "adresgegevens van deze klant (WN) geheim zijn. Onder geen enkele voorwaarde mag dan iets over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        589.61,
+        432.77,
+        601.13
+      ],
+      "text": "adresgegevens (ook de woonplaats niet) worden verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        610.61,
+        240.38,
+        622.13
+      ],
+      "text": "Medische gegevens:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        630.17,
+        632.53,
+        641.69
+      ],
+      "text": "Medische en gezondheidsgegevens mogen nooit via Digitaal berichtenverkeer worden verstrekt of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        649.61,
+        625.97,
+        661.13
+      ],
+      "text": "uitgevraagd. Deze gegevens moeten altijd schriftelijk worden aangevraagd of persoonlijk worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        669.19,
+        251.64,
+        680.71
+      ],
+      "text": "besproken met de arts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        688.63,
+        634.62,
+        700.15
+      ],
+      "text": "Gegevens over gezondheid zijn alle gegevens over de gezondheidstoestand van de klant. Zij geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        708.19,
+        672.07,
+        719.71
+      ],
+      "text": "informatie over de lichamelijke of geestelijke gezondheidstoestand van de klant in het verleden, het heden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        727.63,
+        216.4,
+        739.15
+      ],
+      "text": "en de toekomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        747.19,
+        665.25,
+        758.71
+      ],
+      "text": "Je mag medische gegevens niet verwerken in berichten of K3CR. Wil de klant medische gegevens met je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        766.63,
+        663.01,
+        778.15
+      ],
+      "text": "delen? Vertel dan dat hij dit met een arts moet / kan bespreken. Je zegt tegen klant wat je wel kunt doen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        786.19,
+        185.08,
+        797.71
+      ],
+      "text": "voor hem.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        807.19,
+        298.77,
+        818.71
+      ],
+      "text": "Vragen / gegevens over derden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        826.63,
+        676.11,
+        838.15
+      ],
+      "text": "Bij berichten die vragen of gegevens bevatten over een ander dan degene met wie wordt gecommuniceerd,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        846.19,
+        542.58,
+        857.71
+      ],
+      "text": "wordt de klant gewezen op de privacyregels en wordt het bericht niet behandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        865.63,
+        256.8,
+        877.15
+      ],
+      "text": "Uitzondering hierop zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        184.94,
+        885.19,
+        282.84,
+        896.71
+      ],
+      "text": "een fraudemelding,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        166.94,
+        886.02,
+        171.52,
+        895.98
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        184.94,
+        919.06,
+        496.84,
+        930.58
+      ],
+      "text": "communicatie met een nabestaande van een overleden klant,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        166.94,
+        919.89,
+        171.52,
+        929.85
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        184.94,
+        953.02,
+        576.5,
+        964.54
+      ],
+      "text": "communicatie met een ouder van een minderjarige klant (jonger dan 18 jaar),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        166.94,
+        953.85,
+        171.52,
+        963.81
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        184.94,
+        986.86,
+        375.03,
+        998.38
+      ],
+      "text": "communicatie met een gemachtigde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        166.94,
+        987.69,
+        171.52,
+        997.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        1007.86,
+        214.8,
+        1019.38
+      ],
+      "text": "Fraudemelding:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        133.94,
+        1027.42,
+        478.62,
+        1038.94
+      ],
+      "text": "Bij fraudemelding noteer je geen BSN of LH-nummer van de melder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        1060.69,
+        131.24,
+        1075.69
+      ],
+      "text": "Bij twijfel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        78.84,
+        758.72,
+        90.36
+      ],
+      "text": "Ontvang je een bericht dat aan onderstaande voorwaarden voldoet, maar twijfel je of je de klant met wie je communiceert de gevraagde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        98.28,
+        729.45,
+        109.8
+      ],
+      "text": "informatie mag ontvangen? Beantwoord het bericht dan nooit inhoudelijk. Vertel de klant dat de informatie schriftelijk kan worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        117.84,
+        134.43,
+        129.36
+      ],
+      "text": "opgevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        137.3,
+        615.21,
+        148.82
+      ],
+      "text": "Twijfel kan bijvoorbeeld ontstaan door de aard van de vraag of door de contacthistorie van of over de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        166.85,
+        273.93,
+        181.85
+      ],
+      "text": "Werkgevers/bedrijfsinformatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        197.3,
+        291.52,
+        208.82
+      ],
+      "text": "De volgende informatie mag je verstrekken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        216.86,
+        712.85,
+        228.38
+      ],
+      "text": "Algemene informatie. Dit is informatie waarvoor je naast de content in K3CR niet in andere systemen hoeft te kijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        103.82,
+        217.69,
+        108.4,
+        227.65
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        250.7,
+        684.58,
+        262.22
+      ],
+      "text": "Bedrijfsgebonden informatie. Dit is informatie over het bedrijf die je krijgt door andere systemen te raadplegen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        103.82,
+        251.53,
+        108.4,
+        261.49
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        270.26,
+        676.11,
+        281.78
+      ],
+      "text": "Als een werkgever informatie vraagt over een van zijn (ex)medewerkers, dan wordt de werkgever als een ‘derde’ gezien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        289.7,
+        458.81,
+        301.22
+      ],
+      "text": "De werkgever mag alleen informatie krijgen waarvoor hij belanghebbende is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        309.26,
+        280.67,
+        320.78
+      ],
+      "text": "De controleacties die je moet nemen zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        328.7,
+        404.76,
+        340.22
+      ],
+      "text": "De werkgever moet het BSN leveren in zijn vraagstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        103.82,
+        329.53,
+        108.4,
+        339.49
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        362.66,
+        761.68,
+        374.18
+      ],
+      "text": "Controleer of er een arbeidsrelatie bestaat tussen het opgegeven LH-nummer en de BSN. Bestaat deze relatie niet, dan mag je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        103.82,
+        363.49,
+        108.4,
+        373.45
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        382.1,
+        263.98,
+        393.62
+      ],
+      "text": "de vraag niet beantwoorden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        416.09,
+        555.46,
+        427.61
+      ],
+      "text": "Controleer of de vraag gaat over de periode waarin de arbeidsrelatie bestaat/bestond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        103.82,
+        416.92,
+        108.4,
+        426.88
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        450.05,
+        764.49,
+        461.57
+      ],
+      "text": "Wil de werkgever informatie over een werknemer die buiten de dienstverbandperiode valt? Dan kan dat alleen als de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        103.82,
+        450.88,
+        108.4,
+        460.84
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        121.82,
+        469.49,
+        404.73,
+        481.01
+      ],
+      "text": "daarin belanghebbende is, bijv. in de volgende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        489.05,
+        396.83,
+        500.57
+      ],
+      "text": "– werkgever is ERD: alleen informatie over recht, duur en hoogte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        508.49,
+        761.44,
+        520.01
+      ],
+      "text": "Let op! Is het ERD-schap beëindigd? Controleer dan altijd of de eerste ziektedag/WIA-dag voor de beëindigingsdatum ERD-schap ligt. Zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        528.05,
+        277.28,
+        539.57
+      ],
+      "text": "ja, dan is de werkgever belanghebbende.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        547.49,
+        503.11,
+        559.01
+      ],
+      "text": "– bij ZW-flex/WGA-flex: toekenningen en herstelmeldingen mogen worden bevestigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        567.05,
+        175.67,
+        578.57
+      ],
+      "text": "– Doelgroepregister.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        586.49,
+        721.71,
+        598.01
+      ],
+      "text": "Verstrek nooit persoonsgegevens (adres, verblijfsgegevens, telefoonnummer, emailadres, geboortedatum) van de burger aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        606.05,
+        126.48,
+        617.57
+      ],
+      "text": "werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        625.49,
+        259.06,
+        637.01
+      ],
+      "text": "Uitzonderingen/bijzondere situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        645.77,
+        390.7,
+        657.29
+      ],
+      "text": "Werkgeverservices – machtigingen (werkgevers):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        665.23,
+        648.31,
+        676.75
+      ],
+      "text": "Iedere organisatie die namens een werkgever optreedt en persoonsgebonden informatie opvraagt (of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        684.79,
+        613.99,
+        696.31
+      ],
+      "text": "verstrekt) over werknemers die bij de betreffende werkgever in dienst zijn/zijn geweest, dienen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        704.23,
+        328.19,
+        715.75
+      ],
+      "text": "gemachtigd te zijn door de werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        723.79,
+        666.37,
+        735.31
+      ],
+      "text": "Bedoeld wordt bijv. accountantsbureaus, administratiekantoren, werkgeverservices, HRM-ondersteuners,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        743.23,
+        305.13,
+        754.75
+      ],
+      "text": "maar ook de externe boekhouder.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        133.94,
+        762.79,
+        196.09,
+        774.31
+      ],
+      "text": "WG ERD ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        782.23,
+        621.81,
+        793.75
+      ],
+      "text": "Controleer in UZS of het administratiekantoor gemachtigd is om informatie te ontvangen. Zie de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        801.79,
+        252.26,
+        813.31
+      ],
+      "text": "systeeminstructie UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        821.23,
+        666.16,
+        832.75
+      ],
+      "text": "Is er geen machtiging aanwezig? Dan mag je de vraag van de beller niet beantwoorden. Stuur een bericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        840.79,
+        498.88,
+        852.31
+      ],
+      "text": "zodat het kantoor kan beoordelen of de vraag beantwoord mag worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        860.23,
+        669.5,
+        871.75
+      ],
+      "text": "Vermeld hierin: Geen machtiging zichtbaar in de systemen. Graag beoordelen of informatie verstrekt mag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        879.79,
+        350.9,
+        891.31
+      ],
+      "text": "worden en terugkoppelen aan vraagsteller.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        133.94,
+        899.23,
+        175.07,
+        910.75
+      ],
+      "text": "LET OP!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        918.82,
+        669.91,
+        930.34
+      ],
+      "text": "Tijdelijk mag informatie worden verstrekt zonder dat er een machtigingen terug te vinden is in EAED. (met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        938.26,
+        656.59,
+        949.78
+      ],
+      "text": "uitzondering van ERD ZW administratiekantoren) Wel moet de instructie die beschreven staat bij ‘Beller",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        957.82,
+        501.4,
+        969.34
+      ],
+      "text": "belt voor gegevens over een klant’ (zie hierboven) strikt worden gevolgd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        977.26,
+        616.58,
+        988.78
+      ],
+      "text": "Deze situatie bestaat omdat UWV in deze periode bezig is met het opzetten van een gewijzigde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        996.82,
+        657.2,
+        1008.34
+      ],
+      "text": "machtigingenadministratie en in deze periode niet alle ingezonden machtigingen zijn verwerkt in EAED.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        1016.26,
+        361.1,
+        1027.78
+      ],
+      "text": "Algemene vragen – geen machtiging vereist:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        1035.82,
+        576.79,
+        1047.34
+      ],
+      "text": "Uiteraard mogen algemene (niet persoonsgebonden) vragen altijd beantwoord worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        1055.26,
+        317.18,
+        1066.78
+      ],
+      "text": "Hiervoor is geen machtiging vereist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        1074.82,
+        651.58,
+        1086.34
+      ],
+      "text": "Bij voorkeur registreer je de vraag bij het Loonheffingennummer van de werkgever namens wie gebeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.94,
+        1094.26,
+        569.8,
+        1105.78
+      ],
+      "text": "wordt, maar heeft de beller dit niet bij de hand, dan wordt het antwoord toch verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        79.56,
+        282.21,
+        91.08
+      ],
+      "text": "Bij ‘Klantrestricties’ in K3CR:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        99.12,
+        512.66,
+        110.64
+      ],
+      "text": "In bijzondere gevallen kan bij een BSN in K3CR restricties zijn aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        118.56,
+        480.55,
+        130.08
+      ],
+      "text": "Deze restricties gaan voor de instructies van deze privacy-instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        138.14,
+        471.69,
+        149.66
+      ],
+      "text": "Handel dus altijd naar de bepalingen van de aangegeven restrictie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        157.58,
+        615.18,
+        169.1
+      ],
+      "text": "Het kan gaan om bijv. een contactverbod, geheim adres, pandverbod of een afgesproken code.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        178.58,
+        230.98,
+        190.1
+      ],
+      "text": "Gegevens Geheim:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        198.14,
+        528.87,
+        209.66
+      ],
+      "text": "Deze aanduiding kan verschijnen in het scherm K3CR Contactgegevens (WN).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        217.58,
+        480.17,
+        229.1
+      ],
+      "text": "Dit betekent dat de adresgegevens van deze klant (WN) geheim zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        237.14,
+        636.58,
+        248.66
+      ],
+      "text": "Onder geen enkele voorwaarde mag dan iets over adresgegevens (ook de woonplaats niet) worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        256.58,
+        181.83,
+        268.1
+      ],
+      "text": "verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        277.58,
+        214.8,
+        289.1
+      ],
+      "text": "Fraudemelding:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        297.14,
+        440.11,
+        308.66
+      ],
+      "text": "Bij fraudemelding noteer je geen LH-nummer van de melder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        321.14,
+        415.79,
+        332.66
+      ],
+      "text": "Vragen over huidige-, ex- of toekomstige werknemers:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        340.58,
+        653.21,
+        352.1
+      ],
+      "text": "Werkgevers met vragen over de SFB-status van ex- en toekomstige werknemers moeten dit schriftelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        360.14,
+        487.13,
+        371.66
+      ],
+      "text": "aanvragen bij UWV Gegevensdiensten / Afd. PDI. Verwijs naar uwv.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        379.58,
+        676.29,
+        391.1
+      ],
+      "text": "In alle andere situaties geef je geen informatie en geef je door dat deze informatie schriftelijk moet worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        399.17,
+        346.81,
+        410.69
+      ],
+      "text": "opgevraagd bij de betreffende backoffice.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        429.44,
+        292.91,
+        444.44
+      ],
+      "text": "Werkgevers/info namens burgers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        459.89,
+        753.16,
+        471.41
+      ],
+      "text": "Een werkgever die namens één van zijn medewerkers digitaal een vraag stelt aan UWV, mag alleen antwoord krijgen als de werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        479.33,
+        278.67,
+        490.85
+      ],
+      "text": "daarvoor een machtiging heeft verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        498.89,
+        632.15,
+        510.41
+      ],
+      "text": "De situatie dat een werkgever gemachtigd is om namens een burger te handelen zal niet of zelden voorkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        518.33,
+        330.84,
+        529.85
+      ],
+      "text": "Deze machtiging moet terug te vinden zijn in EAED.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        537.89,
+        371.73,
+        549.41
+      ],
+      "text": "Zonder machtiging, mag de vraag niet beantwoord worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        557.33,
+        767.65,
+        568.85
+      ],
+      "text": "Geef dan als antwoord op het bericht dat er geen machtiging bekend is bij UWV op basis waarvan je de vraag mag beantwoorden en geef",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        576.89,
+        404.09,
+        588.41
+      ],
+      "text": "aan dat de klant de vraag zelf kan stellen via UWV/Mijn berichten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        596.33,
+        196.06,
+        607.85
+      ],
+      "text": "Standaardtekst hiervoor:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        615.89,
+        660.38,
+        627.41
+      ],
+      "text": "Bij UWV is geen machtiging van de betrokken burger bekend op basis waarvan wij uw bericht mogen beantwoorden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        635.33,
+        666.03,
+        646.85
+      ],
+      "text": "Uw medewerker kan deze vraag zelf stellen via het UWV-portaal Mijn Berichten. Hiervoor is inloggen via DigiD vereist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        664.54,
+        291.76,
+        678.1
+      ],
+      "text": "Uitzonderingen/bijzondere situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        686.83,
+        282.21,
+        698.35
+      ],
+      "text": "Bij ‘Klantrestricties’ in K3CR:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        706.39,
+        512.66,
+        717.91
+      ],
+      "text": "In bijzondere gevallen kan bij een BSN in K3CR restricties zijn aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        725.83,
+        480.55,
+        737.35
+      ],
+      "text": "Deze restricties gaan voor de instructies van deze privacy-instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        745.39,
+        471.69,
+        756.91
+      ],
+      "text": "Handel dus altijd naar de bepalingen van de aangegeven restrictie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        764.83,
+        615.18,
+        776.35
+      ],
+      "text": "Het kan gaan om bijv. een contactverbod, geheim adres, pandverbod of een afgesproken code.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        785.83,
+        230.98,
+        797.35
+      ],
+      "text": "Gegevens Geheim:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        805.39,
+        528.87,
+        816.91
+      ],
+      "text": "Deze aanduiding kan verschijnen in het scherm K3CR Contactgegevens (WN).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        824.83,
+        480.17,
+        836.35
+      ],
+      "text": "Dit betekent dat de adresgegevens van deze klant (WN) geheim zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        844.39,
+        636.58,
+        855.91
+      ],
+      "text": "Onder geen enkele voorwaarde mag dan iets over adresgegevens (ook de woonplaats niet) worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        133.94,
+        863.83,
+        181.83,
+        875.35
+      ],
+      "text": "verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        894.1,
+        160.17,
+        909.1
+      ],
+      "text": "Kanaalswitch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        924.58,
+        763.88,
+        936.1
+      ],
+      "text": "Als je een Werkmap- of VDC-bericht ontvangt van een klant, dan kun je ervoor kiezen om een kanaalswitch toe te passen door de klant te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        944.14,
+        468.27,
+        955.66
+      ],
+      "text": "bellen. Hiermee voorkom je vervolgvragen en verhoog je de klanttevredenheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        963.58,
+        751.1,
+        975.1
+      ],
+      "text": "Je past de kanaalswitch naar eigen inzicht toe. Wel is het van belang dat je de privacy-controle toepast en de gelegenheidsvraag stelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        983.14,
+        156.6,
+        994.66
+      ],
+      "text": "Privacy-controle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        1002.58,
+        750.35,
+        1014.1
+      ],
+      "text": "Bij outbound bellen naar een klant, controleer je of je de klant aan de lijn hebt, door te vragen met wie je spreekt. Je hoeft niet naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        1022.14,
+        760.31,
+        1033.66
+      ],
+      "text": "BSN te vragen. Je belt immers gericht naar het nummer dat de klant zelf opgegeven heeft. Als de naam correct is, dan is dat voldoende.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        1041.58,
+        723.85,
+        1053.1
+      ],
+      "text": "Twijfel je of je met de klant spreekt? Dan kun je ook andere zaken .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        404.8,
+        1042.54,
+        511.91,
+        1053.02
+      ],
+      "text": "art. 5.1 lid 2, sub i Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        1061.14,
+        769.65,
+        1072.66
+      ],
+      "text": "Krijg je iemand anders aan de lijn en is de klant niet aanwezig? Dan verstrek je geen informatie en beëindig je het gesprek. Afhankelijk van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        1080.58,
+        728.42,
+        1092.1
+      ],
+      "text": "de situatie kan je besluiten om later nog een belpoging te doen, of om via een ander kanaal verder te communiceren met de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        78.84,
+        170.33,
+        90.36
+      ],
+      "text": "Gelegenheidsvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        98.28,
+        758.96,
+        109.8
+      ],
+      "text": "Als jij een klant belt, dan weet je natuurlijk nietof de klant in de gelegenheid is om met jou in gesprek te gaan over zijn uitkering. Daarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        117.84,
+        754.63,
+        129.36
+      ],
+      "text": "vraag je altijd of het gelegen komt dat je belt. Als dit niet zo is, dan spreek je met de klant af dat je hem later nog een keer belt, of dat je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        137.3,
+        273.69,
+        148.82
+      ],
+      "text": "alsnog zijn bericht schriftelijk afhandelt.",
+      "source": "text"
+    }
+  ]
+}

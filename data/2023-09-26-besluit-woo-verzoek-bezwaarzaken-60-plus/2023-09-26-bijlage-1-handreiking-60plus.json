@@ -1,0 +1,6473 @@
+{
+  "source_id": "2023-09-26-besluit-woo-verzoek-bezwaarzaken-60-plus/2023-09-26-bijlage-1-handreiking-60plus",
+  "publication_slug": "2023-09-26-besluit-woo-verzoek-bezwaarzaken-60-plus",
+  "pdf_slug": "2023-09-26-bijlage-1-handreiking-60plus",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/besluit-woo-verzoek-bezwaarzaken-60-plus",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/423aabf5-5c3b-48cc-b4b1-b7ea4000e1c8/bijlage-1-handreiking-60plus.pdf",
+  "publication_title": "Besluit Woo-verzoek bezwaarzaken 60-plus",
+  "publication_date": "2023-09-26T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handreiking 60+ voor VA en AD SMZ (PDF, 1 MB)",
+  "retrieved_at": "2026-06-30T13:17:11+00:00",
+  "sha256": "2bd3acf3a262abff745456407db6ecda2e9442245fee68e46b721b0907b0244d",
+  "page_count": 16,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        51.39,
+        505.85,
+        79.35
+      ],
+      "text": "Handreiking vereenvoudigde",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        85.37,
+        479.36,
+        113.33
+      ],
+      "text": "WIA-claimbeoordeling 60+",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        119.45,
+        483.92,
+        147.41
+      ],
+      "text": "voor verzekeringsartsen en",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        52.44,
+        153.29,
+        369.62,
+        181.25
+      ],
+      "text": "arbeidsdeskundigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        213.27,
+        204.52,
+        224.31
+      ],
+      "text": "Waarom deze handreiking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        293.09,
+        226.76,
+        318.22,
+        235.9
+      ],
+      "text": "20221",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        227.38,
+        556.41,
+        235.9
+      ],
+      "text": "De minister van SZW heeft in de brief van 26 augustus een tijdelijke buitenwettelijke maatregel aangekondigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        237.7,
+        522.58,
+        246.22
+      ],
+      "text": "waarbij 60+’ers een vereenvoudigde WIA-claimbeoordeling kunnen krijgen. Deze maatregel heeft als doel de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        248.02,
+        550.47,
+        256.54
+      ],
+      "text": "achterstanden op de WIA-claimbeoordeling te verminderen. Hierdoor kan UWV cliënten die wachten op een sociaal-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        258.34,
+        555.47,
+        266.86
+      ],
+      "text": "medische beoordeling snel uit hun onzekere situatie helpen en weer perspectief bieden. Ook voor UWV medewerkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        268.66,
+        479.79,
+        277.18
+      ],
+      "text": "levert dit een verlichting van de werkdruk op. UWV voert deze maatregel vanaf 1 oktober 2022 uit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        279.01,
+        555.16,
+        287.53
+      ],
+      "text": "UWV volgt de uitvoering van de maatregel om meerdere redenen op de voet. Het behalen van het beoogde effect op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        289.33,
+        549.81,
+        297.85
+      ],
+      "text": "de achterstanden is van groot belang voor UWV. Om de maatregel uit te mogen voeren en eventueel ook langer uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        299.65,
+        542.58,
+        308.17
+      ],
+      "text": "te kunnen voeren is het daarnaast noodzakelijk dat de werkwijze voldoet aan de voorwaarden van buitenwettelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        309.97,
+        435.71,
+        318.49
+      ],
+      "text": "handelen. Voor buitenwettelijk handelen gelden onder andere de volgende voorwaarden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.9,
+        319.79,
+        133.49,
+        328.93
+      ],
+      "text": "Begunstigend2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        320.4,
+        57.78,
+        328.92
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        330.72,
+        156.77,
+        339.25
+      ],
+      "text": " Uniforme uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        288.18,
+        350.75,
+        313.3,
+        359.89
+      ],
+      "text": "20233",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        351.37,
+        549.68,
+        359.89
+      ],
+      "text": "De minister van SZW deelde in haar brief van 28 april de eerste beelden over de maatregel. Hieruit blijkt dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        361.69,
+        556.87,
+        370.21
+      ],
+      "text": "de maatregel in de eerste maanden op draagvlak van betrokken werknemers en werkgevers kon rekenen. Daarnaast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        372.01,
+        548.44,
+        380.53
+      ],
+      "text": "ziet UWV vanaf eind 2022 voor het eerst een minder grote toename van de achterstanden. De inschatting is dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        382.33,
+        558.27,
+        390.85
+      ],
+      "text": "maatregel hier een positieve bijdrage aan heeft geleverd. UWV hoort zowel van werknemers als werkgevers positieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        392.65,
+        512.3,
+        401.17
+      ],
+      "text": "geluiden over de persoonlijke benadering, de eenvoudige en begrijpelijke wijze van afhandelen en het snel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        402.97,
+        281.69,
+        411.49
+      ],
+      "text": "duidelijkheid hebben over het recht op een uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        413.29,
+        541.41,
+        421.81
+      ],
+      "text": "Naast de eerste positieve beelden, is ook een belangrijk aandachtspunt gesignaleerd. Het percentage toegekende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        423.61,
+        541.77,
+        432.13
+      ],
+      "text": "IVA-uitkeringen is gedaald voor de doelgroep 60+. Het is niet wenselijk als dit komt doordat IVA’s worden gemist",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        433.93,
+        430.85,
+        442.45
+      ],
+      "text": "tijdens de vereenvoudigde afhandeling. Voor de cliënt is dit mogelijk niet begunstigend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        444.37,
+        548.21,
+        452.89
+      ],
+      "text": "De minister gaf in haar brief aan dat UWV waarborgen treft om ervoor te zorgen dat zoveel mogelijk mensen die in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        454.69,
+        546.44,
+        463.21
+      ],
+      "text": "aanmerking komen voor een IVA-uitkering deze na een beoordeling ook ontvangen. Deze handreiking is onderdeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        465.01,
+        149.01,
+        473.53
+      ],
+      "text": "van deze waarborgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        485.67,
+        535.62,
+        494.19
+      ],
+      "text": "De handreiking ondersteunt de professionals bij uniforme uitvoering. Verschillende informatiebronnen zijn hierin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        495.99,
+        475.31,
+        504.51
+      ],
+      "text": "samengevoegd, geactualiseerd en aangevuld met een hoofdstuk over het inschatten van volledige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        506.31,
+        529.91,
+        514.83
+      ],
+      "text": "arbeidsongeschiktheid bij marginale/zeer geringe mogelijkheden. Hierdoor biedt de handreiking een actuele en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        516.63,
+        432.86,
+        525.15
+      ],
+      "text": "volledige beschrijving van de maatregel voor de arbeidsdeskundige en verzekeringsarts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        707.84,
+        56.78,
+        712.4
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        59.18,
+        708.46,
+        173.94,
+        715.42
+      ],
+      "text": "Zie kamerbrief d.d. 26-08-2022.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        716.36,
+        56.78,
+        720.92
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        59.18,
+        716.98,
+        270.41,
+        723.94
+      ],
+      "text": "Zie ook bijlage: Buitenwettelijk begunstigend beleid bij 60+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.88,
+        724.88,
+        56.78,
+        729.44
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        59.18,
+        725.5,
+        330.6,
+        732.46
+      ],
+      "text": "Voortgangsbrief maatregelen sociaal-medisch beoordelen en WIA-hardheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        53.88,
+        60.18,
+        177.28,
+        76.14
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        101.5,
+        536.18,
+        110.02
+      ],
+      "text": "Korte beschrijving van de maatregel 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        122.5,
+        536.18,
+        131.02
+      ],
+      "text": "Schematische weergave samenhang RIV-toets en maatregel 60+ 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        143.5,
+        536.18,
+        152.02
+      ],
+      "text": "Schematische weergave samenhang ZW-Arboproces en maatregel 60+ 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        164.5,
+        536.18,
+        173.02
+      ],
+      "text": "Startpunt: verzamelen benodigde gegevens 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        185.5,
+        536.18,
+        194.02
+      ],
+      "text": "Toestemming en consequenties 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        206.5,
+        536.18,
+        215.02
+      ],
+      "text": "Schematische weergave maatregel 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        227.5,
+        536.18,
+        236.02
+      ],
+      "text": "Toepassing maatregel 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        248.5,
+        536.18,
+        257.02
+      ],
+      "text": "Inschatting volledige arbeidsongeschiktheid bij marginale/zeer geringe mogelijkheden. 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        269.5,
+        536.18,
+        278.02
+      ],
+      "text": "Overdrachtsdocument 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        290.53,
+        536.18,
+        299.05
+      ],
+      "text": "Aandachtspunten voor de verzekeringsarts 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        311.53,
+        536.18,
+        320.05
+      ],
+      "text": "Bijzonderheden 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.88,
+        332.53,
+        536.18,
+        341.05
+      ],
+      "text": "Bijlage: Buitenwettelijk begunstigend beleid bij 60+ 16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.88,
+        72.15,
+        310.17,
+        86.19
+      ],
+      "text": "Korte beschrijving van de maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        99.7,
+        533.19,
+        108.22
+      ],
+      "text": "Als een cliënt EWT bereikt op of na 1 oktober 2022 én op datum EWT 60 jaar of ouder is, handelt UWV de WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        110.02,
+        539.4,
+        118.54
+      ],
+      "text": "aanvraag vereenvoudigd af. Cliënten waarbij een grensoverschrijdend aspect aanwezig is, zijn uitgezonderd voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        134.64,
+        119.84,
+        184.4,
+        128.98
+      ],
+      "text": "maatregel.4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        120.46,
+        549.28,
+        128.98
+      ],
+      "text": "toepassing van de Voorwaarde voor de vereenvoudigde afhandeling is dat cliënt en werkgever hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        130.78,
+        520.45,
+        139.3
+      ],
+      "text": "toestemming geven. Als een van beiden geen toestemming geeft, voert UWV een volledige sociaal-medische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        141.1,
+        120.95,
+        149.62
+      ],
+      "text": "beoordeling uit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        161.74,
+        555.27,
+        170.26
+      ],
+      "text": "De eerste stap is het verzamelen van de benodigde informatie voor triage. Bij cliënten met een werkgever is de RIV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        172.06,
+        533.09,
+        180.58
+      ],
+      "text": "toets het startpunt, voor de ZW-Arbopopulatie het eindverslag ZW-Arbo. Op basis van de verzamelde gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        182.38,
+        543.1,
+        190.9
+      ],
+      "text": "onderkent het team vervolgens of de maatregel kan worden toegepast en welke werkwijze dan aan de orde is: de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        192.7,
+        301.83,
+        201.22
+      ],
+      "text": "algemene werkwijze of een van de uitzonderingen hierop.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        215.38,
+        141.39,
+        223.9
+      ],
+      "text": "Algemene werkwijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        225.7,
+        538.3,
+        234.22
+      ],
+      "text": "Bij het toepassen van de maatregel voeren de verzekeringsarts en arbeidsdeskundige geen claimbeoordeling uit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        236.02,
+        278.44,
+        244.54
+      ],
+      "text": "Zonder beoordeling kent UWV een WGA 80-100 toe.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        258.7,
+        234.77,
+        267.22
+      ],
+      "text": "Uitzonderingen op de algemene werkwijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        269.02,
+        504.3,
+        277.54
+      ],
+      "text": "1. Er is sprake van geen benutbare mogelijkheden. De verzekeringsarts beoordeelt de duurzaamheid. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        279.37,
+        210.87,
+        287.89
+      ],
+      "text": "duurzaamheid wordt IVA toegekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        289.69,
+        473.2,
+        298.21
+      ],
+      "text": "2. Er is sprake van marginale mogelijkheden/zeer geringe mogelijkheden die maken dat volledige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        300.01,
+        557.39,
+        308.53
+      ],
+      "text": "arbeidsongeschiktheid aannemelijk is. De verzekeringsarts beoordeelt de duurzaamheid. Bij duurzaamheid wordt IVA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        310.33,
+        101.65,
+        318.85
+      ],
+      "text": "toegekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        320.65,
+        526.71,
+        329.17
+      ],
+      "text": "3. Er is sprake van verdiensten >65% van het maatmanloon en een praktische schatting is mogelijk. De WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        331.09,
+        172.52,
+        339.61
+      ],
+      "text": "aanvraag wordt afgewezen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        355.69,
+        170.92,
+        364.21
+      ],
+      "text": "Na toekennen WGA 80-100",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        366.01,
+        541.99,
+        374.53
+      ],
+      "text": "Cliënten die onder de maatregel een toekenning WGA 80-100 krijgen, worden naar het Werkbedrijf overgedragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        376.33,
+        556.94,
+        384.85
+      ],
+      "text": "voor re-integratiebegeleiding. In het geval van een ERD-werkgever blijft de ERD-werkgever verantwoordelijk voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        386.65,
+        110.3,
+        395.17
+      ],
+      "text": "re-integratie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        407.41,
+        473.77,
+        415.93
+      ],
+      "text": "UWV voert binnen de maatregel op eigen initiatief geen herbeoordelingen uit, tenzij tijdens de re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        417.73,
+        549.33,
+        426.25
+      ],
+      "text": "integratiebegeleiding het vermoeden ontstaat dat cliënt recht heeft op een IVA-uitkering. Daarnaast beëindigt UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        428.05,
+        536.68,
+        436.57
+      ],
+      "text": "de uitkering als er gedurende een jaar verdiensten zijn ter hoogte van meer dan 65% van het maatmanloon. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        438.37,
+        549.92,
+        446.89
+      ],
+      "text": "divisie Uitkeren stelt dit vast en verstuurt de beslissing. De arbeidsdeskundige stelt daarvoor op verzoek alsnog het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        448.69,
+        136.52,
+        457.21
+      ],
+      "text": "maatmanloon vast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        715.38,
+        57.09,
+        720.42
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        60.02,
+        716.86,
+        519.19,
+        723.82
+      ],
+      "text": "Deze groep kan niet kiezen voor de vereenvoudigde beoordeling. Zij vallen onder de EU-verordening 883/2004 of onder bilaterale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.88,
+        725.5,
+        498.83,
+        732.46
+      ],
+      "text": "verdragen. Deze EU-verordeningen en bilaterale verdragen bevatten dwingend recht die boven nationaal recht of beleid gaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.88,
+        59.79,
+        514.37,
+        73.83
+      ],
+      "text": "Schematische weergave samenhang RIV-toets en maatregel 60+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.88,
+        59.67,
+        556.24,
+        73.71
+      ],
+      "text": "Schematische weergave samenhang ZW-Arboproces en maatregel 60+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        53.88,
+        59.79,
+        363.21,
+        73.83
+      ],
+      "text": "Startpunt: verzamelen benodigde gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        89.38,
+        250.97,
+        97.9
+      ],
+      "text": "Cliënten met werkgever: Startpunt: RIV-toets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        283.61,
+        99.08,
+        335.98,
+        108.22
+      ],
+      "text": "uitgevoerd.5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        99.7,
+        554.86,
+        108.22
+      ],
+      "text": "De RIV-toets wordt (zoals gebruikelijk) tijdig en juist Een goede RIV-toets heeft als doel de rechten van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        110.02,
+        528.78,
+        118.54
+      ],
+      "text": "de werknemer te beschermen. Zo wordt voorkomen dat kansen op werkhervatting voor de werknemer worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        120.46,
+        396.41,
+        128.98
+      ],
+      "text": "gemist. Een goede RIV-toets voorkomt ook onterechte instroom in de uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        130.78,
+        553.5,
+        139.3
+      ],
+      "text": "Daarnaast is de informatie uit het RIV nodig om de maatregel correct toe te passen. Doordat de verzekeringsarts bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        215.81,
+        140.48,
+        255.08,
+        149.62
+      ],
+      "text": "indicatie6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        141.1,
+        510.12,
+        149.62
+      ],
+      "text": "GBM op actueel oordeel en verder op wordt ingeschakeld tijdens de RIV-toets, kan de uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        151.42,
+        518.95,
+        159.94
+      ],
+      "text": "onderkennen of cliënt volledig en duurzaam arbeidsongeschikt zou kunnen zijn of meer dan 65% verdient in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        161.74,
+        553.08,
+        170.26
+      ],
+      "text": "passende arbeid. Op basis hiervan bepaalt het team of de algemene werkwijze toegepast wordt, of een uitzondering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        172.06,
+        533.59,
+        180.58
+      ],
+      "text": "hierop. De gekozen werkwijze bepaalt ook het moment waarop toestemming gevraagd wordt aan werkgever en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        182.38,
+        79.78,
+        190.9
+      ],
+      "text": "cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        192.7,
+        548.0,
+        201.22
+      ],
+      "text": "In principe vraagt de arbeidsdeskundige na goedkeuring van het RIV toestemming om de maatregel toe te passen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        203.02,
+        547.2,
+        211.54
+      ],
+      "text": "behalve bij GBM en marginale/zeer geringe mogelijkheden. De consequenties voor cliënt en werkgever zijn in deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        213.34,
+        209.02,
+        221.86
+      ],
+      "text": "situaties namelijk nog niet duidelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        236.02,
+        226.85,
+        244.54
+      ],
+      "text": "Voor de maatregel relevante werkwijzen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        246.34,
+        407.57,
+        254.86
+      ],
+      "text": "De volgende situaties zijn voor de latere toepassing van de maatregel van belang:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        53.88,
+        269.02,
+        73.54,
+        277.54
+      ],
+      "text": "GBM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        279.37,
+        549.45,
+        287.89
+      ],
+      "text": "Als de bedrijfsarts op het actueel oordeel stelt dat er sprake is van geen benutbare mogelijkheden (GBM), dan doet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        289.69,
+        499.74,
+        298.21
+      ],
+      "text": "de verzekeringsarts onderzoek conform het professioneel kader beoordeling re-integratie-inspanningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        312.37,
+        92.26,
+        320.89
+      ],
+      "text": "Wel GBM",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        418.68,
+        322.07,
+        444.92,
+        331.21
+      ],
+      "text": "GBM7,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        322.69,
+        544.79,
+        331.21
+      ],
+      "text": "Als de verzekeringsarts bij zijn onderzoek tot de conclusie komt dat er sprake is van wordt het RIV akkoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        333.01,
+        98.63,
+        341.53
+      ],
+      "text": "bevonden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        353.65,
+        545.27,
+        362.17
+      ],
+      "text": "Let op: We vragen op dit moment nog geen toestemming voor het toepassen van de maatregel, omdat pas na het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        363.97,
+        417.52,
+        372.49
+      ],
+      "text": "beoordelen van de duurzaamheid duidelijk is of de maatregel toegepast kan worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        386.65,
+        98.62,
+        395.17
+      ],
+      "text": "Geen GBM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        396.97,
+        521.44,
+        405.49
+      ],
+      "text": "Als de verzekeringsarts bij zijn onderzoek tot de conclusie komt dat er geen sprake is van GBM, beschrijft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        407.41,
+        543.84,
+        415.93
+      ],
+      "text": "verzekeringsarts de belastbaarheid in FML-achtige termen. Ook geeft de verzekeringsarts aan sinds wanneer deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        417.73,
+        542.11,
+        426.25
+      ],
+      "text": "belastbaarheid geldt. De arbeidsdeskundige toetst op basis van deze belastbaarheid of er re-integratiekansen zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        428.05,
+        559.43,
+        436.57
+      ],
+      "text": "gemist. Als er re-integratiekansen zijn gemist, legt UWV een verlengde loondoorbetalingsverplichting op. Er vindt dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        438.37,
+        200.75,
+        446.89
+      ],
+      "text": "nog geen claimbeoordeling plaats.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        459.01,
+        539.54,
+        467.53
+      ],
+      "text": "Als er geen re-integratiekansen zijn gemist kan de algemene werkwijze toegepast worden, tenzij op basis van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        469.35,
+        519.1,
+        477.87
+      ],
+      "text": "belastbaarheid van de verzekeringsarts sprake is van marginale mogelijkheden/zeer geringe mogelijkheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        492.03,
+        283.46,
+        500.55
+      ],
+      "text": "Marginale mogelijkheden/zeer geringe mogelijkheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        502.35,
+        554.04,
+        510.87
+      ],
+      "text": "Bij marginale mogelijkheden/zeer geringe mogelijkheden schakelt de arbeidsdeskundige de verzekeringsarts in. Ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        512.67,
+        557.86,
+        521.19
+      ],
+      "text": "schakelt hij de verzekeringsarts in als hij constateert dat cliënt feitelijk niet of nauwelijks heeft kunnen re-integreren,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        522.99,
+        445.76,
+        531.51
+      ],
+      "text": "voor zover dit veroorzaakt wordt door een combinatie van beperkingen en bekwaamheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        533.31,
+        497.65,
+        541.83
+      ],
+      "text": "De verzekeringsarts beoordeelt of de belastbaarheid zoals door de bedrijfsarts omschreven plausibel is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        555.99,
+        91.26,
+        564.51
+      ],
+      "text": "Plausibel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        566.31,
+        548.02,
+        574.83
+      ],
+      "text": "Als de belastbaarheid plausibel is stelt de arbeidsdeskundige vast of er re-integratiekansen zijn gemist. Als er geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        576.63,
+        261.27,
+        585.15
+      ],
+      "text": "kansen zijn gemist, wordt het RIV goedgekeurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        597.27,
+        539.58,
+        605.79
+      ],
+      "text": "Let op: We vragen pas toestemming na een professionele inschatting of het aannemelijk is dat cliënt volledig (en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        607.59,
+        558.22,
+        616.11
+      ],
+      "text": "duurzaam) arbeidsongeschikt is. De consequenties voor werknemer en werkgever worden dan namelijk pas duidelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        630.27,
+        111.53,
+        638.79
+      ],
+      "text": "Niet plausibel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        640.59,
+        536.73,
+        649.11
+      ],
+      "text": "Als de verzekeringsarts de belastbaarheid niet plausibel acht, beschrijft de verzekeringsarts de belastbaarheid in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        650.91,
+        487.99,
+        659.43
+      ],
+      "text": "FML-achtige termen. Ook geeft de verzekeringsarts aan sinds wanneer deze belastbaarheid geldt. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        661.38,
+        558.11,
+        669.9
+      ],
+      "text": "arbeidsdeskundige toetst op basis van deze belastbaarheid of er re-integratiekansen zijn gemist. Zo ja, legt UWV een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        671.7,
+        480.78,
+        680.22
+      ],
+      "text": "verlenging van de loondoorbetalingsverplichting op. Er vindt dan nog geen claimbeoordeling plaats.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        707.84,
+        56.78,
+        712.4
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        59.18,
+        708.46,
+        174.27,
+        715.42
+      ],
+      "text": "Zie ook versnellingsmaatregel 3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        716.36,
+        56.78,
+        720.92
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        59.18,
+        716.98,
+        535.7,
+        723.94
+      ],
+      "text": "Bij geen re-integratiemogelijkheden/marginale mogelijkheden, een re-integratie belemmerend advies, een medische urenbeperking en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        68.06,
+        725.5,
+        204.38,
+        732.46
+      ],
+      "text": "bij medische vragen of duidelijkheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.88,
+        733.28,
+        56.78,
+        737.84
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        59.18,
+        733.9,
+        293.42,
+        740.86
+      ],
+      "text": "Conform de uitzonderingscriteria genoemd in het schattingsbesluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        71.0,
+        509.9,
+        79.52
+      ],
+      "text": "Werkzaamheden zijn passend en hebben een loonwaarde van meer dan 65% van het oorspronkelijke loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        81.32,
+        557.13,
+        89.84
+      ],
+      "text": "De arbeidsdeskundige onderkent bij het toetsen van het RIV of de cliënt inkomen uit arbeid heeft (verdiensten) en of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        91.66,
+        481.86,
+        100.18
+      ],
+      "text": "dit werk passend is. Als het noodzakelijk is voor het beoordelen van de passendheid, consulteert de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        101.98,
+        326.9,
+        110.5
+      ],
+      "text": "arbeidsdeskundige de verzekeringsarts met een gerichte vraag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        124.66,
+        308.85,
+        133.18
+      ],
+      "text": "Cliënten zonder werkgever: Startpunt eindverslag ZW-Arbo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        134.98,
+        538.14,
+        143.5
+      ],
+      "text": "Om de maatregel correct te kunnen toepassen is het van belang dat het team zich een beeld kan vormen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        145.42,
+        551.83,
+        153.94
+      ],
+      "text": "mogelijkheden van de cliënt. Daarom moet het ZW-Arboteam zorgen voor een goede overdracht van het dossier. Is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        155.74,
+        522.85,
+        164.26
+      ],
+      "text": "er geen actueel medisch beeld, dan verzoekt het WIA-team aan het ZW-Arboteam om de gegevens alsnog te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        166.06,
+        109.92,
+        174.58
+      ],
+      "text": "completeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        176.38,
+        542.62,
+        184.9
+      ],
+      "text": "Op basis van de beschikbare gegevens onderkent het team of cliënt volledig arbeidsongeschikt zou kunnen zijn of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        186.7,
+        553.42,
+        195.22
+      ],
+      "text": "meer dan 65% verdient in passende arbeid. Dit bepaalt het team of de algemene werkwijze toegepast wordt, of een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        197.02,
+        139.79,
+        205.54
+      ],
+      "text": "uitzondering hierop.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        207.34,
+        543.62,
+        215.86
+      ],
+      "text": "De arbeidsdeskundige vraagt toestemming om de maatregel toe te passen zodra hij het dossier voorgelegd krijgt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        217.66,
+        549.95,
+        226.18
+      ],
+      "text": "behalve bij marginale/zeer geringe mogelijkheden. De consequenties voor cliënt en werkgever zijn in deze situaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        227.98,
+        486.7,
+        236.5
+      ],
+      "text": "pas duidelijk na een professionele inschatting of het aannemelijk is dat cliënt volledig (en duurzaam)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.88,
+        238.3,
+        143.64,
+        246.82
+      ],
+      "text": "arbeidsongeschikt is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        53.88,
+        59.67,
+        276.33,
+        73.71
+      ],
+      "text": "Toestemming en consequenties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        441.1,
+        86.82,
+        497.65,
+        95.96
+      ],
+      "text": "werkgevers)8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        87.44,
+        527.42,
+        95.96
+      ],
+      "text": "UWV heeft met het ministerie afgesproken dat UWV toestemming vraagt aan cliënten (en om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        97.78,
+        547.93,
+        106.3
+      ],
+      "text": "maatregel toe te passen. De cliënt (en werkgever) kan zijn toestemming niet met terugwerkende kracht intrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        108.1,
+        549.89,
+        116.62
+      ],
+      "text": "Dit brengt met zich mee dat de arbeidsdeskundige de consequenties goed uitlegt, zodat de cliënt en werkgever een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        118.42,
+        186.96,
+        126.94
+      ],
+      "text": "bewuste keuze kunnen maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        128.74,
+        525.94,
+        137.26
+      ],
+      "text": "Binnen de maatregel beoordeelt UWV de duurzaamheid bij GBM en als het aannemelijk is dat er sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        139.06,
+        541.22,
+        147.58
+      ],
+      "text": "volledige arbeidsongeschiktheid bij marginale/zeer geringe mogelijkheden. Als cliënt meent volledig en duurzaam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        149.38,
+        544.99,
+        157.9
+      ],
+      "text": "arbeidsongeschikt te zijn, én de duurzaamheid wordt in de maatregel niet beoordeeld, dan is het voor cliënt zinvol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        159.7,
+        226.55,
+        168.22
+      ],
+      "text": "om een reguliere beoordeling te vragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        180.34,
+        547.65,
+        188.86
+      ],
+      "text": "Let op: Een reguliere beoordeling kan leiden tot dezelfde uitkomst als bij toepassen van de maatregel. Een andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        190.66,
+        543.16,
+        199.18
+      ],
+      "text": "uitkomst is echter ook mogelijk. Dit moet goed met cliënt en werkgever besproken worden. Reguliere beoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        201.1,
+        425.96,
+        209.62
+      ],
+      "text": "kan leiden tot de gewenste toekenning van IVA, maar ook een WGA 35-80 of zelfs een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        211.42,
+        442.2,
+        219.94
+      ],
+      "text": "arbeidsongeschiktheidspercentage van minder dan 35% en dus afwijzing van de uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        234.1,
+        236.92,
+        242.62
+      ],
+      "text": "Contact met cliënt door arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        244.42,
+        525.95,
+        252.94
+      ],
+      "text": "Bij het toetsen van de re-integratie-inspanningen neemt de arbeidsdeskundige al contact op met de cliënt (en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        254.74,
+        539.59,
+        263.26
+      ],
+      "text": "eventueel de werkgever). Om een uniforme werkwijze te creëren, heeft de arbeidsdeskundige deze rol ook bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        265.06,
+        515.46,
+        273.58
+      ],
+      "text": "ZW-Arbo-populatie. De arbeidsdeskundige verzamelt tijdens het contact ook informatie die nodig is voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        275.38,
+        194.5,
+        283.9
+      ],
+      "text": "overdracht naar het Werkbedrijf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        285.73,
+        539.12,
+        294.25
+      ],
+      "text": "Als de cliënt onder de doelgroep van de maatregel valt, bespreekt de arbeidsdeskundige de mogelijkheid van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        296.05,
+        556.37,
+        304.57
+      ],
+      "text": "toepassen van de maatregel met cliënt en werkgever. De arbeidsdeskundige legt de consequenties van de maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        306.37,
+        538.42,
+        314.89
+      ],
+      "text": "uit en vraagt toestemming. De consequenties moeten duidelijk zijn voordat de arbeidsdeskundige hierover uitleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        316.69,
+        542.31,
+        325.21
+      ],
+      "text": "geeft. In principe vindt het gesprek plaats na goedkeuring van het RIV. Bij marginale mogelijkheden/zeer geringe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        327.01,
+        521.05,
+        335.53
+      ],
+      "text": "mogelijkheden en GBM gebeurt dit nadat de verzekeringsarts de duurzaamheid heeft beoordeeld of nadat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        337.33,
+        541.7,
+        345.85
+      ],
+      "text": "verzekeringsarts en arbeidsdeskundige hebben ingeschat dat volledige arbeidsongeschiktheid niet aannemelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        360.01,
+        194.07,
+        368.53
+      ],
+      "text": "Consequenties van de maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        370.33,
+        326.17,
+        378.85
+      ],
+      "text": "Eerder zekerheid over de financiële situatie voor cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        370.41,
+        75.82,
+        378.93
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        380.65,
+        501.17,
+        389.25
+      ],
+      "text": " UWV stelt geen arbeidsongeschiktheidsklasse vast. Hiervoor zijn drie uitzonderingen: marginale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        390.97,
+        540.12,
+        399.49
+      ],
+      "text": "mogelijkheden/zeer geringe mogelijkheden, GBM niet duurzaam en bij verdiensten van 65% of meer ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        401.41,
+        225.35,
+        409.93
+      ],
+      "text": "opzichte van het maatmanloon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        411.73,
+        547.01,
+        420.25
+      ],
+      "text": "Bij GBM niet duurzaam en marginale/zeer geringe mogelijkheden is het effect van toestemming vooral dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        411.81,
+        75.82,
+        420.33
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        422.05,
+        545.32,
+        430.57
+      ],
+      "text": "geen ambtshalve/professionele herbeoordeling uitgevoerd wordt. In tegenstelling tot het reguliere proces,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        432.37,
+        429.83,
+        440.89
+      ],
+      "text": "draagt UWV cliënt bij GBM niet duurzaam daarnaast over naar het Werkbedrijf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        442.69,
+        477.37,
+        451.21
+      ],
+      "text": "UWV draagt alle cliënten die vallen onder de maatregel over naar het Werkbedrijf voor re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        442.77,
+        75.82,
+        451.29
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        453.01,
+        500.56,
+        461.53
+      ],
+      "text": "integratiebegeleiding, tenzij de (ex-)werkgever eigen risicodrager is. De eigen risicodrager blijft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        463.33,
+        256.12,
+        471.85
+      ],
+      "text": "verantwoordelijk voor de re-integratie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        473.67,
+        546.1,
+        482.19
+      ],
+      "text": "UWV neemt zelf geen initiatief voor een herbeoordeling, tenzij tijdens de re-integratiebegeleiding door het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        473.75,
+        75.82,
+        482.27
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        483.99,
+        432.79,
+        492.51
+      ],
+      "text": "Werkbedrijf het vermoeden ontstaat dat cliënt recht heeft op een IVA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        494.31,
+        534.9,
+        502.83
+      ],
+      "text": "Geen gedifferentieerde premiebelasting of eigen risico voor de werkgever voor de gehele doelgroep van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        494.39,
+        75.82,
+        502.91
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        504.63,
+        386.53,
+        513.15
+      ],
+      "text": "cliënten van 60+, ook bij geen toestemming van cliënt of werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        514.95,
+        552.93,
+        523.55
+      ],
+      "text": " Eventuele verdiensten worden verrekend conform huidige werkwijze. Werken loont. Als cliënt meer dan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        525.39,
+        530.79,
+        533.91
+      ],
+      "text": "jaar meer dan 65% van het maatmanloon verdient, wordt de uitkering beëindigd, ook conform huidige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        535.71,
+        135.36,
+        544.23
+      ],
+      "text": "werkwijze.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        546.03,
+        307.61,
+        554.55
+      ],
+      "text": "Recht op no-risk polis bij toekenning WGA 80-100.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        546.11,
+        75.82,
+        554.63
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        556.35,
+        553.53,
+        564.95
+      ],
+      "text": " Over de pensioenopbouw doet UWV geen uitspraken. De regelingen van pensioenopbouw in combinatie met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        566.67,
+        541.85,
+        575.19
+      ],
+      "text": "arbeidsongeschiktheid verschillen per pensioenuitvoerder/verzekeraar/ sector/cao. De arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        576.99,
+        558.28,
+        585.51
+      ],
+      "text": "verwijst de cliënt bij vragen hierover terug naar de (eigen) werkgever en/of pensioenuitvoerder/verzekeraar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        587.31,
+        529.6,
+        595.83
+      ],
+      "text": "Over aanvullende verzekeringen doet UWV geen uitspraken. De voorwaarden voor deze verzekeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        587.39,
+        75.82,
+        595.91
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        597.63,
+        540.32,
+        606.15
+      ],
+      "text": "verschillen per verzekeraar en soort product. De arbeidsdeskundige verwijst de cliënt bij vragen hierover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        607.95,
+        312.14,
+        616.47
+      ],
+      "text": "terug naar de (eigen) werkgever en/of verzekeraar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        618.27,
+        553.02,
+        626.79
+      ],
+      "text": "Bij afwijzing WIA in verband met verdiensten van meer dan 65% ten opzichte van het maatmanloon kan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        618.35,
+        75.82,
+        626.87
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        628.59,
+        538.03,
+        637.11
+      ],
+      "text": "cliënt bij hernieuwde uitval terugvallen op de maatregel als sprake is van toegenomen beperkingen door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        638.91,
+        469.76,
+        647.43
+      ],
+      "text": "dezelfde ziekteoorzaak en de datum van uitval binnen de looptijd van de maatregel valt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.9,
+        649.35,
+        551.75,
+        657.95
+      ],
+      "text": " Bij een vraaggestuurde herbeoordeling voert UWV een reguliere beoordeling uit. Alle uitkomsten zijn hierbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        659.7,
+        541.39,
+        668.22
+      ],
+      "text": "mogelijk, waaronder een lagere mate van arbeidsongeschiktheid, met als gevolg een inkomenseis (na 24",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.9,
+        670.02,
+        256.95,
+        678.54
+      ],
+      "text": "maanden uitloop), of zelfs beëindiging.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.88,
+        733.28,
+        56.78,
+        737.84
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        59.18,
+        733.9,
+        263.78,
+        740.86
+      ],
+      "text": "Geldt niet voor ex-werkgevers voor de ZW-Arbopopulatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        53.88,
+        59.79,
+        299.96,
+        73.83
+      ],
+      "text": "Schematische weergave maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        287.35,
+        802.4,
+        292.46,
+        810.44
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        53.88,
+        59.79,
+        208.63,
+        73.83
+      ],
+      "text": "Toepassing maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        89.38,
+        145.25,
+        97.9
+      ],
+      "text": "Algemene werkwijze:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        99.7,
+        538.3,
+        108.22
+      ],
+      "text": "Bij het toepassen van de maatregel voeren de verzekeringsarts en arbeidsdeskundige geen claimbeoordeling uit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        110.02,
+        550.49,
+        118.54
+      ],
+      "text": "Zonder beoordeling kent UWV een WGA 80-100 toe. Zonder toestemming kan de maatregel niet toegepast worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        132.7,
+        234.77,
+        141.22
+      ],
+      "text": "Uitzonderingen op de algemene werkwijze",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        53.88,
+        157.42,
+        73.54,
+        165.94
+      ],
+      "text": "GBM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        167.74,
+        542.63,
+        176.26
+      ],
+      "text": "Blijkt uit het eindverslag ZW-Arbo of de RIV-toets dat er sprake is van GBM, dan toetst de verzekeringsarts in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        178.06,
+        291.27,
+        186.58
+      ],
+      "text": "kader van de claimbeoordeling enkel de duurzaamheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        188.38,
+        552.34,
+        196.9
+      ],
+      "text": "Als er sprake is van duurzaamheid wordt IVA toegekend. Deze situatie valt niet onder de maatregel. Omdat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        71.9,
+        188.46,
+        75.82,
+        196.98
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        198.7,
+        551.97,
+        207.22
+      ],
+      "text": "al een volledige sociaal medische beoordeling is uitgevoerd met als uitkomst IVA, brengt het toepassen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        209.02,
+        340.37,
+        217.54
+      ],
+      "text": "de maatregel geen voordelen met zich mee voor de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        219.34,
+        546.71,
+        227.86
+      ],
+      "text": "Als er geen sprake is van duurzaamheid, wordt een WGA 80-100 toegekend. De arbeidsdeskundige vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        71.9,
+        219.42,
+        75.82,
+        227.94
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        229.66,
+        555.24,
+        238.18
+      ],
+      "text": "dan toestemming om de maatregel toe te passen. Hij kan de consequenties voor cliënt en werkgever nu pas",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        239.98,
+        545.94,
+        248.5
+      ],
+      "text": "uitleggen. Er is al een volledige sociaal medische beoordeling uitgevoerd. Het toepassen van de maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        250.42,
+        546.64,
+        258.94
+      ],
+      "text": "brengt evengoed wel voordelen met zich mee voor cliënt. Bij deelname aan de maatregel vindt overdracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        260.74,
+        514.05,
+        269.26
+      ],
+      "text": "naar het Werkbedrijf plaats (in plaats van monitoring medisch 80-100). Daarnaast start UWV geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        271.06,
+        559.04,
+        279.58
+      ],
+      "text": "ambtshalve herbeoordeling op, tenzij tijdens de re-integratiebegeleiding door het Werkbedrijf het vermoeden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        281.41,
+        312.41,
+        289.93
+      ],
+      "text": "ontstaat dat cliënt recht heeft op een IVA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        302.05,
+        283.47,
+        310.57
+      ],
+      "text": "Marginale mogelijkheden/zeer geringe mogelijkheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        312.37,
+        534.93,
+        320.89
+      ],
+      "text": "De arbeidsdeskundige onderkent op basis van de eerder verzamelde gegevens of er waarschijnlijk sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        322.69,
+        551.02,
+        331.21
+      ],
+      "text": "volledige arbeidsongeschiktheid door marginale mogelijkheden/zeer geringe mogelijkheden. Hij overlegt vervolgens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        333.01,
+        547.4,
+        341.53
+      ],
+      "text": "met de verzekeringsarts. De verzekeringsarts en arbeidsdeskundige maken samen een professionele inschatting of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        343.33,
+        555.84,
+        351.85
+      ],
+      "text": "het aannemelijk is dat er sprake is van volledige arbeidsongeschiktheid op basis van de belastbaarheid in combinatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        353.65,
+        369.43,
+        362.17
+      ],
+      "text": "met andere factoren zoals opleidingsniveau en –richting en werkervaring.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        363.97,
+        519.02,
+        372.49
+      ],
+      "text": "Als niet aannemelijk is dat er sprake is van volledige arbeidsongeschiktheid, is er geen reden om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        71.9,
+        364.05,
+        75.82,
+        372.57
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        165.02,
+        373.79,
+        219.08,
+        382.93
+      ],
+      "text": "beoordelen.9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        374.41,
+        545.44,
+        382.93
+      ],
+      "text": "duurzaamheid te De arbeidsdeskundige vraagt toestemming om de maatregel toe te passen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        384.73,
+        549.96,
+        393.25
+      ],
+      "text": "Als het aannemelijk is dat er sprake is van volledige arbeidsongeschiktheid, beoordeelt de verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        71.9,
+        384.81,
+        75.82,
+        393.33
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        293.42,
+        394.43,
+        348.22,
+        403.57
+      ],
+      "text": "toegekend.10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        395.05,
+        556.32,
+        403.57
+      ],
+      "text": "de duurzaamheid. Bij duurzaamheid wordt IVA Als er geen sprake is van duurzaamheid, vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.9,
+        405.37,
+        527.88,
+        413.89
+      ],
+      "text": "de arbeidsdeskundige toestemming om de maatregel toe te passen en wordt WGA 80-100 toegekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        415.69,
+        554.39,
+        424.21
+      ],
+      "text": "Bij deelname aan de maatregel vindt overdracht naar het Werkbedrijf plaats. UWV start in principe geen ambtshalve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        426.01,
+        551.34,
+        434.53
+      ],
+      "text": "herbeoordeling op, tenzij tijdens de re-integratiebegeleiding door het Werkbedrijf het vermoeden ontstaat dat cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        436.33,
+        195.42,
+        444.85
+      ],
+      "text": "recht heeft op een IVA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        459.01,
+        509.66,
+        467.53
+      ],
+      "text": "Werkzaamheden zijn passend en hebben een loonwaarde van meer dan 65% van het oorspronkelijke loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        469.35,
+        536.74,
+        477.87
+      ],
+      "text": "De arbeidsdeskundige stelt vast of cliënt voldoet aan de voorwaarden om een praktische schatting uit te kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        479.67,
+        491.2,
+        488.19
+      ],
+      "text": "voeren. Bij twijfel of de werkzaamheden van een cliënt uit de ZW-Arbopopulatie passend zijn, stelt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        489.99,
+        549.95,
+        498.51
+      ],
+      "text": "arbeidsdeskundige een gerichte vraag aan de verzekeringsarts. Voor cliënten met een werkgever is de passendheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        500.31,
+        519.21,
+        508.83
+      ],
+      "text": "tijdens de RIV-toets al beoordeeld. Als de arbeidsdeskundige een praktische schatting kan uitvoeren met als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        510.63,
+        517.5,
+        519.15
+      ],
+      "text": "resultaat <35%, wordt de WIA-aanvraag afgewezen. De arbeidsdeskundige legt zijn onderzoeksactiviteiten,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        520.95,
+        272.07,
+        529.47
+      ],
+      "text": "overwegingen en conclusie vast in een rapportage.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        707.84,
+        56.78,
+        712.4
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        59.18,
+        708.46,
+        522.37,
+        715.42
+      ],
+      "text": "De verzekeringsarts en arbeidsdeskundige spreken af of het voldoende is dat de arbeidsdeskundige de overwegingen en conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        68.06,
+        716.98,
+        244.56,
+        723.94
+      ],
+      "text": "vastlegt, of dat ook de VA een rapportage opstelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.88,
+        724.88,
+        59.66,
+        729.44
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        62.06,
+        725.5,
+        518.41,
+        732.46
+      ],
+      "text": "Bij IVA stemmen de verzekeringsarts en arbeidsdeskundige onderling af of het nodig is dat de arbeidsdeskundige een rapportage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        68.06,
+        733.9,
+        507.62,
+        740.86
+      ],
+      "text": "opstelt met zijn overwegingen. Bij overwegend medische argumenten kan een rapportage van de verzekeringsarts volstaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        53.88,
+        59.79,
+        553.16,
+        73.83
+      ],
+      "text": "Inschatting volledige arbeidsongeschiktheid bij marginale/zeer geringe",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        53.88,
+        78.15,
+        162.21,
+        92.19
+      ],
+      "text": "mogelijkheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        105.82,
+        539.44,
+        114.34
+      ],
+      "text": "Het vaststellen van volledige arbeidsongeschiktheid is een gezamenlijke beslissing van de verzekeringsarts en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        116.14,
+        530.9,
+        124.66
+      ],
+      "text": "arbeidsdeskundige, behalve bij GBM. Binnen de maatregel wordt geen (volledige) claimbeoordeling uitgevoerd,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        126.46,
+        545.55,
+        134.98
+      ],
+      "text": "waardoor niet vastgesteld kan worden of cliënt 80-100% arbeidsongeschikt is. Bij het vaststellen van de mate van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        136.78,
+        558.38,
+        145.3
+      ],
+      "text": "arbeidsongeschiktheid spelen ook andere factoren dan de belastbaarheid een rol. Het gaat dan om het maatmanloon,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        147.1,
+        310.62,
+        155.62
+      ],
+      "text": "de -omvang, opleidingsniveau en -richting en werkervaring.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        167.74,
+        543.32,
+        176.26
+      ],
+      "text": "Zonder volledige sociaal-medische beoordeling kan hooguit een inschatting gemaakt worden of aannemelijk is dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        178.06,
+        543.0,
+        186.58
+      ],
+      "text": "cliënt volledig arbeidsongeschikt (100%) is door marginale/zeer geringe mogelijkheden. Het gaat er dan om of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        188.38,
+        557.42,
+        196.9
+      ],
+      "text": "arbeidsdeskundige (in afstemming met de verzekeringsarts) in voldoende mate kan motiveren of het op basis van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        198.7,
+        506.42,
+        207.22
+      ],
+      "text": "belastbaarheid en de bekwaamheden (zonder raadpleging van CBBS) aannemelijk is dat cliënt geen reële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        209.02,
+        344.21,
+        217.54
+      ],
+      "text": "arbeidsmogelijkheden heeft (geen functies geduid kunnen worden).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        231.82,
+        97.59,
+        240.34
+      ],
+      "text": "Uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        242.86,
+        535.38,
+        251.38
+      ],
+      "text": "De arbeidsdeskundige gaat binnen de maatregel op kop en schat op basis van de beschikbare gegevens in of bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        253.18,
+        547.6,
+        261.7
+      ],
+      "text": "cliënt reële arbeidsmogelijkheden ontbreken. Hij baseert deze inschatting op de gegevens van de bedrijfsarts of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        263.5,
+        269.79,
+        272.02
+      ],
+      "text": "verzekeringsarts ZW-Arbo over de belastbaarheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        273.82,
+        534.16,
+        282.34
+      ],
+      "text": "De arbeidsdeskundige kan ook het vermoeden krijgen dat reële arbeidsmogelijkheden ontbreken als cliënt in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        284.29,
+        555.87,
+        292.81
+      ],
+      "text": "eerste 104 weken nauwelijks heeft kunnen re-integreren, waarbij het er op lijkt dat hier medische redenen voor zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        294.61,
+        551.96,
+        303.13
+      ],
+      "text": "Het vermoeden dat reële arbeidsmogelijkheden ontbreken bespreekt de arbeidsdeskundige met de verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        430.38,
+        304.31,
+        447.25,
+        313.45
+      ],
+      "text": "is.11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        304.93,
+        549.21,
+        313.45
+      ],
+      "text": "waarna zij samen inschatten of het aannemelijk is dat cliënt volledig arbeidsongeschikt De verzekeringsarts en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        315.25,
+        339.77,
+        323.77
+      ],
+      "text": "de arbeidsdeskundige leggen dit vervolgens beargumenteerd vast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        335.89,
+        531.45,
+        344.41
+      ],
+      "text": "Als de arbeidsdeskundige deze inschatting niet kan maken, is de algemene werkwijze van toepassing. Dit komt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        346.21,
+        544.4,
+        354.73
+      ],
+      "text": "bijvoorbeeld voor als de arbeidsdeskundige onvoldoende beeld van de ernst van de beperkingen heeft, doordat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        356.53,
+        552.42,
+        365.05
+      ],
+      "text": "bedrijfsarts geen volledige beschrijving van de belastbaarheid geeft; niet in mate en getal of een beschrijving alleen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        349.11,
+        366.23,
+        380.02,
+        375.37
+      ],
+      "text": "werk.12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        366.85,
+        346.11,
+        375.37
+      ],
+      "text": "gericht op re-integratiemogelijkheden of mogelijkheden in het eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        389.53,
+        421.75,
+        398.05
+      ],
+      "text": "Voorbeelden waarbij ontbreken van reële arbeidsmogelijkheden aan de orde kan zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        89.9,
+        400.69,
+        457.03,
+        409.21
+      ],
+      "text": "Client heeft forse beperkingen in persoonlijk functioneren. Hierbij valt te denken aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        71.9,
+        400.77,
+        75.82,
+        409.29
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        410.85,
+        113.01,
+        419.37
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        411.01,
+        373.83,
+        419.53
+      ],
+      "text": "Cliënt is aangewezen op volledig voorgestructureerd werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        421.17,
+        113.01,
+        429.69
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        421.33,
+        534.48,
+        429.85
+      ],
+      "text": "Cliënt is beperkt op combinatie van vasthouden van de aandacht, verdelen van de aandacht en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        431.65,
+        175.21,
+        440.17
+      ],
+      "text": "herinneren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        441.81,
+        113.01,
+        450.33
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        441.97,
+        346.78,
+        450.49
+      ],
+      "text": "Cliënt heeft een ernstig vertraagd handelingstempo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        452.13,
+        113.01,
+        460.65
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        452.29,
+        406.3,
+        460.81
+      ],
+      "text": "Cliënt heeft beperkingen in doelmatig en/of zelfstandig handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        89.9,
+        462.61,
+        439.25,
+        471.13
+      ],
+      "text": "Cliënt heeft forse beperkingen in sociaal functioneren. Hierbij valt te denken aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        71.9,
+        462.69,
+        75.82,
+        471.21
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        472.91,
+        113.01,
+        481.43
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        473.07,
+        540.12,
+        481.59
+      ],
+      "text": "Hoge prikkelgevoeligheid in combinatie met een laag opleidingsniveau; cliënt is bijvoorbeeld ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        483.39,
+        342.96,
+        491.91
+      ],
+      "text": "beperkt op afleiding door activiteiten van anderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        493.55,
+        113.01,
+        502.07
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        493.71,
+        372.8,
+        502.23
+      ],
+      "text": "Cliënt heeft een beperking op direct contact met collega’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        89.9,
+        504.03,
+        544.09,
+        512.55
+      ],
+      "text": "Cliënt heeft forse fysieke beperkingen in combinatie met een laag opleidingsniveau. Hierbij valt te denken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        71.9,
+        504.11,
+        75.82,
+        512.63
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        89.9,
+        514.35,
+        109.47,
+        522.87
+      ],
+      "text": "aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        524.51,
+        113.01,
+        533.03
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        524.67,
+        253.03,
+        533.19
+      ],
+      "text": "Cliënt is functioneel eenarmig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        534.83,
+        113.01,
+        543.35
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        534.99,
+        456.02,
+        543.51
+      ],
+      "text": "Beperkingen op frequent reiken, repetitieve handelingen en/of fijne motoriek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        545.15,
+        113.01,
+        553.67
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        545.31,
+        469.48,
+        553.83
+      ],
+      "text": "Combinaties van forse beperkingen op zitten, staan en lopen (tijdens het werk).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        107.9,
+        555.47,
+        113.01,
+        563.99
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        125.9,
+        555.63,
+        376.57,
+        564.15
+      ],
+      "text": "Forse beperkingen op buigen, knielen/hurken en torderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        71.9,
+        565.95,
+        425.28,
+        574.55
+      ],
+      "text": " Cliënt kan maximaal 2 uur per dag werken en had een fulltime dienstverband.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        89.9,
+        576.27,
+        397.33,
+        584.79
+      ],
+      "text": "Cliënt moet verspreid over de dag regelmatig rustmomenten inbouwen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        71.9,
+        576.35,
+        75.82,
+        584.87
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        597.03,
+        549.28,
+        605.55
+      ],
+      "text": "Let op: Bij deze voorbeelden kan niet zonder meer worden aangenomen dat sprake is van het ontbreken van reële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        607.35,
+        556.75,
+        615.87
+      ],
+      "text": "arbeidsmogelijkheden. Deze voorbeelden kunnen slechts aanleiding geven om dit overwegen, omdat andere factoren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        617.67,
+        554.04,
+        626.19
+      ],
+      "text": "zoals opleidingsniveau en -richting ook onderdeel zijn van het arbeidsongeschiktheidscriterium. Daarnaast is overleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        627.99,
+        217.0,
+        636.51
+      ],
+      "text": "met de verzekeringsarts altijd vereist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        716.36,
+        59.66,
+        720.92
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        62.06,
+        716.98,
+        520.47,
+        723.94
+      ],
+      "text": "Tijdens het RIV bespreekt de arbeidsdeskundige deze situatie al met de verzekeringsarts, evenals een re-integratie belemmerend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        68.06,
+        725.5,
+        367.0,
+        732.46
+      ],
+      "text": "advies van de bedrijfsarts en wanneer de cliënt zelf aangeeft niet te kunnen werken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.88,
+        733.28,
+        59.66,
+        737.84
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        62.06,
+        733.9,
+        452.94,
+        740.86
+      ],
+      "text": "Bij onduidelijkheden tijdens de RIV-toets neemt de arbeidsdeskundige hierover contact op met de bedrijfsarts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        53.88,
+        59.67,
+        209.4,
+        73.71
+      ],
+      "text": "Overdrachtsdocument",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        87.44,
+        540.62,
+        95.96
+      ],
+      "text": "De arbeidsdeskundige stelt bij toepassing van de maatregel in principe geen claimrapportage op. Het Werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        97.78,
+        544.36,
+        106.3
+      ],
+      "text": "heeft voor de re-integratiebegeleiding wel informatie nodig. De arbeidsdeskundige voegt daarom, indien nodig, de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        108.1,
+        440.7,
+        116.62
+      ],
+      "text": "relevante informatie toe aan de RIV-rapportage en vult het eindverslag van ZW-Arbo aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        130.78,
+        118.08,
+        139.3
+      ],
+      "text": "Uitzonderingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        141.1,
+        554.04,
+        149.62
+      ],
+      "text": "Voor cliënten met werkgevers, waarbij de verzekeringsarts vaststelt dat er sprake is van GBM, maar dit niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        141.18,
+        75.82,
+        149.7
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        151.42,
+        505.33,
+        159.94
+      ],
+      "text": "duurzaam is, stelt de arbeidsdeskundige wel een apart document op. In deze gevallen schrijft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        161.74,
+        305.19,
+        170.26
+      ],
+      "text": "arbeidsdeskundige namelijk geen RIV-rapportage.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        172.06,
+        541.34,
+        180.66
+      ],
+      "text": " Als de verzekeringsarts en arbeidsdeskundige naar aanleiding van marginale/zeer geringe mogelijkheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        182.38,
+        558.51,
+        190.9
+      ],
+      "text": "overleggen of aannemelijk is dat er sprake is van volledige arbeidsongeschiktheid, legt de arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        192.7,
+        550.14,
+        201.22
+      ],
+      "text": "de uitkomst beargumenteerd vast in een rapportage, tenzij de inschatting vooral gebaseerd is op medische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        203.02,
+        426.18,
+        211.54
+      ],
+      "text": "gronden. Dit spreken verzekeringsarts en arbeidsdeskundige dan onderling af.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        213.34,
+        520.58,
+        221.86
+      ],
+      "text": "Als een praktische schatting niet mogelijk is bij verdiensten van meer dan 65% ten opzichte van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        213.42,
+        75.82,
+        221.94
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        223.66,
+        512.3,
+        232.18
+      ],
+      "text": "maatmanloon, legt de arbeidsdeskundige dit beargumenteerd vast in een aparte rapportage. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        233.98,
+        523.02,
+        242.5
+      ],
+      "text": "rapportage, in combinatie met de eventuele RIV-rapportage, bevat de benodigde informatie voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        244.42,
+        142.57,
+        252.94
+      ],
+      "text": "Werkbedrijf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        265.06,
+        541.89,
+        273.58
+      ],
+      "text": "De arbeidsdeskundige kiest welk bestaand format hij hiervoor gebruikt. Het is vooral belangrijk dat het document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        275.38,
+        206.77,
+        283.9
+      ],
+      "text": "herkenbaar is voor het Werkbedrijf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        298.09,
+        264.0,
+        306.61
+      ],
+      "text": "Informatie voor begeleiding door het Werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.88,
+        308.41,
+        430.81,
+        316.93
+      ],
+      "text": "De arbeidsdeskundige neemt voor het Werkbedrijf minimaal de volgende informatie op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        318.73,
+        535.18,
+        327.25
+      ],
+      "text": "De actuele belastbaarheid opgesteld door de bedrijfsarts of (verzekerings-)arts met indien mogelijk een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        318.81,
+        75.82,
+        327.33
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        329.05,
+        132.37,
+        337.57
+      ],
+      "text": "prognose.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        339.37,
+        225.73,
+        347.89
+      ],
+      "text": "Opleidings- en arbeidsverleden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        339.45,
+        75.82,
+        347.97
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        349.69,
+        551.84,
+        358.21
+      ],
+      "text": "Samenvatting van de verrichte re-integratie-activiteiten in het kader van de Wet ‘verbetering Poortwachter’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        349.77,
+        75.82,
+        358.29
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        360.01,
+        339.78,
+        368.53
+      ],
+      "text": "(eerste en tweede spoor) of in het kader van de ZW-Arbo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        89.9,
+        370.33,
+        326.47,
+        378.85
+      ],
+      "text": "Contact met cliënt en werkgever over de toestemming.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        370.41,
+        75.82,
+        378.93
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        71.9,
+        380.65,
+        307.21,
+        389.25
+      ],
+      "text": " Visie van de cliënt over zijn arbeidsmogelijkheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 13,
+      "bbox": [
+        53.88,
+        59.79,
+        355.92,
+        73.83
+      ],
+      "text": "Aandachtspunten voor de verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        91.42,
+        99.56,
+        99.94
+      ],
+      "text": "Onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        101.74,
+        551.26,
+        110.26
+      ],
+      "text": "In het kader van de 60+ maatregel is het wenselijk om de beoordeling zoveel mogelijk op de stukken uit te voeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        112.06,
+        531.09,
+        120.58
+      ],
+      "text": "Als een beoordeling op de stukken niet mogelijk is, omdat hiervoor de benodigde informatie ontbreekt, doet de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        122.38,
+        547.21,
+        130.9
+      ],
+      "text": "verzekeringsarts nader onderzoek conform de Standaard Onderzoeksmethoden. De verzekeringsarts-taakdelegatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        132.7,
+        541.91,
+        141.22
+      ],
+      "text": "zet bv. de SMV in om ontbrekende informatie te verzamelen. De verzekeringsarts kan ook zelf telefonisch contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        143.02,
+        303.58,
+        151.54
+      ],
+      "text": "opnemen met de cliënt of een fysiek spreekuur inplannen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        165.7,
+        106.68,
+        174.22
+      ],
+      "text": "Rapporteren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        176.02,
+        246.68,
+        184.54
+      ],
+      "text": "De verzekeringsarts stelt een rapportage op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        93.62,
+        186.34,
+        552.27,
+        194.86
+      ],
+      "text": "Als sprake is van GBM of marginale/zeer geringe mogelijkheden waardoor het aannemelijk is dat er sprake",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        75.62,
+        186.42,
+        79.54,
+        194.94
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        93.62,
+        196.66,
+        260.9,
+        205.18
+      ],
+      "text": "is van volledige arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        93.62,
+        207.1,
+        477.63,
+        215.62
+      ],
+      "text": "In gevallen waar medische gronden doorslaggevend zijn voor de inschatting dat volledige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        75.62,
+        207.18,
+        79.54,
+        215.7
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        93.62,
+        217.42,
+        275.55,
+        225.94
+      ],
+      "text": "arbeidsongeschiktheid niet aannemelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 13,
+      "bbox": [
+        53.88,
+        240.1,
+        73.54,
+        248.62
+      ],
+      "text": "GBM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        250.42,
+        523.37,
+        258.94
+      ],
+      "text": "In de claimrapportage beoordeelt de verzekeringsarts enkel de duurzaamheid conform het beoordelingskader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        260.74,
+        517.29,
+        269.26
+      ],
+      "text": "duurzaamheid. De verzekeringsarts motiveert duidelijk waarom er wel of geen sprake is van duurzaamheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        271.06,
+        556.98,
+        279.58
+      ],
+      "text": "Voor cliënten met werkgever beoordeelt de verzekeringsarts tijdens de RIV-toets al of er daadwerkelijk sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        281.41,
+        540.87,
+        289.93
+      ],
+      "text": "GBM. De beoordeling in het kader van het RIV en de claim kunnen in één rapportage worden weergegeven als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        291.73,
+        301.64,
+        300.25
+      ],
+      "text": "verzekeringsarts van oordeel is dat er sprake is van GBM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        314.41,
+        459.04,
+        322.93
+      ],
+      "text": "Marginale/zeer geringe mogelijkheden waarbij volledige arbeidsongeschiktheid aannemelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        324.73,
+        534.7,
+        333.25
+      ],
+      "text": "De verzekeringsarts legt in de rapportage beargumenteerd vast dat uit het overleg met de arbeidsdeskundige is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        335.05,
+        515.27,
+        343.57
+      ],
+      "text": "gebleken dat volledige arbeidsongeschiktheid aannemelijk is. Vervolgens beoordeelt de verzekeringsarts de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        345.37,
+        524.39,
+        353.89
+      ],
+      "text": "duurzaamheid conform het beoordelingskader duurzaamheid. De verzekeringsarts motiveert in de rapportage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        355.69,
+        317.6,
+        364.21
+      ],
+      "text": "duidelijk waarom er wel of geen sprake is van duurzaamheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        378.37,
+        478.1,
+        386.89
+      ],
+      "text": "Marginale/zeer geringe mogelijkheden waarbij volledige arbeidsongeschiktheid niet aannemelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        495.42,
+        388.07,
+        523.59,
+        397.21
+      ],
+      "text": "vast.13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        388.69,
+        492.45,
+        397.21
+      ],
+      "text": "In gevallen waar medische gronden doorslaggevend zijn, legt de verzekeringsarts dit beargumenteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.88,
+        733.28,
+        59.66,
+        737.84
+      ],
+      "text": "13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.06,
+        733.9,
+        516.81,
+        740.86
+      ],
+      "text": "In andere gevallen stemt de verzekeringsarts met de arbeidsdeskundige af of het noodzakelijk is dat hij een rapportage op stelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "13",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 14,
+      "bbox": [
+        53.88,
+        59.79,
+        163.09,
+        73.83
+      ],
+      "text": "Bijzonderheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        89.38,
+        132.67,
+        97.9
+      ],
+      "text": "Bekortingsverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        99.7,
+        508.64,
+        108.22
+      ],
+      "text": "Na goedkeuring van een bekortingsverzoek wordt de WIA-aanvraag weer in behandeling genomen. Als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        110.02,
+        553.18,
+        118.54
+      ],
+      "text": "oorspronkelijke EWT binnen de looptijd van de maatregel valt én de cliënt op dat moment 60 jaar of ouder was, kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        120.46,
+        457.52,
+        128.98
+      ],
+      "text": "de maatregel toegepast worden volgens de beschrijving onder ‘Toepassing van de maatregel’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        143.02,
+        291.13,
+        151.54
+      ],
+      "text": "Einde van een verlengde loondoorbetalingsverplichting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        153.34,
+        544.91,
+        161.86
+      ],
+      "text": "Indien na de maximale verlengde loondoorbetalingsperiode van 52 weken de WIA-aanvraag alsnog in behandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        163.78,
+        532.96,
+        172.3
+      ],
+      "text": "wordt genomen, vindt geen RIV-toets meer plaats. De arbeidsdeskundige gaat op kop om te onderkennen of er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        174.1,
+        549.33,
+        182.62
+      ],
+      "text": "inkomsten uit arbeid zijn. Bij het vermoeden van verdiensten van 65% of meer ten opzichte van het maatmanloon,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        184.42,
+        553.63,
+        192.94
+      ],
+      "text": "stelt hij het maatmanloon vast. De arbeidsdeskundige beschrijft vervolgens de functie en de belasting hierin en stelt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        194.74,
+        425.32,
+        203.26
+      ],
+      "text": "een gerichte vraag aan de verzekeringsarts om de passendheid te kunnen beoordelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        205.06,
+        541.89,
+        213.58
+      ],
+      "text": "Als er geen sprake is van verdiensten of van verdiensten van meer dan 65% van het maatmaninkomen vraagt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        215.38,
+        527.53,
+        223.9
+      ],
+      "text": "arbeidsdeskundige de verzekeringsarts om de belastbaarheid vast te stellen. De verzekeringsarts beschrijft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        225.7,
+        553.08,
+        234.22
+      ],
+      "text": "belastbaarheid in FML-achtige termen. Vervolgens kan de algemene werkwijze toegepast worden, tenzij er sprake is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        236.02,
+        556.37,
+        244.54
+      ],
+      "text": "van GBM of de arbeidsdeskundige onderkent dat er waarschijnlijk sprake is van volledige arbeidsongeschiktheid door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        246.34,
+        555.26,
+        254.86
+      ],
+      "text": "marginale mogelijkheden/zeer geringe mogelijkheden. Er wordt op het juiste moment, afhankelijk van de werkwijze,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        256.66,
+        292.44,
+        265.18
+      ],
+      "text": "toestemming gevraagd om de maatregel toe te passen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        279.37,
+        121.93,
+        287.89
+      ],
+      "text": "Herbeoordeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        302.05,
+        177.16,
+        310.57
+      ],
+      "text": "Professionele herbeoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        312.37,
+        489.59,
+        320.89
+      ],
+      "text": "UWV voert geen professionele herbeoordeling uit voor cliënten die deelnemen aan de maatregel 60+.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        335.05,
+        243.66,
+        343.57
+      ],
+      "text": "Vraaggestuurde herbeoordeling door derden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        345.37,
+        558.19,
+        353.89
+      ],
+      "text": "Bij een vraaggestuurde herbeoordeling voert UWV een volledige sociaal-medische beoordeling uit, ook als dit leidt tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        355.69,
+        543.62,
+        364.21
+      ],
+      "text": "een verlaging of beëindiging van de uitkering. Het is van belang dat cliënten en werkgevers zich vooraf voldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        366.01,
+        445.14,
+        374.53
+      ],
+      "text": "bewust zijn van het risico dat een vraaggestuurde herbeoordeling kan leiden tot een lagere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        376.33,
+        547.41,
+        384.85
+      ],
+      "text": "arbeidsongeschiktheidsklasse en zelfs beëindiging van de uitkering. Ook is het belangrijk goed door te vragen naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        386.65,
+        553.77,
+        395.17
+      ],
+      "text": "de reden van de herbeoordelingsaanvraag. Als een werkgever bijvoorbeeld een herbeoordeling aanvraagt, omdat hij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        396.97,
+        545.75,
+        405.49
+      ],
+      "text": "ten onrechte meent dat hij geconfronteerd wordt met de financiële gevolgen van de toegekende uitkering, kan het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        407.41,
+        391.36,
+        415.93
+      ],
+      "text": "wegnemen van dit misverstand aanleiding zijn tot intrekking van de aanvraag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        429.97,
+        299.92,
+        438.49
+      ],
+      "text": "Ambtshalve herbeoordeling vanuit professionele driehoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        440.29,
+        536.29,
+        448.81
+      ],
+      "text": "Gedurende de begeleiding vormt de arbeidsdeskundige Werkbedrijf zich een beeld van de mogelijkheden van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        450.73,
+        532.77,
+        459.25
+      ],
+      "text": "cliënt. De arbeidsdeskundige kan hierdoor het vermoeden hebben dat er op dat moment mogelijk sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        428.95,
+        460.43,
+        473.05,
+        469.57
+      ],
+      "text": "driehoek14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        461.05,
+        523.41,
+        469.57
+      ],
+      "text": "volledige arbeidsongeschiktheid. Als dit aan de orde is, wordt cliënt in de professionele besproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        471.39,
+        480.14,
+        479.91
+      ],
+      "text": "De professionele driehoek kan besluiten een herbeoordeling op te starten. Dit is zinvol als volledige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        481.71,
+        521.38,
+        490.23
+      ],
+      "text": "arbeidsongeschiktheid aannemelijk lijkt en het vermoeden bestaat dat er sprake is van duurzaamheid. Het is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        492.03,
+        292.78,
+        500.55
+      ],
+      "text": "belangrijk deze herbeoordeling hoge prioriteit te geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        502.35,
+        555.86,
+        510.87
+      ],
+      "text": "De cliënt kan met terugwerkende kracht van maximaal 52 weken een IVA-uitkering toegekend krijgen, als tijdens de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        512.67,
+        516.02,
+        521.19
+      ],
+      "text": "herbeoordeling blijkt dat op een eerder moment al sprake was van volledige arbeidsongeschiktheid. Dit kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        522.99,
+        270.73,
+        531.51
+      ],
+      "text": "gedurende de uitkering zijn, maar ook al per EWT.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        545.67,
+        264.32,
+        554.19
+      ],
+      "text": "Mogelijke uitkomsten ambtshalve herbeoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        555.99,
+        541.19,
+        564.51
+      ],
+      "text": "Bij een herbeoordeling voert UWV een volledige sociaal-medische beoordeling uit. Deze kan leiden tot toekenning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        566.31,
+        548.19,
+        574.83
+      ],
+      "text": "IVA, verhoging van de arbeidsongeschiktheidsklasse (IVA), behoud van de arbeidsongeschiktheidsklasse (WGA 80-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        576.63,
+        359.46,
+        585.15
+      ],
+      "text": "100) of verlaging van de arbeidsongeschiktheidsklasse (35-80 of <35).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        586.95,
+        543.6,
+        595.47
+      ],
+      "text": "Als ervoor gekozen wordt om een herbeoordeling te initiëren met als doel het toekennen van IVA, bestaat dus het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        597.27,
+        525.75,
+        605.79
+      ],
+      "text": "risico op een andere, lagere uitkomst. Dit risico wordt versterkt doordat de uitgangspositie onbekend is. In de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        607.59,
+        542.11,
+        616.11
+      ],
+      "text": "meeste gevallen is niet eerder een beoordeling uitgevoerd. Ook zijn de beperkingen op basis van ziekte of gebrek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        618.03,
+        549.72,
+        626.55
+      ],
+      "text": "niet (recent) door een verzekeringsarts vastgesteld. Daarnaast is er geen arbeidsongeschiktheidsklasse vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        628.35,
+        548.76,
+        636.87
+      ],
+      "text": "(tenzij bij GBM/wanneer de VA en AD inschatten dat er sprake is van volledige arbeidsongeschiktheid). Het is maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        638.67,
+        410.45,
+        647.19
+      ],
+      "text": "de vraag of bij een claimbeoordeling bij EWT de uitkomst 80-100 zou zijn geweest.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        648.99,
+        555.65,
+        657.51
+      ],
+      "text": "Hierdoor kunnen, net als bij de toepassing van de maatregel, eventueel enkel marginale mogelijkheden/zeer geringe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        659.34,
+        542.72,
+        667.86
+      ],
+      "text": "mogelijkheden of GBM met enige mate van zekerheid worden ingeschat. Het arbeidsongeschiktheidspercentage is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        669.66,
+        554.01,
+        678.18
+      ],
+      "text": "immers afhankelijk van een combinatie van onder andere beperkingen, opleidingsniveau, -richting maatmanomvang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        679.98,
+        92.29,
+        688.5
+      ],
+      "text": "en -loon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.88,
+        733.28,
+        59.66,
+        737.84
+      ],
+      "text": "14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        62.06,
+        733.9,
+        388.97,
+        740.86
+      ],
+      "text": "Overleg tussen arbeidsdeskundige Werkbedrijf, arbeidsdeskundige SMZ en verzekeringsarts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        58.64,
+        556.66,
+        67.16
+      ],
+      "text": "Let op: Het is van belang dat de deelnemers aan de professionele driehoek zich voldoende bewust zijn van het risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        69.08,
+        549.94,
+        77.6
+      ],
+      "text": "dat een ambtshalve herbeoordeling dus kan leiden tot een lagere arbeidsongeschiktheidsklasse en zelfs beëindiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        79.4,
+        512.74,
+        87.92
+      ],
+      "text": "van de uitkering. De risico’s van het uitvoeren van een ambtshalve herbeoordeling moeten goed met cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        89.74,
+        135.71,
+        98.26
+      ],
+      "text": "besproken worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        112.42,
+        354.79,
+        120.94
+      ],
+      "text": "Later ontstaan recht en herleving tijdens de looptijd van de maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        122.74,
+        559.03,
+        131.26
+      ],
+      "text": "Bij herleving of later ontstaan recht tijdens de looptijd van de maatregel valt cliënt opnieuw onder de maatregel, mits",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        133.06,
+        449.68,
+        141.58
+      ],
+      "text": "cliënt per EWT onder de doelgroep viel en zijn WIA-aanvraag vereenvoudigd is afgehandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        143.38,
+        541.56,
+        151.9
+      ],
+      "text": "De verzekeringsarts beoordeelt of het aannemelijk is dat er sprake is van toegenomen beperkingen door dezelfde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        153.7,
+        540.16,
+        162.22
+      ],
+      "text": "ziekteoorzaak. Er is sprake is van dezelfde ziekteoorzaak als niet met zekerheid kan worden vastgesteld dat deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        164.02,
+        529.46,
+        172.54
+      ],
+      "text": "toename veroorzaakt wordt door een andere ziekteoorzaak. Voor de oorspronkelijke belastbaarheid baseert de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        174.34,
+        518.01,
+        182.86
+      ],
+      "text": "verzekeringsarts zich op het actueel oordeel van de bedrijfsarts of de gegevens in het eindverslag ZW-Arbo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        184.66,
+        514.31,
+        193.18
+      ],
+      "text": "De verzekeringsarts legt zijn overwegingen en conclusies vast in een korte rapportage. Als er sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        194.98,
+        543.03,
+        203.5
+      ],
+      "text": "toegenomen beperkingen door dezelfde ziekteoorzaak, neemt de verzekeringsarts ook een belastbaarheid in FML-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        205.3,
+        535.12,
+        213.82
+      ],
+      "text": "achtige termen op. Vervolgens kan de algemene werkwijze toegepast worden, tenzij er sprake is van GBM of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        215.62,
+        536.18,
+        224.14
+      ],
+      "text": "arbeidsdeskundige onderkent dat er waarschijnlijk sprake is van volledige arbeidsongeschiktheid door marginale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.88,
+        226.06,
+        239.16,
+        234.58
+      ],
+      "text": "mogelijkheden/zeer geringe mogelijkheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "15",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        53.88,
+        59.67,
+        420.58,
+        73.71
+      ],
+      "text": "Bijlage: Buitenwettelijk begunstigend beleid bij 60+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        53.88,
+        87.44,
+        546.92,
+        95.96
+      ],
+      "text": "Een buitenwettelijke werkwijze moet voor alle belanghebbenden begunstigend zijn (niet nadeliger dan bij reguliere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        53.88,
+        97.78,
+        550.93,
+        106.3
+      ],
+      "text": "uitvoering van de claimbeoordeling). Voor de maatregel 60+ zijn de volgende afspraken gemaakt om dit te borgen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        108.1,
+        538.59,
+        116.62
+      ],
+      "text": "UWV kent een WGA-uitkering toe, berekend naar de hoogste arbeidsongeschiktheidsklasse (80-100). Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        71.9,
+        108.18,
+        75.82,
+        116.7
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        118.42,
+        489.46,
+        126.94
+      ],
+      "text": "toekenning van een WGA 80-100 geldt geen inkomenseis en daardoor volgt na afloop van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        128.74,
+        482.34,
+        137.26
+      ],
+      "text": "loongerelateerde uitkering (LGU) een (qua hoogte gelijke) loonaanvullingsuitkering (LAU1).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        71.9,
+        139.06,
+        516.68,
+        147.66
+      ],
+      "text": " Het werkproces voorziet erin dat een mogelijk (hoger) IVA-recht in de meeste gevallen kan worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        149.38,
+        527.05,
+        157.9
+      ],
+      "text": "onderkend. Dit geldt zowel bij de afhandeling van de aanvraag als tijdens de uitkering, eventueel met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        159.7,
+        187.07,
+        168.22
+      ],
+      "text": "terugwerkende kracht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        170.02,
+        557.53,
+        178.54
+      ],
+      "text": "Het niet toekennen van een WIA-uitkering in gevallen waarin een praktische schatting leidt tot een mate van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        71.9,
+        170.1,
+        75.82,
+        178.62
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        180.34,
+        545.89,
+        188.86
+      ],
+      "text": "arbeidsongeschiktheid van minder dan 35% is niet nadeliger dan toepassing van de wettelijke bepalingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        71.9,
+        190.66,
+        542.25,
+        199.26
+      ],
+      "text": " UWV biedt cliënten, na toekenning van een WIA-uitkering, re-integratie-ondersteuning aan. Dit geldt niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        201.1,
+        540.15,
+        209.62
+      ],
+      "text": "voor cliënten van eigen-risicodragers. De werkgever-ERD blijft onveranderd verantwoordelijk voor de re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        211.42,
+        133.82,
+        219.94
+      ],
+      "text": "integratie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        221.74,
+        545.3,
+        230.26
+      ],
+      "text": "De werkgever-ERD hoeft de WIA-uitkering niet te betalen. Voor andere werkgevers blijft de WIA-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        71.9,
+        221.82,
+        75.82,
+        230.34
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        232.06,
+        558.99,
+        240.58
+      ],
+      "text": "buiten beschouwing bij het vaststellen van de te betalen gedifferentieerde premie. Dit geldt voor alle cliënten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        242.38,
+        549.86,
+        250.9
+      ],
+      "text": "die 60 jaar of ouder zijn en binnen de looptijd van de maatregel EWT bereiken. Dit is onafhankelijk van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        89.9,
+        252.7,
+        214.31,
+        261.22
+      ],
+      "text": "toepassen van de maatregel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        124.7,
+        765.08,
+        478.61,
+        773.12
+      ],
+      "text": "Handreiking maatregel vereenvoudigde WIA-claimbeoordeling 60+. Versie 11 mei 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        284.83,
+        802.4,
+        295.1,
+        810.44
+      ],
+      "text": "16",
+      "source": "text"
+    }
+  ]
+}

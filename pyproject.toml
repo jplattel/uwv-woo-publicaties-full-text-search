@@ -1,0 +1,19 @@
+[project]
+name = "uwv-woo-verzoeken"
+version = "0.1.0"
+description = "Crawl UWV Woo publications and extract PDF text"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=5.0.0",
+    "pdfplumber>=0.11.0",
+    "pytesseract>=0.3.10",
+    "pdf2image>=1.17.0",
+    "PyYAML>=6.0.0",
+    "markdown>=3.6.0",
+]
+
+[tool.uv]
+package = false

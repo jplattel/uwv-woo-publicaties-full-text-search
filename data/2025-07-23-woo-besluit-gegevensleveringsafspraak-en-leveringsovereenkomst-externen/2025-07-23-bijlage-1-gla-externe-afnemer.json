@@ -1,0 +1,7397 @@
+{
+  "source_id": "2025-07-23-woo-besluit-gegevensleveringsafspraak-en-leveringsovereenkomst-externen/2025-07-23-bijlage-1-gla-externe-afnemer",
+  "publication_slug": "2025-07-23-woo-besluit-gegevensleveringsafspraak-en-leveringsovereenkomst-externen",
+  "pdf_slug": "2025-07-23-bijlage-1-gla-externe-afnemer",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-gegevensleveringsafspraak-en-leveringsovereenkomst-externen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/86b8968f-db44-4b2e-b54e-4763b27b21e2/bijlage-1-gla-externe-afnemer.pdf",
+  "publication_title": "Woo-besluit Gegevensleveringsafspraak en leveringsovereenkomst externen",
+  "publication_date": "2025-07-23T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1 GLA Externe Afnemer (PDF, 3 MB)",
+  "retrieved_at": "2026-06-30T12:51:07+00:00",
+  "sha256": "dca70f0059987152a6c326f6f4cc136517b18ca891431a0206e53de60620d54f",
+  "page_count": 8,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        483.0,
+        34.01,
+        518.29,
+        44.01
+      ],
+      "text": "250422/GLAEXT",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        173.0,
+        216.02,
+        402.8,
+        236.02
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        277.0,
+        264.01,
+        307.0,
+        279.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        103.0,
+        309.01,
+        474.55,
+        324.01
+      ],
+      "text": "UITVOERINGSINSTITUUT WERKNEMERSVERZEKERINGEN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        290.0,
+        356.01,
+        296.67,
+        369.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        265.0,
+        400.01,
+        314.88,
+        415.01
+      ],
+      "text": "AFNEMER",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        254.0,
+        401.01,
+        332.0,
+        415.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        416.0,
+        450.01,
+        512.74,
+        463.01
+      ],
+      "text": "met contractnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        72.0,
+        450.01,
+        402.85,
+        464.01
+      ],
+      "text": "Gegevensleveringsafspraken (GLA) behorende bij de overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        255.0,
+        464.01,
+        328.74,
+        477.01
+      ],
+      "text": "contractnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        247.0,
+        465.01,
+        341.5,
+        477.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        241.0,
+        665.01,
+        312.86,
+        679.01
+      ],
+      "text": "Relatienummer:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        326.0,
+        667.01,
+        347.5,
+        679.01
+      ],
+      "text": "< nr >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        207.0,
+        685.01,
+        286.68,
+        699.01
+      ],
+      "text": "Contractnummer:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        331.0,
+        686.01,
+        379.0,
+        699.01
+      ],
+      "text": "(verlenging)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        301.0,
+        687.01,
+        321.5,
+        699.01
+      ],
+      "text": "< nr >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        246.0,
+        705.01,
+        306.5,
+        719.01
+      ],
+      "text": "GLV-nummer:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        321.0,
+        707.01,
+        342.5,
+        719.01
+      ],
+      "text": "< nr >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        420.0,
+        36.01,
+        549.8,
+        49.01
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        420.0,
+        49.01,
+        554.85,
+        62.01
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        420.0,
+        62.01,
+        494.67,
+        75.01
+      ],
+      "text": "contractnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        152.01,
+        515.33,
+        165.01
+      ],
+      "text": "UWV Gegevensdiensten organisatienaam afnemer (hierna te Afnemer) leggen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        181.0,
+        153.01,
+        408.5,
+        164.01
+      ],
+      "text": "en noemen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        195.0,
+        153.01,
+        320.0,
+        165.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        163.01,
+        495.77,
+        176.01
+      ],
+      "text": "Gegevensleveringsafspraak (GLA) afspraken vast rond de gegevenslevering de bijbehorende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        417.0,
+        164.01,
+        422.33,
+        175.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        174.01,
+        134.94,
+        187.01
+      ],
+      "text": "dienstverlening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        196.01,
+        193.6,
+        210.01
+      ],
+      "text": "1 Productbeschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        218.01,
+        132.18,
+        231.01
+      ],
+      "text": "informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        219.01,
+        505.33,
+        232.01
+      ],
+      "text": "Voor dit product verwijzen wij de Productbeschrijving. Dit document wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        144.0,
+        220.01,
+        303.6,
+        231.01
+      ],
+      "text": "over u naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        229.01,
+        257.4,
+        242.01
+      ],
+      "text": "beschikbaar gesteld kies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        163.0,
+        230.01,
+        221.67,
+        243.01
+      ],
+      "text": "Kies item.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        185.0,
+        231.01,
+        194.75,
+        242.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        231.0,
+        231.01,
+        267.0,
+        243.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.0,
+        251.01,
+        494.87,
+        264.01
+      ],
+      "text": "geval beschrijving het product vinden de intakeanalyse.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        252.01,
+        416.0,
+        265.01
+      ],
+      "text": "Optie in A23: De is terug te in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        136.0,
+        253.01,
+        263.75,
+        264.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        91.0,
+        284.01,
+        134.2,
+        298.01
+      ],
+      "text": "Populatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        285.01,
+        72.0,
+        299.01
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        307.01,
+        317.18,
+        320.01
+      ],
+      "text": "Optie vraagbestand dat hier wordt beschreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        308.01,
+        329.0,
+        320.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        108.0,
+        308.01,
+        112.67,
+        321.01
+      ],
+      "text": "1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        318.01,
+        471.0,
+        331.01
+      ],
+      "text": "levering wordt samengesteld basis vraagbestand. het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        319.01,
+        430.58,
+        332.01
+      ],
+      "text": "De De gegevensset",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        220.0,
+        320.01,
+        451.75,
+        331.01
+      ],
+      "text": "op van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        329.01,
+        389.4,
+        342.01
+      ],
+      "text": "vraagbestand heeft als versienummer versienummer bestaat uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        328.0,
+        331.01,
+        333.33,
+        342.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        245.0,
+        331.01,
+        320.0,
+        343.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        344.01,
+        89.0,
+        354.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        351.01,
+        499.74,
+        364.01
+      ],
+      "text": "uit het Bestand Gegevensleveringsspecificaties of het bestand Productbeschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        353.01,
+        119.4,
+        364.01
+      ],
+      "text": "overnemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        353.01,
+        509.0,
+        365.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        344.0,
+        357.01,
+        345.0,
+        365.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        373.01,
+        416.33,
+        386.01
+      ],
+      "text": "Optie 2 A23: vraagbestand dat in de intakeanalyse beschreven staat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        374.01,
+        426.0,
+        386.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        384.01,
+        471.0,
+        397.01
+      ],
+      "text": "De levering wordt samengesteld basis vraagbestand. De gegevensset het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        220.0,
+        386.01,
+        451.75,
+        397.01
+      ],
+      "text": "op van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        395.01,
+        301.87,
+        408.01
+      ],
+      "text": "vraagbestand wordt beschreven in de intakeanalyse.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        417.01,
+        367.11,
+        430.01
+      ],
+      "text": "Optie 3: Geen vraagbestand: levering basis selectie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.0,
+        418.01,
+        326.25,
+        429.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        418.01,
+        377.0,
+        430.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        428.01,
+        486.8,
+        441.01
+      ],
+      "text": "De levering wordt samengesteld basis selectie. Deze selectie is in de Kies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        220.0,
+        429.01,
+        505.75,
+        440.01
+      ],
+      "text": "op een opgenomen een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        439.01,
+        86.67,
+        452.01
+      ],
+      "text": "item.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        460.01,
+        315.73,
+        473.01
+      ],
+      "text": "Optie vraagbestand: deelnemersbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        461.01,
+        327.0,
+        473.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        108.0,
+        461.01,
+        137.8,
+        474.01
+      ],
+      "text": "4: Geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        148.0,
+        471.01,
+        450.74,
+        484.01
+      ],
+      "text": "het Bestand Gegevensleveringsspecificatie of de Productbeschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        472.01,
+        139.75,
+        485.01
+      ],
+      "text": "Overnemen uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        473.01,
+        460.0,
+        485.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        493.01,
+        210.73,
+        506.01
+      ],
+      "text": "Optie deelnemersbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        494.01,
+        223.0,
+        506.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        108.0,
+        494.01,
+        112.67,
+        507.01
+      ],
+      "text": "4:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        504.01,
+        491.0,
+        517.01
+      ],
+      "text": "De levering wordt samengesteld basis deelnemersbestand. De specificatie het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        220.0,
+        506.01,
+        471.75,
+        517.01
+      ],
+      "text": "op van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        515.01,
+        280.0,
+        528.01
+      ],
+      "text": "deelnemersbestand in uit?.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        162.0,
+        516.01,
+        178.67,
+        529.01
+      ],
+      "text": "staat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        206.0,
+        517.01,
+        247.4,
+        528.01
+      ],
+      "text": "overnemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        199.0,
+        517.01,
+        279.0,
+        529.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        548.01,
+        256.48,
+        562.01
+      ],
+      "text": "3 Gegevensleveringsspecificaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        571.01,
+        490.56,
+        584.01
+      ],
+      "text": "Of het wel of PLM-levering betreft kun je halen uit de intakeanalyse. De acceptatiedatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        131.0,
+        573.01,
+        511.75,
+        584.01
+      ],
+      "text": "geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        582.01,
+        444.75,
+        595.01
+      ],
+      "text": "de afnemer is vinden in de IA Versiebeheer :Na review akkoord Afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        135.0,
+        583.01,
+        167.0,
+        596.01
+      ],
+      "text": "terug te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        361.0,
+        584.01,
+        366.33,
+        595.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        604.01,
+        156.56,
+        617.01
+      ],
+      "text": "Optie 1: niet-PLM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        605.01,
+        168.0,
+        617.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        614.01,
+        460.62,
+        627.01
+      ],
+      "text": "specificaties de die worden verstrekt door Afnemer geaccepteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        615.01,
+        334.4,
+        628.01
+      ],
+      "text": "De zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        143.0,
+        616.01,
+        476.33,
+        627.01
+      ],
+      "text": "van gegevens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        317.0,
+        620.01,
+        318.0,
+        628.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        625.01,
+        505.56,
+        638.01
+      ],
+      "text": "datum. als Bijlage bij deze afspraak. wordt bij de productoverdracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        120.0,
+        626.01,
+        361.5,
+        639.01
+      ],
+      "text": "Zij zijn GLS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        154.0,
+        627.01,
+        197.2,
+        638.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        627.01,
+        346.0,
+        639.01
+      ],
+      "text": "< > <",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        636.01,
+        508.0,
+        649.01
+      ],
+      "text": "meegestuurd de als bestand Gegevensleveringsspecificaties. bestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        637.01,
+        435.0,
+        650.01
+      ],
+      "text": "Is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        133.0,
+        638.01,
+        469.4,
+        649.01
+      ],
+      "text": "aan casemanager er geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        647.01,
+        408.13,
+        660.01
+      ],
+      "text": "Gegevensleveringsspecificaties dan de kavelspecialist",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        265.0,
+        648.01,
+        325.5,
+        661.01
+      ],
+      "text": "contact met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        216.0,
+        649.01,
+        306.33,
+        660.01
+      ],
+      "text": "neem op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        415.0,
+        649.01,
+        417.0,
+        661.01
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        210.0,
+        653.01,
+        211.0,
+        661.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        669.01,
+        242.08,
+        682.01
+      ],
+      "text": "Optie 2: PLM zonder vraagbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        670.01,
+        254.0,
+        682.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        680.01,
+        460.62,
+        693.01
+      ],
+      "text": "De specificaties de die worden verstrekt zijn door Afnemer geaccepteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        143.0,
+        682.01,
+        476.33,
+        693.01
+      ],
+      "text": "van gegevens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        317.0,
+        686.01,
+        318.0,
+        694.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        691.01,
+        380.33,
+        704.01
+      ],
+      "text": "datum. Voor de inhoudelijke wordt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        692.01,
+        109.0,
+        704.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        216.0,
+        692.01,
+        264.58,
+        705.01
+      ],
+      "text": "gegevensset",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        305.0,
+        693.01,
+        364.6,
+        704.01
+      ],
+      "text": "verwezen naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        702.01,
+        510.0,
+        715.01
+      ],
+      "text": "gegevensleveringsspecificaties dit gegevensproduct. De gegevensleveringsspecificaties zijn te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        212.0,
+        704.01,
+        221.75,
+        715.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        713.01,
+        328.86,
+        726.01
+      ],
+      "text": "downloaden via het portaal Mijn Gegevensdiensten (MGD).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        737.01,
+        227.08,
+        750.01
+      ],
+      "text": "Optie 2: vraagbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        738.01,
+        239.0,
+        750.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        121.0,
+        738.01,
+        156.25,
+        751.01
+      ],
+      "text": "PLM met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        463.0,
+        785.01,
+        519.5,
+        797.01
+      ],
+      "text": "Pagina 2 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        501.0,
+        786.01,
+        510.0,
+        797.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        420.0,
+        36.01,
+        549.8,
+        49.01
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        420.0,
+        49.01,
+        554.85,
+        62.01
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        420.0,
+        62.01,
+        494.67,
+        75.01
+      ],
+      "text": "contractnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        141.01,
+        460.62,
+        154.01
+      ],
+      "text": "De specificaties de die worden verstrekt zijn door Afnemer geaccepteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        143.0,
+        143.01,
+        476.33,
+        154.01
+      ],
+      "text": "van gegevens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        317.0,
+        146.01,
+        318.0,
+        154.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.0,
+        152.01,
+        494.33,
+        165.01
+      ],
+      "text": "datum. Zij zijn als Bijlage bij deze afspraak. specialist plaatst GLS in GEM. Zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        153.01,
+        197.2,
+        164.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        153.01,
+        346.0,
+        165.01
+      ],
+      "text": "< > <",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        163.01,
+        81.2,
+        176.01
+      ],
+      "text": "niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        164.01,
+        128.67,
+        175.01
+      ],
+      "text": "navragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        136.0,
+        164.01,
+        138.0,
+        176.01
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        87.0,
+        168.01,
+        88.0,
+        176.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        185.01,
+        103.0,
+        197.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        78.0,
+        185.01,
+        91.5,
+        198.01
+      ],
+      "text": "CWS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        195.01,
+        506.75,
+        208.01
+      ],
+      "text": "de inhoudelijke wordt de gegevensleveringsspecificaties dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        196.01,
+        214.58,
+        209.01
+      ],
+      "text": "Voor gegevensset",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        255.0,
+        197.01,
+        489.75,
+        208.01
+      ],
+      "text": "verwezen naar van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        206.01,
+        417.5,
+        219.01
+      ],
+      "text": "gegevensproduct. gegevensspecificaties downloaden het portaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        207.01,
+        440.8,
+        220.01
+      ],
+      "text": "De zijn te via Mijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        217.01,
+        147.45,
+        230.01
+      ],
+      "text": "Gegevensdiensten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        91.0,
+        250.01,
+        155.61,
+        264.01
+      ],
+      "text": "Proefbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        251.01,
+        72.0,
+        265.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        273.01,
+        363.6,
+        286.01
+      ],
+      "text": "(zie IA onder hoofdstuk Distributie paragraaf Bestandsinformatie)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        227.0,
+        279.01,
+        228.0,
+        287.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.0,
+        295.01,
+        164.23,
+        308.01
+      ],
+      "text": "Geen proefbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        296.01,
+        176.0,
+        308.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        306.01,
+        362.0,
+        319.01
+      ],
+      "text": "Voor deze gegevenslevering is proefbestand toepassing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        211.0,
+        308.01,
+        308.75,
+        319.01
+      ],
+      "text": "geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.0,
+        328.01,
+        136.16,
+        341.01
+      ],
+      "text": "Proefbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        329.01,
+        147.0,
+        341.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        339.01,
+        501.62,
+        352.01
+      ],
+      "text": "Voor deze gegevenslevering is proefperiode toepassing die start datum eindigt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        417.0,
+        340.01,
+        456.0,
+        352.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        211.0,
+        341.01,
+        517.33,
+        352.01
+      ],
+      "text": "een van op en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.0,
+        350.01,
+        437.87,
+        363.01
+      ],
+      "text": "datum. In deze proefperiode zullen aantal proefbestanden geleverd worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        351.01,
+        284.0,
+        363.01
+      ],
+      "text": "< > < >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        383.01,
+        247.54,
+        397.01
+      ],
+      "text": "5 Aanleveren vraagbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        158.0,
+        385.01,
+        170.0,
+        397.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        406.01,
+        396.79,
+        419.01
+      ],
+      "text": "(zie IA onder hoofdstuk Gevraagde levering paragraaf Populatiebepaling)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        268.0,
+        411.01,
+        269.0,
+        419.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.0,
+        428.01,
+        166.08,
+        441.01
+      ],
+      "text": "Geen vraagbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        429.01,
+        178.0,
+        441.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        94.0,
+        438.01,
+        322.64,
+        451.01
+      ],
+      "text": "deze levering sprake vraagbestand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        439.01,
+        162.0,
+        452.01
+      ],
+      "text": "Voor is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        168.0,
+        440.01,
+        255.75,
+        451.01
+      ],
+      "text": "geen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        461.01,
+        101.0,
+        473.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        78.0,
+        461.01,
+        90.0,
+        474.01
+      ],
+      "text": "PLM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        471.01,
+        514.44,
+        484.01
+      ],
+      "text": "vraagbestand wordt door Afnemer dagen/uren/ de geplande levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        472.01,
+        380.2,
+        485.01
+      ],
+      "text": "Het etc.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        262.0,
+        473.01,
+        416.8,
+        484.01
+      ],
+      "text": "nn voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        248.0,
+        473.01,
+        395.0,
+        485.01
+      ],
+      "text": "< < > > < < > >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        482.01,
+        447.36,
+        495.01
+      ],
+      "text": "geplaatst het portaal Mijn Gegevensdiensten. Elk kwartier worden de aangeboden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        115.0,
+        484.01,
+        120.33,
+        495.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        493.01,
+        486.33,
+        506.01
+      ],
+      "text": "vraagbestanden gecontroleerd. Na de controle wordt verwerkingsverslag de controle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        313.0,
+        495.01,
+        501.33,
+        506.01
+      ],
+      "text": "een van op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        504.01,
+        268.27,
+        517.01
+      ],
+      "text": "het portaal Mijn Gegevensdiensten geplaatst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        526.01,
+        498.2,
+        539.01
+      ],
+      "text": "Wanneer fouten zijn geconstateerd wordt het hele vraagbestand afgekeurd daarmee niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        114.0,
+        528.01,
+        435.33,
+        539.01
+      ],
+      "text": "er en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        241.0,
+        532.01,
+        242.0,
+        540.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        537.01,
+        489.8,
+        550.01
+      ],
+      "text": "verwerkt. Na herstel de fouten moet het vraagbestand opnieuw geplaatst worden Mijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        166.0,
+        539.01,
+        468.33,
+        550.01
+      ],
+      "text": "van op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        548.01,
+        380.87,
+        561.01
+      ],
+      "text": "Gegevensdiensten wordt het vraagbestand opnieuw gecontroleerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        156.0,
+        550.01,
+        161.33,
+        561.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        570.01,
+        417.5,
+        583.01
+      ],
+      "text": "PLM Optie A: Voor repeterende PLM-levering met vraagbestand DEFAULT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        571.01,
+        437.0,
+        583.01
+      ],
+      "text": "< < > >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        379.0,
+        573.01,
+        380.0,
+        583.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        581.01,
+        512.67,
+        594.01
+      ],
+      "text": "Afnemer levert elke periode vraagbestand Als vraagbestand wordt aangeleverd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.0,
+        582.01,
+        360.4,
+        593.01
+      ],
+      "text": "voor een aan. geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        592.01,
+        203.62,
+        605.01
+      ],
+      "text": "dan vindt levering plaats.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        116.0,
+        593.01,
+        130.4,
+        604.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        613.01,
+        504.14,
+        626.01
+      ],
+      "text": "De consequentie het niet tijdig aanleveren het vraagbestand kan zijn dat door de krappe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        148.0,
+        615.01,
+        294.75,
+        626.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        624.01,
+        484.44,
+        637.01
+      ],
+      "text": "productieplanning levering niet of niet tijdig gemaakt kan worden. Wanneer levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        626.01,
+        446.75,
+        637.01
+      ],
+      "text": "een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        635.01,
+        492.44,
+        648.01
+      ],
+      "text": "normaal gesproken betaling plaatsvindt kunnen het verplaatsen de levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        160.0,
+        636.01,
+        178.33,
+        649.01
+      ],
+      "text": "tegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        321.0,
+        637.01,
+        440.75,
+        648.01
+      ],
+      "text": "er voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        278.0,
+        641.01,
+        279.0,
+        649.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        646.01,
+        228.87,
+        659.01
+      ],
+      "text": "kosten in rekening gebracht worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        85.0,
+        668.01,
+        445.77,
+        681.01
+      ],
+      "text": "PLM Optie B: Voor repeterende PLM-levering met vraagbestand UITZONDERING",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        669.01,
+        465.0,
+        681.01
+      ],
+      "text": "< < > >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        376.0,
+        671.01,
+        377.0,
+        681.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        679.01,
+        512.67,
+        692.01
+      ],
+      "text": "Afnemer levert elke periode vraagbestand Als vraagbestand wordt aangeleverd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.0,
+        681.01,
+        360.4,
+        692.01
+      ],
+      "text": "voor een aan. geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        690.01,
+        407.64,
+        703.01
+      ],
+      "text": "dan vindt levering plaats basis het laatst geleverde vraagbestand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        116.0,
+        692.01,
+        247.75,
+        703.01
+      ],
+      "text": "er op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        712.01,
+        504.14,
+        725.01
+      ],
+      "text": "De consequentie het niet tijdig aanleveren het vraagbestand kan zijn dat door de krappe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        148.0,
+        713.01,
+        294.75,
+        724.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        722.01,
+        241.0,
+        735.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        723.01,
+        487.44,
+        736.01
+      ],
+      "text": "productie planning levering niet niet tijdig gemaakt kan worden. Wanneer levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        157.0,
+        724.01,
+        449.75,
+        735.01
+      ],
+      "text": "een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        733.01,
+        492.44,
+        746.01
+      ],
+      "text": "normaal gesproken betaling plaatsvindt kunnen het verplaatsen de levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        160.0,
+        734.01,
+        178.33,
+        747.01
+      ],
+      "text": "tegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        321.0,
+        735.01,
+        440.75,
+        746.01
+      ],
+      "text": "er voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        278.0,
+        739.01,
+        279.0,
+        747.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        744.01,
+        228.87,
+        757.01
+      ],
+      "text": "kosten rekening gebracht worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        103.0,
+        745.01,
+        107.0,
+        758.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        463.0,
+        785.01,
+        519.5,
+        797.01
+      ],
+      "text": "Pagina 3 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        501.0,
+        786.01,
+        510.0,
+        797.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        420.0,
+        36.01,
+        549.8,
+        49.01
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        420.0,
+        49.01,
+        554.85,
+        62.01
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        420.0,
+        62.01,
+        494.67,
+        75.01
+      ],
+      "text": "contractnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.0,
+        141.01,
+        113.56,
+        154.01
+      ],
+      "text": "niet-PLM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        142.01,
+        125.0,
+        154.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        163.01,
+        490.89,
+        176.01
+      ],
+      "text": "Het vraagbestand wordt door Afnemer aantal dagen/uren/ etc. de geplande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        420.0,
+        164.01,
+        432.8,
+        175.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        248.0,
+        164.01,
+        412.0,
+        176.01
+      ],
+      "text": "< < > > < < > >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        174.01,
+        212.67,
+        187.01
+      ],
+      "text": "levering geplaatst Kies item.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        176.0,
+        175.01,
+        185.75,
+        186.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        168.0,
+        195.01,
+        504.14,
+        208.01
+      ],
+      "text": "het tijdig aanleveren het vraagbestand kan dat door de krappe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        196.01,
+        417.4,
+        209.01
+      ],
+      "text": "De consequentie niet zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        148.0,
+        197.01,
+        294.75,
+        208.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        206.01,
+        484.44,
+        219.01
+      ],
+      "text": "productieplanning levering of tijdig gemaakt kan worden. levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        213.0,
+        207.01,
+        424.5,
+        220.01
+      ],
+      "text": "niet niet Wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        154.0,
+        208.01,
+        446.75,
+        219.01
+      ],
+      "text": "een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        217.01,
+        492.44,
+        230.01
+      ],
+      "text": "normaal gesproken betaling plaatsvindt kunnen het verplaatsen de levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        160.0,
+        218.01,
+        178.33,
+        231.01
+      ],
+      "text": "tegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        321.0,
+        219.01,
+        440.75,
+        230.01
+      ],
+      "text": "er voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        278.0,
+        223.01,
+        279.0,
+        231.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        228.01,
+        228.87,
+        241.01
+      ],
+      "text": "kosten in rekening gebracht worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        261.01,
+        288.09,
+        275.01
+      ],
+      "text": "6 Gewenst levermoment frequentie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        222.0,
+        263.01,
+        228.67,
+        275.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        284.01,
+        442.15,
+        297.01
+      ],
+      "text": "(zie IA onder hoofdstuk Distributie paragraaf Gewenst levermoment frequentie).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        382.0,
+        286.01,
+        387.33,
+        297.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.0,
+        306.01,
+        221.89,
+        319.01
+      ],
+      "text": "Optie A: Repeterende levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        307.01,
+        233.0,
+        319.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        317.01,
+        247.83,
+        330.01
+      ],
+      "text": "De eerste levering is gepland datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        220.0,
+        318.01,
+        258.0,
+        330.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        205.0,
+        319.01,
+        210.33,
+        330.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        328.01,
+        313.1,
+        341.01
+      ],
+      "text": "De eerste levering wordt spoedig mogelijk geleverd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        185.0,
+        330.01,
+        190.33,
+        341.01
+      ],
+      "text": "zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        350.01,
+        344.1,
+        363.01
+      ],
+      "text": "Vervolgens wordt de elke frequentie geleverd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        181.0,
+        351.01,
+        301.0,
+        363.01
+      ],
+      "text": "< > < >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        152.0,
+        352.01,
+        213.75,
+        363.01
+      ],
+      "text": "op x van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.0,
+        372.01,
+        209.89,
+        385.01
+      ],
+      "text": "Optie B: Eenmalige levering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        373.01,
+        220.0,
+        385.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        383.01,
+        466.57,
+        396.01
+      ],
+      "text": "Deze gegevenslevering wordt eenmalig verstrekt staat gepland datum/moment.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        295.0,
+        384.01,
+        379.33,
+        395.01
+      ],
+      "text": "en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        388.0,
+        384.01,
+        468.0,
+        396.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        394.01,
+        282.1,
+        407.01
+      ],
+      "text": "De levering wordt spoedig mogelijk geleverd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        154.0,
+        395.01,
+        159.33,
+        406.01
+      ],
+      "text": "zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.0,
+        415.01,
+        166.45,
+        428.01
+      ],
+      "text": "Optie Verlenging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        416.01,
+        223.0,
+        428.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        416.01,
+        212.78,
+        429.01
+      ],
+      "text": "C: contract",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.0,
+        426.01,
+        329.58,
+        439.01
+      ],
+      "text": "levering vindt plaats de elke frequentie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        427.01,
+        76.0,
+        440.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        181.0,
+        428.01,
+        242.75,
+        439.01
+      ],
+      "text": "op x van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        209.0,
+        428.01,
+        329.0,
+        440.01
+      ],
+      "text": "< > < >",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        78.0,
+        448.01,
+        91.5,
+        461.01
+      ],
+      "text": "CWS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        449.01,
+        103.0,
+        461.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        459.01,
+        317.93,
+        472.01
+      ],
+      "text": "De ingangsdatum de aansluiting is datum/moment",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        153.0,
+        461.01,
+        162.75,
+        472.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        249.0,
+        461.01,
+        329.0,
+        473.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        338.0,
+        465.01,
+        339.0,
+        473.01
+      ],
+      "text": ".",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        492.01,
+        177.89,
+        506.01
+      ],
+      "text": "Distributiekanaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        493.01,
+        72.0,
+        507.01
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        516.01,
+        352.65,
+        529.01
+      ],
+      "text": "(zie onder hoofdstuk Distributie paragraaf Transportkanaal)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        90.0,
+        517.01,
+        101.67,
+        530.01
+      ],
+      "text": "I. A.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.0,
+        538.01,
+        135.5,
+        551.01
+      ],
+      "text": "Optie A: MGD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        539.01,
+        147.0,
+        551.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        549.01,
+        500.2,
+        562.01
+      ],
+      "text": "Het bestand wordt door UWV Gegevensdiensten het portaal Mijn Gegevensdiensten geplaatst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        291.0,
+        551.01,
+        296.33,
+        562.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        560.01,
+        447.75,
+        573.01
+      ],
+      "text": "onder het deze GLA. Afnemer notificatie UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        117.0,
+        561.01,
+        337.89,
+        574.01
+      ],
+      "text": "contractnummer ontvangt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        195.0,
+        562.01,
+        424.75,
+        573.01
+      ],
+      "text": "van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        571.01,
+        469.33,
+        584.01
+      ],
+      "text": "Gegevensdiensten mail als de beschikbaar zijn gesteld. De notificatie wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        156.0,
+        573.01,
+        260.67,
+        584.01
+      ],
+      "text": "per gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        582.01,
+        501.5,
+        595.01
+      ],
+      "text": "automatisch verstuurd de contactpersoon die door Afnemer dit contract het portaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        175.0,
+        584.01,
+        450.33,
+        595.01
+      ],
+      "text": "naar voor op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        593.01,
+        245.87,
+        606.01
+      ],
+      "text": "Mijn Gegevensdiensten is geautoriseerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.0,
+        614.01,
+        97.17,
+        627.01
+      ],
+      "text": "Optie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        615.01,
+        144.0,
+        627.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        108.0,
+        615.01,
+        134.0,
+        628.01
+      ],
+      "text": "B: A2A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        625.01,
+        493.17,
+        638.01
+      ],
+      "text": "bestand wordt door Gegevensdiensten geleverd applicatie applicatie (A2A)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        626.01,
+        420.0,
+        639.01
+      ],
+      "text": "Het UWV via to",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        350.0,
+        627.01,
+        359.75,
+        638.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        636.01,
+        464.33,
+        649.01
+      ],
+      "text": "koppeling. Afnemer notificatie Gegevensdiensten mail als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.0,
+        637.01,
+        304.75,
+        650.01
+      ],
+      "text": "ontvangt UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        205.0,
+        638.01,
+        507.67,
+        649.01
+      ],
+      "text": "een van per gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        647.01,
+        501.25,
+        660.01
+      ],
+      "text": "beschikbaar zijn gesteld. De notificatie wordt automatisch verstuurd de die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        420.0,
+        648.01,
+        480.67,
+        661.01
+      ],
+      "text": "contactpersoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        383.0,
+        649.01,
+        396.6,
+        660.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        658.01,
+        281.87,
+        671.01
+      ],
+      "text": "door Afnemer dit is geautoriseerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        173.0,
+        659.01,
+        202.33,
+        672.01
+      ],
+      "text": "contract",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        135.0,
+        660.01,
+        147.8,
+        671.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        78.0,
+        680.01,
+        91.5,
+        693.01
+      ],
+      "text": "CWS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        681.01,
+        103.0,
+        693.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        691.01,
+        506.0,
+        704.01
+      ],
+      "text": "De worden via webservice beschikbaar gesteld. Om webservice gebruik te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.0,
+        693.01,
+        401.75,
+        704.01
+      ],
+      "text": "gegevens een van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        702.01,
+        309.57,
+        715.01
+      ],
+      "text": "kunnen maken zijn account wachtwoord nodig.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        160.0,
+        704.01,
+        223.33,
+        715.01
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        724.01,
+        387.41,
+        737.01
+      ],
+      "text": "Om de webservice te gebruiken zijn de volgende accounts aangemaakt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.0,
+        747.01,
+        276.52,
+        760.01
+      ],
+      "text": "SA_APPLICATIE AFKORTING*_PPLS_CWS-LA_A",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.0,
+        758.01,
+        275.56,
+        771.01
+      ],
+      "text": "SA_APPLICATIE AFKORTING*_PPLS_CWS-LA_P",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        463.0,
+        785.01,
+        519.5,
+        797.01
+      ],
+      "text": "Pagina 4 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        501.0,
+        786.01,
+        510.0,
+        797.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        420.0,
+        37.01,
+        548.85,
+        49.01
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        421.0,
+        49.01,
+        464.2,
+        59.01
+      ],
+      "text": "behorende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        493.0,
+        49.01,
+        554.85,
+        60.01
+      ],
+      "text": "overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        478.0,
+        49.01,
+        484.75,
+        61.01
+      ],
+      "text": "bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        152.01,
+        72.0,
+        160.01
+      ],
+      "text": "*",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        212.0,
+        152.01,
+        418.67,
+        162.01
+      ],
+      "text": "Afnemer veelal de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        95.0,
+        152.01,
+        460.4,
+        164.01
+      ],
+      "text": "applicatieafkorting afgesproken gelijk afkorting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        80.0,
+        153.01,
+        499.0,
+        163.01
+      ],
+      "text": "De is met is uit UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        313.0,
+        154.01,
+        404.0,
+        162.01
+      ],
+      "text": "en aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.0,
+        163.01,
+        514.0,
+        173.01
+      ],
+      "text": "Voorbeeld: ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        163.01,
+        467.4,
+        175.01
+      ],
+      "text": "Confipedia. afgesproken applicatie afkorting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        173.0,
+        163.01,
+        301.94,
+        176.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        315.0,
+        164.01,
+        494.2,
+        174.01
+      ],
+      "text": "De moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        140.0,
+        174.01,
+        281.6,
+        184.01
+      ],
+      "text": "het identificatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        174.01,
+        206.0,
+        186.01
+      ],
+      "text": "terugkomen vraagbericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.0,
+        175.01,
+        224.5,
+        185.01
+      ],
+      "text": "in ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        196.01,
+        507.17,
+        206.01
+      ],
+      "text": "Het wachtwoord wordt rechtstreeks Afnemer beschikbaar door de leverancier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        354.0,
+        196.01,
+        378.5,
+        208.01
+      ],
+      "text": "gesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        427.0,
+        197.01,
+        453.25,
+        207.01
+      ],
+      "text": "externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        235.0,
+        198.01,
+        244.0,
+        206.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        207.01,
+        489.8,
+        217.01
+      ],
+      "text": "die de UWV-infrastructuur beheert. Het wachtwoordbeheer is IBM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        341.0,
+        207.01,
+        507.75,
+        219.01
+      ],
+      "text": "(non-expiring) geregeld bij Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        218.01,
+        371.0,
+        228.01
+      ],
+      "text": "de aanmaak het wordt het wachtwoord door de TAB-er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        382.0,
+        218.01,
+        419.27,
+        230.01
+      ],
+      "text": "(technisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        167.0,
+        219.01,
+        194.12,
+        229.01
+      ],
+      "text": "account",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.0,
+        220.01,
+        138.0,
+        228.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        187.0,
+        229.01,
+        512.0,
+        239.01
+      ],
+      "text": "IBM TAB-er IBM de afnemer. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        229.01,
+        436.0,
+        241.01
+      ],
+      "text": "applicatiebeheerder) Gegevensdiensten geleverd bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        167.0,
+        231.01,
+        398.0,
+        239.01
+      ],
+      "text": "van aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        240.01,
+        376.12,
+        250.01
+      ],
+      "text": "wachtwoord zal IBM in ‘wachtwoordkluis’ worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        144.0,
+        240.01,
+        150.0,
+        252.01
+      ],
+      "text": "bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        190.0,
+        242.01,
+        199.0,
+        250.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        293.0,
+        242.01,
+        335.3,
+        252.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        157.0,
+        251.01,
+        505.0,
+        261.01
+      ],
+      "text": "wordt hier buiten later is dit wachtwoord dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        251.01,
+        403.89,
+        263.01
+      ],
+      "text": "Gegevensdiensten geheel gelaten tijdstip",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        307.0,
+        253.01,
+        345.0,
+        261.01
+      ],
+      "text": "en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        321.0,
+        253.01,
+        326.33,
+        263.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        262.01,
+        324.8,
+        272.01
+      ],
+      "text": "ook niet te IBM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        111.0,
+        262.01,
+        304.0,
+        274.01
+      ],
+      "text": "bij Gegevensdiensten bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        272.0,
+        264.01,
+        287.2,
+        272.01
+      ],
+      "text": "maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        211.0,
+        264.01,
+        259.29,
+        274.01
+      ],
+      "text": "op vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        284.01,
+        495.25,
+        294.01
+      ],
+      "text": "N. B. : Het is dit wachtwoord te bewaren. De externe leverancier verstrekt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.0,
+        284.01,
+        267.6,
+        296.01
+      ],
+      "text": "belangrijk goed",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        155.0,
+        294.01,
+        190.56,
+        305.01
+      ],
+      "text": "éénmaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        295.01,
+        115.55,
+        305.01
+      ],
+      "text": "wachtwoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.0,
+        297.01,
+        144.2,
+        305.01
+      ],
+      "text": "maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        181.0,
+        317.01,
+        228.67,
+        328.01
+      ],
+      "text": "Performance",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        77.0,
+        333.01,
+        120.08,
+        348.01
+      ],
+      "text": "Responstijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        206.0,
+        334.01,
+        284.9,
+        344.01
+      ],
+      "text": "binnen seconden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        181.0,
+        335.01,
+        240.5,
+        345.01
+      ],
+      "text": "95% 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        77.0,
+        357.01,
+        140.75,
+        367.01
+      ],
+      "text": "Beschikbaarheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        181.0,
+        357.01,
+        193.8,
+        369.01
+      ],
+      "text": "24/7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        378.01,
+        104.0,
+        393.01
+      ],
+      "text": "Support",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        181.0,
+        379.01,
+        291.83,
+        389.01
+      ],
+      "text": "Alleen kantooruren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        211.0,
+        379.01,
+        234.62,
+        391.01
+      ],
+      "text": "tijdens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.0,
+        412.01,
+        347.85,
+        422.01
+      ],
+      "text": "onderstaande tabel het verwachte aantal bevragingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        413.01,
+        189.83,
+        423.01
+      ],
+      "text": "In staat",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        69.0,
+        413.03,
+        372.36,
+        441.03
+      ],
+      "text": "zie LA. onder hoofdstuk Distributie paragraaf Omvang en belasting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        360.0,
+        446.01,
+        369.0,
+        456.01
+      ],
+      "text": "Per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        182.0,
+        446.01,
+        206.0,
+        457.01
+      ],
+      "text": "Aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        77.0,
+        446.01,
+        432.54,
+        459.01
+      ],
+      "text": "Bevragingen tijdseenheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        456.01,
+        114.7,
+        471.01
+      ],
+      "text": "Gemiddeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        360.0,
+        457.01,
+        369.0,
+        470.01
+      ],
+      "text": "dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        77.0,
+        467.01,
+        108.11,
+        482.01
+      ],
+      "text": "Minimaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        360.0,
+        469.01,
+        369.0,
+        482.01
+      ],
+      "text": "dag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        77.0,
+        479.02,
+        110.78,
+        495.02
+      ],
+      "text": "Maximaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        360.0,
+        480.01,
+        369.0,
+        493.01
+      ],
+      "text": "dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        77.0,
+        490.01,
+        127.14,
+        505.01
+      ],
+      "text": "Piekbelasting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        360.0,
+        494.01,
+        369.0,
+        502.01
+      ],
+      "text": "uur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        525.01,
+        73.0,
+        536.01
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.0,
+        525.01,
+        178.89,
+        538.01
+      ],
+      "text": "Veiligheidsklasse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        362.0,
+        544.02,
+        467.5,
+        561.02
+      ],
+      "text": "Kies een item. < < -kies >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        548.01,
+        276.75,
+        558.01
+      ],
+      "text": "De verstrekte als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        182.0,
+        548.01,
+        353.05,
+        560.01
+      ],
+      "text": "zijn geclassificeerd veiligheidsklasse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        135.0,
+        550.01,
+        169.67,
+        560.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.0,
+        581.01,
+        205.83,
+        594.01
+      ],
+      "text": "_Zichtbaarheidstermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        582.01,
+        72.5,
+        593.01
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        184.0,
+        604.01,
+        404.25,
+        614.01
+      ],
+      "text": "tot drie maanden beschikbaar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        604.01,
+        460.2,
+        616.01
+      ],
+      "text": "Gegevensbestanden zijn plaatsing portaal Mijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        266.0,
+        606.01,
+        270.67,
+        614.01
+      ],
+      "text": "na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        381.0,
+        606.01,
+        386.33,
+        616.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        302.0,
+        615.01,
+        493.6,
+        625.01
+      ],
+      "text": "de bestanden beschikbaar tot de einddatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        615.01,
+        292.6,
+        627.01
+      ],
+      "text": "Gegevensdiensten. Bij eenmalige levering zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        175.0,
+        617.01,
+        514.0,
+        625.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        626.01,
+        448.25,
+        636.01
+      ],
+      "text": "de GLA. Tot die kan Afnemer de bestanden vaak als downloaden het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        143.0,
+        626.01,
+        484.67,
+        638.01
+      ],
+      "text": "tijd nodig portaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        287.0,
+        628.01,
+        291.67,
+        636.01
+      ],
+      "text": "zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        426.0,
+        628.01,
+        430.67,
+        638.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        659.01,
+        77.0,
+        670.01
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.0,
+        659.01,
+        162.57,
+        672.01
+      ],
+      "text": "Bewaartermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        182.0,
+        681.01,
+        467.2,
+        691.01
+      ],
+      "text": "bewaart de conform de voorschriften.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        95.0,
+        681.01,
+        402.45,
+        693.01
+      ],
+      "text": "Gegevensdiensten levering vijf wettelijke",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        71.0,
+        682.01,
+        83.0,
+        692.01
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        291.0,
+        682.01,
+        303.0,
+        694.01
+      ],
+      "text": "jaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        715.01,
+        77.0,
+        726.01
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.0,
+        715.01,
+        206.5,
+        728.01
+      ],
+      "text": "Beveiliging Privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        158.0,
+        717.01,
+        164.0,
+        728.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        302.0,
+        737.01,
+        458.5,
+        747.01
+      ],
+      "text": "vinden de Voorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        737.01,
+        396.55,
+        749.01
+      ],
+      "text": "Afspraken beveiliging Algemene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        290.0,
+        738.01,
+        504.0,
+        748.01
+      ],
+      "text": "te in UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        208.0,
+        738.01,
+        279.67,
+        750.01
+      ],
+      "text": "privacy zijn terug",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        119.0,
+        739.01,
+        481.0,
+        747.01
+      ],
+      "text": "over en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        172.0,
+        748.01,
+        399.5,
+        758.01
+      ],
+      "text": "indien de Voorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        748.01,
+        337.55,
+        760.01
+      ],
+      "text": "Gegevensdiensten of , Algemene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        277.0,
+        749.01,
+        445.0,
+        759.01
+      ],
+      "text": "in UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        222.0,
+        749.01,
+        266.5,
+        761.01
+      ],
+      "text": "toepassing ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.0,
+        750.01,
+        422.0,
+        758.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        493.0,
+        786.01,
+        520.5,
+        795.01
+      ],
+      "text": "5 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        463.0,
+        786.01,
+        482.71,
+        797.01
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        501.0,
+        787.01,
+        509.25,
+        795.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        420.0,
+        37.01,
+        548.85,
+        49.01
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        421.0,
+        49.01,
+        554.85,
+        60.01
+      ],
+      "text": "behorende overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        478.0,
+        49.01,
+        484.75,
+        61.01
+      ],
+      "text": "bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        380.0,
+        141.01,
+        485.75,
+        151.01
+      ],
+      "text": "Voorwaarden worden als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        141.01,
+        366.67,
+        153.01
+      ],
+      "text": "Gegevensdiensten Eenmalige Gegevenslevering. Algemene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        317.0,
+        142.01,
+        322.33,
+        152.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        157.0,
+        143.01,
+        169.8,
+        151.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        118.0,
+        152.01,
+        347.25,
+        162.01
+      ],
+      "text": "de overeenkomst www. uwv. nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        152.01,
+        230.22,
+        164.01
+      ],
+      "text": "bijlage bij geleverd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        256.0,
+        153.01,
+        272.67,
+        163.01
+      ],
+      "text": "staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        242.0,
+        154.01,
+        246.67,
+        162.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        284.0,
+        154.01,
+        289.33,
+        164.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        186.01,
+        77.0,
+        197.01
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.0,
+        186.01,
+        116.86,
+        199.01
+      ],
+      "text": "Tarief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        148.0,
+        219.01,
+        402.67,
+        229.01
+      ],
+      "text": "Afnemer kosten de de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        96.0,
+        219.01,
+        479.2,
+        231.01
+      ],
+      "text": "brengt rekening levering overeengekomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        220.01,
+        251.33,
+        230.01
+      ],
+      "text": "UWV in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.0,
+        221.01,
+        387.0,
+        229.01
+      ],
+      "text": "aan voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        189.0,
+        221.01,
+        202.6,
+        231.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        232.01,
+        105.67,
+        242.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        263.01,
+        332.33,
+        273.01
+      ],
+      "text": "Voor deze worden de kosten in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        119.0,
+        263.01,
+        417.2,
+        275.01
+      ],
+      "text": "gegevenslevering volgende rekening gebracht:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        176.0,
+        317.01,
+        218.35,
+        330.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        177.0,
+        328.01,
+        213.7,
+        341.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        351.01,
+        242.4,
+        361.01
+      ],
+      "text": "Deze exclusief 21% BTW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        96.0,
+        351.01,
+        151.6,
+        363.01
+      ],
+      "text": "bedragen zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.0,
+        372.01,
+        443.54,
+        382.01
+      ],
+      "text": "worden bekend conform de Voorwaarden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        183.0,
+        372.01,
+        377.55,
+        384.01
+      ],
+      "text": "tijdig gemaakt Algemene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        373.01,
+        135.44,
+        383.01
+      ],
+      "text": "Nieuwe tarieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        406.01,
+        77.0,
+        417.01
+      ],
+      "text": "13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.0,
+        406.01,
+        188.63,
+        419.01
+      ],
+      "text": "Productwijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        428.01,
+        495.8,
+        438.01
+      ],
+      "text": "Afnemer dient houden collectieve het door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        138.0,
+        428.01,
+        471.07,
+        440.01
+      ],
+      "text": "rekening product , bijvoorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        180.0,
+        429.01,
+        357.33,
+        439.01
+      ],
+      "text": "te met in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        300.0,
+        429.01,
+        342.17,
+        441.01
+      ],
+      "text": "wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        291.0,
+        439.01,
+        483.25,
+        449.01
+      ],
+      "text": "de het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        149.0,
+        439.01,
+        397.5,
+        451.01
+      ],
+      "text": "bronwijzigingen , gegevenshuishouding ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        280.0,
+        440.01,
+        467.33,
+        450.01
+      ],
+      "text": "in in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        440.01,
+        452.17,
+        452.01
+      ],
+      "text": "wetswijzigingen , wijzigingen wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        450.01,
+        364.08,
+        460.01
+      ],
+      "text": "collectief UWV innovatieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        113.0,
+        450.01,
+        424.0,
+        462.01
+      ],
+      "text": "gegevensmodel Gegevensdiensten , ontwikkeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        436.0,
+        451.01,
+        446.4,
+        461.01
+      ],
+      "text": "etc.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        187.0,
+        452.01,
+        196.0,
+        460.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        472.01,
+        424.25,
+        482.01
+      ],
+      "text": "UWV Afnemer indien het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        95.0,
+        472.01,
+        380.0,
+        484.01
+      ],
+      "text": "Gegevensdiensten overleggen toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        433.0,
+        473.01,
+        460.43,
+        483.01
+      ],
+      "text": "moment",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        181.0,
+        474.01,
+        404.8,
+        482.01
+      ],
+      "text": "en van over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        474.0,
+        474.01,
+        498.86,
+        484.01
+      ],
+      "text": "waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        483.01,
+        425.2,
+        493.01
+      ],
+      "text": "Afnemer nieuwe versie het Afnemer snel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        292.0,
+        483.01,
+        469.0,
+        495.01
+      ],
+      "text": "product. mogelijk ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        374.0,
+        484.01,
+        389.2,
+        494.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        112.0,
+        484.01,
+        144.0,
+        496.01
+      ],
+      "text": "overgaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        169.0,
+        485.01,
+        495.2,
+        493.01
+      ],
+      "text": "een van zo maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        155.0,
+        485.01,
+        159.67,
+        495.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        250.0,
+        494.01,
+        288.14,
+        504.01
+      ],
+      "text": "de nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        108.0,
+        494.01,
+        117.0,
+        505.01
+      ],
+      "text": "één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        494.01,
+        323.0,
+        506.01
+      ],
+      "text": "uiterlijk jaar implementatie versie ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        333.0,
+        495.01,
+        382.85,
+        507.01
+      ],
+      "text": "overstappen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        149.0,
+        496.01,
+        240.0,
+        504.01
+      ],
+      "text": "na van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        516.01,
+        336.25,
+        526.01
+      ],
+      "text": "Afnemer kan indienen via het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        151.0,
+        516.01,
+        430.55,
+        528.01
+      ],
+      "text": "digitaal wijzigingsverzoek e-aanvraagformulier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        132.0,
+        518.01,
+        141.0,
+        526.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        238.0,
+        527.01,
+        306.2,
+        537.01
+      ],
+      "text": "het MGD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        527.01,
+        279.62,
+        539.01
+      ],
+      "text": "Gegevensleveringsverzoek (GLV) portaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        224.0,
+        529.01,
+        228.67,
+        539.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        560.01,
+        77.0,
+        571.01
+      ],
+      "text": "14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.0,
+        560.01,
+        208.36,
+        573.01
+      ],
+      "text": "Klachten geschillen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        144.0,
+        562.01,
+        150.0,
+        573.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        583.01,
+        441.0,
+        593.01
+      ],
+      "text": "Klachten of betreffende de hiervan worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        125.0,
+        583.01,
+        470.29,
+        595.01
+      ],
+      "text": "geschillen leveringen totstandkoming altijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        278.0,
+        585.01,
+        282.67,
+        593.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        211.0,
+        594.01,
+        501.0,
+        604.01
+      ],
+      "text": "Eerste is het team Leveren & bereikbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        594.01,
+        450.0,
+        606.01
+      ],
+      "text": "schriftelijk (e-mail) ingediend. aanspreekpunt Services ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        272.0,
+        604.01,
+        491.25,
+        614.01
+      ],
+      "text": "wordt de de klacht of het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        87.0,
+        604.01,
+        396.0,
+        616.01
+      ],
+      "text": "g egevensdiens ten @uwv.nl. hoogte gebracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        605.01,
+        219.33,
+        615.01
+      ],
+      "text": "via De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        407.0,
+        606.01,
+        416.0,
+        614.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        229.0,
+        606.01,
+        305.67,
+        616.01
+      ],
+      "text": "manager op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        108.0,
+        615.01,
+        490.67,
+        625.01
+      ],
+      "text": "Wanneer niet kunnen vindt escalatie de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        615.01,
+        452.71,
+        627.01
+      ],
+      "text": "geschil. partijen oplossing komen , plaats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        210.0,
+        616.01,
+        217.5,
+        626.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        226.0,
+        617.01,
+        475.8,
+        625.01
+      ],
+      "text": "een naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        626.01,
+        196.0,
+        636.01
+      ],
+      "text": "directeur UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        115.0,
+        626.01,
+        284.5,
+        638.01
+      ],
+      "text": "Uitvoering Gegevensdiensten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        164.0,
+        628.01,
+        173.0,
+        636.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        139.0,
+        659.01,
+        199.93,
+        672.01
+      ],
+      "text": "verstoringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        660.01,
+        77.0,
+        671.01
+      ],
+      "text": "15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        214.0,
+        660.01,
+        257.5,
+        672.01
+      ],
+      "text": "& contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.0,
+        660.01,
+        127.0,
+        673.01
+      ],
+      "text": "Vragen ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        140.0,
+        682.01,
+        496.0,
+        692.01
+      ],
+      "text": "informeren bekend is dat de niet kan Is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        217.0,
+        682.01,
+        233.67,
+        693.01
+      ],
+      "text": "zodra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        682.01,
+        480.07,
+        694.01
+      ],
+      "text": "Op werkdagen wij levering tijdig plaatsvinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        208.0,
+        684.01,
+        508.0,
+        692.01
+      ],
+      "text": "u er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        125.0,
+        693.01,
+        404.67,
+        703.01
+      ],
+      "text": "in het weekend of dan informeren de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        693.01,
+        513.89,
+        705.01
+      ],
+      "text": "storing feestdag , wij eerstvolgende werkdag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        695.01,
+        378.0,
+        703.01
+      ],
+      "text": "een een u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        209.0,
+        695.01,
+        390.33,
+        705.01
+      ],
+      "text": "op op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        704.01,
+        491.7,
+        714.01
+      ],
+      "text": "Ook worden de de Servicedesk IV. Problemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.0,
+        704.01,
+        331.69,
+        716.01
+      ],
+      "text": "verstoringen nieuwspagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        345.0,
+        706.01,
+        507.67,
+        714.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        188.0,
+        706.01,
+        256.67,
+        716.01
+      ],
+      "text": "weergegeven op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        715.01,
+        160.33,
+        725.01
+      ],
+      "text": "incidenten worden in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        168.0,
+        715.01,
+        237.4,
+        727.01
+      ],
+      "text": "overleg opgelost.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.0,
+        737.01,
+        89.5,
+        747.01
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.0,
+        737.01,
+        354.85,
+        749.01
+      ],
+      "text": "Gegevensdiensten Aanspreekpunt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.0,
+        749.01,
+        407.78,
+        759.01
+      ],
+      "text": "Contacten Leveren & Services",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        289.0,
+        749.01,
+        308.17,
+        760.01
+      ],
+      "text": "Loket",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        130.0,
+        751.01,
+        172.0,
+        760.01
+      ],
+      "text": "over o. a. :",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        84.0,
+        760.01,
+        103.17,
+        770.01
+      ],
+      "text": "Nieuw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        114.0,
+        760.01,
+        182.44,
+        773.01
+      ],
+      "text": "gegevensproduct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        195.0,
+        762.01,
+        233.7,
+        773.01
+      ],
+      "text": "aanvragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.0,
+        763.0,
+        77.0,
+        767.0
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        493.0,
+        786.01,
+        520.5,
+        795.01
+      ],
+      "text": "6 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        463.0,
+        786.01,
+        482.71,
+        797.01
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        501.0,
+        787.01,
+        509.25,
+        795.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        420.0,
+        36.01,
+        549.8,
+        49.01
+      ],
+      "text": "Gegevensleveringsafspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        420.0,
+        49.01,
+        554.85,
+        62.01
+      ],
+      "text": "behorende bij overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        420.0,
+        62.01,
+        494.67,
+        75.01
+      ],
+      "text": "contractnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        141.01,
+        426.5,
+        154.01
+      ],
+      "text": "Wijzigingsverzoek Bereikbaarheid: werkdagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        372.0,
+        143.01,
+        448.75,
+        154.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        145.01,
+        77.0,
+        155.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        152.01,
+        347.33,
+        165.01
+      ],
+      "text": "gegevensproduct/gegevenslevering 8. 00 17. 00",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        312.0,
+        153.01,
+        319.5,
+        166.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        357.0,
+        154.01,
+        366.0,
+        165.01
+      ],
+      "text": "uur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        163.01,
+        433.75,
+        176.01
+      ],
+      "text": "Techniek/ berichtenverkeer Email: gegevensdiensten @uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        167.01,
+        77.0,
+        177.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        174.01,
+        442.7,
+        187.01
+      ],
+      "text": "Levering niet tijd Telefoon (Klant Contact Centrum):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        145.0,
+        176.01,
+        150.33,
+        187.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        178.01,
+        77.0,
+        188.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        185.01,
+        356.33,
+        198.01
+      ],
+      "text": "Functionele 088 898 20 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.0,
+        187.01,
+        162.0,
+        198.01
+      ],
+      "text": "vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        189.01,
+        310.0,
+        199.01
+      ],
+      "text": "- -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        196.01,
+        205.33,
+        209.01
+      ],
+      "text": "Inhoudelijke de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        142.0,
+        198.01,
+        248.67,
+        209.01
+      ],
+      "text": "vragen over gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        199.01,
+        77.0,
+        209.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        83.0,
+        207.01,
+        164.9,
+        220.01
+      ],
+      "text": "Kwaliteitsincidenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        210.01,
+        77.0,
+        220.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        241.01,
+        109.25,
+        254.01
+      ],
+      "text": "Afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        252.01,
+        519.67,
+        265.01
+      ],
+      "text": "Contacten Aanspreekpunt E-mail Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        130.0,
+        254.01,
+        145.2,
+        265.01
+      ],
+      "text": "over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        267.01,
+        100.0,
+        280.01
+      ],
+      "text": "Inhoud",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        278.01,
+        197.33,
+        291.01
+      ],
+      "text": "Gegevensleveringsafspraken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        296.01,
+        161.0,
+        309.01
+      ],
+      "text": "Functionele zaken /",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        307.01,
+        117.82,
+        320.01
+      ],
+      "text": "Leveringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.0,
+        343.01,
+        126.36,
+        357.01
+      ],
+      "text": "16Bijlagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.0,
+        366.01,
+        276.46,
+        379.01
+      ],
+      "text": "Als bijlagen bij deze GLA worden meegestuurd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        78.0,
+        377.01,
+        422.5,
+        391.01
+      ],
+      "text": "bijv. gegevensleveringsspecificaties of productbeschrijving artikel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        380.0,
+        378.01,
+        437.67,
+        392.01
+      ],
+      "text": "zie 3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.0,
+        379.01,
+        445.5,
+        391.01
+      ],
+      "text": "< >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        373.0,
+        384.01,
+        374.0,
+        392.01
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        78.0,
+        389.01,
+        493.0,
+        402.01
+      ],
+      "text": "bijv. aansluitprotocol artikel 6 (Extra bij CWS bijlage aansluitprotocol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        179.0,
+        390.01,
+        318.67,
+        403.01
+      ],
+      "text": "zie 7. notitie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        235.0,
+        391.01,
+        357.4,
+        402.01
+      ],
+      "text": "en geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.0,
+        391.01,
+        72.0,
+        403.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        172.0,
+        395.01,
+        390.0,
+        403.01
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.0,
+        400.01,
+        108.7,
+        413.01
+      ],
+      "text": "weghalen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        120.0,
+        402.01,
+        122.0,
+        414.01
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        463.0,
+        785.01,
+        519.5,
+        797.01
+      ],
+      "text": "Pagina 7 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        501.0,
+        786.01,
+        510.0,
+        797.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        90.0,
+        81.02,
+        290.0,
+        97.02
+      ],
+      "text": "Toelichting grondslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        112.01,
+        465.33,
+        122.01
+      ],
+      "text": "In dit document kunt secties vinden die onleesbaar zijn gemaakt. Deze is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        413.0,
+        112.01,
+        453.0,
+        123.01
+      ],
+      "text": "informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        182.0,
+        114.01,
+        185.0,
+        123.01
+      ],
+      "text": "u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        122.01,
+        499.5,
+        132.01
+      ],
+      "text": "achterwege gelaten basis de Wet overheid De letter die hierbij is vermeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        339.0,
+        122.01,
+        364.71,
+        133.01
+      ],
+      "text": "(Woo).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        180.0,
+        124.01,
+        291.4,
+        133.01
+      ],
+      "text": "op van open",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        132.01,
+        408.09,
+        142.01
+      ],
+      "text": "correspondeert de bijbehorende grondslag in onderstaand overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        160.0,
+        133.01,
+        172.75,
+        143.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        93.0,
+        154.01,
+        98.0,
+        166.01
+      ],
+      "text": "G",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        109.0,
+        155.01,
+        202.5,
+        167.01
+      ],
+      "text": "Art. 5. 1 lid 2 sub b",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        170.01,
+        473.71,
+        180.01
+      ],
+      "text": "Het belang de openbaarmaking deze niet het belang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        294.0,
+        170.01,
+        334.0,
+        181.01
+      ],
+      "text": "informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        341.0,
+        171.01,
+        423.83,
+        181.01
+      ],
+      "text": "weegt tegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.0,
+        172.01,
+        492.0,
+        181.01
+      ],
+      "text": "van van op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        180.01,
+        475.56,
+        190.01
+      ],
+      "text": "de economische belangen de andere publiekrechtelijke lichamen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        165.0,
+        180.01,
+        489.0,
+        191.01
+      ],
+      "text": "of financiële Staat of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        265.0,
+        182.01,
+        277.0,
+        191.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        321.0,
+        187.0,
+        322.5,
+        191.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        190.01,
+        160.31,
+        200.01
+      ],
+      "text": "bestuursorganen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        93.0,
+        220.01,
+        199.5,
+        232.01
+      ],
+      "text": "N Art. 5. 1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        235.01,
+        473.71,
+        245.01
+      ],
+      "text": "Het belang de openbaarmaking deze niet het belang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        294.0,
+        235.01,
+        334.0,
+        246.01
+      ],
+      "text": "informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        341.0,
+        236.01,
+        423.83,
+        246.01
+      ],
+      "text": "weegt tegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.0,
+        237.01,
+        492.0,
+        246.01
+      ],
+      "text": "van van op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        245.01,
+        488.31,
+        255.01
+      ],
+      "text": "het goed de andere publiekrechtelijke lichamen bestuursorganen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        131.0,
+        245.01,
+        413.0,
+        256.01
+      ],
+      "text": "functioneren Staat of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        189.0,
+        247.01,
+        201.0,
+        256.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        245.0,
+        252.0,
+        246.5,
+        256.0
+      ],
+      "text": ",",
+      "source": "text"
+    }
+  ]
+}

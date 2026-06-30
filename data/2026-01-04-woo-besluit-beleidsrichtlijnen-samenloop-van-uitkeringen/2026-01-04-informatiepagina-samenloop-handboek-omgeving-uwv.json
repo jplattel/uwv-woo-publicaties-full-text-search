@@ -1,0 +1,3029 @@
+{
+  "source_id": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen/2026-01-04-informatiepagina-samenloop-handboek-omgeving-uwv",
+  "publication_slug": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_slug": "2026-01-04-informatiepagina-samenloop-handboek-omgeving-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/e5be754b-c66b-415f-8a25-45f73ba6e074/informatiepagina-samenloop---handboek-omgeving---uwv.pdf",
+  "publication_title": "Woo-besluit beleidsrichtlijnen samenloop van uitkeringen",
+  "publication_date": "2026-01-04T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Informatiepagina samenloop - Handboek omgeving - UWV (PDF, 362 kB)",
+  "retrieved_at": "2026-06-30T12:08:41+00:00",
+  "sha256": "9a556ec32ed1e8df27ff3785979f1e39143bbbf8e24d1340652c897e3b42d2cf",
+  "page_count": 5,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        429.53,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UD » Samenloop » Informatiepagina samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        185.25,
+        258.18,
+        195.0
+      ],
+      "text": "Doorzoek handboek Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        213.75,
+        776.99,
+        223.5
+      ],
+      "text": "Toon meer velden Wis filters",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        354.0,
+        316.73,
+        379.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        407.25,
+        336.55,
+        428.25
+      ],
+      "text": "Informatiepagina samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        475.5,
+        215.96,
+        486.75
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        515.25,
+        562.36,
+        526.5
+      ],
+      "text": "Wie Uitkeringsdeskundige (UD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        535.5,
+        532.38,
+        546.75
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        555.75,
+        767.61,
+        567.0
+      ],
+      "text": "Samenvatting De informatie over samenloop staat in verschillende werkinstructies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.37,
+        575.25,
+        766.07,
+        586.5
+      ],
+      "text": "en is daardoor niet altijd makkelijk te vinden. Je vindt hier algemene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.37,
+        594.75,
+        566.72,
+        606.0
+      ],
+      "text": "informatie over samenloop.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        615.0,
+        100.28,
+        626.25
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        635.25,
+        103.02,
+        646.5
+      ],
+      "text": "Geen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        666.75,
+        208.09,
+        678.0
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        687.0,
+        140.98,
+        698.25
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        707.25,
+        136.43,
+        718.5
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        727.5,
+        106.31,
+        738.75
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        42.75,
+        180.5,
+        63.75
+      ],
+      "text": "Samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        78.75,
+        708.33,
+        90.0
+      ],
+      "text": "Als UD krijg je regelmatig te maken met een situatie waarin de cliënt recht heeft op verschillende UWV-uitkeringen (samenloop).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        109.5,
+        755.02,
+        120.75
+      ],
+      "text": "Omdat samenloop impact heeft op de hoogte van de uitkering(en) die de cliënt van ons ontvangt, is het belangrijk om samenloop tijdig te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        129.0,
+        550.27,
+        140.25
+      ],
+      "text": "onderkennen, de juiste collega’s te informeren en wijzigingen juist te registreren in de systemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        148.5,
+        761.71,
+        159.75
+      ],
+      "text": "Om je hierbij te ondersteunen, staan in het handboek Processen Uitkeren breed de (werk)instructies Verwerken samenloop van uitkeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        168.0,
+        740.23,
+        179.25
+      ],
+      "text": "binnen Uitkeren en Onderkennen mogelijke samenloop. Hier vind je informatie hoe je samenloop kunt onderkennen in de verschillende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        187.5,
+        701.45,
+        198.75
+      ],
+      "text": "systemen waarover je als UD beschikt. Daarnaast staat er hoe je informatie kunt uitwisselen met een andere afdeling en welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        207.0,
+        268.95,
+        218.25
+      ],
+      "text": "aandachtspunten hierbij belangrijk zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        237.75,
+        705.33,
+        249.0
+      ],
+      "text": "Deze informatiepagina bevat aanvullende informatie over samenloop die niet in het handboek ‘Processen Uitkeren breed’ staat.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        268.5,
+        258.23,
+        289.5
+      ],
+      "text": "Soorten samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        305.25,
+        424.16,
+        316.5
+      ],
+      "text": "Er zijn de volgende soorten samenloop met een andere UWV-uitkering:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        336.0,
+        172.79,
+        347.25
+      ],
+      "text": "Samenloop met ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        366.0,
+        95.61,
+        378.0
+      ],
+      "text": "[1]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        385.5,
+        507.99,
+        396.75
+      ],
+      "text": "Binnen het ZW-systeem kunnen er onder andere de volgende samenloopdossiers zijn:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        412.5,
+        90.82,
+        430.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        416.25,
+        279.37,
+        427.5
+      ],
+      "text": "ZW-uitkering met een zieke werkloze",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        432.0,
+        90.82,
+        450.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        435.75,
+        334.38,
+        447.0
+      ],
+      "text": "ZW-uitkering met een zieke uitzendkracht (UZK)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        451.5,
+        90.82,
+        469.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        455.25,
+        340.0,
+        466.5
+      ],
+      "text": "ZW-uitkering met een zieke ‘einde dienstverband’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        471.0,
+        90.82,
+        489.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        474.75,
+        376.28,
+        486.0
+      ],
+      "text": "ZW-uitkering met een ZW-uitkering (WAZO/ao t.g.v./ZW)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        490.5,
+        90.82,
+        508.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        494.25,
+        317.74,
+        505.5
+      ],
+      "text": "ZW-uitkering met een zieke ‘no-risk’ (wg/wn)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        510.0,
+        90.82,
+        528.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        513.75,
+        324.29,
+        525.0
+      ],
+      "text": "ZW-uitkering met een eigenrisicodrager (ERD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        548.25,
+        758.35,
+        559.5
+      ],
+      "text": "UZS werkt met signalen die je automatisch door het handboek leiden zodat je precies weet wat je moet doen. Van belang is dat je bij het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        567.75,
+        749.88,
+        579.0
+      ],
+      "text": "beoordelen overzicht houdt op de ziekmeldingen (volgnummers), zodat je in 1 keer ziet of de periodes elkaar overlappen of aansluiten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        587.25,
+        754.31,
+        598.5
+      ],
+      "text": "Het probleem is dat je anders dubbel of boven max dagloon betaalt. Dat moet je later alsnog corrigeren. Hier krijg je achteraf lijsten van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        606.75,
+        251.64,
+        618.0
+      ],
+      "text": "waardoor er altijd een correctie is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        642.0,
+        304.22,
+        653.25
+      ],
+      "text": "Samenloop met AW (WIA/WAO/WAZ/Wajong)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        672.75,
+        176.03,
+        684.0
+      ],
+      "text": "Samenloop met WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        702.75,
+        95.61,
+        714.75
+      ],
+      "text": "[3]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        722.25,
+        737.23,
+        733.5
+      ],
+      "text": "Bij het beoordelen van een ZW-uitkering kan er ongemerkt samenloop met een WW-uitkering zijn. Vaak komt dat omdat het systeem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        741.75,
+        717.14,
+        753.0
+      ],
+      "text": "geen signaal geeft dat er ook nog een WW-uitkering loopt. Dit kan tot een dubbele betaling leiden. Je raadpleegt daarom diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        761.25,
+        476.17,
+        772.5
+      ],
+      "text": "systemen om de juiste beslissing te kunnen nemen over wat er moet gebeuren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        792.0,
+        146.59,
+        803.25
+      ],
+      "text": "Voorbeelden",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        819.0,
+        90.82,
+        837.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        822.75,
+        695.46,
+        834.0
+      ],
+      "text": "Je informeert de afdeling WW op tijd over de ZW-uitkering, zodat je onterechte betalingen van de afdeling WW voorkomt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        84.75,
+        838.5,
+        90.82,
+        856.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.5,
+        842.25,
+        731.18,
+        853.5
+      ],
+      "text": "Je kunt de ZW-uitkering met teveel betaalde WW-uitkering verrekenen, zodat de client geen terugvordering van de WW ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        877.5,
+        351.63,
+        888.75
+      ],
+      "text": "Samenloop met IOW, betalingsonmacht of faillissement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        908.25,
+        220.42,
+        919.5
+      ],
+      "text": "Samenloop met toeslag (TW)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        939.0,
+        193.77,
+        950.25
+      ],
+      "text": "Oneigenlijke samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        969.75,
+        566.56,
+        981.0
+      ],
+      "text": "Bijzondere vorm van samenloop: recht bij arbeidsongeschiktheid binnen 5 jaar uit dezelfde oorzaak",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1000.5,
+        265.6,
+        1021.5
+      ],
+      "text": "Gevolgen voor cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1036.5,
+        757.28,
+        1047.75
+      ],
+      "text": "Samenloop heeft gevolgen voor de hoogte van de uitkering die de cliënt van ons ontvangt. Het is daarom belangrijk om op tijd samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1056.0,
+        740.64,
+        1067.25
+      ],
+      "text": "met een andere inkomstenbron vast te stellen en dat op tijd en juist te verwerken. De gevolgen kunnen anders groot zijn voor de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1086.75,
+        762.21,
+        1098.0
+      ],
+      "text": "We betalen een cliënt met meerdere inkomsten en/of uitkeringen op verschillende datums en over verschillende perioden. Dit kan voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1106.25,
+        736.81,
+        1117.5
+      ],
+      "text": "cliënt leiden tot inkomensonzekerheid en financiële problemen. De vaste lasten die een cliënt moet betalen, worden namelijk op vaste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1125.75,
+        185.26,
+        1137.0
+      ],
+      "text": "datums afgeschreven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        30.75,
+        178.05,
+        42.0
+      ],
+      "text": "Denk hierbij ook aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        61.5,
+        190.9,
+        72.75
+      ],
+      "text": "Uitkeringshoogte bruto",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        81.0,
+        761.14,
+        92.25
+      ],
+      "text": "Bij samenloop moet je in de meeste situaties de ene uitkering korten op de andere uitkering. Het is daarom belangrijk om tijdig samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        100.5,
+        747.5,
+        111.75
+      ],
+      "text": "met inkomsten of een andere uitkering vast te stellen, ook al heeft de samenloop geen gevolgen voor de uitkering die jij betaalt. Het kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        120.0,
+        755.51,
+        131.25
+      ],
+      "text": "namelijk wel gevolgen hebben voor de andere UWV-uitkering die de cliënt ontvangt. Samenwerking met een andere wet voorkomt dat een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        139.5,
+        690.15,
+        150.75
+      ],
+      "text": "cliënt een onjuiste uitkering ontvangt en herstelwerkzaamheden voor jou of je collega om de onjuiste uitkering te corrigeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        170.25,
+        240.18,
+        181.5
+      ],
+      "text": "Uitkeringshoogte bruto Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        200.25,
+        95.61,
+        212.25
+      ],
+      "text": "[8]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        219.75,
+        740.88,
+        231.0
+      ],
+      "text": "Samenloop met een andere UWV-uitkering heeft gevolgen voor de hoogte van de bruto ZW-uitkering als het uitkeringsbedrag door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        239.25,
+        697.04,
+        250.5
+      ],
+      "text": "betaling van meerdere uitkeringen hoger is dan het maximale uitkeringsbedrag (zie de werkinstructie Maximeren daglonen).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        270.0,
+        757.41,
+        281.25
+      ],
+      "text": "In andere situaties bij samenloop tussen de Ziektewet en een andere UWV-uitkering zijn de gevolgen voor de cliënt voor de andere UWV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        289.5,
+        736.62,
+        300.75
+      ],
+      "text": "uitkering. Dit komt omdat de andere UWV-uitkering de ZW-uitkering kort. Dit betekent dat als jij de andere afdeling niet informeert, je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        309.0,
+        490.22,
+        320.25
+      ],
+      "text": "collega hierdoor meer tijd aan een dossier kwijt is omdat hij de correcties uitvoert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        339.75,
+        753.75,
+        351.0
+      ],
+      "text": "Bij een oneigenlijke samenloop is het gevolg niet de hoogte van de bruto ZW-uitkering, maar het recht op uitkering. Je verrekent (als dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        359.25,
+        382.21,
+        370.5
+      ],
+      "text": "kan) bij voorkeur altijd de overlappende perioden met elkaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        394.5,
+        134.91,
+        405.75
+      ],
+      "text": "Loonheffing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        414.0,
+        657.44,
+        425.25
+      ],
+      "text": "Als een cliënt meerdere UWV-uitkeringen ontvangt, past UWV de loonheffingskorting toe op de gehele uitkering. Bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        433.5,
+        752.02,
+        444.75
+      ],
+      "text": "bruto-/nettoberekening wordt de loonheffingskorting toegepast op de eerst aangeboden uitkering. Is de loonheffingskorting dan nog niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        453.0,
+        572.71,
+        464.25
+      ],
+      "text": "volledig gebruikt? Dan wordt het restant toegepast op de eerstvolgende uitkering in dezelfde maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        472.5,
+        508.66,
+        483.75
+      ],
+      "text": "Het totaal aan loonheffingskorting wordt toegepast op het totale inkomen van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        503.25,
+        736.34,
+        514.5
+      ],
+      "text": "Bij samenloop van een ZW-uitkering en inkomsten bij een werkgever moet de cliënt zelf kiezen wie de loonheffingskorting toepast. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        522.75,
+        758.67,
+        534.0
+      ],
+      "text": "algemene regel is dat je de loonheffingskorting toepast op het hoogste inkomen. Kan in deze situatie de volledige loonheffingskorting niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        542.25,
+        540.24,
+        553.5
+      ],
+      "text": "toegepast worden? Dan krijgt de cliënt dit verrekend bij de loonaangifte bij de Belastingdienst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        573.0,
+        237.2,
+        584.25
+      ],
+      "text": "Meer informatie over loonheffing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        603.0,
+        95.61,
+        615.0
+      ],
+      "text": "[9]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        622.5,
+        673.38,
+        633.75
+      ],
+      "text": "Meer informatie over loonheffing vind je in hoofdstuk Loonbelasting van de Wetsuitleg fiscale aspecten van betalingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        653.25,
+        187.83,
+        664.5
+      ],
+      "text": "Groene of witte tabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        672.75,
+        586.34,
+        684.0
+      ],
+      "text": "Het onderscheid tussen de groene of witte tabel heeft te maken met het recht op loonheffingskorting:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        84.75,
+        699.75,
+        90.82,
+        717.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.5,
+        703.5,
+        461.2,
+        714.75
+      ],
+      "text": "Als er alleen recht op heffingskorting is, wordt de groene tabel toegepast.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        84.75,
+        719.25,
+        90.82,
+        737.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.5,
+        723.0,
+        436.94,
+        734.25
+      ],
+      "text": "Als er ook recht op arbeidskorting is, wordt de witte tabel toegepast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        757.5,
+        534.34,
+        768.75
+      ],
+      "text": "Het toepassen van de juiste tabel wordt bepaald in UZS en doorgegeven aan VFV/Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        788.25,
+        218.71,
+        799.5
+      ],
+      "text": "Dag-, week- of maandtabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        807.75,
+        727.15,
+        819.0
+      ],
+      "text": "De ZW (en WAZO) kent verschillende toekenningsperioden. Afhankelijk van de toekenningsperiode die de ZW wordt doorgeeft aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        827.25,
+        568.9,
+        838.5
+      ],
+      "text": "Excasso, wordt bij de bruto-/nettoberekening de tabel gebuikt die bij de toekenningsperiode hoort:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        84.75,
+        854.25,
+        90.82,
+        872.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.5,
+        858.0,
+        747.15,
+        869.25
+      ],
+      "text": "De ZW wordt betaald over een periode kleiner dan 1 week: dit is een dagtoekenning. Een dagtoekenning kom je tegen bij de start of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.5,
+        877.5,
+        242.49,
+        888.75
+      ],
+      "text": "bij het einde van de uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        84.75,
+        893.25,
+        90.82,
+        911.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.5,
+        897.0,
+        460.88,
+        908.25
+      ],
+      "text": "De ZW wordt betaald over een volledige week: dit is een weektoekenning.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        84.75,
+        912.75,
+        90.82,
+        930.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.5,
+        916.5,
+        478.03,
+        927.75
+      ],
+      "text": "De ZW wordt betaald over een volledige maand: dit is een maandtoekenning.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        951.0,
+        530.97,
+        962.25
+      ],
+      "text": "Deze systematiek wordt alleen toegepast als de aanvraag de verzekeringsbasis WW heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        981.75,
+        697.28,
+        993.0
+      ],
+      "text": "Bijvoorbeeld: bij het toekennen van een ZW-uitkering over een periode van 23 werkdagen levert UZS 2 dagtoekenningen en 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1001.25,
+        178.93,
+        1012.5
+      ],
+      "text": "weektoekenningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1036.5,
+        144.32,
+        1047.75
+      ],
+      "text": "Betaaldatums",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1056.0,
+        752.71,
+        1067.25
+      ],
+      "text": "Een cliënt met meerdere inkomstenbronnen heeft te maken met meerdere betaaldatums. Als een cliënt meerdere UWV-uitkeringen heeft,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1075.5,
+        535.88,
+        1086.75
+      ],
+      "text": "geldt dit ook. Elke wet heeft een eigen betaalcyclus met eigen betaaldatum en betaalperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1106.25,
+        189.43,
+        1117.5
+      ],
+      "text": "Betaalperioden per wet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1136.25,
+        102.35,
+        1148.25
+      ],
+      "text": "[10]",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        84.75,
+        27.0,
+        90.82,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        30.75,
+        756.08,
+        42.0
+      ],
+      "text": "De AW betaalt maandelijks, in de maand. De AW stelt de uitkering op de tweede zondag van de maand betaalbaar. De cliënt ontvangt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        50.25,
+        747.26,
+        61.5
+      ],
+      "text": "de uitkering rond de 25e van de maand. Dit houdt in dat de AW wijzigingen op de uitkering tot de tweede zondag van de maand kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        69.75,
+        757.05,
+        81.0
+      ],
+      "text": "verwerken. Wijzigingen die de AW na de tweede zondag van de maand verwerkt, gaan niet meer mee in de betaling van die maand en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        89.25,
+        468.84,
+        100.5
+      ],
+      "text": "zorgen dus altijd voor een nabetaling of een vordering van de AW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        84.75,
+        105.0,
+        90.82,
+        123.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        108.75,
+        742.12,
+        120.0
+      ],
+      "text": "De WW betaalt maandelijks achteraf, na ontvangst van de inkomstenopgave (IKO). De cliënt ontvangt de uitkering (afhankelijk van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        128.25,
+        619.42,
+        139.5
+      ],
+      "text": "het versturen van de IKO) tussen de eerste van de maand en de datum ontvangst IKO plus 10 werkdagen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        84.75,
+        144.0,
+        90.82,
+        162.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.5,
+        147.75,
+        339.4,
+        159.0
+      ],
+      "text": "De ZW betaalt wekelijks of maandelijks achteraf:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        99.75,
+        163.5,
+        105.82,
+        181.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        112.5,
+        167.25,
+        513.48,
+        178.5
+      ],
+      "text": "De cliënt ontvangt de weekuitkering op de woensdag die volgt op de betaalweek.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        99.75,
+        183.0,
+        105.82,
+        201.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        112.5,
+        186.75,
+        731.38,
+        198.0
+      ],
+      "text": "De cliënt ontvangt de maanduitkering (afhankelijk van het versturen van de IKO) tussen de eerste van de maand en de datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        112.5,
+        206.25,
+        597.18,
+        217.5
+      ],
+      "text": "ontvangst IKO binnen 10 werkdagen, maar uiterlijk op de 25e van de maand bij spontane betaling.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        241.5,
+        428.42,
+        262.5
+      ],
+      "text": "Werkinstructies samenloop Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        278.25,
+        364.22,
+        289.5
+      ],
+      "text": "De volgende werkinstructies staan in de map ‘Samenloop’:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        305.25,
+        82.57,
+        323.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        309.0,
+        165.71,
+        320.25
+      ],
+      "text": "Samenloop AW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        324.75,
+        82.57,
+        342.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        328.5,
+        339.17,
+        339.75
+      ],
+      "text": "Samenloop ‘Overige Soorten Werkloosheid’ (OSW)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        344.25,
+        82.57,
+        362.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        348.0,
+        310.8,
+        359.25
+      ],
+      "text": "UZZ0411 Verwerken verzoek samenloop AW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        363.75,
+        82.57,
+        381.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        367.5,
+        352.42,
+        378.75
+      ],
+      "text": "UZZ0510 Beoordeel samenloop met vangnetmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        402.0,
+        519.23,
+        413.25
+      ],
+      "text": "In de volgende mappen is extra aandacht voor samenloop in de volgende werkinstructies:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        433.5,
+        263.8,
+        452.25
+      ],
+      "text": "Completeren aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        474.0,
+        82.57,
+        492.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        477.75,
+        409.91,
+        489.0
+      ],
+      "text": "Afhandelen filterregel 171 ‘Loonheffingskorting wordt toegepast’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        493.5,
+        82.57,
+        511.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        497.25,
+        541.07,
+        508.5
+      ],
+      "text": "Afhandelen filterregel 180 ‘GEM-gegevens afwijkend op ‘Ja’ als loonheffingskorting ‘Nee’ is’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        513.0,
+        82.57,
+        531.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        516.75,
+        539.33,
+        528.0
+      ],
+      "text": "Afhandelen filterregel 207 ‘Geen andere overlappende ZW melding van dezelfde aanvrager’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        532.5,
+        82.57,
+        550.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        536.25,
+        308.47,
+        547.5
+      ],
+      "text": "UZZ0002 Afhandelen dubbele (ziek)melding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        552.0,
+        82.57,
+        570.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        555.75,
+        279.6,
+        567.0
+      ],
+      "text": "UZZ0406 Beoordelen samenloop MLA",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        587.25,
+        189.64,
+        606.0
+      ],
+      "text": "Bepalen recht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        627.75,
+        82.57,
+        645.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        631.5,
+        341.42,
+        642.75
+      ],
+      "text": "Beoordelen recht WAZO aanvullend geboorteverlof",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        647.25,
+        82.57,
+        665.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        651.0,
+        344.39,
+        662.25
+      ],
+      "text": "Beoordelen recht WAZO betaald ouderschapsverlof",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        666.75,
+        82.57,
+        684.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        670.5,
+        389.14,
+        681.75
+      ],
+      "text": "Beoordelen recht WAZO zwangerschaps- en bevallingsverlof",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        686.25,
+        82.57,
+        704.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        690.0,
+        319.39,
+        701.25
+      ],
+      "text": "Beoordelen recht zieke werkloze en nawerking",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        705.75,
+        82.57,
+        723.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        709.5,
+        337.34,
+        720.75
+      ],
+      "text": "UZZ0404 Beoordelen administratieve voortzetting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        741.0,
+        402.6,
+        759.75
+      ],
+      "text": "Bepalen einddatum/hersteldatum recht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        781.5,
+        82.57,
+        799.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        785.25,
+        214.07,
+        796.5
+      ],
+      "text": "Bepalen einddatum recht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        801.0,
+        82.57,
+        819.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        804.75,
+        372.22,
+        816.0
+      ],
+      "text": "UZZ0418 Beoordelen hersteldatum en datum einde recht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        820.5,
+        82.57,
+        838.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        824.25,
+        474.59,
+        835.5
+      ],
+      "text": "UZZ0473 Beoordelen verworpen hersteldmelding en datum/reden einde recht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        840.0,
+        82.57,
+        858.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        843.75,
+        283.33,
+        855.0
+      ],
+      "text": "UZZ5160 Vooraf beoordelen AO advies",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        859.5,
+        82.57,
+        877.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        863.25,
+        377.33,
+        874.5
+      ],
+      "text": "UZZ5422 Melding van volledig herstel/gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        894.75,
+        277.76,
+        913.5
+      ],
+      "text": "Bepalen hoogte dagloon",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        935.25,
+        82.57,
+        953.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        939.0,
+        234.6,
+        950.25
+      ],
+      "text": "Afhandelen reden uitval DMO",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        954.75,
+        82.57,
+        972.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        958.5,
+        437.53,
+        969.75
+      ],
+      "text": "Beoordelen samenloop met AW-uitkering voor dagloonvaststelling ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        974.25,
+        82.57,
+        992.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        978.0,
+        224.55,
+        989.25
+      ],
+      "text": "Bepalen hoogte WAZO-ZEZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        993.75,
+        82.57,
+        1011.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        997.5,
+        167.36,
+        1008.75
+      ],
+      "text": "Bepalen hoogte",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1013.25,
+        82.57,
+        1031.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1017.0,
+        278.49,
+        1028.25
+      ],
+      "text": "Bepalen definitieve hoogte WAZO-ZEZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1032.75,
+        82.57,
+        1050.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1036.5,
+        194.34,
+        1047.75
+      ],
+      "text": "Maximeren daglonen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1068.0,
+        247.83,
+        1086.75
+      ],
+      "text": "Toekennen aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1101.0,
+        128.96,
+        1112.25
+      ],
+      "text": "Toekennen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        27.75,
+        247.88,
+        46.5
+      ],
+      "text": "Heropenen aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        68.25,
+        82.57,
+        86.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        72.0,
+        173.26,
+        83.25
+      ],
+      "text": "Heropenen geval",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        87.75,
+        82.57,
+        105.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        91.5,
+        322.24,
+        102.75
+      ],
+      "text": "UZZ0358 Beoordelen heropening HVU-melding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        107.25,
+        82.57,
+        125.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        111.0,
+        302.52,
+        122.25
+      ],
+      "text": "UZZ0364 Beoordelen heropening aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        142.5,
+        138.91,
+        161.25
+      ],
+      "text": "Herzien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        175.5,
+        216.29,
+        186.75
+      ],
+      "text": "Wijzigen loonheffingskorting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        207.0,
+        422.96,
+        225.75
+      ],
+      "text": "Afhandelen terugvordering of verrekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        240.0,
+        254.06,
+        251.25
+      ],
+      "text": "UZZ0090 Claimvordering ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        271.5,
+        371.37,
+        290.25
+      ],
+      "text": "Afhandelen inkomstenkorting GINA",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        312.0,
+        82.57,
+        330.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        315.75,
+        265.73,
+        327.0
+      ],
+      "text": "Bepalen inkomsten WWZ met GINA",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        331.5,
+        82.57,
+        349.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        335.25,
+        478.42,
+        346.5
+      ],
+      "text": "Afhandelen filterregel 127 ‘Er is bij TW-inkomsten geen sprake van samenloop’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        351.0,
+        82.57,
+        369.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        354.75,
+        623.26,
+        366.0
+      ],
+      "text": "Afhandelen filterregel 130 ‘Begin- of einddatum van het samenloopdagloon ligt niet in de inkomstenperiode’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        370.5,
+        82.57,
+        388.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        374.25,
+        435.96,
+        385.5
+      ],
+      "text": "Afhandelen filterregel 131 ‘Het ‘Dagloon samenloop’ is gevuld of n.v.t.’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        390.0,
+        82.57,
+        408.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        393.75,
+        418.36,
+        405.0
+      ],
+      "text": "Afhandelen filterregel 140 ‘Er is geen sprake van soort samenloop’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        409.5,
+        82.57,
+        427.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        413.25,
+        569.68,
+        424.5
+      ],
+      "text": "Afhandelen filterregel 141 ‘Er is geen sprake van soort samenloop + andere inkomsten uit arbeid’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        429.0,
+        82.57,
+        447.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        432.75,
+        516.24,
+        444.0
+      ],
+      "text": "Afhandelen filterregel 146 ‘Er is geen sprake van 0-inkomsten + dgln samenloop + TW’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        448.5,
+        82.57,
+        466.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        452.25,
+        359.18,
+        463.5
+      ],
+      "text": "UZZ0541 Beoordelen uitzondering 0-inkomstenbericht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        468.0,
+        82.57,
+        486.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        471.75,
+        451.23,
+        483.0
+      ],
+      "text": "UZZ0552 Beoordeel inkomsten WWZ i.v.m. wijziging dagloon samenloop",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        503.25,
+        322.72,
+        522.0
+      ],
+      "text": "Afhandelen inkomstenkorting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        543.75,
+        82.57,
+        561.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        547.5,
+        359.81,
+        558.75
+      ],
+      "text": "Inkomsten bij samenloop met ziekmelding (AGV/BOV)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        563.25,
+        82.57,
+        581.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        567.0,
+        251.67,
+        578.25
+      ],
+      "text": "Inkomsten uit (gedeeltelijk) werk",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        582.75,
+        82.57,
+        600.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        586.5,
+        361.05,
+        597.75
+      ],
+      "text": "Inkomsten uit zelfstandig werk of overige NVZP-arbeid",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        602.25,
+        82.57,
+        620.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        606.0,
+        358.87,
+        617.25
+      ],
+      "text": "Korting uitkering op uitkering bij maximering daglonen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        621.75,
+        82.57,
+        639.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        625.5,
+        197.43,
+        636.75
+      ],
+      "text": "Verwerken inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        657.0,
+        140.25,
+        675.75
+      ],
+      "text": "Toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        690.0,
+        262.58,
+        701.25
+      ],
+      "text": "Registreren inkomsten tijdens toeslag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        721.5,
+        153.21,
+        740.25
+      ],
+      "text": "Schorsen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        762.0,
+        82.57,
+        780.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        765.75,
+        267.3,
+        777.0
+      ],
+      "text": "Afhandelen faillissement werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        781.5,
+        82.57,
+        799.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        785.25,
+        141.9,
+        796.5
+      ],
+      "text": "Surseance",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        805.5,
+        108.55,
+        816.75
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        825.75,
+        103.02,
+        837.0
+      ],
+      "text": "Geen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        846.0,
+        148.84,
+        857.25
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        866.25,
+        103.02,
+        877.5
+      ],
+      "text": "Geen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        897.75,
+        144.62,
+        909.0
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        918.0,
+        506.1,
+        929.25
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        429.37,
+        937.5,
+        517.73,
+        948.75
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        957.75,
+        276.08,
+        969.0
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        978.0,
+        130.33,
+        989.25
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        998.25,
+        144.12,
+        1009.5
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    }
+  ]
+}

@@ -1,0 +1,6989 @@
+{
+  "source_id": "2023-07-18-besluit-woo-verzoek-it-strategie-uwv/2023-07-18-bijlage-2-beleid-master-data-management",
+  "publication_slug": "2023-07-18-besluit-woo-verzoek-it-strategie-uwv",
+  "pdf_slug": "2023-07-18-bijlage-2-beleid-master-data-management",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/besluit-woo-verzoek-it-strategie-uwv",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/fbafb48e-590a-4e4e-8bc1-c0780b9c0ac1/bijlage-2-beleid-master-data-management.pdf",
+  "publication_title": "Besluit Woo-verzoek IT strategie UWV",
+  "publication_date": "2023-07-18T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2 Beleid Master Data Management versie 1.1.1 (PDF, 600 kB)",
+  "retrieved_at": "2026-06-30T13:18:07+00:00",
+  "sha256": "7704a2b35953706d710fdd3fe4af77815ea1c0d10438610e01749cc4457e8586",
+  "page_count": 14,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        353.05,
+        360.16,
+        365.05
+      ],
+      "text": "Beleid Master Data Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        388.75,
+        302.86,
+        398.71
+      ],
+      "text": "Doorgaan op de ingeslagen weg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        78.64,
+        447.79,
+        84.64
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        89.76,
+        501.13,
+        97.8
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        106.14,
+        448.38,
+        112.14
+      ],
+      "text": "Auteur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        110.22,
+        78.32,
+        116.22
+      ],
+      "text": "Status",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        117.24,
+        492.26,
+        125.28
+      ],
+      "text": "Data Office UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        120.0,
+        145.17,
+        128.04
+      ],
+      "text": "Vastgesteld door KOG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        131.58,
+        470.05,
+        137.58
+      ],
+      "text": "Ons kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        136.02,
+        77.81,
+        142.02
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        142.68,
+        429.03,
+        150.72
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        145.68,
+        77.86,
+        153.72
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        158.34,
+        448.34,
+        164.34
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.38,
+        169.32,
+        460.97,
+        177.36
+      ],
+      "text": "2 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        257.44,
+        134.64,
+        267.4
+      ],
+      "text": "Versiehistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        284.27,
+        460.17,
+        293.27
+      ],
+      "text": "Ver- Datum Status Wijziging Auteur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        296.99,
+        74.98,
+        305.99
+      ],
+      "text": "sie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        310.31,
+        318.46,
+        319.31
+      ],
+      "text": "0.1 29 november 2015 Concept Eerste versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        311.54,
+        466.3,
+        317.54
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        336.23,
+        396.28,
+        345.23
+      ],
+      "text": "0.2 30 december 2016 Concept Reviewversie voor LGM en DO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        337.46,
+        466.3,
+        343.46
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        362.27,
+        410.26,
+        371.27
+      ],
+      "text": "0.3 10 februari 2017 Concept Aanpassingen op basis eerste re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        363.5,
+        466.3,
+        369.5
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        259.73,
+        374.99,
+        280.28,
+        383.99
+      ],
+      "text": "view",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        388.31,
+        414.92,
+        397.31
+      ],
+      "text": "0.6 6 maart 2017 Concept Aanpassingen op basis review Ge-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        389.54,
+        466.3,
+        395.54
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        259.73,
+        401.03,
+        336.52,
+        410.03
+      ],
+      "text": "gevensmanagers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        414.23,
+        403.19,
+        423.23
+      ],
+      "text": "0.7 10 maart 2017 Akkoord Enkele aanvullingen vanuit GM-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        415.46,
+        466.3,
+        421.46
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        426.95,
+        293.26,
+        435.95
+      ],
+      "text": "GM overleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        440.27,
+        340.12,
+        449.27
+      ],
+      "text": "1.0 15 maart 2017 Vastge- Geen wijzigingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        441.5,
+        466.3,
+        447.5
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        452.99,
+        243.24,
+        461.99
+      ],
+      "text": "steld door",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        197.93,
+        465.73,
+        218.23,
+        474.73
+      ],
+      "text": "KOG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        479.05,
+        397.07,
+        488.05
+      ],
+      "text": "1.1 9 mei 2018 Wijzigin- Herzien in het kader van AVG.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        491.77,
+        240.76,
+        500.77
+      ],
+      "text": "gen vast-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        504.49,
+        230.63,
+        513.49
+      ],
+      "text": "gesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        517.33,
+        241.83,
+        526.33
+      ],
+      "text": "door KOG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        530.53,
+        398.22,
+        539.53
+      ],
+      "text": "1.1.1 19 februari 2019 Geen wijzi- Onbruikbare URL’s verwijderd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        531.76,
+        466.3,
+        537.76
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        543.25,
+        397.91,
+        552.25
+      ],
+      "text": "ging Geen inhoudelijke wijzigingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.42,
+        556.57,
+        409.48,
+        565.57
+      ],
+      "text": "1.1.1 28 december 2022 Geen wijzi- Gecontroleerd op werking hyper-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        428.94,
+        557.8,
+        466.3,
+        563.8
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.93,
+        569.29,
+        354.32,
+        578.29
+      ],
+      "text": "ging links en terminologie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        57.14,
+        746.38,
+        252.42,
+        753.34
+      ],
+      "text": "© UWV Uitvoeringsinstituut werknemersverzekeringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        57.14,
+        757.54,
+        529.82,
+        764.5
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        57.14,
+        768.7,
+        529.59,
+        775.66
+      ],
+      "text": "of openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen of op enig andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        57.14,
+        779.98,
+        286.85,
+        786.94
+      ],
+      "text": "manier zonder voorafgaande schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "3 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        170.86,
+        105.49,
+        182.86
+      ],
+      "text": "Inhoud",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        197.0,
+        538.72,
+        206.0
+      ],
+      "text": "1 Inleiding 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        220.4,
+        538.72,
+        229.4
+      ],
+      "text": "2 Wat is Master Data en Master Data Management? 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        231.56,
+        538.64,
+        240.56
+      ],
+      "text": "2.1 Data types 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        242.6,
+        538.64,
+        251.6
+      ],
+      "text": "2.2 Definitie van Master Data 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        253.52,
+        538.64,
+        262.52
+      ],
+      "text": "2.3 Definitie van Master Data Management 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        276.95,
+        538.72,
+        285.95
+      ],
+      "text": "3 Doelen Master Data Management 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        300.47,
+        538.72,
+        309.47
+      ],
+      "text": "4 Beleid 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        311.63,
+        538.64,
+        320.63
+      ],
+      "text": "4.1 Invullen randvoorwaarden 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        323.99,
+        538.64,
+        332.99
+      ],
+      "text": "4.1.1 De gegevenshuishouding is in kaart gebracht 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        336.71,
+        538.64,
+        345.71
+      ],
+      "text": "4.1.2 De gegevens zijn bekend en gedefinieerd 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        349.43,
+        538.64,
+        358.43
+      ],
+      "text": "4.1.3 De gegevensuitwisseling is gestandaardiseerd 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        362.27,
+        538.64,
+        371.27
+      ],
+      "text": "4.1.4 Governance van de gegevenshuishouding is ingericht 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        373.55,
+        538.76,
+        382.55
+      ],
+      "text": "4.2 Vaststellen van de UWV Master Data 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        385.91,
+        538.76,
+        394.91
+      ],
+      "text": "4.2.1 Over welke objecten worden Master Data verzameld? 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        398.75,
+        538.76,
+        407.75
+      ],
+      "text": "4.2.2 Welke gegevens worden aangemerkt als Master Data? 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        411.47,
+        538.76,
+        420.47
+      ],
+      "text": "4.2.3 Voorbeelden van Master Data Registraties 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        422.87,
+        538.76,
+        431.87
+      ],
+      "text": "4.3 Het gewenste ambitieniveau 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        446.27,
+        538.6,
+        455.27
+      ],
+      "text": "5 Samenhang met ontwikkelingen binnen UWV 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        457.31,
+        538.76,
+        466.31
+      ],
+      "text": "5.1 UWV Informatieplan en MDM 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        468.37,
+        538.76,
+        477.37
+      ],
+      "text": "5.2 Het programma DEC/DF 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        479.41,
+        538.76,
+        488.41
+      ],
+      "text": "5.3 Project BRP, tenzij 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.26,
+        490.33,
+        538.76,
+        499.33
+      ],
+      "text": "5.4 Reference data management 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        513.73,
+        538.6,
+        522.73
+      ],
+      "text": "6 Tenslotte 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        537.25,
+        538.6,
+        546.25
+      ],
+      "text": "7 Gerelateerde documenten 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "4 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        171.63,
+        130.37,
+        182.67
+      ],
+      "text": "1 Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        197.96,
+        526.96,
+        206.96
+      ],
+      "text": "Dit beleid is het vervolg op het onderzoek naar Master Data Management dat in 2014 is uitgevoerd [1].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        210.68,
+        551.6,
+        219.68
+      ],
+      "text": "Het bouwt voort op de conclusie dat er door UWV al veel gedaan wordt aan Master Data Management, dat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        223.4,
+        547.23,
+        232.4
+      ],
+      "text": "geen grootschalig programma nodig is, en dat er aangesloten moet worden bij lopende trajecten en ontwik-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        236.24,
+        97.95,
+        245.24
+      ],
+      "text": "kelingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        248.96,
+        532.21,
+        257.96
+      ],
+      "text": "Het neemt enkele delen uit dat onderzoek over, waaronder de beschrijvingen van definities en de toege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        261.68,
+        547.69,
+        270.68
+      ],
+      "text": "voegde waarde, en het geeft een nadere uitwerking van de toepassing van master data en master data ma-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        274.4,
+        459.98,
+        283.4
+      ],
+      "text": "nagement binnen UWV. Het onderzoek wordt hiermee integraal een bijlage bij dit beleid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        299.99,
+        542.58,
+        308.99
+      ],
+      "text": "In hoofdstuk 2 worden de definities van Master Data en Master Data Management (MDM) gegeven, afkom-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        312.71,
+        215.21,
+        321.71
+      ],
+      "text": "stig uit het voorgaande onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        325.43,
+        519.84,
+        334.43
+      ],
+      "text": "Hoofdstuk 3 beschrijft de businessdoelen van MDM, en de relatie met de gegevensprincipes van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        338.27,
+        550.86,
+        347.27
+      ],
+      "text": "Hoofdstuk 4 bevat beleidsuitspraken ten aanzien van MDM. Paragraaf 4.3 gaat met name op de verdere ont-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        350.99,
+        124.33,
+        359.99
+      ],
+      "text": "wikkelingen in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        363.71,
+        509.17,
+        372.71
+      ],
+      "text": "Hoofdstuk 5 beschrijft beknopt een aantal ontwikkelingen binnen UWV waarbij MDM aan de orde is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        376.43,
+        294.49,
+        385.43
+      ],
+      "text": "Hoofdstuk 6 tenslotte geeft een korte samenvatting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        413.7,
+        379.64,
+        424.74
+      ],
+      "text": "2 Wat is Master Data en Master Data Management?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        439.91,
+        543.95,
+        448.91
+      ],
+      "text": "Het begrip Master Data Management is rond 2005 opgekomen en er zijn verschillende definities van in om-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        452.75,
+        546.78,
+        461.75
+      ],
+      "text": "loop. Het is belangrijk om voor UWV een definitie te kiezen die gericht is op de context van UWV. In de lite-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        465.49,
+        539.61,
+        474.49
+      ],
+      "text": "ratuur wordt het begrip Master Data vaak gekoppeld aan het begrip Reference Data. We kiezen ervoor om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        478.21,
+        538.33,
+        487.21
+      ],
+      "text": "binnen UWV deze twee begrippen duidelijk te onderscheiden en twee definities te hanteren [2]. Master en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        490.93,
+        549.96,
+        499.93
+      ],
+      "text": "Reference Data sluiten elkaar uiteraard niet uit. Een belangrijke reden hiervoor is dat UWV sinds jaar en dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        503.77,
+        533.84,
+        512.77
+      ],
+      "text": "onderscheid maakt in ‘gewone’ en ‘tabelgegevens’; de tabelgegevens zijn het onderwerp van het vastge-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        516.49,
+        190.36,
+        525.49
+      ],
+      "text": "stelde Beleid Reference Data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        541.53,
+        152.8,
+        551.49
+      ],
+      "text": "2.1 Data types",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        555.01,
+        544.07,
+        564.01
+      ],
+      "text": "Het is mogelijk om gegevens te categoriseren; de literatuur beschrijft Master Data, Transactional Data, Re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        567.73,
+        552.83,
+        576.73
+      ],
+      "text": "ference Data, Metadata, Historical Data en Temporary Data. Master Data wordt in dit document verder gede-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        580.45,
+        338.79,
+        589.45
+      ],
+      "text": "finieerd, de overige typen worden hieronder kort omschreven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        593.29,
+        541.5,
+        602.29
+      ],
+      "text": "Transactional Data. Beschrijft een gebeurtenis of transactie die plaatsvindt binnen een organisatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.66,
+        593.37,
+        78.8,
+        602.37
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        606.01,
+        346.62,
+        615.01
+      ],
+      "text": "Denk hierbij aan Excasso, de betaalomgeving van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        618.73,
+        552.17,
+        627.73
+      ],
+      "text": "Reference Data. In het beleid Reference data is de volgende definitie vastgesteld: Gegevens die wor-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.66,
+        618.81,
+        78.8,
+        627.81
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        631.45,
+        543.29,
+        640.45
+      ],
+      "text": "den gebruikt om andere gegevens te classificeren of te categoriseren. Reference data hebben altijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        644.29,
+        548.17,
+        653.29
+      ],
+      "text": "een vast waardebereik op een bepaald moment in de tijd. Voorbeelden van Reference data zijn: Na-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        657.04,
+        327.84,
+        666.04
+      ],
+      "text": "tionaliteitentabel, Tabel SZ-wet, Minimumloontabel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.66,
+        669.76,
+        551.66,
+        678.84
+      ],
+      "text": " Metadata. Letterlijk: data over data. Dit type gegevens beschrijft de kenmerken van gegevens. Denk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        682.48,
+        531.96,
+        691.48
+      ],
+      "text": "hierbij aan de naam van een gegeven, het aantal tekens etc. Binnen UWV is het Canoniek Gege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        695.32,
+        549.16,
+        704.32
+      ],
+      "text": "vensmodel (CGM) een goed voorbeeld. In het CGM worden onder meer definities en waardebereiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        708.04,
+        533.29,
+        717.04
+      ],
+      "text": "van gegevens vastgelegd. Hiernaast zijn er ook technische metadata, zoals de datum-tijd laatste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        720.76,
+        215.99,
+        729.76
+      ],
+      "text": "wijziging van een gegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        733.48,
+        537.27,
+        742.48
+      ],
+      "text": "Historical Data. Dit zijn gegevens die belangrijke feiten vastleggen op een bepaald punt in de tijd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.66,
+        733.56,
+        78.8,
+        742.56
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        746.32,
+        533.34,
+        755.32
+      ],
+      "text": "Binnen UWV kennen we de Historische Gegevens Opslag (HGO). Zo worden WW-gegevens in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.66,
+        759.04,
+        525.21,
+        768.04
+      ],
+      "text": "Kwaliteit Registratie Systeem (KRS) gearchiveerd in HGO, en dus niet in de applicatie KRS zelf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "5 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.66,
+        173.24,
+        535.3,
+        182.24
+      ],
+      "text": "Temporary Data. Deze gegevens worden tijdelijk in het geheugen van een computer bewaard om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.66,
+        173.32,
+        78.8,
+        182.32
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.66,
+        185.96,
+        531.0,
+        194.96
+      ],
+      "text": "processen sneller te laten verlopen. Na het afronden van het proces wordt deze data direct weer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.66,
+        198.68,
+        141.25,
+        207.68
+      ],
+      "text": "vernietigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        223.72,
+        235.23,
+        233.68
+      ],
+      "text": "2.2 Definitie van Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        237.2,
+        546.63,
+        246.2
+      ],
+      "text": "Binnen UWV hanteren we onderstaande definitie voor Master Data. Deze is vastgesteld in het kader van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        249.92,
+        227.98,
+        258.92
+      ],
+      "text": "Onderzoek Master Data Management.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        276.95,
+        117.74,
+        285.95
+      ],
+      "text": "Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        289.67,
+        543.51,
+        298.67
+      ],
+      "text": "Gegevens over voor UWV belangrijke objecten die in processen worden gebruikt. Het zijn bedrijfsbreed ge-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        302.51,
+        543.26,
+        311.51
+      ],
+      "text": "bruikte gegevens waarvan de organisatie het vertrouwen heeft dat deze gegevens het dichtst de werkelijk-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        315.35,
+        405.94,
+        324.35
+      ],
+      "text": "heid benaderen binnen de context van de bedrijfsvoering van de organisatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        342.23,
+        550.81,
+        351.23
+      ],
+      "text": "Bij de genoemde gegevens gaat het om de voorkomens van gegevens in informatiesystemen. Een voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        354.95,
+        550.5,
+        363.95
+      ],
+      "text": "van Master Data betreft de naamgegevens van een natuurlijk persoon, die zijn opgeslagen in UPA. UPA is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        367.67,
+        540.95,
+        376.67
+      ],
+      "text": "master. Andere applicaties die deze gegevens verwerken moeten daarom gebruik maken van de gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        380.51,
+        92.92,
+        389.51
+      ],
+      "text": "uit UPA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        405.95,
+        509.7,
+        414.95
+      ],
+      "text": "De mastergegevens kunnen binnen UWV gecreëerd zijn, maar ook afkomstig van een externe bron.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        418.67,
+        536.56,
+        427.67
+      ],
+      "text": "In dat geval fungeert het UWV-systeem als master voor UWV, en is de externe registratie de master voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        431.51,
+        196.47,
+        440.51
+      ],
+      "text": "het betreffende UWV-systeem.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        456.95,
+        283.2,
+        465.95
+      ],
+      "text": "Voorbeelden van Master Data zijn gegevens over:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        469.69,
+        349.76,
+        478.69
+      ],
+      "text": "• Personen en organisaties, inclusief hun verschillende rollen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        482.53,
+        183.18,
+        491.53
+      ],
+      "text": "• Producten en diensten;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        495.25,
+        125.81,
+        504.25
+      ],
+      "text": "• Inkomens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        520.29,
+        311.13,
+        530.25
+      ],
+      "text": "2.3 Definitie van Master Data Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        533.77,
+        544.03,
+        542.77
+      ],
+      "text": "Binnen UWV hanteren we onderstaande definitie voor Master Data Management. Ook deze is vastgesteld in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        546.49,
+        311.8,
+        555.49
+      ],
+      "text": "het kader van het Onderzoek Master Data Management.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        573.49,
+        186.01,
+        582.49
+      ],
+      "text": "Master Data Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        586.21,
+        548.65,
+        595.21
+      ],
+      "text": "Het geheel van richtlijnen, processen en applicaties om Master Data te beheren en ter beschikking te stellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        599.05,
+        458.66,
+        608.05
+      ],
+      "text": "voor bedrijfsbreed gebruik van accurate, tijdige en actuele waardes van de Master Data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        625.93,
+        543.62,
+        634.93
+      ],
+      "text": "Naast Master Data Management onderscheiden we ook Reference Data Management. Dit onderscheid heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        638.77,
+        544.36,
+        647.77
+      ],
+      "text": "vooral te maken met de behoefte aan UWV-breed management van Reference data. In andere organisaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        651.49,
+        221.06,
+        660.49
+      ],
+      "text": "wordt dit onderscheid niet gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        676.96,
+        541.37,
+        685.96
+      ],
+      "text": "Het onderscheiden van deze twee ‘concepten’ zegt overigens niets over technologie, software(suite) of im-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.66,
+        689.8,
+        436.12,
+        698.8
+      ],
+      "text": "plementatie. Beide concepten zijn apart of binnen één omgeving te implementeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "6 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        171.63,
+        279.59,
+        182.67
+      ],
+      "text": "3 Doelen Master Data Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        197.96,
+        546.13,
+        206.96
+      ],
+      "text": "In het Onderzoek Master Data Management is uitgebreid aandacht besteed aan de doelen en voordelen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        210.68,
+        523.5,
+        219.68
+      ],
+      "text": "MDM. De belangrijkste worden verderop in deze paragraaf aangehaald, en in verband gebracht met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        223.4,
+        538.1,
+        232.4
+      ],
+      "text": "speerpunten uit de Strategische Focus Gegevensmanagement [3], die medio 2016 is vastgesteld door het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        56.66,
+        236.24,
+        80.22,
+        245.24
+      ],
+      "text": "KOG.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        261.68,
+        528.26,
+        270.68
+      ],
+      "text": "Gegevensprincipes zijn richtinggevende uitspraken die ertoe bijdragen dat de gegevenshuishouding van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        274.4,
+        542.78,
+        283.4
+      ],
+      "text": "UWV als samenhangend geheel wordt ingericht. De gegevensprincipes van UWV zijn op 22 maart 2013 be-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        287.27,
+        498.35,
+        296.27
+      ],
+      "text": "krachtigd door de Raad van Bestuur. [4]. MDM geeft invulling aan een aantal van deze principes:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        312.71,
+        384.29,
+        321.71
+      ],
+      "text": "Principe 7 UWV legt geen redundante gegevensverzamelingen aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        325.43,
+        532.12,
+        334.43
+      ],
+      "text": "Gegevensredundantie is de situatie waarin één voorkomen van een gegevenswaarde meer dan één maal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        338.27,
+        550.33,
+        347.27
+      ],
+      "text": "wordt opgeslagen en waarin die meerdere voorkomens van gegevenswaarden gelijktijdig worden bewaard in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        350.99,
+        547.24,
+        359.99
+      ],
+      "text": "verschillende administraties. Theoretisch is er immers alleen de master waarin de gegevens zijn opgeslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        376.43,
+        542.99,
+        385.43
+      ],
+      "text": "In de praktijk zien we dat, bijvoorbeeld om performanceredenen, er wel redundantie wordt toegestaan. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        389.27,
+        549.33,
+        398.27
+      ],
+      "text": "conform het Beleid Gegevensredundantie [5].In dit beleid staat ook dat wijzigingen in de bron moeten door-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        401.99,
+        542.58,
+        410.99
+      ],
+      "text": "werken naar de afnemende informatiesystemen, opdat er geen inconsistenties optreden (uitgangspunt van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        414.71,
+        273.81,
+        423.71
+      ],
+      "text": "MDM). Dit valt mede onder gegevensprincipe 8.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        440.27,
+        545.08,
+        449.27
+      ],
+      "text": "Bij een goed ingevoerd MDM, d.w.z. eenmalige opslag en volledig geautomatiseerde meervoudige uitvraag,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        452.99,
+        547.44,
+        461.99
+      ],
+      "text": "zou een situatie van ‘geen redundantie’ kunnen bestaan. Juist dan is het zaak dat de eigenaar weet wat zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        465.73,
+        533.59,
+        474.73
+      ],
+      "text": "afnemers wensen op het gebied van de inhoud van de gegevens, om de eenmalige uitvraag, meervoudig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        478.45,
+        530.18,
+        487.45
+      ],
+      "text": "gebruik in stand te kunnen houden. Het luistert dan immers extra nauw, met redundantie konden onge-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        491.29,
+        532.08,
+        500.29
+      ],
+      "text": "wenste situaties buiten de deur gehouden worden. Dan is men geheel afhankelijk van de Master. Zie het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        504.01,
+        505.7,
+        513.01
+      ],
+      "text": "toepassen van de Basisregistraties met Terugmeldfunctionaliteit: Master Data in optima forma [6].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        529.45,
+        545.76,
+        538.45
+      ],
+      "text": "Principe 8 UWV past de waarde van een gegeven uitsluitend aan op aangeven van de bron waaruit het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        542.29,
+        157.32,
+        551.29
+      ],
+      "text": "gegeven is verkregen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        555.01,
+        535.38,
+        564.01
+      ],
+      "text": "Dit is het principe van Single point of control. Aanpassing van gegevenswaarden is uitsluitend toegestaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        567.73,
+        551.35,
+        576.73
+      ],
+      "text": "vanuit één centraal punt, de gegevensbron. De bron blijft verantwoordelijk en bepalend voor de precieze be-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        580.45,
+        221.61,
+        589.45
+      ],
+      "text": "tekenis en waarde van het gegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        606.01,
+        552.47,
+        615.01
+      ],
+      "text": "UWV wijzigt gegevens alleen, als de bron daartoe opdracht heeft gegeven. Dit principe is niet alleen van toe-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        618.73,
+        540.61,
+        627.73
+      ],
+      "text": "passing op gegevens die van buiten de organisatie komen; ook intern moet dit principe worden toegepast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        644.29,
+        529.51,
+        653.29
+      ],
+      "text": "Het woord bron heeft hier een meervoudige betekenis. Een gegeven komt uit een proces (indienen aan-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        657.04,
+        545.45,
+        666.04
+      ],
+      "text": "vraag, vaststellen bruto uitkering) Dit proces kun je als de bron zien. Dit gegeven wordt ergens opgeslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        669.76,
+        539.46,
+        678.76
+      ],
+      "text": "in een bron. Deze laatste bron is de single point of control. Vandaar uit moeten de redundante registraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        682.48,
+        551.47,
+        691.48
+      ],
+      "text": "aangepast worden. Ook wordt met het woord bron aangeduid de natuurlijke persoon of de rechtspersoon die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        695.32,
+        494.34,
+        704.32
+      ],
+      "text": "een gegeven dat ook daadwerkelijk door UWV wordt gebruikt of vastgelegd, aan UWV verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        708.04,
+        391.98,
+        717.04
+      ],
+      "text": "Vanuit het gezichtspunt van MDM zijn ook de volgende principes in beeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.66,
+        733.48,
+        366.64,
+        742.48
+      ],
+      "text": "Principe 1 De UWV-gegevenshuishouding is gestandaardiseerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "7 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        173.24,
+        546.64,
+        182.24
+      ],
+      "text": "MDM heeft behoefte aan standaardisering, omdat de afnemende systemen behoefte hebben aan eenduidige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        185.96,
+        545.33,
+        194.96
+      ],
+      "text": "en voorspelbare leveringen (zowel bulk als vraag-antwoord). Tevens is het voor nieuwe afnemers makkelij-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        198.68,
+        551.09,
+        207.68
+      ],
+      "text": "ker om op een bestaande betrouwbare standaard aan te sluiten. Meervoudig gebruik en integratie van gege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        211.4,
+        317.37,
+        220.4
+      ],
+      "text": "vens wordt bevorderd. Daar draagt MDM zelf ook aan bij.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        236.96,
+        459.49,
+        245.96
+      ],
+      "text": "Principe 2 UWV geeft inzicht in en draagt zorg voor de kwaliteit van haar gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        249.68,
+        546.0,
+        258.68
+      ],
+      "text": "Doordat gegevens op een plek worden beheerd worden inconsistenties, behorend tot de hoofdoorzaken van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        262.4,
+        212.17,
+        271.4
+      ],
+      "text": "verminderde kwaliteit, voorkomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        287.99,
+        542.5,
+        296.99
+      ],
+      "text": "Principe 9 UWV biedt degene over wie UWV gegevens registreert of verwerkt, op verzoek inzicht in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        300.71,
+        310.68,
+        309.71
+      ],
+      "text": "inhoud en het gebruik van die geregistreerde gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        313.43,
+        551.61,
+        322.43
+      ],
+      "text": "Doordat gegevens op één plek worden beheerd is het relatief eenvoudig om de burger zijn gegevens te laten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        326.27,
+        543.71,
+        335.27
+      ],
+      "text": "inzien, en de mogelijkheid tot correctie te bieden. Wat de burger getoond moet worden is beschreven in de",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        56.66,
+        338.99,
+        79.16,
+        347.99
+      ],
+      "text": "AVG.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        364.43,
+        359.96,
+        373.43
+      ],
+      "text": "Naast invulling geven aan deze principes, heeft MDM meer doelen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        389.99,
+        546.38,
+        398.99
+      ],
+      "text": "MDM levert de organisatie een eenduidig organisatiebreed beeld van belangrijke onderwerpen (bijvoorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        402.71,
+        97.5,
+        411.71
+      ],
+      "text": "klanten).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.66,
+        415.43,
+        140.27,
+        424.43
+      ],
+      "text": "Dit draagt bij aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        77.9,
+        440.99,
+        217.58,
+        449.99
+      ],
+      "text": "• Verbeterde klantenservice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        453.71,
+        540.62,
+        462.71
+      ],
+      "text": "Door een eenduidig en bedrijfsbreed klantbeeld is het mogelijk om de klant beter te helpen en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        466.45,
+        548.01,
+        475.45
+      ],
+      "text": "op maat gesneden dienstverlening en producten aan te bieden. Dit vereist wel een permanente fo-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        479.29,
+        215.86,
+        488.29
+      ],
+      "text": "cus op gegevenskwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        77.9,
+        492.01,
+        240.96,
+        501.01
+      ],
+      "text": "• Verbeterd productmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        504.73,
+        536.75,
+        513.73
+      ],
+      "text": "Een eenduidig beeld van producten en producteigenschappen, afnemers en leveranciers leidt tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        517.45,
+        271.05,
+        526.45
+      ],
+      "text": "een slagvaardig productmanagement.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        77.9,
+        530.29,
+        230.05,
+        539.29
+      ],
+      "text": "• Verbeterd risicomanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        543.01,
+        540.76,
+        552.01
+      ],
+      "text": "Het bepalen van risico’s kan gebeuren op basis van eenduidige gegevens. Daarnaast is er minder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        555.73,
+        534.75,
+        564.73
+      ],
+      "text": "kans op fouten (en dus risico’s) door het verminderen van het aantal plekken waar bijvoorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        568.45,
+        542.21,
+        577.45
+      ],
+      "text": "gegevensopslag, duplicatie en transformatie gebeurt. Een eenduidig klantbeeld helpt bij het vast-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        581.29,
+        252.55,
+        590.29
+      ],
+      "text": "stellen van het juiste risicoprofiel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        77.9,
+        594.01,
+        235.42,
+        603.01
+      ],
+      "text": "• Automatiseren werkprocessen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        606.73,
+        541.86,
+        615.73
+      ],
+      "text": "Hieronder verstaan we onderwerpen die te maken hebben met efficiënt en effectief werken, zoals",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        619.45,
+        548.68,
+        628.45
+      ],
+      "text": "automatisering werkprocessen, digitaliseren dienstverlening en STP (Straight Through Processing).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        632.29,
+        533.43,
+        641.29
+      ],
+      "text": "STP staat of valt met eenduidige gegevens in de bedrijfs- en werkprocessen. Inconsistentie van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        99.14,
+        645.01,
+        320.62,
+        654.01
+      ],
+      "text": "gegevens leidt tot uitworp en handmatig herstel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "8 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.66,
+        173.24,
+        391.67,
+        182.24
+      ],
+      "text": "MDM bevordert een overzichtelijke en beheersbare gegevenshuishouding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.66,
+        185.96,
+        140.27,
+        194.96
+      ],
+      "text": "Dit draagt bij aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        77.9,
+        211.4,
+        245.15,
+        220.4
+      ],
+      "text": "• Snel reageren op veranderingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        224.24,
+        549.23,
+        233.24
+      ],
+      "text": "Applicaties kunnen voor het merendeel van de gegevensbehoefte gebruik maken van de geconsoli-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        407.38,
+        236.34,
+        414.5,
+        245.96
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        236.96,
+        549.97,
+        245.96
+      ],
+      "text": "deerde gegevens in een als master aangewezen informatiesysteem Hierdoor kan de ontwikkeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        249.68,
+        519.62,
+        258.68
+      ],
+      "text": "van de ‘gegevenskant’ van een applicatie eenvoudiger en tegen minder kosten plaatsvinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        77.9,
+        262.4,
+        356.08,
+        271.4
+      ],
+      "text": "• Verbeterde efficiency gegevensbeheer en kostenreductie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        275.24,
+        540.53,
+        284.24
+      ],
+      "text": "Dubbele opslag van gegevens is nadelig voor de uitvoering van bedrijfsprocessen maar heeft ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        287.99,
+        548.26,
+        296.99
+      ],
+      "text": "tot gevolg dat alle beheeractiviteiten, tooling en infrastructuur meervoudig uitgevoerd zijn met bij-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        300.71,
+        544.73,
+        309.71
+      ],
+      "text": "behorende kosten. Het door Master Data Management gecreëerde eenduidige gegevensbeeld leidt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        313.43,
+        289.03,
+        322.43
+      ],
+      "text": "dus ook tot een vermindering van kosten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        77.9,
+        326.27,
+        233.25,
+        335.27
+      ],
+      "text": "• Verbeterde gegevenskwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        338.99,
+        546.34,
+        347.99
+      ],
+      "text": "Er ontstaan problemen wanneer organisatieonderdelen dezelfde gegevens (redundantie) verzame-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        351.71,
+        552.47,
+        360.71
+      ],
+      "text": "len en de redundant opgeslagen gegevens niet bijgewerkt worden vanuit de bron. Dit leidt tot extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        364.43,
+        449.09,
+        373.43
+      ],
+      "text": "kosten: telkens opnieuw bepalen van de juiste gegevens en de locatie ervan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        377.27,
+        549.01,
+        386.27
+      ],
+      "text": "MDM voorkomt dit. Tevens is het mogelijk de kwaliteit van gegevens te monitoren door eenduidige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        389.99,
+        489.38,
+        398.99
+      ],
+      "text": "metadata, gestandaardiseerde waardebereiken en gestandaardiseerde business rules.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        77.9,
+        402.71,
+        383.03,
+        411.71
+      ],
+      "text": "• Consistente, snellere rapportage en verbeterde besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        415.43,
+        551.18,
+        424.43
+      ],
+      "text": "Correcte en volledige Master Data zijn ook het fundament voor goede stuur- en verantwoordingsin-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        428.27,
+        140.54,
+        437.27
+      ],
+      "text": "formatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        440.99,
+        539.69,
+        449.99
+      ],
+      "text": "Rapportage gebeurt op basis van dezelfde gegevens – met dezelfde definities – die door de busi-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        453.71,
+        552.56,
+        462.71
+      ],
+      "text": "ness gebruikt worden. Complexe transformaties – wellicht op verschillende plekken – zijn niet meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        466.45,
+        540.01,
+        475.45
+      ],
+      "text": "nodig. Hierdoor is het mogelijk om rapportages consistent en sneller op te leveren. Dit leidt weer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        479.29,
+        289.69,
+        488.29
+      ],
+      "text": "tot een betere en snellere besluitvorming.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        77.9,
+        492.01,
+        342.48,
+        501.01
+      ],
+      "text": "• Betere compliance (voldoen aan wet- en regelgeving)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        504.73,
+        550.39,
+        513.73
+      ],
+      "text": "Als er een eenduidig en kwalitatief hoogwaardig gegevensbeeld bestaat, inclusief bijbehorende me-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        517.45,
+        534.17,
+        526.45
+      ],
+      "text": "tadata, en de gegevensprocessen in kaart zijn gebracht is het mogelijk om op eenvoudige wijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        530.29,
+        544.16,
+        539.29
+      ],
+      "text": "inzicht te bieden in de gegevenshuishouding en de vereiste wijzigingen aan te brengen. Een voor-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        543.01,
+        548.23,
+        552.01
+      ],
+      "text": "beeld daarvan is ‘Privacy by Design’, zoals beschreven in de AVG; de invloed van MDM beperkt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        555.73,
+        313.37,
+        564.73
+      ],
+      "text": "aantal kopieën van privacygevoelige gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        368.45,
+        567.83,
+        426.32,
+        577.45
+      ],
+      "text": "Governance2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        568.45,
+        552.13,
+        577.45
+      ],
+      "text": "Door de combinatie van Master Data Management en Data kan eenvoudiger en sneller",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.14,
+        581.29,
+        348.03,
+        590.29
+      ],
+      "text": "worden voldaan aan de eisen van wet- en regelgeving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.66,
+        734.68,
+        59.95,
+        741.16
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        62.18,
+        735.55,
+        471.58,
+        745.51
+      ],
+      "text": "Een materiesysteem of een aparte Master Data Management repository (centraal of gedistribueerd).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.66,
+        747.52,
+        59.95,
+        754.0
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        62.18,
+        748.39,
+        546.75,
+        758.35
+      ],
+      "text": "UWV definitie Data Governance: de organisatie, de bevoegdheden en de verantwoordelijkheden die nodig zijn voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.66,
+        761.11,
+        493.71,
+        771.07
+      ],
+      "text": "besturen van, het beheersen van en het verantwoorden over de UWV-brede functie Gegevensmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.38,
+        144.96,
+        460.97,
+        153.0
+      ],
+      "text": "9 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        171.63,
+        112.86,
+        182.67
+      ],
+      "text": "4 Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        197.96,
+        550.24,
+        206.96
+      ],
+      "text": "Uit het eerdere onderzoek is duidelijk geworden, dat er binnen UWV al veel gebeurt op het gebied van MDM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        210.68,
+        551.99,
+        219.68
+      ],
+      "text": "Dit document beschrijft een ambitieniveau, gebaseerd op de bestaande ontwikkelingen. Allereerst worden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        223.4,
+        549.26,
+        232.4
+      ],
+      "text": "randvoorwaarden in kaart gebracht. Daarna wordt het vaststellen van de UWV Master Data en het gewenste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        236.24,
+        173.64,
+        245.24
+      ],
+      "text": "ambitieniveau besproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        261.16,
+        242.71,
+        271.12
+      ],
+      "text": "4.1 Invullen randvoorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        274.64,
+        551.29,
+        283.64
+      ],
+      "text": "Voor het goed laten functioneren van MDM dient aan een aantal randvoorwaarden voldaan te worden. Dit wil",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        287.51,
+        544.09,
+        296.51
+      ],
+      "text": "niet zeggen dat de randvoorwaarden 100% moeten zijn ingevuld, voor er met het MDM an sich gestart kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        300.23,
+        93.27,
+        309.23
+      ],
+      "text": "worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        326.03,
+        321.21,
+        335.03
+      ],
+      "text": "4.1.1 De gegevenshuishouding is in kaart gebracht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        396.94,
+        338.13,
+        429.68,
+        347.75
+      ],
+      "text": "(CGM)3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        338.75,
+        541.91,
+        347.75
+      ],
+      "text": "Met het publiceren van de eerste versie van het Canoniek Gegevensmodel in juli 2016 is een begin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        351.47,
+        535.94,
+        360.47
+      ],
+      "text": "gemaakt met het inzichtelijk maken van de belangrijkste gegevens binnen de UWV Gegevenshuishouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        364.19,
+        533.83,
+        373.19
+      ],
+      "text": "[7]. Het CGM baseert zich daarbij op het bedrijfsobjectmodel en de gegevensmodellen van de applicaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        376.91,
+        550.8,
+        385.91
+      ],
+      "text": "van de divisies (FUGEMs) [8]. Hierbij moet wel worden aangetekend dat zowel het CGM als de FUGEMs nooit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        389.75,
+        548.51,
+        398.75
+      ],
+      "text": "‘af’ zijn: wijzigingen in het applicatielandschap zullen ook consequenties hebben voor de gegevensmodellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        402.47,
+        443.42,
+        411.47
+      ],
+      "text": "Vereist is, dat FUGEMs en CGM op orde zijn: Compleet, Correct, Tijdig en Consistent.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        415.19,
+        534.42,
+        424.19
+      ],
+      "text": "Hiernaast is er inzicht nodig in de koppelingen tussen de informatiesystemen: welke gegevens worden er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        427.91,
+        229.69,
+        436.91
+      ],
+      "text": "tussen welke applicaties uitgewisseld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        453.71,
+        301.05,
+        462.71
+      ],
+      "text": "4.1.2 De gegevens zijn bekend en gedefinieerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        466.45,
+        552.08,
+        475.45
+      ],
+      "text": "Het CGM en de FUGEMs geven ook definitie en waardenbereik van de afzonderlijke gegevens. Dit maakt her-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        479.29,
+        226.4,
+        488.29
+      ],
+      "text": "gebruik van gegevens gemakkelijker.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        504.97,
+        327.18,
+        513.97
+      ],
+      "text": "4.1.3 De gegevensuitwisseling is gestandaardiseerd",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        505.27,
+        517.07,
+        534.4,
+        526.69
+      ],
+      "text": "UWV4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        517.69,
+        502.14,
+        526.69
+      ],
+      "text": "Beleidsmatig is de gegevensuitwisseling gestandaardiseerd door de vastgestelde Berichtstandaard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        530.53,
+        543.51,
+        539.53
+      ],
+      "text": "Hierin is bepaald dat de gegevensuitwisseling binnen UWV conform het CGM moet zijn, zowel wat de gege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        543.25,
+        536.94,
+        552.25
+      ],
+      "text": "vensdefinities als de gegevensstructuur betreft. Door gestandaardiseerde uitwisseling is het koppelen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        555.97,
+        176.37,
+        564.97
+      ],
+      "text": "systemen makkelijker [9].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        581.77,
+        362.34,
+        590.77
+      ],
+      "text": "4.1.4 Governance van de gegevenshuishouding is ingericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        594.49,
+        549.0,
+        603.49
+      ],
+      "text": "De gegevenseigenaar is de partij binnen UWV die verantwoordelijk is voor de bepaling en het beheer van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        607.21,
+        552.5,
+        616.21
+      ],
+      "text": "gegevensbeschrijving en/of het beheer en de sturing op de kwaliteit van de gegevenswaarde. Gegevenseige-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        619.93,
+        545.17,
+        628.93
+      ],
+      "text": "naarschap gaat dus niet over het ‘bezit’ van gegevens. Het gaat veel meer om verantwoordelijkheid dragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        632.77,
+        539.53,
+        641.77
+      ],
+      "text": "voor en het goed inhoudelijk beheren van gegevens in het belang van de eigen processen maar ook in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        645.49,
+        438.03,
+        654.49
+      ],
+      "text": "belang van de processen van derden (in- en extern). Dit is cruciaal voor goed MDM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        658.24,
+        544.58,
+        667.24
+      ],
+      "text": "Het Beleid Gegevenseigenaarschap 2.0 is vastgesteld in februari 2014 [10]. De toedeling van het eigenaar-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        670.96,
+        279.18,
+        679.96
+      ],
+      "text": "schap is gestart in het vierde kwartaal van 2016.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        696.52,
+        59.95,
+        703.0
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        62.18,
+        697.39,
+        548.46,
+        707.35
+      ],
+      "text": "Het Canoniek Gegevensmodel (CGM) is het standaard gegevensmodel van de belangrijkste gegevens die binnen UWV in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        710.11,
+        542.36,
+        720.07
+      ],
+      "text": "omloop zijn. Ook de samenhang tussen de UWV gegevens staat in het CGM. Het CGM geeft dus goed inzicht in de gege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        722.83,
+        167.68,
+        732.79
+      ],
+      "text": "venshuishouding van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        734.68,
+        59.95,
+        741.16
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        62.18,
+        735.55,
+        540.52,
+        745.51
+      ],
+      "text": "Het doel van de UWV Berichtstandaard is het ondersteunen van de gegevensuitwisseling binnen UWV en met externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        748.39,
+        545.72,
+        758.35
+      ],
+      "text": "partijen. De ondersteuning betreft de beschrijving van het proces van berichtontwikkeling en de onderdelen van een be-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.66,
+        761.11,
+        388.51,
+        771.07
+      ],
+      "text": "richt. Dit is een interne standaard; deze wordt niet opgelegd aan externe partijen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        425.38,
+        144.96,
+        466.01,
+        153.0
+      ],
+      "text": "10 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        172.48,
+        297.55,
+        182.44
+      ],
+      "text": "4.2 Vaststellen van de UWV Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        185.96,
+        550.66,
+        194.96
+      ],
+      "text": "De eerste stap voor het vaststellen van de UWV Master Data is het vaststellen van de objecten waarover ge-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        198.68,
+        550.38,
+        207.68
+      ],
+      "text": "gevens verzameld worden. De volgende stap is de selectie van gegevens die aangemerkt kunnen worden als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        211.4,
+        546.22,
+        220.4
+      ],
+      "text": "Master Data. Als laatste moet worden vastgesteld in welke applicatie – of applicaties – de gegevens worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        224.24,
+        119.46,
+        233.24
+      ],
+      "text": "onderhouden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        249.92,
+        363.08,
+        258.92
+      ],
+      "text": "4.2.1 Over welke objecten worden Master Data verzameld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        262.64,
+        549.47,
+        271.64
+      ],
+      "text": "Om een eerste beeld te krijgen van welke onderwerpen in aanmerking komen voor MDM wordt het UWV Be-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        275.48,
+        545.93,
+        284.48
+      ],
+      "text": "drijfsobjectmodel [11] gehanteerd. UWV gaat uit van één UWV-breed bedrijfsobjectmodel, dat voor alle be-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        288.23,
+        551.21,
+        297.23
+      ],
+      "text": "langhebbenden herkenbaar is. Voor het overzicht maken we een onderscheid tussen kernobjecten en domei-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        300.95,
+        552.27,
+        309.95
+      ],
+      "text": "nobjecten. De huidige versie van het bedrijfsobjectmodel bevat de kernobjecten van UWV. De domeinobject-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        313.67,
+        548.66,
+        322.67
+      ],
+      "text": "modellen, die voor een groot deel al binnen de divisies zijn opgesteld, worden medio 2017 in het bedrijfsob-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        326.51,
+        534.4,
+        335.51
+      ],
+      "text": "jectmodel opgenomen. Door de relatie te leggen met de bedrijfsfuncties (de domeinen) wordt hergebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        339.23,
+        269.37,
+        348.23
+      ],
+      "text": "van bedrijfsobjecten op hoog niveau zichtbaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        365.03,
+        367.26,
+        374.03
+      ],
+      "text": "4.2.2 Welke gegevens worden aangemerkt als Master Data?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        377.75,
+        551.19,
+        386.75
+      ],
+      "text": "Over de diverse bedrijfsobjecten zijn veel verschillende gegevens vastgelegd. Het is uiteraard niet de bedoe-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        390.47,
+        551.3,
+        399.47
+      ],
+      "text": "ling om alles aan te merken als Master Data; alleen de gegevens die bedrijfsbreed gebruikt worden en waar-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        403.19,
+        547.15,
+        412.19
+      ],
+      "text": "van de organisatie het vertrouwen heeft dat deze het dichtst de werkelijkheid benaderen komen in aanmer-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        415.91,
+        79.02,
+        424.91
+      ],
+      "text": "king.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        441.47,
+        547.82,
+        450.47
+      ],
+      "text": "Hiervoor kan het CGM worden ingezet: te beginnen met het selecteren van de entiteiten die vallen onder de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        454.19,
+        549.57,
+        463.19
+      ],
+      "text": "in de vorige stap geselecteerde bedrijfsobjecten, en vervolgens het selecteren van gegevens – vastgelegd in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        466.93,
+        545.49,
+        475.93
+      ],
+      "text": "attributen – die gedeeld worden door meer informatiesystemen. Het CGM brengt de belangrijkste gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        479.77,
+        552.18,
+        488.77
+      ],
+      "text": "van UWV in kaart, en biedt dus een logisch vertrekpunt. Daarnaast bieden de registraties van berichten, ser-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        492.49,
+        516.5,
+        501.49
+      ],
+      "text": "vices en gegevensleveringen inzicht in welke gegevens daadwerkelijk worden gedeeld, en welke niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        517.93,
+        549.88,
+        526.93
+      ],
+      "text": "Vervolgens dient te worden bepaald of er voor de betreffende gegevens een ‘single point of control’ nodig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        530.77,
+        396.9,
+        539.77
+      ],
+      "text": "Dit is het geval als het gegeven op meerdere plaatsen wordt onderhouden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        556.21,
+        542.06,
+        565.21
+      ],
+      "text": "De bepaling van de Master Data dient in overleg met de betrokken partijen plaats te vinden: de gegevens-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        568.93,
+        535.6,
+        577.93
+      ],
+      "text": "eigenaar, de partij die de gegevens onderhoudt en de gebruikers (‘afnemers’) van de gegevens. Nadat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        581.77,
+        551.99,
+        590.77
+      ],
+      "text": "overeenstemming op dit niveau is bereikt, kan via de functionele gegevensmodellen (FUGEMs) bekeken wor-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        594.49,
+        384.47,
+        603.49
+      ],
+      "text": "den in welke applicaties de gegevens daadwerkelijk worden voorkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        619.93,
+        548.56,
+        628.93
+      ],
+      "text": "Vervolgens dient, op basis van in het vervolgtraject vast te stellen criteria, te worden bepaald welk informa-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        632.77,
+        519.58,
+        641.77
+      ],
+      "text": "tiesysteem de master is. Tot deze criteria behoren in ieder geval gegevenskwaliteit en eigenaarschap.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        658.6,
+        305.72,
+        667.6
+      ],
+      "text": "4.2.3 Voorbeelden van Master Data Registraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        671.32,
+        544.04,
+        680.32
+      ],
+      "text": "De Master Data van UWV dienen nog officieel te worden bepaald. In de praktijk fungeren al bepaalde infor-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        684.04,
+        544.47,
+        693.04
+      ],
+      "text": "matiesystemen als mastersysteem voor bepaalde gegevens. Het master data management eromheen dient",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.66,
+        696.76,
+        167.85,
+        705.76
+      ],
+      "text": "nog te worden ingericht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        425.38,
+        144.96,
+        466.01,
+        153.0
+      ],
+      "text": "11 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        173.24,
+        151.13,
+        182.24
+      ],
+      "text": "Persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        185.96,
+        529.77,
+        194.96
+      ],
+      "text": "De persoonsgegevens worden uiteraard in zeer veel informatiesystemen gebruikt. De basis voor de per-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        198.68,
+        528.98,
+        207.68
+      ],
+      "text": "soonsgegevens is de Basisregistratie Personen (BRP). De set gegevens die UWV hiervan ontvangt wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        211.4,
+        546.51,
+        220.4
+      ],
+      "text": "vastgelegd in de UWV Persoonsadministratie (UPA), en van daaruit ter beschikking gesteld. UPA is daarmee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        224.24,
+        549.75,
+        233.24
+      ],
+      "text": "de aangewezen master voor de NAW gegevens, huwelijk/geregistreerd partnerschap, nationaliteit en andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        236.96,
+        551.85,
+        245.96
+      ],
+      "text": "BRP-gegevens. Andere gegevens binnen UPA, die niet afkomstig zijn uit BRP, krijgen op termijn hoogstwaar-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        249.68,
+        424.58,
+        258.68
+      ],
+      "text": "schijnlijk ook de status van mastergegeven. Denk aan het correspondentieadres.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        275.24,
+        159.89,
+        284.24
+      ],
+      "text": "Werkgevergegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        287.99,
+        544.93,
+        296.99
+      ],
+      "text": "UWV gebruikt het begrip Werkgever in verschillende contexten. Zo kennen we de werkgever in de loonaan-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        300.71,
+        542.26,
+        309.71
+      ],
+      "text": "gifte als inhoudingsplichtige, en in het Handelsregister als onderneming. Dit staat verder uitgewerkt op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        313.43,
+        253.39,
+        322.43
+      ],
+      "text": "diagram ‘werkgever in context’ in het CGM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        338.99,
+        118.35,
+        347.99
+      ],
+      "text": "Polisdomein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        351.71,
+        551.8,
+        360.71
+      ],
+      "text": "De master voor de werkgevergegevens die via het Loonheffingennummer worden geïdentificeerd, en door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        364.43,
+        552.31,
+        373.43
+      ],
+      "text": "Belastingdienst worden aangeleverd, is de facto de Werkgeversadministratie (WGA) in het Polisdomein. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        377.27,
+        335.66,
+        386.27
+      ],
+      "text": "bevat inhoudingsplichtigen en hun administratieve eenheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        402.71,
+        492.96,
+        411.71
+      ],
+      "text": "De werkgevergegevens uit het Handelsregister zullen tezijnertijd ook in het Polisdomein landen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        415.43,
+        377.17,
+        424.43
+      ],
+      "text": "Integratie en synchronisatie van beide mastersets is hierbij belangrijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        440.99,
+        142.57,
+        449.99
+      ],
+      "text": "Dienstverbanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        453.71,
+        548.06,
+        462.71
+      ],
+      "text": "De dienstverbanden zijn in de vorm van inkomstenverhoudingen afkomstig uit de loonaangifteketen. Ze zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        466.45,
+        541.54,
+        475.45
+      ],
+      "text": "vastgelegd in de Polisadministratie (Polis+). Polis+ is daarmee de aangewezen master voor de betreffende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        479.29,
+        162.76,
+        488.29
+      ],
+      "text": "loonaangifte-gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        504.73,
+        115.71,
+        513.73
+      ],
+      "text": "Uitkeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        517.45,
+        477.72,
+        526.45
+      ],
+      "text": "Vanuit master data management optiek hebben we bij de uitkeringen een complexe situatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        530.29,
+        550.37,
+        539.29
+      ],
+      "text": "De materiesystemen voor de diverse wetten zijn in principe masters, maar de uitkeringen komen in de vorm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        543.01,
+        343.3,
+        552.01
+      ],
+      "text": "van inkomstenverhoudingen ook terug in de Polisadministratie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        568.45,
+        551.26,
+        577.45
+      ],
+      "text": "In feite is hier sprake van twee sets masterdata: uitkeringsgegevens en inkomstenverhoudingsgegevens. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        581.29,
+        546.45,
+        590.29
+      ],
+      "text": "zijn twee verschillende objecten met wellicht inhoudelijk enkele overeenkomstige kenmerken en op voorko-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        594.01,
+        207.46,
+        603.01
+      ],
+      "text": "menniveau met dezelfde waarde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        619.05,
+        256.39,
+        629.01
+      ],
+      "text": "4.3 Het gewenste ambitieniveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        645.25,
+        535.52,
+        654.25
+      ],
+      "text": "Dit beleid leidt niet tot een groots en meeslepend Master Data programma, maar heeft als ambitie om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        658.0,
+        540.24,
+        667.0
+      ],
+      "text": "doorontwikkeling van de huidige situatie te beschrijven. Immers, door de toepassing van de huidige gege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        670.72,
+        551.41,
+        679.72
+      ],
+      "text": "vensprincipes – waarbij vooral het hergebruik van gegevens voorop staat – hanteert UWV een vorm van Ma-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        683.56,
+        540.85,
+        692.56
+      ],
+      "text": "ster Data Management. Er is dus geen behoefte aan een nieuwe koers, maar aan bestendiging van de hui-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        696.28,
+        149.99,
+        705.28
+      ],
+      "text": "dige ontwikkelingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.66,
+        721.72,
+        397.96,
+        730.72
+      ],
+      "text": "De volgende beleidsuitspraken geven richting aan de verdere ontwikkeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.66,
+        734.56,
+        532.36,
+        743.64
+      ],
+      "text": " De Master Data dienen te worden vastgesteld, op basis van opgestelde criteria. Zie hiervóór par.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        92.66,
+        747.28,
+        110.68,
+        756.28
+      ],
+      "text": "4.2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        425.38,
+        144.96,
+        466.01,
+        153.0
+      ],
+      "text": "12 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.66,
+        172.16,
+        547.66,
+        181.24
+      ],
+      "text": " Er dienen voor de verschillende systemen die Master Data bevatten en beschikbaar stellen overleg-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        184.64,
+        542.49,
+        193.64
+      ],
+      "text": "structuren te worden ingericht waarin de gegevenseigenaar, de systeemeigenaar en afnemers/ge-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        197.24,
+        200.61,
+        206.24
+      ],
+      "text": "bruikers zitting hebben.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        209.84,
+        545.57,
+        218.84
+      ],
+      "text": "Er moet een eenduidig beheerproces worden ingericht voor het up-to-date houden van de structuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.66,
+        209.92,
+        78.8,
+        218.92
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        222.44,
+        338.36,
+        231.44
+      ],
+      "text": "van de Master Data en de inhoud van de Master Data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        247.52,
+        539.49,
+        256.52
+      ],
+      "text": "Er dienen naast het beheer van de Master Data (de voorkomens) ook secundaire beheerprocessen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.66,
+        247.6,
+        78.8,
+        256.6
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        417.34,
+        259.5,
+        466.4,
+        269.12
+      ],
+      "text": "processen5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        260.12,
+        486.23,
+        269.12
+      ],
+      "text": "te worden ingericht. Hierbij kan worden gedacht aan ITIL-gerelateerde als:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.66,
+        282.21,
+        117.28,
+        293.25
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        282.89,
+        545.64,
+        293.93
+      ],
+      "text": "change management (bijvoorbeeld: er wordt een nieuw gegeven toegevoegd aan systeem X,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        296.33,
+        547.25,
+        307.37
+      ],
+      "text": "wordt dat een mastergegeven, wie keurt dat goed en welke systemen, processen, procedures",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        309.77,
+        376.0,
+        320.81
+      ],
+      "text": "en standaarden moeten daarvoor aangepast worden?);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.66,
+        322.53,
+        117.28,
+        333.57
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        323.21,
+        548.84,
+        334.25
+      ],
+      "text": "incident management (bijvoorbeeld incidenten en issues waarbij de kwaliteit van Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        336.65,
+        540.51,
+        347.69
+      ],
+      "text": "of MDM een rol heeft gespeeld, dienen inzichtelijk te zijn en er moet opvolging aan gegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        350.09,
+        169.53,
+        361.13
+      ],
+      "text": "worden);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.66,
+        362.85,
+        117.28,
+        373.89
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        363.53,
+        548.49,
+        374.57
+      ],
+      "text": "service level management (bijvoorbeeld vaststellen en bewaken van dienstenniveaus ten aan-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        376.97,
+        329.19,
+        388.01
+      ],
+      "text": "zien van het onderhouden van Master Data);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        390.29,
+        546.83,
+        401.33
+      ],
+      "text": "compliance management (bijvoorbeeld waarborgen dat MDM als geheel en Master Data spe-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.66,
+        391.26,
+        116.06,
+        400.26
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        128.66,
+        403.73,
+        521.72,
+        414.77
+      ],
+      "text": "cifiek voldoen en blijven voldoen aan relevante interne en externe wet- en regelgeving).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        429.11,
+        537.38,
+        438.11
+      ],
+      "text": "Er dient een PDA-cyclus te worden ingericht die de uitvoering van de afspraken monitort en waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.66,
+        429.19,
+        78.8,
+        438.19
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.66,
+        441.83,
+        233.05,
+        450.83
+      ],
+      "text": "nodig verbeteringen aanbrengt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        479.0,
+        353.66,
+        490.04
+      ],
+      "text": "5 Samenhang met ontwikkelingen binnen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        505.33,
+        549.78,
+        514.33
+      ],
+      "text": "Het beschreven ambitieniveau, van geleidelijkheid en aansluiten bij bestaande ontwikkelingen, past ook bin-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        518.05,
+        534.32,
+        527.05
+      ],
+      "text": "nen de huidige en de gewenste situatie beschreven in het UWV Informatie Plan (UIP), en het programma",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        56.66,
+        530.77,
+        100.63,
+        539.77
+      ],
+      "text": "DEC/DEF.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        543.61,
+        549.18,
+        552.61
+      ],
+      "text": "Project BRP, de ontwikkeling van DEC/DF en het Reference Data Management geven al invulling aan het be-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        556.33,
+        75.99,
+        565.33
+      ],
+      "text": "leid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        581.37,
+        255.45,
+        591.33
+      ],
+      "text": "5.1 UWV Informatieplan en MDM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        594.85,
+        547.93,
+        603.85
+      ],
+      "text": "De MDM aspecten in het UIP omvatten met name de onderdelen E-Werken, E-dienstverlening en Gegevens-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        607.57,
+        549.15,
+        616.57
+      ],
+      "text": "huishouding [12]. Het programma E-werken streeft naar ‘straight through processing’; het automatisch ver-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        620.29,
+        545.28,
+        629.29
+      ],
+      "text": "werken van aanvragen. Dit is alleen mogelijk als de relevante (klant)gegevens vanuit één bron beschikbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        633.13,
+        539.74,
+        642.13
+      ],
+      "text": "zijn. Hierin past ook de ontwikkeling van een divisieoverstijgend CRM. Verder is er sprake van het vereen-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        645.85,
+        435.96,
+        654.85
+      ],
+      "text": "voudigen van het applicatielandschap, wat leidt tot het centraliseren van gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        671.32,
+        540.48,
+        680.32
+      ],
+      "text": "In het kader van e-Dienstverlening wordt gestreefd naar ontkoppeling tussen de portalen en het achterlig-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        684.16,
+        534.93,
+        693.16
+      ],
+      "text": "gende systeemlandschap. Hiertoe wordt een onderscheid gemaakt tussen een klantinteractielaag, en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        696.88,
+        481.54,
+        705.88
+      ],
+      "text": "ondersteunende laag, die onder meer gegevens uit de materiesystemen ter beschikking stelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        709.6,
+        352.79,
+        718.6
+      ],
+      "text": "Hierbij dienen de principes van MDM in acht te worden genomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.66,
+        760.24,
+        59.95,
+        766.72
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        62.18,
+        761.11,
+        466.28,
+        771.07
+      ],
+      "text": "Ontleend aan: Keesjan van Unen e.a. Master Data Management: do’s & don’ts, in Compact_ 2012 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        425.38,
+        144.96,
+        466.01,
+        153.0
+      ],
+      "text": "13 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        173.24,
+        539.54,
+        182.24
+      ],
+      "text": "Binnen het onderdeel Gegevenshuishouding ligt de nadruk op diverse ‘masterdata’ systemen. Denk hierbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        185.96,
+        550.45,
+        194.96
+      ],
+      "text": "aan de loonaangifte in de Polisadministratie, het Landelijk Doelgroep Register (LDR) en de UWV Persoonsad-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        198.68,
+        550.67,
+        207.68
+      ],
+      "text": "ministratie (UPA). In dit kader zijn de volgende veranderingen aan de orde: het centraal in UPA beheren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        211.4,
+        546.09,
+        220.4
+      ],
+      "text": "persoonsgegevens; het aansluiten op externe gegevensbronnen, en het realiseren dan wel doorontwikkelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        224.24,
+        151.93,
+        233.24
+      ],
+      "text": "van interne bronnen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        249.16,
+        228.31,
+        259.12
+      ],
+      "text": "5.2 Het programma DEC/DF",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        169.61,
+        262.02,
+        203.01,
+        271.64
+      ],
+      "text": "6streeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        262.64,
+        540.07,
+        271.64
+      ],
+      "text": "Het programma DEC/DF naar een gegevenshuishouding, waarin het beschikbaar stellen van gege-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        275.48,
+        549.88,
+        284.48
+      ],
+      "text": "vens uit de bronsystemen richting de diverse afnemerkanalen evenals het meten, rapporteren en het maken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        288.23,
+        547.58,
+        297.23
+      ],
+      "text": "van afspraken over de kwaliteit van die gegevens gemeenschappelijk wordt georganiseerd [13]. Ook streeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        300.95,
+        550.99,
+        309.95
+      ],
+      "text": "DEC/DF ernaar om snel te kunnen inspelen op veranderende behoeften in het proces van reflectief sturen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        313.67,
+        127.98,
+        322.67
+      ],
+      "text": "verantwoorden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        326.51,
+        527.54,
+        335.51
+      ],
+      "text": "De kern van de aanpak is het efficiënt beschikbaar stellen van een beperkte set standaard gegevens, in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        339.23,
+        545.21,
+        348.23
+      ],
+      "text": "combinatie met een aantal gestandaardiseerde leverkanalen. De concepten van standaard gegevens en pa-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        351.95,
+        550.31,
+        360.95
+      ],
+      "text": "rametriseerbare leveringen zijn al operationeel op gegevens uit het Polisdomein en kunnen breder toegepast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        364.67,
+        93.27,
+        373.67
+      ],
+      "text": "worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        389.71,
+        197.85,
+        399.67
+      ],
+      "text": "5.3 Project BRP, tenzij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        403.19,
+        546.79,
+        412.19
+      ],
+      "text": "Het doel van project BRP is adressen en bankrekeningnummers centraal te gebruiken en voor medewerkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        415.91,
+        546.22,
+        424.91
+      ],
+      "text": "inzichtelijk te maken in welke situatie zij welk soort adres (RNI/GBA-adres, Verblijfadres, en Corresponden-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        428.75,
+        548.73,
+        437.75
+      ],
+      "text": "tieadres) moeten gebruiken. Voor de klant moet duidelijk worden welk adres zij wanneer moeten doorgeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        441.47,
+        446.81,
+        450.47
+      ],
+      "text": "aan UWV of de gemeente. Een tweede doel is de implementatie van RNI binnen UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        454.19,
+        550.08,
+        463.19
+      ],
+      "text": "Al deze gegevens worden centraal beheerd (in UPA) en van daaruit middels services ter beschikking gesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        466.93,
+        263.22,
+        475.93
+      ],
+      "text": "Dit is daarmee een goed voorbeeld van MDM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        491.97,
+        254.46,
+        501.93
+      ],
+      "text": "5.4 Reference data management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        505.45,
+        541.77,
+        514.45
+      ],
+      "text": "In april 2016 is het beleid Reference Data management [2] vastgesteld. In 2017 wordt de uitvoering daar-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        518.29,
+        530.6,
+        527.29
+      ],
+      "text": "van door middel van een of meer pilots beproefd. Reference data kan beschouwd worden als een onder-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        531.01,
+        551.64,
+        540.01
+      ],
+      "text": "klasse van Masterdata. Dit type gegevens worden gebruikt om bedrijfsgegevens te classificeren, en bevatten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        543.73,
+        357.68,
+        552.73
+      ],
+      "text": "een vast waardebereik gedurende een bepaalde periode in de tijd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        580.88,
+        132.64,
+        591.92
+      ],
+      "text": "6 Tenslotte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        607.21,
+        547.46,
+        616.21
+      ],
+      "text": "Het hier beschreven ambitieniveau is goed uitvoerbaar. Aan een aantal belangrijke voorwaarden – zoals het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 13,
+      "bbox": [
+        370.83,
+        619.31,
+        395.69,
+        628.93
+      ],
+      "text": "CGM7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        619.93,
+        528.68,
+        628.93
+      ],
+      "text": "standaardiseren van de gegevensbeschrijvingen – is voldaan, en het kan ingezet worden voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        632.77,
+        200.37,
+        641.77
+      ],
+      "text": "vaststellen van de Master Data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        645.49,
+        529.88,
+        654.49
+      ],
+      "text": "Ook de daadwerkelijke toepassing van MDM binnen UWV is op een aantal plekken al gaande of gepland.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        658.24,
+        542.38,
+        667.24
+      ],
+      "text": "Het is nu zaak om eenduidige afspraken en beheerprocessen voor deze en toekomstige initiatieven en ont-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        670.96,
+        496.63,
+        679.96
+      ],
+      "text": "wikkelingen te gaan maken, met het oog op een optimaal functionerende gegevenshuishouding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        721.96,
+        59.95,
+        728.44
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.18,
+        722.83,
+        549.37,
+        732.79
+      ],
+      "text": "Het programma zal voorjaar 2017 in de lijn belegd worden, waarbij het gedeelte van de Datafabriek onder DWH als pro-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        735.55,
+        473.69,
+        745.51
+      ],
+      "text": "ject wordt voortgezet. Het DEC wordt verder opgepakt bij de uitwerking van IV-transitie 'Vraagsturing'.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        747.52,
+        59.95,
+        754.0
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.18,
+        748.39,
+        533.67,
+        758.35
+      ],
+      "text": "N.B. Het CGM bevat nog niet de gegevens uit de secundaire systemen. Zo is de Grote geldstroom is niet beschreven,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.66,
+        761.11,
+        464.07,
+        771.07
+      ],
+      "text": "deze vormt een belangrijk onderdeel van de masterdata in de context van Sturen & Verantwoorden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        31.38,
+        520.86,
+        40.38
+      ],
+      "text": "Beleid Master Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        44.34,
+        490.56,
+        53.34
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        79.0,
+        447.79,
+        85.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        90.12,
+        501.13,
+        98.16
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        106.5,
+        446.53,
+        112.5
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        117.6,
+        446.57,
+        125.64
+      ],
+      "text": "1.1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        133.98,
+        448.34,
+        139.98
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        425.38,
+        144.96,
+        466.01,
+        153.0
+      ],
+      "text": "14 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        56.66,
+        171.63,
+        235.15,
+        182.67
+      ],
+      "text": "7 Gerelateerde documenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        56.66,
+        197.96,
+        545.0,
+        206.96
+      ],
+      "text": "De in dit document genoemde beleids- en/of architectuurdocumenten van de Data Office UWV zijn beschik-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        56.66,
+        210.68,
+        398.9,
+        219.68
+      ],
+      "text": "baar op de Digitale Werkplek onder Data Office UWV, Producten en Kaders.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        238.4,
+        462.42,
+        247.4
+      ],
+      "text": "[1] Data Office, „Onderzoek Master Data Management, versie 1.0,” 18 December 2014.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        254.24,
+        525.27,
+        263.24
+      ],
+      "text": "[2] Data Office, „Beleid Reference Data UWV : voor het beheren en beschikbaar stellen van reference",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        81.62,
+        266.96,
+        228.06,
+        275.96
+      ],
+      "text": "data. versie 3.0,” 18 April 2016.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        282.71,
+        398.3,
+        291.71
+      ],
+      "text": "[3] Data Office, „Strategische Focus Gegevensmanagement,” 6 Juli 2016.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        298.43,
+        530.79,
+        307.43
+      ],
+      "text": "[4] Data Office, „Gegevensprincipes UWV : Principes voor het besturen, inrichten en beheersen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        81.62,
+        311.27,
+        351.6,
+        320.27
+      ],
+      "text": "UWV-gegevenshuishouding , versie 1.1,” 11 Februari 2013.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        326.99,
+        439.29,
+        335.99
+      ],
+      "text": "[5] Data Office, „Omgaan met gegevensredundantie, versie 1.0,” 5 Februari 2008.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        342.71,
+        381.05,
+        351.71
+      ],
+      "text": "[6] Digitale overheid, „Kwaliteit en terugmelden,” [Online]. Available:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        81.62,
+        355.43,
+        493.19,
+        364.43
+      ],
+      "text": "https://www.digitaleoverheid.nl/beleid/naar-een-gegevenslandschap/themas/kwaliteit-en-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        81.62,
+        368.27,
+        264.85,
+        377.27
+      ],
+      "text": "terugmelden/. [Geopend 6 Maart 2017].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        383.99,
+        478.97,
+        392.99
+      ],
+      "text": "[7] Data Office, „Canoniek Gegevensmodel UWV, releasedatum 26 juli 2016,” 26 Juli 2016.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        399.71,
+        382.68,
+        408.71
+      ],
+      "text": "[8] Data Office, „Standaard Functioneel Gegevensmodel,” 6 Juli 2012.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        415.43,
+        549.97,
+        424.43
+      ],
+      "text": "[9] Data Office, „Berichtstandaard UWV : Proces berichtontwikkeling en onderdelen van een bericht, versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        81.62,
+        428.27,
+        192.59,
+        437.27
+      ],
+      "text": "3.1,” 17 Augustus 2015.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        443.99,
+        426.14,
+        452.99
+      ],
+      "text": "[1] Data Office, „Beleid Gegevenseigenaarschap, versie 2.0,” 10 Februari 2014.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        459.71,
+        369.23,
+        468.71
+      ],
+      "text": "[11] Data Office, „Standaard Bedrijfsobjectmodel,” 31 Januari 2012.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        475.45,
+        506.4,
+        484.45
+      ],
+      "text": "[12] CIO Office, „UWV Informatieplan 2017 – 2021 : Puzzelen met prioriteiten,” 15 Februari 2017.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        491.29,
+        442.23,
+        500.29
+      ],
+      "text": "[13] Gegevensdiensten, „Programma Data Expertise Centrum / Data fabriek,” 2016.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        58.94,
+        507.01,
+        400.08,
+        516.01
+      ],
+      "text": "[14] Data Office, „Advies Contactgegevens van de burger,” 30 Maart 2016.",
+      "source": "text"
+    }
+  ]
+}

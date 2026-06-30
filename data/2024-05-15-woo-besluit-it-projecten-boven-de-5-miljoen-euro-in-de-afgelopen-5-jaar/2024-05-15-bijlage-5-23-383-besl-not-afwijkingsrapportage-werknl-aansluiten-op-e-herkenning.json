@@ -1,0 +1,3953 @@
+{
+  "source_id": "2024-05-15-woo-besluit-it-projecten-boven-de-5-miljoen-euro-in-de-afgelopen-5-jaar/2024-05-15-bijlage-5-23-383-besl-not-afwijkingsrapportage-werknl-aansluiten-op-e-herkenning",
+  "publication_slug": "2024-05-15-woo-besluit-it-projecten-boven-de-5-miljoen-euro-in-de-afgelopen-5-jaar",
+  "pdf_slug": "2024-05-15-bijlage-5-23-383-besl-not-afwijkingsrapportage-werknl-aansluiten-op-e-herkenning",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-it-projecten-boven-de-5-miljoen-euro-in-de-afgelopen-5-jaar",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/70f209ba-2521-42a4-a92b-486240fe550a/bijlage-5-23-383-besl-not-afwijkingsrapportage-werknl-aansluiten-op-e-herkenning.pdf",
+  "publication_title": "Woo-besluit IT-projecten boven de 5 miljoen euro in de afgelopen 5 jaar",
+  "publication_date": "2024-05-15T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 5. 23-383 Besl.not. Afwijkingsrapportage Werk.nl aansluiten op e-herkenning (PDF, 195 kB)",
+  "retrieved_at": "2026-06-30T13:01:30+00:00",
+  "sha256": "0c30aadd9a4236c6294b62ec1cffdce66b638919203fa3395d308031e496bc73",
+  "page_count": 6,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        84.14,
+        467.34,
+        93.14
+      ],
+      "text": "Voorlegger vergadering Raad van Bestuur UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        120.91,
+        381.56,
+        129.91
+      ],
+      "text": "Vergadering Raad van bestuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        134.41,
+        302.74,
+        143.41
+      ],
+      "text": "Datum 31 oktober 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        149.91,
+        484.92,
+        158.91
+      ],
+      "text": "Agendapunt 9 23 - 383",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        150.06,
+        439.29,
+        158.56
+      ],
+      "text": "Agendapunt Nummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        165.16,
+        520.08,
+        174.16
+      ],
+      "text": "Onderwerp Afwijkingsrapportage project Werk.nl aansluiten op eHerkenning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        180.41,
+        340.68,
+        189.41
+      ],
+      "text": "Directeur Directeur Uitvoering K&S",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        195.66,
+        91.34,
+        204.66
+      ],
+      "text": "Opsteller",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        211.19,
+        315.7,
+        220.19
+      ],
+      "text": "Portefeuillehouder RvB Nathalie van Berkel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        226.44,
+        397.23,
+        235.44
+      ],
+      "text": "Onderwerp heeft instemming van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        241.44,
+        283.58,
+        250.44
+      ],
+      "text": "Directeur Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        256.44,
+        246.51,
+        265.44
+      ],
+      "text": "Naam van het organisatieonderdeel K&S",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        271.69,
+        485.18,
+        280.69
+      ],
+      "text": "Advies Portfoliobureau K&S PB K&S adviseert akkoord te gaan met de inhoud van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        284.19,
+        563.0,
+        293.19
+      ],
+      "text": "afwijkingsrapportage en het vervolg van het project eHerkenning werk.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        308.71,
+        543.26,
+        317.71
+      ],
+      "text": "PB K&S adviseert akkoord te gaan met de aanvraag voor meer tijd (4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        320.96,
+        561.06,
+        329.96
+      ],
+      "text": "maanden) en aanvullende budgetvrijgave voor 2023 €991K waardoor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        333.21,
+        564.56,
+        342.21
+      ],
+      "text": "projectbudget in de periode 1 januari tot en met 31 december 2023 wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        345.46,
+        429.94,
+        354.46
+      ],
+      "text": "verhoogd van €1.007 mln. naar €1.998 mln.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        369.96,
+        569.81,
+        378.96
+      ],
+      "text": "PB K&S constateert dat voor 2023 de totale MFO-claim van het programma",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        382.23,
+        565.53,
+        391.23
+      ],
+      "text": "WDO €4,251mln bedraagt en dit bedrag iets onder de totale prognose van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        394.48,
+        516.0,
+        403.48
+      ],
+      "text": "het programma WDO ad € 4,495mln ligt. De overschrijding van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        406.73,
+        567.08,
+        415.73
+      ],
+      "text": "eHerkenning werk.nl wordt opgevangen door de ontstane financiële ruimte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        418.98,
+        463.16,
+        427.98
+      ],
+      "text": "bij andere projecten die onder de MFO-claim vallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        443.48,
+        559.43,
+        452.48
+      ],
+      "text": "PB K&S constateert dat dit niet meer in lijn ligt met de recente afspraken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        455.73,
+        517.07,
+        464.73
+      ],
+      "text": "die zijn gemaakt met de RvB omtrent het projectportfolio. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        468.01,
+        569.11,
+        477.01
+      ],
+      "text": "afwijkingsrapportage is het goedkeuringsproces reeds gestart voordat deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        480.26,
+        566.66,
+        489.26
+      ],
+      "text": "afspraken bekend waren. Daarnaast is de afwijking inmiddels een gegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        492.51,
+        573.16,
+        501.51
+      ],
+      "text": "en kunnen hier geen extra maatregelen meer op worden ondernomen naast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        504.76,
+        567.9,
+        513.76
+      ],
+      "text": "het opvangen van deze kosten binnen de totale MFO claim van 2023, zoals",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        517.01,
+        551.41,
+        526.01
+      ],
+      "text": "bij het opstellen van deze afwijkingsrapportage met BC&K en PB FEZ is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        529.26,
+        269.59,
+        538.26
+      ],
+      "text": "overlegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        544.76,
+        378.21,
+        553.76
+      ],
+      "text": "Reactie directeur Akkoord met Advies van PB K&S.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        559.03,
+        533.9,
+        568.03
+      ],
+      "text": "Naar aanleiding van de kwartaalsessie van juni zijn voor een aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.02,
+        560.03,
+        161.6,
+        569.03
+      ],
+      "text": "Centraal PortfolioBureau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        569.04,
+        548.76,
+        578.04
+      ],
+      "text": "projecten de budgetten bijgesteld. K&S had voor project E-Herkenning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        579.03,
+        529.6,
+        588.03
+      ],
+      "text": "werk.nl een prognose van € 1.793k gemeld, maar deze is nog niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        589.04,
+        373.19,
+        598.04
+      ],
+      "text": "verwerkt. PB stelt dit alsnog bij.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        609.03,
+        557.25,
+        618.03
+      ],
+      "text": "PB constateert dat K&S akkoord vraagt voor budgetvrijgave van € 991k,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        619.03,
+        549.99,
+        628.03
+      ],
+      "text": "waardoor het totaal benodigde budget voor 2023 uitkomt op € 1.998k.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        629.03,
+        553.59,
+        638.03
+      ],
+      "text": "Daarmee wordt € 205k meer gevraagd dan beschikbaar voor dit project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        639.06,
+        489.03,
+        648.06
+      ],
+      "text": "(€ 1.793k). PB doet een beroep op K&S erop te sturen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        649.06,
+        464.14,
+        658.06
+      ],
+      "text": "budgetoverschrijding tot een minimum te beperken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        669.06,
+        553.11,
+        678.06
+      ],
+      "text": "Gezien de resterende projectduur en het feit dat een groot deel van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        679.06,
+        567.31,
+        688.06
+      ],
+      "text": "benodigde budget reeds besteed is, verwacht PB dat binnen budget blijven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        689.06,
+        558.44,
+        698.06
+      ],
+      "text": "in 2023 waarschijnlijk niet meer mogelijk is. PB beschouwt de advisering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        699.06,
+        550.91,
+        708.06
+      ],
+      "text": "over budgetvrijgave van € 991k tot en met december 2023 daarom als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        709.06,
+        346.24,
+        718.06
+      ],
+      "text": "administratief afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        729.09,
+        550.01,
+        738.09
+      ],
+      "text": "Volgens de oude planning zou Werk.nl op de ingangsdatum van de wet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        739.09,
+        543.07,
+        748.09
+      ],
+      "text": "Digitale Overheid (1 juli 2023) aangesloten zijn op E-Herkenning. Die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        749.09,
+        569.43,
+        758.09
+      ],
+      "text": "datum is niet gehaald. Sinds 23 september is E-Herkenning beschikbaar op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.6,
+        759.09,
+        265.6,
+        768.09
+      ],
+      "text": "Werk.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        511.48,
+        797.59,
+        545.95,
+        806.59
+      ],
+      "text": "1 van 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        439.2,
+        799.97,
+        508.63,
+        805.97
+      ],
+      "text": "CO140 22176 10-12 W",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        45.14,
+        554.61,
+        54.14
+      ],
+      "text": "PB constateert dat de projectkosten ten opzichte van de oorspronkelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        55.14,
+        559.39,
+        64.14
+      ],
+      "text": "baseline inmiddels zijn verdubbeld van € 5 miljoen naar € 10 miljoen. PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        65.14,
+        529.63,
+        74.14
+      ],
+      "text": "adviseert in het kader van leren en ontwikkelen bij decharge extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        75.14,
+        417.64,
+        84.14
+      ],
+      "text": "aandacht te besteden aan te leren lessen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        95.14,
+        522.71,
+        104.14
+      ],
+      "text": "De meer- en minderkosten worden door PB centraal bij decharge",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        105.14,
+        528.15,
+        114.14
+      ],
+      "text": "vastgesteld. De Ontwikkel- en testomgeving die voor dit project is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        115.14,
+        563.61,
+        124.14
+      ],
+      "text": "opgeleverd kost met ingang van 2024 € 780k per jaar. WB verwacht deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        125.16,
+        554.59,
+        134.16
+      ],
+      "text": "in te kunnen zetten voor andere projecten en/of groot onderhoud, maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        135.16,
+        562.46,
+        144.16
+      ],
+      "text": "niet duidelijk is op welke wijze dit gefinancierd wordt en wat het oplevert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        145.16,
+        513.89,
+        154.16
+      ],
+      "text": "PB adviseert WB opdracht te geven uiterlijk eind 2023 met een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        155.16,
+        531.81,
+        164.16
+      ],
+      "text": "businesscase hiervoor te komen zodat bij decharge van het project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        165.16,
+        558.77,
+        174.16
+      ],
+      "text": "beoordeeld kan worden of de jaarlijkse kosten van € 780k wenselijk zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        51.02,
+        179.16,
+        202.82,
+        188.16
+      ],
+      "text": "Reactie directie K&S op advies en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        184.16,
+        570.12,
+        193.16
+      ],
+      "text": "De ontwikkelingen rond de afwijking zijn de afgelopen maanden tussentijds",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        51.02,
+        191.41,
+        161.84,
+        200.41
+      ],
+      "text": "bevindingen PB Centraal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        194.16,
+        567.22,
+        203.16
+      ],
+      "text": "tweemaal met PB-FEZ besproken. Er is tijdens deze gesprekken gehandeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        204.16,
+        545.9,
+        213.16
+      ],
+      "text": "vanuit het zijn van ‘een programma met een W&R budget’, waarbij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        214.19,
+        557.65,
+        223.19
+      ],
+      "text": "overschrijding nog past binnen het door het Ministerie afgegeven bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        224.19,
+        547.61,
+        233.19
+      ],
+      "text": "voor uitvoering van de WDO bij UWV. Intern is deze werkwijze, die we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        234.19,
+        515.91,
+        243.19
+      ],
+      "text": "‘werken met buckets’ noemen bij UWV, met PB-FEZ besproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        250.19,
+        560.88,
+        259.19
+      ],
+      "text": "Door het project zijn de afwijkingen van de hogere kosten bij Werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        260.19,
+        528.23,
+        269.19
+      ],
+      "text": "(werk.nl) en K&S vorige jaar besproken, afgestemd en uiteindelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        270.19,
+        551.6,
+        279.19
+      ],
+      "text": "geescaleerd naar de SG. Daarnaast zijn met Werkbedrijf verrekeningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        280.18,
+        535.81,
+        289.18
+      ],
+      "text": "afgesproken t.a.v. de Ontwikkel&Testomgeving die werkbedrijf gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        290.18,
+        499.13,
+        299.18
+      ],
+      "text": "overnemen. Deze zal in 2024 worden ingezet op het project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        300.21,
+        561.46,
+        309.21
+      ],
+      "text": "Bemiddelingsservice. Kosten van deze OT omgevingen zijn opgenomen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        310.21,
+        338.27,
+        319.21
+      ],
+      "text": "de Werbedrijf begroting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        320.21,
+        557.14,
+        329.21
+      ],
+      "text": "Het project zal zeker aandacht besteden met K&S en Werkbedrijf aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        330.21,
+        554.59,
+        339.21
+      ],
+      "text": "geleerde lessen en deze vastleggen in een lessonslearned rapport bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.6,
+        340.21,
+        529.9,
+        349.21
+      ],
+      "text": "decharge van het project. Hiervoor wordt ook PB-FEZ uitgenodigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        361.46,
+        265.76,
+        370.46
+      ],
+      "text": "Door Raad van bestuur te nemen besluiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        382.23,
+        537.35,
+        391.23
+      ],
+      "text": "Akkoord te geven op meer (4 maanden) tijd en aanvullend budgetvrijgave voor 2023 van € 991K waardoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        394.48,
+        531.58,
+        403.48
+      ],
+      "text": "het projectbudget in de periode 1 januari tot en met 31 december 2023 wordt verhoogd van € 1.007 mln.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        406.73,
+        131.98,
+        415.73
+      ],
+      "text": "naar € 1.998 mln.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        427.48,
+        284.41,
+        436.48
+      ],
+      "text": "Samenvatting onderwerp en reden bespreking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        448.23,
+        529.38,
+        457.23
+      ],
+      "text": "Het project aansluiten eHerkenning werk.nl (onderdeel van het UWV programma WDO) bevindt zich in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        460.48,
+        541.06,
+        469.48
+      ],
+      "text": "vierde en laatste fase van het project. De afgegeven ingangsdatum van de WDO is 1 juli 2023. Ten opzichte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        472.76,
+        538.77,
+        481.76
+      ],
+      "text": "van het oorspronkelijke livedatum betekent verdere verschuiving dat UWV voor dit Werk.nl portaal niet aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        485.01,
+        437.36,
+        494.01
+      ],
+      "text": "de WDO voldoet. Het project is opgenomen in het UIP en kent een centraal mandaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        509.51,
+        521.21,
+        518.51
+      ],
+      "text": "Op 8 januari 2023 is het herijkte projectplan door de RvB geaccordeerd en is budget voor het jaar 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        521.76,
+        515.68,
+        530.76
+      ],
+      "text": "vrijgegeven en aldus zijn de activiteiten ingepland en de realisatie gestart. De realisatie van producten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        534.01,
+        517.43,
+        543.01
+      ],
+      "text": "verliep grotendeels conform planning echter met een veel hogere burnrate dan geprognotiseerd. Naast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        546.26,
+        530.81,
+        555.26
+      ],
+      "text": "andere oorzaken waar in de afwijkingsrapportage verder op wordt ingeggaan, is in grote mate de oorzaak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        558.53,
+        492.72,
+        567.53
+      ],
+      "text": "van de verhoogde burnrate te vinden in het verschil tussen de agile werkende teams enerzijds en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        570.78,
+        524.97,
+        579.78
+      ],
+      "text": "projectorganisatie anderzijds. Teams schatten werk pas op detail in vlak voor ze er mee beginnen terwijl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        583.03,
+        534.24,
+        592.03
+      ],
+      "text": "budgetten lang van te voren worden vrijgegeven en gebaseerd zijn op hoogoverinschattingen en analyses.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        607.54,
+        489.23,
+        616.54
+      ],
+      "text": "Gedurende het eerste half jaar hebben zich hierdoor voor bijna alle deliverables overschrijdingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        619.78,
+        542.55,
+        628.78
+      ],
+      "text": "voorgedaan. Over deze overschrijdingen is direct gesproken met de productowners, betrokken stakeholders,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        632.04,
+        544.22,
+        641.04
+      ],
+      "text": "de gedelegeerd opdrachtgever, BC&K, PB K&S en de senior supplier vanuit Werkbedrijf. Aan de hand van die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        644.31,
+        510.98,
+        653.31
+      ],
+      "text": "gesprekken zijn maatregelen genomen. In maart is er met stakeholders gesproken en in april 2023 is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        656.56,
+        531.28,
+        665.56
+      ],
+      "text": "vanwege de verhoogde burnrate de prognose voor het project bijgesteld echter was toen nog de hoop dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        668.81,
+        535.54,
+        677.81
+      ],
+      "text": "reserveringen voor het herstellen van fouten niet nodig zouden zijn en het hierbij zou blijven. Als toen was",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        681.31,
+        504.39,
+        690.31
+      ],
+      "text": "besloten om een afwijking in te dienen, dan was deze in mei gereed geweest. Echter in mei werd de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        693.56,
+        537.84,
+        702.56
+      ],
+      "text": "burnrate nog hoger en is gestart met een nieuwe inventarisatie. N.a.v. deze inventarisatie is in juni toch de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        705.81,
+        518.1,
+        714.81
+      ],
+      "text": "noodzaak gebleken een afwijkingsrapportage te maken. Onderstaande tijdslijn geeft een weergave van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        718.06,
+        433.29,
+        727.06
+      ],
+      "text": "mitigerende maatregelen die in 2023 zijn genomen in het kader van de financiele en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        730.33,
+        250.19,
+        739.33
+      ],
+      "text": "planningsontwikkelingen binnen het project.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        49.77,
+        754.84,
+        481.83,
+        763.84
+      ],
+      "text": "De capaciteit is afgestemd met de betrokken divisies (K&S en Werkbedrijf) en verwerkt in FCC.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        511.48,
+        797.59,
+        545.95,
+        806.59
+      ],
+      "text": "2 van 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        439.2,
+        799.97,
+        508.63,
+        805.97
+      ],
+      "text": "CO140 22176 10-12 W",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        61.0,
+        259.0,
+        335.0,
+        271.0
+      ],
+      "text": "Dec 22 herijking projectplan op basis van",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.0,
+        274.0,
+        291.0,
+        286.0
+      ],
+      "text": "inschattingen product omers",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        886.0,
+        259.0,
+        964.0,
+        271.0
+      ],
+      "text": "traal budget",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        878.0,
+        274.0,
+        945.0,
+        283.0
+      ],
+      "text": "1.007 min.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        730.0,
+        259.0,
+        809.0,
+        269.0
+      ],
+      "text": "8 feb'23 ad",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        741.0,
+        277.0,
+        807.0,
+        286.0
+      ],
+      "text": "vrijgave \"2",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1048.0,
+        249.0,
+        1289.0,
+        261.0
+      ],
+      "text": "Mrt. '23 SIT-periode afgrond en SIT-",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1040.0,
+        264.0,
+        1293.0,
+        276.0
+      ],
+      "text": "testrapportage opgeleverd aan project.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1032.0,
+        282.0,
+        1303.0,
+        295.0
+      ],
+      "text": "eHerkenning test inlog pagina gelanceerd",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1357.0,
+        259.0,
+        1629.0,
+        271.0
+      ],
+      "text": "April 23 Acceptatietestperiode gestart en",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1363.0,
+        264.0,
+        1619.0,
+        292.0
+      ],
+      "text": "aantal bevindingen tot heden valt mee.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        112.0,
+        362.0,
+        606.0,
+        375.0
+      ],
+      "text": "Kosten en planning Groen Kosten en planning Groen",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        88.0,
+        450.0,
+        654.0,
+        478.0
+      ],
+      "text": "Maatregel overlappenfase Zen4 Maatregel controllers prognose overleg",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        386.0,
+        546.0,
+        657.0,
+        560.0
+      ],
+      "text": "Maatregel eigen eH Werk.nltestmanager",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        485.0,
+        563.0,
+        556.0,
+        572.0
+      ],
+      "text": "vanuit GIV",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        390.0,
+        627.0,
+        655.0,
+        656.0
+      ],
+      "text": "Maatregel eigen eHerkenning release in",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        386.0,
+        650.0,
+        656.0,
+        663.0
+      ],
+      "text": "maart’23 zodat de live datum in juni\"23",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        435.0,
+        664.0,
+        606.0,
+        677.0
+      ],
+      "text": "gewaarborgd kon blijven;",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        759.0,
+        362.0,
+        930.0,
+        375.0
+      ],
+      "text": "Kosten en planning Groen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        716.0,
+        458.0,
+        974.0,
+        471.0
+      ],
+      "text": "Maatregel controllers prognose overleg",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        719.0,
+        546.0,
+        971.0,
+        560.0
+      ],
+      "text": "Maatregel uit herijkt projectplan eigen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        711.0,
+        561.0,
+        977.0,
+        575.0
+      ],
+      "text": "OT omgeving voor werk.nl opgeleverd.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        747.0,
+        635.0,
+        943.0,
+        648.0
+      ],
+      "text": "Maatregel testmanager telt in",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        715.0,
+        650.0,
+        974.0,
+        663.0
+      ],
+      "text": "samensprask met releasemanagement",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        791.0,
+        664.0,
+        896.0,
+        677.0
+      ],
+      "text": "testplannen op.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        709.0,
+        716.0,
+        885.0,
+        729.0
+      ],
+      "text": "Maatregel, toestaandater",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        715.0,
+        731.0,
+        973.0,
+        744.0
+      ],
+      "text": "vast vordt getest op het werk van K&S",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        734.0,
+        745.0,
+        956.0,
+        758.0
+      ],
+      "text": "tervijl werkbedrijf nog een sprint",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        730.0,
+        750.0,
+        960.0,
+        778.0
+      ],
+      "text": "realiseert en deze |ater aan de SIT",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        811.0,
+        775.0,
+        876.0,
+        787.0
+      ],
+      "text": "toevoegt.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        715.0,
+        833.0,
+        976.0,
+        847.0
+      ],
+      "text": "Acceptatie planningsvijziging realisatie",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        769.0,
+        850.0,
+        921.0,
+        862.0
+      ],
+      "text": "Logging en Monitoring.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1049.0,
+        362.0,
+        1289.0,
+        375.0
+      ],
+      "text": "Kosten Oranje in mnd. Rap. PB K&S.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1056.0,
+        450.0,
+        1283.0,
+        478.0
+      ],
+      "text": "Prognose verhoogd naar € 1.300k",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1050.0,
+        531.0,
+        1288.0,
+        545.0
+      ],
+      "text": "Maatregel toekenning post oplossen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1031.0,
+        546.0,
+        1305.0,
+        560.0
+      ],
+      "text": "‘bevindingen in budgetprognose verwerkt.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1040.0,
+        560.0,
+        1296.0,
+        573.0
+      ],
+      "text": "Aantallen op basis van ervaringscijfers",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1075.0,
+        574.0,
+        1261.0,
+        587.0
+      ],
+      "text": "‘vanuit releasemanagement.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1043.0,
+        642.0,
+        1296.0,
+        656.0
+      ],
+      "text": "Afstemming project PB K&S noodzaak",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1067.0,
+        649.0,
+        1270.0,
+        678.0
+      ],
+      "text": "afvijking nu budget op oranje.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1039.0,
+        739.0,
+        1300.0,
+        752.0
+      ],
+      "text": "Maatregelen uitvraag prognose bij PO's",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1040.0,
+        754.0,
+        1298.0,
+        767.0
+      ],
+      "text": "en extra overleg controller werkbedrijf.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1040.0,
+        834.0,
+        1302.0,
+        862.0
+      ],
+      "text": "Maatregel controllers prognose overleg",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1039.0,
+        929.0,
+        1298.0,
+        943.0
+      ],
+      "text": "Maatregel; verhogen voorgangsoverleg",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1100.0,
+        944.0,
+        1238.0,
+        958.0
+      ],
+      "text": "met de projectleden.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1373.0,
+        362.0,
+        1613.0,
+        375.0
+      ],
+      "text": "Kosten Oranje in mnd. Rap. PB K&S.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1400.0,
+        459.0,
+        1586.0,
+        469.0
+      ],
+      "text": "Start externe communkatie",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1364.0,
+        553.0,
+        1622.0,
+        566.0
+      ],
+      "text": "Maatregel contrallers prognose overleg",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1367.0,
+        642.0,
+        1620.0,
+        656.0
+      ],
+      "text": "Afstemming project PB K&S noodzaak",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1391.0,
+        649.0,
+        1594.0,
+        678.0
+      ],
+      "text": "afvijking nu budget op oranje.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1362.0,
+        724.0,
+        1625.0,
+        737.0
+      ],
+      "text": "Refinement en afstemming van Logging",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1360.0,
+        739.0,
+        1625.0,
+        752.0
+      ],
+      "text": "‚en Monitoring voor eHerkenning stories.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1356.0,
+        738.0,
+        1629.0,
+        773.0
+      ],
+      "text": "Nieuw inzicht hieromtrert vordt verwerkt",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1438.0,
+        766.0,
+        1548.0,
+        779.0
+      ],
+      "text": "in de prognoses.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1701.0,
+        354.0,
+        1929.0,
+        382.0
+      ],
+      "text": "Kosten Rood in mnd. Rap. PB KES.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1678.0,
+        435.0,
+        1953.0,
+        449.0
+      ],
+      "text": "€ 786k vaardoor het projectbudget in de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1712.0,
+        450.0,
+        1920.0,
+        464.0
+      ],
+      "text": "periode 1 januari tot en met 30",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1689.0,
+        464.0,
+        1942.0,
+        477.0
+      ],
+      "text": "september 2023 word verhoogd van €",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1717.0,
+        474.0,
+        1913.0,
+        496.0
+      ],
+      "text": "1.007 min. naar € 1.793 min.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1681.0,
+        531.0,
+        1950.0,
+        560.0
+      ],
+      "text": "Start afvijking, opnieuw uitvraag bij alle",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1691.0,
+        546.0,
+        1944.0,
+        575.0
+      ],
+      "text": "leverende partijen over prognoses tot",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1678.0,
+        568.0,
+        1954.0,
+        581.0
+      ],
+      "text": "eind project gericht op einddatum 24 juni.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1713.0,
+        634.0,
+        1924.0,
+        662.0
+      ],
+      "text": "Externe communicatie conform",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1738.0,
+        658.0,
+        1893.0,
+        668.0
+      ],
+      "text": "communicatie kalender",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1687.0,
+        745.0,
+        1944.0,
+        758.0
+      ],
+      "text": "Maatregel controllers prognose overleg",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1690.0,
+        841.0,
+        1939.0,
+        854.0
+      ],
+      "text": "Afstemming project PB K8S afvijking.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1678.0,
+        929.0,
+        1953.0,
+        943.0
+      ],
+      "text": "Maatregel: Analyse issue lange laactijden",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1748.0,
+        944.0,
+        1884.0,
+        958.0
+      ],
+      "text": "uit performancetest",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1678.0,
+        1009.0,
+        1953.0,
+        1040.0
+      ],
+      "text": "Maatregel: Aanmaken ticket Oradle i.c.m.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1686.0,
+        1030.0,
+        1946.0,
+        1053.0
+      ],
+      "text": "UWV OAM expertise i.v.m. issue fouten",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1717.0,
+        1039.0,
+        1911.0,
+        1070.0
+      ],
+      "text": "bij inloggen Werk.nl met eH.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1680.0,
+        1122.0,
+        1951.0,
+        1150.0
+      ],
+      "text": "Nieuwe voorlopige livedatum 21 juli 23",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2114.0,
+        267.0,
+        2165.0,
+        276.0
+      ],
+      "text": "Juni’23",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        2025.0,
+        354.0,
+        2253.0,
+        382.0
+      ],
+      "text": "Kosten Rood in mnd. Rap. PB KES.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2021.0,
+        458.0,
+        2256.0,
+        471.0
+      ],
+      "text": "Afstemming PB K8S over afvijking.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2003.0,
+        546.0,
+        2277.0,
+        560.0
+      ],
+      "text": "Maatregel: Aanstellen oplosteam UWV en",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2042.0,
+        561.0,
+        2238.0,
+        574.0
+      ],
+      "text": "DXC i.r.t. performance issues",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2017.0,
+        635.0,
+        2263.0,
+        648.0
+      ],
+      "text": "Maatregel: Online serminar gericht op",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        2017.0,
+        643.0,
+        2263.0,
+        671.0
+      ],
+      "text": "uitzendbranche vanwege veel vragen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2099.0,
+        665.0,
+        2180.0,
+        674.0
+      ],
+      "text": "omtrent eH.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2030.0,
+        739.0,
+        2251.0,
+        752.0
+      ],
+      "text": "Maatregel Communicatiekalender",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2041.0,
+        754.0,
+        2238.0,
+        767.0
+      ],
+      "text": "bijgewerkt n.2.v. nieuwe data",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2005.0,
+        827.0,
+        2275.0,
+        840.0
+      ],
+      "text": "Performance testen blijven slecht. 21 juli",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2035.0,
+        842.0,
+        2246.0,
+        855.0
+      ],
+      "text": "lijkt niet meer haalbaar. Nieuwe,",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2014.0,
+        856.0,
+        2263.0,
+        869.0
+      ],
+      "text": "voorlopige livedatum 26 augustus 23",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2015.0,
+        916.0,
+        2265.0,
+        929.0
+      ],
+      "text": "Maatregel: Issue UWV OAM en Oracle",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        2031.0,
+        922.0,
+        2252.0,
+        951.0
+      ],
+      "text": "bestaat nogsteeds bij 3 van de &",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2002.0,
+        944.0,
+        2277.0,
+        958.0
+      ],
+      "text": "providers. Orade onderkent dit als bugen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        2084.0,
+        958.0,
+        2195.0,
+        971.0
+      ],
+      "text": "brengt patch uit.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1925.0,
+        1531.0,
+        2219.0,
+        1551.0
+      ],
+      "text": "CO140 22176 10-12W 3 van 6",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        44.39,
+        536.17,
+        53.39
+      ],
+      "text": "In bovenstaandoverzicht is te zien dat er vanuit het project diverse maatregelen genomen zijn om controle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        56.64,
+        538.08,
+        65.64
+      ],
+      "text": "te houden en te sturen op de tijdige realisatie van producten en de financiele ontwikkeling. Ondanks dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        68.89,
+        488.72,
+        77.89
+      ],
+      "text": "realisatie van producten redelijk conform planning verloopt volgde een veel hogere burnrate dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        81.14,
+        543.15,
+        90.14
+      ],
+      "text": "geprognotiseerd. Deze hogere burnrate kent diverse oorzaken waaronder de CAO verhoging (hogere kosten,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        93.39,
+        537.03,
+        102.39
+      ],
+      "text": "zelfde uren) en de transitie naar clusters bij IV Online. Bij het uitwerken van de benodigde functionaliteiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        105.64,
+        530.76,
+        114.64
+      ],
+      "text": "is gebleken dat de eerder gemaakte globale inschatting niet in overeenstemming was met de complexiteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        117.89,
+        178.65,
+        126.89
+      ],
+      "text": "van de benodigde oplossing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.02,
+        130.16,
+        535.04,
+        139.16
+      ],
+      "text": "Een prognoses kan welliswaar tussentijds worden bijgesteld maar dat zorgt verder niet voor meer budget.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        142.66,
+        538.52,
+        151.66
+      ],
+      "text": "Inschattingen van teams binnen UWV zijn daarbij zelden te hoog en in de regel veel te laag. Gedurende het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        154.91,
+        542.45,
+        163.91
+      ],
+      "text": "eerste half jaar hebben zich voor bijna alle deliverables overschrijdingen voorgedaan, zie hoodstuk financien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        167.16,
+        510.54,
+        176.16
+      ],
+      "text": "in deze rapportage. Over deze overschrijdingen is direct gesproken met de productowners, betrokken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        179.41,
+        532.59,
+        188.41
+      ],
+      "text": "stakeholders, de gedelegeerd opdrachtgever, BC&K, PB K&S en de senior supplier vanuit Werkbedrijf. Aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        191.66,
+        545.5,
+        200.66
+      ],
+      "text": "de hand van die gesprekken zijn maatregelen genomen en is eerst oranje en vervolgens rood gerapporteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        216.19,
+        538.7,
+        225.19
+      ],
+      "text": "Conform projectplan was livegang gepland in juni 2023 en decharge voor september 2023. Realisatie loopt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        228.44,
+        537.18,
+        237.44
+      ],
+      "text": "zoals hierboven beschreven, uit de planning met als voornaamste oorzaak het falen van performancetesten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        240.69,
+        541.39,
+        249.69
+      ],
+      "text": "en het onderzoek en herstelwerkzaamheden hieromtrent. Als maatregel op deze tegenvallende perfromance",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        252.94,
+        493.49,
+        261.94
+      ],
+      "text": "testen zijn door een specialistenteam vanuit WerkBedrijf met levernacier mogelijke oorzaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        265.19,
+        542.69,
+        274.19
+      ],
+      "text": "onderzocht en wordt gewerkt aan een oplossing. In samenspraak met releasemanagement bij WerkBedrijf is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        277.43,
+        525.06,
+        286.43
+      ],
+      "text": "temnslotte de release kalender voor Werk.nl verder bekeken en is een nieuwe release moment (inclusief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        289.69,
+        326.82,
+        298.69
+      ],
+      "text": "capaciteit) vastgelegd op repesctievelijk 23 september 2023.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        301.96,
+        544.02,
+        310.96
+      ],
+      "text": "Voornoemde uitloop in realisatie gecombineerd een hogere uitnutting dan het vrijgegeven budget is besloten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        314.21,
+        243.09,
+        323.21
+      ],
+      "text": "nu deze afwijkingsrapportage in te dienen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        338.71,
+        530.67,
+        347.71
+      ],
+      "text": "Het project eHerkenning voor alle werkgeversportalen, zakelijk portaal en derden waar de aansluiting van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        350.96,
+        519.75,
+        359.96
+      ],
+      "text": "Werk.nl op eHerkenning onder valt is onderdeel van de implementatie van WDO en is gelabeld als W&R",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        363.21,
+        422.26,
+        372.21
+      ],
+      "text": "project. De initiële begroting voor 2023 ad €1.007 is opgenomen in de MFO 2023.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        375.46,
+        536.99,
+        384.46
+      ],
+      "text": "Voor 2023 bedraagt de totale MFO claim van het programma WDO €4,251mln en dit bedrag ligt nog steeds",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        387.73,
+        527.56,
+        396.73
+      ],
+      "text": "redelijk in lijn met de totale prognose van het programma WDO ad € 4,495mln. De overschrijding van E-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        399.98,
+        537.31,
+        408.98
+      ],
+      "text": "herkenning voor alle werkgeversportalen, zakelijk portaal en derden wordt nu nog grotendeels opgevangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        412.23,
+        456.08,
+        421.23
+      ],
+      "text": "door de ontstane financiële ruimte bij andere projecten die onder de WDO paraplu vallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        436.73,
+        532.81,
+        445.73
+      ],
+      "text": "Met akkoord op deze afwijking kan het project de projectdeliverables opleveren door het realiseren van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        448.98,
+        504.71,
+        457.98
+      ],
+      "text": "aansluiting van eHerkenning op Werk.nl voor veilige digtale toegang. Hiermee draagt het project als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        461.48,
+        428.25,
+        470.48
+      ],
+      "text": "onderdeel van het WDO programma bij aan de organisatie doelstellingen van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        482.26,
+        165.09,
+        491.26
+      ],
+      "text": "Gevolgen voor mensen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        503.01,
+        529.41,
+        512.01
+      ],
+      "text": "Door de afronding van dit project voldoet UWV voor dit portaal (tijdig) aan de WDO en zorgt het voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        515.26,
+        296.24,
+        524.26
+      ],
+      "text": "veilige manier van inloggen voor de klanten van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        49.77,
+        536.01,
+        288.73,
+        545.01
+      ],
+      "text": "Kansen en risico’s voor (de opdracht van) UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.77,
+        561.28,
+        492.67,
+        570.28
+      ],
+      "text": "Nr. Risico K I P Maatregel Eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.55,
+        581.09,
+        507.84,
+        589.09
+      ],
+      "text": "UWV voldoet niet tijdig (vanaf 1 juli H M M - Er is een dubbele SIT/ACC-periode Opdrachtgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.78,
+        583.09,
+        82.69,
+        591.09
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.55,
+        592.09,
+        442.03,
+        600.09
+      ],
+      "text": "2023) aan de WDO gereserveerd en er vindt afstemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        603.08,
+        411.79,
+        611.08
+      ],
+      "text": "plaats tussen de po’s, release",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.55,
+        613.83,
+        391.5,
+        621.83
+      ],
+      "text": "Uitloop in tijd en geld als gevolg van management en het test",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.55,
+        624.83,
+        417.62,
+        632.83
+      ],
+      "text": "testtijd en bevindingen uit de servicecentrum over de test en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        86.55,
+        635.61,
+        358.23,
+        643.61
+      ],
+      "text": "acceptatie en performance tests releaseplanning.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        657.61,
+        405.73,
+        665.61
+      ],
+      "text": "- Communicatie is eveneens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        668.36,
+        425.51,
+        676.36
+      ],
+      "text": "betrokken bij de overleggen over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        679.36,
+        433.47,
+        687.36
+      ],
+      "text": "planning en bespreking van issues.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        701.11,
+        418.6,
+        709.11
+      ],
+      "text": "- Naast ruimte voor testen is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        712.11,
+        441.58,
+        720.11
+      ],
+      "text": "samenspraak met de product owners",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        722.89,
+        412.61,
+        730.89
+      ],
+      "text": "en de controllers op basis van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        733.88,
+        418.56,
+        741.88
+      ],
+      "text": "ervaring in de begroting ruimte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        744.63,
+        430.65,
+        752.63
+      ],
+      "text": "opgenomen voor het oplossen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        292.13,
+        755.63,
+        412.97,
+        763.63
+      ],
+      "text": "testbevindingen en hertesten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        511.48,
+        797.59,
+        545.95,
+        806.59
+      ],
+      "text": "4 van 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        439.2,
+        799.97,
+        508.63,
+        805.97
+      ],
+      "text": "CO140 22176 10-12 W",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        49.14,
+        492.67,
+        58.14
+      ],
+      "text": "Nr. Risico K I P Maatregel Eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        79.94,
+        437.53,
+        87.94
+      ],
+      "text": "- Speciaal team vanuit en UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        90.69,
+        440.36,
+        98.69
+      ],
+      "text": "Werkbedrijf voor het identificeren en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        101.69,
+        420.05,
+        109.69
+      ],
+      "text": "oplossen van bevindingen en 2-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        112.44,
+        402.72,
+        120.44
+      ],
+      "text": "wekelijks integraal overleg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        134.21,
+        442.94,
+        142.21
+      ],
+      "text": "- Release op productie uitstellen naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        145.21,
+        416.61,
+        153.21
+      ],
+      "text": "23 september / eerst volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        156.21,
+        387.25,
+        164.21
+      ],
+      "text": "mogelijke datum vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        166.96,
+        373.75,
+        174.96
+      ],
+      "text": "releasemanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        186.96,
+        521.08,
+        194.96
+      ],
+      "text": "LoMo later gereed, tijdelijk minder M M M De impact is beperkt, de livegang Senior leverancier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        189.16,
+        83.8,
+        198.16
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.8,
+        189.96,
+        97.89,
+        197.96
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        196.71,
+        464.92,
+        204.71
+      ],
+      "text": "hoeft niet te worden uitgesteld en het K&S",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        197.71,
+        207.9,
+        205.71
+      ],
+      "text": "traceerbaarheid bedreigingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        206.49,
+        403.0,
+        214.49
+      ],
+      "text": "portaal heeft wel een hoger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        215.99,
+        421.48,
+        223.99
+      ],
+      "text": "veiligheidsniveau dan voorheen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        219.74,
+        231.28,
+        227.74
+      ],
+      "text": "Logging en monitoring kan in Q3 na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        225.74,
+        437.95,
+        233.74
+      ],
+      "text": "Overleg met IB&P of dit een risico is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        230.49,
+        225.92,
+        238.49
+      ],
+      "text": "livegang worden afgerond dus niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        235.49,
+        436.97,
+        243.49
+      ],
+      "text": "voor de livegang leverde op dat wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        241.49,
+        237.69,
+        249.49
+      ],
+      "text": "tegelijkertijd met de realisatie van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        245.24,
+        426.52,
+        253.24
+      ],
+      "text": "hen betreft geen security/privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        252.24,
+        193.96,
+        260.24
+      ],
+      "text": "aansluiting van Werk.nl op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        292.13,
+        254.99,
+        345.98,
+        262.99
+      ],
+      "text": "risico betreft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        263.24,
+        218.92,
+        271.24
+      ],
+      "text": "eHerkenning. Hierdoor wordt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        274.23,
+        202.99,
+        282.23
+      ],
+      "text": "portaal wel met eHerkenning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        284.99,
+        241.97,
+        292.99
+      ],
+      "text": "opgeleverd maar werkt de logging nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        296.01,
+        220.12,
+        304.01
+      ],
+      "text": "niet volledig en zijn bedreigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        306.76,
+        207.67,
+        314.76
+      ],
+      "text": "gedurende die periode minder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.55,
+        317.76,
+        136.18,
+        325.76
+      ],
+      "text": "traceerbaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        342.21,
+        239.75,
+        351.21
+      ],
+      "text": "Strategische aspecten van het besluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        362.96,
+        536.14,
+        371.96
+      ],
+      "text": "Het project Werk.nl aansluiten op eHerkenning sluit aan bij de UWV UIP 2023 en bijbehorende werkagenda",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        375.21,
+        516.32,
+        384.21
+      ],
+      "text": "en meer specifiek de doelstelling: Stabiele ICT die de dienstverlening en de medewerkers ondersteunt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        395.98,
+        245.0,
+        404.98
+      ],
+      "text": "Bedrijfsvoering (personeel/financieel)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        416.73,
+        351.73,
+        425.73
+      ],
+      "text": "Er zijn geen personele consequenties gemoeid met deze afwijking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        437.48,
+        123.26,
+        446.48
+      ],
+      "text": "Duurzaamheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        458.23,
+        499.59,
+        467.23
+      ],
+      "text": "Dit project heeft impact op maatschappelijke thema’s in de zin dat door het voldoen aan een hoger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        469.01,
+        523.8,
+        478.01
+      ],
+      "text": "authenticatieniveau op het portaal Werk.nl, werkgevers op een veiligere manier zaken kunnen doen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        480.01,
+        419.34,
+        489.01
+      ],
+      "text": "UWV en de privacy van de cliënten van UWV hierdoor beter geborgd kan worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        499.51,
+        200.96,
+        508.51
+      ],
+      "text": "Vervolgtraject besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        520.26,
+        240.61,
+        529.26
+      ],
+      "text": "WDO Stuurgroep Digitale Dienstverlening,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        49.77,
+        531.26,
+        87.01,
+        540.26
+      ],
+      "text": "PB K&S,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        542.01,
+        178.66,
+        551.01
+      ],
+      "text": "Directie K&S en directie WB,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        49.77,
+        553.03,
+        89.74,
+        562.03
+      ],
+      "text": "PB UWV,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        49.77,
+        564.03,
+        68.44,
+        573.03
+      ],
+      "text": "RVB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        583.53,
+        121.71,
+        592.53
+      ],
+      "text": "Communicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        604.28,
+        504.23,
+        613.28
+      ],
+      "text": "• Extern communicatie naar de zakelijke afnemers die gebruik maken van inloggen op het portaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        67.78,
+        616.54,
+        105.77,
+        625.54
+      ],
+      "text": "Werk.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        628.78,
+        504.57,
+        637.78
+      ],
+      "text": "• Intern communicatie naar de UWV-medewerkers die gebruik maken van inloggen op het portaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        67.78,
+        641.06,
+        105.77,
+        650.06
+      ],
+      "text": "Werk.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        653.31,
+        477.71,
+        662.31
+      ],
+      "text": "• Informeren management van de UWV-medewerkers over inloggen op het portaal Werk.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        677.81,
+        491.7,
+        686.81
+      ],
+      "text": "Communicatieactiviteiten door Communicatieadviseurs programma WDO – Werk.nl aansluiten op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        690.06,
+        109.99,
+        699.06
+      ],
+      "text": "eHerkenning.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        710.81,
+        120.78,
+        719.81
+      ],
+      "text": "Openbaarheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        731.59,
+        523.36,
+        740.59
+      ],
+      "text": "Deze documenten kunnen openbaar gemaakt worden (onderbouw ook de keuzes voor opties 2, 3 en 4):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        85.28,
+        743.24,
+        94.28,
+        752.24
+      ],
+      "text": "☒",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        743.84,
+        200.97,
+        752.84
+      ],
+      "text": "1 Ja, in hun geheel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        85.28,
+        756.49,
+        94.28,
+        765.49
+      ],
+      "text": "☐",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.77,
+        757.09,
+        460.97,
+        766.09
+      ],
+      "text": "2 Deels, markeer in de documenten wat niet openbaar gemaakt kan worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        511.48,
+        797.59,
+        545.95,
+        806.59
+      ],
+      "text": "5 van 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        439.2,
+        799.97,
+        508.63,
+        805.97
+      ],
+      "text": "CO140 22176 10-12 W",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        85.28,
+        43.8,
+        94.28,
+        52.8
+      ],
+      "text": "☐",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.77,
+        44.39,
+        287.9,
+        53.39
+      ],
+      "text": "3 Nee, de bijbehorende bijlage(n) niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        85.28,
+        57.05,
+        94.28,
+        66.05
+      ],
+      "text": "☐",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.77,
+        57.64,
+        208.73,
+        66.64
+      ],
+      "text": "4 Nee, helemaal niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.77,
+        79.14,
+        96.53,
+        88.14
+      ],
+      "text": "Metadata",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.77,
+        99.89,
+        453.39,
+        108.89
+      ],
+      "text": "Omschrijving: Afwijkingsrapportage en het vervolg van het project eHerkenning werk.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.77,
+        112.14,
+        457.44,
+        121.14
+      ],
+      "text": "Trefwoorden: UN0801, Afwijkingsrapportage, WDO, eHerkenning, werk.nl, W&R Project,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        511.48,
+        797.59,
+        545.95,
+        806.59
+      ],
+      "text": "6 van 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        439.2,
+        799.97,
+        508.63,
+        805.97
+      ],
+      "text": "CO140 22176 10-12 W",
+      "source": "text"
+    }
+  ]
+}

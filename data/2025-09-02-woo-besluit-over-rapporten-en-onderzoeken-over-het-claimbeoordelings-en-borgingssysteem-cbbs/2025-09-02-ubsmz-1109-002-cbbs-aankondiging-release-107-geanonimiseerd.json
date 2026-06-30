@@ -1,0 +1,557 @@
+{
+  "source_id": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs/2025-09-02-ubsmz-1109-002-cbbs-aankondiging-release-107-geanonimiseerd",
+  "publication_slug": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_slug": "2025-09-02-ubsmz-1109-002-cbbs-aankondiging-release-107-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/61fdfbd0-6776-42f7-bb77-8a8dfa4fd421/ubsmz-1109-002-cbbs-aankondiging-release-107-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over rapporten en onderzoeken over het Claimbeoordelings- en Borgingssysteem (CBBS)",
+  "publication_date": "2025-09-02T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "UBSMZ 1109-002 - CBBS - Aankondiging release 1.0.7 (PDF, 211 kB)",
+  "retrieved_at": "2026-06-30T12:29:25+00:00",
+  "sha256": "ce37acc6a52b7b2343cec1a2c156eaf2d208c00ba8c0ca5f5c9132fe5f4c7c28",
+  "page_count": 1,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        25.01,
+        425.5,
+        33.01
+      ],
+      "text": "Titel",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        413.0,
+        39.01,
+        437.17,
+        49.01
+      ],
+      "text": "CBBS:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        51.01,
+        470.23,
+        61.01
+      ],
+      "text": "Aankondiging",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        149.0,
+        57.01,
+        324.64,
+        71.01
+      ],
+      "text": "UitvoeringsberichtSMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        63.01,
+        470.0,
+        73.01
+      ],
+      "text": "release 1. 0. 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        105.01,
+        469.0,
+        115.01
+      ],
+      "text": "Beste collega",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        472.0,
+        111.0,
+        474.0,
+        116.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        132.01,
+        489.5,
+        142.01
+      ],
+      "text": "Essentie dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        458.0,
+        134.01,
+        472.25,
+        142.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        137.01,
+        119.21,
+        145.01
+      ],
+      "text": "Berichtnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        144.01,
+        444.5,
+        154.01
+      ],
+      "text": "bericht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        151.01,
+        151.56,
+        161.01
+      ],
+      "text": "UBSMZ 1109-002",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        437.0,
+        159.01,
+        486.09,
+        169.01
+      ],
+      "text": "02-09-2011",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        161.01,
+        432.17,
+        169.01
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        183.01,
+        82.8,
+        191.01
+      ],
+      "text": "Aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        185.01,
+        422.75,
+        193.01
+      ],
+      "text": "Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        154.0,
+        196.01,
+        315.2,
+        206.01
+      ],
+      "text": "SMZ Claim Staf Staf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        197.01,
+        437.89,
+        205.01
+      ],
+      "text": "Afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        197.01,
+        374.12,
+        207.01
+      ],
+      "text": "Districtsmanagers Managers AD VA Manager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        174.0,
+        202.0,
+        336.0,
+        207.0
+      ],
+      "text": ", , , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        209.01,
+        193.47,
+        219.01
+      ],
+      "text": "Operationele Arbeidsanalyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        413.0,
+        211.01,
+        465.0,
+        221.01
+      ],
+      "text": "B&O IM SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        237.01,
+        96.25,
+        245.01
+      ],
+      "text": "Bestemd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        101.0,
+        238.01,
+        116.0,
+        245.01
+      ],
+      "text": "voor:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        246.01,
+        462.5,
+        254.01
+      ],
+      "text": "De site SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        438.0,
+        247.01,
+        447.75,
+        254.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        250.01,
+        132.63,
+        260.01
+      ],
+      "text": "Alle gebruikers",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        140.0,
+        251.01,
+        160.0,
+        261.01
+      ],
+      "text": "CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        260.01,
+        451.6,
+        270.01
+      ],
+      "text": "Ons werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        287.01,
+        498.67,
+        297.01
+      ],
+      "text": "Met dit bericht informeer ik jullie de inhoud de nCBBS-release 2 september 2011.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        222.0,
+        289.01,
+        409.75,
+        297.01
+      ],
+      "text": "over van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        314.01,
+        469.33,
+        324.01
+      ],
+      "text": "Deze release is vanaf 5 september 2011 jullie beschikbaar. Een beschrijving de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        256.0,
+        316.01,
+        454.75,
+        324.01
+      ],
+      "text": "voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        326.01,
+        291.5,
+        336.01
+      ],
+      "text": "inhoud de release vind de Releasenotes.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        196.0,
+        327.01,
+        213.33,
+        337.01
+      ],
+      "text": "je in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        105.0,
+        328.01,
+        117.75,
+        336.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        354.01,
+        165.0,
+        364.01
+      ],
+      "text": "Met vriendelijke groet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        169.0,
+        359.0,
+        171.0,
+        364.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        410.01,
+        182.0,
+        420.01
+      ],
+      "text": "Coördinator O&E IM SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        146.0,
+        416.0,
+        148.0,
+        421.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        49.0,
+        678.01,
+        452.75,
+        687.01
+      ],
+      "text": "Vragen zijn welkom via servicedesk SMZ te Amsterdam: Klik hier uitgebreide informatie het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        315.0,
+        679.01,
+        436.4,
+        687.01
+      ],
+      "text": "om over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        49.0,
+        690.01,
+        238.0,
+        699.01
+      ],
+      "text": "vinden de servicedesk raadplegen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        109.0,
+        691.01,
+        188.33,
+        700.01
+      ],
+      "text": "juiste te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        692.01,
+        90.25,
+        700.01
+      ],
+      "text": "van",
+      "source": "text"
+    }
+  ]
+}

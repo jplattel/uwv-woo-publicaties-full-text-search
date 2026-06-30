@@ -1,0 +1,2645 @@
+{
+  "source_id": "2024-08-14-woo-besluit-gegevensuitwisseling-met-pensioenfonds/2024-08-14-bijlage-8-p02-loonaangiftegegevens-productbeschrijving-voor-afnemer-v1-0",
+  "publication_slug": "2024-08-14-woo-besluit-gegevensuitwisseling-met-pensioenfonds",
+  "pdf_slug": "2024-08-14-bijlage-8-p02-loonaangiftegegevens-productbeschrijving-voor-afnemer-v1-0",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-gegevensuitwisseling-met-pensioenfonds",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/c3606356-5472-45c7-9393-664da3e00f9b/bijlage-8-p02-loonaangiftegegevens-productbeschrijving-voor-afnemer-v1-0.pdf",
+  "publication_title": "Woo-besluit gegevensuitwisseling met Pensioenfonds",
+  "publication_date": "2024-08-14T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 8. P02 Loonaangiftegegevens productbeschrijving voor de afnemer v1.0 (PDF, 457 kB)",
+  "retrieved_at": "2026-06-30T12:56:56+00:00",
+  "sha256": "1a44da991d3af2265588936d9fcdb00c855e40bd46e4fc7dd4fb02158973db4c",
+  "page_count": 7,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        205.0,
+        223.0,
+        1075.0,
+        309.0
+      ],
+      "text": "Loonaangiftegegevens",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        201.0,
+        388.0,
+        593.0,
+        431.0
+      ],
+      "text": "Productbeschrijving",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        1312.0,
+        1836.0,
+        1423.0,
+        1871.0
+      ],
+      "text": "UwWV",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        70.82,
+        74.58,
+        122.03,
+        92.58
+      ],
+      "text": "Inhoud",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        98.36,
+        524.0,
+        107.36
+      ],
+      "text": "Productbeschrijving ............................................................................................................. 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        115.4,
+        524.0,
+        124.4
+      ],
+      "text": "1 Inleiding ...................................................................................................................... 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        132.44,
+        524.0,
+        141.44
+      ],
+      "text": "Aanleiding ............................................................................................................. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        149.36,
+        524.0,
+        158.36
+      ],
+      "text": "Algemene informatie .............................................................................................. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        166.4,
+        524.0,
+        175.4
+      ],
+      "text": "2 Productbeschrijving ...................................................................................................... 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        183.44,
+        524.0,
+        192.44
+      ],
+      "text": "Productbeschrijving ................................................................................................ 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        200.48,
+        524.0,
+        209.48
+      ],
+      "text": "Productspecificatie ................................................................................................. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        217.52,
+        524.0,
+        226.52
+      ],
+      "text": "3 Gegevens .................................................................................................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        234.56,
+        524.0,
+        243.56
+      ],
+      "text": "Doelgroep ............................................................................................................. 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        251.6,
+        524.0,
+        260.6
+      ],
+      "text": "Populatie/selectie ................................................................................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        268.64,
+        524.0,
+        277.64
+      ],
+      "text": "Gegevensset ......................................................................................................... 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        285.71,
+        524.0,
+        294.71
+      ],
+      "text": "Bestanden ............................................................................................................ 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        302.75,
+        524.0,
+        311.75
+      ],
+      "text": "Hoe weet u of een levering compleet en correct is? .................................................... 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.86,
+        319.79,
+        524.0,
+        328.79
+      ],
+      "text": "Distributiekanaal & Beveiligingsklasse ...................................................................... 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        336.83,
+        524.0,
+        345.83
+      ],
+      "text": "3 Contact ....................................................................................................................... 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.38,
+        779.36,
+        214.27,
+        787.4
+      ],
+      "text": "Productbeschrijving voor afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        464.62,
+        780.68,
+        524.59,
+        788.72
+      ],
+      "text": "Pagina 2 van 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.38,
+        789.08,
+        262.92,
+        797.12
+      ],
+      "text": "Productcode P02- Versie 1.0 – augustus 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        72.37,
+        144.53,
+        83.41
+      ],
+      "text": "1 Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.42,
+        98.92,
+        172.8,
+        108.88
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        122.44,
+        508.09,
+        132.4
+      ],
+      "text": "In deze productbeschrijving vindt u informatie over het product loonaangiftegegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        134.68,
+        487.54,
+        144.64
+      ],
+      "text": "Het product wordt gemaakt via een “Parametriseerbare Lever Module”ook wel PLM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        146.8,
+        509.23,
+        156.76
+      ],
+      "text": "genoemd. Met dit product ontvangt u alleen de gegevens die u nodig heeft om uw taak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        158.92,
+        458.41,
+        168.88
+      ],
+      "text": "uit te voeren. Het betreft een levering over een grote hoeveelheid gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        184.24,
+        224.4,
+        194.2
+      ],
+      "text": "Algemene informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        208.96,
+        460.05,
+        218.92
+      ],
+      "text": "De loonaangiftegegevens komen van administratieve eenheden: werkgevers,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        221.2,
+        518.37,
+        231.16
+      ],
+      "text": "uitkeringsinstanties of pensioenuitvoerders. De administratieve eenheid is de organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        233.32,
+        508.66,
+        243.28
+      ],
+      "text": "die verantwoordelijk is voor het insturen van de loonaangifte. In de meeste gevallen is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        245.44,
+        478.35,
+        255.4
+      ],
+      "text": "dit de werkgever of uitkeringsinstantie. Bij grote ondernemingen kan dit ook een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        257.56,
+        371.67,
+        267.52
+      ],
+      "text": "onderdeel of werkmaatschappij zijn van deze onderneming.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        281.95,
+        508.46,
+        291.91
+      ],
+      "text": "Met het product Loonaangiftegegevens selecteert u van natuurlijke personen zoals een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        294.07,
+        481.59,
+        304.03
+      ],
+      "text": "werknemer, uitkeringsgerechtigde of een pensioengerechtigde, gegevens over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        306.31,
+        345.34,
+        316.27
+      ],
+      "text": "inkomsten. Deze gegevens komen uit de loonaangifte.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        330.55,
+        524.1,
+        340.51
+      ],
+      "text": "De adresgegevens in Loonaangiftegegevens zijn de adressen zoals die via de loonaangifte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        342.67,
+        523.63,
+        352.63
+      ],
+      "text": "zijn aangeleverd. Een adres kan afwijken van het adres waarop een natuurlijk persoon bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        354.91,
+        221.46,
+        364.87
+      ],
+      "text": "de gemeente is ingeschreven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        379.15,
+        522.93,
+        389.11
+      ],
+      "text": "U kunt dit product op maat samenstellen. Hiervoor kiest u de gegevens, de doelgroep, de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        391.39,
+        508.63,
+        401.35
+      ],
+      "text": "selectie, de leverperiode en de frequentie die u nodig heeft om uw taken uit te voeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        415.63,
+        424.53,
+        425.59
+      ],
+      "text": "Heeft u vragen? Stuur dan een e-mail naar gegevensdiensten@uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        453.06,
+        212.79,
+        464.1
+      ],
+      "text": "2 Productbeschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        479.73,
+        219.46,
+        489.69
+      ],
+      "text": "Productbeschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        503.25,
+        168.34,
+        513.21
+      ],
+      "text": "Productcode : P02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        515.37,
+        262.04,
+        525.33
+      ],
+      "text": "Productnaam : Loonaangiftegegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        539.73,
+        492.88,
+        549.69
+      ],
+      "text": "Als u het product Loonaangiftegegevens wilt ontvangen, bespreken wij met u welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        551.85,
+        515.74,
+        561.81
+      ],
+      "text": "gegevens wij voor u selecteren; welke gegevens u nodig heeft over welke doelgroep, en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        563.97,
+        490.94,
+        573.93
+      ],
+      "text": "over welke periode. Wij leggen dit vast, zodat we weten wat we met elkaar hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        576.21,
+        135.99,
+        586.17
+      ],
+      "text": "afgesproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        601.53,
+        214.07,
+        611.49
+      ],
+      "text": "Productspecificatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        626.25,
+        458.59,
+        636.21
+      ],
+      "text": "U ontvangt een productspecificatie. Deze bestaat uit de volgende informatie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        638.37,
+        481.84,
+        648.33
+      ],
+      "text": "• Productspecificatie van de configuratie (een beschrijving welke gegevens in uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.26,
+        650.49,
+        228.68,
+        660.45
+      ],
+      "text": "configuratie zijn opgenomen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        662.76,
+        510.4,
+        672.72
+      ],
+      "text": "• De productiespecificatie wordt aan u aangeleverd en hiervoor dient u een akkoord te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.26,
+        674.88,
+        458.89,
+        684.84
+      ],
+      "text": "geven zodat we weten dat deze met de gemaakte afspraken overeenkomt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.38,
+        779.36,
+        214.27,
+        787.4
+      ],
+      "text": "Productbeschrijving voor afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        464.62,
+        780.68,
+        524.59,
+        788.72
+      ],
+      "text": "Pagina 3 van 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.38,
+        789.08,
+        262.92,
+        797.12
+      ],
+      "text": "Productcode P02- Versie 1.0 – augustus 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        72.37,
+        148.88,
+        83.41
+      ],
+      "text": "3 Gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        98.92,
+        164.4,
+        108.88
+      ],
+      "text": "Doelgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        111.52,
+        254.12,
+        121.48
+      ],
+      "text": "Om de doelgroep te bepalen kunt u:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        130.96,
+        426.49,
+        140.92
+      ],
+      "text": "• zelf een selectie maken door een lijst met burgerservicenummers of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        84.74,
+        144.28,
+        388.96,
+        154.24
+      ],
+      "text": "loonheffingennummers via een vraagbestand aan te bieden;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        163.6,
+        466.48,
+        173.56
+      ],
+      "text": "• Gegevensdiensten de doelgroep laten bepalen. Wij kunnen bijvoorbeeld een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        84.86,
+        177.04,
+        350.11,
+        187.0
+      ],
+      "text": "selectie maken op sector, leeftijd of postcodegebied.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        196.36,
+        498.18,
+        206.32
+      ],
+      "text": "Gaat u zelf een selectie maken? Dan kunt u dit als vraagbestand, in een puntkomma",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        208.6,
+        471.02,
+        218.56
+      ],
+      "text": "gescheiden bestandsformaat (CSV), uploaden via Mijn Gegevensdiensten. Meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        220.72,
+        522.86,
+        230.68
+      ],
+      "text": "informatie over het uploaden van uw vraagbestand vindt u in de handleiding ‘Hoe lever ik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        232.84,
+        514.06,
+        242.8
+      ],
+      "text": "een vraagbestand aan?’. De handleiding kunt u downloaden van Mijn Gegevensdiensten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        244.96,
+        313.84,
+        254.92
+      ],
+      "text": "op de pagina waarop u uw bestanden aanlevert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        270.28,
+        209.77,
+        280.24
+      ],
+      "text": "Populatie/selectie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        282.91,
+        414.74,
+        292.87
+      ],
+      "text": "U kiest gegevens uit de volgende groepen, waarmee wij het product",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        296.95,
+        293.43,
+        306.91
+      ],
+      "text": "Loonaangiftegegevens voor u samenstellen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        99.14,
+        316.87,
+        207.73,
+        326.83
+      ],
+      "text": "LA Natuurlijk persoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        316.96,
+        93.41,
+        326.92
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        99.14,
+        330.91,
+        143.44,
+        340.87
+      ],
+      "text": "LA Adres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        331.0,
+        93.41,
+        340.96
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        99.14,
+        344.83,
+        225.03,
+        354.79
+      ],
+      "text": "LA Inkomstenverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        344.92,
+        93.41,
+        354.88
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        99.14,
+        358.87,
+        236.54,
+        368.83
+      ],
+      "text": "LA Administratieve eenheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        358.96,
+        93.41,
+        368.92
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        99.14,
+        372.79,
+        352.75,
+        382.75
+      ],
+      "text": "LA Sector risicopremiegroep inkomstenverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        372.88,
+        93.41,
+        382.84
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        99.14,
+        386.83,
+        206.06,
+        396.79
+      ],
+      "text": "LA Inkomstenperiode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        386.92,
+        93.41,
+        396.88
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        400.75,
+        205.11,
+        410.8
+      ],
+      "text": " LA Inkomstenopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        432.59,
+        180.32,
+        441.59
+      ],
+      "text": "Periode en frequentie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        450.79,
+        499.86,
+        460.75
+      ],
+      "text": "Wij willen van u weten wat de begin- en einddatum is van de periode waarvan wij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        464.13,
+        234.08,
+        474.09
+      ],
+      "text": "loongegevens voor u selecteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        483.57,
+        170.07,
+        493.53
+      ],
+      "text": "U kunt kiezen voor:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        495.69,
+        468.11,
+        505.65
+      ],
+      "text": "• een overzicht over deze periode met gegevens zoals die op het moment van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        84.86,
+        507.81,
+        291.55,
+        517.77
+      ],
+      "text": "samenstellen van de levering geldig zijn;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        520.05,
+        500.46,
+        530.01
+      ],
+      "text": "• een overzicht over deze periode met gegevens zoals die op een bepaalde datum in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        84.74,
+        532.17,
+        219.3,
+        542.13
+      ],
+      "text": "het verleden geldig waren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        563.73,
+        521.53,
+        573.69
+      ],
+      "text": "U ontvangt de gegevens zoals deze op het moment van samenstellen van de levering, op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        577.05,
+        481.94,
+        587.01
+      ],
+      "text": "de door u aangegeven datum geldig waren. Wij kunnen geen historie leveren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        590.37,
+        229.95,
+        600.33
+      ],
+      "text": "inmiddels gewijzigde gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        609.81,
+        491.31,
+        619.77
+      ],
+      "text": "Bij het product Loonaangiftegegevens kiest u voor een leveringsfrequentie. Die kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        623.13,
+        258.23,
+        633.09
+      ],
+      "text": "variëren van ‘eenmalig’ tot ‘jaarlijks’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        642.57,
+        324.76,
+        652.53
+      ],
+      "text": "Heeft u bij de frequentie gekozen voor ‘eenmalig’?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        661.92,
+        504.94,
+        671.88
+      ],
+      "text": "Dan kunt u een overzicht over een bepaalde periode opgeven op één van de volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        675.24,
+        122.59,
+        685.2
+      ],
+      "text": "manieren:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        694.68,
+        296.3,
+        704.64
+      ],
+      "text": "• U geeft een vaste begin-en einddatum op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        708.0,
+        454.65,
+        717.96
+      ],
+      "text": "• U geeft in een vraagbestand de leverperiode per burgerservicenummer of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        84.74,
+        721.44,
+        214.63,
+        731.4
+      ],
+      "text": "loonheffingennummer op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        740.76,
+        347.29,
+        750.72
+      ],
+      "text": "Heeft u bij de frequentie niet gekozen voor ‘eenmalig’?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.38,
+        779.36,
+        214.27,
+        787.4
+      ],
+      "text": "Productbeschrijving voor afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        464.62,
+        780.68,
+        524.59,
+        788.72
+      ],
+      "text": "Pagina 4 van 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.38,
+        789.08,
+        262.92,
+        797.12
+      ],
+      "text": "Productcode P02- Versie 1.0 – augustus 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        72.98,
+        505.3,
+        82.94
+      ],
+      "text": "Dan kunt u een overzicht over een bepaalde periode opgeven op één van de volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        86.42,
+        122.62,
+        96.38
+      ],
+      "text": "manieren:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        125.2,
+        517.76,
+        135.16
+      ],
+      "text": "• U kunt het overzicht over een bepaalde periode variabel maken door deze periode te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.82,
+        138.52,
+        505.82,
+        148.48
+      ],
+      "text": "koppelen aan het moment van samenstellen van de leveringen. U kunt de periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.82,
+        151.84,
+        518.6,
+        161.8
+      ],
+      "text": "opgeven in aantal dagen, weken, maanden of jaren. De begin- en einddatum van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.82,
+        165.28,
+        493.7,
+        175.24
+      ],
+      "text": "periode waarover u gegevens wilt hebben, hangt af van het moment dat wij uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.82,
+        178.6,
+        176.75,
+        188.56
+      ],
+      "text": "levering draaien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        198.04,
+        461.98,
+        208.0
+      ],
+      "text": "• U geeft in een vraagbestand de leverperiode per burgerservicenummer of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.82,
+        211.36,
+        221.59,
+        221.32
+      ],
+      "text": "loonheffingennummer op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        237.88,
+        178.44,
+        247.84
+      ],
+      "text": "Gegevensset",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        268.28,
+        271.86,
+        277.28
+      ],
+      "text": "Loonaangiftegegevens bevat informtie over:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        286.63,
+        351.99,
+        296.59
+      ],
+      "text": "• persoonsgegevens van een natuurlijk persoon, zoals:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        305.95,
+        253.57,
+        315.91
+      ],
+      "text": "• het burgerservicenummer;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        325.27,
+        166.87,
+        335.23
+      ],
+      "text": "• de naam;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        344.71,
+        215.77,
+        354.67
+      ],
+      "text": "• de geboortedatum;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        364.03,
+        289.55,
+        373.99
+      ],
+      "text": "• de meest recente adresgegevens;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        383.47,
+        473.9,
+        393.43
+      ],
+      "text": "• gegevens over de inkomstenverhouding tussen de administratieve eenheid of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        84.86,
+        402.79,
+        504.68,
+        412.75
+      ],
+      "text": "onderneming en een natuurlijk persoon, waaruit een natuurlijk persoon loon of een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        84.74,
+        422.11,
+        268.69,
+        432.07
+      ],
+      "text": "uitkering ontving of ontvangt, zoals:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        441.55,
+        334.89,
+        451.51
+      ],
+      "text": "• het nummer van de inkomstenverhouding;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        460.87,
+        239.05,
+        470.83
+      ],
+      "text": "• het personeelsnummer;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        480.33,
+        393.46,
+        490.29
+      ],
+      "text": "• de begin- en einddatum van de inkomstenverhouding;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        499.65,
+        497.79,
+        509.61
+      ],
+      "text": "• het loonheffingennummer van de administratieve eenheid of onderneming;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        518.97,
+        343.42,
+        528.93
+      ],
+      "text": "• de gegevens uit de inkomstenopgave, zoals:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        538.41,
+        511.8,
+        548.37
+      ],
+      "text": "• de begin- en einddatum van het aangiftetijdvak waarover de inkomstenopgave gaat;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        557.73,
+        226.55,
+        567.69
+      ],
+      "text": "• het aantal SV-dagen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        577.17,
+        253.32,
+        587.13
+      ],
+      "text": "• het aantal verloonde uren;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        596.49,
+        238.86,
+        606.45
+      ],
+      "text": "• de inkomstengegevens;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        615.81,
+        309.1,
+        625.77
+      ],
+      "text": "• de gegevens uit de inkomstenperiode, zoals:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        635.25,
+        374.29,
+        645.21
+      ],
+      "text": "• de begin- en einddatum van de inkomstenperiode;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        654.6,
+        303.56,
+        664.56
+      ],
+      "text": "• de code soort inkomstenverhouding;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        674.04,
+        266.99,
+        684.0
+      ],
+      "text": "• de indicatie premiekortingen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        693.36,
+        401.12,
+        703.32
+      ],
+      "text": "• de indicaties verzekerd Ziektewet, WW, WAO/IVA/WGA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        78.38,
+        779.36,
+        214.27,
+        787.4
+      ],
+      "text": "Productbeschrijving voor afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        464.62,
+        780.68,
+        524.59,
+        788.72
+      ],
+      "text": "Pagina 5 van 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        78.38,
+        789.08,
+        262.92,
+        797.12
+      ],
+      "text": "Productcode P02- Versie 1.0 – augustus 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        73.22,
+        165.99,
+        83.18
+      ],
+      "text": "Bestanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        103.84,
+        461.47,
+        113.8
+      ],
+      "text": "U ontvangt het product Loonaangiftegegevens in een puntkomma gescheiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        117.16,
+        506.97,
+        127.12
+      ],
+      "text": "bestandsformaat (CSV). Wij zetten de selectie voor u klaar op Mijn Gegevensdiensten,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        130.6,
+        477.33,
+        140.56
+      ],
+      "text": "volgens de frequentie die we met u afspreken. Bestanden die te groot zijn om te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        143.92,
+        329.06,
+        153.88
+      ],
+      "text": "downloaden worden in deelbestanden aangeboden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        163.36,
+        431.39,
+        173.32
+      ],
+      "text": "Naast een overeenkomst en gegevensleveringsafspraak ontvangt u een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        176.68,
+        514.89,
+        186.64
+      ],
+      "text": "productspecificatie. In de productspecificatie vindt u meer informatie over de bestanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        190.0,
+        473.28,
+        199.96
+      ],
+      "text": "die wij volgens uw selectie hebben samengesteld. U ontvangt van ons ook twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        203.44,
+        363.08,
+        213.4
+      ],
+      "text": "pakbonnen, een controlebestand en een tellingenbestand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        222.76,
+        490.07,
+        232.72
+      ],
+      "text": "Indien u een vraagbestand gaat aanleveren dan ontvangt u na aanlevering van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        236.2,
+        522.36,
+        246.16
+      ],
+      "text": "vraagbestand een verwerkingsverslag. In het verwerkingsverslag staat of u aangeleverde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        249.52,
+        499.46,
+        259.48
+      ],
+      "text": "vraagbestand verwerkbaar is. Indien er fouten zijn geconstateerd vindt u deze in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        262.84,
+        502.91,
+        272.8
+      ],
+      "text": "verwerkingsverslag en kunt u op basis hiervan u vraagbestand corrigeren en opnieuw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        276.31,
+        481.69,
+        286.27
+      ],
+      "text": "aanleveren. Wij kunnen u vraagbestand niet verwerken indien dit fouten bevat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        289.63,
+        250.22,
+        299.59
+      ],
+      "text": "ontstaat in dat geval geen levering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        309.07,
+        233.71,
+        319.03
+      ],
+      "text": "We leveren alleen gegevens als:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        328.39,
+        304.16,
+        338.35
+      ],
+      "text": "• het Burgerservicenummer bij ons bekend is;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        341.71,
+        302.96,
+        351.67
+      ],
+      "text": "• het loonheffingennummer bij ons bekend is;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        355.15,
+        493.66,
+        365.11
+      ],
+      "text": "• de combinatie van het loonheffingennummer en het Burgerservicenummer bij ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.26,
+        368.47,
+        133.9,
+        378.43
+      ],
+      "text": "bekend is;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        381.91,
+        468.51,
+        391.87
+      ],
+      "text": "• we voor de gevraagde Burgerservicenummers en loonheffingennummers een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.78,
+        395.23,
+        483.89,
+        405.19
+      ],
+      "text": "inkomstenverhouding vinden waarvoor tussen de begin- en einddatum minimaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.78,
+        408.55,
+        210.79,
+        418.51
+      ],
+      "text": "inkomstenopgave bestaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        447.79,
+        552.02,
+        457.75
+      ],
+      "text": "Bestandsoort bestandsnaam Formaat/",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        505.9,
+        461.23,
+        547.93,
+        471.19
+      ],
+      "text": "extensie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        481.05,
+        528.91,
+        491.01
+      ],
+      "text": "Productspecificatie UWV_P02_PLM- .PDF",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        185.57,
+        494.49,
+        418.86,
+        504.45
+      ],
+      "text": "Productspecificatie_111111_20230612165311",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        514.29,
+        530.1,
+        524.25
+      ],
+      "text": "Vraagbestand U kunt hier zelf een naam aan geven .CSV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        533.73,
+        136.71,
+        543.69
+      ],
+      "text": "( indien van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        547.05,
+        135.06,
+        557.01
+      ],
+      "text": "toepassing)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        566.97,
+        530.1,
+        576.93
+      ],
+      "text": "Verwerkingsverslag UWV_P02_14_111111_20220817_20220817180515 .CSV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        586.77,
+        181.46,
+        596.73
+      ],
+      "text": "Levering bestaat uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        606.69,
+        530.1,
+        616.65
+      ],
+      "text": "Databestand UWV_P02_DATA_111111_20220101_20230516173817_001 .CSV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        626.49,
+        528.58,
+        636.45
+      ],
+      "text": "Pakbon UWV_P02_PAKBON_111111_20220101_20230516173817 .TXT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        646.41,
+        530.1,
+        656.37
+      ],
+      "text": "Pakbon UWV_P02_PAKBON_111111_20220101_20230516173817 .CSV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        666.36,
+        530.1,
+        676.32
+      ],
+      "text": "Controlebestand UWV_P02_CONTROLE_111111_20220101_20230516173817 .CSV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.58,
+        686.16,
+        530.1,
+        696.12
+      ],
+      "text": "Tellingenbestand UWV_P02_TELLINGEN_111111_20220101_20230516173817 .CSV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        78.38,
+        779.36,
+        214.27,
+        787.4
+      ],
+      "text": "Productbeschrijving voor afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        464.62,
+        780.68,
+        524.59,
+        788.72
+      ],
+      "text": "Pagina 6 van 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        78.38,
+        789.08,
+        262.92,
+        797.12
+      ],
+      "text": "Productcode P02- Versie 1.0 – augustus 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        72.98,
+        146.4,
+        82.94
+      ],
+      "text": "Proeflevering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        92.44,
+        511.43,
+        102.4
+      ],
+      "text": "U kunt om een proeflevering van uw selectie vragen, eventueel met een beperkt aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        105.76,
+        519.39,
+        115.72
+      ],
+      "text": "records. Met de proeflevering kunt u controleren of de gegevens voor u bruikbaar zijn en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        119.2,
+        190.77,
+        129.16
+      ],
+      "text": "of u ze kunt verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        113.42,
+        145.72,
+        398.68,
+        155.68
+      ],
+      "text": "Hoe weet u of een levering compleet en correct is?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        177.64,
+        422.84,
+        187.6
+      ],
+      "text": "U kunt de levering controleren met de pakbon en het controlebestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        196.96,
+        484.27,
+        206.92
+      ],
+      "text": "• Op de pakbon vindt u het aantal bestanden van de gegevenslevering. Bij grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.22,
+        210.4,
+        502.94,
+        220.36
+      ],
+      "text": "leveringen ziet u het aantal deelbestanden. Op de pakbon vindt u ook de naam en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.22,
+        223.72,
+        514.72,
+        233.68
+      ],
+      "text": "grootte van de bestanden. In de bestandsnamen staat de productcode P02. Dit is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.34,
+        237.16,
+        484.32,
+        247.12
+      ],
+      "text": "code waaraan u de bestanden van het product Loonaangiftegegevens herkent.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.34,
+        250.48,
+        481.54,
+        260.44
+      ],
+      "text": "Daarnaast staat op de pakbon het aantal unieke Burgerservicenummers en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.22,
+        263.8,
+        353.41,
+        273.76
+      ],
+      "text": "loonheffingennummers van de geleverde bestanden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        283.27,
+        472.95,
+        293.23
+      ],
+      "text": "• In het controlebestand kunt u zien of de geleverde gegevens afwijken van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        84.74,
+        296.59,
+        348.8,
+        306.55
+      ],
+      "text": "gegevensselectie die wij met u hebben afgesproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        323.11,
+        322.17,
+        333.07
+      ],
+      "text": "Distributiekanaal & Beveiligingsklasse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        355.15,
+        505.4,
+        365.11
+      ],
+      "text": "De leveringen verlopen via het portaal Mijn Gegevensdiensten (MGD) of Automatische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        368.47,
+        357.74,
+        378.43
+      ],
+      "text": "verwerkingen (A2A). De beveiligingsklassen zijn vanaf 2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        407.1,
+        136.1,
+        418.14
+      ],
+      "text": "3 Contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        450.95,
+        196.81,
+        459.95
+      ],
+      "text": "UWV Gegevensdiensten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        469.45,
+        178.45,
+        478.45
+      ],
+      "text": "Contacten over o.a.:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        487.57,
+        211.15,
+        496.57
+      ],
+      "text": "- Techniek / berichtenverkeer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        505.57,
+        216.61,
+        514.57
+      ],
+      "text": "- Functionele vragen koppeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        523.57,
+        176.06,
+        532.57
+      ],
+      "text": "- Wijzigingsverzoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        541.57,
+        243.6,
+        550.57
+      ],
+      "text": "- Inhoudelijke vragen over gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        560.17,
+        153.15,
+        569.17
+      ],
+      "text": "Aanspreekpunt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        578.65,
+        191.07,
+        587.65
+      ],
+      "text": "Loket Leveren & Services",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        596.65,
+        299.89,
+        605.65
+      ],
+      "text": "Op werkdagen bereikbaar van 8.00 tot 17.00 uur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        614.77,
+        228.72,
+        623.77
+      ],
+      "text": "Email: gegevensdiensten@uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.58,
+        632.77,
+        311.25,
+        641.77
+      ],
+      "text": "Telefoon: (Klant Contact Centrum) 088 - 898 20 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        78.38,
+        779.36,
+        214.27,
+        787.4
+      ],
+      "text": "Productbeschrijving voor afnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        464.62,
+        780.68,
+        524.59,
+        788.72
+      ],
+      "text": "Pagina 7 van 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        78.38,
+        789.08,
+        262.92,
+        797.12
+      ],
+      "text": "Productcode P02- Versie 1.0 – augustus 2023",
+      "source": "text"
+    }
+  ]
+}

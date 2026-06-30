@@ -1,0 +1,833 @@
+{
+  "source_id": "2024-05-15-woo-besluit-gegevensuitwisseling-uwv-en-belastingdienst/2024-05-15-woo-besluit-inzake-gegevensuitwisseling-uwv-en-belastingdienst",
+  "publication_slug": "2024-05-15-woo-besluit-gegevensuitwisseling-uwv-en-belastingdienst",
+  "pdf_slug": "2024-05-15-woo-besluit-inzake-gegevensuitwisseling-uwv-en-belastingdienst",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-gegevensuitwisseling-uwv-en-belastingdienst",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/50ad6583-77b7-4c8f-be49-282a8d0f2df0/woo-besluit-inzake-gegevensuitwisseling-uwv-en-belastingdienst.pdf",
+  "publication_title": "Woo-besluit gegevensuitwisseling UWV en Belastingdienst",
+  "publication_date": "2024-05-15T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Besluit inzake gegevensuitwisseling UWV en Belastingdienst (PDF, 119 kB)",
+  "retrieved_at": "2026-06-30T13:01:04+00:00",
+  "sha256": "1449f21d5d695ccd19465c235cd6434fd2bc6bc9ee173c8476616cd5dcbd2331",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        114.5,
+        129.24,
+        264.19,
+        137.28
+      ],
+      "text": "Postbus 58285, 1040 HG Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        130.86,
+        112.28,
+        136.86
+      ],
+      "text": "Retouradres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        133.02,
+        434.59,
+        139.02
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        144.24,
+        458.09,
+        152.28
+      ],
+      "text": "6 mei 2024",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.82,
+        162.12,
+        150.43,
+        170.16
+      ],
+      "text": "ALEEN PER E-MAIL:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        171.3,
+        424.97,
+        177.3
+      ],
+      "text": "Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        195.24,
+        514.41,
+        203.28
+      ],
+      "text": "Bestuurszaken/Juridische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        207.96,
+        459.19,
+        216.0
+      ],
+      "text": "Zaken UWV",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        412.18,
+        228.72,
+        420.87,
+        236.76
+      ],
+      "text": "E:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        489.94,
+        241.44,
+        524.52,
+        249.48
+      ],
+      "text": "@uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        268.62,
+        456.85,
+        274.62
+      ],
+      "text": "Ons kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        279.75,
+        447.89,
+        287.79
+      ],
+      "text": "2024027",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.3,
+        283.77,
+        108.95,
+        289.77
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.3,
+        294.87,
+        300.86,
+        302.91
+      ],
+      "text": "Beslissing op uw verzoek om informatie d.d. 25-03-2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.18,
+        306.81,
+        454.71,
+        312.81
+      ],
+      "text": "Uw kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        368.63,
+        183.69,
+        377.63
+      ],
+      "text": "Geachte ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        392.27,
+        492.74,
+        401.27
+      ],
+      "text": "Op 25 maart 2024 heeft UWV uw verzoek om informatie op grond van de Wet open overheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        403.19,
+        494.34,
+        412.19
+      ],
+      "text": "(hierna: Woo) ontvangen. Op dezelfde dag heeft u een ontvangstbevestiging ontvangen naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        197.81,
+        414.41,
+        417.97,
+        425.45
+      ],
+      "text": "Hierbij ontvangt u onze beslissing op uw verzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        415.55,
+        194.63,
+        424.55
+      ],
+      "text": "aanleiding van uw verzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        439.43,
+        121.61,
+        448.43
+      ],
+      "text": "Beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        450.35,
+        492.95,
+        459.35
+      ],
+      "text": "UWV heeft besloten de aangetroffen documenten met de door u verzochte informatie (deels)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        461.29,
+        162.42,
+        470.29
+      ],
+      "text": "openbaar te maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        483.13,
+        137.65,
+        492.13
+      ],
+      "text": "Woo-verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        494.05,
+        508.66,
+        503.05
+      ],
+      "text": "In uw verzoek is verzocht om de openbaarmaking van documenten met de volgende informatie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        516.01,
+        512.64,
+        525.01
+      ],
+      "text": "‘Informatie over het product 'Webservice Loonaangiftegegevens’. Het verzoek betreft alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        516.09,
+        92.96,
+        525.09
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        526.93,
+        510.18,
+        535.93
+      ],
+      "text": "GLA's, alle Overeenkomsten en alle overige bij de betreffende GLA's en Overeenkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        537.85,
+        512.46,
+        546.85
+      ],
+      "text": "behorende informatie in documenten. Denk bij dit laatste onder meer bijv. aan eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        548.77,
+        241.65,
+        557.77
+      ],
+      "text": "Transportleveringsafspraken'.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        570.61,
+        208.2,
+        579.61
+      ],
+      "text": "Inventarisatie documenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        581.53,
+        485.18,
+        590.53
+      ],
+      "text": "Naar aanleiding van uw verzoek is er intern nagegaan of er documenten zijn met de door u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        592.57,
+        373.01,
+        601.57
+      ],
+      "text": "gevraagde informatie. De volgende documenten zijn aangetroffen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        614.89,
+        448.81,
+        623.89
+      ],
+      "text": "Nr. Documentnaam Beoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        626.29,
+        439.41,
+        635.29
+      ],
+      "text": "1. Contract 556803 door beide partijen getekend versie Openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        111.74,
+        637.33,
+        187.61,
+        646.33
+      ],
+      "text": "1.0_Geredigeerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        648.76,
+        439.41,
+        657.76
+      ],
+      "text": "2. Gegevensleveringsafspraak UWV en belastingdienst Openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        660.16,
+        439.41,
+        669.16
+      ],
+      "text": "3. W21_Aansluitprotocol_Extern_WS Loonaangiftegegevens Openbaar",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        111.74,
+        671.08,
+        165.25,
+        680.08
+      ],
+      "text": "CWS-LA (1)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        682.6,
+        439.41,
+        691.6
+      ],
+      "text": "4. Webservice Loonaangiftegegevens (CWS-LA) - Openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        111.74,
+        693.52,
+        353.45,
+        702.52
+      ],
+      "text": "Productbeschrijving voor afnemers v1.0_Geredigeerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        715.84,
+        144.04,
+        724.84
+      ],
+      "text": "Overwegingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        726.76,
+        509.79,
+        735.76
+      ],
+      "text": "In een eerder Woo-verzoek en tijdens een bezwaarprocedure die u heeft ingediend, heeft u (een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        737.8,
+        521.47,
+        746.8
+      ],
+      "text": "deel van de) de bovenstaande documenten al ontvangen. Uw huidige verzoek is doorgestuurd naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        748.72,
+        521.73,
+        757.72
+      ],
+      "text": "de afdeling ‘Divisie Gegevensdiensten’. Zij hebben onderzocht of er met betrekking tot ‘Webservice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        759.64,
+        513.35,
+        768.64
+      ],
+      "text": "Loonaangiftegegevens’ meer GLA’S en/of overeenkomsten tussen UWV en de Belastingdienst zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        129.44,
+        516.68,
+        138.44
+      ],
+      "text": "dan de documenten die u eerder heeft ontvangen. Echter, wij hebben vernomen dat de enige GLA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        140.36,
+        507.15,
+        149.36
+      ],
+      "text": "(of overeenkomst) met betrekking tot de ‘Webservice Loonaangiftegegevens’ tussen UWV en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        151.4,
+        516.17,
+        160.4
+      ],
+      "text": "Belastingdienst reeds eerder naar u is verzonden en dat u deze al in uw bezit heeft. Verder zijn er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        162.32,
+        522.55,
+        171.32
+      ],
+      "text": "geen andere documenten en/of GLA en/of overeenkomsten gevonden door de betreffende afdeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        173.24,
+        520.99,
+        182.24
+      ],
+      "text": "Als service willen wij voor de volledigheid van dit Woo-verzoek de documenten nogmaals openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        184.16,
+        104.68,
+        193.16
+      ],
+      "text": "maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        206.0,
+        514.48,
+        215.0
+      ],
+      "text": "Met inachtneming van uw verzoek heeft UWV besloten de aangetroffen documenten (bijlage 1 tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        217.04,
+        518.37,
+        226.04
+      ],
+      "text": "en met 4) openbaar te maken. De document zijn volledig geanonimiseerd op grond van artikel 5.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        227.96,
+        455.64,
+        236.96
+      ],
+      "text": "tweede lid onder e van de Woo, met dien verstande dat alle namen, e-mailadressen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        238.88,
+        476.74,
+        247.88
+      ],
+      "text": "telefoonnummers of overige tot personen herleidbare gegevens onleesbaar zijn gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        263.24,
+        120.7,
+        272.24
+      ],
+      "text": "Publicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        274.19,
+        480.12,
+        283.19
+      ],
+      "text": "Dit besluit wordt binnen enkele werkdagen na dagtekening van dit besluit geanonimiseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        285.11,
+        230.57,
+        294.11
+      ],
+      "text": "gepubliceerd op de website uwv.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        306.95,
+        226.54,
+        315.95
+      ],
+      "text": "Niet eens met deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        317.99,
+        513.67,
+        326.99
+      ],
+      "text": "Als u het niet eens bent met onze beslissing op uw Woo-verzoek kunt u tot uiterlijk zes weken na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        328.91,
+        478.95,
+        337.91
+      ],
+      "text": "de datum op deze brief een bezwaarschrift indienen. Richt uw bezwaar aan UWV, afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        339.83,
+        511.0,
+        348.83
+      ],
+      "text": "Juridische Zaken, Postbus 58285, 1040 HG Amsterdam. Wij kunnen sneller op uw bezwaarschrift",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        350.75,
+        303.14,
+        359.75
+      ],
+      "text": "reageren als u een kopie van deze brief meestuurt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        373.55,
+        330.1,
+        382.55
+      ],
+      "text": "Wij hopen u hiermee voldoende te hebben geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        413.75,
+        133.46,
+        422.75
+      ],
+      "text": "Hoogachtend,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        425.75,
+        252.93,
+        434.75
+      ],
+      "text": "Namens de Raad van Bestuur van UWV,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        510.85,
+        151.65,
+        519.85
+      ],
+      "text": "Juridisch adviseur",
+      "source": "text"
+    }
+  ]
+}

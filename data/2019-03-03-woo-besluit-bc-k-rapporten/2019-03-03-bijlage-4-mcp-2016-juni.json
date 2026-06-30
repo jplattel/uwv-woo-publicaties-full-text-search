@@ -1,0 +1,1349 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-4-mcp-2016-juni",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-4-mcp-2016-juni",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/c3043315-fe57-4f05-b277-85c3556640cc/bijlage-4-mcp-2016-juni.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 4 MCP 2016 juni (PDF, 326 kB)",
+  "retrieved_at": "2026-06-30T14:19:38+00:00",
+  "sha256": "e08be4ecf5fa20a10da40ebf1b0d2b602ba531390f83f6fb1af3cf00786fc498",
+  "page_count": 5,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.26,
+        223.42,
+        300.57,
+        235.42
+      ],
+      "text": "Rapportage Review MCP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.26,
+        252.28,
+        333.16,
+        262.24
+      ],
+      "text": "Steekproef “Teldatum 1 juni 2016”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        623.89,
+        228.72,
+        632.89
+      ],
+      "text": "Uitgever : Divisie SMZ, BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        634.81,
+        217.34,
+        643.81
+      ],
+      "text": "Auteurs : Auditoren BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        645.73,
+        200.17,
+        654.73
+      ],
+      "text": "Datum : 21-09-2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        656.68,
+        162.58,
+        665.68
+      ],
+      "text": "Versie : 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage Review MCP 1 juni 2016 / concept vs 0.1 / 21-09-2016 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        72.97,
+        162.53,
+        84.01
+      ],
+      "text": "1. Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        98.12,
+        511.13,
+        107.12
+      ],
+      "text": "Teneinde de kwaliteit en de betrouwbaarheid van het instrument MCP te kunnen borgen, doet de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        110.72,
+        464.35,
+        119.72
+      ],
+      "text": "afdeling BC&K maandelijks een review op de dossiers die door de daartoe aangewezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        123.44,
+        433.21,
+        132.44
+      ],
+      "text": "medewerkers in de districten in de maand ervóór voor het MCP zijn beoordeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        145.88,
+        514.24,
+        154.88
+      ],
+      "text": "In de onderhavige rapportage betreft het een review op de dossiers die gedurende de maand juni",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        158.36,
+        512.58,
+        167.36
+      ],
+      "text": "2016 door de kantoren in de MCP zijn beoordeeld. De steekproef hiervoor is getrokken en aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        171.08,
+        387.34,
+        180.08
+      ],
+      "text": "kantoren aangeleverd op 1 juni; we spreken dan van teldatum 1 juni.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        193.52,
+        522.81,
+        202.52
+      ],
+      "text": "Voor de goede orde: de steekproef voor de MCP betreft altijd dossiers die in de maand daarvóór (in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        206.24,
+        469.04,
+        215.24
+      ],
+      "text": "het onderhavige rapport dus in de maand mei 2016) met een beslissing zijn afgesloten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        228.68,
+        499.34,
+        237.68
+      ],
+      "text": "De review op de MCP door BC&K vindt altijd plaats in de maand volgend op die waarin de MCP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        241.28,
+        481.67,
+        250.28
+      ],
+      "text": "moet zijn afgerond. In het onderhavige rapport heeft de review dus in de maand augustus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        254.0,
+        145.33,
+        263.0
+      ],
+      "text": "plaatsgevonden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        276.47,
+        509.59,
+        285.47
+      ],
+      "text": "Om verwarring te voorkomen benoemen we de reviews conform de teldatum van de MCP: in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        289.07,
+        499.18,
+        298.07
+      ],
+      "text": "onderhavige rapport spreken we dus over de review MCP op de steekproef met teldatum 1juni",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        301.79,
+        97.14,
+        310.79
+      ],
+      "text": "2016.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        324.54,
+        171.23,
+        335.58
+      ],
+      "text": "2. Methodiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        349.55,
+        495.16,
+        358.55
+      ],
+      "text": "Voor de review is een landelijke steekproef getrokken uit het MCP zoals die door de districten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        362.15,
+        506.55,
+        371.15
+      ],
+      "text": "verricht had moeten worden in de maand juni 2016. De auditoren VA, AD en PB van de afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        374.75,
+        514.46,
+        383.75
+      ],
+      "text": "BC&K bestuderen de dossiers uit deze steekproef en zetten hun eigen oordeel over de kwaliteit af",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        387.35,
+        519.58,
+        396.35
+      ],
+      "text": "tegen het oordeel van de collega’s op de kantoren die verantwoordelijk zijn voor de MCP, zoals dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        399.95,
+        510.0,
+        408.95
+      ],
+      "text": "door hen is ingebracht in KRS. Vervolgens overleggen de auditoren met elkaar om het eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        412.55,
+        485.0,
+        421.55
+      ],
+      "text": "risico op een onjuiste uitkomst van de gevalsbehandeling te bepalen. Dit door de auditoren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        425.15,
+        388.13,
+        434.15
+      ],
+      "text": "vastgestelde risico wordt vergeleken met de uitkomsten van het MCP.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        447.71,
+        501.32,
+        456.71
+      ],
+      "text": "Dit levert per gereviewd dossier de volgende score op: ofwel “oordeel BC&K is overeenkomstig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        460.31,
+        300.19,
+        469.31
+      ],
+      "text": "MCP”, ofwel “oordeel BC&K is afwijkend van MCP”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        482.89,
+        513.67,
+        491.89
+      ],
+      "text": "Indien in de review-steekproef dossiers blijken te zitten die (nog) niet door de uitvoerders van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        495.49,
+        320.92,
+        504.49
+      ],
+      "text": "MCP zijn gedaan, blijven deze in de review open staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        518.36,
+        286.57,
+        529.4
+      ],
+      "text": "3. Dekkingsgraad MCP landelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        543.37,
+        513.71,
+        552.37
+      ],
+      "text": "De landelijke dekkingsgraad van de MCP met als teldatum 1 juni 2016 is hieronder weergegeven,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        556.09,
+        373.91,
+        565.09
+      ],
+      "text": "gespecificeerd naar district en vergeleken met voorgaande maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        157.82,
+        579.63,
+        437.51,
+        591.63
+      ],
+      "text": "Dekkingsgraad MCP teldatum 1 juni 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        605.17,
+        464.55,
+        614.17
+      ],
+      "text": "Teldatum steekproef 1 april 2016 1 mei 2016 1 juni 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        616.93,
+        461.41,
+        625.93
+      ],
+      "text": "Meetdatum dekkingsgraad 1 mei 2016 1 juni 2016 1 juli 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        628.69,
+        428.1,
+        637.69
+      ],
+      "text": "Den Haag Leiden 0% 0% 0%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        644.17,
+        433.86,
+        653.17
+      ],
+      "text": "Gelderland Midden & Zuid 94% 77% 12%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        659.68,
+        439.62,
+        668.68
+      ],
+      "text": "Groot Amsterdam 100% 100% 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        675.16,
+        433.86,
+        684.16
+      ],
+      "text": "Limburg 15% 15% 16%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        690.64,
+        433.86,
+        699.64
+      ],
+      "text": "Midden en Oost Brabant 79% 61% 60%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        706.24,
+        433.86,
+        715.24
+      ],
+      "text": "Noord 15% 59% 59%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        721.72,
+        428.1,
+        730.72
+      ],
+      "text": "Noord Holland Noord 6% 32% 3%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        737.2,
+        433.86,
+        746.2
+      ],
+      "text": "Overijsel en Gelderland Noord 91% 67% 57%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.42,
+        752.68,
+        433.86,
+        761.68
+      ],
+      "text": "Rijnmond 97% 100% 86%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage Review MCP 1 juni 2016 / concept vs 0.1 / 21-09-2016 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        116.42,
+        73.38,
+        433.86,
+        82.38
+      ],
+      "text": "Utrecht Flevoland 100% 91% 88%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        116.42,
+        88.88,
+        428.1,
+        97.88
+      ],
+      "text": "West Brabant Zeeland 36% 0% 0%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        116.42,
+        104.36,
+        195.28,
+        113.36
+      ],
+      "text": "Bijzondere Zaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        116.42,
+        119.84,
+        433.86,
+        128.84
+      ],
+      "text": "Totaal landelijk: 57% 57% 43%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        158.07,
+        183.42,
+        169.11
+      ],
+      "text": "4. Bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        183.2,
+        500.16,
+        192.2
+      ],
+      "text": "De bevindingen van de review over de MCP met als teldatum 1 juni 2016 staan in de volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        195.92,
+        96.64,
+        204.92
+      ],
+      "text": "tabel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        167.42,
+        217.34,
+        248.96,
+        230.19
+      ],
+      "text": "Bevindingen1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        252.65,
+        219.15,
+        428.07,
+        230.19
+      ],
+      "text": "review teldatum 1 juni 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        202.61,
+        232.28,
+        392.93,
+        241.28
+      ],
+      "text": "(zoals vastgesteld in KRS op 21-09-2016)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        451.9,
+        254.72,
+        483.65,
+        263.72
+      ],
+      "text": "N = 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.5,
+        266.12,
+        379.11,
+        275.12
+      ],
+      "text": "Totale steekproef 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.5,
+        277.67,
+        480.05,
+        286.67
+      ],
+      "text": "staat nog open in KRS - MCP dus niet afgerond 7 23 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.5,
+        277.75,
+        112.64,
+        286.75
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.5,
+        289.07,
+        477.18,
+        298.07
+      ],
+      "text": "wel afgesloten in KRS, maar zonder eindoordeel 2 7 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.5,
+        289.15,
+        112.64,
+        298.15
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.5,
+        300.47,
+        480.05,
+        309.47
+      ],
+      "text": "door BC&K afgewezen (niet relevant/reproduc. 3 10 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.5,
+        300.55,
+        112.64,
+        309.55
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.5,
+        311.39,
+        147.49,
+        320.39
+      ],
+      "text": "etc.)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.5,
+        334.31,
+        379.11,
+        343.31
+      ],
+      "text": "Aantal dossiers dat resteert voor review: 18",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.5,
+        357.23,
+        483.65,
+        366.23
+      ],
+      "text": "Van deze 18 dossiers: N = 18",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.5,
+        368.63,
+        477.18,
+        377.63
+      ],
+      "text": "verschil inschatting risico: wij achten wel een 1 6 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.5,
+        368.71,
+        112.64,
+        377.71
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.5,
+        379.55,
+        256.17,
+        388.55
+      ],
+      "text": "risico aanwezig, de staf niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        413.39,
+        517.5,
+        422.39
+      ],
+      "text": "We hebben 1 dossier waarin we moesten constateren tot een afwijkende inschatting van het risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        426.11,
+        441.71,
+        435.11
+      ],
+      "text": "op een onjuiste uitkomst tevens bezien, wat hiervoor de belangrijkste reden was:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        203.69,
+        449.46,
+        391.36,
+        460.5
+      ],
+      "text": "Redenen voor afwijkend risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        87.86,
+        476.53,
+        503.39,
+        485.53
+      ],
+      "text": "Geconstateerde fout aantal Meest verantwoordelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        409.66,
+        487.45,
+        471.76,
+        496.45
+      ],
+      "text": "professional",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        87.86,
+        498.85,
+        446.43,
+        507.85
+      ],
+      "text": "Recht-hoogte-duur 1 PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        759.36,
+        74.95,
+        765.84
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.38,
+        761.16,
+        208.8,
+        771.12
+      ],
+      "text": "Percentages zijn afgerond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage Review MCP 1 juni 2016 / concept vs 0.1 / 21-09-2016 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        72.78,
+        495.01,
+        81.78
+      ],
+      "text": "Het totaal aantal risico’s dat in deze steekproef werd aangetroffen staat in de volgende tabel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        233.93,
+        96.15,
+        361.31,
+        107.19
+      ],
+      "text": "Vastgestelde risico’s",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        463.78,
+        124.4,
+        495.54,
+        133.4
+      ],
+      "text": "N = 18",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.14,
+        135.8,
+        436.62,
+        144.8
+      ],
+      "text": "Dossiers met een risico, in MCP en in review in dezelfde dossiers 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.14,
+        146.72,
+        147.8,
+        155.72
+      ],
+      "text": "vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.14,
+        158.24,
+        436.62,
+        167.24
+      ],
+      "text": "Extra dossiers met een risico, in de review vastgesteld 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.14,
+        181.04,
+        490.38,
+        190.04
+      ],
+      "text": "Totaal risico’s 6 33%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        215.31,
+        262.96,
+        226.35
+      ],
+      "text": "5. Bespreking en conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        240.44,
+        417.86,
+        249.44
+      ],
+      "text": "De landelijke dekkingsgraad van de MCP met als teldatum 1 juni 2016 43%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        263.0,
+        517.45,
+        272.0
+      ],
+      "text": "Het aantal afwijkingen t.a.v. het risico tussen de MCP en de review door BC&K is in de review 6%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        285.47,
+        523.32,
+        294.47
+      ],
+      "text": "Gelet op de beperkte dekkingsgraad kan nog geen betrouwbaar beeld over de werking van het MCP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        298.19,
+        157.44,
+        307.19
+      ],
+      "text": "worden afgegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        320.63,
+        511.2,
+        329.63
+      ],
+      "text": "De districtsmanagers dienen toe te zien op tijdige en volledige vulling van het MCP c.q. van KRS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        333.23,
+        495.54,
+        342.23
+      ],
+      "text": "Op het eind van elke maand moet de steekproef die op de eerste van de maand is ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        345.95,
+        181.66,
+        354.95
+      ],
+      "text": "geheel zijn afgehandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage Review MCP 1 juni 2016 / concept vs 0.1 / 21-09-2016 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        501.85,
+        109.13,
+        510.85
+      ],
+      "text": "Colofon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        547.09,
+        233.24,
+        556.09
+      ],
+      "text": "Uitgever : Divisie SMZ, BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        569.65,
+        221.01,
+        578.65
+      ],
+      "text": "Auteurs : Auditoren BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        592.21,
+        171.8,
+        601.21
+      ],
+      "text": "Datum : 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        614.77,
+        163.53,
+        623.77
+      ],
+      "text": "Versie : 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        637.33,
+        302.13,
+        646.33
+      ],
+      "text": "Document : Review MCP teldatum 1 juni 2016",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        77.78,
+        660.02,
+        111.76,
+        666.02
+      ],
+      "text": "2016, UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        660.08,
+        75.56,
+        666.08
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        678.5,
+        516.72,
+        684.5
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        686.9,
+        516.03,
+        692.9
+      ],
+      "text": "gemaakt, in enige vorm, of enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen of enige andere manier, zonder voorafgaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        695.54,
+        178.98,
+        701.54
+      ],
+      "text": "schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage Review MCP 1 juni 2016 / concept vs 0.1 / 21-09-2016 5",
+      "source": "text"
+    }
+  ]
+}

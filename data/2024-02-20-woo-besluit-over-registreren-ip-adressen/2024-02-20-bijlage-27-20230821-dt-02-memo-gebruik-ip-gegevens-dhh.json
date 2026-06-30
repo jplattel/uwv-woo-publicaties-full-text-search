@@ -1,0 +1,1577 @@
+{
+  "source_id": "2024-02-20-woo-besluit-over-registreren-ip-adressen/2024-02-20-bijlage-27-20230821-dt-02-memo-gebruik-ip-gegevens-dhh",
+  "publication_slug": "2024-02-20-woo-besluit-over-registreren-ip-adressen",
+  "pdf_slug": "2024-02-20-bijlage-27-20230821-dt-02-memo-gebruik-ip-gegevens-dhh",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-over-registreren-ip-adressen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0d615d9f-f718-485c-92c0-562336d42b40/bijlage-27-20230821-dt-02-memo-gebruik-ip-gegevens-dhh.pdf",
+  "publication_title": "Woo-besluit over registeren IP adressen",
+  "publication_date": "2024-02-20T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 27 020230821 DT-02 Memo gebruik IP gegevens DHH (PDF, 88 kB)",
+  "retrieved_at": "2026-06-30T13:11:35+00:00",
+  "sha256": "f4c002c7583e915e828d03d467327399dab034f32eaaea8e082aa7cdc897805c",
+  "page_count": 4,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        425.52,
+        31.29,
+        455.7,
+        40.29
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        425.52,
+        78.02,
+        447.95,
+        84.02
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        425.52,
+        88.0,
+        493.15,
+        96.04
+      ],
+      "text": "7 augustus 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        110.78,
+        69.55,
+        116.78
+      ],
+      "text": "Aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        425.52,
+        111.5,
+        438.31,
+        117.5
+      ],
+      "text": "Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        424.52,
+        119.6,
+        472.33,
+        127.28
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        120.76,
+        138.09,
+        128.8
+      ],
+      "text": "Directie Handhaving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        144.38,
+        94.31,
+        150.38
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        154.24,
+        182.8,
+        162.28
+      ],
+      "text": "Gebruik IP-gegevens door DHH",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.64,
+        191.66,
+        124.62,
+        202.74
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        226.65,
+        538.74,
+        235.65
+      ],
+      "text": "Ten behoeve van één van de Kamervragen die gesteld zijn naar aanleiding van de berichtgeving van NOS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        237.69,
+        538.63,
+        246.69
+      ],
+      "text": "over het gebruik van locatiegegevens uit IP-gegevens is een eerste inventarisatie uitgevoerd naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        248.61,
+        538.68,
+        257.61
+      ],
+      "text": "gebruik van IP-gegevens binnen directie Handhaving. Het is belangrijk om te weten dat er op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        138.2,
+        257.32,
+        172.4,
+        263.13
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        259.52,
+        538.58,
+        268.53
+      ],
+      "text": "analyseomgeving waar directie Handhaving gebruik van maakt (minimaal) vijf bronnen zijn met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.65,
+        270.44,
+        162.5,
+        279.44
+      ],
+      "text": "internetgegevens over:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.64,
+        279.14,
+        138.92,
+        290.22
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        467.36,
+        538.66,
+        476.36
+      ],
+      "text": "Er zijn verschillende toepassingen waarvoor IP-adressen/gegevens zijn gebruikt binnen directie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        478.28,
+        114.49,
+        487.28
+      ],
+      "text": "Handhaving:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.64,
+        500.12,
+        538.67,
+        509.12
+      ],
+      "text": "1. Het genereren van signalen middels een risicoscan voor de uitvoering waarop nader onderzoek kon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.64,
+        511.03,
+        125.91,
+        520.03
+      ],
+      "text": "volgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.64,
+        521.95,
+        375.33,
+        530.95
+      ],
+      "text": "a. Dit gebeurde in de risicoscan verblijf buiten Nederland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        401.84,
+        530.78,
+        470.82,
+        541.86
+      ],
+      "text": "5.1 lid 2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.64,
+        533.01,
+        398.62,
+        542.01
+      ],
+      "text": "b. In de pilotfase van de risicoscan verwijtbare werkloosheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        127.64,
+        541.7,
+        196.62,
+        552.78
+      ],
+      "text": "5.1 lid 2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.64,
+        565.76,
+        538.64,
+        574.76
+      ],
+      "text": "2. Bij populatieselectie voor een onderzoek, hierbij werden gegevens gebruikt om een populatie af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.64,
+        576.68,
+        464.5,
+        585.68
+      ],
+      "text": "bakennen inclusief vervolgonderzoek naar de individuele gevallen in de uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.65,
+        587.6,
+        538.74,
+        596.6
+      ],
+      "text": "a. Themaonderzoek IP-logging landgurig verblijf buitenland (eenmalig onderzoek naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.65,
+        598.51,
+        327.64,
+        607.51
+      ],
+      "text": "afgebakende populatie, uitgevoerd in 2017)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.65,
+        609.56,
+        538.68,
+        618.56
+      ],
+      "text": "b. Themaonderzoek IP-logging tussenpersonen (eenmalig onderzoek naar afgebakende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.65,
+        620.47,
+        293.54,
+        629.47
+      ],
+      "text": "populatie, uitgevoerd in 2016-2017)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.65,
+        631.39,
+        538.51,
+        640.39
+      ],
+      "text": "c. Flitscontrole IP-logging (tijdelijke wekelijkse levering van signalen aan uitvoering DHH,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.65,
+        642.31,
+        218.55,
+        651.31
+      ],
+      "text": "uitgevoerd in 2016)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.65,
+        664.14,
+        468.63,
+        673.14
+      ],
+      "text": "3. Bij beschrijvende analyses zonder dat signalen werden onderzocht in de uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.65,
+        675.19,
+        538.68,
+        684.19
+      ],
+      "text": "a. Een O&A team Identiteitsfraude (eenmalig onderzoek, IP-logging enkel gebruikt voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.65,
+        686.1,
+        538.68,
+        695.1
+      ],
+      "text": "beschrijvende analyse om inzicht te verkrijgen en niet voor populatieselectie, uitgevoerd in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.65,
+        697.02,
+        155.77,
+        706.02
+      ],
+      "text": "2022)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.52,
+        31.29,
+        455.7,
+        40.29
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.52,
+        84.74,
+        448.49,
+        90.74
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.52,
+        94.72,
+        455.95,
+        102.76
+      ],
+      "text": "2 van 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.64,
+        145.05,
+        538.65,
+        154.05
+      ],
+      "text": "4. Binnen het onderzoek naar de klant in de uitvoering naar Handhaving, als het risico op onrechtmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.64,
+        155.96,
+        538.7,
+        164.96
+      ],
+      "text": "verblijf buiten Nederland door de individuele klant werd onderzocht conform primair proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.65,
+        166.88,
+        441.38,
+        175.88
+      ],
+      "text": "handhaving. De aanleiding voor zo’n onderzoek kon velerlei zijn, waaronder:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.65,
+        177.8,
+        303.59,
+        186.8
+      ],
+      "text": "a. De risicoscan verblijf buiten Nederland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.65,
+        188.72,
+        538.73,
+        197.72
+      ],
+      "text": "b. Een O&A team export WW (eenmalig onderzoek naar een afgebakende populatie,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.66,
+        199.63,
+        245.55,
+        208.63
+      ],
+      "text": "uitgevoerd in 2022-2023)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.67,
+        210.55,
+        538.73,
+        219.55
+      ],
+      "text": "c. Interne meldingen waarbij een vermoeden was op onrechtmatig verblijf in het buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.67,
+        221.59,
+        238.25,
+        230.59
+      ],
+      "text": "(dit heet VBVO bij DHH)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.67,
+        232.51,
+        538.73,
+        241.51
+      ],
+      "text": "d. Externe meldingen als gedurende het klantonderzoek naar een ander risico bleek dat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.67,
+        243.43,
+        433.45,
+        252.43
+      ],
+      "text": "wellicht ook sprake was van onrechtmatig verblijf in het buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.67,
+        254.34,
+        538.76,
+        263.34
+      ],
+      "text": "e. Themaonderzoek IP-logging landgurig verblijf buitenland (eenmalig onderzoek naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.67,
+        265.26,
+        327.66,
+        274.26
+      ],
+      "text": "afgebakende populatie, uitgevoerd in 2017)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.67,
+        276.18,
+        538.7,
+        285.18
+      ],
+      "text": "f. Themaonderzoek IP-logging tussenpersonen (eenmalig onderzoek naar afgebakende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.67,
+        287.09,
+        293.55,
+        296.09
+      ],
+      "text": "populatie, uitgevoerd in 2016-2017)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.67,
+        298.14,
+        538.52,
+        307.14
+      ],
+      "text": "g. Flitscontrole IP-logging (tijdelijke wekelijkse levering van signalen aan uitvoering DHH,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.67,
+        309.05,
+        218.57,
+        318.05
+      ],
+      "text": "uitgevoerd in 2016)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.67,
+        330.89,
+        348.81,
+        339.89
+      ],
+      "text": "5. IP-gegevens zijn gebruikt voor onderzoek naar de NOW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.64,
+        339.65,
+        134.55,
+        343.65
+      ],
+      "text": "5.1 lid 2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        451.28,
+        538.67,
+        460.28
+      ],
+      "text": "In onderstaande matrix een overzicht voor welke toepassing welke gegevens uit welke bron werden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        462.2,
+        97.48,
+        471.2
+      ],
+      "text": "gebruikt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        152.41,
+        476.06,
+        527.18,
+        539.66
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        550.65,
+        388.12,
+        559.65
+      ],
+      "text": "Genereren X X X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        561.69,
+        147.18,
+        570.69
+      ],
+      "text": "signalen risicoscan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        572.6,
+        125.34,
+        581.6
+      ],
+      "text": "verblijf buiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        583.53,
+        108.57,
+        592.53
+      ],
+      "text": "Nederland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        594.93,
+        388.12,
+        603.93
+      ],
+      "text": "Pilotfase risicoscan X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        605.85,
+        113.73,
+        614.85
+      ],
+      "text": "verwijtbare",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        616.77,
+        121.64,
+        625.77
+      ],
+      "text": "werkloosheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        628.29,
+        388.12,
+        637.29
+      ],
+      "text": "Klantonderzoek X X X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        639.21,
+        131.83,
+        648.21
+      ],
+      "text": "volgend op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        650.12,
+        125.47,
+        659.12
+      ],
+      "text": "signaal vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        661.04,
+        141.17,
+        670.04
+      ],
+      "text": "risicoscan verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        671.97,
+        140.14,
+        680.97
+      ],
+      "text": "buiten Nederland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        683.49,
+        388.12,
+        692.49
+      ],
+      "text": "Klantonderzoek X X X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        694.41,
+        112.3,
+        703.41
+      ],
+      "text": "volgend op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        705.32,
+        131.23,
+        714.32
+      ],
+      "text": "signalen vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        62.4,
+        716.24,
+        140.83,
+        725.24
+      ],
+      "text": "O&A team export",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        62.4,
+        727.17,
+        80.18,
+        736.17
+      ],
+      "text": "WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.52,
+        31.29,
+        455.7,
+        40.29
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.52,
+        84.74,
+        448.49,
+        90.74
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        425.52,
+        94.72,
+        455.95,
+        102.76
+      ],
+      "text": "3 van 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        145.53,
+        241.97,
+        154.53
+      ],
+      "text": "Beschrijvende X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        156.45,
+        128.11,
+        165.45
+      ],
+      "text": "analyse vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        167.36,
+        108.48,
+        176.36
+      ],
+      "text": "O&A team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        178.29,
+        137.61,
+        187.29
+      ],
+      "text": "Identiteitsfraude",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        189.69,
+        388.12,
+        198.69
+      ],
+      "text": "Klantonderzoek X X X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        200.73,
+        131.83,
+        209.73
+      ],
+      "text": "volgend op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        211.64,
+        133.65,
+        220.64
+      ],
+      "text": "interne melding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        222.56,
+        117.3,
+        231.56
+      ],
+      "text": "(vermoeden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        233.48,
+        122.6,
+        242.48
+      ],
+      "text": "onrechtmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        244.4,
+        125.34,
+        253.4
+      ],
+      "text": "verblijf buiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        255.33,
+        112.69,
+        264.33
+      ],
+      "text": "Nederland)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        266.85,
+        388.12,
+        275.85
+      ],
+      "text": "Externe meldingen X X X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        278.25,
+        388.12,
+        287.25
+      ],
+      "text": "Beschrijvende X X X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        289.17,
+        128.11,
+        298.17
+      ],
+      "text": "analyse vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        300.08,
+        132.85,
+        309.08
+      ],
+      "text": "onderzoek naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        311.0,
+        111.08,
+        320.0
+      ],
+      "text": "Registratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        322.04,
+        146.81,
+        331.04
+      ],
+      "text": "begeleiders, o.b.v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        332.96,
+        108.06,
+        341.96
+      ],
+      "text": "resultaten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        343.88,
+        142.01,
+        352.88
+      ],
+      "text": "risicoscan Verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        354.81,
+        140.14,
+        363.81
+      ],
+      "text": "buiten Nederland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        366.21,
+        448.85,
+        375.21
+      ],
+      "text": "Klantonderzoek X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        377.25,
+        112.3,
+        386.25
+      ],
+      "text": "volgend op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        388.16,
+        114.79,
+        397.16
+      ],
+      "text": "signalen uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        399.08,
+        138.17,
+        408.08
+      ],
+      "text": "themaonderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        410.0,
+        108.69,
+        419.0
+      ],
+      "text": "IP-logging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        420.92,
+        139.5,
+        429.92
+      ],
+      "text": "langdurig verblijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        431.85,
+        110.01,
+        440.85
+      ],
+      "text": "buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        443.37,
+        388.12,
+        452.37
+      ],
+      "text": "Klantonderzoek X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        454.29,
+        112.3,
+        463.29
+      ],
+      "text": "volgend op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        465.2,
+        114.79,
+        474.2
+      ],
+      "text": "signalen uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        476.12,
+        138.17,
+        485.12
+      ],
+      "text": "themaonderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        487.04,
+        108.69,
+        496.04
+      ],
+      "text": "IP-logging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        497.97,
+        133.86,
+        506.97
+      ],
+      "text": "tussenpersonen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        509.49,
+        448.85,
+        518.49
+      ],
+      "text": "Klantonderzoek X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        520.41,
+        112.3,
+        529.41
+      ],
+      "text": "volgend op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        531.32,
+        114.79,
+        540.32
+      ],
+      "text": "signalen uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        542.24,
+        133.81,
+        551.24
+      ],
+      "text": "Flitscontrole IP-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.4,
+        553.17,
+        95.36,
+        562.17
+      ],
+      "text": "logging",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        62.4,
+        564.69,
+        311.81,
+        573.69
+      ],
+      "text": "NOW X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        587.0,
+        538.76,
+        596.0
+      ],
+      "text": "Voor nu wil ik de huidige inventarisatie hiermee afronden, ik kan niet volledig uitsluiten dat er in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        597.92,
+        538.66,
+        606.92
+      ],
+      "text": "verleden nog andere toepassingen zijn geweest, waarbij ip-gegevens zijn gebruikt, maar de meeste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        608.84,
+        538.61,
+        617.84
+      ],
+      "text": "toepassingen zullen hierbij wel in kaart zijn. Als er een totaaloverzicht nodig is, dan is het advies hier een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        619.75,
+        256.06,
+        628.75
+      ],
+      "text": "apart grondig onderzoek voor op te starten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        44.87,
+        630.8,
+        548.4,
+        716.26
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.52,
+        31.29,
+        455.7,
+        40.29
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.52,
+        84.74,
+        448.49,
+        90.74
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        425.52,
+        94.72,
+        455.95,
+        102.76
+      ],
+      "text": "4 van 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.64,
+        145.05,
+        140.2,
+        154.05
+      ],
+      "text": "Vriendelijke groet,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        55.64,
+        153.75,
+        109.23,
+        162.36
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    }
+  ]
+}

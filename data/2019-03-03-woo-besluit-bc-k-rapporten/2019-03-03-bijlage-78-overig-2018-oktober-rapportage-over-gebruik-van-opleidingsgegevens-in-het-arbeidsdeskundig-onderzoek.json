@@ -1,0 +1,3581 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-78-overig-2018-oktober-rapportage-over-gebruik-van-opleidingsgegevens-in-het-arbeidsdeskundig-onderzoek",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-78-overig-2018-oktober-rapportage-over-gebruik-van-opleidingsgegevens-in-het-arbeidsdeskundig-onderzoek",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/9c54dc27-0d6d-4883-ad1e-f2393efad676/bijlage-78-overig-2018-oktober-rapportage-over-gebruik-van-opleidingsgegevens-in-het-arbeidsdeskundig-onderzoek.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 78 Rapportage over gebruik van opleidingsgegevens in het arbeidsdeskundig onderzoek oktober 2018 (PDF, 381 kB)",
+  "retrieved_at": "2026-06-30T14:22:55+00:00",
+  "sha256": "94cf30960f51c337806354d3af3df051b7ed744f7ca3ac1542d04386fab9f512",
+  "page_count": 9,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        224.45,
+        317.17,
+        406.76,
+        329.17
+      ],
+      "text": "Rapportage over gebruik van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.41,
+        331.81,
+        453.68,
+        343.81
+      ],
+      "text": "opleidingsgegevens in het arbeidsdeskundig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        283.39,
+        346.57,
+        347.88,
+        358.57
+      ],
+      "text": "onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.89,
+        401.39,
+        453.54,
+        410.39
+      ],
+      "text": "Onderzoek naar de vastgestelde opleidingsgegevens door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        221.69,
+        412.31,
+        409.79,
+        421.31
+      ],
+      "text": "arbeidsdeskundige in EZWb en (c)WIA(b)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        177.05,
+        510.85,
+        230.54,
+        519.85
+      ],
+      "text": "SMZ-BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.05,
+        531.73,
+        246.33,
+        540.73
+      ],
+      "text": "Oktober 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        72.97,
+        183.87,
+        84.01
+      ],
+      "text": "1. Achtergrond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        100.64,
+        514.23,
+        109.64
+      ],
+      "text": "Het doel van het arbeidskundig onderzoek in de EZWb en (c)WIA(b) is onder andere de mate van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        113.24,
+        523.04,
+        122.24
+      ],
+      "text": "arbeidsongeschiktheid vast te stellen. Met behulp van het CBBS bepaalt de arbeidsdeskundige (AD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        125.84,
+        466.29,
+        134.84
+      ],
+      "text": "het resterend verdienvermogen van de klant, rekening houdend met diens krachten en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        138.44,
+        513.22,
+        147.44
+      ],
+      "text": "bekwaamheden. Met bekwaamheden wordt bedoeld dat de klant beschikt over de vereiste kennis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        151.04,
+        488.79,
+        160.04
+      ],
+      "text": "en vaardigheden die noodzakelijk zijn om de geduide functies te verrichten. Het gaat hierbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        163.52,
+        306.97,
+        172.52
+      ],
+      "text": "voornamelijk om opleidingen en beroepservaringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        188.72,
+        472.78,
+        197.72
+      ],
+      "text": "Voor de eindselectie van functies is het van groot belang dat de AD uitgaat van de juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        201.32,
+        505.0,
+        210.32
+      ],
+      "text": "opleidingsgegevens. Een onjuiste vaststelling van het opleidingsniveau kan effect hebben op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        213.92,
+        431.52,
+        222.92
+      ],
+      "text": "eindselectie van functies in het CBBS en daarmee mogelijk ook op de mate van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        226.52,
+        174.82,
+        235.52
+      ],
+      "text": "arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        251.91,
+        283.14,
+        262.95
+      ],
+      "text": "2. Aanleiding huidig onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        279.59,
+        464.62,
+        288.59
+      ],
+      "text": "Uit reguliere dossiercontroles door BC&K is een beeld ontstaan dat niet altijd het juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        292.19,
+        214.65,
+        301.19
+      ],
+      "text": "opleidingsniveau is gehanteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        317.39,
+        490.06,
+        326.39
+      ],
+      "text": "Dit is voor BC&K aanleiding geweest om een onderzoek te verrichten naar de vaststelling en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        329.87,
+        394.76,
+        338.87
+      ],
+      "text": "verwerking van opleidingsgegevens door de AD in de claimbeoordeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        355.38,
+        188.8,
+        366.42
+      ],
+      "text": "3. Vraagstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        383.03,
+        126.96,
+        392.03
+      ],
+      "text": "Hoofdvraag:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        408.23,
+        353.13,
+        417.23
+      ],
+      "text": "- Is door de AD het juiste opleidingsniveau vastgesteld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        433.31,
+        134.54,
+        442.31
+      ],
+      "text": "Nevenvragen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.15,
+        456.93,
+        245.55,
+        467.51
+      ],
+      "text": "opleidingsoverzicht1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        458.51,
+        452.79,
+        467.51
+      ],
+      "text": "- Wordt het in de AD rapportage compleet weergegeven?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        471.13,
+        456.82,
+        480.13
+      ],
+      "text": "- Als de AD in het CBBS afwijkt van het in de AD-rapportage juist vastgestelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        483.73,
+        368.69,
+        492.73
+      ],
+      "text": "opleidingsniveau, in hoeverre is deze afwijking adequaat?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        496.21,
+        478.67,
+        505.21
+      ],
+      "text": "- Wordt het uitsluiten van opleidingsrichtingen in CBBS door de AD juist toegepast?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        508.81,
+        514.72,
+        517.81
+      ],
+      "text": "- Als er op de onderdelen ‘Opleidingsniveau’ en ‘Invoer CBBS’ bevindingen zijn én het recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        521.41,
+        521.87,
+        530.41
+      ],
+      "text": "op uitkering is ontstaan/blijven bestaan, in hoeveel gevallen is dan een nieuwe raadpleging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        534.01,
+        203.19,
+        543.01
+      ],
+      "text": "van het CBBS zinvol?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        559.52,
+        171.23,
+        570.56
+      ],
+      "text": "4. Methodiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        587.05,
+        505.36,
+        596.05
+      ],
+      "text": "Er zijn eerst door BC&K 600 dossiers getrokken, evenredig verdeeld over EZWb en (c)WIA, met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        599.65,
+        514.77,
+        608.65
+      ],
+      "text": "zoveel mogelijk verschillende AD-en over alle kantoren. Hiermee krijgen wij een zo representatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        612.25,
+        515.8,
+        621.25
+      ],
+      "text": "mogelijk beeld van de verwerking van de opleidingsgegevens van de klant in de AD-onderzoeken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        624.85,
+        517.5,
+        633.85
+      ],
+      "text": "Uiteindelijk zijn er meer dan 500 AD-en in de steekproef betrokken en zijn er in totaal 567 dossier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        637.45,
+        111.3,
+        646.45
+      ],
+      "text": "getoetst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        662.56,
+        104.15,
+        671.56
+      ],
+      "text": "Tabel 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.58,
+        675.64,
+        356.93,
+        684.64
+      ],
+      "text": "Steekproef Aantal dossiers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.58,
+        688.72,
+        331.23,
+        697.72
+      ],
+      "text": "Totaal 600",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.58,
+        701.8,
+        328.35,
+        710.8
+      ],
+      "text": "Afwijzer* 33",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.58,
+        714.88,
+        331.23,
+        723.88
+      ],
+      "text": "Gecontroleerd 567",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        727.88,
+        309.37,
+        735.92
+      ],
+      "text": "*niet reproduceerbaar (AD-rapportage ontbreekt in EAED).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        759.36,
+        74.95,
+        765.84
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.38,
+        762.68,
+        393.4,
+        770.72
+      ],
+      "text": "Het opleidingsoverzicht bestaat uit de opleidingsrichting, periode en resultaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        85.26,
+        506.99,
+        94.26
+      ],
+      "text": "Vervolgens hebben de auditoren AD de arbeidskundige beoordeling op volgende items getoetst:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        97.88,
+        325.35,
+        106.88
+      ],
+      "text": "- Overzicht opleiding (periode, richting, resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        404.02,
+        108.9,
+        436.79,
+        119.48
+      ],
+      "text": "CBBS2)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        110.48,
+        400.86,
+        119.48
+      ],
+      "text": "- Opleidingsniveau (=conform hulpmatrix functie/opleidingsniveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        123.08,
+        453.44,
+        132.08
+      ],
+      "text": "- CBBS invoer (afwijkend opleidingsniveau, uit te sluiten opleidingsrichtingen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        135.68,
+        522.03,
+        144.68
+      ],
+      "text": "- Als bij de items Opleidingsniveau en CBBS invoer een bevinding is vastgesteld én een recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        148.16,
+        472.19,
+        157.16
+      ],
+      "text": "op uitkering is ontstaan/blijven bestaan, is er ook gekeken of een nieuwe CBBS-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        160.76,
+        202.8,
+        169.76
+      ],
+      "text": "raadpleging zinvol is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        185.96,
+        516.99,
+        194.96
+      ],
+      "text": "Voor de toetsing op deze items zijn de volgende informatiebronnen geraadpleegd: AD rapportage,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        402.43,
+        196.98,
+        443.66,
+        207.56
+      ],
+      "text": "(Nuffic)3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        198.56,
+        399.26,
+        207.56
+      ],
+      "text": "Recapitulatie Voorselectie, Suwinet en diplomawaardering internationaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        223.64,
+        502.97,
+        232.64
+      ],
+      "text": "De auditoren AD hebben als toetsinstrument gebruik gemaakt van een checklist (bijlage 1). De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        236.24,
+        286.79,
+        245.24
+      ],
+      "text": "bevindingen zijn ter borging vastgelegd in KRS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        261.75,
+        183.42,
+        272.79
+      ],
+      "text": "5. Bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        290.75,
+        485.57,
+        299.75
+      ],
+      "text": "In dit hoofdstuk worden de bevindingen weergegeven die gaan over de vaststelling van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        303.35,
+        248.71,
+        312.35
+      ],
+      "text": "opleidingsniveau in de AD rapportages.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        329.87,
+        270.63,
+        338.87
+      ],
+      "text": "5.1 Vaststellen opleidingsniveau door de AD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        356.83,
+        93.02,
+        366.79
+      ],
+      "text": "Voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.13,
+        357.59,
+        463.34,
+        366.59
+      ],
+      "text": "het vaststellen van het opleidingsniveau maakt de AD gebruik van de hulpmatrix",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        370.43,
+        519.85,
+        379.43
+      ],
+      "text": "functie/opleidingsniveau CBBS. Deze hulpmatrix kent een niveau-indeling van 1 tot en met 7, naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        383.03,
+        515.03,
+        392.03
+      ],
+      "text": "rato van de zwaarte van het onderwijs. De AD gaat na welke opleiding(en) de klant heeft gevolgd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        395.63,
+        510.15,
+        404.63
+      ],
+      "text": "en stelt vervolgens op basis van deze hulpmatrix het opleidingsniveau vast. Wij zijn nagegaan in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        408.23,
+        514.95,
+        417.23
+      ],
+      "text": "hoeveel gevallen de AD het opleidingsniveau juist (=conform de hulpmatrix) heeft vastgesteld. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        420.71,
+        465.14,
+        429.71
+      ],
+      "text": "tabel 2 staat in hoeveel gevallen door de AD het juiste opleidingsniveau is vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        445.91,
+        104.15,
+        454.91
+      ],
+      "text": "Tabel 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        458.99,
+        387.63,
+        467.99
+      ],
+      "text": "Opleidingsniveau aantal %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        472.09,
+        393.39,
+        481.09
+      ],
+      "text": "Juist 455 80%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        485.17,
+        393.39,
+        494.17
+      ],
+      "text": "Onjuist 122 20%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        498.25,
+        396.27,
+        507.25
+      ],
+      "text": "Totaal 567 100%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.82,
+        511.25,
+        98.73,
+        519.29
+      ],
+      "text": "N=567",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        533.65,
+        430.73,
+        542.65
+      ],
+      "text": "5.1.1 Inadequaat opleidingsniveau bij Nederlands versus buitenlands onderwijs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        558.85,
+        520.11,
+        567.85
+      ],
+      "text": "Zoals in tabel 2 vermeld, is het opleidingsniveau in 122 gevallen onjuist vastgesteld. Van deze 122",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        571.45,
+        498.71,
+        580.45
+      ],
+      "text": "gevallen zijn wij nagegaan of het onderwijs in Nederland, buitenland of zowel in Nederland als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        584.05,
+        395.82,
+        593.05
+      ],
+      "text": "buitenland is gevolgd. Onderstaande tabel geeft daarvan een overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        609.13,
+        104.15,
+        618.13
+      ],
+      "text": "Tabel 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        622.21,
+        391.11,
+        631.21
+      ],
+      "text": "Land aantal %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        635.29,
+        396.99,
+        644.29
+      ],
+      "text": "Nederland 56 46%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        648.37,
+        396.99,
+        657.37
+      ],
+      "text": "buitenland 54 44%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        661.48,
+        396.99,
+        670.48
+      ],
+      "text": "Zowel Nederland als buitenland 12 10%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.58,
+        674.56,
+        399.87,
+        683.56
+      ],
+      "text": "Totaal 122 100%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.82,
+        687.56,
+        98.73,
+        695.6
+      ],
+      "text": "N=122",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        710.08,
+        494.12,
+        719.08
+      ],
+      "text": "In 44% van de gevallen, waarbij het opleidingsniveau als onjuist is aangemerkt, gaat het om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        722.56,
+        506.84,
+        731.56
+      ],
+      "text": "klanten die hun onderwijs in het buitenland hebben gevolgd. In deze gevallen wordt door de AD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        747.24,
+        74.95,
+        753.72
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.38,
+        750.56,
+        209.99,
+        758.6
+      ],
+      "text": "Zie Basisinformatie CBBS, p. 18.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        759.36,
+        74.95,
+        765.84
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        78.38,
+        762.68,
+        326.76,
+        770.72
+      ],
+      "text": "Te raadplegen via intranet “startpagina Arbeidsdeskundigen”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        72.66,
+        478.34,
+        81.66
+      ],
+      "text": "niet aangegeven welke specifieke buitenlandse opleiding(en) de klant heeft gevolgd en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        85.26,
+        517.14,
+        94.26
+      ],
+      "text": "ontbreekt een deugdelijke omzetting naar het Nederlandse onderwijsniveau. Dit geldt ook voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        97.88,
+        486.42,
+        106.88
+      ],
+      "text": "12 gevallen (10%) waarin de klant zowel in Nederland als in het buitenland onderwijs heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        110.48,
+        110.9,
+        119.48
+      ],
+      "text": "genoten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        135.68,
+        494.84,
+        144.68
+      ],
+      "text": "Voorbeeld: Een klant is op 23 jarige leeftijd naar Nederland gekomen en heeft in zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        148.16,
+        504.04,
+        157.16
+      ],
+      "text": "geboorteland onderwijs gevolgd. In de AD-rapportage staat alleen vermeld dat de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        160.76,
+        510.94,
+        169.76
+      ],
+      "text": "basisonderwijs en middelbaar onderwijs heeft afgerond. De AD stelt het opleidingsniveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        173.36,
+        263.34,
+        182.36
+      ],
+      "text": "zonder enige toelichting vast op 2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        198.56,
+        509.3,
+        207.56
+      ],
+      "text": "Elk land kent een eigen onderwijsstelsel die veelal niet analoog is aan het Nederlands onderwijs.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        211.04,
+        478.4,
+        220.04
+      ],
+      "text": "Nuffic heeft wel diverse buitenlandse onderwijsstelsels beschreven en vergeleken met het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        223.64,
+        515.36,
+        232.64
+      ],
+      "text": "Nederlands onderwijssysteem. Onze klanten komen echter uit veel verschillende landen waardoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        236.24,
+        503.78,
+        245.24
+      ],
+      "text": "het onmogelijk is om al die die gevallen nader uit te werken naar opleidingssoort en dergelijke.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.94,
+        261.44,
+        385.09,
+        270.44
+      ],
+      "text": "5.1.2 Inadequaat opleidingsniveau naar soort opleiding in Nederland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        286.55,
+        522.82,
+        295.55
+      ],
+      "text": "Uit tabel 3 blijkt dat in 56 gevallen het opleidingsniveau door de AD onjuist is vastgesteld terwijl de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        299.15,
+        521.93,
+        308.15
+      ],
+      "text": "klant zijn opleiding(en) in Nederland heeft genoten. Om een goed beeld te krijgen, is onderzocht in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        311.75,
+        512.48,
+        320.75
+      ],
+      "text": "hoeveel gevallen sprake was van beroepsonderwijs dan wel algemeen vormend onderwijs. Onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        324.35,
+        498.05,
+        333.35
+      ],
+      "text": "beroepsonderwijs verstaan wij VMBO (excl. VMBO-T), MBO, HBO en universitair onderwijs. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        336.95,
+        378.34,
+        345.95
+      ],
+      "text": "algemeen vormend onderwijs gaat het om VMBO-T, HAVO en VWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        362.03,
+        104.15,
+        371.03
+      ],
+      "text": "Tabel 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.58,
+        375.11,
+        387.63,
+        384.11
+      ],
+      "text": "Onderwijs in Nederland Aantal %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.58,
+        388.19,
+        393.39,
+        397.19
+      ],
+      "text": "Beroepsonderwijs 50 89%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.58,
+        401.27,
+        393.39,
+        410.27
+      ],
+      "text": "Algemeen vormend onderwijs 6 11%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.58,
+        414.35,
+        396.27,
+        423.35
+      ],
+      "text": "totaal 56 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        440.03,
+        499.26,
+        449.03
+      ],
+      "text": "In 11% van de gevallen waarin het onderwijsniveau niet juist was vastgesteld, had de klant in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        452.63,
+        506.25,
+        461.63
+      ],
+      "text": "Nederland algemeen vormend onderwijs genoten. In deze gevallen ging de AD er van uit dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        465.25,
+        508.07,
+        474.25
+      ],
+      "text": "klant het algemeen vormend onderwijs met diploma had afgerond terwijl dat niet uit het dossier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        477.85,
+        480.23,
+        486.85
+      ],
+      "text": "bleek. Het omgekeerde (wel een diploma maar niet door de AD als zodanig erkend) kwam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        490.33,
+        160.74,
+        499.33
+      ],
+      "text": "overigens ook voor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        515.53,
+        520.49,
+        524.53
+      ],
+      "text": "Voorbeeld: Klant heeft HAVO afgerond met 3 certificaten. Op grond hiervan stelt de AD het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        528.13,
+        412.1,
+        537.13
+      ],
+      "text": "opleidingsniveau vast op 5 terwijl het opleidingsniveau 3 moet zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        553.21,
+        470.11,
+        562.21
+      ],
+      "text": "In tabel 5 staat vermeld bij welke type beroepsonderwijs het opleidingsniveau onjuist is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        565.81,
+        125.78,
+        574.81
+      ],
+      "text": "vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        591.01,
+        104.15,
+        600.01
+      ],
+      "text": "Tabel 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.58,
+        604.09,
+        387.63,
+        613.09
+      ],
+      "text": "Beroepsonderwijs NL Aantal %",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        73.58,
+        617.17,
+        393.39,
+        626.17
+      ],
+      "text": "VMBO 5 10%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        73.58,
+        630.25,
+        393.39,
+        639.25
+      ],
+      "text": "MBO 44 88%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        73.58,
+        643.33,
+        390.51,
+        652.33
+      ],
+      "text": "HBO 1 2%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.58,
+        656.44,
+        396.27,
+        665.44
+      ],
+      "text": "Totaal 50 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        683.44,
+        492.12,
+        692.44
+      ],
+      "text": "In de meeste gevallen waarbij het opleidingsniveau onjuist is vastgesteld, heeft de klant een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        696.04,
+        517.86,
+        705.04
+      ],
+      "text": "afgeronde MBO opleiding. Een verklaring hiervoor is dat het huidige MBO stelsel 4 niveaus (MBO 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        708.64,
+        501.02,
+        717.64
+      ],
+      "text": "t/m 4) kent die in de hulpmatrix CBBS ook weer een andere gradatie hebben. Om tot de juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        721.24,
+        511.7,
+        730.24
+      ],
+      "text": "schaalindeling van de hulpmatrix te komen, moet de AD dus precies nagaan welk MBO niveau de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        733.84,
+        161.51,
+        742.84
+      ],
+      "text": "klant heeft gevolgd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        85.26,
+        138.39,
+        94.26
+      ],
+      "text": "Voorbeeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        97.88,
+        499.32,
+        106.88
+      ],
+      "text": "Klant heeft een mbo-opleiding (zelfstandig werkend kok) met diploma afgerond. Dit is een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        110.48,
+        495.32,
+        119.48
+      ],
+      "text": "mbo-3 opleiding die op grond van de hulpmatrix CBBS op schaalniveau 4 dient te worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        123.08,
+        413.94,
+        132.08
+      ],
+      "text": "ingedeeld terwijl de AD de opleiding ten onrechte op niveau 3 vaststelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        148.16,
+        240.31,
+        157.16
+      ],
+      "text": "5.2 Compleetheid opleidingsoverzicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        160.76,
+        493.24,
+        169.76
+      ],
+      "text": "De AD-rapportage bevat altijd een overzicht van de opleidingsgegevens op de items richting,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.15,
+        171.78,
+        169.02,
+        182.36
+      ],
+      "text": "periode4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        173.36,
+        512.85,
+        182.36
+      ],
+      "text": "resultaat en Door het opleidingsoverzicht compleet in te vullen, wordt er duidelijk beeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        337.51,
+        184.38,
+        386.75,
+        194.96
+      ],
+      "text": "(richting5),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        185.96,
+        493.62,
+        194.96
+      ],
+      "text": "verkregen welk soort opleiding(en) de klant heeft gevolgd gedurende welke jaren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        198.56,
+        498.02,
+        207.56
+      ],
+      "text": "(periode) en of er een diploma is behaald (resultaat). Deze gegevens zijn van belang voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        211.04,
+        523.98,
+        220.04
+      ],
+      "text": "bepalen van het opleidingsniveau. Als bijvoorbeeld het opleidingsresultaat ontbreekt, dan wordt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        223.64,
+        504.49,
+        232.64
+      ],
+      "text": "moeilijk om het juiste opleidingsniveau vast te stellen. In het geval de periode van de gevolgde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        236.24,
+        504.77,
+        245.24
+      ],
+      "text": "opleidingen niet is ingevuld, dan is onduidelijk of het opleidingsverleden hiaten vertoont c.q. de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        248.84,
+        165.06,
+        257.84
+      ],
+      "text": "leerplicht is voltooid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        274.04,
+        488.76,
+        283.04
+      ],
+      "text": "In tabel 6 staat in hoeveel gevallen het opleidingsoverzicht in de AD-rapportage compleet is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        286.55,
+        118.23,
+        295.55
+      ],
+      "text": "bevonden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        311.75,
+        104.15,
+        320.75
+      ],
+      "text": "Tabel 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.58,
+        324.83,
+        396.27,
+        333.83
+      ],
+      "text": "Compleetheid opleidingsoverzicht Aantal (N= 567) %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.58,
+        337.91,
+        379.23,
+        346.91
+      ],
+      "text": "Niet compleet 365 64%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.58,
+        350.99,
+        379.23,
+        359.99
+      ],
+      "text": "Compleet 202 36%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.58,
+        364.07,
+        382.11,
+        373.07
+      ],
+      "text": "Totaal 567 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        389.75,
+        497.82,
+        398.75
+      ],
+      "text": "In 365 gevallen was het opleidingsoverzicht in de AD-rapportage incompleet. In deze dossiers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        402.35,
+        503.81,
+        411.35
+      ],
+      "text": "ontbrak dus één of meerdere items in het opleidingsoverzicht van de AD-rapportage. In tabel 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        414.83,
+        492.47,
+        423.83
+      ],
+      "text": "wordt weergegeven welke items van het opleidingsoverzicht niet waren ingevuld. In een AD-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        427.43,
+        491.65,
+        436.43
+      ],
+      "text": "rapportage kunnen meerdere items ontbreken. In dat geval wordt er ook op meerdere items",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        440.03,
+        168.3,
+        449.03
+      ],
+      "text": "inadequaat gescoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        465.25,
+        104.12,
+        474.25
+      ],
+      "text": "Tabel 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.42,
+        478.33,
+        195.45,
+        487.33
+      ],
+      "text": "Item Inadequaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.42,
+        491.41,
+        178.42,
+        500.41
+      ],
+      "text": "Periode 324",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.42,
+        504.49,
+        178.42,
+        513.49
+      ],
+      "text": "Richting 119",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.42,
+        517.57,
+        175.54,
+        526.57
+      ],
+      "text": "Resultaat 39",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        543.13,
+        438.26,
+        552.13
+      ],
+      "text": "In de meeste gevallen (324 van de 365 dossiers) wordt het item ‘periode’ in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        555.73,
+        518.29,
+        564.73
+      ],
+      "text": "opleidingsoverzicht niet ingevuld. In 119 dossiers was het item ‘opleidingsrichting’ niet volledig. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        568.33,
+        460.53,
+        577.33
+      ],
+      "text": "deze gevallen was veelal sprake van een hiaat tussen het basisonderwijs en het MBO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        593.84,
+        234.54,
+        604.88
+      ],
+      "text": "6. Overige bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        622.81,
+        390.98,
+        631.81
+      ],
+      "text": "Dit hoofdstuk gaat over de invoer van de opleidingsgegevens in CBBS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        648.01,
+        250.65,
+        657.01
+      ],
+      "text": "6.1 Afwijkend opleidingsniveau in CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        673.24,
+        496.7,
+        682.24
+      ],
+      "text": "Als de AD het CBBS raadpleegt, dan moet in CBBS het opleidingsniveau worden ingevoerd. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        685.72,
+        490.1,
+        694.72
+      ],
+      "text": "beginsel wordt uitgegaan van het opleidingsniveau zoals in de AD rapportage is vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        698.32,
+        488.39,
+        707.32
+      ],
+      "text": "Afwijking van het vastgestelde opleidingsniveau in CBBS is mogelijk maar dan moet dat wel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        710.92,
+        500.64,
+        719.92
+      ],
+      "text": "adequaat zijn onderbouwd door AD. Van alle dossiers waarvan in CBBS het opleidingsniveau is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        737.52,
+        74.95,
+        744.0
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        78.38,
+        740.84,
+        261.1,
+        748.88
+      ],
+      "text": "Dit zijn vaste gegevens in de AD-rapportage.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        749.64,
+        74.95,
+        756.12
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        78.38,
+        751.44,
+        91.58,
+        761.4
+      ],
+      "text": "Als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        94.46,
+        752.96,
+        519.11,
+        761.0
+      ],
+      "text": "de naam van de opleiding wordt vermeld, bijvoorbeeld VMBO, is dat adequaat. In tabel 5 gaat het om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        763.16,
+        406.53,
+        771.2
+      ],
+      "text": "nadere specificatie van opleiding, bijvoorbeeld VMBO kader, sector welzijn en zorg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        72.66,
+        522.95,
+        81.66
+      ],
+      "text": "ingevoerd, is in 24 dossiers afgeweken van het vastgestelde opleidingsniveau. Slechts in 2 gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        85.26,
+        221.83,
+        94.26
+      ],
+      "text": "is dit op adequate wijze gebeurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        110.48,
+        180.85,
+        119.48
+      ],
+      "text": "6.2 Opleidingsrichtingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        135.68,
+        493.68,
+        144.68
+      ],
+      "text": "In CBBS bestaat de mogelijkheid om opleidingsrichtingen aan te geven. Om de automatische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        148.16,
+        485.45,
+        157.16
+      ],
+      "text": "voorselectie optimaal te benutten, sluit de AD opleidingsrichtingen uit waarin de klant geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        160.76,
+        456.51,
+        169.76
+      ],
+      "text": "diploma’s heeft. Het CBBS zal dan aan de AD geen functies presenteren waarvoor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        173.36,
+        512.32,
+        182.36
+      ],
+      "text": "opleidingsrichtingen zijn uitgesloten. Wij zijn nagegaan in hoeverre de AD adequaat is omgegaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        185.96,
+        379.67,
+        194.96
+      ],
+      "text": "met het uitsluiten van opleidingsrichtingen in het CBBS. Zie tabel 8.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        211.04,
+        104.15,
+        220.04
+      ],
+      "text": "Tabel 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        224.12,
+        411.06,
+        233.12
+      ],
+      "text": "Uitsluiten opleidingsrichtingen in CBBS aantal %",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        414.22,
+        224.88,
+        449.42,
+        232.92
+      ],
+      "text": "(N=567)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        237.2,
+        435.9,
+        246.2
+      ],
+      "text": "Adequaat 302 53%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        250.28,
+        435.9,
+        259.28
+      ],
+      "text": "Inadequaat 197 35%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        73.58,
+        263.36,
+        435.9,
+        272.36
+      ],
+      "text": "NVT* 68 12%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        276.47,
+        438.78,
+        285.47
+      ],
+      "text": "totaal 567 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        289.47,
+        498.45,
+        297.51
+      ],
+      "text": "*gevallen waarin het CBBS niet is geraadpleegd, bijvoorbeeld afzien CBBS vanwege uitzonderingssituatie,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        300.75,
+        209.76,
+        308.79
+      ],
+      "text": "praktische schatting en dergelijke.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        324.59,
+        511.55,
+        333.59
+      ],
+      "text": "Uit tabel 8 blijkt dat in 197 gevallen de mogelijkheid tot het uitsluiten van opleidingsrichtingen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        337.07,
+        400.63,
+        346.07
+      ],
+      "text": "CBBS niet adequaat is toegepast. Er zijn daarbij twee situaties mogelijk:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.82,
+        349.67,
+        513.71,
+        358.67
+      ],
+      "text": "1. De AD kan ten onrechte opleidingsrichtingen uitsluiten. Hierdoor verwerpt het CBBS in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        362.27,
+        521.06,
+        371.27
+      ],
+      "text": "automatische voorselectie mogelijk meer functies dan nodig is hetgeen invloed kan hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        374.87,
+        285.77,
+        383.87
+      ],
+      "text": "op de mate van arbeidsongeschiktheid;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.82,
+        387.47,
+        510.26,
+        396.47
+      ],
+      "text": "2. De AD kan opleidingsrichtingen ten onrechte niet uitsluiten. Als gevolg daarvan verwerpt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        399.95,
+        503.21,
+        408.95
+      ],
+      "text": "het CBBS in de automatische voorselectie te weinig functies. Dat is op zichzelf niet fout",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        412.55,
+        517.38,
+        421.55
+      ],
+      "text": "maar hierdoor moet de AD in de professionele eindselectie meer functies motiveren die bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        425.15,
+        489.51,
+        434.15
+      ],
+      "text": "uitsluiting überhaupt niet door het CBBS gepresenteerd zouden zijn. In deze tweede",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        437.75,
+        359.37,
+        446.75
+      ],
+      "text": "situatie gaat het meer over het proportioneel handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        462.95,
+        505.05,
+        471.95
+      ],
+      "text": "In tabel 9 staat vermeld in hoeveel gevallen de AD teveel opleidingsrichtingen heeft uitgesloten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        475.45,
+        326.43,
+        484.45
+      ],
+      "text": "dan wel te weinig opleidingsrichtingen heeft uitgesloten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        500.65,
+        104.15,
+        509.65
+      ],
+      "text": "Tabel 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        513.73,
+        335.16,
+        522.73
+      ],
+      "text": "Uitsluiten opleidingsrichting inadequaat aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        526.81,
+        329.91,
+        535.81
+      ],
+      "text": "Ten onrechte richtingen niet uitgesloten 167",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        539.89,
+        327.03,
+        548.89
+      ],
+      "text": "Ten onrechte richtingen uitgesloten 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.58,
+        552.97,
+        329.91,
+        561.97
+      ],
+      "text": "totaal 197",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        589.81,
+        227.38,
+        598.81
+      ],
+      "text": "6.3 Hernieuwde CBBS-raadpleging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        615.01,
+        462.76,
+        624.01
+      ],
+      "text": "De AD moet bij het raadplegen van het CBBS een aantal gegevens invoeren, zoals het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        627.49,
+        512.89,
+        636.49
+      ],
+      "text": "opleidingsniveau en de (uit te sluiten) opleidingsrichtingen. De invoer van deze gegevens bepaalt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        640.09,
+        496.14,
+        649.09
+      ],
+      "text": "mede de automatische voorselectie van functies. We hebben in dit onderzoek gekeken naar 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        652.69,
+        523.88,
+        661.69
+      ],
+      "text": "verschillende aandachtspunten in CBBS: (1) er is een te laag opleidingsniveau gehanteerd, (2) er is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        665.32,
+        471.2,
+        674.32
+      ],
+      "text": "een juist opleidingsniveau vastgesteld in AD-rapportage maar in het CBBS wordt zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        677.92,
+        486.73,
+        686.92
+      ],
+      "text": "onderbouwing een lager opleidingsniveau ingevoerd, (3) er wordt ten onrechte één of meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        690.52,
+        483.14,
+        699.52
+      ],
+      "text": "opleidingsrichtingen uitgesloten. In deze 3 situaties verwerpt de automatische voorselectie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        703.0,
+        510.06,
+        712.0
+      ],
+      "text": "mogelijk meer potentieel geschikte functies dan nodig is. Daardoor kan er recht op een uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        715.6,
+        186.57,
+        724.6
+      ],
+      "text": "ontstaan/blijven bestaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        72.66,
+        508.92,
+        81.66
+      ],
+      "text": "In 36 dossiers hebben wij vastgesteld dat de automatische voorselectie, door een onjuiste CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        336.5,
+        83.68,
+        391.49,
+        94.26
+      ],
+      "text": "verworpen.6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        85.26,
+        517.6,
+        94.26
+      ],
+      "text": "invoer, mogelijk teveel potentieel geschikte functies heeft Tabel 10 vermeldt in welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        97.88,
+        475.82,
+        106.88
+      ],
+      "text": "gevallen er één of meer van bovengenoemde CBBS-aandachtspunten zijn geconstateerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        123.08,
+        109.91,
+        132.08
+      ],
+      "text": "Tabel 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.58,
+        136.16,
+        499.83,
+        145.16
+      ],
+      "text": "Oorzaken Aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        91.58,
+        149.24,
+        491.34,
+        158.24
+      ],
+      "text": "1. Te laag opleidingsniveau 27",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        91.58,
+        162.32,
+        488.34,
+        171.32
+      ],
+      "text": "2. Afwijking CBBS: invoer opleidingsniveau in CBBS te laag 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        91.58,
+        175.4,
+        488.34,
+        184.4
+      ],
+      "text": "3. Ten onrechte opleidingsrichtingen in CBBS uitgesloten 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        429.46,
+        188.48,
+        491.34,
+        197.48
+      ],
+      "text": "Totaal 36",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        217.23,
+        165.94,
+        228.27
+      ],
+      "text": "7. Conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        244.88,
+        126.99,
+        253.88
+      ],
+      "text": "Hoofdvraag:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        257.47,
+        353.28,
+        266.48
+      ],
+      "text": " Is door de AD het juiste opleidingsniveau vastgesteld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        282.59,
+        118.06,
+        291.59
+      ],
+      "text": "Antwoord:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        295.17,
+        460.96,
+        304.19
+      ],
+      "text": " In 80% van de onderzochte gevallen is het opleidingsniveau juist vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        320.39,
+        134.54,
+        329.39
+      ],
+      "text": "Nevenvragen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        332.85,
+        449.95,
+        341.87
+      ],
+      "text": " Wordt het opleidingsoverzicht in de AD-rapportage compleet weergegeven?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        345.45,
+        489.09,
+        354.47
+      ],
+      "text": " Antwoord: In 36% van de onderzochte dossiers is het opleidingsoverzicht compleet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        370.65,
+        507.96,
+        379.67
+      ],
+      "text": " Als de AD in het CBBS afwijkt van het juist vastgestelde opleidingsniveau, in hoeverre is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        383.27,
+        221.71,
+        392.27
+      ],
+      "text": "deze afwijking adequaat?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        395.85,
+        492.86,
+        404.87
+      ],
+      "text": " Antwoord: In de 24 gevallen waarin de AD in CBBS afwijkt van het juist vastgestelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        408.35,
+        504.54,
+        417.35
+      ],
+      "text": "opleidingsniveau in de AD-rapportage, is slechts in 2 gevallen deze afwijking deugdelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        420.95,
+        165.84,
+        429.95
+      ],
+      "text": "onderbouwd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        446.13,
+        95.97,
+        455.13
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        446.15,
+        478.43,
+        455.15
+      ],
+      "text": "Wordt het uitsluiten van opleidingsrichtingen in CBBS door de AD juist toegepast?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        458.74,
+        95.97,
+        467.74
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        458.75,
+        498.98,
+        467.75
+      ],
+      "text": "Antwoord: In 53% van de onderzochte gevallen is de AD adequaat omgegaan met het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        471.25,
+        300.84,
+        480.25
+      ],
+      "text": "uitsluiten van opleidingsrichtingen in CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        496.44,
+        95.97,
+        505.44
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        496.45,
+        514.72,
+        505.45
+      ],
+      "text": "Als er op de onderdelen ‘Opleidingsniveau’ en ‘Invoer CBBS’ bevindingen zijn én het recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        509.05,
+        521.87,
+        518.05
+      ],
+      "text": "op uitkering is ontstaan/blijven bestaan, in hoeveel gevallen is dan een nieuwe raadpleging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        521.65,
+        203.1,
+        530.65
+      ],
+      "text": "van het CBBS zinvol?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        534.24,
+        95.97,
+        543.24
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        534.25,
+        514.71,
+        543.25
+      ],
+      "text": "Antwoord: In 36 gevallen, waarin recht op uitkering ontstaat of bleef bestaan, hebben wij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        546.73,
+        519.04,
+        555.73
+      ],
+      "text": "vastgesteld dat de automatische voorselectie mogelijk teveel functies heeft verworpen. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        559.33,
+        506.06,
+        568.33
+      ],
+      "text": "komt grotendeels doordat er in die gevallen een te laag opleidingsniveau is gehanteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        749.64,
+        74.95,
+        756.12
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        78.38,
+        752.96,
+        496.77,
+        761.0
+      ],
+      "text": "Het gaat hier alleen om de gevallen waarin er recht op een uitkering ontstaat dan wel blijft bestaan. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        763.16,
+        419.55,
+        771.2
+      ],
+      "text": "dossiers waarbij het recht op een uitkering is afgewezen/beëindigd, vallen hier buiten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        73.38,
+        460.19,
+        82.38
+      ],
+      "text": "Naam document Rapportage onderzoek opleidingsgegevens in AD-onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        84.78,
+        364.95,
+        93.78
+      ],
+      "text": "Verantwoordelijke Business Manager Kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        96.2,
+        401.27,
+        105.2
+      ],
+      "text": "Opsteller Auditoren AD (Team Vakinhoudelijke Kwaliteit)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        119.12,
+        174.5,
+        128.12
+      ],
+      "text": "Review rapport door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        164.84,
+        110.61,
+        173.84
+      ],
+      "text": "Historie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        176.24,
+        510.65,
+        185.24
+      ],
+      "text": "Versienummer Versie 0.3 d.d. 1-10-2018 voorleggen concept aan Team Kwaliteit voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        187.28,
+        228.45,
+        196.28
+      ],
+      "text": "feedback",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        198.68,
+        516.43,
+        207.68
+      ],
+      "text": "Versie 0.4 d.d. 10-10-2018 voorleggen concept aan Team Kwaliteit voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        209.6,
+        228.45,
+        218.6
+      ],
+      "text": "feedback",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        221.0,
+        495.52,
+        230.0
+      ],
+      "text": "Versie 0.5 16-10-2018 voorleggen concept aan Team Kwaliteit voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        232.04,
+        228.45,
+        241.04
+      ],
+      "text": "feedback",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        243.44,
+        492.01,
+        252.44
+      ],
+      "text": "Versie 0.6 22-10-2018 Voorleggen concept aan MA, AA, CSPB voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        187.85,
+        254.36,
+        228.45,
+        263.36
+      ],
+      "text": "feedback",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        265.76,
+        224.5,
+        274.76
+      ],
+      "text": "Status Concept",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        70.82,
+        277.38,
+        111.74,
+        283.44
+      ],
+      "text": " 2018, UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        295.05,
+        516.72,
+        301.05
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        302.37,
+        515.88,
+        308.37
+      ],
+      "text": "gemaakt, in enige vorm, of enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen of enige andere manier, zonder voorafgaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        309.57,
+        178.98,
+        315.57
+      ],
+      "text": "schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        787.76,
+        524.59,
+        795.8
+      ],
+      "text": "Rapportage onderzoek opleidingsgegevens in AD-onderzoek / versie 0.6 / 23-10-2018 9",
+      "source": "text"
+    }
+  ]
+}

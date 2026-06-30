@@ -1,0 +1,6845 @@
+{
+  "source_id": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden/2026-05-01-5-registreren-inkomsten-in-uzs",
+  "publication_slug": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_slug": "2026-05-01-5-registreren-inkomsten-in-uzs",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/a11eec02-e860-4f4b-b6d0-a89af5fb45dd/5-registreren-inkomsten-in-uzs.pdf",
+  "publication_title": "Woo-besluit over korting inkomen vrijwillig verzekerden",
+  "publication_date": "2026-05-01T06:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 5. Registreren inkomsten in UZS (PDF, 353 kB)",
+  "retrieved_at": "2026-06-30T11:24:34+00:00",
+  "sha256": "a827c1ad30c329d2bdac7d606e2ad10ba478f88d196880541ae632ee342f5e7b",
+  "page_count": 10,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        600.08,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UC » Afhandelen inkomstenkorting » Verwerken inkomsten » Registreren inkomsten in UZS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        288.0,
+        316.73,
+        313.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        342.0,
+        344.93,
+        363.0
+      ],
+      "text": "Registreren inkomsten in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.18,
+        390.0,
+        754.81,
+        401.25
+      ],
+      "text": "Bepalen duur korting Verwerken inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        392.43,
+        768.74,
+        403.68
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        410.25,
+        213.74,
+        421.5
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        450.0,
+        553.68,
+        461.25
+      ],
+      "text": "Wie Uitkeringsconsulent (UC)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        470.25,
+        532.38,
+        481.5
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        490.5,
+        631.2,
+        501.75
+      ],
+      "text": "Samenvatting Je registreert het kortingsbedrag in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        510.75,
+        100.28,
+        522.0
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        531.0,
+        483.76,
+        542.25
+      ],
+      "text": "Intern Proces ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        551.25,
+        208.09,
+        562.5
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        571.5,
+        140.98,
+        582.75
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        591.75,
+        136.43,
+        603.0
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        612.0,
+        106.31,
+        623.25
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        31.5,
+        749.14,
+        42.75
+      ],
+      "text": "Voor het registreren van de inkomsten in UZS heb je een inkomstenbedrag per dag berekend en is de duur van de inkomsten bekend. Nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        51.0,
+        224.61,
+        62.25
+      ],
+      "text": "registreer je de korting in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        81.75,
+        263.14,
+        93.0
+      ],
+      "text": "Je bepaalt om welke situatie het gaat:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        108.75,
+        82.57,
+        126.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        112.5,
+        200.95,
+        123.75
+      ],
+      "text": "Een voorlopige korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        128.25,
+        82.57,
+        146.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        132.0,
+        320.84,
+        143.25
+      ],
+      "text": "Een schorsing in afwachting van de inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        147.75,
+        82.57,
+        165.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        151.5,
+        444.48,
+        162.75
+      ],
+      "text": "Een schorsing opheffen na ontvangst van informatie over de inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        167.25,
+        82.57,
+        185.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        171.0,
+        318.68,
+        182.25
+      ],
+      "text": "Een korting van (VUT-/pre)pensioeninkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        186.75,
+        82.57,
+        204.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        190.5,
+        199.6,
+        201.75
+      ],
+      "text": "Een definitieve korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        206.25,
+        82.57,
+        224.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        210.0,
+        295.55,
+        221.25
+      ],
+      "text": "Een herziening van een definitieve korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        225.75,
+        82.57,
+        243.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        229.5,
+        241.9,
+        240.75
+      ],
+      "text": "Een beëindiging van de korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        245.25,
+        82.57,
+        263.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        249.0,
+        240.08,
+        260.25
+      ],
+      "text": "Een heropening van de korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        264.75,
+        82.57,
+        282.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        268.5,
+        303.28,
+        279.75
+      ],
+      "text": "Het splitsen van een geregistreerde korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        284.25,
+        82.57,
+        302.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        288.0,
+        465.26,
+        299.25
+      ],
+      "text": "Een administratieve splitsing van een dossier in combinatie met een korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        303.75,
+        82.57,
+        321.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        307.5,
+        281.18,
+        318.75
+      ],
+      "text": "Een korting vanwege een tweede recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        342.0,
+        763.09,
+        353.25
+      ],
+      "text": "Als een geval in het automatische proces zit, registreer je de korting ook meteen in UZS. Na toekenning zet UZS de juiste brief automatisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        361.5,
+        464.31,
+        372.75
+      ],
+      "text": "klaar en ontvang je signaal UZZ0334 Afhandelen uitgaande brief in je werklijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        392.25,
+        123.86,
+        403.5
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        411.75,
+        716.5,
+        423.0
+      ],
+      "text": "1: De status van het geval moet zijn toegewezen om de brief automatisch klaar te zetten. Als dat nog niet het geval is, zorgt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        431.25,
+        728.13,
+        442.5
+      ],
+      "text": "statusovergang naar ‘Toegewezen’ dat de brief alsnog wordt klaargezet. Op dat moment verschijnt signaal ‘UZZ0334 Afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        450.75,
+        761.34,
+        462.0
+      ],
+      "text": "uitgaande brief’ om de kortingsbrief te controleren en fiatteren. Als de beschikking nog niet is verstuurd, worden bij correcties de eerder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        470.25,
+        606.61,
+        481.5
+      ],
+      "text": "opgeslagen regels in het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ automatisch verwijderd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        489.75,
+        731.64,
+        501.0
+      ],
+      "text": "2: Het kan voorkomen dat je aan de hand van deze werkinstructie de inkomsten opnieuw moet registreren in het scherm ‘Beheren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        509.25,
+        765.26,
+        520.5
+      ],
+      "text": "gedeeltelijke werkhervatting’. Het signaal ‘UZZ0436 Beoordeel melding gedeeltelijk werken’ wordt dan onterecht gezet. Dit signaal kun je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        528.75,
+        331.06,
+        540.0
+      ],
+      "text": "na afhandeling van deze werkinstructie fiatteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        548.25,
+        716.47,
+        559.5
+      ],
+      "text": "3: Als de cliënt inkomsten in het weekend ontvangt, kun je deze inkomsten niet op deze dagen in UZS verwerken omdat je over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        567.75,
+        751.48,
+        579.0
+      ],
+      "text": "weekenddagen geen uitkering betaalt. Je verdeelt deze inkomsten daarom over de uitkeringsdagen van de direct voorafgaande week.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        587.25,
+        575.37,
+        598.5
+      ],
+      "text": "Alleen als er geen direct voorafgaande week is, verdeel je de inkomsten over de opvolgende week.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        606.75,
+        754.86,
+        618.0
+      ],
+      "text": "Is er geen direct voorafgaande week en betaal je uitkering over een weekenddag(en) vanwege Ziezazo, dan kort je de inkomsten op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        626.25,
+        340.17,
+        637.5
+      ],
+      "text": "weekenddag(en) dat de inkomsten zijn ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        645.75,
+        765.87,
+        657.0
+      ],
+      "text": "3: Als je op grond van no-risk een korting hebt geregistreerd in het tweede ziektejaar van een uitkering en UZS zet de brief SET12K246 of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        665.25,
+        757.62,
+        676.5
+      ],
+      "text": "SET12K247 klaar, dan wijzig je in de brief handmatig het uitkeringspercentage van 100 naar 70. De bedragen staan wel juist in de brief.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        696.0,
+        358.69,
+        717.0
+      ],
+      "text": "Registreren voorlopige korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        732.0,
+        352.32,
+        743.25
+      ],
+      "text": "Je hebt een voorlopig kortingsbedrag per dag berekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        751.5,
+        229.06,
+        762.75
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        778.5,
+        82.57,
+        796.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        782.25,
+        363.59,
+        793.5
+      ],
+      "text": "Open het scherm Beheren gedeeltelijke werkhervatting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        798.0,
+        82.57,
+        816.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        801.75,
+        347.77,
+        813.0
+      ],
+      "text": "Registreer een nieuwe regel met de juiste gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        817.5,
+        82.57,
+        835.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        821.25,
+        757.22,
+        832.5
+      ],
+      "text": "Selecteer in het veld <Herkomst bedrag per dag> ‘Voorlopig kortingsbedrag’. Selecteer bij een voorlopige korting vanwege zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        840.75,
+        320.92,
+        852.0
+      ],
+      "text": "arbeid ‘Voorlopig kortingsbedrag zelfstandige’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        856.5,
+        82.57,
+        874.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        860.25,
+        473.83,
+        871.5
+      ],
+      "text": "Registreer de startdatum van de voorlopige korting in het veld <Begindatum>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        879.75,
+        462.0,
+        891.0
+      ],
+      "text": "Let op: Je registreert een voorlopige korting alleen per toekomende datum.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        895.5,
+        82.57,
+        913.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        899.25,
+        486.1,
+        910.5
+      ],
+      "text": "Als je een einddatum hebt vastgesteld, registreer je die in het veld <Einddatum>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        915.0,
+        82.57,
+        933.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        918.75,
+        189.02,
+        930.0
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        934.5,
+        82.57,
+        952.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        938.25,
+        594.08,
+        949.5
+      ],
+      "text": "Vink het selectievak aan en klik daarna op de knop “Registreer korting”. Selecteer ‘Voorlopige korting’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        972.75,
+        436.46,
+        984.0
+      ],
+      "text": "UZS zet 1 van de volgende voorlopige kortingsbrieven automatisch klaar:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        999.75,
+        82.57,
+        1017.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1003.5,
+        390.81,
+        1014.75
+      ],
+      "text": "SET12K244 ‘Voorlopige korting uitbetaling (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1019.25,
+        82.57,
+        1037.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1023.0,
+        419.11,
+        1034.25
+      ],
+      "text": "SET12K245 ‘Voorlopige korting uitbetaling (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1057.5,
+        766.81,
+        1068.75
+      ],
+      "text": "Bij het registreren van een voorlopige korting zet UZS automatisch signaal UZZ0624 Beoordeel de kortingsregel(s) met de status ‘voorlopig’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1077.0,
+        763.8,
+        1088.25
+      ],
+      "text": "of ‘schorsing’ of UZZ0625 Beoordeel de kortingsregel(s) met de status ‘voorlopig’ bij zelfstandige arbeid met een datum in de toekomst als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1096.5,
+        671.52,
+        1107.75
+      ],
+      "text": "het veld <Herkomst bedrag per dag> is gevuld met ‘Voorlopig kortingsbedrag’ of ‘Voorlopig kortingsbedrag zelfstandige’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1127.25,
+        437.02,
+        1148.25
+      ],
+      "text": "Schorsen in afwachting van inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        30.75,
+        761.59,
+        42.0
+      ],
+      "text": "Je hebt bepaald dat je geen voorlopige korting kunt berekenen. Je hebt met de cliënt afgesproken dat je de uitkering schorst in afwachting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        50.25,
+        165.4,
+        61.5
+      ],
+      "text": "van de inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        69.75,
+        229.06,
+        81.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        96.75,
+        82.57,
+        114.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        100.5,
+        363.59,
+        111.75
+      ],
+      "text": "Open het scherm Beheren gedeeltelijke werkhervatting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        116.25,
+        82.57,
+        134.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        120.0,
+        506.83,
+        131.25
+      ],
+      "text": "Selecteer in het veld <Herkomst bedrag per dag> ‘Schorsing zonder kortingsbedrag’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        135.75,
+        82.57,
+        153.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        139.5,
+        452.34,
+        150.75
+      ],
+      "text": "Registreer de ingangsdatum van de inkomsten in het veld <Begindatum>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        155.25,
+        82.57,
+        173.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        159.0,
+        361.92,
+        170.25
+      ],
+      "text": "Laat de velden <Einddatum> en <Bedrag per dag> leeg.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        174.75,
+        82.57,
+        192.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        178.5,
+        189.02,
+        189.75
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        194.25,
+        82.57,
+        212.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        198.0,
+        765.78,
+        209.25
+      ],
+      "text": "Vink het selectie vak aan en klik op de knop “Registreer korting”. Kies ‘Schorsing in afwachting van inkomsten’. UZS zet automatisch een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        217.5,
+        214.57,
+        228.75
+      ],
+      "text": "schorsing op het dossier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        252.0,
+        726.85,
+        263.25
+      ],
+      "text": "In het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ wordt het veld <Korting per dag> gevuld met 0,00 en worden de velden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        271.5,
+        354.08,
+        282.75
+      ],
+      "text": "<Brievensetcode> en <Status brief> automatisch gevuld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        291.0,
+        436.46,
+        302.25
+      ],
+      "text": "UZS zet 1 van de volgende voorlopige kortingsbrieven automatisch klaar:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        318.0,
+        82.57,
+        336.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        321.75,
+        444.82,
+        333.0
+      ],
+      "text": "SET12K240 ‘Schorsing in afwachting van verdiensten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        337.5,
+        82.57,
+        355.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        341.25,
+        473.12,
+        352.5
+      ],
+      "text": "SET12K241 ‘Schorsing in afwachting van verdiensten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        375.75,
+        738.68,
+        387.0
+      ],
+      "text": "Bij het registreren van een schorsing zet UZS automatisch signaal UZZ0624 Beoordeel de kortingsregel(s) met de status ‘voorlopig’ of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        395.25,
+        285.77,
+        406.5
+      ],
+      "text": "‘schorsing’ met een datum in de toekomst.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        426.0,
+        638.05,
+        447.0
+      ],
+      "text": "Opheffen schorsing na ontvangst informatie over inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        462.75,
+        683.44,
+        474.0
+      ],
+      "text": "Je hebt informatie ontvangen over de inkomsten van het gedeeltelijk werken en bepaald dat je de schorsing kunt opheffen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        482.25,
+        161.83,
+        493.5
+      ],
+      "text": "Er zijn 2 situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        513.75,
+        273.08,
+        528.75
+      ],
+      "text": "Er is geen gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        542.25,
+        229.06,
+        553.5
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        569.25,
+        82.57,
+        587.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        573.0,
+        363.59,
+        584.25
+      ],
+      "text": "Open het scherm Beheren gedeeltelijke werkhervatting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        588.75,
+        82.57,
+        606.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        592.5,
+        708.11,
+        603.75
+      ],
+      "text": "Selecteer de regel met status korting ‘Schorsing’ en registreer in het veld <Einddatum> dezelfde datum als de ingangsdatum.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        608.25,
+        82.57,
+        626.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        612.0,
+        189.02,
+        623.25
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        627.75,
+        82.57,
+        645.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        631.5,
+        748.4,
+        642.75
+      ],
+      "text": "Vink het selectievak van de regel aan en klik op de knop “Registreer korting”. Selecteer ‘Opheffen schorsing na ontvangst inkomsten’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        647.25,
+        82.57,
+        665.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        651.0,
+        555.13,
+        662.25
+      ],
+      "text": "Hef in het scherm Registreren schorsing de schorsing op volgens de werkinstructie Schorsen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        685.5,
+        466.81,
+        696.75
+      ],
+      "text": "UZS zet 1 van de volgende voorlopige ontschorsingsbrieven automatisch klaar:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        712.5,
+        82.57,
+        730.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        716.25,
+        505.29,
+        727.5
+      ],
+      "text": "SET12K242 ‘Beëindiging schorsing in afwachting van verdiensten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        732.0,
+        82.57,
+        750.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        735.75,
+        533.59,
+        747.0
+      ],
+      "text": "SET12K243 ‘Beëindiging schorsing in afwachting van verdiensten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        767.25,
+        225.26,
+        782.25
+      ],
+      "text": "Inkomsten zijn bekend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        795.75,
+        644.36,
+        807.0
+      ],
+      "text": "Voordat je de definitieve inkomsten registreert, ontschors je de uitkering en daarvoor voer je de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        822.75,
+        82.57,
+        840.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        826.5,
+        363.59,
+        837.75
+      ],
+      "text": "Open het scherm Beheren gedeeltelijke werkhervatting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        842.25,
+        82.57,
+        860.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        846.0,
+        410.45,
+        857.25
+      ],
+      "text": "Bepaal of het om een definitief of voorlopig kortingsbedrag gaat:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        861.75,
+        97.57,
+        879.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        865.5,
+        762.64,
+        876.75
+      ],
+      "text": "Definitief kortingsbedrag: registreer een nieuwe kortingsregel volgens ‘Registreren definitieve korting’. Als je vanwege een voorlopige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        885.0,
+        765.13,
+        896.25
+      ],
+      "text": "korting eerder een kortingsregel met dezelfde ingangsdatum hebt geregistreerd, beëindig je die kortingsregel met dezelfde datum als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        904.5,
+        194.25,
+        915.75
+      ],
+      "text": "de ingangsdatum.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        920.25,
+        97.57,
+        938.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        924.0,
+        609.21,
+        935.25
+      ],
+      "text": "Voorlopig kortingsbedrag: registreer een nieuwe kortingsregel volgens Registreren voorlopige korting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        939.75,
+        82.57,
+        957.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        943.5,
+        730.18,
+        954.75
+      ],
+      "text": "Vink het selectievak van de regel aan en klik op de knop “Registreer korting”. Selecteer ‘Definitieve korting’ of ‘Voorlopige korting’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        959.25,
+        82.57,
+        977.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        963.0,
+        337.61,
+        974.25
+      ],
+      "text": "Verstuur 1 van de volgende ontschorsingsbrieven:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        978.75,
+        97.57,
+        996.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        982.5,
+        520.29,
+        993.75
+      ],
+      "text": "SET12K242 ‘Beëindiging schorsing in afwachting van verdiensten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        998.25,
+        97.57,
+        1016.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        1002.0,
+        548.59,
+        1013.25
+      ],
+      "text": "SET12K243 ‘Beëindiging schorsing in afwachting van verdiensten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        1017.75,
+        82.57,
+        1035.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1021.5,
+        559.63,
+        1032.75
+      ],
+      "text": "Hef de schorsing op in het scherm ‘Registreren schorsing’ volgens de werkinstructie Schorsen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        1037.25,
+        82.57,
+        1055.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1041.0,
+        512.63,
+        1052.25
+      ],
+      "text": "Ga verder met de situatie die je wil afhandelen voor het registreren van de inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1071.75,
+        424.93,
+        1092.75
+      ],
+      "text": "Korten (VUT-/pre)pensioeninkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1107.75,
+        757.98,
+        1119.0
+      ],
+      "text": "Je opent het scherm Registreren korting pensioeninkomsten/gedeeltelijke KBZ. Je krijgt dan de informatiemelding ‘De eerste ziektedag is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1127.25,
+        542.93,
+        1138.5
+      ],
+      "text": "gelijk aan of groter dan 1-7-2011’. Je negeert deze informatiemelding en klikt op de knop “OK”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        30.75,
+        229.06,
+        42.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        57.75,
+        82.57,
+        75.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        61.5,
+        486.09,
+        72.75
+      ],
+      "text": "Registreer in het veld <Vanaf> de startdatum van de inkomsten vanwege arbeid.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        77.25,
+        82.57,
+        95.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        81.0,
+        559.03,
+        92.25
+      ],
+      "text": "Registreer in het veld <Tot en met> de eventuele einddatum van de inkomsten vanwege arbeid.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        96.75,
+        82.57,
+        114.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        100.5,
+        454.47,
+        111.75
+      ],
+      "text": "Laat het veld <Soort> staan op ‘Kortingsbedrag (inkomsten i.v.m. arbeid)’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        116.25,
+        82.57,
+        134.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        120.0,
+        570.82,
+        131.25
+      ],
+      "text": "Registreer in het veld <Gemiddelde inkomsten per dag> het berekende inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        135.75,
+        82.57,
+        153.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        139.5,
+        420.1,
+        150.75
+      ],
+      "text": "Sla de gegevens op en open het scherm Correspondentie bij geval.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        155.25,
+        82.57,
+        173.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        159.0,
+        573.68,
+        170.25
+      ],
+      "text": "Verstuur SET12K330 ‘Korting overige inkomsten en combinatie met inkomsten uit werk (tijdelijk)’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        189.75,
+        356.99,
+        210.75
+      ],
+      "text": "Registreren definitieve korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        226.5,
+        629.37,
+        237.75
+      ],
+      "text": "Je opent het scherm Beheren gedeeltelijke werkhervatting en voert een nieuwe regel op met de juiste gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        246.0,
+        229.06,
+        257.25
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        273.0,
+        82.57,
+        291.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        276.75,
+        490.85,
+        288.0
+      ],
+      "text": "Registreer in het veld <Bedrag per dag> het berekende inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        292.5,
+        82.57,
+        310.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        296.25,
+        189.02,
+        307.5
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        312.0,
+        82.57,
+        330.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        315.75,
+        573.56,
+        327.0
+      ],
+      "text": "Registreer in het veld <Memo> een motivatie als je een bestaande inkomstenregel hebt gewijzigd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        331.5,
+        82.57,
+        349.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        335.25,
+        469.01,
+        346.5
+      ],
+      "text": "Vink het selectievak aan van de kortingsregels die je definitief wil verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        351.0,
+        82.57,
+        369.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        354.75,
+        412.72,
+        366.0
+      ],
+      "text": "Selecteer onder de knop “Registreer korting”: ‘Definitieve korting’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        389.25,
+        763.49,
+        400.5
+      ],
+      "text": "Het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ opent automatisch. Meer informatie over het registreren in dit scherm lees je bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        408.75,
+        246.1,
+        420.0
+      ],
+      "text": "Verwerking geregistreerde korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        439.5,
+        617.97,
+        450.75
+      ],
+      "text": "Als de status van het geval ‘Toegewezen’ is, wordt 1 van de volgende kortingsbrieven automatisch klaargezet:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        466.5,
+        82.57,
+        484.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        470.25,
+        412.07,
+        481.5
+      ],
+      "text": "SET12K246 ‘Korting in verband met inkomsten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        486.0,
+        82.57,
+        504.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        489.75,
+        440.37,
+        501.0
+      ],
+      "text": "SET12K247 ‘Korting in verband met inkomsten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        524.25,
+        291.74,
+        535.5
+      ],
+      "text": "De korting is geregistreerd. Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        555.0,
+        321.25,
+        576.0
+      ],
+      "text": "Herzien definitieve korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        591.0,
+        747.74,
+        602.25
+      ],
+      "text": "Je opent het scherm Beheren gedeeltelijke werkhervatting. Je wijzigt de aanwezige definitieve inkomstenregel met de juiste einddatum.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        610.5,
+        732.78,
+        621.75
+      ],
+      "text": "Een herziening van het bedrag verwerk je in een nieuwe inkomstenregel. Een herziening van het bedrag en beëindiging van de korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        630.0,
+        684.28,
+        641.25
+      ],
+      "text": "verwerk je in dezelfde nieuwe inkomstenregel (zie ook de instructie van het scherm ‘Beheren gedeeltelijke werkhervatting’).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        649.5,
+        229.06,
+        660.75
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        676.5,
+        82.57,
+        694.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        680.25,
+        433.79,
+        691.5
+      ],
+      "text": "Wijzig de einddatum en/of het bedrag per dag en sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        696.0,
+        82.57,
+        714.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        699.75,
+        573.56,
+        711.0
+      ],
+      "text": "Registreer in het veld <Memo> een motivatie als je een bestaande inkomstenregel hebt gewijzigd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        715.5,
+        82.57,
+        733.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        719.25,
+        546.54,
+        730.5
+      ],
+      "text": "Selecteer de kortingsregels die je definitief wil verwerken door het selectievak aan te vinken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        735.0,
+        82.57,
+        753.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        738.75,
+        503.63,
+        750.0
+      ],
+      "text": "Selecteer onder de knop “Registreer korting”: ‘Herziening van de definitieve korting’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        784.5,
+        763.49,
+        795.75
+      ],
+      "text": "Het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ opent automatisch. Meer informatie over het registreren in dit scherm lees je bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        804.0,
+        246.1,
+        815.25
+      ],
+      "text": "Verwerking geregistreerde korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        834.75,
+        617.28,
+        846.0
+      ],
+      "text": "Als de status van het geval ‘Toegewezen’ is, zet UZS 1 van de volgende herzieningsbrieven automatisch klaar:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        861.75,
+        82.57,
+        879.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        865.5,
+        335.81,
+        876.75
+      ],
+      "text": "SET15H409 ‘Herziening korting (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        881.25,
+        82.57,
+        899.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        885.0,
+        364.11,
+        896.25
+      ],
+      "text": "SET15H408 ‘Herziening korting (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        919.5,
+        291.74,
+        930.75
+      ],
+      "text": "De korting is geregistreerd. Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        950.25,
+        251.04,
+        971.25
+      ],
+      "text": "Beëindigen korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        987.0,
+        748.97,
+        998.25
+      ],
+      "text": "Er zijn inkomsten verwerkt in het scherm Beheren gedeeltelijke werkhervatting die al zijn doorgezet naar het scherm ‘Registreren korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1006.5,
+        321.24,
+        1017.75
+      ],
+      "text": "inkomsten uit arbeid/KBZ’ zonder een einddatum.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1026.0,
+        215.93,
+        1037.25
+      ],
+      "text": "Er zijn de volgende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1053.0,
+        82.57,
+        1071.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1056.75,
+        664.18,
+        1068.0
+      ],
+      "text": "Er staat een nieuwe regel met een bedrag per dag van € 0,00. De status van deze regel is ‘In beh MVB’ of ‘In beh UD’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1072.5,
+        82.57,
+        1090.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1076.25,
+        702.85,
+        1087.5
+      ],
+      "text": "Er staat geen nieuwe regel. Je hebt bericht ontvangen dat de inkomsten uit gedeeltelijk werken tijdens ziekte beëindigd zijn.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1107.75,
+        714.08,
+        1126.5
+      ],
+      "text": "Nieuwe regel met bedrag per dag € 0,00 en status ‘In beh MVB’ of ‘In beh UD’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1140.75,
+        229.06,
+        1152.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        33.75,
+        82.57,
+        51.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        37.5,
+        752.98,
+        48.75
+      ],
+      "text": "Bij de nieuwe regel met een bedrag per dag van € 0,00 bel je de werkgever of cliënt en vraag je of de inkomsten uit gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        57.0,
+        229.57,
+        68.25
+      ],
+      "text": "tijdens ziekte zijn beëindigd:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        91.5,
+        72.75,
+        97.57,
+        90.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.25,
+        76.5,
+        726.97,
+        87.75
+      ],
+      "text": "Inkomsten zijn niet beëindigd, het gaat om een andere wijziging: corrigeer het bedrag en registreer verder volgens Registreren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.25,
+        96.0,
+        196.31,
+        107.25
+      ],
+      "text": "definitieve korting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        91.5,
+        111.75,
+        97.57,
+        129.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.25,
+        115.5,
+        765.64,
+        126.75
+      ],
+      "text": "Inkomsten zijn beëindigd: verwerp in het scherm Beheren gedeeltelijke werkhervatting de regel met het bedrag per dag van € 0,00. Ga",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.25,
+        135.0,
+        251.09,
+        146.25
+      ],
+      "text": "verder met de volgende actie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        150.75,
+        82.57,
+        168.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        154.5,
+        767.26,
+        165.75
+      ],
+      "text": "Registreer bij de lopende kortingsregel in het veld <Einddatum> de datum direct voorafgaand aan de datum die in het veld <Begindatum>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        174.0,
+        408.33,
+        185.25
+      ],
+      "text": "staat van de verworpen regel met het bedrag per dag van € 0,00.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        189.75,
+        82.57,
+        207.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        193.5,
+        313.44,
+        204.75
+      ],
+      "text": "Registreer een motivatie in het veld <Memo>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        209.25,
+        82.57,
+        227.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        213.0,
+        189.02,
+        224.25
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        228.75,
+        82.57,
+        246.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        232.5,
+        212.56,
+        243.75
+      ],
+      "text": "Vink het selectievak aan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        248.25,
+        82.57,
+        266.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        252.0,
+        743.53,
+        263.25
+      ],
+      "text": "Selecteer onder de knop “Registreer korting”: ‘Beëindiging van de korting’. Het scherm Registreren korting inkomsten uit arbeid/KBZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        271.5,
+        186.2,
+        282.75
+      ],
+      "text": "opent automatisch.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        287.25,
+        82.57,
+        305.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        291.0,
+        321.65,
+        302.25
+      ],
+      "text": "Klik op de knop “Simuleren betaalbaarstelling”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        306.75,
+        82.57,
+        324.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        310.5,
+        189.02,
+        321.75
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        345.0,
+        753.53,
+        356.25
+      ],
+      "text": "In het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ is de originele kortingsregel nu gevuld met de einddatum in het veld <Tot en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        364.5,
+        741.39,
+        375.75
+      ],
+      "text": "met>. Er is een nieuwe regel met eenzelfde <Volgnr GW> toegevoegd met de einddatum in het veld <Vanaf>. Deze regel is noodzakelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        384.0,
+        458.23,
+        395.25
+      ],
+      "text": "zodat UZS automatisch 1 van de volgende beëindigingsbeslissingen klaarzet:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        411.0,
+        82.57,
+        429.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        414.75,
+        472.2,
+        426.0
+      ],
+      "text": "SET12K250 ‘Beëindiging korting in verband met inkomsten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        430.5,
+        82.57,
+        448.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        434.25,
+        500.5,
+        445.5
+      ],
+      "text": "SET12K251 ‘Beëindiging korting in verband met inkomsten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        468.75,
+        274.49,
+        480.0
+      ],
+      "text": "De korting is beëindigd. Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        500.25,
+        756.11,
+        519.0
+      ],
+      "text": "Geen nieuwe regel en bericht ontvangen inkomsten uit gedeeltelijk werken tijdens",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        522.75,
+        211.61,
+        541.5
+      ],
+      "text": "ziekte beëindigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        555.75,
+        229.06,
+        567.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        582.75,
+        82.57,
+        600.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        586.5,
+        363.59,
+        597.75
+      ],
+      "text": "Open het scherm Beheren gedeeltelijke werkhervatting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        602.25,
+        82.57,
+        620.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        606.0,
+        717.09,
+        617.25
+      ],
+      "text": "Registreer in het veld <Einddatum> de datum direct voorafgaand aan de datum waarop het gedeeltelijk werken tijdens ziekte is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        625.5,
+        141.16,
+        636.75
+      ],
+      "text": "beëindigd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        641.25,
+        82.57,
+        659.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        645.0,
+        313.44,
+        656.25
+      ],
+      "text": "Registreer een motivatie in het veld <Memo>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        660.75,
+        82.57,
+        678.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        664.5,
+        189.02,
+        675.75
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        680.25,
+        82.57,
+        698.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        684.0,
+        212.56,
+        695.25
+      ],
+      "text": "Vink het selectievak aan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        699.75,
+        82.57,
+        717.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        703.5,
+        454.68,
+        714.75
+      ],
+      "text": "Selecteer onder de knop “Registreer korting”: ‘Beëindiging van de korting’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        719.25,
+        82.57,
+        737.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        723.0,
+        582.69,
+        734.25
+      ],
+      "text": "Klik op de knop “OK”. Het scherm Registreren korting inkomsten uit arbeid/KBZ opent automatisch.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        738.75,
+        82.57,
+        756.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        742.5,
+        321.65,
+        753.75
+      ],
+      "text": "Klik op de knop “Simuleren betaalbaarstelling”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        758.25,
+        82.57,
+        776.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        762.0,
+        189.02,
+        773.25
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        796.5,
+        753.53,
+        807.75
+      ],
+      "text": "In het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ is de originele kortingsregel nu gevuld met de einddatum in het veld <Tot en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        816.0,
+        741.39,
+        827.25
+      ],
+      "text": "met>. Er is een nieuwe regel met eenzelfde <Volgnr GW> toegevoegd met de einddatum in het veld <Vanaf>. Deze regel is noodzakelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        835.5,
+        458.23,
+        846.75
+      ],
+      "text": "zodat UZS automatisch 1 van de volgende beëindigingsbeslissingen klaarzet:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        862.5,
+        82.57,
+        880.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        866.25,
+        472.2,
+        877.5
+      ],
+      "text": "SET12K250 ‘Beëindiging korting in verband met inkomsten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        882.0,
+        82.57,
+        900.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        885.75,
+        500.5,
+        897.0
+      ],
+      "text": "SET12K251 ‘Beëindiging korting in verband met inkomsten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        920.25,
+        274.49,
+        931.5
+      ],
+      "text": "De korting is beëindigd. Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        951.0,
+        249.11,
+        972.0
+      ],
+      "text": "Heropenen korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        987.0,
+        311.01,
+        998.25
+      ],
+      "text": "Het dossier is heropend en opnieuw toegekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1006.5,
+        297.54,
+        1017.75
+      ],
+      "text": "Je beoordeelt of de korting nog steeds geldt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        27.0,
+        82.57,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        30.75,
+        685.27,
+        42.0
+      ],
+      "text": "Korting geldt niet meer: controleer in het scherm Beheren gedeeltelijke werkhervatting of de laatste korting is beëindigd:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        46.5,
+        97.57,
+        64.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        50.25,
+        382.39,
+        61.5
+      ],
+      "text": "Laatste korting is beëindigd: voer geen verdere actie uit.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        66.0,
+        97.57,
+        84.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        69.75,
+        520.3,
+        81.0
+      ],
+      "text": "Laatste korting is niet beëindigd: ga verder met ‘Korting geldt nog steeds’ hieronder.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        85.5,
+        82.57,
+        103.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        89.25,
+        352.95,
+        100.5
+      ],
+      "text": "Korting geldt nog steeds: voer de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        105.0,
+        97.57,
+        123.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        108.75,
+        383.09,
+        120.0
+      ],
+      "text": "Open het scherm ‘Beheren gedeeltelijke werkhervatting’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        124.5,
+        97.57,
+        142.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        128.25,
+        502.28,
+        139.5
+      ],
+      "text": "Selecteer de juiste kortingsregel en verwijder de datum in het veld <Einddatum>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        144.0,
+        97.57,
+        162.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        147.75,
+        361.46,
+        159.0
+      ],
+      "text": "Vink het selectievak van de juiste kortingsregel aan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        163.5,
+        97.57,
+        181.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        167.25,
+        757.85,
+        178.5
+      ],
+      "text": "Selecteer onder de knop “Registreer korting”: ‘Heropening van de korting’. Het scherm Registreren korting inkomsten uit arbeid/KBZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        186.75,
+        201.2,
+        198.0
+      ],
+      "text": "opent automatisch.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        202.5,
+        97.57,
+        220.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        206.25,
+        336.65,
+        217.5
+      ],
+      "text": "Klik op de knop “Simuleren betaalbaarstelling”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        91.5,
+        222.0,
+        97.57,
+        240.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.25,
+        225.75,
+        204.02,
+        237.0
+      ],
+      "text": "Sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        260.25,
+        768.1,
+        271.5
+      ],
+      "text": "In het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ is in de originele kortingsregel het veld <Tot en met> nu leeggemaakt. Er is een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        279.75,
+        755.86,
+        291.0
+      ],
+      "text": "nieuwe regel met eenzelfde <Volgnr GW> toegevoegd met in het veld <Vanaf> de ‘oude’ einddatum en het veld <Tot en met> is gevuld met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        299.25,
+        676.93,
+        310.5
+      ],
+      "text": "de datum ‘Vanaf’ – 1 dag. Deze regel is noodzakelijk zodat automatisch 1 van de volgende beslissingen wordt klaargezet:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        326.25,
+        82.57,
+        344.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        330.0,
+        458.88,
+        341.25
+      ],
+      "text": "SET12K252 ‘Korting ivm inkomsten na beëindigde claim (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        345.75,
+        82.57,
+        363.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        349.5,
+        498.74,
+        360.75
+      ],
+      "text": "SET12K253 ‘Korting ivm inkomsten na beëindigde claim met wg (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        380.25,
+        364.12,
+        401.25
+      ],
+      "text": "Splitsen geregistreerde korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        417.0,
+        401.69,
+        428.25
+      ],
+      "text": "Er zijn 2 situaties waarin je een kortingsperiode handmatig splitst:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        444.0,
+        82.57,
+        462.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        447.75,
+        508.73,
+        459.0
+      ],
+      "text": "Bij een wijziging in de hoogte van het dagloon die ligt in de kortingsperiode (pop-up).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        463.5,
+        82.57,
+        481.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        467.25,
+        687.21,
+        478.5
+      ],
+      "text": "Als er in de kortingsperiode overlap is met een weigering (bij ‘Simuleren betaalbaarstelling’ is de uitkomst een 0-bedrag).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        498.75,
+        562.77,
+        517.5
+      ],
+      "text": "Splitsen op basis van wijziging in hoogte dagloon (pop-up)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        531.75,
+        751.66,
+        543.0
+      ],
+      "text": "Je hebt bij het verwerken van de inkomsten in het scherm Beheren gedeeltelijke werkhervatting een pop-upmelding ontvangen waarin de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        551.25,
+        297.9,
+        562.5
+      ],
+      "text": "dagloonwijziging in de kortingsperiode staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        570.75,
+        229.06,
+        582.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        597.75,
+        82.57,
+        615.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        601.5,
+        226.72,
+        612.75
+      ],
+      "text": "Klik de pop-upmelding weg.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        617.25,
+        82.57,
+        635.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        621.0,
+        360.22,
+        632.25
+      ],
+      "text": "Registreer in het veld <Einddatum> de datum splitsing.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        636.75,
+        82.57,
+        654.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        640.5,
+        398.48,
+        651.75
+      ],
+      "text": "Registreer een motivatie voor de splitsing in het veld <Memo>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        656.25,
+        82.57,
+        674.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        660.0,
+        699.79,
+        671.25
+      ],
+      "text": "Maak een nieuwe regel met als startdatum de datum splitsing en de eventuele einddatum van de originele kortingsperiode.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        675.75,
+        82.57,
+        693.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        679.5,
+        320.9,
+        690.75
+      ],
+      "text": "Vink voor de kortingsregel het selectievak aan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        695.25,
+        82.57,
+        713.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        699.0,
+        429.1,
+        710.25
+      ],
+      "text": "Klik op de knop “Registreer korting” en selecteer ‘Definitieve korting’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        733.5,
+        747.32,
+        744.75
+      ],
+      "text": "Het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ opent automatisch. Meer informatie over de vulling van dit scherm lees je bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        753.0,
+        246.1,
+        764.25
+      ],
+      "text": "Verwerking geregistreerde korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        783.75,
+        617.97,
+        795.0
+      ],
+      "text": "Als de status van het geval ‘Toegewezen’ is, wordt 1 van de volgende kortingsbrieven automatisch klaargezet:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        810.75,
+        82.57,
+        828.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        814.5,
+        412.07,
+        825.75
+      ],
+      "text": "SET12K246 ‘Korting in verband met inkomsten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        830.25,
+        82.57,
+        848.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        834.0,
+        440.37,
+        845.25
+      ],
+      "text": "SET12K247 ‘Korting in verband met inkomsten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        868.5,
+        291.74,
+        879.75
+      ],
+      "text": "De korting is geregistreerd. Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        900.0,
+        441.93,
+        918.75
+      ],
+      "text": "Splitsen op basis van overlap met weigering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        933.0,
+        715.36,
+        944.25
+      ],
+      "text": "Je hebt bij het registreren van de korting in het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ een 0-bedrag bij ‘Simuleren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        952.5,
+        168.96,
+        963.75
+      ],
+      "text": "betaalbaarstelling’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        972.0,
+        229.06,
+        983.25
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        999.0,
+        82.57,
+        1017.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1002.75,
+        762.79,
+        1014.0
+      ],
+      "text": "Sluit het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ en verwerp de regel in het scherm Beheren gedeeltelijke werkhervatting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1022.25,
+        414.65,
+        1033.5
+      ],
+      "text": "Vink daarvoor het selectievak aan en klik op de knop “Verwerpen’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        1038.0,
+        82.57,
+        1056.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1041.75,
+        729.81,
+        1053.0
+      ],
+      "text": "Bepaal bij een weigering de datum van splitsing door de ‘einddatum weigering’ op te zoeken in het scherm Registreren weigering.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        1057.5,
+        82.57,
+        1075.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1061.25,
+        759.53,
+        1072.5
+      ],
+      "text": "Maak 2 nieuwe regels. Eén regel met de originele startdatum en datum splitsing als einddatum en 1 regel met als startdatum de datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1080.75,
+        434.26,
+        1092.0
+      ],
+      "text": "splitsing en de eventuele einddatum van de originele kortingsperiode.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1111.5,
+        607.88,
+        1132.5
+      ],
+      "text": "Administratief splitsen dossier in combinatie met korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        30.75,
+        494.43,
+        42.0
+      ],
+      "text": "Er zijn 3 situaties waarin je een wijziging verwerkt door een administratieve splitsing.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.25,
+        62.25,
+        547.72,
+        81.0
+      ],
+      "text": "Administratief splitsen door wijziging betaalbestemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        106.5,
+        448.45,
+        117.75
+      ],
+      "text": "De cliënt gaat uit dienst en de inkomsten uit (gedeeltelijk) werken stoppen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        126.0,
+        229.06,
+        137.25
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        153.0,
+        82.57,
+        171.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        156.75,
+        404.99,
+        168.0
+      ],
+      "text": "Beëindig de korting voordat je het dossier administratief splitst.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        172.5,
+        82.57,
+        190.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        176.25,
+        346.51,
+        187.5
+      ],
+      "text": "Verwerk de beëindiging volgens Beëindigen korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        210.75,
+        468.01,
+        222.0
+      ],
+      "text": "De cliënt gaat uit dienst en de inkomsten uit (gedeeltelijk) werken continueren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        230.25,
+        738.34,
+        241.5
+      ],
+      "text": "De inkomsten uit (gedeeltelijk) werken worden bij administratief splitsen automatisch overgenomen in het administratief voortgezette",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        249.75,
+        103.65,
+        261.0
+      ],
+      "text": "geval.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        280.5,
+        745.26,
+        291.75
+      ],
+      "text": "Controleer na het administratief splitsen in het scherm Correspondentie bij geval van het voorgezette geval of er onterecht klaargezette",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        300.0,
+        255.35,
+        311.25
+      ],
+      "text": "kortingsbrieven zijn en verwijder die.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.25,
+        331.5,
+        568.41,
+        350.25
+      ],
+      "text": "Administratief splitsen door wijziging uitkeringspercentage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        364.5,
+        618.51,
+        375.75
+      ],
+      "text": "De cliënt heeft recht op een lager uitkeringspercentage en de inkomsten uit (gedeeltelijk) werken continueren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        384.0,
+        766.47,
+        395.25
+      ],
+      "text": "De inkomsten uit (gedeeltelijk) werken worden bij administratief splitsen automatisch overgenomen in het administratief voorgezette geval.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        403.5,
+        229.06,
+        414.75
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        430.5,
+        82.57,
+        448.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        434.25,
+        757.4,
+        445.5
+      ],
+      "text": "Selecteer in het scherm Beheren gedeeltelijke werkhervatting de inkomstenregels die een start/einddatum hebben na de datum van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        453.75,
+        587.47,
+        465.0
+      ],
+      "text": "administratieve splitsing en wijzig de status van deze regels door op de knop “Verwerpen” te klikken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        469.5,
+        82.57,
+        487.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        473.25,
+        752.93,
+        484.5
+      ],
+      "text": "Registreer nieuwe kortingsregels die toegepast moeten worden op het administratief voortgezette geval. Je gebruikt de datum van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        492.75,
+        294.22,
+        504.0
+      ],
+      "text": "administratieve splitsing als begindatum.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        508.5,
+        82.57,
+        526.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        512.25,
+        432.48,
+        523.5
+      ],
+      "text": "Ga verder met Herzien definitieve korting en start met de eerste stap.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.25,
+        543.75,
+        477.46,
+        562.5
+      ],
+      "text": "Administratief splitsen door wijziging werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        576.75,
+        745.53,
+        588.0
+      ],
+      "text": "Het loonheffingennummer van de werkgever wijzigt en het dienstverband loopt door. De korting wordt automatisch overgenomen in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        596.25,
+        387.29,
+        607.5
+      ],
+      "text": "administratief voorgezette geval. Je verwerkt geen wijzigingen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.25,
+        627.0,
+        469.56,
+        648.0
+      ],
+      "text": "Registreren korting vanwege tweede recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        663.75,
+        733.66,
+        675.0
+      ],
+      "text": "De cliënt heeft inkomsten bij een nieuwe werkgever die gekort worden op een lopende ZW-uitkering en vanuit deze nieuwe werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        683.25,
+        737.25,
+        694.5
+      ],
+      "text": "ontstaat een nieuw ZW-recht. Bij het ontstaan van het nieuwe ZW-recht worden de inkomsten vanuit de werkgever vervangen door het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        702.75,
+        203.42,
+        714.0
+      ],
+      "text": "‘Dagloon ZW nieuw recht’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        722.25,
+        239.29,
+        733.5
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        749.25,
+        82.57,
+        767.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        753.0,
+        758.91,
+        764.25
+      ],
+      "text": "Registreer in het scherm Beheren gedeeltelijke werkhervatting een nieuwe kortingsregel met als ingangsdatum de eerste uitkeringsdag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        772.5,
+        610.01,
+        783.75
+      ],
+      "text": "van het tweede recht en als bedrag per dag het dagloon op de eerste uitkeringsdag van het tweede recht.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        788.25,
+        82.57,
+        806.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        792.0,
+        434.69,
+        803.25
+      ],
+      "text": "Selecteer in het veld <Inkomsten 2de recht> ‘Ja’ en sla de melding op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        807.75,
+        82.57,
+        825.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        811.5,
+        503.63,
+        822.75
+      ],
+      "text": "Selecteer onder de knop “Registreer korting”: ‘Herziening van de definitieve korting’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        831.0,
+        722.55,
+        842.25
+      ],
+      "text": "Bij het toepassen van korting in het tweede recht mag je maar 1 regel selecteren. Het scherm ‘Registreren korting inkomsten uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        850.5,
+        247.99,
+        861.75
+      ],
+      "text": "arbeid/KBZ’ opent automatisch.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        866.25,
+        82.57,
+        884.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        870.0,
+        382.59,
+        881.25
+      ],
+      "text": "Voor het aanmaken van de brief voer je volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        885.75,
+        97.57,
+        903.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        889.5,
+        321.85,
+        900.75
+      ],
+      "text": "Open het scherm Correspondentie bij geval.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        905.25,
+        97.57,
+        923.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        909.0,
+        461.65,
+        920.25
+      ],
+      "text": "Maak brief SET12K249 ‘Korting dagloon 2e recht (nw kort scherm)’ aan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        924.75,
+        97.57,
+        942.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        928.5,
+        607.95,
+        939.75
+      ],
+      "text": "Klik in het scherm ‘Brievenset variabelen’ op de knop “Korting”. Het scherm ‘Selecteren korting’ opent.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        944.25,
+        97.57,
+        962.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        948.0,
+        404.29,
+        959.25
+      ],
+      "text": "Selecteer de juiste kortingsregel door de regel aan te vinken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        963.75,
+        97.57,
+        981.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        967.5,
+        724.31,
+        978.75
+      ],
+      "text": "Klik op de knop “Ok”. Je komt terug in het scherm ‘Brievenset variabelen’. UZS heeft de velden <Korting van kortingsperiode>,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        987.0,
+        667.65,
+        998.25
+      ],
+      "text": "<Inkomsten kortingsperiode>, <Bruto uitkering in kortingsperiode> en <Begindatum (beëindiging) korting> gevuld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        1002.75,
+        97.57,
+        1020.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        1006.5,
+        358.22,
+        1017.75
+      ],
+      "text": "Vul handmatig het veld <Naam nieuwe werkgever>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        1022.25,
+        97.57,
+        1040.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        1026.0,
+        568.44,
+        1037.25
+      ],
+      "text": "Controleer of het dagloon van het tweede recht hoger is dan het dagloon van het eerste recht:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        106.5,
+        1041.75,
+        112.57,
+        1059.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        119.25,
+        1045.5,
+        737.2,
+        1056.75
+      ],
+      "text": "Zo ja: wijzig handmatig het bedrag in het veld <Korting van kortingsperiode> naar 70% van het dagloon van het tweede recht.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        106.5,
+        1061.25,
+        112.57,
+        1079.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        119.25,
+        1065.0,
+        308.64,
+        1076.25
+      ],
+      "text": "Zo nee: wijzig het kortingsbedrag niet.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        91.5,
+        1080.75,
+        97.57,
+        1098.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        104.25,
+        1084.5,
+        186.03,
+        1095.75
+      ],
+      "text": "Fiatteer de brief.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1119.0,
+        748.75,
+        1130.25
+      ],
+      "text": "De regel waarop de herziening van toepassing is, wordt afgesloten in het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’. In deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1138.5,
+        460.69,
+        1149.75
+      ],
+      "text": "regel wordt het veld <Tot en met> gevuld met de datum in het veld <Vanaf> -1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        35.25,
+        290.55,
+        46.5
+      ],
+      "text": "De korting is geregistreerd, einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.25,
+        66.0,
+        394.26,
+        87.0
+      ],
+      "text": "Verwerking geregistreerde korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        102.0,
+        758.38,
+        113.25
+      ],
+      "text": "Nadat je op de knop “Registreer korting” hebt geklikt, verwerkt UZS de inkomsten automatisch. Het scherm Registreren korting inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        121.5,
+        246.15,
+        132.75
+      ],
+      "text": "uit arbeid/KBZ opent automatisch.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        141.0,
+        316.66,
+        152.25
+      ],
+      "text": "De volgende velden en gegevens zijn dan gevuld:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        168.0,
+        82.57,
+        186.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        171.75,
+        411.67,
+        183.0
+      ],
+      "text": "<Status korting> toont de gekozen status van de verwerkte regel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        187.5,
+        82.57,
+        205.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        191.25,
+        472.51,
+        202.5
+      ],
+      "text": "<Volgnummer GW> toont het volgnummer van de eerder geselecteerde regel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        207.0,
+        82.57,
+        225.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        210.75,
+        486.08,
+        222.0
+      ],
+      "text": "<Vanaf> en <Tot en met> zijn gevuld met de datums van de geselecteerde regel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        226.5,
+        82.57,
+        244.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        230.25,
+        583.72,
+        241.5
+      ],
+      "text": "<Gemiddelde inkomsten per dag> is gevuld met het bijbehorende bedrag uit de geselecteerde regel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        246.0,
+        82.57,
+        264.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        249.75,
+        534.7,
+        261.0
+      ],
+      "text": "<Soort korting> wordt automatisch gevuld met de waarde ‘Loon gedeeltelijk werken/KBZ’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        265.5,
+        82.57,
+        283.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        269.25,
+        679.75,
+        280.5
+      ],
+      "text": "<Ongekorte bruto uitkering per dag> wordt gevuld met de uitkomst van de berekening ‘dagloon x uitkeringspercentage’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        285.0,
+        82.57,
+        303.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        288.75,
+        718.22,
+        300.0
+      ],
+      "text": "<Korting per dag> wordt gevuld met de uitkomst van de berekening ‘SV-loon uit de geselecteerde regel x uitkeringspercentage’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        304.5,
+        82.57,
+        322.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        308.25,
+        754.18,
+        319.5
+      ],
+      "text": "<Gekorte bruto uitkering per dag> wordt gevuld met de berekening van ‘Ongekorte bruto uitkering per dag – de berekening van Korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        327.75,
+        132.14,
+        339.0
+      ],
+      "text": "per dag’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        343.5,
+        82.57,
+        361.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        347.25,
+        522.19,
+        358.5
+      ],
+      "text": "<Briefcode> wordt automatisch gevuld met de briefcode van de relevante kortingsbrief.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        363.0,
+        82.57,
+        381.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        366.75,
+        324.37,
+        378.0
+      ],
+      "text": "<Dagtekening brief> wordt automatisch gevuld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        382.5,
+        82.57,
+        400.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        386.25,
+        454.63,
+        397.5
+      ],
+      "text": "<Status brief> wordt automatisch gevuld met 1 van de volgende waarden:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        402.0,
+        97.57,
+        420.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        405.75,
+        146.05,
+        417.0
+      ],
+      "text": "Concept",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        421.5,
+        97.57,
+        439.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        425.25,
+        145.61,
+        436.5
+      ],
+      "text": "Gepland",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        441.0,
+        97.57,
+        459.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        444.75,
+        160.74,
+        456.0
+      ],
+      "text": "Te fiatteren",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        460.5,
+        97.57,
+        478.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        464.25,
+        159.58,
+        475.5
+      ],
+      "text": "Gefiatteerd",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        480.0,
+        97.57,
+        498.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        483.75,
+        157.59,
+        495.0
+      ],
+      "text": "Verzonden",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        499.5,
+        97.57,
+        517.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        503.25,
+        159.67,
+        514.5
+      ],
+      "text": "Handmatig",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        519.0,
+        97.57,
+        537.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        522.75,
+        126.65,
+        534.0
+      ],
+      "text": "Fout",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        538.5,
+        97.57,
+        556.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        542.25,
+        190.8,
+        553.5
+      ],
+      "text": "Meerdere brieven",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        558.0,
+        97.57,
+        576.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        104.25,
+        561.75,
+        127.68,
+        573.0
+      ],
+      "text": "DHH",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        577.5,
+        82.57,
+        595.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        581.25,
+        752.53,
+        592.5
+      ],
+      "text": "De regel waarop de herziening van toepassing is, wordt in het scherm ‘Registreren korting inkomsten uit arbeid/KBZ’ afgesloten in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        600.75,
+        621.03,
+        612.0
+      ],
+      "text": "overzicht ‘Kortingen’. In deze regel wordt het veld <Tot en met> gevuld met de datum in het veld <Vanaf> -1.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.25,
+        631.5,
+        434.56,
+        652.5
+      ],
+      "text": "Verwerken meerdere kortingen in brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        668.25,
+        642.95,
+        679.5
+      ],
+      "text": "Als je meerdere kortingen tegelijk in 1 brief verwerkt, wijzig je handmatig de kortingsbrief die UZS heeft klaargezet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        687.75,
+        272.67,
+        699.0
+      ],
+      "text": "Je voert hiervoor de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        714.75,
+        82.57,
+        732.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        718.5,
+        319.45,
+        729.75
+      ],
+      "text": "Ga naar het scherm Correspondentie bij geval.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        734.25,
+        82.57,
+        752.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        738.0,
+        365.6,
+        749.25
+      ],
+      "text": "Selecteer de kortingsbrief en klik op de knop “Wijzigen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        753.75,
+        82.57,
+        771.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        757.5,
+        759.98,
+        768.75
+      ],
+      "text": "Om meerdere kortingen in 1 brief te verwerken: klik in het scherm ‘Brievenset variabelen’ op de knop “Korting”. Als deze knop niet actief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        777.0,
+        421.09,
+        788.25
+      ],
+      "text": "is, kun je in de brief geen korting of meerdere kortingen selecteren.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        792.75,
+        82.57,
+        810.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        796.5,
+        727.76,
+        807.75
+      ],
+      "text": "In het scherm ‘Selecteer korting’ toont het blok “Selecteer korting” de kortingen die je eerder hebt geregistreerd. Vink in de kolom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        816.0,
+        483.03,
+        827.25
+      ],
+      "text": "‘Selectie korting’ de regels aan van de kortingen die je in de brief wil vermelden.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        831.75,
+        82.57,
+        849.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        835.5,
+        192.74,
+        846.75
+      ],
+      "text": "Klik op de knop “Ok”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        851.25,
+        82.57,
+        869.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        855.0,
+        592.25,
+        866.25
+      ],
+      "text": "Klik op de knop “Brievenset aanmaken” en vervolgens op de knop “Fiatteren” om de brief te versturen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        875.25,
+        108.55,
+        886.5
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        31.5,
+        470.83,
+        42.75
+      ],
+      "text": "Cliënt Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        58.5,
+        437.7,
+        76.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        62.25,
+        745.94,
+        73.5
+      ],
+      "text": "SET12K244 ‘Voorlopige korting uitbetaling (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        78.0,
+        437.7,
+        96.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        81.75,
+        753.45,
+        93.0
+      ],
+      "text": "SET12K240 ‘Schorsing in afwachting van verdiensten (nw kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        101.25,
+        488.08,
+        112.5
+      ],
+      "text": "scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        117.0,
+        437.7,
+        135.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        120.75,
+        709.17,
+        132.0
+      ],
+      "text": "SET12K242 ‘Beëindiging schorsing in afwachting van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        140.25,
+        592.83,
+        151.5
+      ],
+      "text": "verdiensten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        156.0,
+        437.7,
+        174.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        159.75,
+        735.66,
+        171.0
+      ],
+      "text": "SET12K191 ‘Korting in verband met inkomsten (uitsluitend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        179.25,
+        608.15,
+        190.5
+      ],
+      "text": "eerste ziektedag vanaf 1-7-2011)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        195.0,
+        437.7,
+        213.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        198.75,
+        767.19,
+        210.0
+      ],
+      "text": "SET12K246 ‘Korting in verband met inkomsten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        214.5,
+        437.7,
+        232.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        218.25,
+        690.94,
+        229.5
+      ],
+      "text": "SET15H409 ‘Herziening korting (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        234.0,
+        437.7,
+        252.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        237.75,
+        758.16,
+        249.0
+      ],
+      "text": "SET12K250 ‘Beëindiging korting in verband met inkomsten (nw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        257.25,
+        510.75,
+        268.5
+      ],
+      "text": "kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        273.0,
+        437.7,
+        291.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        276.75,
+        767.51,
+        288.0
+      ],
+      "text": "SET12K252 ‘Korting ivm inkomsten na beëindigde claim (nw kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        296.25,
+        488.08,
+        307.5
+      ],
+      "text": "scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        312.0,
+        437.7,
+        330.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        315.75,
+        721.48,
+        327.0
+      ],
+      "text": "SET12K249 ‘Korting dagloon 2e recht (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        350.25,
+        474.0,
+        361.5
+      ],
+      "text": "Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        369.75,
+        735.54,
+        381.0
+      ],
+      "text": "Vragen of inkomsten uit gedeeltelijk werken tijdens ziekte zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        389.25,
+        478.31,
+        400.5
+      ],
+      "text": "beëindigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        409.5,
+        470.83,
+        420.75
+      ],
+      "text": "Werkgever Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        436.5,
+        437.7,
+        454.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        440.25,
+        745.94,
+        451.5
+      ],
+      "text": "SET12K245 ‘Voorlopige korting uitbetaling (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        444.37,
+        459.75,
+        469.89,
+        471.0
+      ],
+      "text": "(WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        475.5,
+        437.7,
+        493.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        479.25,
+        753.45,
+        490.5
+      ],
+      "text": "SET12K241 ‘Schorsing in afwachting van verdiensten (nw kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        498.75,
+        516.38,
+        510.0
+      ],
+      "text": "scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        514.5,
+        437.7,
+        532.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        518.25,
+        709.17,
+        529.5
+      ],
+      "text": "SET12K243 ‘Beëindiging schorsing in afwachting van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        537.75,
+        621.13,
+        549.0
+      ],
+      "text": "verdiensten (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        553.5,
+        437.7,
+        571.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        557.25,
+        721.81,
+        568.5
+      ],
+      "text": "SET12K195 ‘Korting i.v.m. inkomsten (uitsluitend eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        576.75,
+        602.47,
+        588.0
+      ],
+      "text": "ziektedag vanaf 1-7-2011) (WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        592.5,
+        437.7,
+        610.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        596.25,
+        767.19,
+        607.5
+      ],
+      "text": "SET12K247 ‘Korting in verband met inkomsten (nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        444.37,
+        615.75,
+        469.89,
+        627.0
+      ],
+      "text": "(WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        631.5,
+        437.7,
+        649.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        635.25,
+        719.24,
+        646.5
+      ],
+      "text": "SET15H408 ‘Herziening korting (nw kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        651.0,
+        437.7,
+        669.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        654.75,
+        758.16,
+        666.0
+      ],
+      "text": "SET12K251 ‘Beëindiging korting in verband met inkomsten (nw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        674.25,
+        539.06,
+        685.5
+      ],
+      "text": "kort scherm)’ (WG)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        690.0,
+        437.7,
+        708.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        693.75,
+        763.39,
+        705.0
+      ],
+      "text": "SET12K253 ‘Korting ivm inkomsten na beëindigde claim met wg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        713.25,
+        532.06,
+        724.5
+      ],
+      "text": "(nw kort scherm)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        729.0,
+        437.7,
+        747.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        732.75,
+        735.03,
+        744.0
+      ],
+      "text": "SET12K330 ‘Korting overige inkomsten en combinatie met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        752.25,
+        587.2,
+        763.5
+      ],
+      "text": "inkomsten uit werk (tijdelijk)’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        786.75,
+        474.0,
+        798.0
+      ],
+      "text": "Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        806.25,
+        735.54,
+        817.5
+      ],
+      "text": "Vragen of inkomsten uit gedeeltelijk werken tijdens ziekte zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        825.75,
+        478.31,
+        837.0
+      ],
+      "text": "beëindigd",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        842.25,
+        437.7,
+        860.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        846.0,
+        538.96,
+        857.25
+      ],
+      "text": "Intern Registraties in UZS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        861.75,
+        437.7,
+        879.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        865.5,
+        672.56,
+        876.75
+      ],
+      "text": "Signaal ‘UZZ0334 Afhandelen uitgaande brief’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        881.25,
+        437.7,
+        899.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        885.0,
+        754.32,
+        896.25
+      ],
+      "text": "Signaal ‘UZZ0624 Beoordeel de kortingsregel(s) met de status",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        904.5,
+        566.24,
+        915.75
+      ],
+      "text": "‘voorlopig’ of ‘schorsing’’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        920.25,
+        437.7,
+        938.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        924.0,
+        754.32,
+        935.25
+      ],
+      "text": "Signaal ‘UZZ0625 Beoordeel de kortingsregel(s) met de status",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        943.5,
+        610.36,
+        954.75
+      ],
+      "text": "‘voorlopig’ bij zelfstandige arbeid’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        963.75,
+        148.84,
+        975.0
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        984.0,
+        130.71,
+        995.25
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1015.5,
+        144.62,
+        1026.75
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1035.75,
+        506.1,
+        1047.0
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        1055.25,
+        517.73,
+        1066.5
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1075.5,
+        276.08,
+        1086.75
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1095.75,
+        130.33,
+        1107.0
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1116.0,
+        144.12,
+        1127.25
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1138.68,
+        768.74,
+        1149.93
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    }
+  ]
+}

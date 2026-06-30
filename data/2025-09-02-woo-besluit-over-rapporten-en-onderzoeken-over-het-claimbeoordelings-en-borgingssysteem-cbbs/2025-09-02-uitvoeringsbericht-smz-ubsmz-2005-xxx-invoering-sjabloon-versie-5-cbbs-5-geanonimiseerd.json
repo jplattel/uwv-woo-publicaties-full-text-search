@@ -1,0 +1,593 @@
+{
+  "source_id": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs/2025-09-02-uitvoeringsbericht-smz-ubsmz-2005-xxx-invoering-sjabloon-versie-5-cbbs-5-geanonimiseerd",
+  "publication_slug": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_slug": "2025-09-02-uitvoeringsbericht-smz-ubsmz-2005-xxx-invoering-sjabloon-versie-5-cbbs-5-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0a75eb19-8650-4090-b558-731719cbe88c/uitvoeringsbericht-smz-ubsmz-2005-xxx-invoering-sjabloon-versie-5-cbbs-5-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over rapporten en onderzoeken over het Claimbeoordelings- en Borgingssysteem (CBBS)",
+  "publication_date": "2025-09-02T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Uitvoeringsbericht SMZ UBSMZ 2005-XXX - Invoering Sjabloon versie 5 (PDF, 260 kB)",
+  "retrieved_at": "2026-06-30T12:29:53+00:00",
+  "sha256": "f04c4c17960671f0b7f74d8b628960aa20eb76f62c440a7ccdce5294b4af7953",
+  "page_count": 1,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        200.0,
+        40.01,
+        338.31,
+        54.01
+      ],
+      "text": "Uitvoeringsbericht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        350.0,
+        41.01,
+        374.75,
+        55.01
+      ],
+      "text": "SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        107.01,
+        429.17,
+        115.01
+      ],
+      "text": "Berichtnummer Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        120.01,
+        453.64,
+        129.01
+      ],
+      "text": "08-05-2020",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        76.0,
+        121.01,
+        150.89,
+        130.01
+      ],
+      "text": "UBSMZ 20XX-XXX",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        146.01,
+        460.8,
+        154.01
+      ],
+      "text": "Aan Behandeld door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        159.01,
+        368.59,
+        168.01
+      ],
+      "text": "Districtsmanager SMZ Manager SMZ (landelijk) adviseur VA (landelijk)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        164.0,
+        164.0,
+        326.5,
+        168.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        169.01,
+        142.0,
+        178.01
+      ],
+      "text": "adviseur staf",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        112.0,
+        170.01,
+        219.75,
+        179.01
+      ],
+      "text": "AD PB VA AD ADA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        195.0,
+        171.01,
+        201.67,
+        179.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        124.0,
+        174.0,
+        176.5,
+        178.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        192.01,
+        434.89,
+        200.01
+      ],
+      "text": "Afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        201.01,
+        102.25,
+        209.01
+      ],
+      "text": "Bestemd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        107.0,
+        202.01,
+        119.0,
+        209.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        410.0,
+        205.01,
+        437.43,
+        214.01
+      ],
+      "text": "IM-SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        215.01,
+        361.82,
+        224.01
+      ],
+      "text": "Verzekeringsartsen A(N)IOS Arbeidsdeskundigen Arbeidsdeskundig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        282.0,
+        216.01,
+        288.67,
+        224.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        153.0,
+        219.0,
+        193.5,
+        223.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        225.01,
+        109.3,
+        234.01
+      ],
+      "text": "analisten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        248.01,
+        88.5,
+        256.01
+      ],
+      "text": "Titel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        249.01,
+        485.5,
+        257.01
+      ],
+      "text": "Intranetpagina SMZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        463.0,
+        250.01,
+        469.67,
+        258.01
+      ],
+      "text": "UB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        263.01,
+        509.5,
+        272.01
+      ],
+      "text": "Invoering Sjabloon versie 5 (CBBS 5) Uitvoeringsberichten SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        312.01,
+        126.0,
+        322.01
+      ],
+      "text": "Beste collega",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        129.0,
+        317.0,
+        131.0,
+        322.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        337.01,
+        184.5,
+        347.01
+      ],
+      "text": "Essentie dit bericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        115.0,
+        339.01,
+        129.25,
+        347.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        350.01,
+        500.56,
+        360.01
+      ],
+      "text": "De invoering het nieuwe sjabloon versie 5 (CBBS 5) in het Claim Beoordelings- Borgings",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        130.0,
+        351.01,
+        458.33,
+        359.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        362.01,
+        513.75,
+        372.01
+      ],
+      "text": "Systeem (CBBS) staat gepland vrijdag 15 mei. Dat betekent dat die dag gebruik kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        213.0,
+        364.01,
+        456.6,
+        372.01
+      ],
+      "text": "voor op geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        374.01,
+        459.6,
+        384.01
+      ],
+      "text": "worden gemaakt het CBBS. CBBS is vanaf donderdagavond 14 mei 20:00 niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        149.0,
+        376.01,
+        485.2,
+        384.01
+      ],
+      "text": "van uur meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        386.01,
+        123.54,
+        396.01
+      ],
+      "text": "beschikbaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        412.01,
+        509.75,
+        422.01
+      ],
+      "text": "Arbeidsdeskundig analisten arbeidsdeskundigen (verzekerings-)artsen kunnen vanaf maandag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        293.0,
+        414.01,
+        300.33,
+        422.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        193.0,
+        417.0,
+        195.0,
+        422.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        424.01,
+        326.4,
+        434.01
+      ],
+      "text": "18 mei gebruikmaken het nieuwe sjabloon (CBBS-5).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        172.0,
+        426.01,
+        184.75,
+        434.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        450.01,
+        206.5,
+        460.01
+      ],
+      "text": "Aankondiging toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        142.0,
+        451.01,
+        150.67,
+        459.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        462.01,
+        348.67,
+        472.01
+      ],
+      "text": "uitgebreide aankondiging toelichting vinden onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        463.01,
+        390.0,
+        473.01
+      ],
+      "text": "Een is te CBBS 5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        207.0,
+        464.01,
+        214.33,
+        472.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.0,
+        501.01,
+        165.0,
+        511.01
+      ],
+      "text": "Met vriendelijke groet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        168.0,
+        506.0,
+        170.0,
+        511.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        69.0,
+        526.01,
+        99.0,
+        536.01
+      ],
+      "text": "IM SMZ",
+      "source": "text"
+    }
+  ]
+}

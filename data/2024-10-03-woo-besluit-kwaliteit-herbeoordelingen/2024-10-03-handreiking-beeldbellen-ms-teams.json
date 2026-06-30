@@ -1,0 +1,4649 @@
+{
+  "source_id": "2024-10-03-woo-besluit-kwaliteit-herbeoordelingen/2024-10-03-handreiking-beeldbellen-ms-teams",
+  "publication_slug": "2024-10-03-woo-besluit-kwaliteit-herbeoordelingen",
+  "pdf_slug": "2024-10-03-handreiking-beeldbellen-ms-teams",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-kwaliteit-herbeoordelingen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/b870d3fb-aa96-413f-9f39-c0d145ce2390/handreiking-beeldbellen-ms-teams.pdf",
+  "publication_title": "Woo-besluit kwaliteit herbeoordelingen",
+  "publication_date": "2024-10-03T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handreiking-beeldbellen-MS-Teams (PDF, 360 kB)",
+  "retrieved_at": "2026-06-30T12:54:54+00:00",
+  "sha256": "783076b9f9abc3b6d836a7302de8fc018e1244ffef07ccc8a0d04d71e4100fd9",
+  "page_count": 10,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        46.8,
+        50.07,
+        477.8,
+        82.11
+      ],
+      "text": "Handreiking beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        46.8,
+        88.85,
+        417.47,
+        120.89
+      ],
+      "text": "met Microsoft Teams",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        46.2,
+        146.98,
+        457.47,
+        158.98
+      ],
+      "text": "Aandachtspunten voor de (verzekerings)arts, arbeidsdeskundige en re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        46.2,
+        161.5,
+        156.8,
+        173.5
+      ],
+      "text": "intigratiebegeleider",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        56.66,
+        329.87,
+        205.44,
+        345.83
+      ],
+      "text": "Doel handreiking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        356.53,
+        530.21,
+        365.05
+      ],
+      "text": "Deze handreiking is bedoeld als praktisch hulpmiddel bij het gebruik van Microsoft Teams ten behoeve van beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        366.97,
+        524.57,
+        375.49
+      ],
+      "text": "als vervanging voor het fysieke spreekuur. Het geeft aan wanneer het gebruik ervan nuttig is, welke meerwaarde het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        377.53,
+        529.81,
+        386.05
+      ],
+      "text": "kan hebben, en welke informatie de klant hierover geboden kan worden. Verder geeft het wat praktische ‘tips & tricks’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        387.97,
+        529.01,
+        396.49
+      ],
+      "text": "voor het gebruik. Het is geen handleiding in de zin van een ‘knoppencursus’ voor het technische gebruik van Microsoft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        398.53,
+        424.24,
+        407.05
+      ],
+      "text": "Teams; deze informatie is in de “SMZ Gebruikershandleiding en instructies” terug te vinden.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        56.66,
+        422.39,
+        522.01,
+        438.35
+      ],
+      "text": "Wanneer gebruik je beeldbellen met Microsoft Teams",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        448.93,
+        503.78,
+        457.45
+      ],
+      "text": "Microsoft Teams is een veilige en gecertificeerde toepassing. Het voldoet aan de eisen en normen die met name",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        459.49,
+        536.48,
+        468.01
+      ],
+      "text": "voortvloeien uit de AVG en uit de NEN- en ISO-normen voor informatiebeveiliging in de zorg. Het hoofddoel ervan is om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        469.95,
+        526.34,
+        478.47
+      ],
+      "text": "videospreekuren met de klant te kunnen uitvoeren. De KNMG, NVVG, NVva en de SRA ondersteunen het gebruik van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        480.51,
+        494.46,
+        489.03
+      ],
+      "text": "beeldbellen als acceptabel alternatief voor het fysieke gesprek. In de praktijk is het echter ook bruikbaar voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        490.95,
+        531.43,
+        499.47
+      ],
+      "text": "overlegsituaties met collega’s zoals VA-vergaderingen en intervisiegroepen voor opleiders en VA’s en kan daarmee een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        501.51,
+        177.2,
+        510.03
+      ],
+      "text": "alternatief bieden voor Skype.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        522.51,
+        507.38,
+        531.03
+      ],
+      "text": "Het videospreekuur heeft een groot voordeel ten opzichte van een telefonisch spreekuur doordat er ook beeld is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        532.95,
+        519.72,
+        541.47
+      ],
+      "text": "Hierdoor is meer mogelijk. Naast dat de non-verbale signalen van de klant zichtbaar zijn, kunnen ook delen van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        543.51,
+        535.16,
+        552.03
+      ],
+      "text": "lichamelijk onderzoek worden uitgevoerd. Hierbij kan gedacht worden aan inspectie en actief bewegingsonderzoek. Een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        553.95,
+        529.47,
+        562.47
+      ],
+      "text": "videospreekuur kent ook zijn beperkingen. Palpatie, passief bewegingsonderzoek en delen van het specieel lichamelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        564.51,
+        517.36,
+        573.03
+      ],
+      "text": "onderzoek zijn niet mogelijk. Realiseer je dit vóórdat een videospreekuur gepland gaat worden en bedenk hierbij in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        574.95,
+        532.97,
+        583.47
+      ],
+      "text": "hoeverre deze onderdelen essentieel zijn voor het spreekuur. Indien informatie uit deze onderdelen nodig is om tot een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        585.51,
+        506.87,
+        594.03
+      ],
+      "text": "goede beoordeling te kunnen komen, bedenk dan of er alternatieven voorhanden zijn om aan deze informatie te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        595.95,
+        512.2,
+        604.47
+      ],
+      "text": "komen. Indien dit niet het geval is, dan heeft een videospreekuur geen meerwaarde en is dit mogelijk geen zinvol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        606.51,
+        506.2,
+        615.03
+      ],
+      "text": "alternatief voor een fysiek spreekuur. Leg in dat geval vast dat de beoordeling niet kan plaatsvinden en waarom,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        616.95,
+        251.98,
+        625.47
+      ],
+      "text": "conform de instructie hiervoor binnen je kantoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        637.95,
+        537.38,
+        646.47
+      ],
+      "text": "Belangrijk om te weten is dat Microsoft Teams buiten de Citrix-omgeving werkt. Als je niet beschikt over twee schermen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        648.51,
+        531.66,
+        657.03
+      ],
+      "text": "is het wel mogelijk om Microsoft Teams te gebruiken en tegelijkertijd informatie in te zien of te bewerken welke binnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        658.98,
+        513.96,
+        667.5
+      ],
+      "text": "de Citrix omgeving ligt. Kijk bij Tips & Tricks voor aanwijzingen. Is dit niet werkbaar voor jou, zorg dan dat je deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        669.54,
+        514.69,
+        678.06
+      ],
+      "text": "informatie voorafgaand aan het gebruik van MS Teams voor jezelf beschikbaar maakt. Dit kun je doen om dit af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        679.98,
+        538.6,
+        688.5
+      ],
+      "text": "drukken maar zorg er voor dat je deze uitgeprinte documenten veilig – liefst in een af te sluiten kast - opbergt en dat na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.66,
+        690.54,
+        505.16,
+        699.06
+      ],
+      "text": "het gebruik voor het gesprek en na verwerking in de UWV systemen deze documenten veilig worden vernietigd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        56.66,
+        44.58,
+        365.49,
+        60.54
+      ],
+      "text": "Informatievoorziening aan de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        71.12,
+        525.47,
+        79.64
+      ],
+      "text": "Voor de klant heeft het gebruik van Microsoft Teams ook voordelen. Het spreekuur kan dan doorgang vinden en deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        81.56,
+        536.9,
+        90.08
+      ],
+      "text": "kan vanuit de eigen woning plaatsvinden. De klant hoeft zich niet aan te melden, hoeft geen software te downloaden en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        92.14,
+        516.04,
+        100.66
+      ],
+      "text": "installeren en heeft ook geen abonnement of iets dergelijks nodig. Middels een link maakt de klant gebruik van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        102.58,
+        481.8,
+        111.1
+      ],
+      "text": "abonnement van UWV. Wel is een (goede) internetverbinding nodig en een pc met audio en video. Als een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        113.14,
+        530.84,
+        121.66
+      ],
+      "text": "videospreekuur gepland wordt met Microsoft Teams moet de klant vooraf een brief ontvangen met de uitnodiging voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        123.58,
+        501.08,
+        132.1
+      ],
+      "text": "dit virtuele spreekuur. De Teamondersteuner instrueert de klant in de uitnodigingsbrief, en de verzekeringsarts,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        134.14,
+        521.61,
+        142.66
+      ],
+      "text": "arbeidsdeskundige of reintegratiebegeleider stuurt de klant een link toe die vanaf computer/tablet of telefoon op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        144.58,
+        529.87,
+        153.1
+      ],
+      "text": "afgesproken tijdstip aangeklikt moet worden. Deze brief/e-mailbericht met instructies moet in ieder geval de volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        155.14,
+        138.87,
+        163.66
+      ],
+      "text": "informatie bevatten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        177.57,
+        196.16,
+        186.1
+      ],
+      "text": " Datum en tijd van de afspraak;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        188.13,
+        483.56,
+        196.66
+      ],
+      "text": " De (verzekerings)arts, arbeidsdeskundige of reintegratiebegeleider met wie de klant de afspraak heeft;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        198.57,
+        247.95,
+        207.1
+      ],
+      "text": " Hoe lang het spreekuur ongeveer zal duren;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        209.13,
+        336.71,
+        217.66
+      ],
+      "text": " De wijze waarop de klant kan deelnemen aan het videospreekuur;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        219.57,
+        327.14,
+        228.1
+      ],
+      "text": " Adviezen voor hoe/waar de klant het spreekuur kan aannemen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        230.14,
+        371.56,
+        238.66
+      ],
+      "text": "• Op een privéplaats omdat er medische zaken besproken zullen worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        240.58,
+        507.81,
+        249.1
+      ],
+      "text": "• Op een plaats waar de klant de gelegenheid heeft om eventueel het letsel te kunnen tonen en op verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        251.14,
+        453.64,
+        259.66
+      ],
+      "text": "bepaalde bewegingen kan doen in het kader van lichamelijk onderzoek (voldoende privacy).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        261.58,
+        537.87,
+        270.1
+      ],
+      "text": "• Op een plaats waar de klant niet gestoord wordt door anderen of door omgevingsgeluiden (bij voorkeur een stille",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        272.14,
+        117.23,
+        280.66
+      ],
+      "text": "kamer).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        282.6,
+        523.96,
+        291.13
+      ],
+      "text": " De regels waaraan de klant zich moet houden als deze het gesprek op wil nemen. Zie hiervoor de regels voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        293.17,
+        528.86,
+        301.69
+      ],
+      "text": "maken van geluidsopnames (het mag wel, wel aan het begin van het spreekuur aangeven dat er opgenomen gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        303.61,
+        448.4,
+        312.13
+      ],
+      "text": "worden; uitsluitend voor privé gebruik). Er is ook specifieke klantinformatie met de spelregels.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        314.04,
+        63.03,
+        322.56
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        314.05,
+        253.3,
+        322.57
+      ],
+      "text": "Opgaaf dat UWV hierbij geen opname maakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        333.13,
+        536.4,
+        341.65
+      ],
+      "text": "Er is voor de klant ook nog de handreiking “Videoconsult met UWV” beschikbaar welke meegezonden moet worden met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        343.69,
+        522.85,
+        352.21
+      ],
+      "text": "de uitnodigingsbrief/e-mailbericht. Voor de klant moet gepoogd worden dit spreekuur zo veel mogelijk een ‘normaal’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        354.13,
+        527.97,
+        362.65
+      ],
+      "text": "spreekuur te laten zijn. Het is de klant dan ook toegestaan om iemand bij zich te hebben tijdens het spreekuur. Vraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        364.69,
+        279.57,
+        373.21
+      ],
+      "text": "wie er bij de klant is en noteer dit ook in de rapportage.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        56.66,
+        388.55,
+        404.54,
+        404.51
+      ],
+      "text": "Aanwijzigen voor de arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        414.97,
+        173.96,
+        423.49
+      ],
+      "text": "Arbeidsdeskundig rapport",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        425.29,
+        538.22,
+        433.81
+      ],
+      "text": "De arbeidsdeskundige vermeldt duidelijk in zijn rapport dat er geen fysiek spreekuur heeft plaatsgevonden, maar dat hij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        435.61,
+        530.63,
+        444.13
+      ],
+      "text": "gebruik gemaakt heeft van beeldbellen vanwege de COVID-19 maatregelen. Ook de NVvA en de SRA hebben hierover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        445.93,
+        311.09,
+        454.45
+      ],
+      "text": "gecommuniceerd in een persbericht. UWV volgt hun standpunt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        466.83,
+        233.96,
+        475.35
+      ],
+      "text": "Als beeldbellen geen goed alternatief is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        477.27,
+        533.43,
+        485.79
+      ],
+      "text": "Het niet voeren van een fysiek gesprek kan consequenties hebben voor de kwaliteit van de informatie. Dat kan ook het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        487.83,
+        467.0,
+        496.35
+      ],
+      "text": "geval zijn bij bijvoorbeeld een Deskundigenoordeel waarbij een werkplekonderzoek noodzakelijk is. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        498.27,
+        510.72,
+        506.79
+      ],
+      "text": "arbeidsdeskundige kan overwegen of er een alternatief voor een werplekonderzoek is. Bijvoorbeeld de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        508.83,
+        505.87,
+        517.35
+      ],
+      "text": "vragen om een beschrijving van de werkplek en daar telefonisch vragen over stellen. Ook kan de werkgever zelf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        519.27,
+        499.28,
+        527.79
+      ],
+      "text": "beeldmateriaal van het werk en de werkplek maken en opsturen. In het uiterste geval kan het zijn dat cruciale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        529.83,
+        528.56,
+        538.35
+      ],
+      "text": "informatie niet te achterhalen is zonder fysiek contact waardoor een verantwoorde beoordeling niet mogelijk is. In dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        540.27,
+        522.27,
+        548.79
+      ],
+      "text": "geval geeft de arbeidsdeskundige in een korte rapportage aan dat dat het geval is. De arbeidsdeskundige draagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        550.83,
+        505.19,
+        559.35
+      ],
+      "text": "dossier dan over aan het team (PB). Dit bekijkt afhankelijk van de situatie welke vervolgacties noodzakelijk zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.66,
+        807.3,
+        238.2,
+        815.82
+      ],
+      "text": "Handreiking beeldbellen met Microsoft Teams",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        56.66,
+        44.58,
+        502.62,
+        60.54
+      ],
+      "text": "Tips & tricks voor beeldbellen met Microsoft Teams",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        71.12,
+        531.82,
+        79.64
+      ],
+      "text": "Bij beeldbellen zijn er handige tips zodat het spreekuur zo goed mogelijk verloopt en voor zowel de (verzekerings)arts,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        81.56,
+        538.87,
+        90.08
+      ],
+      "text": "arbeidsdeskundige en reintegratiebegeleider als de klant goed te volgen is. Gebruik ook de “SMZ instructies beeldbellen”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        92.14,
+        487.86,
+        100.66
+      ],
+      "text": "voor de technische aspecten van het inplannen en uitvoeren van een beeldbelgesprek met Microsoft Teams.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        114.58,
+        144.59,
+        123.1
+      ],
+      "text": "Bij het eerste begin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        126.57,
+        452.08,
+        135.1
+      ],
+      "text": " Test het eerst een keer uit met een collega. Dat geeft de mogelijkheid tot oefenen en voorkomt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        137.02,
+        327.1,
+        145.54
+      ],
+      "text": "‘beginnersproblemen’ bij een eventueel spreekuur met de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        156.1,
+        202.54,
+        164.62
+      ],
+      "text": "Voorafgaand aan het spreekuur:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        168.09,
+        427.83,
+        176.62
+      ],
+      "text": " Kies een locatie waar je niet gestoord wordt (door kinderen, levenspartner, huisdier etc.).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        178.65,
+        63.03,
+        187.17
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        178.66,
+        527.55,
+        187.18
+      ],
+      "text": "Kies een neutrale locatie welke niet te privé is. Denk aan zaken zoals familiefoto’s, omgeving die je privéadres zou",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        189.1,
+        147.72,
+        197.62
+      ],
+      "text": "kunnen prijsgeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        199.65,
+        63.03,
+        208.17
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        199.66,
+        532.23,
+        208.18
+      ],
+      "text": "Kies een rustige omgeving (achtergrondgeluiden) die ook visueel niet afleidt (achtergrond; lichtbron van achteren).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        210.09,
+        368.01,
+        218.62
+      ],
+      "text": " Sluit de pc aan op de oplader; voorkom problemen wegens een lege accu.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        220.65,
+        63.03,
+        229.17
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        220.66,
+        411.9,
+        229.18
+      ],
+      "text": "Controleer zo mogelijk of je camera op jou scherpstelt en niet op iets in je omgeving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        231.09,
+        528.0,
+        239.62
+      ],
+      "text": " Zorg dat je de benodigde spullen voor het spreekuur bij de hand hebt. Denk hierbij niet alleen aan informatie over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        241.54,
+        538.06,
+        250.06
+      ],
+      "text": "de klant maar ook aan een notitieblok etc. Houdt in gedachten dat Microsoft Teams buiten de Citrix-omgeving werkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        260.62,
+        155.34,
+        269.14
+      ],
+      "text": "Tijdens het spreekuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        272.61,
+        532.78,
+        281.14
+      ],
+      "text": " Log op tijd in. Als je wat tijd hebt, kun je nog eventuele problemen oplossen vóór je contact opneemt met de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        283.2,
+        281.58,
+        291.73
+      ],
+      "text": " Zorg dat je scherp in beeld bent (zie ook hierboven).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        293.64,
+        63.03,
+        302.16
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        293.65,
+        518.97,
+        302.17
+      ],
+      "text": "Vraag bij aanvang van het spreekuur of de klant je goed kan zien en horen. Vraag eventueel of klant al ervaring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        304.21,
+        523.51,
+        312.73
+      ],
+      "text": "heeft met beeldbellen en toon begrip als de klant hier niet vaardig in is en zich (nog) niet erg op zijn gemak voelt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        314.65,
+        519.61,
+        323.17
+      ],
+      "text": "hierbij. Geef daarbij ook aan dat de Chat-functionaliteit van Microsoft Teams niet zal worden gebruikt tijdens het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        325.21,
+        112.8,
+        333.73
+      ],
+      "text": "spreekuur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        335.64,
+        63.03,
+        344.16
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        335.65,
+        520.42,
+        344.17
+      ],
+      "text": "Controleer de identiteit van de klant met controlevragen (volledige naam, BSN, geboortedatum, huisnummer en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        346.21,
+        532.27,
+        354.73
+      ],
+      "text": "postcode; zie Telefonisch contact opnemen met een klant). Alternatief is dat de klant zijn identiteitsbewijs laat zien,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        356.65,
+        535.23,
+        365.17
+      ],
+      "text": "mits dan voldoende zichtbaar. Microsoft Teams is dusdanig beveiligd, dat dit mogelijk is; het gesprek wordt namelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        367.21,
+        253.28,
+        375.73
+      ],
+      "text": "niet opgeslagen en de verbinding is beveiligd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        377.64,
+        63.03,
+        386.16
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        377.65,
+        330.1,
+        386.17
+      ],
+      "text": "Maak kenbaar wie je bent, en wat de context is van het gesprek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        388.2,
+        175.66,
+        396.73
+      ],
+      "text": " Spreek rustig en duidelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        398.64,
+        63.03,
+        407.16
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        398.65,
+        422.12,
+        407.17
+      ],
+      "text": "Gun de klant tijd voor zijn antwoord. Het is mogelijk dat er wat ‘vertraging op de lijn’ is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        409.2,
+        528.96,
+        417.73
+      ],
+      "text": " Leg uit wat je beperkingen van het spreekuur zijn (deel van lichamelijk onderzoek zal niet mogelijk zijn) en wat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        419.65,
+        196.78,
+        428.17
+      ],
+      "text": "bedoeling van het spreekuur is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        430.2,
+        365.51,
+        438.73
+      ],
+      "text": " Doe het spreekuur verder conform de normale regels (uitleg waar nodig).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        440.64,
+        63.03,
+        449.16
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        440.65,
+        525.78,
+        449.17
+      ],
+      "text": "Als de klant iemand bij zich heeft, geef het dan ook aan als je lichamelijk onderzoek wilt doen en dat de klant dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        451.21,
+        293.97,
+        459.73
+      ],
+      "text": "diegene kan vragen om (tijdelijk) de ruimte te verlaten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        461.64,
+        63.03,
+        470.16
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        461.65,
+        531.46,
+        470.17
+      ],
+      "text": "Vraag aan het einde van het spreekuur of de klant nog specifieke vragen heeft betreffende het aspect ‘beeldbellen’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        472.1,
+        515.83,
+        480.63
+      ],
+      "text": " N.B.: Als de verbinding niet goed tot stand komt, kan altijd worden teruggevallen op een telefonisch spreekuur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        491.07,
+        184.52,
+        499.59
+      ],
+      "text": "Na afloop van het spreekuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        503.18,
+        526.72,
+        511.71
+      ],
+      "text": " Geef bij de rapportage aan dat er sprake was van een videospreekuur, met de datum en tijdstip wanneer dit heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        513.63,
+        136.8,
+        522.15
+      ],
+      "text": "plaatsgevonden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        524.18,
+        530.8,
+        532.71
+      ],
+      "text": " Indien onderdelen van je beoordeling die je had willen doen niet mogelijk waren vanwege beeldbellen, geef dit dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        534.63,
+        497.87,
+        543.15
+      ],
+      "text": "aan en ook de consequenties hiervan (mogelijk kies je bijvoorbeeld hierdoor eerder voor het opvragen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        545.19,
+        228.47,
+        553.71
+      ],
+      "text": "informatie bij de behandelende sector).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        555.62,
+        522.8,
+        564.15
+      ],
+      "text": " Berg de eventueel afgedrukte documenten veilig op en zorg er voor dat de documenten na gebruik veilig worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        566.07,
+        113.51,
+        574.59
+      ],
+      "text": "vernietigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        585.15,
+        529.85,
+        593.67
+      ],
+      "text": "Er is een uitgebreide instructie waarin in hoofdstuk 5. is beschreven hoe je met Microsoft Teams kan omgaan naast de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        595.71,
+        512.01,
+        604.23
+      ],
+      "text": "Citrix-omgeving. Met deze instructies kun je ook klant informatie gelijktijdig raadplegen en kan het afdrukken van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        606.15,
+        175.07,
+        614.67
+      ],
+      "text": "documenten worden beperkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        627.15,
+        514.69,
+        635.67
+      ],
+      "text": "Mocht er extra instructie gewenst zijn kunnen deze instructiefilmpjes mogelijk helpen. Kijk ook naar de helpfunctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        637.71,
+        153.72,
+        646.23
+      ],
+      "text": "binnen Microsoft Teams.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        660.36,
+        105.4,
+        670.32
+      ],
+      "text": "Nawoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        680.82,
+        536.78,
+        689.34
+      ],
+      "text": "Deze handreiking is op basis van de generieke Microsoft Teams handleiding zoals deze door Concern ICT is gepubliceerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        691.38,
+        521.78,
+        699.9
+      ],
+      "text": "op DWU en andere beschikbare informatie opgesteld. Deze handreiking wordt in de praktijk beproefd en wordt in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        701.82,
+        313.52,
+        710.34
+      ],
+      "text": "aankomende periode aangescherpt na feedback van gebruikers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        807.3,
+        238.2,
+        815.82
+      ],
+      "text": "Handreiking beeldbellen met Microsoft Teams",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        43.34,
+        97.49,
+        53.3
+      ],
+      "text": "Colofon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        63.8,
+        91.25,
+        72.32
+      ],
+      "text": "Uitgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        75.8,
+        210.37,
+        84.32
+      ],
+      "text": "UWV SMZ Centraal Expertise Centrum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        98.26,
+        85.12,
+        106.78
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        110.38,
+        194.11,
+        118.9
+      ],
+      "text": "Versie 1.0 d.d. 15/06/2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        132.82,
+        92.32,
+        141.34
+      ],
+      "text": "Auteurs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        55.66,
+        146.04,
+        102.54,
+        153.56
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        176.38,
+        156.83,
+        184.9
+      ],
+      "text": "Met medewerking van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        55.66,
+        188.04,
+        102.54,
+        195.56
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        239.38,
+        128.74,
+        247.9
+      ],
+      "text": "In opdracht van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        55.66,
+        251.04,
+        102.54,
+        258.56
+      ],
+      "text": "5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        282.85,
+        165.59,
+        291.37
+      ],
+      "text": "Geraadpleegde Bronnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        294.84,
+        63.03,
+        303.36
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        294.85,
+        402.5,
+        303.37
+      ],
+      "text": "KNMG-site: beeldbellen tijdens de Coronacrisis: Beeldbellen tijdens de Coronacrisis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        305.4,
+        261.36,
+        313.93
+      ],
+      "text": " Actiz site Beeldbellen:Hulpmiddelen beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        315.84,
+        63.03,
+        324.36
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        315.85,
+        450.04,
+        324.37
+      ],
+      "text": "Algemene tips beeldbellen van ervaringsdeskundigen: Videobellen met clienten tip & tricks van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        326.29,
+        158.77,
+        334.81
+      ],
+      "text": "ervaringsdeskundigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        345.25,
+        277.51,
+        353.77
+      ],
+      "text": "Verdere mogelijk handige achtergrondinformatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        357.24,
+        63.03,
+        365.76
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        357.25,
+        470.35,
+        365.77
+      ],
+      "text": "Veiligheid beeldbellen met Microsoft Teams: Rapport Actiz Advies zakelijke beeldbel apps in de zorg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        655.18,
+        89.03,
+        662.74
+      ],
+      "text": "Volg ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        708.6,
+        113.21,
+        718.56
+      ],
+      "text": "Disclaimer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        729.94,
+        527.46,
+        737.5
+      ],
+      "text": "Deze handreiking is met zorg samengesteld. Er kunnen kleine verschillen zijn en overlap bestaan tussen dit document en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        740.5,
+        328.24,
+        748.06
+      ],
+      "text": "andere publicaties met betrekking tot beeldbellen met Microsoft Teams.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        56.66,
+        761.38,
+        106.71,
+        768.94
+      ],
+      "text": "UWV © 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.66,
+        807.3,
+        238.2,
+        815.82
+      ],
+      "text": "Handreiking beeldbellen met Microsoft Teams",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.8,
+        12.8,
+        348.73,
+        29.8
+      ],
+      "text": "Factsheet | Onderzoek naar beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        82.29,
+        31.8,
+        337.22,
+        48.8
+      ],
+      "text": "binnen arbeidsdeskundig onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        149.21,
+        142.35,
+        270.32,
+        156.35
+      ],
+      "text": "ARBEIDSDESKUNDIG",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        171.97,
+        159.15,
+        247.54,
+        173.15
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        294.55,
+        183.35,
+        330.92,
+        195.35
+      ],
+      "text": "KLANT-",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        69.6,
+        196.66,
+        138.56,
+        205.66
+      ],
+      "text": "TUCHTRECHTELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        280.35,
+        197.75,
+        345.13,
+        209.75
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        79.79,
+        207.46,
+        128.37,
+        216.46
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        66.39,
+        257.22,
+        92.76,
+        276.75
+      ],
+      "text": "AG",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        53.28,
+        264.79,
+        71.77,
+        283.59
+      ],
+      "text": "A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        271.93,
+        375.05,
+        280.43
+      ],
+      "text": "Als gevolg van de coronamaatregelen is door de NVvA en de SRA besloten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        45.24,
+        276.75,
+        63.95,
+        292.36
+      ],
+      "text": "R",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        282.93,
+        370.25,
+        291.43
+      ],
+      "text": "dat arbeidsdeskundige onderzoeken tijdelijk via video- of beeldbellen of,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        42.69,
+        290.92,
+        59.63,
+        302.0
+      ],
+      "text": "V",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        293.93,
+        371.5,
+        302.43
+      ],
+      "text": "als dat niet mogelijk is, telefonisch mogen plaats vinden. Maar hoe zetten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        43.11,
+        302.1,
+        60.8,
+        314.15
+      ],
+      "text": "T",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        304.93,
+        352.09,
+        313.43
+      ],
+      "text": "arbeidsdeskundigen beeldbellen in en wat zijn de effecten hiervan?",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        46.91,
+        310.01,
+        65.72,
+        326.75
+      ],
+      "text": "R",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        315.93,
+        370.78,
+        324.43
+      ],
+      "text": "Doel van het onderzoek is om inzicht te bieden in het werken met beeld-",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        56.33,
+        318.35,
+        74.13,
+        337.43
+      ],
+      "text": "A",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        69.05,
+        324.02,
+        81.49,
+        341.81
+      ],
+      "text": "T",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        81.45,
+        326.35,
+        89.64,
+        342.56
+      ],
+      "text": "S",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        326.93,
+        359.66,
+        335.43
+      ],
+      "text": "bellen binnen het arbeidsdeskundig handelen. De uitkomsten van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        337.93,
+        368.76,
+        346.43
+      ],
+      "text": "onderzoek dienen input te geven voor het verdere gesprek over de inzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.02,
+        348.93,
+        301.8,
+        357.43
+      ],
+      "text": "van beeldbellen bij arbeidsdeskundige onderzoeken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        382.05,
+        194.19,
+        390.55
+      ],
+      "text": "Tuchtrechtelijk perspectief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        392.05,
+        372.42,
+        400.55
+      ],
+      "text": "Om tuchtrechtelijke vragen rondom het beeldbellen te beantwoorden hebben we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        402.04,
+        364.07,
+        410.54
+      ],
+      "text": "vijf professionals van de verschillende niveaus van het Tuchthuis geïnterviewd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        422.67,
+        184.3,
+        431.17
+      ],
+      "text": "Perspectief van de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        432.67,
+        351.45,
+        441.17
+      ],
+      "text": "Om een compleet beeld te krijgen van de beeldbel ervaring binnen arbeids-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.23,
+        442.67,
+        375.39,
+        451.17
+      ],
+      "text": "deskundig onderzoek zijn er ook gesprekken gevoerd met klanten. In totaal zijn er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.23,
+        452.66,
+        245.52,
+        461.16
+      ],
+      "text": "diepte-interviews gehouden met 15 klanten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        473.96,
+        239.02,
+        482.46
+      ],
+      "text": "Perspectief van de arbeidsdeskundigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        483.96,
+        363.61,
+        492.46
+      ],
+      "text": "Om een breed beeld te krijgen van de ervaringen van arbeidsdeskundigen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        493.95,
+        374.45,
+        502.45
+      ],
+      "text": "beeldbellen ten opzichte van fysiek contact en telefonisch contact hebben we een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        503.95,
+        362.76,
+        512.45
+      ],
+      "text": "digitale enquête uitgezet onder arbeidsdeskundigen. Deze is door 193 arbeids-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        513.95,
+        172.98,
+        522.45
+      ],
+      "text": "deskundigen ingevuld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        533.95,
+        365.81,
+        542.45
+      ],
+      "text": "Daarnaast hebben 26 arbeidsdeskundigen die de enquête hebben ingevuld ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.22,
+        543.94,
+        219.17,
+        552.44
+      ],
+      "text": "deelgenomen aan groepsinterviews.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.82,
+        568.38,
+        98.01,
+        576.5
+      ],
+      "text": "Rosanne",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        99.78,
+        568.51,
+        128.02,
+        576.63
+      ],
+      "text": "Oomkens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.79,
+        568.64,
+        159.44,
+        576.77
+      ],
+      "text": "(Panteia),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        161.21,
+        568.77,
+        179.2,
+        576.85
+      ],
+      "text": "Marte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        180.97,
+        568.86,
+        205.92,
+        576.97
+      ],
+      "text": "Wachter",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        207.69,
+        568.98,
+        235.08,
+        577.1
+      ],
+      "text": "(ZINZIZ),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.85,
+        569.1,
+        251.63,
+        577.17
+      ],
+      "text": "Roos",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        253.4,
+        569.18,
+        276.11,
+        577.27
+      ],
+      "text": "van der",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        277.88,
+        569.28,
+        298.36,
+        577.37
+      ],
+      "text": "Schoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        300.14,
+        569.38,
+        326.45,
+        577.49
+      ],
+      "text": "(Muzus),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        328.22,
+        569.5,
+        347.78,
+        577.59
+      ],
+      "text": "Femke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        94.98,
+        578.08,
+        134.61,
+        586.26
+      ],
+      "text": "Bennenbroek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        136.39,
+        578.26,
+        163.77,
+        586.38
+      ],
+      "text": "(ZINZIZ),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        165.54,
+        578.39,
+        182.36,
+        586.47
+      ],
+      "text": "Neele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        184.14,
+        578.47,
+        217.8,
+        586.62
+      ],
+      "text": "Kistemaker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        219.57,
+        578.63,
+        243.97,
+        586.73
+      ],
+      "text": "(Muzus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        245.74,
+        578.74,
+        253.1,
+        586.77
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        254.87,
+        578.78,
+        270.63,
+        586.85
+      ],
+      "text": "Anne",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        272.41,
+        578.86,
+        295.02,
+        586.96
+      ],
+      "text": "Drijvers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        296.79,
+        578.96,
+        324.53,
+        587.09
+      ],
+      "text": "(Panteia)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        35.99,
+        32.37,
+        298.98,
+        46.37
+      ],
+      "text": "Arbeidsdeskundigen kiezen de contactvorm",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        35.99,
+        49.17,
+        202.54,
+        63.17
+      ],
+      "text": "in afstemming met de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        36.0,
+        71.89,
+        216.97,
+        80.39
+      ],
+      "text": "De ondervraagde arbeidsdeskundigen geven aan: dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        36.0,
+        82.09,
+        215.63,
+        90.59
+      ],
+      "text": "beeldbellen in bepaalde gevallen mogelijk is, wil niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        36.0,
+        92.29,
+        213.12,
+        100.79
+      ],
+      "text": "zeggen dat het de voorkeur heeft. Want je weet niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        36.0,
+        102.49,
+        157.18,
+        110.99
+      ],
+      "text": "welke informatie je potentieel mist.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        227.44,
+        134.55,
+        348.56,
+        148.55
+      ],
+      "text": "ARBEIDSDESKUNDIG",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        250.21,
+        151.35,
+        325.78,
+        165.35
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        172.87,
+        188.43,
+        185.87
+      ],
+      "text": "Meer dan de helft",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        188.47,
+        213.56,
+        201.47
+      ],
+      "text": "van de arbeidsdeskun-",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        204.07,
+        210.82,
+        217.07
+      ],
+      "text": "digen heeft afgelopen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        219.67,
+        208.05,
+        232.67
+      ],
+      "text": "maanden beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        235.27,
+        254.46,
+        248.27
+      ],
+      "text": "ingezet. Bijna een derde heeft",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        250.87,
+        261.07,
+        263.87
+      ],
+      "text": "beeldbellen nooit of nauwelijks",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        266.47,
+        135.57,
+        279.47
+      ],
+      "text": "ingezet:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        288.45,
+        253.29,
+        296.95
+      ],
+      "text": "Hoe jonger, hoe vaker beeldbellen wordt in-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        290.11,
+        96.69,
+        295.61
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        298.65,
+        124.34,
+        307.15
+      ],
+      "text": "gezet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        308.85,
+        243.86,
+        317.35
+      ],
+      "text": "AD UWV minder geneigd tot beeldbellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        310.51,
+        96.69,
+        316.01
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        319.05,
+        253.24,
+        327.55
+      ],
+      "text": "Arbeidsdeskundigen waarderen beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        320.71,
+        96.69,
+        326.21
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        329.25,
+        229.96,
+        337.75
+      ],
+      "text": "verschillend voor en na de lockdown.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        379.01,
+        261.74,
+        392.01
+      ],
+      "text": "Beeldbellen is een verantwoord",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        92.54,
+        394.61,
+        257.5,
+        407.61
+      ],
+      "text": "alternatief voor fysiek contact:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        416.58,
+        268.79,
+        425.08
+      ],
+      "text": "Als fysiek contact niet mogelijk is, zoals ten tijde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        418.25,
+        96.69,
+        423.75
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        426.78,
+        163.04,
+        435.28
+      ],
+      "text": "van de lockdown.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        436.98,
+        267.6,
+        445.48
+      ],
+      "text": "Als de klant nadrukkelijk de voorkeur heeft voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        438.65,
+        96.69,
+        444.15
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        447.18,
+        265.97,
+        455.68
+      ],
+      "text": "beeldbellen én de arbeids deskundige via beeld-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        457.38,
+        263.67,
+        465.88
+      ],
+      "text": "bellen de benodigde informatie kan verkrijgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        467.58,
+        267.6,
+        476.08
+      ],
+      "text": "Als er geen controversiële onderwerpen bespro-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        469.25,
+        96.69,
+        474.75
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        477.78,
+        181.7,
+        486.28
+      ],
+      "text": "ken hoeven te worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        487.98,
+        263.81,
+        496.48
+      ],
+      "text": "Als het uitsluitend gaat om het checken/uitvra-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.54,
+        489.65,
+        96.69,
+        495.15
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        498.18,
+        259.42,
+        506.68
+      ],
+      "text": "gen van feitelijke gegevens en het maken van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        508.38,
+        257.36,
+        516.88
+      ],
+      "text": "procesafspraken. Telefonisch contact volstaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.88,
+        518.58,
+        164.32,
+        527.08
+      ],
+      "text": "hierbij veelal ook.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        35.99,
+        32.37,
+        256.49,
+        46.37
+      ],
+      "text": "Er zijn positieve aspecten, risico’s en",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        35.99,
+        49.17,
+        311.53,
+        63.17
+      ],
+      "text": "randvoorwaarden als het om beeldbellen gaat",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        227.82,
+        134.55,
+        348.93,
+        148.55
+      ],
+      "text": "ARBEIDSDESKUNDIG",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        250.59,
+        151.35,
+        326.16,
+        165.35
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        85.41,
+        181.99,
+        207.68,
+        194.99
+      ],
+      "text": "Positieve aspecten van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        85.41,
+        197.59,
+        147.84,
+        210.59
+      ],
+      "text": "beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        219.56,
+        246.06,
+        228.06
+      ],
+      "text": "Beeldbellen is in bepaalde situaties een ver-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        221.23,
+        89.56,
+        226.73
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        229.76,
+        249.68,
+        238.26
+      ],
+      "text": "antwoord alternatief voor fysiek contact mits",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        239.96,
+        257.83,
+        248.46
+      ],
+      "text": "er geen controversiële onderwerpen besproken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        250.16,
+        260.59,
+        258.66
+      ],
+      "text": "moeten worden en er een beperkte hoeveelheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        260.36,
+        198.61,
+        268.86
+      ],
+      "text": "informatie wordt uitgevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        270.56,
+        252.5,
+        279.06
+      ],
+      "text": "De belangrijkste meerwaarde van beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        272.23,
+        89.56,
+        277.73
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        280.76,
+        250.74,
+        289.26
+      ],
+      "text": "ten opzichte van telefonisch contact: zicht op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        290.96,
+        216.0,
+        299.46
+      ],
+      "text": "non-verbale signalen en omgeving.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        85.41,
+        329.33,
+        213.31,
+        342.33
+      ],
+      "text": "Risico’s van beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        351.3,
+        240.74,
+        359.8
+      ],
+      "text": "Je mist de ‘onderstroom’ in communicatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        352.96,
+        89.56,
+        358.46
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        361.5,
+        246.47,
+        370.0
+      ],
+      "text": "Moeilijker om in te spelen op emoties bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        363.16,
+        89.56,
+        368.66
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        371.7,
+        115.62,
+        380.2
+      ],
+      "text": "klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        381.9,
+        258.36,
+        390.4
+      ],
+      "text": "Grootste risico: je weet niet welke informatie je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        383.56,
+        89.56,
+        389.06
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        392.1,
+        113.48,
+        400.6
+      ],
+      "text": "mist.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        85.41,
+        443.06,
+        250.21,
+        456.06
+      ],
+      "text": "Randvoorwaarden inzet beeld-",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        85.41,
+        458.66,
+        118.25,
+        471.66
+      ],
+      "text": "bellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        480.64,
+        224.76,
+        489.14
+      ],
+      "text": "Klant moet altijd toestemming geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        482.3,
+        89.56,
+        487.8
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        490.84,
+        236.12,
+        499.34
+      ],
+      "text": "Klant moet zorgvuldig zijn geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        492.5,
+        89.56,
+        498.0
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        501.04,
+        246.43,
+        509.54
+      ],
+      "text": "Persoonsgegevens moeten goed beschermd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        502.7,
+        89.56,
+        508.2
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        511.24,
+        152.89,
+        519.74
+      ],
+      "text": "zijn: ‘AVG-proof’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        521.44,
+        240.26,
+        529.94
+      ],
+      "text": "Klant mag geen medische belemmeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        85.41,
+        523.1,
+        89.56,
+        528.6
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        96.75,
+        531.64,
+        187.62,
+        540.14
+      ],
+      "text": "hebben om te beeldbellen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        36.0,
+        27.4,
+        341.96,
+        41.4
+      ],
+      "text": "Het hebben van keuze in contactvorm is belangrijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        58.53,
+        382.07,
+        67.03
+      ],
+      "text": "Het is voor klanten belangrijk om altijd meegenomen te worden in de keuze van de contactvorm. Niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        68.73,
+        378.79,
+        77.23
+      ],
+      "text": "enkel in het begin van een traject – de voorkeur kan veranderen. Daarnaast is er een sterke voorkeur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        78.93,
+        372.01,
+        87.43
+      ],
+      "text": "voor fysiek contact bij het eerste contact. Het voordeel van fysiek contact boven beeldbellen is een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        89.13,
+        232.82,
+        97.63
+      ],
+      "text": "completer beeld van klant (en van de arbeids deskundige).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        188.55,
+        181.2,
+        230.98,
+        195.2
+      ],
+      "text": "KLANT-",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        171.99,
+        198.0,
+        247.56,
+        212.0
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        36.0,
+        431.44,
+        289.68,
+        444.44
+      ],
+      "text": "De setting tijdens het beeldbellen is belangrijk:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        47.34,
+        454.61,
+        310.27,
+        463.11
+      ],
+      "text": "Zowel de setting van de arbeidsdeskundige als die van de klant is van belang.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        456.27,
+        40.14,
+        461.77
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        47.34,
+        464.81,
+        373.91,
+        473.31
+      ],
+      "text": "Sommige klanten kiezen bewust voor een neutrale setting, anderen willen juist inkijkje geven in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        466.47,
+        40.14,
+        471.97
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        47.34,
+        475.01,
+        141.97,
+        483.51
+      ],
+      "text": "hun persoonlijke omgeving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        494.81,
+        237.23,
+        503.31
+      ],
+      "text": "Klanten zien vooral (praktische) voordelen van beeldbellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        47.34,
+        505.01,
+        376.97,
+        513.51
+      ],
+      "text": "Beeldbellen maakt het voor sommige klanten makkelijker om contact te hebben, bijvoorbeeld bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        36.0,
+        506.67,
+        40.14,
+        512.17
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        47.34,
+        515.21,
+        142.67,
+        523.71
+      ],
+      "text": "een beperking om te reizen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        36.0,
+        27.4,
+        314.4,
+        41.4
+      ],
+      "text": "Het Tuchthuis ziet risico’s rondom beeldbellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        36.0,
+        58.53,
+        374.73,
+        67.03
+      ],
+      "text": "De genoemde risico’s kunnen een bedreiging vormen voor de toenaderings verantwoordelijkheid en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        36.0,
+        68.73,
+        292.92,
+        77.23
+      ],
+      "text": "het zorgvuldig handelen. Er zijn echter nog geen klachten binnen gekomen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        156.13,
+        143.67,
+        263.4,
+        157.67
+      ],
+      "text": "TUCHTRECHTELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        171.98,
+        160.47,
+        247.55,
+        174.47
+      ],
+      "text": "PERSPECTIEF",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        96.22,
+        301.47,
+        321.8,
+        314.47
+      ],
+      "text": "Risico’s vanuit tuchtrechtelijk perspectief:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        323.44,
+        318.63,
+        331.94
+      ],
+      "text": "Kans op ‘even snel’ klantcontact buiten reguliere kantooruren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        325.11,
+        100.37,
+        330.61
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        333.64,
+        245.6,
+        342.14
+      ],
+      "text": "Meer zakelijke vorm van communiceren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        335.31,
+        100.37,
+        340.81
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        343.84,
+        223.59,
+        352.34
+      ],
+      "text": "Onvoldoende borging van privacy.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        345.51,
+        100.37,
+        351.01
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        354.04,
+        343.5,
+        362.54
+      ],
+      "text": "Onvoldoende zicht hebben op de belasting en de omgevingsfactoren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        355.71,
+        100.37,
+        361.21
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        373.84,
+        341.01,
+        382.34
+      ],
+      "text": "Het is niet verantwoord om beeldbellen in te zetten als contactvorm als:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        384.04,
+        274.03,
+        392.54
+      ],
+      "text": "Er een werkplekonderzoek gedaan moet worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        385.71,
+        100.37,
+        391.21
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        394.24,
+        228.16,
+        402.74
+      ],
+      "text": "Er een conflict is met de werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        395.91,
+        100.37,
+        401.41
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        404.44,
+        245.37,
+        412.94
+      ],
+      "text": "Er voor het eerst contact is met de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        406.11,
+        100.37,
+        411.61
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        414.64,
+        240.68,
+        423.14
+      ],
+      "text": "Er psychische klachten zijn bij de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        416.31,
+        100.37,
+        421.81
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        96.22,
+        442.65,
+        363.84,
+        455.65
+      ],
+      "text": "Het Tuchthuis ziet de volgende randvoorwaarden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        465.82,
+        377.91,
+        474.32
+      ],
+      "text": "De arbeidsdeskundige moet in de rapportage onderbouwen waarom gekozen is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        467.48,
+        100.37,
+        472.98
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        476.02,
+        166.33,
+        484.52
+      ],
+      "text": "voor beeldbellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        486.22,
+        381.75,
+        494.72
+      ],
+      "text": "De klant moet een keus krijgen en de arbeidsdeskundige moet die meenemen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        487.88,
+        100.37,
+        493.38
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        496.42,
+        240.24,
+        504.92
+      ],
+      "text": "zijn afwegingen en uiteindelijke keuze.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        506.62,
+        381.36,
+        515.12
+      ],
+      "text": "De arbeidsdeskundige moet het beeldbellen tijdens de gesprekken of tijdens het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        508.28,
+        100.37,
+        513.78
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        516.82,
+        166.66,
+        525.32
+      ],
+      "text": "traject evalueren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        527.02,
+        341.4,
+        535.52
+      ],
+      "text": "De arbeidsdeskundige mag enkel beeldbellen via beveiligde kanalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        528.68,
+        100.37,
+        534.18
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        537.22,
+        376.11,
+        545.72
+      ],
+      "text": "De arbeidsdeskundige moet de gespreksverslagen laten checken door de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        538.88,
+        100.37,
+        544.38
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        547.42,
+        383.33,
+        555.92
+      ],
+      "text": "De arbeidsdeskundige moet borgen dat het contact uitvoerig genoeg is om even-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        96.22,
+        549.08,
+        100.37,
+        554.58
+      ],
+      "text": "■",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.56,
+        557.62,
+        257.97,
+        566.12
+      ],
+      "text": "tuele nadelen van beeldbellen op te vangen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        157.61,
+        28.97,
+        245.82,
+        43.09
+      ],
+      "text": "AAN DE SLAG!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        66.71,
+        367.09,
+        75.21
+      ],
+      "text": "Op basis van de uitkomsten van dit onderzoek stelt de NvvA samen met de SRA het standpunt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        76.91,
+        374.73,
+        85.41
+      ],
+      "text": "en het beleid vast ten aanzien van beeldbellen als contactvorm in arbeidsdeskundige werkzaam-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        87.11,
+        147.48,
+        95.61
+      ],
+      "text": "heden. Wat in ieder geval geldt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        242.94,
+        171.42,
+        251.44
+      ],
+      "text": "Het is van belang dat autonomie van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        240.2,
+        242.95,
+        371.33,
+        251.45
+      ],
+      "text": "Een arbeidsdeskundige maakt voor elk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        253.14,
+        151.64,
+        261.64
+      ],
+      "text": "professional gerespecteerd wordt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        240.2,
+        253.15,
+        371.72,
+        261.65
+      ],
+      "text": "klantcontact een zorgvuldige afweging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        240.2,
+        263.35,
+        373.1,
+        271.85
+      ],
+      "text": "in samen spraak met de klant om tot de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        240.2,
+        273.55,
+        371.48,
+        282.05
+      ],
+      "text": "keuze te komen om beeldbellen al dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        240.2,
+        283.75,
+        295.97,
+        292.25
+      ],
+      "text": "niet in te zetten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        298.78,
+        209.42,
+        307.28
+      ],
+      "text": "Sta als arbeidsdeskundige open voor beeldbellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        236.82,
+        456.41,
+        380.96,
+        464.91
+      ],
+      "text": "Een deel van de arbeidsdeskundigen heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        457.12,
+        169.57,
+        465.62
+      ],
+      "text": "Er is een potentiële discrepantie tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        236.82,
+        466.61,
+        330.5,
+        475.11
+      ],
+      "text": "mogelijk ‘koudwatervrees’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        467.32,
+        170.92,
+        475.82
+      ],
+      "text": "wensen en behoeften van klanten ener-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        477.52,
+        173.73,
+        486.02
+      ],
+      "text": "zijds en behoeften van arbeidsdeskundi-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        487.72,
+        173.77,
+        496.22
+      ],
+      "text": "gen anderzijds. Voor sommige klanten is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        497.92,
+        171.41,
+        506.42
+      ],
+      "text": "het makkelijker en toegankelijker om te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        36.0,
+        508.12,
+        79.33,
+        516.62
+      ],
+      "text": "beeldbellen..",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        95.85,
+        546.61,
+        163.28,
+        555.11
+      ],
+      "text": "MEER INFORMATIE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        233.6,
+        556.24,
+        377.81,
+        564.74
+      ],
+      "text": "Heeft u vragen? Neem dan contact op met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        95.85,
+        556.61,
+        194.85,
+        565.11
+      ],
+      "text": "Meer informatie is te vinden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        233.6,
+        566.24,
+        346.31,
+        574.74
+      ],
+      "text": "AKC: akc@arbeidsdeskundigen.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        95.85,
+        566.6,
+        172.12,
+        575.1
+      ],
+      "text": "Cahier 28: Beeldbellen",
+      "source": "text"
+    }
+  ]
+}

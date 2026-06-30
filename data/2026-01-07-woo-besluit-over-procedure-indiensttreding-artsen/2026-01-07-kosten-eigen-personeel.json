@@ -1,0 +1,101 @@
+{
+  "source_id": "2026-01-07-woo-besluit-over-procedure-indiensttreding-artsen/2026-01-07-kosten-eigen-personeel",
+  "publication_slug": "2026-01-07-woo-besluit-over-procedure-indiensttreding-artsen",
+  "pdf_slug": "2026-01-07-kosten-eigen-personeel",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-procedure-indiensttreding-artsen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/9b4fa7bc-d017-4a3e-aece-cc1101c6e0de/kosten-eigen-personeel.pdf",
+  "publication_title": "Woo-besluit over procedure indiensttreding artsen",
+  "publication_date": "2026-01-07T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Kosten eigen personeel (PDF, 33 kB)",
+  "retrieved_at": "2026-06-30T12:08:38+00:00",
+  "sha256": "5fa88cfcc1ff6e37562d3b7b5c2e4672746a78d1aa2766b7d82596c665c2717b",
+  "page_count": 1,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        152.0,
+        10.01,
+        175.14,
+        18.01
+      ],
+      "text": "aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        50.0,
+        10.01,
+        120.59,
+        19.01
+      ],
+      "text": "werkgeverslasten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        131.0,
+        12.01,
+        144.5,
+        20.01
+      ],
+      "text": "gem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        171.0,
+        25.01,
+        177.67,
+        32.01
+      ],
+      "text": "71",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        2.0,
+        25.01,
+        120.64,
+        33.01
+      ],
+      "text": "B&B 10.875.000",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        2.0,
+        39.01,
+        177.0,
+        47.01
+      ],
+      "text": "SMZ 87.335.000 648",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        2.0,
+        53.01,
+        177.0,
+        61.01
+      ],
+      "text": "totaal 98.210.000 719",
+      "source": "text"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "source_id": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs/2025-09-02-ubsmz-2304-006-smz-release-2023-04-geanonimiseerd",
+  "publication_slug": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_slug": "2025-09-02-ubsmz-2304-006-smz-release-2023-04-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0d4eb628-4dd2-4c93-8240-02fab1ea052c/ubsmz-2304-006-smz-release-2023-04-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over rapporten en onderzoeken over het Claimbeoordelings- en Borgingssysteem (CBBS)",
+  "publication_date": "2025-09-02T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "UBSMZ 2304-006 - SMZ Release 2023-04 (PDF, 231 kB)",
+  "retrieved_at": "2026-06-30T12:29:43+00:00",
+  "sha256": "c95c7b97d68b3b2781295a638a67e47c0721073f1220f2de63864774a5a553d4",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        386.0,
+        49.01,
+        437.56,
+        57.01
+      ],
+      "text": "Publicatiedatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        385.0,
+        58.01,
+        428.64,
+        67.01
+      ],
+      "text": "21-04-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        386.0,
+        81.01,
+        440.75,
+        89.01
+      ],
+      "text": "Geldig tot met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        127.0,
+        81.01,
+        235.95,
+        93.01
+      ],
+      "text": "Uitvoeringsbericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        421.0,
+        82.01,
+        427.0,
+        89.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        458.0,
+        102.01,
+        507.8,
+        110.01
+      ],
+      "text": "Behandeld door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        47.0,
+        108.01,
+        96.21,
+        116.01
+      ],
+      "text": "Berichtnummer",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        47.0,
+        119.01,
+        120.11,
+        128.01
+      ],
+      "text": "UBSMZ 2304-006",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        483.0,
+        159.01,
+        507.89,
+        167.01
+      ],
+      "text": "Afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        47.0,
+        173.01,
+        56.75,
+        181.01
+      ],
+      "text": "Aan",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        385.0,
+        183.01,
+        411.5,
+        192.01
+      ],
+      "text": "IM SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        47.0,
+        184.01,
+        340.59,
+        193.01
+      ],
+      "text": "Districtsmanager SMZ Manager SMZ (landelijk) adviseur VA (landelijk)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        136.0,
+        189.0,
+        298.5,
+        193.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        48.0,
+        195.01,
+        178.0,
+        204.01
+      ],
+      "text": "adviseur AD (staf) PB VA AD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        157.0,
+        196.01,
+        163.67,
+        204.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        96.0,
+        200.0,
+        138.5,
+        204.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        47.0,
+        227.01,
+        73.25,
+        235.01
+      ],
+      "text": "Bestemd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        78.0,
+        228.01,
+        90.0,
+        235.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        386.0,
+        234.01,
+        460.5,
+        242.01
+      ],
+      "text": "Intranetpagina UB SMZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        47.0,
+        238.01,
+        103.75,
+        247.01
+      ],
+      "text": "VA AD ADA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        78.0,
+        240.01,
+        84.67,
+        248.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        386.0,
+        242.01,
+        485.5,
+        251.01
+      ],
+      "text": "Uitvoeringsberichten SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        58.0,
+        243.0,
+        59.5,
+        247.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        47.0,
+        276.01,
+        59.5,
+        284.01
+      ],
+      "text": "Titel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        47.0,
+        291.01,
+        166.25,
+        300.01
+      ],
+      "text": "CBBS: SMZ release 2023-04",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        41.0,
+        347.01,
+        97.0,
+        357.01
+      ],
+      "text": "Beste collega",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        101.0,
+        352.0,
+        103.0,
+        357.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        41.0,
+        359.01,
+        476.67,
+        370.01
+      ],
+      "text": "Op 26-04-2023 wordt release 13. 1 CBBS in productie Een overzicht de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        212.0,
+        361.01,
+        460.5,
+        370.01
+      ],
+      "text": "van genomen. van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        42.0,
+        371.01,
+        471.87,
+        382.01
+      ],
+      "text": "wijzigingen beschrijving de inhoud vind je in het Releasebericht Release",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        410.0,
+        372.01,
+        519.11,
+        383.01
+      ],
+      "text": "SMZ 2023-04.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        99.0,
+        373.01,
+        209.5,
+        382.01
+      ],
+      "text": "en een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        61.0,
+        411.01,
+        109.92,
+        421.01
+      ],
+      "text": "vriendelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        41.0,
+        412.01,
+        136.0,
+        422.01
+      ],
+      "text": "Met groet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        140.0,
+        417.0,
+        142.0,
+        422.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        41.0,
+        431.01,
+        69.0,
+        441.01
+      ],
+      "text": "IV SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        42.0,
+        464.01,
+        202.62,
+        474.01
+      ],
+      "text": "Bijlage: Releasebericht Release",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        149.0,
+        465.01,
+        244.12,
+        475.01
+      ],
+      "text": "SMZ 2023-04",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        41.0,
+        73.01,
+        375.5,
+        84.01
+      ],
+      "text": "nieuws SMZ-systemen vind je de site de Servicedesk IV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.0,
+        75.01,
+        279.5,
+        84.01
+      ],
+      "text": "over op van",
+      "source": "text"
+    }
+  ]
+}

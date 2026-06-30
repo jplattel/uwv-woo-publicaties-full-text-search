@@ -1,0 +1,5945 @@
+{
+  "source_id": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen/2026-01-04-bepalen-inkomsten-wwz-met-gina-handboek-omgeving-uwv",
+  "publication_slug": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_slug": "2026-01-04-bepalen-inkomsten-wwz-met-gina-handboek-omgeving-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/24dba204-1382-4436-9513-5e0b182a2e05/bepalen-inkomsten-wwz-met-gina---handboek-omgeving---uwv.pdf",
+  "publication_title": "Woo-besluit beleidsrichtlijnen samenloop van uitkeringen",
+  "publication_date": "2026-01-04T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bepalen inkomsten WWZ met GINA - Handboek omgeving - UWV (PDF, 457 kB)",
+  "retrieved_at": "2026-06-30T12:09:04+00:00",
+  "sha256": "ba4d611183bba602df5c088ee13bc6a095601d4f57c71b1631bdc5642a4eb118",
+  "page_count": 9,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        551.16,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UD » Afhandelen inkomstenkorting GINA » Bepalen inkomsten WWZ met GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        185.25,
+        258.18,
+        195.0
+      ],
+      "text": "Doorzoek handboek Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        213.75,
+        776.99,
+        223.5
+      ],
+      "text": "Toon meer velden Wis filters",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        354.0,
+        316.73,
+        379.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        407.25,
+        397.17,
+        428.25
+      ],
+      "text": "Bepalen inkomsten WWZ met GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        458.43,
+        718.96,
+        469.68
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        476.25,
+        213.74,
+        487.5
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        496.5,
+        692.86,
+        507.75
+      ],
+      "text": "Voor een zieke werkloze wordt de maandsystematiek toegepast. De inkomsten worden via GINA aangeleverd aan UZS. GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        516.0,
+        691.97,
+        527.25
+      ],
+      "text": "heeft de inkomsten verwerkt tot ‘Te verrekenen inkomsten ZW’ en ‘Te verrekenen inkomsten TW-ZW’. De inkomsten die GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        535.5,
+        315.7,
+        546.75
+      ],
+      "text": "heeft berekend, moeten verwerkt worden in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        567.0,
+        537.47,
+        578.25
+      ],
+      "text": "Wie Uitkeringsdeskundige (UD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        587.25,
+        507.49,
+        598.5
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        607.5,
+        713.62,
+        618.75
+      ],
+      "text": "Samenvatting Je berekent de inkomsten die vanuit GINA zijn ontvangen naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        404.48,
+        627.0,
+        571.05,
+        638.25
+      ],
+      "text": "een gemiddeld inkomstenbedrag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        647.25,
+        100.28,
+        658.5
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        667.5,
+        555.98,
+        678.75
+      ],
+      "text": "Intern Uitgevallen filterregels in GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        687.75,
+        208.09,
+        699.0
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        708.0,
+        140.98,
+        719.25
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        728.25,
+        136.43,
+        739.5
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        748.5,
+        106.31,
+        759.75
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        31.5,
+        709.18,
+        42.75
+      ],
+      "text": "In de meeste gevallen berekent UZS automatisch de inkomsten of uren om in een gemiddeld inkomstenbedrag per dag. Als UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        51.0,
+        704.38,
+        62.25
+      ],
+      "text": "de inkomsten niet zelf kan berekenen, staat de inkomstenregel in het scherm ‘Beheren inkomsten WWZ’ op ‘open’. Aan de hand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        70.5,
+        667.5,
+        81.75
+      ],
+      "text": "van de uitgevallen filterregels bereken je met deze werkinstructie de inkomsten die vanuit GINA zijn ontvangen naar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        90.0,
+        705.22,
+        101.25
+      ],
+      "text": "gemiddeld inkomstenbedrag per dag dat gekort moet worden op de ZW-uitkering of bepalend is voor de hoogte van de toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        120.75,
+        465.25,
+        141.75
+      ],
+      "text": "Proces inkomsten doorgeven vanuit GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        156.75,
+        712.84,
+        168.0
+      ],
+      "text": "GINA berekent met de gegevens uit een Inkomstenopgave een bedrag of een aantal uren bij ‘Te verrekenen inkomsten ZW’ en ‘Te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        176.25,
+        709.64,
+        187.5
+      ],
+      "text": "verrekenen inkomsten TW-ZW’. Deze 2 inkomsten vindt je ook terug in GINA onder het kopje ‘Selecteren inkomstenopgaveregel’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        195.75,
+        672.59,
+        207.0
+      ],
+      "text": "Elke soort inkomsten wordt aan de hand van een bijbehorende categorie door GINA aan UZS doorgegeven. Je vindt deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        215.25,
+        718.23,
+        226.5
+      ],
+      "text": "categorie ook terug in het scherm ‘Beheren inkomsten WWZ’. Als er in GINA meerdere inkomstenbronnen tegelijk bekend zijn, dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        234.75,
+        707.36,
+        246.0
+      ],
+      "text": "berekent GINA per inkomstenbron het bedrag of aantal uren. Bij de levering aan UZS telt GINA de bedragen of uren bij elkaar op,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        254.25,
+        669.43,
+        265.5
+      ],
+      "text": "mits de inkomsten onder dezelfde categorie vallen. In het scherm ‘Beheren inkomsten WWZ’ zie je dus per categorie het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        273.75,
+        167.24,
+        285.0
+      ],
+      "text": "totaalbedrag/uren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        304.5,
+        702.61,
+        315.75
+      ],
+      "text": "Via de ‘categorie’ toont GINA hoe de berekende inkomsten verrekend moeten worden met de ZW-uitkering. UZS toont weer wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        324.0,
+        676.38,
+        335.25
+      ],
+      "text": "GINA heeft doorgegeven. Met de inkomsten die GINA berekend heeft, of in uitzonderingsgevallen de inkomsten die je zelf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        343.5,
+        700.9,
+        354.75
+      ],
+      "text": "berekent, bereken je een gemiddeld inkomstenbedrag per dag dat gebruikt wordt om de juiste korting op de ZW-uitkering of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        363.0,
+        272.25,
+        374.25
+      ],
+      "text": "juiste hoogte van de toeslag te bepalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        393.75,
+        715.54,
+        405.0
+      ],
+      "text": "UZS berekent in de meeste gevallen automatisch de inkomsten of uren om in een berekend gemiddeld inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        413.25,
+        681.33,
+        424.5
+      ],
+      "text": "Als UZS de inkomsten niet zelf kan berekenen, staat de inkomstenregel in het scherm ‘Beheren inkomsten WWZ’ op ‘open’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        444.0,
+        481.84,
+        465.0
+      ],
+      "text": "Besluit Arbeidsvoorwaardenbedrag (AVWB)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        480.75,
+        635.59,
+        492.0
+      ],
+      "text": "Sinds 1 juli 2021 is de manier gewijzigd waarop je de vakantietoeslag verrekent met de uitkering WW en ZWW. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        500.25,
+        705.21,
+        511.5
+      ],
+      "text": "inkomstenverrekening neem je de daadwerkelijke betalingen van AVWB en de betalingen van VT mee in de berekening in plaats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        519.75,
+        686.06,
+        531.0
+      ],
+      "text": "van de opgebouwde AVWB en VT. GINA geeft de juiste bedragen door aan UZS. Je verwerkt de inkomsten vervolgens op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        539.25,
+        177.09,
+        550.5
+      ],
+      "text": "huidige wijze in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        570.0,
+        675.26,
+        581.25
+      ],
+      "text": "Voor de inkomstenverrekening bij TW voor zieke werklozen neem je alleen het betaalde AVWB (o.a. EPS/IKB) mee. Als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        589.5,
+        691.37,
+        600.75
+      ],
+      "text": "betaalde VT in het betaalde AVWB is opgenomen, pas je de breuk 100/108 toe op het sv-loon inclusief betaalde AVWB. Dit is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        609.0,
+        713.46,
+        620.25
+      ],
+      "text": "zichtbaar in Suwinet als alleen de AVWB-rubrieken zijn gevuld, terwijl de VT-rubrieken leeg zijn. Deze breuk pas je ook toe bij all-in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        628.5,
+        710.95,
+        639.75
+      ],
+      "text": "verloning en bij de zelfstandige en/of overige NVZP-inkomsten (zie hiervoor de wetsuitleg TW Vakantietoeslag). GINA houdt hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        648.0,
+        353.24,
+        659.25
+      ],
+      "text": "rekening mee en geeft de juiste bedragen door aan UZS.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        679.5,
+        236.15,
+        698.25
+      ],
+      "text": "Overgangsbepaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        712.5,
+        679.26,
+        723.75
+      ],
+      "text": "Het kan voorkomen dat je na 1 juli 2021 het verzoek krijgt van de cliënt om dubbel gekorte vakantietoeslag te herzien. Een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        732.0,
+        607.59,
+        743.25
+      ],
+      "text": "uitgebreide uitleg over dit onderwerp vind je in de wetsuitleg ZW Wat is inkomen bij vakantietoeslag (VT) en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        751.5,
+        358.25,
+        762.75
+      ],
+      "text": "arbeidsvoorwaardenbedrag (AVWB) voor ZWW-uitkering?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        771.0,
+        691.78,
+        782.25
+      ],
+      "text": "Deze herziening voer je uit in GINA. Op basis van de wetsuitleg bereken je opnieuw het sv-loon en registreer je het berekende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        790.5,
+        670.04,
+        801.75
+      ],
+      "text": "bedrag in het scherm ‘Onderhouden inkomstenopgaven’ bij ‘Loon’ onder ‘Medewerker’. In het veld <Motivatie beslissing>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        810.0,
+        470.43,
+        821.25
+      ],
+      "text": "registreer je de reden van wijziging. Daarna klik je op “Opslaan” en “Afhandelen”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        829.5,
+        704.19,
+        840.75
+      ],
+      "text": "Nadat je de wijziging in GINA hebt verwerkt, ontvang je signaal UZZ0525 Verwerken gecorrigeerde inkomsten opgave GINA. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        849.0,
+        304.05,
+        860.25
+      ],
+      "text": "signaal handel je af volgens de werkinstructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        879.75,
+        370.62,
+        900.75
+      ],
+      "text": "Afhandelen bijzondere situaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        915.75,
+        708.58,
+        927.0
+      ],
+      "text": "Voor de berekening van het inkomstenbedrag per dag kan het om 1 of meer van de volgende situaties gaan. Je beoordeelt of en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        935.25,
+        500.03,
+        946.5
+      ],
+      "text": "om welke situatie het gaat om en handelt die af met de daarvoor bestemde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        962.25,
+        82.57,
+        980.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        966.0,
+        173.72,
+        977.25
+      ],
+      "text": "Stage-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        981.75,
+        82.57,
+        999.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        985.5,
+        279.31,
+        996.75
+      ],
+      "text": "Samenloop met een ander ziektegeval",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1001.25,
+        82.57,
+        1019.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1005.0,
+        512.7,
+        1016.25
+      ],
+      "text": "Samenloop met een AW-uitkering en de AW-uitkering wordt aan werkgever uitgekeerd",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1020.75,
+        82.57,
+        1038.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1024.5,
+        434.59,
+        1035.75
+      ],
+      "text": "Eerste WW-dag ligt in dezelfde maand als de eerste ZW-uitkeringsdag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1040.25,
+        82.57,
+        1058.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1044.0,
+        202.06,
+        1055.25
+      ],
+      "text": "Startende zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1059.75,
+        82.57,
+        1077.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1063.5,
+        285.26,
+        1074.75
+      ],
+      "text": "Zelfstandige of NVZP-arbeid bij toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1098.0,
+        534.72,
+        1109.25
+      ],
+      "text": "Als er geen bijzondere situatie is, ga je verder met Berekenen naar inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        27.75,
+        217.34,
+        46.5
+      ],
+      "text": "Stage-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        60.75,
+        239.29,
+        72.0
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        87.75,
+        82.57,
+        105.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        91.5,
+        645.55,
+        102.75
+      ],
+      "text": "Beoordeel in het scherm Beheren inkomsten WWZ of er inkomsten zijn onder categorie 82 ‘Inkomen ivm arbeid’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        107.25,
+        82.57,
+        125.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        111.0,
+        469.14,
+        122.25
+      ],
+      "text": "Beoordeel aan de hand van de informatie in GINA of er stage-inkomsten zijn:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        126.75,
+        97.57,
+        144.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        130.5,
+        411.11,
+        141.75
+      ],
+      "text": "Selecteer in GINA de inkomstenopgave over de juiste periode.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        146.25,
+        97.57,
+        164.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        150.0,
+        396.42,
+        161.25
+      ],
+      "text": "Klik onderaan het scherm op de knop “Inkomstenbronnen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        165.75,
+        97.57,
+        183.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        169.5,
+        706.89,
+        180.75
+      ],
+      "text": "Selecteer de juiste inkomstenbron: staat er in het veld <Soort> ‘Werkzaamheden als stagiair’, dan zijn er stage-inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        185.25,
+        82.57,
+        203.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        189.0,
+        481.25,
+        200.25
+      ],
+      "text": "Controleer of de eerste uitkeringsdag van de Ziektewet voor 1 januari 2019 ligt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        204.75,
+        97.57,
+        222.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        208.5,
+        712.89,
+        219.75
+      ],
+      "text": "Zo ja: de stage-inkomsten worden niet gekort op de ZW-uitkering. Je controleert of er nog andere inkomsten met categorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        228.0,
+        254.77,
+        239.25
+      ],
+      "text": "82 ‘Inkomsten ivm arbeid’ zijn:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        106.5,
+        243.75,
+        112.57,
+        261.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.25,
+        247.5,
+        687.47,
+        258.75
+      ],
+      "text": "Geen andere inkomsten: vul in het scherm ‘Beheren inkomsten WWZ’ in het veld <Bedrag/periode> bij de soort ‘ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.25,
+        267.0,
+        253.17,
+        278.25
+      ],
+      "text": "Inkomsten ivm arbeid’ 0 in.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        106.5,
+        282.75,
+        112.57,
+        300.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.25,
+        286.5,
+        718.36,
+        297.75
+      ],
+      "text": "Wel andere inkomsten: verminder het bedrag in het veld <Bedrag/periode> bij de soort ‘ZW Inkomsten ivm arbeid’ met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.25,
+        306.0,
+        205.81,
+        317.25
+      ],
+      "text": "stage-inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        321.75,
+        97.57,
+        339.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        325.5,
+        527.31,
+        336.75
+      ],
+      "text": "Zo nee: er geen actie nodig. Je kort het bedrag dat GINA aan UZS heeft doorgegeven.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        357.0,
+        358.42,
+        375.75
+      ],
+      "text": "Samenloop met ander ziektegeval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        390.0,
+        290.74,
+        401.25
+      ],
+      "text": "Er is samenloop met een ander ziektegeval.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        409.5,
+        215.93,
+        420.75
+      ],
+      "text": "Er zijn de volgende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        436.5,
+        82.57,
+        454.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        440.25,
+        370.67,
+        451.5
+      ],
+      "text": "Samenloop met een ziektegeval in UZS (vangnetsituatie)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        456.0,
+        82.57,
+        474.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        459.75,
+        452.88,
+        471.0
+      ],
+      "text": "Samenloop met een ziektegeval met loondoorbetaling door de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        475.5,
+        82.57,
+        493.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        479.25,
+        560.56,
+        490.5
+      ],
+      "text": "Combinatie van samenloop met een ziektegeval in UZS en loondoorbetaling door de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        510.75,
+        424.84,
+        525.75
+      ],
+      "text": "Samenloop met ziektegeval in UZS (vangnetsituatie)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        539.25,
+        239.29,
+        550.5
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        566.25,
+        82.57,
+        584.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        570.0,
+        646.03,
+        581.25
+      ],
+      "text": "Gebruik het dagloon dat is vastgesteld op de eerste ziektedag zonder indexering. Raadpleeg hiervoor DMO of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        589.5,
+        245.0,
+        600.75
+      ],
+      "text": "dagloonberekening in EA (ICN).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        605.25,
+        82.57,
+        623.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        609.0,
+        710.32,
+        620.25
+      ],
+      "text": "Klik in het scherm Beheren inkomsten WWZ op de knop “Aanvullende gegevens”. Het scherm ‘Beheren aanvullende gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        628.5,
+        152.31,
+        639.75
+      ],
+      "text": "WWZ’ opent:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        644.25,
+        97.57,
+        662.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        648.0,
+        388.31,
+        659.25
+      ],
+      "text": "Registreer het dagloon in het veld <Dagloon samenloop>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        663.75,
+        97.57,
+        681.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        667.5,
+        568.61,
+        678.75
+      ],
+      "text": "Registreer in het veld <Datum begin geldigheid> de eerste ziektedag van het samenloopgeval.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        683.25,
+        97.57,
+        701.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        687.0,
+        538.29,
+        698.25
+      ],
+      "text": "Is er een einddatum bekend? Dan registreer je die in het veld <Datum einde geldigheid>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        702.75,
+        97.57,
+        720.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        706.5,
+        234.78,
+        717.75
+      ],
+      "text": "Klik op de knop “Opslaan”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        722.25,
+        82.57,
+        740.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        726.0,
+        351.74,
+        737.25
+      ],
+      "text": "Ga terug naar het scherm ‘Beheren inkomsten WWZ’:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        741.75,
+        97.57,
+        759.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        745.5,
+        587.6,
+        756.75
+      ],
+      "text": "Maak in het blok “Inkomstenbedrag WWZ” een nieuwe regel aan met de <Soort> ‘ZW Samenloop’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        761.25,
+        97.57,
+        779.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        765.0,
+        511.55,
+        776.25
+      ],
+      "text": "Bereken het bedrag door het ‘Dagloon samenloop’ met 21,75 te vermenigvuldigen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        780.75,
+        97.57,
+        798.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        784.5,
+        365.61,
+        795.75
+      ],
+      "text": "Registreer de uitkomst in het veld <Bedrag/periode>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        800.25,
+        97.57,
+        818.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        804.0,
+        707.87,
+        815.25
+      ],
+      "text": "Registreer de eerste kalenderdag van de maand in het veld <Datum begin> en de laatste kalenderdag van de maand in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        823.5,
+        205.3,
+        834.75
+      ],
+      "text": "veld <Datum einde>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        839.25,
+        82.57,
+        857.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        843.0,
+        684.05,
+        854.25
+      ],
+      "text": "Ga naar ‘Correspondentie bij geval’ en verstuur brief SET12K248 ‘Korting ZW-uitkering op WWZ-uitkering’ naar de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        877.5,
+        123.86,
+        888.75
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        897.0,
+        716.61,
+        908.25
+      ],
+      "text": "1: Als de <Datum begin geldigheid> in het scherm ‘Beheren aanvullende gegevens WWZ’ is gevuld met een datum na de eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        916.5,
+        496.78,
+        927.75
+      ],
+      "text": "kalenderdag van de maand, dan registreer je die datum in het veld <Datum begin>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        936.0,
+        704.95,
+        947.25
+      ],
+      "text": "2: Bij een ziekmelding van een vrijwillig verzekerde beoordeel je of de ziekte is ontstaan vanuit zelfstandige werkzaamheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        955.5,
+        707.37,
+        966.75
+      ],
+      "text": "die al op het geval gekort zijn via fictieve inkomsten. Alleen als er al zelfstandige werkzaamheden werden gekort en de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        975.0,
+        715.02,
+        986.25
+      ],
+      "text": "vanuit die situatie een ZW-uitkering als vrijwillig verzekerde heeft, blijf je de fictieve inkomsten van het tijdvak voorafgaand aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        994.5,
+        676.33,
+        1005.75
+      ],
+      "text": "de ingangsdatum van de ZW-uitkering korten. Je beëindigt de korting van de fictieve inkomsten en vanaf datum eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1014.0,
+        436.53,
+        1025.25
+      ],
+      "text": "ziektedag van de vrijwillig verzekerde kort je het ‘Dagloon samenloop’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1045.5,
+        514.71,
+        1060.5
+      ],
+      "text": "Samenloop met ziektegeval met loondoorbetaling door werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1074.0,
+        712.05,
+        1085.25
+      ],
+      "text": "Deze situatie staat ook wel bekend als loon bij CII. Het kan ook zijn dat de werkgever niet doorgeeft dat er loon bij CII is of dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1093.5,
+        695.64,
+        1104.75
+      ],
+      "text": "cliënt zelf Ziektewet-inkomsten doorgeeft bij zijn inkomstenopgave terwijl de werkgever nog geen loonaangifte heeft gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1113.0,
+        669.8,
+        1124.25
+      ],
+      "text": "Daarom bereken je ook bij loondoorbetaling zo snel mogelijk een ‘Dagloon samenloop’. Je klikt op de knop “Aanvullende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1132.5,
+        387.56,
+        1143.75
+      ],
+      "text": "gegevens” en controleert of het ‘Dagloon samenloop’ is gevuld:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        27.0,
+        82.57,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        30.75,
+        700.08,
+        42.0
+      ],
+      "text": "Het ‘Dagloon samenloop’ is niet gevuld: ga verder met de informatie bij uitvalsignaal 2.07 van de werkinstructie Afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        50.25,
+        701.13,
+        61.5
+      ],
+      "text": "uitvalsignalen GINA. Na de registratie van het samenloopbedrag ga je verder met de onderstaande instructie. Als in GINA in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        69.75,
+        601.59,
+        81.0
+      ],
+      "text": "het scherm ‘Onderhouden inkomstenopgave’ bij CII nog geen ‘Z’ staat, zet je de indicatie ‘Ziekte’ op ‘JA’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        85.5,
+        82.57,
+        103.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        89.25,
+        264.09,
+        100.5
+      ],
+      "text": "Het ‘Dagloon samenloop’ is gevuld:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        105.0,
+        97.57,
+        123.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        108.75,
+        366.98,
+        120.0
+      ],
+      "text": "Ga terug naar het scherm ‘Beheren inkomsten WWZ’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        124.5,
+        97.57,
+        142.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        128.25,
+        694.86,
+        139.5
+      ],
+      "text": "Controleer of er in het blok “Inkomstenbedrag WWZ” een regel met ‘ZW Samenloop’ aanwezig is en op ‘berekend’ staat:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        106.5,
+        144.0,
+        112.57,
+        162.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        119.25,
+        147.75,
+        709.12,
+        159.0
+      ],
+      "text": "Geen regel met ‘ZW Samenloop’ aanwezig: maak deze regel aan. Je berekent het bedrag door het ‘Dagloon samenloop’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        119.25,
+        167.25,
+        715.97,
+        178.5
+      ],
+      "text": "met 21,75 te vermenigvuldigen. De uitkomst registreer je in het veld <Bedrag/periode>. Registreer de eerste kalenderdag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        119.25,
+        186.75,
+        659.61,
+        198.0
+      ],
+      "text": "van de maand in het veld <Datum begin> en de laatste kalenderdag van de maand in het veld <Datum einde>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        106.5,
+        202.5,
+        112.57,
+        220.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        119.25,
+        206.25,
+        717.33,
+        217.5
+      ],
+      "text": "Wel regel met ‘ZW Samenloop’ aanwezig en er is ook een regel met ‘ZW Inkomsten uit arbeid incl. VT’: controleer of deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        119.25,
+        225.75,
+        663.67,
+        237.0
+      ],
+      "text": "inkomsten de loondoorbetaling van de werkgever zijn. Zo ja, dan vul je in het veld <Bedrag/periode> 0 in (deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        119.25,
+        245.25,
+        458.77,
+        256.5
+      ],
+      "text": "inkomsten heb je namelijk vervangen met de regel ‘ZW Samenloop’).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        276.75,
+        631.84,
+        291.75
+      ],
+      "text": "Combinatie samenloop met ziektegeval in UZS en loondoorbetaling door werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        305.25,
+        257.55,
+        316.5
+      ],
+      "text": "Er is een combinatie van samenloop.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        324.75,
+        239.29,
+        336.0
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        351.75,
+        82.57,
+        369.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        355.5,
+        707.29,
+        366.75
+      ],
+      "text": "Bereken eerst het ‘Dagloon samenloop’ aan de hand van de wetsuitleg ZW Samenloop ziekengeld zieke werkloze werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        375.0,
+        172.72,
+        386.25
+      ],
+      "text": "(ZWW-uitkering).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        390.75,
+        82.57,
+        408.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        394.5,
+        710.32,
+        405.75
+      ],
+      "text": "Klik in het scherm Beheren inkomsten WWZ op de knop “Aanvullende gegevens”. Het scherm ‘Beheren aanvullende gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        414.0,
+        152.55,
+        425.25
+      ],
+      "text": "WWZ’ opent.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        429.75,
+        97.57,
+        447.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        433.5,
+        388.31,
+        444.75
+      ],
+      "text": "Registreer het dagloon in het veld <Dagloon samenloop>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        449.25,
+        97.57,
+        467.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        453.0,
+        568.61,
+        464.25
+      ],
+      "text": "Registreer in het veld <Datum begin geldigheid> de eerste ziektedag van het samenloopgeval.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        468.75,
+        97.57,
+        486.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        472.5,
+        538.29,
+        483.75
+      ],
+      "text": "Is er een einddatum bekend? Dan registreer je die in het veld <Datum einde geldigheid>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        488.25,
+        97.57,
+        506.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        492.0,
+        234.78,
+        503.25
+      ],
+      "text": "Klik op de knop “Opslaan”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        507.75,
+        82.57,
+        525.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        511.5,
+        351.98,
+        522.75
+      ],
+      "text": "Ga terug naar het scherm ‘Beheren inkomsten WWZ’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        527.25,
+        82.57,
+        545.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        531.0,
+        679.86,
+        542.25
+      ],
+      "text": "Controleer of er in het blok “Inkomstenbedrag WWZ” een regel met ‘ZW Samenloop’ aanwezig is en op ‘berekend’ staat:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        546.75,
+        97.57,
+        564.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        550.5,
+        716.42,
+        561.75
+      ],
+      "text": "Geen regel met ‘ZW Samenloop’ aanwezig: maak deze regel aan. Je berekent het bedrag door het ‘Dagloon samenloop’ met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        570.0,
+        714.26,
+        581.25
+      ],
+      "text": "21,75 te vermenigvuldigen. De uitkomst registreer je in het veld <Bedrag/periode>. Registreer de eerste kalenderdag van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        589.5,
+        609.02,
+        600.75
+      ],
+      "text": "maand in het veld <Datum begin> en de laatste kalenderdag van de maand in het veld <Datum einde>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        605.25,
+        97.57,
+        623.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        609.0,
+        702.33,
+        620.25
+      ],
+      "text": "Wel regel met ‘ZW Samenloop’ aanwezig en er is ook een regel met ‘ZW Inkomsten uit arbeid incl. VT’: controleer of deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        628.5,
+        704.05,
+        639.75
+      ],
+      "text": "inkomsten de loondoorbetaling van de werkgever zijn. Zo ja, dan vul je in het veld <Bedrag/periode> 0 in (deze inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        648.0,
+        388.38,
+        659.25
+      ],
+      "text": "heb je namelijk vervangen met de regel ‘ZW Samenloop’).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        679.5,
+        524.59,
+        698.25
+      ],
+      "text": "Samenloop met AW-uitkering met werkgeversbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        712.5,
+        515.76,
+        723.75
+      ],
+      "text": "Er is samenloop met een AW-uitkering en deze uitkering wordt aan de werkgever betaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        743.25,
+        681.93,
+        754.5
+      ],
+      "text": "Je hebt van de WW gehoord dat de AW-uitkering aan de werkgever wordt betaald. Dan kan het bedrag van die AW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        762.75,
+        315.12,
+        774.0
+      ],
+      "text": "opgenomen zijn in het sv-loon van de werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        793.5,
+        702.69,
+        804.75
+      ],
+      "text": "Je belt de cliënt en vraagt of in de inkomsten die zijn opgehaald uit Polis of die door de cliënt zijn doorgegeven, ook het bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        813.0,
+        253.46,
+        824.25
+      ],
+      "text": "van de WIA-uitkering is opgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        843.75,
+        360.35,
+        855.0
+      ],
+      "text": "Er is geen WAO/WIA-uitkering in het sv-loon opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        870.75,
+        82.57,
+        888.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        874.5,
+        699.07,
+        885.75
+      ],
+      "text": "Registreer in het GINA-scherm ‘Onderhouden inkomstenopgaven’ in het veld <Loon>, <Aantal uren> de inkomsten die onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        894.0,
+        274.12,
+        905.25
+      ],
+      "text": "‘Polis’ staan ook onder ‘Medewerker’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        909.75,
+        82.57,
+        927.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        913.5,
+        635.46,
+        924.75
+      ],
+      "text": "Beschrijf de reden van deze registratie in het veld <Motivatie beslissing>: ‘WAO-/WIA-uitkering niet in het loon’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        929.25,
+        82.57,
+        947.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        933.0,
+        258.77,
+        944.25
+      ],
+      "text": "Klik op “Opslaan” en “Afhandelen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        948.75,
+        82.57,
+        966.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        952.5,
+        490.14,
+        963.75
+      ],
+      "text": "Noteer je bevindingen in het UZS-scherm ‘Beheren inkomsten WWZ’ in de Memo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        987.0,
+        352.78,
+        998.25
+      ],
+      "text": "Er is wel WAO/WIA-uitkering in het sv-loon opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1014.0,
+        82.57,
+        1032.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1017.75,
+        718.39,
+        1029.0
+      ],
+      "text": "Je vraagt de cliënt naar de hoogte van het sv-loon van de WAO-/WIA-uitkeringen van de eventueel betaalde vakantietoeslag die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1037.25,
+        250.22,
+        1048.5
+      ],
+      "text": "volgens de WAO/WIA is betaald.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1053.0,
+        82.57,
+        1071.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1056.75,
+        710.04,
+        1068.0
+      ],
+      "text": "Verlaag het bedrag dat onder ‘Polis’ of ‘Klant’ bij loon staat met het bedrag van de WAO-/WIA-uitkering en met het bedrag aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1076.25,
+        217.09,
+        1087.5
+      ],
+      "text": "betaalde vakantietoeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1092.0,
+        82.57,
+        1110.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1095.75,
+        678.69,
+        1107.0
+      ],
+      "text": "Registreer het bedrag dat je hebt berekend in GINA-scherm ‘Onderhouden inkomstenopgaven’ in het veld <Loon> onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1115.25,
+        158.51,
+        1126.5
+      ],
+      "text": "‘Medewerker’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1131.0,
+        82.57,
+        1149.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1134.75,
+        660.77,
+        1146.0
+      ],
+      "text": "Beschrijf de reden van deze registratie in het veld <Motivatie beslissing>: ‘WAO-/WIA-uitkering uit het loon gehaald’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        27.0,
+        82.57,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        30.75,
+        177.24,
+        42.0
+      ],
+      "text": "Klik op “Opslaan”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        46.5,
+        82.57,
+        64.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        50.25,
+        449.01,
+        61.5
+      ],
+      "text": "Maak in UZS een herinnering aan en herhaal dit proces voor elke maand.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        66.0,
+        82.57,
+        84.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        69.75,
+        495.87,
+        81.0
+      ],
+      "text": "· Noteer je bevindingen in het UZS-scherm ‘Beheren inkomsten WWZ’ in de Memo.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        101.25,
+        684.38,
+        120.0
+      ],
+      "text": "Eerste WW-dag ligt in dezelfde maand als eerste uitkeringsdag Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        134.25,
+        718.47,
+        145.5
+      ],
+      "text": "Meestal zijn de inkomsten die GINA doorgeeft aan UZS berekende inkomsten over een volle kalendermaand, ook al heeft de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        153.75,
+        704.93,
+        165.0
+      ],
+      "text": "niet de hele maand recht op een WW- of ZW-uitkering. Een uitzondering hierop is de maand waarin de eerste WW-dag ligt. GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        173.25,
+        691.83,
+        184.5
+      ],
+      "text": "rekent het bedrag aan inkomsten uit van de eerste WW-dag tot en met het einde van de kalendermaand en geeft dit door aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        192.75,
+        445.71,
+        204.0
+      ],
+      "text": "WWO. In de werkinstructie van filterregel 117 staat hoe je hiermee omgaat.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        224.25,
+        264.21,
+        243.0
+      ],
+      "text": "Startende zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        257.25,
+        716.35,
+        268.5
+      ],
+      "text": "Als de cliënt een startende zelfstandige is, neemt GINA terecht de inkomsten niet mee voor de Ziektewet. Hierover lees je meer in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        276.75,
+        546.47,
+        288.0
+      ],
+      "text": "de wetsuitleg ZW Korting van stage-inkomsten en forfaitaire inkomsten startende zelfstandige.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        308.25,
+        471.24,
+        327.0
+      ],
+      "text": "Zelfstandige of overige NVZP-arbeid bij toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        341.25,
+        714.88,
+        352.5
+      ],
+      "text": "De cliënt of zijn partner ontvangen zelfstandige of NVZP-inkomsten. Doordat de inkomsten pas na de definitieve aanslag van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        360.75,
+        701.99,
+        372.0
+      ],
+      "text": "belastingjaar bekend zijn, stel je de hoogte van de toeslag eerst op voorschotbasis vast. Je registreert het BSN van de cliënt of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        380.25,
+        678.5,
+        391.5
+      ],
+      "text": "van zijn partner in de Zelfstandige Applicatie UWV (ZAU). Je geeft hierbij aan over welke jaren je de definitieve aanslag wil",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        399.75,
+        711.57,
+        411.0
+      ],
+      "text": "ontvangen. ZAU vraagt maandelijks de gegevens op bij de Belastingdienst en ontvangt de definitieve aanslag zodra deze bekend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        419.25,
+        526.16,
+        430.5
+      ],
+      "text": "is (meestal na 1 juli van het opvolgende jaar). Meer informatie lees je in het handboek ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        450.0,
+        678.28,
+        461.25
+      ],
+      "text": "Op basis van de inkomsten die de cliënt via GINA doorgeeft, wordt de hoogte van de toeslag op voorschot vastgesteld. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        469.5,
+        695.03,
+        480.75
+      ],
+      "text": "zelfstandige of NVZP-arbeid maak je een herinnering aan voor 1 juli van het jaar volgend op het huidige jaar om de definitieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        489.0,
+        544.18,
+        500.25
+      ],
+      "text": "aanslag op te halen uit ZAU, zodat je de definitieve inkomsten voor de toeslag kunt vaststellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        519.75,
+        691.64,
+        531.0
+      ],
+      "text": "Zolang je geen definitieve inkomsten voor de toeslag kunt vaststellen, betaal je de toeslag op voorschotbasis. Je gebruikt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        539.25,
+        715.21,
+        550.5
+      ],
+      "text": "status ‘Voorlopig’ en verstuurt eenmalig de brief SET13T060 ‘Voorschot ivm zelfstandige of NVZP-arbeid’. Let op: In deze situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        558.75,
+        494.8,
+        570.0
+      ],
+      "text": "verstuur je geen herzieningsbrief als de hoogte van het voorschot tussentijds wijzigt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        589.5,
+        711.34,
+        600.75
+      ],
+      "text": "Als je de herinnering in je werklijst ontvangt, controleer je in ZAU of de definitieve aanslag (DA) of de ambtshalve aanslag (AH) is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        609.0,
+        129.48,
+        620.25
+      ],
+      "text": "ontvangen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        639.75,
+        557.15,
+        651.0
+      ],
+      "text": "Zo ja: je gebruikt de volgende gegevens uit de aanslag om de definitieve inkomsten te berekenen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        666.75,
+        82.57,
+        684.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        670.5,
+        216.54,
+        681.75
+      ],
+      "text": "De winst uit onderneming",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        686.25,
+        82.57,
+        704.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        690.0,
+        200.85,
+        701.25
+      ],
+      "text": "De ondernemersaftrek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        705.75,
+        82.57,
+        723.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        709.5,
+        242.31,
+        720.75
+      ],
+      "text": "De MKB-winstvrijstelling, en/of",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        725.25,
+        82.57,
+        743.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        729.0,
+        276.29,
+        740.25
+      ],
+      "text": "Resultaat uit overige werkzaamheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        763.5,
+        688.7,
+        774.75
+      ],
+      "text": "Let op: Als er zowel inkomsten zijn vanuit zelfstandig werken als uit resultaat uit overige werkzaamheden, dan tel je deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        783.0,
+        687.87,
+        794.25
+      ],
+      "text": "bedragen bij elkaar op voor de onderstaande berekening. Als er alleen een bedrag ‘Resultaat uit overige werkzaamheden’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        802.5,
+        611.6,
+        813.75
+      ],
+      "text": "bekend is, gebruik je dit bedrag gedeeld door het aantal sv-dagen. Zoals hieronder in de berekening staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        833.25,
+        576.69,
+        844.5
+      ],
+      "text": "Je berekent de definitieve korting op de volgende manier (zie ook de wetsuitleg TW Vakantietoeslag):",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        860.25,
+        82.57,
+        878.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        864.0,
+        401.19,
+        875.25
+      ],
+      "text": "Bij een startdatum zelfstandig werken ná de eerste ziekte dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        883.5,
+        705.78,
+        894.75
+      ],
+      "text": "(Winst uit onderneming + Ondernemersaftrek + MKB winstvrijstelling) : het aantal gewerkte maanden in het jaar x 100/108 =",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        903.0,
+        282.38,
+        914.25
+      ],
+      "text": "definitief inkomstenbedrag per maand.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        918.75,
+        82.57,
+        936.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        922.5,
+        310.34,
+        933.75
+      ],
+      "text": "Bij een volledig jaar werken als zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        942.0,
+        714.54,
+        953.25
+      ],
+      "text": "(Winst uit onderneming + Ondernemersaftrek + MKB winstvrijstelling) : 12 x 100/108 = definitief inkomstenbedrag per maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        976.5,
+        239.29,
+        987.75
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        1003.5,
+        82.57,
+        1021.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1007.25,
+        657.91,
+        1018.5
+      ],
+      "text": "Registreer in het scherm ‘Beheren inkomsten WWZ’ het definitieve inkomstenbedrag per maand als correctie op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1026.75,
+        312.24,
+        1038.0
+      ],
+      "text": "inkomstenmaanden van het betreffende jaar.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        1042.5,
+        82.57,
+        1060.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1046.25,
+        426.5,
+        1057.5
+      ],
+      "text": "Klik per inkomstenperiode op de knop “Opslaan” en “Herberekenen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        1062.0,
+        82.57,
+        1080.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1065.75,
+        471.44,
+        1077.0
+      ],
+      "text": "Klik op de knop “Registreer Toeslag”. Het scherm ‘Registreren toeslag’ opent.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        1081.5,
+        82.57,
+        1099.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1085.25,
+        715.05,
+        1096.5
+      ],
+      "text": "Selecteer de toeslagregel over de betreffende periode en klik op de knop “Berekenen inkomsten p.d.” en daarna op “Berekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1104.75,
+        170.95,
+        1116.0
+      ],
+      "text": "hoogte toeslag”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        1120.5,
+        82.57,
+        1138.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        1124.25,
+        549.73,
+        1135.5
+      ],
+      "text": "Herhaal dit voor alle inkomstenperiodes waarvoor je de definitieve inkomsten hebt berekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        30.75,
+        675.02,
+        42.0
+      ],
+      "text": "Zodra alle toeslagregels zijn berekend, wijzig je de status in ‘definitief’. Daarna verstuur je de brief SET13T061 ‘Definitieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        50.25,
+        406.56,
+        61.5
+      ],
+      "text": "toekenning toeslag na voorschot ivm zelfstandige of NVZP-arbeid’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        81.0,
+        513.44,
+        92.25
+      ],
+      "text": "Zo nee: wijzig de datum van de herinnering naar de datum controle in ZAU + 2 maanden.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        111.75,
+        466.12,
+        132.75
+      ],
+      "text": "Berekenen naar inkomstenbedrag per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        148.5,
+        714.81,
+        159.75
+      ],
+      "text": "Als er geen bijzondere situatie is, controleer je of er een inkomstenbedrag is of gewerkte uren zijn. Je volgt de instructie die hoort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        168.0,
+        173.65,
+        179.25
+      ],
+      "text": "bij de juiste situatie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        195.0,
+        82.57,
+        213.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        198.75,
+        193.0,
+        210.0
+      ],
+      "text": "Er zijn gewerkte uren",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        214.5,
+        82.57,
+        232.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        218.25,
+        221.77,
+        229.5
+      ],
+      "text": "Er is een inkomstenbedrag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        249.75,
+        195.74,
+        268.5
+      ],
+      "text": "Gewerkte uren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        282.75,
+        706.34,
+        294.0
+      ],
+      "text": "GINA gaat uit van een berekend aantal uren bij zelfstandige of NVZP-arbeid. Geeft de cliënt meer uren op, dan toont het scherm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        302.25,
+        677.94,
+        313.5
+      ],
+      "text": "‘Beheren inkomsten WWZ’ bij het veld <Uren> het aantal uren dat de cliënt heeft opgegeven. Zo niet, dan toont het scherm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        321.75,
+        707.75,
+        333.0
+      ],
+      "text": "‘Beheren inkomsten WWZ’ het berekende aantal uren. Je gebruikt dus het aantal uren dat het scherm ‘Beheren inkomsten WWZ’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        341.25,
+        717.19,
+        352.5
+      ],
+      "text": "toont. UZS kan het aantal uren zelf omrekenen naar een inkomstenbedrag per dag als het scherm ‘Beheren aanvullende gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        360.75,
+        706.68,
+        372.0
+      ],
+      "text": "WWZ’ is gevuld met de vrijgestelde uren en het gemiddeld aantal arbeidsuren (GAA). Je berekent het fictief inkomen per maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        380.25,
+        118.94,
+        391.5
+      ],
+      "text": "als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        411.0,
+        339.32,
+        422.25
+      ],
+      "text": "Aantal uren per maand – vrijgestelde uren per maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        430.5,
+        405.01,
+        441.75
+      ],
+      "text": "———————————————————— x ongemaximeerd dagloon ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        450.0,
+        251.18,
+        461.25
+      ],
+      "text": "Gemiddeld aantal uren per week / 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        480.75,
+        125.13,
+        492.0
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.5,
+        510.75,
+        95.61,
+        522.75
+      ],
+      "text": "[1]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.5,
+        541.5,
+        127.08,
+        552.75
+      ],
+      "text": "100 – 80",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.5,
+        561.0,
+        196.71,
+        572.25
+      ],
+      "text": "———— x € 150 = € 375",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.5,
+        580.5,
+        111.69,
+        591.75
+      ],
+      "text": "40 / 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        615.75,
+        702.9,
+        627.0
+      ],
+      "text": "Let op: Als de cliënt zelfstandige arbeid verricht en minder uren gaat werken, dan blijf je het hoogst aantal uren korten zoals",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        635.25,
+        715.61,
+        646.5
+      ],
+      "text": "eerder vastgesteld. In het scherm ‘Onderhouden rechten’ in GINA wordt de zogenaamde progressieve korting bijgehouden. Als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        654.75,
+        646.59,
+        666.0
+      ],
+      "text": "de cliënt geen gewerkte uren doorgeeft, ontstaat uitvalsignaal 2.14 Zelfstandige met 0-uren. Aan de hand van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        674.25,
+        712.15,
+        685.5
+      ],
+      "text": "werkinstructie vul je zelf 0 zelfstandige uren in op de inkomstenopgave zodat GINA altijd het hoogste aantal uren blijft korten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        705.0,
+        643.72,
+        716.25
+      ],
+      "text": "Je gaat verder met ‘Inkomstenbedrag’ om het inkomstenbedrag om te rekenen naar een inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        736.5,
+        221.3,
+        755.25
+      ],
+      "text": "Inkomstenbedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        769.5,
+        610.83,
+        780.75
+      ],
+      "text": "Je hebt een inkomstenbedrag per maand dat omgerekend moet worden naar een inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        789.0,
+        215.93,
+        800.25
+      ],
+      "text": "Er zijn de volgende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        816.0,
+        82.57,
+        834.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        819.75,
+        510.32,
+        831.0
+      ],
+      "text": "A: de WW gaat over in de Ziektewet én de eerste WW-dag ligt niet in diezelfde maand",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        835.5,
+        82.57,
+        853.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        839.25,
+        488.6,
+        850.5
+      ],
+      "text": "B: de WW gaat over in de Ziektewet én de eerste WW-dag ligt in diezelfde maand",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        855.0,
+        82.57,
+        873.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        858.75,
+        280.64,
+        870.0
+      ],
+      "text": "C: er is een volledige maand Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        874.5,
+        82.57,
+        892.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        878.25,
+        449.6,
+        889.5
+      ],
+      "text": "D: er is een gedeelte van de maand Ziektewet omdat de cliënt is hersteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        912.75,
+        718.74,
+        924.0
+      ],
+      "text": "Om na te gaan welke situatie van toepassing is, selecteer je de betreffende inkomstenopgave in GINA. Vervolgens raadpleeg je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        932.25,
+        679.16,
+        943.5
+      ],
+      "text": "gegevens onder ‘Selecteren uitkeringssituatie’. Bij de regel die begint met WW staat de eerste WW-dag in het veld <Oudste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        951.75,
+        684.78,
+        963.0
+      ],
+      "text": "ewd/zwd>. Bij de regel die begint met ZW zie je de datum waarop de WW overgaat in de ZW in het veld <Oudste ewd/zwd>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        983.25,
+        580.25,
+        998.25
+      ],
+      "text": "A: WW gaat over in Ziektewet en eerste WW-dag ligt niet in diezelfde maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1011.75,
+        702.88,
+        1023.0
+      ],
+      "text": "Het bedrag dat GINA heeft doorgegeven aan UZS zijn in deze situatie de berekende inkomsten over de hele kalendermaand. Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1031.25,
+        613.23,
+        1042.5
+      ],
+      "text": "vindt dit bedrag ook terug in GINA onder ‘Te verrekenen inkomsten ZW’ of ‘Te verrekenen inkomsten TW-ZW’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1062.0,
+        342.17,
+        1073.25
+      ],
+      "text": "Je berekent de inkomsten voor de Ziektewet als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1092.75,
+        213.8,
+        1104.0
+      ],
+      "text": "Inkomstenbedrag ZW of TW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1112.25,
+        165.19,
+        1123.5
+      ],
+      "text": "——————————-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1131.75,
+        221.6,
+        1143.0
+      ],
+      "text": "Aantal sv-dagen in die maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        30.75,
+        125.13,
+        42.0
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        60.75,
+        95.61,
+        72.75
+      ],
+      "text": "[2]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        80.25,
+        699.33,
+        91.5
+      ],
+      "text": "Het inkomstenbedrag over maart 2017 is € 1.500. De eerste uitkeringsdag Ziektewet is 15 maart 2017. In deze maand zitten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        99.75,
+        381.61,
+        111.0
+      ],
+      "text": "23 sv-dagen, waarvan 10 WW-dagen en 13 Ziektewet-dagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        130.5,
+        327.48,
+        141.75
+      ],
+      "text": "Bedrag inkomsten voor de ZW (of TW) per dag is:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        161.25,
+        119.87,
+        172.5
+      ],
+      "text": "€ 1.500",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        180.75,
+        209.57,
+        192.0
+      ],
+      "text": "————- = € 65,22 per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        200.25,
+        95.15,
+        211.5
+      ],
+      "text": "23",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        235.5,
+        327.54,
+        246.75
+      ],
+      "text": "Je hebt nu het inkomstenbedrag per dag berekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        267.0,
+        550.84,
+        282.0
+      ],
+      "text": "B: WW gaat over in Ziektewet en eerste WW-dag ligt in diezelfde maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        295.5,
+        474.47,
+        306.75
+      ],
+      "text": "Deze situatie kan alleen voorkomen als de Ziektewet direct of bijna direct ingaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        326.25,
+        705.38,
+        337.5
+      ],
+      "text": "De WW heeft uitgezocht hoeveel dagen de cliënt gewerkt heeft vóór de eerste WW-dag en hoeveel dagen na de eerste WW-dag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        345.75,
+        715.7,
+        357.0
+      ],
+      "text": "GINA berekent in dit geval zelf het bedrag aan inkomsten vanaf de eerste WW-dag tot en met het einde van de maand en toont dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        365.25,
+        244.1,
+        376.5
+      ],
+      "text": "bij ‘Te verrekenen inkomsten WW’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        396.0,
+        123.86,
+        407.25
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        415.5,
+        679.09,
+        426.75
+      ],
+      "text": "1: Het bedrag dat GINA in deze situatie aan UZS doorgeeft, is niet juist. Voor de berekening gebruik je het bedrag bij ‘Te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        435.0,
+        227.39,
+        446.25
+      ],
+      "text": "verrekenen inkomsten WW’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        454.5,
+        717.28,
+        465.75
+      ],
+      "text": "2: Als je zelf een maandbedrag berekend hebt, gebruik je de berekening onder A. Je rekent dan immers met een maandbedrag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        485.25,
+        342.17,
+        496.5
+      ],
+      "text": "Je berekent de inkomsten voor de Ziektewet als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        516.0,
+        213.8,
+        527.25
+      ],
+      "text": "Inkomstenbedrag ZW of TW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        535.5,
+        328.97,
+        546.75
+      ],
+      "text": "—————————————————————————————",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        555.0,
+        456.65,
+        566.25
+      ],
+      "text": "Aantal sv-dagen vanaf de eerste WW-dag tot en met het einde van die maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        585.75,
+        125.13,
+        597.0
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        616.5,
+        327.54,
+        627.75
+      ],
+      "text": "Je hebt nu het inkomstenbedrag per dag berekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        648.0,
+        273.49,
+        663.0
+      ],
+      "text": "C: Volledige maand Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        676.5,
+        616.35,
+        687.75
+      ],
+      "text": "Het bedrag dat GINA aan UZS heeft doorgegeven, is het inkomstenbedrag over een volledige kalendermaand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        707.25,
+        342.17,
+        718.5
+      ],
+      "text": "Je berekent de inkomsten voor de Ziektewet als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        738.0,
+        213.8,
+        749.25
+      ],
+      "text": "Inkomstenbedrag ZW of TW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        757.5,
+        169.47,
+        768.75
+      ],
+      "text": "——————————–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        777.0,
+        101.75,
+        788.25
+      ],
+      "text": "21,75",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        807.75,
+        125.13,
+        819.0
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        837.75,
+        95.61,
+        849.75
+      ],
+      "text": "[4]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        857.25,
+        695.11,
+        868.5
+      ],
+      "text": "Het inkomstenbedrag per maand is over maart 2017 € 900. Er is recht op Ziektewet over de volledige kalendermaand. De te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        876.75,
+        255.86,
+        888.0
+      ],
+      "text": "verrekenen inkomsten per dag zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        907.5,
+        110.58,
+        918.75
+      ],
+      "text": "€ 900",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        927.0,
+        192.01,
+        938.25
+      ],
+      "text": "——- = € 41,38 per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        82.5,
+        946.5,
+        110.0,
+        957.75
+      ],
+      "text": "21,75",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        981.75,
+        327.54,
+        993.0
+      ],
+      "text": "Je hebt nu het inkomstenbedrag per dag berekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1013.25,
+        459.38,
+        1028.25
+      ],
+      "text": "D: Gedeelte van maand Ziektewet omdat cliënt is hersteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1041.75,
+        708.51,
+        1053.0
+      ],
+      "text": "Het bedrag dat GINA aan UZS heeft doorgegeven, is het inkomstenbedrag over een volledige kalendermaand. Je beoordeelt zelf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1061.25,
+        510.13,
+        1072.5
+      ],
+      "text": "of de inkomsten na de hersteldatum liggen. Je neemt hiervoor contact op met de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1092.0,
+        705.82,
+        1103.25
+      ],
+      "text": "Als alle inkomsten na de hersteldatum zijn genoten, pas je geen inkomstenkorting toe. Je zet in het scherm Beheren inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        1111.5,
+        330.16,
+        1122.75
+      ],
+      "text": "WWZ het bedrag in het veld <Bedrag/periode> op 0.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        30.75,
+        698.5,
+        42.0
+      ],
+      "text": "Als er wel (een gedeelte) van de inkomsten tijdens de ZW-periode zijn genoten, bereken je de inkomsten voor de Ziektewet als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        50.25,
+        101.49,
+        61.5
+      ],
+      "text": "volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        81.0,
+        161.83,
+        92.25
+      ],
+      "text": "Inkomstenbedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        100.5,
+        173.98,
+        111.75
+      ],
+      "text": "———————————-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        120.0,
+        221.6,
+        131.25
+      ],
+      "text": "Aantal sv-dagen in die maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        150.75,
+        125.13,
+        162.0
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        180.75,
+        95.61,
+        192.75
+      ],
+      "text": "[5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        200.25,
+        705.31,
+        211.5
+      ],
+      "text": "Het inkomstenbedrag per maand is over 2017 € 900. De hersteldatum is 20 maart 2017. De cliënt geeft aan dat de inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        219.75,
+        701.07,
+        231.0
+      ],
+      "text": "(deels) in de ZW-periode zijn genoten. In deze maand zitten 23 sv-dagen, waarvan 13 ZW-dagen. De te verrekenen inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        239.25,
+        142.9,
+        250.5
+      ],
+      "text": "per dag zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        270.0,
+        110.58,
+        281.25
+      ],
+      "text": "€ 900",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        289.5,
+        197.68,
+        300.75
+      ],
+      "text": "——— = € 39,12 per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        309.0,
+        95.15,
+        320.25
+      ],
+      "text": "23",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        344.25,
+        327.54,
+        355.5
+      ],
+      "text": "Je hebt nu het inkomstenbedrag per dag berekend.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.25,
+        375.0,
+        249.02,
+        396.0
+      ],
+      "text": "Registreren in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        411.75,
+        685.14,
+        423.0
+      ],
+      "text": "Nadat je een inkomstenbedrag per dag hebt berekend, ga je verder met het registreren in UZS. Er zijn 2 situaties (je volgt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        431.25,
+        274.26,
+        442.5
+      ],
+      "text": "instructie die hoort bij de juiste situatie):",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        458.25,
+        82.57,
+        476.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        462.0,
+        194.36,
+        473.25
+      ],
+      "text": "Er zijn ZW-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        477.75,
+        82.57,
+        495.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        481.5,
+        194.19,
+        492.75
+      ],
+      "text": "Er zijn TW-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        513.0,
+        171.83,
+        528.0
+      ],
+      "text": "ZW-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        541.5,
+        711.13,
+        552.75
+      ],
+      "text": "Je controleert in het scherm Beheren inkomsten WWZ in het blok “Inkomstenbericht” welke categorie inkomsten van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        561.0,
+        94.44,
+        572.25
+      ],
+      "text": "zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        591.75,
+        417.4,
+        603.0
+      ],
+      "text": "In de meeste gevallen berekent UZS automatisch het bedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        611.25,
+        239.29,
+        622.5
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        638.25,
+        82.57,
+        656.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        642.0,
+        465.62,
+        653.25
+      ],
+      "text": "Selecteer in het blok “Inkomstenbedrag WWZ” de juiste ZW-inkomstenregel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        657.75,
+        82.57,
+        675.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        661.5,
+        717.48,
+        672.75
+      ],
+      "text": "Controleer het bedrag in het veld <Bedrag/periode> en klik op de knop “Herberekenen”. Controleer in het veld <Bedrag per dag>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        681.0,
+        258.04,
+        692.25
+      ],
+      "text": "de uitkomst met jouw berekening.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        696.75,
+        82.57,
+        714.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        700.5,
+        651.9,
+        711.75
+      ],
+      "text": "Als het nodig is, wijzig je het bedrag in het veld <Bedrag/periode> en klik je nogmaals op de knop “Herberekenen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        716.25,
+        82.57,
+        734.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        720.0,
+        568.88,
+        731.25
+      ],
+      "text": "Klik op de knop “Registreer korting”. De Ziektewet-inkomsten worden automatisch geregistreerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        751.5,
+        172.04,
+        766.5
+      ],
+      "text": "TW-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        780.0,
+        711.13,
+        791.25
+      ],
+      "text": "Je controleert in het scherm Beheren inkomsten WWZ in het blok “Inkomstenbericht” welke categorie inkomsten van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        799.5,
+        94.44,
+        810.75
+      ],
+      "text": "zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        830.25,
+        417.4,
+        841.5
+      ],
+      "text": "In de meeste gevallen berekent UZS automatisch het bedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        849.75,
+        239.29,
+        861.0
+      ],
+      "text": "Je voert de volgende stappen uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        876.75,
+        82.57,
+        894.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        880.5,
+        465.62,
+        891.75
+      ],
+      "text": "Selecteer in het blok “Inkomstenbedrag WWZ” de juiste ZW-inkomstenregel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        896.25,
+        82.57,
+        914.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        900.0,
+        717.48,
+        911.25
+      ],
+      "text": "Controleer het bedrag in het veld <Bedrag/periode> en klik op de knop “Herberekenen”. Controleer in het veld <Bedrag per dag>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        919.5,
+        258.04,
+        930.75
+      ],
+      "text": "de uitkomst met jouw berekening.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        935.25,
+        82.57,
+        953.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        939.0,
+        651.9,
+        950.25
+      ],
+      "text": "Als het nodig is, wijzig je het bedrag in het veld <Bedrag/periode> en klik je nogmaals op de knop “Herberekenen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        954.75,
+        82.57,
+        972.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        958.5,
+        718.67,
+        969.75
+      ],
+      "text": "Klik op de knop “Registreer toeslag”. UZS registreert automatisch de inkomsten in het scherm ‘Beheren inkomsten ivm toeslag’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        978.0,
+        465.54,
+        989.25
+      ],
+      "text": "met het bedrag per dag en de begin en einddatum van de inkomstenmaand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1012.5,
+        701.78,
+        1023.75
+      ],
+      "text": "Bij samenloop met een ander ziektegeval voeg je handmatig een regel toe in het blok “Inkomstenbedrag WWZ” met de <Soort>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1032.0,
+        627.01,
+        1043.25
+      ],
+      "text": "‘TW Inkomsten i.v.m. samenloop ZW-uitkering’ of ‘TW Doorbetaald loon’ of ‘TW Aanvulling op een ZW-uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        1062.75,
+        680.48,
+        1074.0
+      ],
+      "text": "Let op: Gebruik je de <Soort> ‘TW Inkomsten i.vm. samenloop ZW-uitkering’, dan vul je in het veld <Bedrag/periode> het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        1082.25,
+        701.74,
+        1093.5
+      ],
+      "text": "uitkeringsbedrag (excl. vt) in. Voor de ZW-uitkering kort je het dagloon, maar voor het bepalen van de hoogte van de toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        1101.75,
+        518.41,
+        1113.0
+      ],
+      "text": "houd je rekening met de uitkering. Dit zijn immers de inkomsten die de cliënt ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.5,
+        1144.5,
+        565.07,
+        1155.75
+      ],
+      "text": "Code vanuit GINA Inkomstenbedrag WWZ in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        31.5,
+        603.66,
+        42.75
+      ],
+      "text": "71 Inkomsten uit arbeid klant (TW) TW Klant inkomsten uit arbeid excl. VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        51.75,
+        614.76,
+        63.0
+      ],
+      "text": "72 Inkomsten uit arbeid partner (TW) TW Partner inkomsten uit arbeid excl. VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        72.0,
+        545.01,
+        83.25
+      ],
+      "text": "73 Overig inkomsten klant (TW) TW Klant inkomsten overig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        92.25,
+        556.12,
+        103.5
+      ],
+      "text": "76 Overig inkomsten partner (TW) TW Partner inkomsten overig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        112.5,
+        586.86,
+        123.75
+      ],
+      "text": "77 Inkomsten zelfstandige (partner) TW Partner inkomsten zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        132.75,
+        553.47,
+        144.0
+      ],
+      "text": "78 Inkomsten stage (partner) TW Partner inkomsten stage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        153.0,
+        628.3,
+        164.25
+      ],
+      "text": "79 Inkomsten overige NVZP-arbeid (partner) TW Partner inkomsten overige NVZP-arbeid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        173.25,
+        572.84,
+        184.5
+      ],
+      "text": "80 Inkomsten uit arbeid incl. VT ZW Inkomsten uit arbeid incl. VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        193.5,
+        575.38,
+        204.75
+      ],
+      "text": "81 Inkomsten uit arbeid excl. VT TW Inkomsten uit arbeid excl. VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        213.75,
+        544.21,
+        225.0
+      ],
+      "text": "82 Inkomsten i.v.m. arbeid excl. VT ZW Inkomsten i.vm. arbeid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        234.0,
+        523.79,
+        245.25
+      ],
+      "text": "83 Overige inkomsten excl. VT TW Overige inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        254.25,
+        517.73,
+        265.5
+      ],
+      "text": "84 Zelfstandige uren ZW Zelfstandige uren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        274.5,
+        571.59,
+        285.75
+      ],
+      "text": "85 Overige NVZP-uren ZW Overige niet verzekerde uren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        294.75,
+        611.26,
+        306.0
+      ],
+      "text": "86 Inkomsten uit niet verzekerde arbeid excl. VT TW Inkomsten uit niet verzekerde arbeid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        315.0,
+        575.76,
+        326.25
+      ],
+      "text": "87 Inkomsten zelfstandige (klant) TW Klant inkomsten zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        335.25,
+        542.36,
+        346.5
+      ],
+      "text": "88 Inkomsten stage (klant) TW Klant inkomsten stage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        355.5,
+        617.2,
+        366.75
+      ],
+      "text": "89 Inkomsten overige NVZP-arbeid (klant) TW Klant inkomsten overige NVZP-arbeid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        375.75,
+        584.55,
+        387.0
+      ],
+      "text": "98 Aanvulling uitkering werknemersverzekeringen klant (TW) TW Aanvulling op een ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        396.0,
+        629.31,
+        407.25
+      ],
+      "text": "Geen TW Inkomsten ivm Samenloop ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        416.25,
+        487.16,
+        427.5
+      ],
+      "text": "Geen ZW Samenloop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        436.5,
+        614.32,
+        447.75
+      ],
+      "text": "Geen ZW Gecombineerde inkomsten uit arbeid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        82.5,
+        456.75,
+        516.36,
+        468.0
+      ],
+      "text": "Geen TW Doorbetaald loon",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        74.25,
+        488.25,
+        435.72,
+        509.25
+      ],
+      "text": "Afhandelen opvraag gegevens via ZAU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        524.25,
+        709.23,
+        535.5
+      ],
+      "text": "Nadat je het definitieve dagloon hebt bepaald op basis van de gegevens in ZAU, handel je jouw opvraag van gegevens af in ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        543.75,
+        682.41,
+        555.0
+      ],
+      "text": "Als je dit niet doet, komt de invoer in ZAU niet op ‘Afgehandeld’ te staan en blijft ZAU onterecht berichten versturen naar de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        563.25,
+        565.19,
+        574.5
+      ],
+      "text": "Belastingdienst. Je gebruikt hiervoor de werkinstructie Invoeren, controleren en afhandelen in ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        594.75,
+        108.55,
+        606.0
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        615.0,
+        445.94,
+        626.25
+      ],
+      "text": "Cliënt Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        406.73,
+        642.0,
+        412.81,
+        660.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        419.48,
+        645.75,
+        700.8,
+        657.0
+      ],
+      "text": "SET13T060 ‘Voorschot ivm zelfstandige of NVZP-arbeid’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        406.73,
+        661.5,
+        412.81,
+        679.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        419.48,
+        665.25,
+        700.56,
+        676.5
+      ],
+      "text": "SET13T061 ‘Definitieve toekenning toeslag na voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        419.48,
+        684.75,
+        583.2,
+        696.0
+      ],
+      "text": "ivm zelfstandige of NVZP-arbeid’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        406.73,
+        700.5,
+        412.81,
+        718.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        419.48,
+        704.25,
+        678.63,
+        715.5
+      ],
+      "text": "SET12K248 ‘Korting ZW-uitkering op WWZ-uitkering’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        404.48,
+        738.75,
+        449.11,
+        750.0
+      ],
+      "text": "Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        404.48,
+        758.25,
+        606.98,
+        769.5
+      ],
+      "text": "Navragen inkomsten na de hersteldatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        778.5,
+        499.07,
+        789.75
+      ],
+      "text": "Intern Registraties in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        798.75,
+        148.84,
+        810.0
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        819.0,
+        130.71,
+        830.25
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        850.5,
+        144.62,
+        861.75
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        870.75,
+        481.21,
+        882.0
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        404.48,
+        890.25,
+        492.84,
+        901.5
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        910.5,
+        276.08,
+        921.75
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        406.73,
+        927.0,
+        412.81,
+        945.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        930.75,
+        494.62,
+        942.0
+      ],
+      "text": "Toelichting Wetsuitleg ZW:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        421.73,
+        946.5,
+        427.81,
+        964.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        434.48,
+        950.25,
+        646.99,
+        961.5
+      ],
+      "text": "Wat is inkomen bij vakantietoeslag (VT) en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        434.48,
+        969.75,
+        718.49,
+        981.0
+      ],
+      "text": "arbeidsvoorwaardenbedrag (AVWB) voor ZWW-uitkering?",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        421.73,
+        985.5,
+        427.81,
+        1003.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        434.48,
+        989.25,
+        717.96,
+        1000.5
+      ],
+      "text": "Samenloop ziekengeld zieke werkloze werknemer (ZWW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        434.48,
+        1008.75,
+        481.65,
+        1020.0
+      ],
+      "text": "uitkering)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        421.73,
+        1024.5,
+        427.81,
+        1042.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        434.48,
+        1028.25,
+        700.06,
+        1039.5
+      ],
+      "text": "Korting van stage-inkomsten en forfaitaire inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        434.48,
+        1047.75,
+        546.42,
+        1059.0
+      ],
+      "text": "startende zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        406.73,
+        1063.5,
+        412.81,
+        1081.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        419.48,
+        1067.25,
+        574.91,
+        1078.5
+      ],
+      "text": "Wetsuitleg TW Vakantietoeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1087.5,
+        144.12,
+        1098.75
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1110.18,
+        718.96,
+        1121.43
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    }
+  ]
+}

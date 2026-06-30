@@ -1,0 +1,4445 @@
+{
+  "source_id": "2022-09-01-besluit-woo-verzoek-handleiding-ikb-en-wat-is-inkomen/2022-09-01-bijlage-1-hoofdstuk-handboek-uwv-ikb",
+  "publication_slug": "2022-09-01-besluit-woo-verzoek-handleiding-ikb-en-wat-is-inkomen",
+  "pdf_slug": "2022-09-01-bijlage-1-hoofdstuk-handboek-uwv-ikb",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2022/besluit-woo-verzoek-handleiding-ikb-en-wat-is-inkomen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/8939d884-1e33-428d-8f84-49665d5dfd53/bijlage-1-hoofdstuk-handboek-uwv-ikb.pdf",
+  "publication_title": "Besluit Woo-verzoek Handleiding IKB en Wat is inkomen?",
+  "publication_date": "2022-09-01T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1 Handboek UWV - IKB (PDF, 856 kB)",
+  "retrieved_at": "2026-06-30T14:08:36+00:00",
+  "sha256": "e66987fa3c5718be3c38bae267bd22fbc61d0196a9d1814920f6d978f3bb5060",
+  "page_count": 16,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.52,
+        361.09,
+        561.94,
+        386.6
+      ],
+      "text": "Wetsuitleg WIA, WAO/WAZ/oWajong en ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.52,
+        413.24,
+        353.46,
+        434.26
+      ],
+      "text": "IKB – Individueel Keuzebudget",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.52,
+        453.77,
+        146.98,
+        474.78
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.52,
+        487.36,
+        739.2,
+        498.61
+      ],
+      "text": "Naar aanleiding van het Looncomponentenoverleg van december 2016 en signalen van Bezwaar en Beroep over problemen met de IKB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.52,
+        506.87,
+        706.82,
+        518.13
+      ],
+      "text": "regeling, is de instructie voor het IKB-budget herzien. Basis voor deze instructie is het onderzoek dat is uitgevoerd naar een 29-tal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.52,
+        526.38,
+        766.69,
+        537.64
+      ],
+      "text": "bezwaarzaken. Daaruit kwam naar voren dat het IKB vooral bij de WAO en in mindere mate bij de Wajong 2010 en WIA tot problemen leidt. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.52,
+        545.89,
+        774.09,
+        557.15
+      ],
+      "text": "de WAO kan het IKB leiden tot een overschrijding van de klasse waar dat eerder, zonder IKB, niet het geval was. Bij de WIA wordt het wel of niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.52,
+        565.41,
+        769.71,
+        576.66
+      ],
+      "text": "halen van de inkomenseis door het IKB-budget beïnvloed. Bij de Wajong zijn de effecten minder groot door de grondslag die het effect van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.52,
+        584.92,
+        769.83,
+        596.18
+      ],
+      "text": "IKB beperkt. Bij Wajong 2010 is vaker sprake van kortere perioden van arbeid waardoor eerder een terugvordering bij een IKB-budget ontstaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        615.69,
+        774.53,
+        626.95
+      ],
+      "text": "Let op: Deze IKB-instructie is niet meer geldig voor verrekencyclussen die vanaf 1 januari 2022 zijn gestart. In het hoofdstuk Wat is inkomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.52,
+        635.2,
+        764.19,
+        646.46
+      ],
+      "text": "vind je de instructie die vanaf 1 januari 2022 geldt. Voor cyclussen die voor 1 januari 2022 zijn gestart en eindigen na 1 januari 2022, geldt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.52,
+        654.71,
+        602.43,
+        665.97
+      ],
+      "text": "een overgangsregeling. Lees hieronder de instructie ‘Overgangsregeling IKB/AVWB vanaf 1 januari 2022’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.51,
+        687.92,
+        544.81,
+        708.94
+      ],
+      "text": "Overgangsregeling IKB/AVWB vanaf 1 januari 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        722.26,
+        724.19,
+        733.51
+      ],
+      "text": "Vanaf 1 januari 2022 worden de rubrieken ‘opbouw/uitbetaald EPS’ in de polisadministratie vervangen door ‘opbouw/opname AVWB’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        741.77,
+        501.29,
+        753.03
+      ],
+      "text": "(Arbeidsvoorwaardenbedrag). Het AVWB is een verzamelnaam voor de volgende zaken:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        68.78,
+        770.47,
+        74.84,
+        788.48
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        81.52,
+        772.54,
+        101.69,
+        783.8
+      ],
+      "text": "EPS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        68.78,
+        789.98,
+        74.84,
+        808.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        792.05,
+        265.34,
+        803.31
+      ],
+      "text": "IKB en andere soortgelijke budgetten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        68.78,
+        809.5,
+        74.84,
+        827.51
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        811.56,
+        540.04,
+        822.82
+      ],
+      "text": "reserveringen voor uitzendkrachten zoals kort verzuim, feestdagentoeslag en vakantiedagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        846.09,
+        742.21,
+        857.35
+      ],
+      "text": "Werkgevers die een IKB of soortgelijk budget hebben, kunnen hun loongegevens vanaf 1 januari 2022 verantwoorden onder de rubrieken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        865.6,
+        733.28,
+        876.86
+      ],
+      "text": "‘opbouw/opname AVWB’. Voor werkgevers met IKB moeten we per 1 januari 2022 voor de inkomstenverrekening rekening houden met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        885.12,
+        775.06,
+        896.37
+      ],
+      "text": "opgebouwde bedragen aan AVWB. Voor werkgevers zonder IKB, moeten we per 1 januari 2022 rekening houden met de opgebouwde bedragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        904.63,
+        350.23,
+        915.89
+      ],
+      "text": "aan VT en (eventuele) opgebouwde bedragen aan AVWB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        935.4,
+        740.12,
+        946.66
+      ],
+      "text": "Tot 1 januari 2022 geldt voor werkgevers met IKB (of soortgelijk budget) dat we het uitbetaalde SV-loon middelen over de cyclusperiode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        954.91,
+        162.34,
+        966.17
+      ],
+      "text": "(middelingsbeleid).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.52,
+        985.68,
+        458.47,
+        996.94
+      ],
+      "text": "Let op: Voor de Wajong en TW houden we geen rekening houden met de VT.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        1016.45,
+        696.08,
+        1027.71
+      ],
+      "text": "Voor lopende cyclussen die voor 1 januari 2022 zijn begonnen en na 1 januari 2022 eindigen is een overgangsregeling bepaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.51,
+        1047.22,
+        188.09,
+        1058.48
+      ],
+      "text": "Voor lopende cyclussen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        68.78,
+        1075.92,
+        74.84,
+        1093.93
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        1077.98,
+        259.59,
+        1089.24
+      ],
+      "text": "waarin de datum 1 januari 2022 ligt;",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        68.78,
+        1095.43,
+        74.84,
+        1113.44
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        1097.49,
+        424.22,
+        1108.75
+      ],
+      "text": "met aangiftetijdvakken die voorafgaand aan 1 januari 2022 liggen; en",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        68.78,
+        1114.94,
+        74.84,
+        1132.95
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        1117.01,
+        330.62,
+        1128.26
+      ],
+      "text": "aangiftetijdvakken die vanaf 1 januari 2022 liggen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        78.79,
+        1162.8,
+        404.53,
+        1174.06
+      ],
+      "text": "ld b d f k d l h dd l b l d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        28.81,
+        407.51,
+        40.07
+      ],
+      "text": "geldt bij de afrekening van deze cyclussen nog het middelingsbeleid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        59.58,
+        118.3,
+        70.84
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        79.09,
+        765.83,
+        90.35
+      ],
+      "text": "Voor een cyclus in de periode 1-3-2021 t/m 28-2-2022 pas je de overgangsregeling toe. Voor de cyclus daarna ga je uit van opbouw AVWB en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        98.61,
+        164.0,
+        109.86
+      ],
+      "text": "middel je niet meer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        156.39,
+        767.82,
+        167.65
+      ],
+      "text": "De overgangsregeling staat niet in de wet- en regelgeving. Hierdoor kan er een reden zijn om het recht te herzien in Bezwaar en Beroep. Of we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        175.91,
+        701.93,
+        187.16
+      ],
+      "text": "een correctie doorvoeren, hangt af van de feiten en omstandigheden van het geval en is ter beoordeling aan Bezwaar en Beroep.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        195.42,
+        765.79,
+        206.68
+      ],
+      "text": "Als een nieuwe cyclusperiode begint, passen we de nieuwe regels toe en gaan we uit van opbouw AVWB. De nieuwe regels hierover, vind je in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        214.93,
+        220.63,
+        226.19
+      ],
+      "text": "het hoofdstuk Wat is inkomen?",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.52,
+        248.14,
+        335.78,
+        269.15
+      ],
+      "text": "Beleid korte en lange termijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        281.72,
+        740.63,
+        292.98
+      ],
+      "text": "Doel van deze instructie is een oplossing te bieden voor de negatieve gevolgen die zich voordoen bij het IKB-budget en daarmee ook het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        301.24,
+        771.59,
+        312.49
+      ],
+      "text": "voorkomen van bezwaarzaken. Deze instructie is een tijdelijke oplossing. De (de\u0000nitieve) oplossing voor de lange termijn zal naar verwachting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        320.75,
+        297.58,
+        332.01
+      ],
+      "text": "niet eerder dan in 2021/2022 beschikbaar zijn.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.52,
+        354.14,
+        304.91,
+        372.91
+      ],
+      "text": "Ingangsdatum instructie IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        385.29,
+        760.62,
+        396.55
+      ],
+      "text": "De ingangsdatum van deze IKB-instructie is 6 juli 2017 en kan bij het afrekenen van een nog lopende cyclus direct worden toegepast. Eerder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        404.8,
+        774.41,
+        416.06
+      ],
+      "text": "afgesloten perioden worden niet spontaan herzien. Verzoekt de klant om terug te komen op een eerdere vaststelling dan wordt daaraan gevolg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        424.31,
+        726.61,
+        435.57
+      ],
+      "text": "gegeven. De IKB-instructie is uitsluitend van toepassing op een klant met een IKB-budget en dus niet voor klanten zonder IKB-budget.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.52,
+        457.71,
+        290.78,
+        476.47
+      ],
+      "text": "Afspraken met werkgevers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        488.86,
+        734.85,
+        500.11
+      ],
+      "text": "Een aantal werkgevers en instanties hebben UWV gevraagd om afspraken te maken met betrekking tot het IKB-budget. UWV wijst deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        508.37,
+        275.9,
+        519.62
+      ],
+      "text": "verzoeken af omdat dit niet uitvoerbaar is.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.52,
+        541.58,
+        181.84,
+        562.59
+      ],
+      "text": "IKB-regeling",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.52,
+        582.29,
+        192.42,
+        601.05
+      ],
+      "text": "Wat is het IKB?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        613.43,
+        764.64,
+        624.69
+      ],
+      "text": "Zowel organisaties als werknemers moeten \u0000exibeler worden. Het Individueel keuzebudget (IKB) is ingevoerd om een bijdrage te leveren aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        632.95,
+        759.98,
+        644.2
+      ],
+      "text": "deze verandering die aansluit op de behoefte aan meer keuzevrijheid en \u0000exibiliteit. Het IKB-budget geeft werknemers die mogelijkheid. Met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        652.46,
+        715.58,
+        663.72
+      ],
+      "text": "het IKB-budget is het mogelijk een deel van hun aanspraken in loon of in vrije tijd te laten uitkeren. In de praktijk gaat het om 16,3 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        671.97,
+        752.25,
+        683.23
+      ],
+      "text": "(gemeenten) tot 18% (welzijnsorganisaties) (andere percentages zijn ook mogelijk)van het totale salaris. Werknemers met een IKB-budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        691.48,
+        716.91,
+        702.74
+      ],
+      "text": "kunnen hun keuzes beter afstemmen op hun persoonlijke wensen en doelen. Deelname aan een IKB-regeling is verplicht en in cao’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        711.0,
+        476.48,
+        722.25
+      ],
+      "text": "opgenomen. De klant kan dus niet zelf kiezen voor deelname aan een IKB-regeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        743.46,
+        270.49,
+        758.46
+      ],
+      "text": "Sectoren met een IKB-regeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        1076.48,
+        363.19,
+        1087.74
+      ],
+      "text": "*Dit is een niet-limitatieve lijst! De lijst wordt niet aangevuld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.52,
+        1109.88,
+        391.88,
+        1128.64
+      ],
+      "text": "Waaruit is het IKB-budget opgebouwd?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        1141.02,
+        765.22,
+        1152.28
+      ],
+      "text": "Het IKB-budget bestaat standaard uit de vakantiebijslag (VT) en de eindejaarsuitkering (EPS), aangevuld met per cao wisselende onderdelen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.52,
+        1160.53,
+        675.32,
+        1171.79
+      ],
+      "text": "bij oorbeelddele ensloopbijdrage bo en ettelijke erlof renofdeseniorenregeling Depercentages andeaf onderlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        26.56,
+        675.32,
+        37.82
+      ],
+      "text": "bijvoorbeeld de levensloopbijdrage, bovenwettelijke verlofuren of de seniorenregeling. De percentages van de afzonderlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        46.07,
+        716.44,
+        57.33
+      ],
+      "text": "arbeidsvoorwaarden worden samengevoegd in een percentage voor het IKB-budget. Is sprake van een regeling waarin de VT niet is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        65.59,
+        756.2,
+        76.84
+      ],
+      "text": "opgenomen (voorbeeld: Employee Bene\u0000t Budget Rabobank), dan is géén sprake van een IKB-regeling en passen wij de reguliere werkwijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        85.1,
+        85.44,
+        96.36
+      ],
+      "text": "toe.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        117.56,
+        315.97,
+        132.57
+      ],
+      "text": "Voorbeeld samenstelling IKB-budget:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.52,
+        312.87,
+        226.06,
+        331.63
+      ],
+      "text": "Hoe werkt het IKB?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        344.01,
+        771.9,
+        355.27
+      ],
+      "text": "Werknemers met een IKB-budget ontvangen de vakantiebijslag en de eindejaarsuitkering niet standaard meer in mei en december omdat deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        363.53,
+        768.1,
+        374.78
+      ],
+      "text": "deel uitmaken van het budget. De hoogte van het IKB-budget wordt berekend over het loon en wordt maandelijks opgebouwd. Het bedrag aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        383.04,
+        754.28,
+        394.29
+      ],
+      "text": "opbouw IKB-budget staat op de loonstrook. Voor het IKB-budget gebruiken werkgevers uiteenlopende benamingen die soms naar bron zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        402.55,
+        718.59,
+        413.81
+      ],
+      "text": "gesplitst. Het IKB-budget zelf is geen loon maar een aanspraak. De besteding van het IKB-budget is wel SV-loon. De werknemer kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        422.06,
+        731.99,
+        433.32
+      ],
+      "text": "maandelijks vrij beschikken over het tot op dat moment opgebouwde IKB-budget, maar het komt ook voor dat de werkgever het aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        441.58,
+        564.22,
+        452.83
+      ],
+      "text": "keuzemomenten over het jaar beperkt of dat het IKB-budget standaard elke maand wordt uitbetaald.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.52,
+        474.97,
+        316.61,
+        493.73
+      ],
+      "text": "Bestedingsdoelen van het IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        506.12,
+        724.36,
+        517.37
+      ],
+      "text": "De werknemer kan het IKB-budget gebruiken voor extra loon, het kopen van verlofuren, voor opleidingskosten of \u0000scaal uitruilen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        525.63,
+        772.89,
+        536.89
+      ],
+      "text": "bijvoorbeeld extra pensioen. Andere doelen zijn een extra vergoeding voor woon-werkverkeer, een \u0000ets of vakbondscontributie. Het IKB-budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        545.14,
+        764.48,
+        556.4
+      ],
+      "text": "kan door de klant op verschillende momenten en wel of niet \u0000scaal belast, worden gebruikt. Voor het verrekenen van het IKB-budget gaan wij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        564.65,
+        743.82,
+        575.91
+      ],
+      "text": "niet uit van de hoogte van het budget maar van het daadwerkelijk genoten SV-loon, zoals dat in de polis staat. Wanneer er \u0000scale “uitruil”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        584.17,
+        763.24,
+        595.42
+      ],
+      "text": "plaatsvindt op het IKB-budget, dan zal het “uitgeruilde” loon niet worden opgegeven door de werkgever als betaald SV-loon. Het gevolg is dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        603.68,
+        698.3,
+        614.94
+      ],
+      "text": "het IKB-budget dat wordt “uitgeruild” niet zal worden gekort op de uitkering. Dit kan leiden tot ongewenste resultaten, maar is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        623.19,
+        375.69,
+        634.45
+      ],
+      "text": "overeenstemming met het beleid en afgestemd met JKC/SBK.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.52,
+        656.59,
+        250.41,
+        675.35
+      ],
+      "text": "Uitbetalen IKB-budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        687.73,
+        749.11,
+        698.99
+      ],
+      "text": "Het IKB-budget wordt maandelijks opgebouwd en kan in de regel ook elke maand worden opgenomen. Het moment van besteding kan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        707.24,
+        727.15,
+        718.5
+      ],
+      "text": "werknemer zelf kiezen. De werknemer is dus niet meer gebonden aan de vaste betaalmomenten, zoals bij VT en EPS wel het geval is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        726.76,
+        735.95,
+        738.01
+      ],
+      "text": "Sommige werkgevers beperken het aantal keuzemomenten of betalen het IKB-budget standaard maandelijks uit. Aan het einde van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        746.27,
+        713.76,
+        757.53
+      ],
+      "text": "kalenderjaar wordt het volledige IKB-budget over dat jaar of het nog resterende bedrag uitbetaald aan de werknemer. Dit is door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        765.78,
+        759.39,
+        777.04
+      ],
+      "text": "belastingdienst bepaald. Er is dus geen overdracht van een opgebouwd IKB-budget naar het volgende kalenderjaar. Heeft de werknemer het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        785.29,
+        595.58,
+        796.55
+      ],
+      "text": "IKB-budget ingezet voor extra verlofuren, dan gaan die verlofuren uiteraard wel over naar het volgende jaar.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.52,
+        818.69,
+        222.1,
+        837.45
+      ],
+      "text": "IKB niet in de polis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        849.84,
+        763.58,
+        861.09
+      ],
+      "text": "Wanneer een werkgever overstapt naar een IKB-regeling wijzigen de gegevens in de polis. Omdat bij een IKB-budget geen sprake meer is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        869.35,
+        763.22,
+        880.6
+      ],
+      "text": "opgebouwde en uitbetaalde VT en EPS, worden deze kolommen in de polis niet meer gevuld. Weliswaar bouwt de werknemer met een IKB In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        888.86,
+        758.37,
+        900.12
+      ],
+      "text": "plaats van VT en EPS een IKB-budget op, maar die opbouw wordt niet in de polis opgenomen. Dit heeft twee oorzaken. De eerste oorzaak is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        908.37,
+        738.28,
+        919.63
+      ],
+      "text": "dat de polis geen kolommen kent voor opgebouwd en uitbetaald IKB-budget. De tweede oorzaak is dat opbouw en uitbetalen (of \u0000scaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        927.88,
+        740.55,
+        939.14
+      ],
+      "text": "uitruilen) van het IKB-budget niet op vaste momenten plaatsvindt, zoals bij VT en EPS, en opgebouwde en uitbetaalde bedragen ook niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        947.4,
+        752.54,
+        958.65
+      ],
+      "text": "noodzakelijkerwijs aan elkaar gelijk zijn. Bij een IKB-budget gaan we dus uit van het daadwerkelijk uitbetaalde SV-loon zoals dat in de polis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        966.91,
+        94.89,
+        978.17
+      ],
+      "text": "staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        999.37,
+        223.99,
+        1014.38
+      ],
+      "text": "VT/EPS toch in de polis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        1026.95,
+        761.15,
+        1038.21
+      ],
+      "text": "Een werkgever met een IKB-regeling zal de kolommen VT en EPS niet vullen omdat bij een IKB-budget geen sprake meer is van opgebouwde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        1046.46,
+        744.59,
+        1057.72
+      ],
+      "text": "VT en EPS. Heeft een werkgever de kolommen VT en/of EPS toch gevuld, dan gebruiken wij deze gegevens niet en gaan alleen uit van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        1065.97,
+        773.49,
+        1077.23
+      ],
+      "text": "kolom SV-loon. Omdat nog overleg plaatsvindt over een de\u0000nitieve oplossing van het IKB-budget in de polis is het niet de bedoeling dat wij een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        1085.49,
+        355.63,
+        1096.74
+      ],
+      "text": "onjuiste vulling van de polis melden bij de belastingdienst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        1117.94,
+        237.85,
+        1132.95
+      ],
+      "text": "IKB-budget op loonstrook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.52,
+        1145.52,
+        761.59,
+        1156.78
+      ],
+      "text": "Het opgebouwde IKB-budget staat in de regel onder de naam ‘IKB-budget’ op de loonstrook. Daarentegen zijn er ook werkgevers die het IKB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        31.06,
+        749.58,
+        42.32
+      ],
+      "text": "budget anders noemen of meerdere IKB-benamingen gebruiken. Wanneer een werkgever het IKB-budget heeft verdeeld over twee of meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        50.58,
+        442.74,
+        61.83
+      ],
+      "text": "budgetten, dan gaan wij uit van de som van die afzonderlijke IKB-budgetten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        522.81,
+        508.6,
+        537.82
+      ],
+      "text": "Overstap naar IKB-regeling en nabetaling VT/EPS voorgaande jaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        550.39,
+        754.81,
+        561.65
+      ],
+      "text": "Vakantietoeslag wordt opgebouwd in de periode van mei tot en met april. Stapt een werkgever op 1 januari van enig jaar over naar een IKB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        569.91,
+        774.86,
+        581.16
+      ],
+      "text": "regeling dan wordt het tot en met december van het voorgaande jaar opgebouwde VT nabetaald. De werkgever kan het restant VT uitbetalen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        589.42,
+        765.08,
+        600.68
+      ],
+      "text": "december van het voorgaande jaar of de uitbetaling overhevelen naar het volgende, eerste IKB-jaar. De uitbetaling vindt dan in de regel in mei",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        608.93,
+        757.95,
+        620.19
+      ],
+      "text": "plaats maar soms verschuift de werkgever een deel van de betaling door naar een later tijdstip. De uitbetaling van VT (eenmalig of in delen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        628.44,
+        736.48,
+        639.7
+      ],
+      "text": "over het voorgaande jaar mag niet gekort worden op de uitkering. Deze uitbetaling valt immers nog onder het beleid dat wij uitgaan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        647.96,
+        768.14,
+        659.21
+      ],
+      "text": "opgebouwde VT en de uitbetaalde VT buiten beschouwing laten. Voor eventueel nabetaalde EPS geldt eveneens dat die nabetaling niet wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        667.47,
+        178.3,
+        678.73
+      ],
+      "text": "gekort op de uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        66.52,
+        700.68,
+        408.7,
+        721.69
+      ],
+      "text": "Voorschot vaststellen bij IKB-budget",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        66.52,
+        741.39,
+        361.35,
+        760.15
+      ],
+      "text": "Voorschot bij IKB-budget, vast loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        772.54,
+        774.96,
+        783.79
+      ],
+      "text": "Werkt de klant bij een werkgever met een IKB-regeling of stapt die werkgever over naar een IKB-regeling, dan vragen wij – eenmalig – de meest",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        792.05,
+        775.52,
+        803.31
+      ],
+      "text": "recente loonstrook bij de klant op. De loonstrook vragen wij op omdat wij voor de hoogte van het voorschotbedrag uitgaan van het vaste loon +",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        811.56,
+        726.24,
+        822.82
+      ],
+      "text": "het maandelijkse IKB-budget. Deze gegevens staan alleen op de loonstrook. Staat het IKB-budget onder meerdere benamingen op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        831.07,
+        749.87,
+        842.33
+      ],
+      "text": "loonstrook, dan tel je die bedragen bij elkaar op. De som van vast loon + de opbouw IKB-budget per maand is het bedrag dat op voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        850.59,
+        296.08,
+        861.84
+      ],
+      "text": "wordt verrekend met de uitkering van de klant.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        66.52,
+        883.98,
+        410.18,
+        902.74
+      ],
+      "text": "Voorschot bij IKB-budget, wisselend loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        915.13,
+        763.97,
+        926.38
+      ],
+      "text": "Werkt de klant bij een werkgever met een IKB-regeling of stapt die werkgever over naar een IKB-regeling en is sprake van wisselend loon, dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        934.64,
+        771.73,
+        945.9
+      ],
+      "text": "vragen wij – eenmalig – de meest recente loonstroken bij de klant op. De loonstroken zijn nodig omdat wij het voorschotbedrag vaststellen op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        954.15,
+        765.27,
+        965.41
+      ],
+      "text": "basis van het gemiddelde loon + het maandelijkse IKB-budget. Staat het IKB-budget onder meerdere benamingen op de loonstrook, dan tel je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        973.66,
+        775.01,
+        984.92
+      ],
+      "text": "die bedragen bij elkaar op. Het gemiddelde vaste loon + de opbouw IKB-budget per maand is het bedrag dat op voorschot wordt verrekend met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        993.18,
+        190.66,
+        1004.43
+      ],
+      "text": "de uitkering van de klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        1025.63,
+        218.66,
+        1040.64
+      ],
+      "text": "Klant start met werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        1053.21,
+        770.53,
+        1064.47
+      ],
+      "text": "Als de klant start met werken is nog geen loonstrook beschikbaar. In dat geval verhoog je het vaste loon met 18%. Na ontvangst van de eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        1072.73,
+        370.21,
+        1083.98
+      ],
+      "text": "loonstrook pas je zo nodig het bedrag van het voorschot aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        1105.19,
+        386.25,
+        1120.19
+      ],
+      "text": "Voorschot IKB bij Wajong 2010 en Wajong 2015",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        1132.77,
+        771.29,
+        1144.02
+      ],
+      "text": "Bij de Wajong 2010 en de Wajong 2015 mag de vakantietoeslag niet gekort worden. Door het IKB-budget is de VT echter niet meer herkenbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.52,
+        1152.28,
+        760.85,
+        1163.54
+      ],
+      "text": "in de polis. Voor het vaststellen van het voorschot gaan we uit van het vaste loon + de opbouw IKB-budget. Het loon verminderen we via een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.35,
+        18.31,
+        583.05,
+        29.56
+      ],
+      "text": "p g p g",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        37.82,
+        276.03,
+        49.08
+      ],
+      "text": "vermenigvuldiging met de factor 100/108.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        66.52,
+        71.03,
+        397.75,
+        92.04
+      ],
+      "text": "Verrekenen inkomen bij IKB-budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        110.05,
+        158.0,
+        125.06
+      ],
+      "text": "Cyclus bij IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        156.39,
+        771.68,
+        167.65
+      ],
+      "text": "Bij het verrekenen van verdiensten kennen we bij WIA, Wajong 2010, WAO, WAZ en oWajong verrekencycli van 3, 6 of 12 maanden. Als de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        175.91,
+        761.4,
+        187.16
+      ],
+      "text": "deelneemt aan een IKB, middelt de uitkeringsdeskundige (UD) het loon over de afgelopen voorschotperiode. Om de betalingen uit het IKB zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        195.42,
+        729.7,
+        206.68
+      ],
+      "text": "veel mogelijk te spreiden over een jaar, raden wij aan om voor de volgende voorschotperiode een jaarcyclus hanteren, bij voorkeur een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        214.93,
+        769.46,
+        226.19
+      ],
+      "text": "kalenderjaar. Dit betekent niet dat het hanteren van kortere cyclus uitgesloten is. Er kunnen namelijk redenen zijn om kortere cycli te hanteren,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        234.44,
+        363.76,
+        245.7
+      ],
+      "text": "zoals bij TW, Bremanaanvulling of sterk wisselend inkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        266.9,
+        373.42,
+        281.91
+      ],
+      "text": "Middeling van het sv-loon m.u.v. nabetalingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        294.48,
+        764.62,
+        305.74
+      ],
+      "text": "Bij de de\u0000nitieve afrekening van de uitkering middelen we het totale loon over de verrekencyclus, met uitzondering van nabetalingen die geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        313.99,
+        760.74,
+        325.25
+      ],
+      "text": "onderdeel uitmaken van het IKB-budget zoals een grati\u0000catie of betaling achterstallig loon met terugwerkende kracht. Die bedragen rekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        333.51,
+        354.57,
+        344.76
+      ],
+      "text": "we toe aan het tijdvak waarin de klant ze heeft ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        364.28,
+        579.98,
+        375.53
+      ],
+      "text": "Dit beleid geldt vanaf 17 februari 2020 voor alle AW-wetten, als gevolg van een uitspraak van de rechter.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        395.05,
+        117.41,
+        406.3
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        425.25,
+        87.89,
+        437.26
+      ],
+      "text": "[1]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        444.58,
+        80.5,
+        455.83
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        476.1,
+        468.75,
+        487.35
+      ],
+      "text": "Maand Sv-loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        496.36,
+        467.11,
+        507.62
+      ],
+      "text": "Januari € 1.000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        516.62,
+        467.11,
+        527.88
+      ],
+      "text": "Februari € 1.000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        536.89,
+        467.11,
+        548.14
+      ],
+      "text": "Maart € 1.000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        557.15,
+        467.11,
+        568.41
+      ],
+      "text": "April € 2.000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        577.41,
+        467.11,
+        588.67
+      ],
+      "text": "Mei € 1.000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        83.03,
+        597.67,
+        467.11,
+        608.93
+      ],
+      "text": "Juni € 1.600",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        629.19,
+        756.83,
+        640.45
+      ],
+      "text": "De klant geeft aan dat hij in april een nabetaling heeft gehad. Deze maakt geen onderdeel uit van het IKB-budget. Op de loonstrook van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        648.71,
+        765.97,
+        659.96
+      ],
+      "text": "klant staat dat de nabetaling € 1.000 is. In juni is een deel van het IKB uitbetaald. Je haalt de nabetaling van € 1.000 uit het sv-loon van april",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        668.22,
+        767.12,
+        679.48
+      ],
+      "text": "en je rekent het gemiddelde sv-loon uit: € 1.000,- + € 1.000,- + € 1.000,- + € 2.000,- + € 1.000,- + € 1.600,- – € 1.000,- / 6 maanden = € 1.100,-.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        687.73,
+        756.14,
+        698.99
+      ],
+      "text": "Dit loon kort je op de uitkering. Voor april tel je de nabetaling en het gemiddelde loon bij elkaar op voor de korting: € 1.100,- + € 1.000,- = €",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        707.24,
+        111.3,
+        718.5
+      ],
+      "text": "2.100,-.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        738.01,
+        761.8,
+        749.27
+      ],
+      "text": "*We adviseren om zoveel mogelijk een jaarcyclus van bij voorkeur een kalenderjaar te hanteren. Voor dit voorbeeld hebben we vanwege de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        757.53,
+        328.01,
+        768.78
+      ],
+      "text": "overzichtelijkheid een 6 maanden cyclus gebruikt.>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        792.8,
+        743.05,
+        804.06
+      ],
+      "text": "We kunnen een nabetaling bijna niet onderkennen, daarom passen we bovenstaande werkwijze alleen toe als de klant hierom vraagt. We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        812.31,
+        761.04,
+        823.57
+      ],
+      "text": "passen de regel alleen toe als dit gunstig uitpakt voor de klant. Als de klant er niet om vraagt, of het toepassen van de regel is niet gunstig is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        831.82,
+        373.83,
+        843.08
+      ],
+      "text": "voor de klant, dan middelen we de nabetaling met het sv-loon.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        66.52,
+        865.22,
+        100.98,
+        883.98
+      ],
+      "text": "WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        896.36,
+        738.85,
+        907.62
+      ],
+      "text": "Bij de WIA-uitkering gaan we uit van het daadwerkelijk uitbetaalde SV-loon zoals dat in de polis staat. Heeft een werkgever met een IKB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        915.88,
+        773.43,
+        927.13
+      ],
+      "text": "regeling ook uitbetaalde VT en/of EPS in de polis gezet, dan gebruiken wij die bedragen niet. De uitkering stellen we de\u0000nitief vast aan de hand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        935.39,
+        776.27,
+        946.65
+      ],
+      "text": "van het gemiddelde loon over de periode van de cyclus. Het IKB-budget kan tot gevolg hebben dat de klant de inkomenseis niet haalt terwijl dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        954.9,
+        666.74,
+        966.16
+      ],
+      "text": "eerder, zonder IKB-budget, wel het geval zou zijn geweest. Middeling van het SV-loon voorkomt dit effect zoveel mogelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        987.36,
+        127.64,
+        1002.37
+      ],
+      "text": "Bij ziekte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        65.68,
+        1038.02,
+        241.56,
+        1051.53
+      ],
+      "text": "Uitsluitend loondoorbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        1056.97,
+        769.64,
+        1068.22
+      ],
+      "text": "We korten het gemiddelde SV-loon over de aangiftetijdvakken in het jaar voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        1076.48,
+        760.03,
+        1087.74
+      ],
+      "text": "Indien er in minder aangiftetijdvakken dan een jaar loon is genoten, dan berekenen we het gemiddelde SV-loon over die tijdvakken, die direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        1095.99,
+        401.39,
+        1107.25
+      ],
+      "text": "liggen voorafgaande aan het tijdvak waarin de eerste ziektedag ligt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        1126.76,
+        711.31,
+        1138.02
+      ],
+      "text": "Indien bovengenoemde werkwijze tot problemen leidt (zoals een zeer afwijkend gemiddeld SV-loon), dan graag voorleggen aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.52,
+        1146.27,
+        129.9,
+        1157.53
+      ],
+      "text": "Servicedesk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        65.68,
+        43.63,
+        297.07,
+        57.14
+      ],
+      "text": "Tegelijkertijd loondoorbetaling en ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.52,
+        63.33,
+        770.42,
+        74.59
+      ],
+      "text": "We korten het gemiddelde SV-loon over de aangiftetijdvakken in het jaar, voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.52,
+        82.85,
+        274.2,
+        94.1
+      ],
+      "text": "zie tekst bij ‘Uitsluitend loondoorbetaling’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        65.68,
+        114.18,
+        318.93,
+        127.69
+      ],
+      "text": "Uitsluitend ZW én einde dienstbetrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.52,
+        133.13,
+        530.8,
+        144.39
+      ],
+      "text": "Vanaf einde dienstverband korten we het ZW-dagloon (dat niet meetelt voor de inkomenseis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.52,
+        163.9,
+        308.77,
+        175.16
+      ],
+      "text": "Voorbeeld WIA + IKB-budget (6 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        194.11,
+        87.89,
+        206.11
+      ],
+      "text": "[2]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        213.43,
+        80.5,
+        224.69
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        937.64,
+        80.66,
+        948.9
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.52,
+        961.66,
+        277.16,
+        972.91
+      ],
+      "text": "Voorbeeld IKB + WIA (12 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        991.86,
+        87.89,
+        1003.87
+      ],
+      "text": "[3]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.78,
+        156.39,
+        80.5,
+        167.65
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.78,
+        1044.21,
+        80.66,
+        1055.47
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        66.52,
+        1082.11,
+        518.16,
+        1100.87
+      ],
+      "text": "WIA met twee werkgevers: één met en één zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        66.52,
+        1113.25,
+        753.34,
+        1124.51
+      ],
+      "text": "We middelen het uitbetaalde SV-loon bij beide werkgevers. Door gebruik van een jaarcyclus, bij voorkeur een kalenderjaar, neutraliseren we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        66.52,
+        1132.77,
+        775.35,
+        1144.02
+      ],
+      "text": "namelijk aangiftetijdvakken met hoge inkomsten door uitbetaling van IKB. Deze neutralisering vindt dan ook plaats bij de werkgever zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        66.52,
+        1152.28,
+        581.79,
+        1163.54
+      ],
+      "text": "voor de uitbetaling van de VT in mei en, indien van toepassing, in december voor de uitbetaling van EPS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        152.8,
+        18.31,
+        535.37,
+        29.56
+      ],
+      "text": "g p g g",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        37.82,
+        752.4,
+        49.08
+      ],
+      "text": "De gevolgen voor de inkomenseis zullen niet groot zijn. De middeling van inkomsten bij de werkgever zonder IKB komt in de plaats van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        57.33,
+        638.7,
+        68.59
+      ],
+      "text": "meetellen van opgebouwde VT en opgebouwde EPS. Het hanteren van een kortere cyclus is echter niet uitgesloten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        88.1,
+        638.14,
+        99.36
+      ],
+      "text": "Deze werkwijze hanteren wij overigens ook indien er sprake is van samenloop met SV-loon met IKB en niet SV-loon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.82,
+        118.87,
+        289.9,
+        130.13
+      ],
+      "text": "Conclusie: alle uitbetaalde SV-loon middelen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        66.52,
+        155.27,
+        749.55,
+        174.03
+      ],
+      "text": "WIA, werkgever met IKB en ZW uit dienstverband bij andere werkgever zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        186.41,
+        761.67,
+        197.67
+      ],
+      "text": "Wanneer loon uit werk wordt vervangen door uitsluitend ZW-uitkering, korten we het ZW-dagloon. Indien er sprake is van beëindiging van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        205.92,
+        739.63,
+        217.18
+      ],
+      "text": "dienstverband, telt het ZW-dagloon niet mee voor de inkomenseis. Het loon uit het dienstverband bij de andere werkgever dat nog loopt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        225.44,
+        662.89,
+        236.69
+      ],
+      "text": "middelen we. Bij dat gemiddelde loon tellen we dan het ZW-dagloon op om het totale bedrag voor korting vast te stellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.82,
+        256.21,
+        341.59,
+        267.46
+      ],
+      "text": "Conclusie: uitbetaalde SV-loon middelen + ZW-dagloon",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        66.52,
+        289.6,
+        761.27,
+        308.37
+      ],
+      "text": "WIA, werkgever met IKB en WW uit beëindiging dienstverband bij andere werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        66.52,
+        312.12,
+        157.81,
+        330.88
+      ],
+      "text": "zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        343.26,
+        761.14,
+        354.52
+      ],
+      "text": "Wanneer loon uit werk wordt vervangen door WW-uitkering, korten we het WW-dagloon. Het WW-dagloon van een reguliere WW-uitkering telt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        362.77,
+        752.64,
+        374.03
+      ],
+      "text": "niet mee voor de inkomenseis. Het loon uit het dienstverband bij de andere werkgever dat nog loopt, middelen we. Bij dat gemiddelde loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        382.29,
+        476.92,
+        393.54
+      ],
+      "text": "tellen we dan het WW-dagloon op om het totale bedrag voor korting vast te stellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.82,
+        413.06,
+        344.84,
+        424.31
+      ],
+      "text": "Conclusie: uitbetaalde SV-loon middelen + WW-dagloon",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        66.52,
+        446.45,
+        177.63,
+        465.22
+      ],
+      "text": "WAO en WAZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        477.6,
+        738.36,
+        488.86
+      ],
+      "text": "Bij de WAO en WAZ gaan we uit van het daadwerkelijk uitbetaalde SV-loon zoals dat in de polis staat. Heeft een werkgever met een IKB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        497.11,
+        773.43,
+        508.37
+      ],
+      "text": "regeling ook uitbetaalde VT en/of EPS in de polis gezet, dan gebruiken wij die bedragen niet. De uitkering stellen we de\u0000nitief vast aan de hand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        516.62,
+        776.2,
+        527.88
+      ],
+      "text": "van het gemiddelde loon over een periode van 12 maanden, bij voorkeur een kalenderjaar. Het gemiddelde loon over het kalenderjaar gebruiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        536.14,
+        730.75,
+        547.39
+      ],
+      "text": "we voor het vaststellen van de \u0000ctieve ao-klasse en het uitkeringspercentage. Het IKB-budget kan er toe leiden dat de klant een klasse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        555.65,
+        712.61,
+        566.9
+      ],
+      "text": "overschrijdt terwijl dat eerder, zonder IKB-budget, niet het geval zou zijn geweest. Middeling van het SV-loon voorkomt deze klasse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        575.16,
+        578.03,
+        586.42
+      ],
+      "text": "overschrijding zo veel mogelijk. Dit betekent niet dat het hanteren van een kortere cyclus uitgesloten is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        607.62,
+        301.94,
+        622.63
+      ],
+      "text": "Tweesporenbeleid bij WAO en WAZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        635.2,
+        750.01,
+        646.46
+      ],
+      "text": "Anders dan bij de WIA en Wajong is de middeling van inkomsten v oor de WAO en niet vastgelegd in de wet . Hiervoor is aanvullend beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        654.71,
+        130.04,
+        665.97
+      ],
+      "text": "vastgesteld .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        685.48,
+        766.93,
+        696.74
+      ],
+      "text": "Dat houdt in we dat bij een WAO- of WAZ–uitkering en IKB een tweesporenbeleid voeren bij nog lopende dossiers, bezwaar- of beroepszaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        704.99,
+        554.28,
+        716.25
+      ],
+      "text": "Het tweesporenbeleid betekent: het middelen van inkomsten of uitgaan van inkomsten per tijdvak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        735.76,
+        701.85,
+        747.02
+      ],
+      "text": "Het huidige IKB-beleid (middeling van inkomsten) is meestal gunstiger voor de klant . Daarom blijven we middelen en volgen het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        755.27,
+        309.71,
+        766.53
+      ],
+      "text": "tweesporenbeleid alleen als klant hierom vraagt .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        786.04,
+        775.07,
+        797.3
+      ],
+      "text": "Valt de korting bij IKB per tijdvak gunstiger uitvalt dan bij middeling? Dan pas je de uitkering met terugwerkende kracht aan over de periode van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        805.56,
+        695.9,
+        816.81
+      ],
+      "text": "de laatste afrekeningsbeslissing met deze nieuwe berekening. We komen alleen terug op de laatste afrekeningsbeslissing. Alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        825.07,
+        349.11,
+        836.33
+      ],
+      "text": "afrekeningsbeslissingen daarvoor worden niet gewijzigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        855.84,
+        625.5,
+        867.1
+      ],
+      "text": "Dit beleid geldt per 23 februari 2022 en geldt alleen voor WAO- en WAZ-uitkeringen waarbij nog middeling IKB is .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        886.61,
+        767.06,
+        897.87
+      ],
+      "text": "Dit beleid heeft geen invloed op de regelgeving AVWB per 1 januari 2022 in werking is getreden en geldt alleen voor de periode ervoor en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        906.12,
+        370.04,
+        917.38
+      ],
+      "text": "de overgangsregeling waarbij er nog sprake is van middeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        938.58,
+        127.64,
+        953.59
+      ],
+      "text": "Bij ziekte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.82,
+        966.16,
+        212.39,
+        977.42
+      ],
+      "text": "Uitsluitend loondoorbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        985.67,
+        769.64,
+        996.93
+      ],
+      "text": "We korten het gemiddelde SV-loon over de aangiftetijdvakken in het jaar voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        1005.18,
+        760.03,
+        1016.44
+      ],
+      "text": "Indien er in minder aangiftetijdvakken dan een jaar loon is genoten, dan berekenen we het gemiddelde SV-loon over die tijdvakken, die direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        1024.7,
+        401.39,
+        1035.95
+      ],
+      "text": "liggen voorafgaande aan het tijdvak waarin de eerste ziektedag ligt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        1055.47,
+        724.87,
+        1066.72
+      ],
+      "text": "Wanneer bovengenoemde werkwijze tot problemen leidt (zoals een zeer afwijkend gemiddeld SV-loon), dan graag voorleggen aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        1074.98,
+        129.9,
+        1086.24
+      ],
+      "text": "Servicedesk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        1105.75,
+        418.53,
+        1117.01
+      ],
+      "text": "Als de klant langer dan 4 weken volledig ziek is, stoppen we de korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.68,
+        1137.08,
+        297.07,
+        1150.59
+      ],
+      "text": "Tegelijkertijd loondoorbetaling en ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        66.52,
+        1156.03,
+        768.21,
+        1167.29
+      ],
+      "text": "WekortenhetgemiddeldeSV-loonoverdeaangiftetijdvakkeninhetjaar voorafgaandeaanhetaangiftetijdvakwaarindeeersteziektedagligt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        66.52,
+        22.06,
+        770.42,
+        33.31
+      ],
+      "text": "We korten het gemiddelde SVloon over de aangiftetijdvakken in het jaar, voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        66.52,
+        41.57,
+        274.2,
+        52.83
+      ],
+      "text": "zie tekst bij ‘Uitsluitend loondoorbetaling’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        65.68,
+        72.9,
+        318.93,
+        86.41
+      ],
+      "text": "Uitsluitend ZW én einde dienstbetrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        66.52,
+        92.6,
+        313.05,
+        103.86
+      ],
+      "text": "Voorbeeld WAO + IKB-budget (6 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.78,
+        122.81,
+        87.89,
+        134.82
+      ],
+      "text": "[4]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.78,
+        156.39,
+        80.5,
+        167.65
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.78,
+        865.59,
+        80.66,
+        876.85
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        66.52,
+        889.61,
+        319.38,
+        900.87
+      ],
+      "text": "Voorbeeld WAO + IKB-budget (12 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.78,
+        919.82,
+        87.89,
+        931.82
+      ],
+      "text": "[5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.78,
+        156.39,
+        80.5,
+        167.65
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.78,
+        949.65,
+        80.66,
+        960.91
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.52,
+        987.55,
+        675.98,
+        1006.31
+      ],
+      "text": "WAO, WAZ en oWajong met twee werkgevers: één met en één zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        81.53,
+        1018.69,
+        667.37,
+        1029.95
+      ],
+      "text": "Let op: voor de oWajong isonderstaande instructie tot 1 januari 2021 geldig. Voor instructie na 1 januari 2021 klik hier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.52,
+        1052.09,
+        720.1,
+        1070.85
+      ],
+      "text": "WAO, WAZ en oWajong, werkgever met IKB en ZW uit dienstverband bij andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.52,
+        1074.6,
+        249.11,
+        1093.36
+      ],
+      "text": "werkgever zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        81.53,
+        1105.75,
+        667.37,
+        1117.0
+      ],
+      "text": "Let op: voor de oWajong isonderstaande instructie tot 1 januari 2021 geldig. Voor instructie na 1 januari 2021 klik hier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        66.52,
+        1150.4,
+        765.39,
+        1169.16
+      ],
+      "text": "WAO, WAZ en oWajong, werkgever met IKB en WW uit beëindiging dienstverband bij",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        66.52,
+        16.43,
+        765.39,
+        35.19
+      ],
+      "text": "WAO, WAZ en oWajong, werkgever met IKB en WW uit beëindiging dienstverband bij",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        66.52,
+        38.94,
+        311.52,
+        57.71
+      ],
+      "text": "andere werkgever zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        81.53,
+        70.09,
+        667.37,
+        81.35
+      ],
+      "text": "Let op: voor de oWajong isonderstaande instructie tot 1 januari 2021 geldig. Voor instructie na 1 januari 2021 klik hier.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        65.35,
+        155.27,
+        766.3,
+        174.03
+      ],
+      "text": "Conclusie: uitbetaalde SV-loon + voorafgaande loon middelenoWajong (tot 1 januari",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        66.52,
+        177.78,
+        115.79,
+        196.54
+      ],
+      "text": "2021)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        208.93,
+        755.93,
+        220.18
+      ],
+      "text": "Bij de oWajong gaan we uit van het daadwerkelijk uitbetaalde SV-loon zoals dat in de polis staat. Heeft een werkgever met een IKB-regeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        228.44,
+        769.82,
+        239.7
+      ],
+      "text": "ook uitbetaalde VT en/of EPS in de polis gezet, dan gebruiken wij die bedragen niet. De uitkering stellen we de\u0000nitief vast aan de hand van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        247.95,
+        755.54,
+        259.21
+      ],
+      "text": "gemiddelde loon over een periode van de cyclus. Het advies is om een jaarcyclus, bij voorkeur een kalenderjaar, te hanteren. Dit sluit echter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        267.46,
+        680.88,
+        278.72
+      ],
+      "text": "kortere cycli niet uit. Het gemiddelde loon over de periode gebruiken we voor het vaststellen van de \u0000ctieve ao-klasse en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        286.98,
+        174.67,
+        298.23
+      ],
+      "text": "uitkeringspercentage.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        317.75,
+        726.79,
+        329.0
+      ],
+      "text": "Het IKB-budget kan er toe leiden dat de klant een lagere uitkering ontvangt dan eerder, zonder IKB-budget, het geval zou zijn geweest.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        337.26,
+        772.7,
+        348.52
+      ],
+      "text": "Middeling van het SV-loon voorkomt dit effect zo veel mogelijk. Het effect van het IKB-budget bij de oWajong is beperkt doordat de hoogte van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        356.77,
+        770.32,
+        368.03
+      ],
+      "text": "de uitkering wordt begrensd door de grondslag. Ook bij toepassing van de Breman-regeling kan het IKB-budget tot een lagere aanvulling op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        376.28,
+        604.0,
+        387.54
+      ],
+      "text": "uitkering leiden. Dit effect wordt zoveel mogelijk voorkomen door middeling van het inkomen over de cyclus.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        66.52,
+        409.68,
+        199.61,
+        428.44
+      ],
+      "text": "Bremanregeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        440.82,
+        765.56,
+        452.08
+      ],
+      "text": "Het loon van de klant is nodig om de Breman-aanvulling te berekenen. Daarvoor gebruiken we ook de gemiddelde inkomsten. Het bedrag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        460.34,
+        769.1,
+        471.59
+      ],
+      "text": "het functieloon (rechtens geldend loon) wordt niet anders door het IKB. Het functieloon is al het fulltime loon dat de gezonde werknemer voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        479.85,
+        743.65,
+        491.11
+      ],
+      "text": "die werkzaamheden ontvangt, inclusief alle daarbij behorende loonelementen. Alleen de VT wordt niet meegenomen. Het bedrag van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        499.36,
+        494.59,
+        510.62
+      ],
+      "text": "functieloon wordt niet uit de polis gehaald, maar via het WERKbedrijf of de loonstrook.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        531.82,
+        127.64,
+        546.83
+      ],
+      "text": "Bij ziekte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.82,
+        559.4,
+        212.39,
+        570.66
+      ],
+      "text": "Uitsluitend loondoorbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        578.91,
+        769.64,
+        590.17
+      ],
+      "text": "We korten het gemiddelde SV-loon over de aangiftetijdvakken in het jaar voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        598.43,
+        760.03,
+        609.68
+      ],
+      "text": "Indien er in minder aangiftetijdvakken dan een jaar loon is genoten, dan berekenen we het gemiddelde SV-loon over die tijdvakken, die direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        617.94,
+        401.39,
+        629.19
+      ],
+      "text": "liggen voorafgaande aan het tijdvak waarin de eerste ziektedag ligt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        648.71,
+        711.31,
+        659.96
+      ],
+      "text": "Indien bovengenoemde werkwijze tot problemen leidt (zoals een zeer afwijkend gemiddeld SV-loon), dan graag voorleggen aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        668.22,
+        129.9,
+        679.48
+      ],
+      "text": "Servicedesk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        698.99,
+        418.53,
+        710.25
+      ],
+      "text": "Als de klant langer dan 4 weken volledig ziek is, stoppen we de korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.68,
+        730.32,
+        297.07,
+        743.83
+      ],
+      "text": "Tegelijkertijd loondoorbetaling en ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        749.27,
+        770.42,
+        760.53
+      ],
+      "text": "We korten het gemiddelde SV-loon over de aangiftetijdvakken in het jaar, voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        768.78,
+        274.2,
+        780.04
+      ],
+      "text": "zie tekst bij ‘Uitsluitend loondoorbetaling’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.68,
+        800.12,
+        318.93,
+        813.62
+      ],
+      "text": "Uitsluitend ZW én einde dienstbetrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        819.82,
+        770.42,
+        831.07
+      ],
+      "text": "We korten het gemiddelde SV-loon over de aangiftetijdvakken in het jaar, voorafgaande aan het aangiftetijdvak waarin de eerste ziektedag ligt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        839.33,
+        274.2,
+        850.59
+      ],
+      "text": "zie tekst bij ‘Uitsluitend loondoorbetaling’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        870.1,
+        422.3,
+        881.36
+      ],
+      "text": "Voor samenloop oWajong met werkgever(s) en/of WW , zie WAO/WAZ.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        66.52,
+        900.87,
+        332.27,
+        912.12
+      ],
+      "text": "Voorbeeld oWajong + IKB-budget (6 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.78,
+        931.07,
+        87.89,
+        943.08
+      ],
+      "text": "[6]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.78,
+        156.39,
+        80.5,
+        167.65
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.78,
+        846.08,
+        80.66,
+        857.34
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        66.52,
+        881.35,
+        338.59,
+        892.61
+      ],
+      "text": "Voorbeeld oWajong + IKB-budget (12 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        74.78,
+        911.56,
+        87.89,
+        923.57
+      ],
+      "text": "[7]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        74.78,
+        156.39,
+        80.5,
+        167.65
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        74.78,
+        984.17,
+        80.66,
+        995.43
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 13,
+      "bbox": [
+        66.52,
+        1022.07,
+        341.95,
+        1040.83
+      ],
+      "text": "Wajong 2010 (tot 1 januari 2021)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        66.52,
+        1053.21,
+        718.9,
+        1064.47
+      ],
+      "text": "Doordat klanten met een Wajong 2010 vaak een wisselend arbeidspatroon kennen leidt uitbetaling van het IKB-budget vaker tot een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        66.52,
+        1072.73,
+        774.26,
+        1083.98
+      ],
+      "text": "terugvordering. Om deze terugvordering zo veel mogelijk te voorkomen gaan we bij het vaststellen van het inkomen uit van het gemiddelde SV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        66.52,
+        1092.24,
+        765.27,
+        1103.5
+      ],
+      "text": "loon dus vermenigvuldigen met de factor 100/108 omdat de vakantietoeslag bij de Wajong 2010 niet gekort mag worden. Deze methode van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        66.52,
+        1111.75,
+        747.18,
+        1123.01
+      ],
+      "text": "verrekenen leidt tot een resultaat dat verrekenen zonder IKB-budget het beste benaderd. Het advies is om een jaarcyclus, bij voorkeur een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        66.52,
+        1131.26,
+        369.97,
+        1142.52
+      ],
+      "text": "kalenderjaar, te hanteren. Dit sluit echter kortere cycli niet uit!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        81.53,
+        1162.03,
+        719.78,
+        1173.29
+      ],
+      "text": "L H f k IKB li i b ld VT / fEPSi d li d b ik ijd b d i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        81.53,
+        28.06,
+        732.38,
+        39.32
+      ],
+      "text": "Let op: Heeft een werkgever met een IKB-regeling uitbetaalde VT en/of EPS in de polis gezet, dan gebruiken wij deze bedragen niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        60.52,
+        127.64,
+        75.53
+      ],
+      "text": "Bij ziekte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        88.1,
+        418.1,
+        99.36
+      ],
+      "text": "Als de klant ziek wordt, verandert die omstandigheid de werkwijze niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        65.68,
+        119.43,
+        241.56,
+        132.94
+      ],
+      "text": "Uitsluitend loondoorbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        156.39,
+        759.99,
+        167.65
+      ],
+      "text": "Bij de Wajong 2010 kunnen we niet uitgaan van het gemiddelde sv-loon voor de eerste ziektedag. Daarom zullen we moeten uitgaan van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        175.91,
+        563.79,
+        187.16
+      ],
+      "text": "gemiddelde sv-loon over een periode zoals bovenstaand beschreven (dus alsof de klant niet ziek is).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        65.68,
+        207.24,
+        297.07,
+        220.75
+      ],
+      "text": "Tegelijkertijd loondoorbetaling en ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        226.19,
+        270.87,
+        237.44
+      ],
+      "text": "Zie tekst bij Uitsluitend loondoorbetaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        65.68,
+        257.52,
+        318.93,
+        271.03
+      ],
+      "text": "Uitsluitend ZW én einde dienstbetrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        277.22,
+        379.75,
+        288.48
+      ],
+      "text": "Vanaf einde dienstverband korten we de feitelijke ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        66.52,
+        296.73,
+        322.72,
+        307.99
+      ],
+      "text": "Voorbeeld Wajong 2010/Werkregeling + IKB-budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        74.78,
+        326.94,
+        87.89,
+        338.95
+      ],
+      "text": "[8]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        74.78,
+        346.26,
+        80.5,
+        357.52
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        74.78,
+        1147.77,
+        80.66,
+        1159.03
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        66.52,
+        37.82,
+        430.11,
+        49.08
+      ],
+      "text": "Voorbeeld Wajong 2010/Werkregeling + IKB-budget (12 maanden cyclus)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        74.78,
+        68.03,
+        87.89,
+        80.03
+      ],
+      "text": "[9]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        74.78,
+        156.39,
+        80.5,
+        167.65
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        74.78,
+        1089.24,
+        80.66,
+        1100.5
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        66.52,
+        1127.14,
+        581.71,
+        1145.9
+      ],
+      "text": "Wajong 2010 en twee werkgevers: één met en één zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        30.69,
+        729.27,
+        49.45
+      ],
+      "text": "Wajong 2010, werkgever met IKB en ZW uit dienstverband bij andere werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        53.2,
+        157.81,
+        71.97
+      ],
+      "text": "zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        90.73,
+        745.66,
+        109.49
+      ],
+      "text": "Wajong 2010, werkgever met IKB en WW uit beëindiging dienstverband bij andere",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        113.24,
+        249.11,
+        132.0
+      ],
+      "text": "werkgever zonder IKB",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        155.27,
+        274.66,
+        174.03
+      ],
+      "text": "Wajong (vanaf 1-1-2021)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        192.79,
+        393.6,
+        211.55
+      ],
+      "text": "IKB-budget en samenloop met ZW/WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        223.94,
+        736.68,
+        235.19
+      ],
+      "text": "Stopt de klant met werken en ontvangt deze een WW- of ZW-uitkering, dan wordt bij de vaststelling van de uitkering bij de WAO, WAZ en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        243.45,
+        749.68,
+        254.71
+      ],
+      "text": "oWajong het inkomen in het aangiftetijdvak voorafgaand bepaald door het gemiddelde inkomen. Bij de WIA en de Wajong 2010 wordt niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        262.96,
+        432.61,
+        274.22
+      ],
+      "text": "gemiddeld omdat het WW- of ZW-dagloon beschouwd wordt als inkomen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.52,
+        296.36,
+        284.43,
+        315.12
+      ],
+      "text": "Gemiddeld SV-loon en TW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        327.5,
+        754.05,
+        338.76
+      ],
+      "text": "De middeling van het SV-loon is van toepassing op het verrekenen van verdiensten ingeval van een IKB-regeling waarbij ook recht is op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        347.02,
+        133.83,
+        358.27
+      ],
+      "text": "toeslag (TW).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        377.79,
+        731.47,
+        389.04
+      ],
+      "text": "Voor de berekening van de TW wordt uitgegaan van de gemiddelde verdiensten op basis van de polisgegevens/kolom SV-loon over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        397.3,
+        730.68,
+        408.56
+      ],
+      "text": "beoordeelde periode. Doordat de TW exclusief VT wordt beoordeeld, hanteren wij de volgende berekening om de VT eruit te halen. We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        416.81,
+        395.07,
+        428.07
+      ],
+      "text": "vermenigvuldigen de gemiddelde verdiensten met factor 100/108.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        447.58,
+        747.76,
+        458.84
+      ],
+      "text": "De gevallen waarbij voordien de toeslag niet is vastgesteld op grond van de gemiddelde inkomsten, maar op grond van de daadwerkelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        467.09,
+        753.68,
+        478.35
+      ],
+      "text": "verdiensten, worden niet opnieuw beoordeeld. Alle beoordelingen vinden vanaf 25 juli 2019 plaats op grond van de gemiddelde inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        66.52,
+        497.86,
+        117.41,
+        509.12
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        74.78,
+        528.07,
+        94.63,
+        540.08
+      ],
+      "text": "[10]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        74.78,
+        569.91,
+        80.5,
+        581.17
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        601.43,
+        757.39,
+        612.69
+      ],
+      "text": "Maand 2018 Uitbetaald SV- Gem. SV-loon – WAO-uitkering Uitk. + gem. SV- Sociaal Toeslag per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        180.6,
+        620.94,
+        645.46,
+        632.2
+      ],
+      "text": "loon VT Excl. VT loon per dag minimum per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        579.1,
+        640.45,
+        597.89,
+        651.71
+      ],
+      "text": "dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        660.72,
+        704.91,
+        671.97
+      ],
+      "text": "januari 300,00 331,79 609,00 43,25 53,87 10,62",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        680.98,
+        704.91,
+        692.24
+      ],
+      "text": "februari 300,00 331,79 609,00 43,25 53,87 10,62",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        701.24,
+        704.91,
+        712.5
+      ],
+      "text": "maart 300,00 331,79 609,00 43,25 53,87 10,62",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        721.5,
+        704.91,
+        732.76
+      ],
+      "text": "april 300,00 331,79 609,00 43,25 53,87 10,62",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        741.77,
+        704.91,
+        753.02
+      ],
+      "text": "mei 300,00 331,79 609,00 43,25 53,87 10,62",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        83.03,
+        762.03,
+        704.91,
+        773.29
+      ],
+      "text": "juni 650,00 331,79 609,00 43,25 53,87 10,62",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        180.6,
+        792.8,
+        560.37,
+        804.06
+      ],
+      "text": "Totaal 2150,00/6 358,33 x 331,79 + 609,00",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        180.6,
+        812.31,
+        486.97,
+        823.57
+      ],
+      "text": "=gemiddeld 100/108= =",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        180.6,
+        831.82,
+        561.28,
+        843.08
+      ],
+      "text": "358,33 331,79 940,79 / 21,75 =",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        480.79,
+        851.34,
+        508.28,
+        862.59
+      ],
+      "text": "43,25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        74.78,
+        871.6,
+        512.45,
+        882.86
+      ],
+      "text": "WAO-uitkering met verdiensten en alleenstaandentoeslag. Vrijlating niet van toepassing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        74.78,
+        891.11,
+        80.66,
+        902.37
+      ],
+      "text": ">",
+      "source": "text"
+    }
+  ]
+}

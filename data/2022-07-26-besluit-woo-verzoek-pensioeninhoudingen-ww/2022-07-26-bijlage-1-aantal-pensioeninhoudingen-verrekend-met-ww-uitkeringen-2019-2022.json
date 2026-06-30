@@ -1,0 +1,113 @@
+{
+  "source_id": "2022-07-26-besluit-woo-verzoek-pensioeninhoudingen-ww/2022-07-26-bijlage-1-aantal-pensioeninhoudingen-verrekend-met-ww-uitkeringen-2019-2022",
+  "publication_slug": "2022-07-26-besluit-woo-verzoek-pensioeninhoudingen-ww",
+  "pdf_slug": "2022-07-26-bijlage-1-aantal-pensioeninhoudingen-verrekend-met-ww-uitkeringen-2019-2022",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2022/besluit-woo-verzoek-pensioeninhoudingen-ww",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/155f70a5-3e4c-47b3-b8cc-ea4bdf3e9963/bijlage-1-aantal-pensioeninhoudingen-verrekend-met-ww-uitkeringen-2019-2022.pdf",
+  "publication_title": "Besluit Woo-verzoek pensioeninhoudingen WW",
+  "publication_date": "2022-07-26T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1 Aantal pensioeninhoudingen verrekend met WW-uitkeringen 2019-2022 (PDF, 368 kB)",
+  "retrieved_at": "2026-06-30T14:11:50+00:00",
+  "sha256": "179aa989ce2511355947186ebc5206ff77bed9f7c305b43968615dfc839b23be",
+  "page_count": 1,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        72.78,
+        407.15,
+        81.78
+      ],
+      "text": "Bijlage 1: Aantal pensioeninkomsten verrekend met WW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        72.86,
+        107.3,
+        299.03,
+        118.34
+      ],
+      "text": "pensioeninkomsten verrekend met WW uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        72.86,
+        125.66,
+        207.01,
+        136.7
+      ],
+      "text": "Maand Aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        72.86,
+        139.1,
+        207.1,
+        150.14
+      ],
+      "text": "uitkering cliënten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        108.26,
+        170.78,
+        207.12,
+        181.82
+      ],
+      "text": "jan-19 4.656",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        108.26,
+        189.14,
+        207.12,
+        200.18
+      ],
+      "text": "jan-20 3.708",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        108.26,
+        207.38,
+        207.12,
+        218.42
+      ],
+      "text": "jan-21 2.916",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        108.26,
+        225.74,
+        207.12,
+        236.78
+      ],
+      "text": "jan-22 2.353",
+      "source": "text"
+    }
+  ]
+}

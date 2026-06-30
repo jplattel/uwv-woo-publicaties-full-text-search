@@ -1,0 +1,6329 @@
+{
+  "source_id": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen/2026-01-04-registreren-inkomsten-tijdens-toeslag-handboek-omgeving-uwv",
+  "publication_slug": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_slug": "2026-01-04-registreren-inkomsten-tijdens-toeslag-handboek-omgeving-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/c73c6151-cab3-44eb-9509-fe7567f6b9ef/registreren-inkomsten-tijdens-toeslag---handboek-omgeving---uwv.pdf",
+  "publication_title": "Woo-besluit beleidsrichtlijnen samenloop van uitkeringen",
+  "publication_date": "2026-01-04T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Registreren inkomsten tijdens toeslag - Handboek omgeving - UWV (PDF, 435 kB)",
+  "retrieved_at": "2026-06-30T12:08:51+00:00",
+  "sha256": "291da853a9694b0a22a5f7e5d50de1fdd43ebd71cbd955ab303685e6411fc80a",
+  "page_count": 10,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        610.43,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UD » Toeslag » Bepalen recht, duur en hoogte toeslag » Registreren inkomsten tijdens toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        185.25,
+        258.18,
+        195.0
+      ],
+      "text": "Doorzoek handboek Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        213.75,
+        776.99,
+        223.5
+      ],
+      "text": "Toon meer velden Wis filters",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        354.0,
+        316.73,
+        379.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        407.25,
+        421.26,
+        428.25
+      ],
+      "text": "Registreren inkomsten tijdens toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.18,
+        456.0,
+        715.08,
+        467.25
+      ],
+      "text": "Registreren toeslag in UZS Berekenen hoogte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        717.87,
+        456.0,
+        768.74,
+        469.68
+      ],
+      "text": "toeslag►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        458.43,
+        85.38,
+        469.68
+      ],
+      "text": "◄",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.18,
+        475.5,
+        715.08,
+        486.75
+      ],
+      "text": "Bepalen recht toeslag Bepalen recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        717.87,
+        475.5,
+        768.74,
+        489.18
+      ],
+      "text": "toeslag►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        477.93,
+        85.38,
+        489.18
+      ],
+      "text": "◄",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        495.75,
+        213.74,
+        507.0
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        535.5,
+        562.36,
+        546.75
+      ],
+      "text": "Wie Uitkeringsdeskundige (UD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        555.75,
+        532.38,
+        567.0
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        576.0,
+        759.19,
+        587.25
+      ],
+      "text": "Samenvatting Je registreert de inkomsten van de cliënt en/of zijn partner in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        596.25,
+        100.28,
+        607.5
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        616.5,
+        552.81,
+        627.75
+      ],
+      "text": "Intern Proces aanvraag toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        636.75,
+        208.09,
+        648.0
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        657.0,
+        140.98,
+        668.25
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        677.25,
+        136.43,
+        688.5
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        697.5,
+        106.31,
+        708.75
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        42.75,
+        285.35,
+        63.75
+      ],
+      "text": "Beoordelen inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        78.75,
+        757.21,
+        90.0
+      ],
+      "text": "Na het registreren van de toeslag beoordeel je of de cliënt en/of zijn partner ook inkomsten ontvangen. Je controleert aan de hand van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        98.25,
+        761.44,
+        109.5
+      ],
+      "text": "aanvraag Toeslag en Suwinet of er inkomsten zijn. Je controleert ook of er onbetaald verlof is en daardoor volledig of gedeeltelijk verlaagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        117.75,
+        714.12,
+        129.0
+      ],
+      "text": "loon. Je registreert de loongegevens in het scherm Beheren inkomsten ivm toeslag (zie hiervoor ook de wetsuitleg TW Inkomen).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        148.5,
+        449.89,
+        159.75
+      ],
+      "text": "Overzicht ‘Type inkomsten’ in het scherm ‘Beheren inkomsten ivm toeslag’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        191.25,
+        503.19,
+        202.5
+      ],
+      "text": "Type inkomst Omschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        211.5,
+        730.8,
+        222.75
+      ],
+      "text": "Aanvulling op een ZW-uitkering [1] Aanvulling op de ZW-uitkering van UWV die de cliënt van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        231.0,
+        688.07,
+        242.25
+      ],
+      "text": "werkgever ontvangt op basis van een cao-regeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        251.25,
+        743.21,
+        262.5
+      ],
+      "text": "Andere inkomsten Bijvoorbeeld pensioeninkomsten of overige inkomsten. Zie de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        270.75,
+        590.83,
+        282.0
+      ],
+      "text": "wetsuitleg TW Overig inkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        291.0,
+        739.13,
+        302.25
+      ],
+      "text": "Doorbetaald loon [2] Bij toeslag op loon registreer je hier het loon zoals vermeld in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        310.5,
+        681.35,
+        321.75
+      ],
+      "text": "Suwinet. Zie Doorbetaald loon of ziekengeld ERD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        330.75,
+        727.87,
+        342.0
+      ],
+      "text": "Inkomsten i.v.m. samenloop ZW-uitkering [3] Samenloop met een andere Ziektewet-uitkering in UZS. Zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        350.25,
+        596.95,
+        361.5
+      ],
+      "text": "Meerdere Ziektewet-uitkeringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        370.5,
+        741.47,
+        381.75
+      ],
+      "text": "Inkomsten i.v.m. uitkering Inkomsten die de cliënt of partner vanuit een andere uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        390.0,
+        743.08,
+        401.25
+      ],
+      "text": "ontvangt. Je gebruikt dit type inkomsten als de uitkeringen op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        409.5,
+        744.67,
+        420.75
+      ],
+      "text": "elkaar gekort worden of als het dagloon van de partner niet bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        429.0,
+        739.45,
+        440.25
+      ],
+      "text": "het dagloon van de cliënt is opgeteld. Let op de rangorde (zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        448.5,
+        705.79,
+        459.75
+      ],
+      "text": "ook de werkinstructie Completeren aanvraag toeslag).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        468.75,
+        721.19,
+        480.0
+      ],
+      "text": "Inkomsten uit arbeid Inkomsten die de cliënt of partner heeft ontvangen vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        488.25,
+        741.32,
+        499.5
+      ],
+      "text": "arbeid/loondienst. Dat zijn ook de tijdens de dienstbetrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        507.75,
+        709.52,
+        519.0
+      ],
+      "text": "betaalde uitkeringen (ziek tgv zwangerschap/bevalling,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        527.25,
+        567.12,
+        538.5
+      ],
+      "text": "orgaandonatie en no-risk).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        547.5,
+        721.19,
+        558.75
+      ],
+      "text": "Inkomsten uit een zelfstandig bedrijf of beroep Inkomsten die de cliënt of partner heeft ontvangen vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        567.0,
+        534.65,
+        578.25
+      ],
+      "text": "zelfstandige arbeid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.5,
+        587.25,
+        756.44,
+        598.5
+      ],
+      "text": "Ziekengeld ERD [4] Bij toeslag op ZW-uitkering van de ERD registreer je hier het door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        606.75,
+        750.83,
+        618.0
+      ],
+      "text": "de werkgever doorbetaalde ziekengeld. Zie Doorbetaald loon of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        436.31,
+        626.25,
+        515.64,
+        637.5
+      ],
+      "text": "ziekengeld ERD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        657.75,
+        225.8,
+        669.0
+      ],
+      "text": "Er zijn de volgende inkomsten:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        684.75,
+        82.57,
+        702.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        688.5,
+        225.18,
+        699.75
+      ],
+      "text": "WWZ (inkomsten via GINA)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        704.25,
+        82.57,
+        722.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        708.0,
+        354.47,
+        719.25
+      ],
+      "text": "Berekenen inkomstenbedrag voor reguliere Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        723.75,
+        82.57,
+        741.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        727.5,
+        173.12,
+        738.75
+      ],
+      "text": "Vaste inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        743.25,
+        82.57,
+        761.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        747.0,
+        202.16,
+        758.25
+      ],
+      "text": "Wisselende inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        762.75,
+        82.57,
+        780.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        766.5,
+        233.46,
+        777.75
+      ],
+      "text": "Meerdere soorten inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        782.25,
+        82.57,
+        800.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        786.0,
+        267.95,
+        797.25
+      ],
+      "text": "Doorbetaald loon of ziekengeld ERD",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        801.75,
+        82.57,
+        819.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        805.5,
+        346.99,
+        816.75
+      ],
+      "text": "Zelfstandige inkomsten of overige NVZP-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        821.25,
+        82.57,
+        839.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        825.0,
+        246.92,
+        836.25
+      ],
+      "text": "Meerdere Ziektewet-uitkeringen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        840.75,
+        82.57,
+        858.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        844.5,
+        210.57,
+        855.75
+      ],
+      "text": "Aanvullende verzekering",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        860.25,
+        82.57,
+        878.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        864.0,
+        351.26,
+        875.25
+      ],
+      "text": "Toeslagpartner ontvangt ZW- of een andere uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        898.5,
+        726.57,
+        909.75
+      ],
+      "text": "Je gaat verder met ‘Registreren toeslagpartner’ en ‘Registreren inkomsten’. Daarna ga je verder met de werkinstructie Bepalen recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        918.0,
+        114.15,
+        929.25
+      ],
+      "text": "toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        948.75,
+        325.35,
+        969.75
+      ],
+      "text": "Registreren toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        985.5,
+        591.5,
+        996.75
+      ],
+      "text": "Bij het bepalen van het recht, de duur en hoogte van de toeslag heb je de leefvorm van de cliënt bepaald:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        27.0,
+        82.57,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        30.75,
+        756.39,
+        42.0
+      ],
+      "text": "De cliënt heeft geen toeslagpartner: controleer in het scherm Registreren toeslag of het veld <BSN toeslagpartner> leeg is. Als het veld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        50.25,
+        430.73,
+        61.5
+      ],
+      "text": "niet leeg is, verwijder dan het aanwezige BSN en sla de gegevens op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        66.0,
+        82.57,
+        84.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        69.75,
+        724.31,
+        81.0
+      ],
+      "text": "De cliënt heeft een toeslagpartner: registreer in het scherm ‘Registreren toeslag’ het BSN van de toeslagpartner in het veld <BSN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        89.25,
+        170.98,
+        100.5
+      ],
+      "text": "toeslagpartner>:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        105.0,
+        97.57,
+        123.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        108.75,
+        755.98,
+        120.0
+      ],
+      "text": "Het BSN van de toeslagpartner staat in de aanvraag Toeslag van de cliënt en is hetzelfde als het BSN in Suwinet: registreer dit BSN.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        124.5,
+        97.57,
+        142.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        128.25,
+        765.87,
+        139.5
+      ],
+      "text": "Het BSN van de toeslagpartner staat in de aanvraag Toeslag van de cliënt en is niet hetzelfde als het BSN in Suwinet: bel de cliënt om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        147.75,
+        343.49,
+        159.0
+      ],
+      "text": "te controleren of het BSN in de aanvraag juist is:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        106.5,
+        163.5,
+        112.57,
+        181.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.25,
+        167.25,
+        292.87,
+        178.5
+      ],
+      "text": "Het BSN is juist: registreer dit BSN.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        106.5,
+        183.0,
+        112.57,
+        201.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.25,
+        186.75,
+        436.55,
+        198.0
+      ],
+      "text": "Het BSN is niet juist: vraag naar het juiste BSN en registreer dat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        221.25,
+        464.2,
+        232.5
+      ],
+      "text": "Verwerk in beide situaties de reden van registreren in de memo van UZS.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        237.0,
+        97.57,
+        255.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        240.75,
+        753.63,
+        252.0
+      ],
+      "text": "Het BSN van de toeslagpartner staat niet in de aanvraag Toeslag van de cliënt, maar wel in Suwinet: registreer het BSN uit Suwinet.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        91.5,
+        256.5,
+        97.57,
+        274.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        260.25,
+        763.22,
+        271.5
+      ],
+      "text": "Het BSN ven de toeslagpartner staat niet in de aanvraag Toeslag van de cliënt en Suwinet: bel de cliënt en vraag naar het BSN van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.25,
+        279.75,
+        555.11,
+        291.0
+      ],
+      "text": "toeslagpartner. Registreer dat BSN. Verwerk de reden van registreren in de memo van UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        314.25,
+        754.14,
+        325.5
+      ],
+      "text": "Door het registreren van het BSN van de toeslagpartner zet UZS 1 van de volgende signalen in je werklijst om je erop te attenderen dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        333.75,
+        579.6,
+        345.0
+      ],
+      "text": "toeslagpartner inkomsten heeft die van invloed kunnen zijn op de hoogte van de toeslag van de cliënt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        360.75,
+        82.57,
+        378.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        364.5,
+        413.84,
+        375.75
+      ],
+      "text": "UZZ0618 Beoordeel nieuwe inkomstenverhouding toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        380.25,
+        82.57,
+        398.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        384.0,
+        433.21,
+        395.25
+      ],
+      "text": "UZZ0619 Beoordeel beëindigde inkomstenverhouding toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        399.75,
+        82.57,
+        417.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        403.5,
+        431.41,
+        414.75
+      ],
+      "text": "UZZ0620 Beoordeel gewijzigde inkomstenverhouding toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        419.25,
+        82.57,
+        437.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        423.0,
+        383.9,
+        434.25
+      ],
+      "text": "UZZ0621 Toeslagpartner heeft (mogelijk) lopende uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        457.5,
+        237.91,
+        468.75
+      ],
+      "text": "Let op bij een zieke werkloze:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        477.0,
+        764.43,
+        488.25
+      ],
+      "text": "1: UZS geeft bij elke nieuwe inkomstenopgave het BSN van de partner door aan GINA. Voor de inkomstenopgaven waarbij de inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        496.5,
+        742.22,
+        507.75
+      ],
+      "text": "zijn vastgesteld en er bedragen staan in de kolom “Vastgesteld”, registreer je handmatig het BSN in het veld <Burgerservicenummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        516.0,
+        402.6,
+        527.25
+      ],
+      "text": "partner> in GINA-scherm ‘Selecteren uitkeringssituatie’ bij ‘ZW’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        535.5,
+        756.03,
+        546.75
+      ],
+      "text": "2: Als er een BSN toeslagpartner met terugwerkende kracht is, geeft UZS alleen het BSN door aan GINA bij nieuwe inkomstenopgaven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        555.0,
+        766.34,
+        566.25
+      ],
+      "text": "Je registreert het BSN van de toeslagpartner handmatig in het GINA-scherm ‘Onderhouden inkomstenopgave’. Je kiest de maand waarin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        574.5,
+        755.41,
+        585.75
+      ],
+      "text": "het BSN van de toeslagpartner ontbreekt en vult in het blok “Uitkeringssituatie” het veld <BSN Toeslagpartner>. Daarna controleer je of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        594.0,
+        571.36,
+        605.25
+      ],
+      "text": "ook de andere toeslagindicaties juist zijn gevuld. Vervolgens klik je op “Opslaan” en “Afhandelen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        624.75,
+        286.58,
+        645.75
+      ],
+      "text": "Registreren inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        666.0,
+        302.11,
+        684.75
+      ],
+      "text": "WWZ (inkomsten via GINA)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        699.0,
+        739.31,
+        710.25
+      ],
+      "text": "De cliënt krijgt een ZW-uitkering vanuit de WW. Hij vult elk maand een inkomstenopgave in waarop hij zijn inkomsten en/of die van zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        718.5,
+        760.23,
+        729.75
+      ],
+      "text": "partner vermeldt. De inkomsten worden via GINA in de Polis gecontroleerd en daarna naar UZS verstuurd. GINA controleert bij elke nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        738.0,
+        348.6,
+        749.25
+      ],
+      "text": "inkomstenopgave ook de partnerinkomsten in de Polis.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        768.75,
+        273.81,
+        780.0
+      ],
+      "text": "Registreren indicatie toeslag voor GINA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        788.25,
+        617.34,
+        799.5
+      ],
+      "text": "Je controleert in het scherm Beheren opdracht IKO WWZ de waarde in het veld <Indicatie toeslag voor GINA>:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        819.0,
+        158.84,
+        830.25
+      ],
+      "text": "De waarde is ‘Ja’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        838.5,
+        732.87,
+        849.75
+      ],
+      "text": "Er is een toeslagregel aangemaakt in het scherm ‘Registreren toeslag’ of vanuit de WW is er doorgegeven dat de cliënt recht heeft op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        858.0,
+        414.13,
+        869.25
+      ],
+      "text": "toeslag. UZS geeft automatisch door aan GINA dat er een toeslag is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        877.5,
+        229.06,
+        888.75
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        904.5,
+        82.57,
+        922.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        908.25,
+        734.63,
+        919.5
+      ],
+      "text": "Controleer in GINA eenmalig bij elke relevante inkomstenopgave of de ‘Indicatie Toeslag’ op ‘Ja’ staat. Als de leefvorm ‘Gehuwd of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        927.75,
+        520.25,
+        939.0
+      ],
+      "text": "daaraan gelijkgesteld’ is, controleer je ook of de ‘Indicatie Toeslagpartner’ op ‘Ja’ staat.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        943.5,
+        82.57,
+        961.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        947.25,
+        312.1,
+        958.5
+      ],
+      "text": "Kies in GINA voor “Opslaan” en “Afhandelen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        963.0,
+        82.57,
+        981.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        966.75,
+        726.41,
+        978.0
+      ],
+      "text": "Verwerk de toeslag inkomsten met de werkinstructies van de signalen UZZ0517 Verwerken inkomstenopgave GINA en UZZ0525",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        986.25,
+        337.82,
+        997.5
+      ],
+      "text": "Verwerken gecorrigeerde inkomstenopgave GINA.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        1002.0,
+        82.57,
+        1020.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1005.75,
+        383.71,
+        1017.0
+      ],
+      "text": "Ga verder met de werkinstructie Berekenen hoogte toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1040.25,
+        731.47,
+        1051.5
+      ],
+      "text": "Let op: Heeft de WW bij de overgang van de WW naar de Ziektewet in WWO aangegeven dat er toeslag is? Dan staat de <Indicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1059.75,
+        757.27,
+        1071.0
+      ],
+      "text": "toeslag voor GINA> standaard op ‘Ja’. Als er geen recht op toeslag is, wijzig je de <Indicatie toeslag voor GINA> naar ‘Nee’. Als er in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1079.25,
+        760.19,
+        1090.5
+      ],
+      "text": "scherm ‘Beheren inkomsten WWZ’ onterecht toeslag inkomsten zijn ontvangen, verwerk je die wel, maar maak je geen toeslagregel aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        1098.75,
+        264.14,
+        1110.0
+      ],
+      "text": "in het scherm ‘Registreren toeslag’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1129.5,
+        212.26,
+        1140.75
+      ],
+      "text": "De waarde is ‘Nee’ of ‘Leeg’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        30.75,
+        739.89,
+        42.0
+      ],
+      "text": "De cliënt vraagt voor het eerst toeslag aan of de <Indicatie toeslag voor GINA> is eerder op ‘Nee’ gezet omdat er geen recht op toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        50.25,
+        117.85,
+        61.5
+      ],
+      "text": "bestond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        69.75,
+        229.06,
+        81.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        96.75,
+        82.57,
+        114.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        100.5,
+        332.3,
+        111.75
+      ],
+      "text": "Wijzig de <Indicatie toeslag voor GINA> naar ‘Ja’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        116.25,
+        82.57,
+        134.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        120.0,
+        764.69,
+        131.25
+      ],
+      "text": "Wijzig in GINA voor elke relevante inkomstenopgave de ‘Indicatie toeslag’ naar ‘Ja’. Als de leefvorm ‘Gehuwd of daaraan gelijkgesteld’ is,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        139.5,
+        341.33,
+        150.75
+      ],
+      "text": "wijzig je de ‘Indicatie Toeslagpartner’ ook naar ‘Ja’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        155.25,
+        82.57,
+        173.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        159.0,
+        312.1,
+        170.25
+      ],
+      "text": "Kies in GINA voor “Opslaan” en “Afhandelen”.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        174.75,
+        82.57,
+        192.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        178.5,
+        433.44,
+        189.75
+      ],
+      "text": "Laat in het scherm ‘Registreren toeslag’ de status op ‘Concept’ staan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        194.25,
+        82.57,
+        212.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        198.0,
+        723.62,
+        209.25
+      ],
+      "text": "Verwerk de toeslaginkomsten met de werkinstructies van de signalen UZZ0517 Verwerken inkomstenopgave GINA en UZZ0525",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        217.5,
+        337.82,
+        228.75
+      ],
+      "text": "Verwerken gecorrigeerde inkomstenopgave GINA.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        233.25,
+        82.57,
+        251.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        237.0,
+        678.95,
+        248.25
+      ],
+      "text": "Als alle TW-inkomsten zijn verwerkt, wijzig je de status in het scherm Registreren toeslag naar ‘Voorlopig’ of ‘Definitief’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        252.75,
+        82.57,
+        270.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        256.5,
+        383.71,
+        267.75
+      ],
+      "text": "Ga verder met de werkinstructie Berekenen hoogte toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        288.0,
+        521.46,
+        306.75
+      ],
+      "text": "Berekenen inkomstenbedrag voor reguliere Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        328.5,
+        82.57,
+        346.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        332.25,
+        760.1,
+        343.5
+      ],
+      "text": "Tot 1 januari 2022 bereken je het inkomstenbedrag voor de Toeslagenwet als volgt: sv-loon – betaalde VT. Je verwerkt de betaalde EPS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        351.75,
+        755.6,
+        363.0
+      ],
+      "text": "als volgt: als de cliënt een eindejaarsuitkering ontvangt, neem je die mee vanaf de maand waarin de eindejaarsuitkering wordt betaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        371.25,
+        594.17,
+        382.5
+      ],
+      "text": "Je registreert het totaalbedrag aan eindejaarsuitkering en selecteert bij het veld <Tijdseenheid> ‘Jaar’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        387.0,
+        82.57,
+        405.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        390.75,
+        744.68,
+        402.0
+      ],
+      "text": "Vanaf 1 januari 2022 bereken je het inkomstenbedrag voor de toeslagenwet als volgt: sv-loon – betaalde VT + opgebouwde AVWB –",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        410.25,
+        169.27,
+        421.5
+      ],
+      "text": "betaalde AVWB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        456.0,
+        123.86,
+        467.25
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        475.5,
+        767.16,
+        486.75
+      ],
+      "text": "1: Als in Suwinet de rubrieken van de VT leeg zijn en de rubrieken van de AVWB wel gevuld zijn, dan registreert de werkgever de VT onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        495.0,
+        762.03,
+        506.25
+      ],
+      "text": "de rubrieken van de AVWB. In deze situatie pas je de breuk 100/108 toe op het sv-loon inclusief de opgebouwde AVWB. Hiermee haal je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        514.5,
+        185.29,
+        525.75
+      ],
+      "text": "de VT uit de AVWB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        534.0,
+        767.03,
+        545.25
+      ],
+      "text": "2: Als in Suwinet zowel de rubrieken van de VT als de rubrieken van de AVWB leeg zijn, dan is er all-in verloning. In deze situatie pas je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        553.5,
+        452.3,
+        564.75
+      ],
+      "text": "breuk 100/108 toe op het sv-loon. Hiermee haal je de VT uit het inkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        573.0,
+        763.47,
+        584.25
+      ],
+      "text": "3: Als het om niet-verzekeringsplichtige inkomsten gaat, haal je de VT ook uit de inkomsten door de breuk 100/108 toe te passen op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        592.5,
+        219.93,
+        603.75
+      ],
+      "text": "inkomstenbedrag per dag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        619.5,
+        82.57,
+        637.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        623.25,
+        755.8,
+        634.5
+      ],
+      "text": "Als het loon in het loontijdvak waarvoor je het inkomstenbedrag berekent vanwege onbetaald verlof volledig of gedeeltelijk verlaagd is,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        642.75,
+        729.98,
+        654.0
+      ],
+      "text": "gebruik je het loon in het loontijdvak direct voorafgaand aan het loontijdvak waarin het onbetaald verlof is begonnen. Als er direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        662.25,
+        740.95,
+        673.5
+      ],
+      "text": "voorafgaand geen loontijdvak zonder verlaging is, registreer je als inkomstenbedrag het feitelijke inkomen van het loontijdvak. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        681.75,
+        716.81,
+        693.0
+      ],
+      "text": "werkwijze geldt voor een cliënt met vaste inkomsten en voor een cliënt met wisselende inkomsten. Voor het registreren van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        701.25,
+        765.69,
+        712.5
+      ],
+      "text": "inkomsten ga je naar ‘Vaste inkomsten’. Meer informatie vind je in de wetsuitleg TW Vervangend inkomen vaststellen in geval van verlof.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        732.75,
+        214.98,
+        751.5
+      ],
+      "text": "Vaste inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        765.75,
+        510.96,
+        777.0
+      ],
+      "text": "De cliënt of zijn partner ontvangt vaste inkomsten gedurende de looptijd van de toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        785.25,
+        229.06,
+        796.5
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        812.25,
+        82.57,
+        830.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        816.0,
+        540.17,
+        827.25
+      ],
+      "text": "Kies de juiste ‘Type inkomsten’ en selecteer de betaalperiode (maand/4 weken/week/dag).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        831.75,
+        82.57,
+        849.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        835.5,
+        397.59,
+        846.75
+      ],
+      "text": "Registreer het inkomstenbedrag in het veld <Bedrag excl. VT>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        851.25,
+        82.57,
+        869.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        855.0,
+        234.24,
+        866.25
+      ],
+      "text": "Bepaal de <Datum aanvang>:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        870.75,
+        97.57,
+        888.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        874.5,
+        545.8,
+        885.75
+      ],
+      "text": "Bij inkomsten vanaf de startdatum toeslag registreer je de ingangsdatum van de toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.5,
+        890.25,
+        97.57,
+        908.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.25,
+        894.0,
+        577.51,
+        905.25
+      ],
+      "text": "Bij inkomsten later dan de ingangsdatum toeslag registreer je de startdatum van de inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        909.75,
+        82.57,
+        927.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        913.5,
+        257.9,
+        924.75
+      ],
+      "text": "Laat het veld <Datum Einde> leeg.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        945.0,
+        263.75,
+        963.75
+      ],
+      "text": "Wisselende inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        978.0,
+        353.65,
+        989.25
+      ],
+      "text": "De cliënt of zijn partner ontvangt wisselende inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        997.5,
+        229.06,
+        1008.75
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1024.5,
+        82.57,
+        1042.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1028.25,
+        537.0,
+        1039.5
+      ],
+      "text": "Kies het juiste type inkomsten en selecteer de betaalperiode (maand/4 weken/week/dag).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1044.0,
+        82.57,
+        1062.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1047.75,
+        397.59,
+        1059.0
+      ],
+      "text": "Registreer het inkomstenbedrag in het veld <Bedrag excl. VT>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1063.5,
+        82.57,
+        1081.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1067.25,
+        454.05,
+        1078.5
+      ],
+      "text": "Registreer de startdatum van de inkomsten in het veld <Datum aanvang>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        76.5,
+        1083.0,
+        82.57,
+        1101.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.25,
+        1086.75,
+        474.67,
+        1098.0
+      ],
+      "text": "Registreer de einddatum van de inkomstenperiode in het veld <Datum Einde>.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        27.75,
+        316.69,
+        46.5
+      ],
+      "text": "Meerdere soorten inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        60.75,
+        495.83,
+        72.0
+      ],
+      "text": "De cliënt of zijn partner ontvangt verschillende soorten inkomsten tijdens de toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        80.25,
+        753.1,
+        91.5
+      ],
+      "text": "Je vult per inkomstenbron een inkomstenregel in het scherm Beheren inkomsten ivm toeslag. Zie voor meer informatie de wetsuitleg TW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        99.75,
+        120.66,
+        111.0
+      ],
+      "text": "Inkomen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        131.25,
+        374.15,
+        150.0
+      ],
+      "text": "Doorbetaald loon of ziekengeld ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        164.25,
+        355.51,
+        175.5
+      ],
+      "text": "De cliënt ontvangt loon of ziekengeld van zijn werkgever:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        191.25,
+        82.57,
+        209.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        195.0,
+        447.5,
+        206.25
+      ],
+      "text": "Bij toeslag op loon registreer je het doorbetaalde loon van de werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        214.5,
+        763.84,
+        225.75
+      ],
+      "text": "Je berekent het inkomstenbedrag als volgt: sv-loon – betaalde VT + opgebouwde AVWB – betaalde AVWB. Als je geen doorbetaald loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        234.0,
+        713.15,
+        245.25
+      ],
+      "text": "registreert en op de knop “Bereken hoogte toeslag” klikt, geeft UZS de foutmelding ‘FO-03615 Bij ‘Toeslag op Loon’ moet altijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        253.5,
+        288.18,
+        264.75
+      ],
+      "text": "doorbetaald loon worden geregistreerd’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        273.0,
+        123.86,
+        284.25
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        292.5,
+        760.8,
+        303.75
+      ],
+      "text": "1: Als in Suwinet de rubrieken van de VT leeg zijn en de rubrieken van de AVWB wel gevuld zijn, registreert de werkgever de VT onder de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        312.0,
+        754.65,
+        323.25
+      ],
+      "text": "AVWB-rubrieken. Dan pas je de breuk 100/108 toe op het sv-loon inclusief de opgebouwde AVWB. Hiermee haal je de VT uit de AVWB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        331.5,
+        765.79,
+        342.75
+      ],
+      "text": "2: Als in Suwinet zowel de rubrieken van de VT als de rubrieken van de AVWB leeg zijn, is er all-in verloning. Dan pas je de breuk 100/108",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        351.0,
+        376.25,
+        362.25
+      ],
+      "text": "toe op het sv-loon. Hiermee haal je de VT uit het inkomen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        366.75,
+        82.57,
+        384.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        370.5,
+        475.33,
+        381.75
+      ],
+      "text": "Bij toeslag op ZW-uitkering van de ERD-werkgever registreer je het ziekengeld:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        91.5,
+        386.25,
+        97.57,
+        404.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.25,
+        390.0,
+        574.24,
+        401.25
+      ],
+      "text": "Voor gevallen met een toekenning na 10 oktober 2024 is dit het ERD-dagloon x 70% x 100/108.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        91.5,
+        405.75,
+        97.57,
+        423.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.25,
+        409.5,
+        743.06,
+        420.75
+      ],
+      "text": "Voor gevallen met een toekenning vóór 10 oktober 2024 is dit het sv-loon – betaalde VT + opgebouwde AVWB – betaalde AVWB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        444.0,
+        704.15,
+        455.25
+      ],
+      "text": "Je registreert bij toeslag op loon het inkomstenbedrag in het scherm Beheren inkomsten ivm toeslag met het ‘Type inkomsten’:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        463.5,
+        713.02,
+        474.75
+      ],
+      "text": "‘Doorbetaald Loon’. Bij toeslag op ZW-uitkering van de ERD gebruik je als ‘Type inkomsten’: ‘Ziekengeld ERD’. Hierbij gebruik je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        483.0,
+        230.58,
+        494.25
+      ],
+      "text": "inkomstenperiode van Suwinet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        513.75,
+        720.24,
+        525.0
+      ],
+      "text": "Alleen bij een nabetaling of een werkgeversbetaling vraag je bij de cliënt de loonstroken over deze periode op met brief SET00I057",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        533.25,
+        753.05,
+        544.5
+      ],
+      "text": "‘Mededeling ‘Opvragen ontbrekende informatie’ TW’ en gebruikt de LOV ‘Vrije Tekst’. Na ontvangst van de loonstroken bepaal je het juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        552.75,
+        750.46,
+        564.0
+      ],
+      "text": "bedrag aan doorbetaald loon of ziekengeld ERD. Je registreert dat bedrag bij toeslag op loon als ‘Doorbetaald Loon’ of bij toeslag op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        572.25,
+        301.88,
+        583.5
+      ],
+      "text": "ZW-uitkering van de ERD als ‘Ziekengeld ERD’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        603.0,
+        555.78,
+        614.25
+      ],
+      "text": "Daarna bepaal je of het om een vast bedrag per maand of een wisselend bedrag per maand gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        633.75,
+        191.41,
+        645.0
+      ],
+      "text": "Vast bedrag per maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        653.25,
+        761.02,
+        664.5
+      ],
+      "text": "Je maakt een herinnering aan voor 1 januari en 1 juli van het lopende en/of komende jaar met de tekst ‘Controleer het bedrag ‘Doorbetaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        672.75,
+        512.93,
+        684.0
+      ],
+      "text": "loon’ of ‘Ziekengeld ERD’’. Ga verder met ‘Na ontvangst van de herinnering in je werklijst’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        703.5,
+        220.86,
+        714.75
+      ],
+      "text": "Wisselend bedrag per maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        723.0,
+        731.69,
+        734.25
+      ],
+      "text": "Je maakt elke maand een herinnering aan om het loon te controleren. Ga verder met ‘Na ontvangst van de herinnering in je werklijst’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        753.75,
+        307.76,
+        765.0
+      ],
+      "text": "Na ontvangst van de herinnering in je werklijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        773.25,
+        730.36,
+        784.5
+      ],
+      "text": "Je controleert de bedragen in Suwinet. Na 1 januari en 1 juli controleer je ook of de indexering van het ziekengeld ERD zichtbaar is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        792.75,
+        758.64,
+        804.0
+      ],
+      "text": "Suwinet. Als de indexering niet zichtbaar is, vraag je bij de cliënt de loonstroken over deze periode op met de brief SET00I057 ‘Mededeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        812.25,
+        746.02,
+        823.5
+      ],
+      "text": "‘Opvragen ontbrekende informatie’ TW’ en gebruikt de LOV ‘Vrije tekst’. Na ontvangst van de loonstroken bepaal je het juiste bedrag aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        831.75,
+        153.57,
+        843.0
+      ],
+      "text": "ziekengeld ERD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        862.5,
+        763.15,
+        873.75
+      ],
+      "text": "Let op: Ontvangt de cliënt naast het doorbetaalde loon of het ziekengeld ERD nog andere inkomsten of een aanvulling? Dan registreer je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        882.0,
+        470.37,
+        893.25
+      ],
+      "text": "deze inkomsten volgens de bijbehorende beschrijving in deze werkinstructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        913.5,
+        508.7,
+        932.25
+      ],
+      "text": "Zelfstandige inkomsten of overige NVZP-inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        946.5,
+        748.46,
+        957.75
+      ],
+      "text": "De cliënt of zijn partner ontvangt zelfstandige inkomsten of overige niet verzekeringsplichtige (NVZP-)inkomsten. Als de cliënt vanuit de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        966.0,
+        757.72,
+        977.25
+      ],
+      "text": "WW een ZW-uitkering ontvangt, ga je verder met de werkinstructie Bepalen inkomsten WWZ met GINA. In alle andere gevallen ga je verder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        985.5,
+        218.03,
+        996.75
+      ],
+      "text": "met onderstaande instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1005.0,
+        730.41,
+        1016.25
+      ],
+      "text": "Doordat de inkomsten pas na de definitieve aanslag van een belastingjaar bekend zijn, stel je de hoogte van de toeslag eerst vast op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1024.5,
+        154.0,
+        1035.75
+      ],
+      "text": "voorschotbasis.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1044.0,
+        229.06,
+        1055.25
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        27.0,
+        82.57,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        30.75,
+        767.4,
+        42.0
+      ],
+      "text": "Registreer het BSN van de cliënt of de partner in de Zelfstandige Applicatie UWV (ZAU). Geef hierbij aan over welke jaren je de definitieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        50.25,
+        737.6,
+        61.5
+      ],
+      "text": "aanslag wil ontvangen. ZAU vraagt maandelijks de gegevens op bij de Belastingdienst en ontvangt de definitieve aanslag zodra die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        69.75,
+        585.47,
+        81.0
+      ],
+      "text": "bekend is (meestal na 1 juli van het opvolgende jaar). Meer informatie lees je in de handleiding ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        85.5,
+        82.57,
+        103.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        89.25,
+        707.02,
+        100.5
+      ],
+      "text": "Vraag de te verwachten zelfstandige of overige NVZP-inkomsten op bij de cliënt met brief SET00I057 ‘Mededeling ‘Opvragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        108.75,
+        233.92,
+        120.0
+      ],
+      "text": "ontbrekende informatie’ TW’’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        124.5,
+        82.57,
+        142.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        128.25,
+        760.8,
+        139.5
+      ],
+      "text": "Maak een herinnering aan voor 20 juli van het jaar volgend op het huidige jaar om de definitieve aanslag op te halen uit ZAU, zodat je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        147.75,
+        359.83,
+        159.0
+      ],
+      "text": "definitieve inkomsten voor de toeslag kunt vaststellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        182.25,
+        725.72,
+        193.5
+      ],
+      "text": "Zolang je geen definitieve inkomsten voor de toeslag kunt vaststellen, betaal je de toeslag op voorschotbasis. Je gebruikt de status",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        201.75,
+        605.54,
+        213.0
+      ],
+      "text": "‘Voorlopig’ en verstuurt eenmalig de brief SET13T060 ‘Voorschot toeslag ivm zelfstandige of NVZP-arbeid’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        221.25,
+        610.55,
+        232.5
+      ],
+      "text": "Let op: In deze situatie verstuur je geen herzieningsbrief als de hoogte van het voorschot tussentijds wijzigt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        252.0,
+        747.65,
+        263.25
+      ],
+      "text": "Als je de herinnering in je werklijst ontvangt, controleer je in ZAU of de definitieve aanslag (DA) of voorlopige aanslag (VA) is ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        282.75,
+        297.04,
+        294.0
+      ],
+      "text": "Je kunt de definitieve inkomsten vaststellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        302.25,
+        535.07,
+        313.5
+      ],
+      "text": "Je gebruikt de volgende gegevens uit de DA of VA om de definitieve inkomsten te berekenen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        329.25,
+        82.57,
+        347.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        333.0,
+        215.5,
+        344.25
+      ],
+      "text": "de winst uit onderneming",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        348.75,
+        82.57,
+        366.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        352.5,
+        199.82,
+        363.75
+      ],
+      "text": "de ondernemersaftrek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        368.25,
+        82.57,
+        386.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        372.0,
+        241.27,
+        383.25
+      ],
+      "text": "de MKB-winstvrijstelling, en/of",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        387.75,
+        82.57,
+        405.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        391.5,
+        291.7,
+        402.75
+      ],
+      "text": "het resultaat uit overige werkzaamheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        426.0,
+        123.86,
+        437.25
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        445.5,
+        761.12,
+        456.75
+      ],
+      "text": "1: Als er zowel inkomsten zijn vanuit zelfstandig werken als uit resultaat uit overige werkzaamheden, dan tel je deze bedragen bij elkaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        465.0,
+        747.49,
+        476.25
+      ],
+      "text": "op voor de onderstaande berekening. Als er alleen een bedrag ‘Resultaat uit overige werkzaamheden’ bekend is, gebruik je dit bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        484.5,
+        454.58,
+        495.75
+      ],
+      "text": "gedeeld door het aantal sv-dagen. Zoals hieronder in de berekening staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        504.0,
+        761.81,
+        515.25
+      ],
+      "text": "2: Als je een ‘lege’ aanslag ontvangt vanuit ZAU, dan betekent dit niet dat er geen inkomsten zijn. Bij een ‘lege’ aanslag vanuit ZAU vraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        523.5,
+        350.04,
+        534.75
+      ],
+      "text": "je de bovenstaande informatie alsnog schriftelijk op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        554.25,
+        576.69,
+        565.5
+      ],
+      "text": "Je berekent de definitieve korting op de volgende manier (zie ook de wetsuitleg TW Vakantietoeslag):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        585.0,
+        386.21,
+        596.25
+      ],
+      "text": "Bij een startdatum zelfstandig werken ná de eerste ziektedag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        604.5,
+        768.08,
+        615.75
+      ],
+      "text": "Je berekent het definitieve inkomstenbedrag per dag door de ‘Winst uit onderneming + Ondernemersaftrek + MKB winstvrijstelling)’ te delen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        624.0,
+        756.77,
+        635.25
+      ],
+      "text": "door het aantal ‘sv-dagen van startdatum zelfstandig werken t/m de laatste dag van het jaar. De uitkomst vermenigvuldig je met 100/108.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        654.75,
+        298.16,
+        666.0
+      ],
+      "text": "Bij een volledig jaar werken als zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        674.25,
+        768.08,
+        685.5
+      ],
+      "text": "Je berekent het definitieve inkomstenbedrag per dag door de ‘Winst uit onderneming + Ondernemersaftrek + MKB winstvrijstelling)’ te delen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        693.75,
+        345.89,
+        705.0
+      ],
+      "text": "door 261. De uitkomst vermenigvuldig je met 100/108.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        724.5,
+        754.45,
+        735.75
+      ],
+      "text": "Je registreert het definitieve inkomstenbedrag per dag in het juiste veld in het scherm Beheren inkomsten ivm toeslag. Daarna verstuur je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        744.0,
+        565.43,
+        755.25
+      ],
+      "text": "de brief SET13T061 ‘Definitieve toekenning toeslag na voorschot ivm zelfstandige of NVZP-arbeid’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        774.75,
+        319.0,
+        786.0
+      ],
+      "text": "Je kunt de definitieve inkomsten niet vaststellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        794.25,
+        491.8,
+        805.5
+      ],
+      "text": "Je wijzigt de datum van de herinnering naar de datum controle in ZAU + 2 maanden.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        825.75,
+        396.99,
+        844.5
+      ],
+      "text": "Afhandelen opvraag gegevens via ZAU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        858.75,
+        757.53,
+        870.0
+      ],
+      "text": "Nadat je het definitieve inkomstenbedrag per dag hebt bepaald op basis van de gegevens in ZAU, handel je jouw opvraag van gegevens af",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        878.25,
+        721.26,
+        889.5
+      ],
+      "text": "in ZAU. Als je dit niet doet, komt de invoer in ZAU niet op ‘Afgehandeld’ te staan en blijft ZAU onterecht berichten versturen naar de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        897.75,
+        565.19,
+        909.0
+      ],
+      "text": "Belastingdienst. Je gebruikt hiervoor de werkinstructie Invoeren, controleren en afhandelen in ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        929.25,
+        286.63,
+        948.0
+      ],
+      "text": "Meerdere ZW-uitkeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        962.25,
+        328.22,
+        973.5
+      ],
+      "text": "De cliënt ontvangt 2 of meer Ziektewet-uitkeringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        981.75,
+        207.05,
+        993.0
+      ],
+      "text": "Er zijn 2 situaties mogelijk:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        1008.75,
+        82.57,
+        1026.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1012.5,
+        536.37,
+        1023.75
+      ],
+      "text": "Alle uitkeringen lopen gelijktijdig en worden ook betaald (ze worden niet op elkaar gekort).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        76.5,
+        1028.25,
+        82.57,
+        1046.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.25,
+        1032.0,
+        494.73,
+        1043.25
+      ],
+      "text": "De ene uitkering wordt gekort op de andere uitkering (zoals bijvoorbeeld bij WWZ)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1066.5,
+        527.4,
+        1077.75
+      ],
+      "text": "Alle uitkeringen lopen gelijktijdig en worden ook betaald (ze worden niet op elkaar gekort)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1086.0,
+        755.07,
+        1097.25
+      ],
+      "text": "Je berekent het juiste bedrag aan toeslag door de daglonen bij elkaar op te tellen tot een totaal dagloon. Je registreert het bedrag van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1105.5,
+        738.28,
+        1116.75
+      ],
+      "text": "totaal dagloon in het scherm Registreren toeslag in het veld <Totaal dagloon bedrag> (incl. VT). In het scherm Beheren inkomsten ivm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        1125.0,
+        748.62,
+        1136.25
+      ],
+      "text": "toeslag registreer je onder de inkomsten van de cliënt het bedrag inkomsten per dag vanuit de andere rechten. Je gaat hiervoor naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        30.75,
+        758.89,
+        42.0
+      ],
+      "text": "andere recht, opent het scherm Raadplegen toekenningen, selecteert een betaalregel en klikt op “Detailgegevens”. Het bedrag ZW-/WAZO-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        50.25,
+        763.6,
+        61.5
+      ],
+      "text": "loon is het bedrag (excl. VT) dat je in het scherm ‘Beheren inkomsten ivm toeslag’ registreert onder de soort ‘Inkomsten uit samenloop ZW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        69.75,
+        435.31,
+        81.0
+      ],
+      "text": "uitkering’. Bij meerdere rechten tel je de uitkeringsbedragen bij elkaar op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        100.5,
+        487.02,
+        111.75
+      ],
+      "text": "De ene uitkering wordt gekort op de andere uitkering (zoals bijvoorbeeld bij WWZ)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        120.0,
+        757.84,
+        131.25
+      ],
+      "text": "Je berekent het juiste bedrag aan toeslag door in het scherm ‘Beheren inkomsten ivm toeslag’ het uitkeringsbedrag per dag te registreren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        139.5,
+        761.59,
+        150.75
+      ],
+      "text": "Het juiste bedrag vind je door naar het tweede recht te gaan en daar in het scherm ‘Raadplegen toekenningen’ de betaalregel te selecteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        159.0,
+        735.59,
+        170.25
+      ],
+      "text": "Je klikt op “Detailgegevens”, het bedrag ZW-/WAZO-loon is het bedrag per dag (excl. VT) dat je in het scherm ‘Beheren inkomsten ivm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        178.5,
+        382.06,
+        189.75
+      ],
+      "text": "toeslag’ registreert onder de soort ‘Inkomsten i.v.m. uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.25,
+        210.0,
+        266.42,
+        228.75
+      ],
+      "text": "Aanvulling op uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        243.0,
+        217.64,
+        254.25
+      ],
+      "text": "Dit is een bijzondere situatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        262.5,
+        714.25,
+        273.75
+      ],
+      "text": "Aanvullingen op uitkeringen zijn overig inkomen en registreer je onder ’Andere inkomsten’ (zie de wetsuitleg TW Overig inkomen).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        282.0,
+        755.91,
+        293.25
+      ],
+      "text": "Voor de berekening van de hoogte van de toeslag beoordeel je of de cliënt ook recht heeft op een aanvulling op de uitkering vanuit de cao",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        301.5,
+        764.96,
+        312.75
+      ],
+      "text": "Uitzendkrachten ABU of NBBU. Voor het berekenen van de hoogte van de toeslag gebruik je alleen de inkomsten die de cliënt daadwerkelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        321.0,
+        734.97,
+        332.25
+      ],
+      "text": "ontvangt en/of de inkomsten die de cliënt opgeeft. Dit is voor uitzendkrachten 20% voor het eerste ziektejaar en 10% voor het tweede",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        340.5,
+        737.25,
+        351.75
+      ],
+      "text": "ziektejaar (zie de ABU- en NBBU-cao). Uitzondering hierop zijn uitzendkrachten bij de NBBU waarvan de uitzendovereenkomst voor 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        360.0,
+        757.02,
+        371.25
+      ],
+      "text": "december 2019 is beëindigd. Die krijgen geen aanvulling van 10% in het tweede ziektejaar omdat zij volgens de NBBU nog onder de ‘oude’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        379.5,
+        127.57,
+        390.75
+      ],
+      "text": "cao vallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        410.25,
+        508.69,
+        421.5
+      ],
+      "text": "Je controleert in Suwinet of daar een aanvulling van de werkgever op de uitkering staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        429.75,
+        635.66,
+        441.0
+      ],
+      "text": "Die inkomsten staan in Suwinet onder code 61: Aanvulling van de werkgever aan een werknemer op een uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        449.25,
+        407.38,
+        460.5
+      ],
+      "text": "werknemersverzekeringen, terwijl de dienstbetrekking is beëindigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        480.75,
+        523.99,
+        495.75
+      ],
+      "text": "Aanvulling werkgever in Suwinet of informatie van cliënt ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        509.25,
+        735.11,
+        520.5
+      ],
+      "text": "Je registreert de aanvulling (uit Suwinet of die je van de cliënt ontving) exclusief VT in het scherm Beheren inkomsten ivm toeslag als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        528.75,
+        235.12,
+        540.0
+      ],
+      "text": "‘Aanvulling op een ZW-uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        559.5,
+        349.35,
+        570.75
+      ],
+      "text": "Je gaat verder met Aanvulling op lopende ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        591.0,
+        359.59,
+        606.0
+      ],
+      "text": "Aanvulling werkgever (nog) niet in Suwinet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        619.5,
+        760.49,
+        630.75
+      ],
+      "text": "Je berekent handmatig de hoogte van de aanvulling en toeslag. Je hebt dan de juiste informatie over de financiële gevolgen voor de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        650.25,
+        472.52,
+        661.5
+      ],
+      "text": "Uitleg handmatig berekenen aanvulling op uitkering en hoogte eventuele toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        681.0,
+        285.38,
+        692.25
+      ],
+      "text": "Informeren cliënt over recht op aanvulling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        700.5,
+        763.13,
+        711.75
+      ],
+      "text": "Je belt de cliënt en vertelt dat er recht bestaat op een aanvulling van de ex-werkgever. Dit heeft gevolgen voor de hoogte van de toeslag. Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        720.0,
+        403.26,
+        731.25
+      ],
+      "text": "vraagt of de cliënt dit weet en daarover al bericht heeft ontvangen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        747.0,
+        82.57,
+        765.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        750.75,
+        638.36,
+        762.0
+      ],
+      "text": "Zo ja: leg uit dat je nog geen bedragen hebt en waarom dat zo is. Vraag hoe de cliënt de toeslag wil ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        766.5,
+        82.57,
+        784.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        770.25,
+        677.18,
+        781.5
+      ],
+      "text": "Zo nee: leg uit dat dit in de cao Uitzendkrachten is geregeld. Adviseer de cliënt om dit bij de ex-werkgever na te vragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        804.75,
+        356.26,
+        816.0
+      ],
+      "text": "Je gaat verder met ‘Bespreken opties toeslag met cliënt’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        835.5,
+        255.4,
+        846.75
+      ],
+      "text": "Bespreken opties toeslag met cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        855.0,
+        305.7,
+        866.25
+      ],
+      "text": "Je bespreekt de volgende opties met de cliënt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        882.0,
+        82.57,
+        900.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        885.75,
+        633.75,
+        897.0
+      ],
+      "text": "Toeslag op basis van de huidige gegevens in Suwinet zonder rekening te houden met de eventuele aanvulling.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        901.5,
+        82.57,
+        919.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        905.25,
+        386.16,
+        916.5
+      ],
+      "text": "Toeslag pas ontvangen als de cliënt de aanvulling ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        921.0,
+        82.57,
+        939.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        924.75,
+        492.44,
+        936.0
+      ],
+      "text": "Toeslag op voorschotbasis. Je gebruikt de eventuele aanvulling in de berekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        959.25,
+        627.15,
+        970.5
+      ],
+      "text": "Toeslag op basis van de huidige gegevens in Suwinet zonder rekening te houden met de eventuele aanvulling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        978.75,
+        201.72,
+        990.0
+      ],
+      "text": "De cliënt kiest deze optie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.25,
+        998.25,
+        229.06,
+        1009.5
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        1025.25,
+        82.57,
+        1043.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        1029.0,
+        378.48,
+        1040.25
+      ],
+      "text": "Vertel de cliënt hoogte van de door jou berekende toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        1044.75,
+        82.57,
+        1062.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        1048.5,
+        732.28,
+        1059.75
+      ],
+      "text": "Vertel de cliënt dat zodra de aanvulling bekend is, je het recht op toeslag opnieuw beoordeelt en er mogelijk een terugvordering of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        1068.0,
+        171.94,
+        1079.25
+      ],
+      "text": "nabetaling volgt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        1083.75,
+        82.57,
+        1101.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        1087.5,
+        598.68,
+        1098.75
+      ],
+      "text": "Spreek met de cliënt af dat hij een wijzigingsformulier invult en verstuurt als hij de aanvulling ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        1103.25,
+        82.57,
+        1121.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        1107.0,
+        719.16,
+        1118.25
+      ],
+      "text": "Registreer in het scherm Beheren inkomsten ivm toeslag de door jou berekende aanvulling als ‘Aanvulling op een ZW-uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        76.5,
+        1122.75,
+        82.57,
+        1140.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.25,
+        1126.5,
+        417.88,
+        1137.75
+      ],
+      "text": "Registreer in het scherm Registreren toeslag de status ‘Voorlopig’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        27.0,
+        82.57,
+        45.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        30.75,
+        369.51,
+        42.0
+      ],
+      "text": "Verstuur brief SET13T331 ‘Voorschot TW’ naar de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        46.5,
+        82.57,
+        64.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        50.25,
+        420.96,
+        61.5
+      ],
+      "text": "Registreer het gesprek met de cliënt in K3CR-lite en het memoveld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        66.0,
+        82.57,
+        84.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        69.75,
+        559.21,
+        81.0
+      ],
+      "text": "Maak in UZS een herinnering over 6 weken om te controleren of de aanvulling in Suwinet staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        104.25,
+        374.67,
+        115.5
+      ],
+      "text": "Toeslag pas ontvangen als de cliënt de aanvulling ontvangt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        123.75,
+        201.72,
+        135.0
+      ],
+      "text": "De cliënt kiest deze optie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        143.25,
+        229.06,
+        154.5
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        170.25,
+        82.57,
+        188.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        174.0,
+        507.7,
+        185.25
+      ],
+      "text": "Vertel de cliënt dat zodra de aanvulling bekend is, je het recht op toeslag beoordeelt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        189.75,
+        82.57,
+        207.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        193.5,
+        598.68,
+        204.75
+      ],
+      "text": "Spreek met de cliënt af dat hij een wijzigingsformulier invult en verstuurt als hij de aanvulling ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        209.25,
+        82.57,
+        227.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        213.0,
+        420.96,
+        224.25
+      ],
+      "text": "Registreer het gesprek met de cliënt in K3CR-lite en het memoveld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        228.75,
+        82.57,
+        246.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        232.5,
+        559.21,
+        243.75
+      ],
+      "text": "Maak in UZS een herinnering over 6 weken om te controleren of de aanvulling in Suwinet staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        267.0,
+        487.54,
+        278.25
+      ],
+      "text": "Toeslag op voorschotbasis. Je gebruikt de eventuele aanvulling in de berekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        286.5,
+        201.72,
+        297.75
+      ],
+      "text": "De cliënt kiest deze optie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        306.0,
+        229.06,
+        317.25
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        333.0,
+        82.57,
+        351.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        336.75,
+        378.48,
+        348.0
+      ],
+      "text": "Vertel de cliënt hoogte van de door jou berekende toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        352.5,
+        82.57,
+        370.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        356.25,
+        732.28,
+        367.5
+      ],
+      "text": "Vertel de cliënt dat zodra de aanvulling bekend is, je het recht op toeslag opnieuw beoordeelt en er mogelijk een terugvordering of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        375.75,
+        171.94,
+        387.0
+      ],
+      "text": "nabetaling volgt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        391.5,
+        82.57,
+        409.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        395.25,
+        598.68,
+        406.5
+      ],
+      "text": "Spreek met de cliënt af dat hij een wijzigingsformulier invult en verstuurt als hij de aanvulling ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        411.0,
+        82.57,
+        429.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        414.75,
+        723.66,
+        426.0
+      ],
+      "text": "Registreer in het scherm ‘Beheren inkomsten ivm toeslag’ de door jou berekende aanvulling als ‘Aanvulling op een ZW-uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        430.5,
+        82.57,
+        448.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        434.25,
+        422.39,
+        445.5
+      ],
+      "text": "Registreer in het scherm ‘Registreren toeslag’ de status ‘Voorlopig’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        450.0,
+        82.57,
+        468.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        453.75,
+        369.51,
+        465.0
+      ],
+      "text": "Verstuur brief SET13T331 ‘Voorschot TW’ naar de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        469.5,
+        82.57,
+        487.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        473.25,
+        420.96,
+        484.5
+      ],
+      "text": "Registreer het gesprek met de cliënt in K3CR-lite en het memoveld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        489.0,
+        82.57,
+        507.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        492.75,
+        559.21,
+        504.0
+      ],
+      "text": "Maak in UZS een herinnering over 6 weken om te controleren of de aanvulling in Suwinet staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        527.25,
+        579.45,
+        538.5
+      ],
+      "text": "Ontvangen wijzigingsformulier van cliënt voordat signaal ‘UZW0163 Herinnering’ in je werklijst staat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        546.75,
+        724.93,
+        558.0
+      ],
+      "text": "Als je het wijzigingsformulier binnen 6 weken ontvangt, zet UZS signaal ‘UZZ5080 Aanvullende informatie ontvangen’ in je werklijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        566.25,
+        714.81,
+        577.5
+      ],
+      "text": "Je fiatteert het signaal ‘UZW0163 Herinnering’ en gaat verder met de werkinstructie van signaal UZZ5080 Aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        585.75,
+        129.73,
+        597.0
+      ],
+      "text": "ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        616.5,
+        351.08,
+        627.75
+      ],
+      "text": "Controleren gegevens aanvulling werkgever in Suwinet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        636.0,
+        464.26,
+        647.25
+      ],
+      "text": "UZS zet na 6 weken automatisch signaal ‘UZW0163 Herinnering’ in je werklijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        655.5,
+        509.05,
+        666.75
+      ],
+      "text": "Je controleert of de informatie over de aanvulling van de ex-werkgever in Suwinet staat:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        682.5,
+        82.57,
+        700.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        686.25,
+        244.41,
+        697.5
+      ],
+      "text": "De informatie staat in Suwinet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        705.75,
+        244.06,
+        717.0
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        721.5,
+        97.57,
+        739.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        725.25,
+        762.0,
+        736.5
+      ],
+      "text": "Registreer in het scherm ‘Beheren inkomsten ivm toeslag’ de aanvulling uit Suwinet exclusief VT als ‘Aanvulling op een ZW-uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        741.0,
+        97.57,
+        759.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        744.75,
+        637.59,
+        756.0
+      ],
+      "text": "Bepaal of je brief SET15H261 ‘Herziening toeslag’ of SET13T020 ‘Recht op toeslag’ naar de cliënt verstuurt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        76.5,
+        760.5,
+        82.57,
+        778.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        764.25,
+        266.37,
+        775.5
+      ],
+      "text": "De informatie staat niet in Suwinet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        783.75,
+        396.64,
+        795.0
+      ],
+      "text": "Je hebt ook geen wijzigingsformulier van de cliënt ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.25,
+        803.25,
+        244.06,
+        814.5
+      ],
+      "text": "Je voert de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        819.0,
+        97.57,
+        837.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        822.75,
+        755.41,
+        834.0
+      ],
+      "text": "Vraag de informatie over de aanvulling op bij de cliënt met de brief ‘SET00I057 ‘Mededeling ‘Opvragen ontbrekende informatie’ TW’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.5,
+        838.5,
+        97.57,
+        856.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        842.25,
+        753.01,
+        853.5
+      ],
+      "text": "Als je na 5 werkdagen nog geen informatie hebt ontvangen, zet UZS automatisch het signaal ‘UZZ0274 Ontbrekende gegevens niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        104.25,
+        861.75,
+        542.51,
+        873.0
+      ],
+      "text": "ontvangen’ in je werklijst. Handel dit signaal af volgens de werkinstructie van dit signaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        893.25,
+        312.26,
+        908.25
+      ],
+      "text": "Aanvulling op lopende ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        921.75,
+        765.55,
+        933.0
+      ],
+      "text": "Je maakt een herinnering in UZS op 1 januari en 1 juli van het huidige en komende jaar om de hoogte van de aanvulling te controleren en zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        941.25,
+        452.26,
+        952.5
+      ],
+      "text": "nodig te wijzigen. Dit geldt ook voor de overgang naar het tweede ziektejaar.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.25,
+        972.75,
+        480.64,
+        991.5
+      ],
+      "text": "Toeslagpartner ontvangt ZW- of andere uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1005.75,
+        753.78,
+        1017.0
+      ],
+      "text": "Als de cliënt een ZW-uitkering ontvangt en zijn partner een ZW-uitkering of een andere lopende uitkering en alleen de cliënt heeft recht op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1025.25,
+        728.61,
+        1036.5
+      ],
+      "text": "toeslag, dan bereken je een juist bedrag aan toeslag door alle inkomsten van de toeslagpartner te registreren in het scherm Beheren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1044.75,
+        320.89,
+        1056.0
+      ],
+      "text": "inkomsten ivm toeslag onder ‘inkomsten partner’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1075.5,
+        758.74,
+        1086.75
+      ],
+      "text": "Als de cliënt een ZW-uitkering ontvangt, zijn partner een andere lopende uitkering ontvangt (geen ZW-uitkering) en beiden recht hebben op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1095.0,
+        542.88,
+        1106.25
+      ],
+      "text": "toeslag, dan behandelt de afdeling die de uitkering van de partner betaalt de aanvraag toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1125.75,
+        747.07,
+        1137.0
+      ],
+      "text": "Als de cliënt en zijn partner beiden een ZW-uitkering ontvangen en voor beiden recht op toeslag bestaat, bereken je een juist bedrag aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.25,
+        1145.25,
+        324.99,
+        1156.5
+      ],
+      "text": "toeslag door beide daglonen bij elkaar op te tellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        30.75,
+        269.93,
+        42.0
+      ],
+      "text": "Daarvoor voer je de volgende acties uit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        76.5,
+        57.75,
+        82.57,
+        75.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        61.5,
+        362.94,
+        72.75
+      ],
+      "text": "Tel de daglonen van beide ZW-uitkeringen bij elkaar op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        76.5,
+        77.25,
+        82.57,
+        95.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        81.0,
+        689.48,
+        92.25
+      ],
+      "text": "Registreer het totaal van de 2 daglonen in het scherm ‘Registreren toeslag’ in het veld <Totaal dagloon bedrag> (incl. VT).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        76.5,
+        96.75,
+        82.57,
+        114.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        100.5,
+        754.78,
+        111.75
+      ],
+      "text": "Registreer in het scherm ‘Beheren inkomsten ivm toeslag’ het bedrag inkomsten per dag vanuit de andere rechten onder de inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        120.0,
+        154.78,
+        131.25
+      ],
+      "text": "van de cliënt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        91.5,
+        135.75,
+        97.57,
+        153.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        104.25,
+        139.5,
+        585.71,
+        150.75
+      ],
+      "text": "Ga hiervoor naar het recht van de toeslagpartner en open het scherm ‘Raadplegen toekenningen’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        91.5,
+        155.25,
+        97.57,
+        173.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        104.25,
+        159.0,
+        370.65,
+        170.25
+      ],
+      "text": "Selecteer een betaalregel en klik op “Detailgegevens”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        193.5,
+        738.09,
+        204.75
+      ],
+      "text": "Het bedrag ZW/WAZO-loon is het bedrag (excl. VT) dat je in het scherm ‘Beheren inkomsten ivm toeslag’ registreert onder de soort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        213.0,
+        289.24,
+        224.25
+      ],
+      "text": "‘Inkomsten uit samenloop ZW-uitkering’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        76.5,
+        228.75,
+        82.57,
+        246.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        232.5,
+        765.44,
+        243.75
+      ],
+      "text": "Als de toeslagpartner naast de ZW-uitkering ook nog inkomsten heeft, dan registreer je die inkomsten in het scherm ‘Beheren inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        252.0,
+        624.91,
+        263.25
+      ],
+      "text": "ivm toeslag’ onder ‘Klant’. Alleen in deze situatie registreer je alle inkomsten onder de cliënt i.p.v. de partner.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        286.5,
+        760.11,
+        297.75
+      ],
+      "text": "Let op: Bij WWZ geeft de cliënt de inkomsten van de toeslagpartner door via de inkomstenopgave. De inkomsten van de toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        306.0,
+        765.32,
+        317.25
+      ],
+      "text": "zet je na het registreren in het scherm ‘Beheren inkomsten WWZ’ handmatig om naar cliëntinkomsten in het scherm ‘Beheren inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.25,
+        325.5,
+        152.24,
+        336.75
+      ],
+      "text": "ivm toeslag’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        357.0,
+        108.55,
+        368.25
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        377.25,
+        470.83,
+        388.5
+      ],
+      "text": "Cliënt Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        404.25,
+        437.7,
+        422.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        408.0,
+        757.92,
+        419.25
+      ],
+      "text": "SET00I057 ‘Mededeling ‘Opvragen ontbrekende informatie’ TW’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        423.75,
+        437.7,
+        441.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        427.5,
+        593.8,
+        438.75
+      ],
+      "text": "SET13T020 ‘Recht op toeslag’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        443.25,
+        437.7,
+        461.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        447.0,
+        765.41,
+        458.25
+      ],
+      "text": "SET13T060 ‘Voorschot toeslag ivm zelfstandige of NVZP-arbeid’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        462.75,
+        437.7,
+        480.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        466.5,
+        746.29,
+        477.75
+      ],
+      "text": "SET13T061 ‘Definitieve toekenning toeslag na voorschot ivm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        486.0,
+        587.25,
+        497.25
+      ],
+      "text": "zelfstandige of NVZP-arbeid’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        501.75,
+        437.7,
+        519.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        505.5,
+        580.78,
+        516.75
+      ],
+      "text": "SET13T331 ‘Voorschot TW’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        521.25,
+        437.7,
+        539.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        525.0,
+        604.49,
+        536.25
+      ],
+      "text": "SET15H261 ‘Herziening toeslag’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        559.5,
+        474.0,
+        570.75
+      ],
+      "text": "Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        586.5,
+        437.7,
+        604.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        590.25,
+        603.13,
+        601.5
+      ],
+      "text": "Controleren BSN toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        606.0,
+        437.7,
+        624.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        609.75,
+        635.34,
+        621.0
+      ],
+      "text": "Informeren recht aanvulling werkgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        625.5,
+        437.7,
+        643.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        629.25,
+        638.51,
+        640.5
+      ],
+      "text": "Bespreken opties toeslag bij aanvulling",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        645.75,
+        437.7,
+        663.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        649.5,
+        538.96,
+        660.75
+      ],
+      "text": "Intern Registraties in UZS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        665.25,
+        437.7,
+        683.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        669.0,
+        513.03,
+        680.25
+      ],
+      "text": "UZS-signalen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        684.75,
+        452.7,
+        702.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        688.5,
+        569.48,
+        699.75
+      ],
+      "text": "UZW0163 Herinnering",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        704.25,
+        452.7,
+        722.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        708.0,
+        699.26,
+        719.25
+      ],
+      "text": "UZZ0274 Ontbrekende gegevens niet ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        723.75,
+        452.7,
+        741.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        727.5,
+        708.05,
+        738.75
+      ],
+      "text": "UZZ0618 Beoordeel nieuwe inkomstenverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        747.0,
+        532.5,
+        758.25
+      ],
+      "text": "toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        762.75,
+        452.7,
+        780.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        766.5,
+        727.42,
+        777.75
+      ],
+      "text": "UZZ0619 Beoordeel beëindigde inkomstenverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        786.0,
+        532.5,
+        797.25
+      ],
+      "text": "toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        801.75,
+        452.7,
+        819.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        805.5,
+        725.62,
+        816.75
+      ],
+      "text": "UZZ0620 Beoordeel gewijzigde inkomstenverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        825.0,
+        532.5,
+        836.25
+      ],
+      "text": "toeslagpartner",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        840.75,
+        452.7,
+        858.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        844.5,
+        754.02,
+        855.75
+      ],
+      "text": "UZZ0621 Toeslagpartner heeft (mogelijk) lopende uitkering",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        446.62,
+        860.25,
+        452.7,
+        878.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.37,
+        864.0,
+        679.05,
+        875.25
+      ],
+      "text": "UZZ5080 Aanvullende informatie ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        879.75,
+        437.7,
+        897.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        883.5,
+        598.21,
+        894.75
+      ],
+      "text": "Gesprek met cliënt in K3CR-lite",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        903.75,
+        148.84,
+        915.0
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        924.0,
+        130.71,
+        935.25
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        955.5,
+        144.62,
+        966.75
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        975.75,
+        506.1,
+        987.0
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.37,
+        995.25,
+        517.73,
+        1006.5
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1015.5,
+        276.08,
+        1026.75
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.25,
+        1035.75,
+        504.35,
+        1047.0
+      ],
+      "text": "Toelichting Wetsuitleg TW:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        1062.75,
+        437.7,
+        1080.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        1066.5,
+        487.81,
+        1077.75
+      ],
+      "text": "Inkomen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        1082.25,
+        437.7,
+        1100.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        1086.0,
+        522.22,
+        1097.25
+      ],
+      "text": "Overig inkomen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        1101.75,
+        437.7,
+        1119.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        1105.5,
+        698.94,
+        1116.75
+      ],
+      "text": "Vervangend inkomen vaststellen in geval van verlof",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        431.62,
+        1121.25,
+        437.7,
+        1139.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.37,
+        1125.0,
+        524.75,
+        1136.25
+      ],
+      "text": "Vakantietoeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.25,
+        31.5,
+        144.12,
+        42.75
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.18,
+        51.75,
+        715.08,
+        63.0
+      ],
+      "text": "Registreren toeslag in UZS Berekenen hoogte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        717.87,
+        51.75,
+        768.74,
+        65.43
+      ],
+      "text": "toeslag►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.25,
+        54.18,
+        85.38,
+        65.43
+      ],
+      "text": "◄",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.18,
+        71.25,
+        715.08,
+        82.5
+      ],
+      "text": "Bepalen recht toeslag Bepalen recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        717.87,
+        71.25,
+        768.74,
+        84.93
+      ],
+      "text": "toeslag►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.25,
+        73.68,
+        85.38,
+        84.93
+      ],
+      "text": "◄",
+      "source": "text"
+    }
+  ]
+}

@@ -1,0 +1,1769 @@
+{
+  "source_id": "2026-04-09-woo-besluit-protocollen-fraudeonderzoek/2026-04-09-bijlage-14-bewijsrecht-handboek",
+  "publication_slug": "2026-04-09-woo-besluit-protocollen-fraudeonderzoek",
+  "pdf_slug": "2026-04-09-bijlage-14-bewijsrecht-handboek",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-protocollen-fraudeonderzoek",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/cfafa8ee-1101-41b5-b12c-3df4d1c64be3/bijlage-14-bewijsrecht-handboek.pdf",
+  "publication_title": "Woo-besluit over protocollen van een fraudeonderzoek",
+  "publication_date": "2026-04-09T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 14. Bewijsrecht Handboek (PDF, 2 MB)",
+  "retrieved_at": "2026-06-30T11:04:11+00:00",
+  "sha256": "5325cbad0dd9fe7f6d901c1b05e508a7c2df42d01a291165e133be00890709c7",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        366.08,
+        170.01
+      ],
+      "text": "Home » Handboeken » Proces Handhaving » Algemene instructies » Bewijsrecht",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        336.03,
+        275.63,
+        364.03
+      ],
+      "text": "Proces Handhaving",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        203.91,
+        406.02
+      ],
+      "text": "Het bewijsrecht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        411.01,
+        734.25,
+        426.01
+      ],
+      "text": "Het bewijsrecht speelt bij UWV en de divisie Handhaving in het bijzonder een belangrijke rol. Dagelijks worden er besluiten genomen die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        430.01,
+        767.62,
+        445.01
+      ],
+      "text": "ingrijpend zijn voor onze klanten. Deze besluiten moeten wij goed kunnen onderbouwen met bewijs. In zijn algemeenheid geldt dat hoe sterker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        450.01,
+        760.56,
+        465.01
+      ],
+      "text": "een besluit in negatieve zin ingrijpt in de rechtspositie van een klant , hoe zwaarder de eisen zullen zijn die aan het onderzoek worden gesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        469.01,
+        756.86,
+        484.01
+      ],
+      "text": "Maar wanneer is er sprake van voldoende bewijs? Allereerst is het belangrijk om een aantal begrippen van het bewijsrecht te onderscheiden:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        538.02,
+        261.5,
+        562.02
+      ],
+      "text": "Belangrijke begrippen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        556.01,
+        766.73,
+        571.01
+      ],
+      "text": "Bewijslast: De last om te bewijzen , welke partij is aan zet om iets te bewijzen? In het bestuursrecht ligt de bewijslast op het bestuursorgaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        560.02,
+        71.0,
+        576.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        576.01,
+        261.57,
+        591.01
+      ],
+      "text": "dat het belastende besluit wil nemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        595.01,
+        765.43,
+        610.01
+      ],
+      "text": "Omkering van de bewijslast: wanneer iets aannemelijk gemaakt is moet de tegenpartij met bewijs de onjuistheid van het belastende bewijs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        599.02,
+        71.0,
+        615.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        615.01,
+        175.72,
+        630.01
+      ],
+      "text": "aannemelijk maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        634.01,
+        759.5,
+        649.01
+      ],
+      "text": "Bewijsmiddelen: middelen van bewijs om hetgeen waarvan verwijt wordt gemaakt te bewijzen zoals bijvoorbeeld: een getuigenverklaring ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        638.02,
+        71.0,
+        654.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        654.01,
+        415.72,
+        669.01
+      ],
+      "text": "een aanvraagformulier WW , of een (vervalste) uitzendovereenkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        673.01,
+        376.0,
+        688.01
+      ],
+      "text": "Bewijsmaatstaf: de mate waarin iets bewezen moet worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        677.02,
+        71.0,
+        693.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        757.02,
+        153.28,
+        781.02
+      ],
+      "text": "Bewijslast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        775.01,
+        755.67,
+        790.01
+      ],
+      "text": "De bewijslast is de last om iets te bewijzen. Welke partij is aan zet om iets te bewijzen? Wie draagt de bewijslast? Is UWV aan zet om iets te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        795.01,
+        769.25,
+        810.01
+      ],
+      "text": "bewijzen of is de klant aan zet? De Centrale Raad van Beroep (hierna ; CRvB) heeft een hoofdregel over de bewijslastverdeling geformuleerd die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        814.01,
+        737.67,
+        829.01
+      ],
+      "text": "in vele uitspraken van de CRvB terugkomt. Deze hoofdregel luidt als volgt: Bij een belastend besluit is het aan het bestuursorgaan om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        834.01,
+        771.5,
+        849.01
+      ],
+      "text": "nodige kennis omtrent de relevante feiten te vergaren (zie bijvoorbeeld ECLI:NL:CRVB:2006:AZ1819). Als UWV een bepaald vermoeden níet kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        853.01,
+        304.6,
+        868.01
+      ],
+      "text": "bewijzen , komt het risico voor rekening van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        892.01,
+        762.67,
+        907.01
+      ],
+      "text": "Als bijvoorbeeld UWV vermoedt dat een klant tijdens zijn uitkering in het buitenland verbleef , is UWV aan zet om aannemelijk te maken dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        912.01,
+        725.0,
+        927.01
+      ],
+      "text": "klant gedurende zijn uitkering niet in Nederland verbleef. Als UWV slaagt in het aannemelijk maken van het verblijf in het buitenland is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        931.01,
+        757.75,
+        946.01
+      ],
+      "text": "vervolgens de klant aan zet om aannemelijk te maken dat hij in Nederland verbleef gedurende zijn uitkering. De klant kan het bewijs dat UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        951.01,
+        196.92,
+        966.01
+      ],
+      "text": "heeft vergaard weerleggen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        1019.02,
+        315.36,
+        1043.02
+      ],
+      "text": "Omkering van de bewijslast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        1037.01,
+        769.4,
+        1052.01
+      ],
+      "text": "We gaan er in bovenstaand voorbeeld vanuit dat UWV er in is geslaagd om het verblijf buitenland aannemelijk te maken. De klant is nu aan zet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        1056.01,
+        767.36,
+        1071.02
+      ],
+      "text": "Slaagt de klant er in om het bewijsmiddel van UWV te weerleggen , dan is UWV weer aan zet. Zo kan het doorgaan. Omkering van de bewijslast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        1076.02,
+        479.2,
+        1091.02
+      ],
+      "text": "vindt pas plaats als UWV geslaagd is in het aannemelijk maken. Niet eerder dan dat!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        1107.02,
+        725.0,
+        1122.02
+      ],
+      "text": "Het bovengenoemde voorbeeld is een situatie waarbij de aanvraag van de uitkering al is toegekend en waarbij – als UWV slaagt in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        1126.02,
+        527.06,
+        1141.02
+      ],
+      "text": "aannemelijk maken van het verblijf buitenland – de uitkering wordt herzien en teruggevorderd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        57.0,
+        21.16,
+        788.02,
+        184.16
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        413.0,
+        250.01,
+        612.71,
+        259.01
+      ],
+      "text": "andere dan boete.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        67.0,
+        250.01,
+        559.5,
+        261.01
+      ],
+      "text": "Bij herziening-, intrekking- terugvorderingsbeslissing geldt bewijsmaatstaf bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        252.01,
+        578.75,
+        258.01
+      ],
+      "text": "een en een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        406.0,
+        269.01,
+        477.86,
+        280.01
+      ],
+      "text": "bewijsmaatstaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        379.0,
+        270.01,
+        384.33,
+        278.01
+      ],
+      "text": "is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        390.0,
+        270.01,
+        579.86,
+        279.01
+      ],
+      "text": "de maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.0,
+        270.01,
+        541.91,
+        281.01
+      ],
+      "text": "Bij herziening-, intrekking- terugvorderingsbeslissing aannemelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        69.0,
+        272.0,
+        71.0,
+        276.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.0,
+        272.01,
+        239.33,
+        278.01
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        149.0,
+        289.01,
+        717.67,
+        297.01
+      ],
+      "text": "is Dat is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        118.0,
+        289.01,
+        737.5,
+        298.01
+      ],
+      "text": "boete de betekent dus dat de het boete zwaarder dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.0,
+        289.01,
+        754.25,
+        300.01
+      ],
+      "text": "Bij bewijsmaatstaf bewijsmaatstaf bij opleggen bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        255.0,
+        290.01,
+        298.2,
+        298.01
+      ],
+      "text": "aantonen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.0,
+        291.01,
+        624.75,
+        297.01
+      ],
+      "text": "een van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        69.0,
+        292.0,
+        71.0,
+        296.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        102.0,
+        309.01,
+        357.15,
+        320.01
+      ],
+      "text": "herziening-, intrekking- terugvorderingsbeslissing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        311.01,
+        224.33,
+        317.01
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        67.0,
+        343.01,
+        138.33,
+        351.01
+      ],
+      "text": "Dat in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        343.01,
+        513.5,
+        352.01
+      ],
+      "text": "betekent de dat boete of sterkere dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        159.0,
+        343.01,
+        664.75,
+        354.01
+      ],
+      "text": "praktijk bij bewijsmiddelen nodig zijn bij herziening-, intrekking-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        232.0,
+        345.01,
+        679.33,
+        351.01
+      ],
+      "text": "een meer een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        363.01,
+        193.11,
+        374.01
+      ],
+      "text": "terugvorderingsbeslissing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        553.0,
+        401.01,
+        577.0,
+        410.01
+      ],
+      "text": "feiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        83.0,
+        401.01,
+        393.56,
+        412.01
+      ],
+      "text": "bewijsmaatstaf geeft behoeft,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        67.0,
+        402.01,
+        700.0,
+        410.01
+      ],
+      "text": "De is De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        212.0,
+        402.01,
+        683.12,
+        411.01
+      ],
+      "text": "hoeveel zekerheid de rechter bereid de houden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        401.0,
+        402.01,
+        544.33,
+        413.01
+      ],
+      "text": "opdat hij gestelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        636.0,
+        403.01,
+        642.67,
+        411.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        191.0,
+        404.01,
+        628.2,
+        410.01
+      ],
+      "text": "aan voor waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.0,
+        421.01,
+        253.67,
+        429.01
+      ],
+      "text": "in is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        158.0,
+        421.01,
+        612.25,
+        430.01
+      ],
+      "text": "het bestuursrecht die het maken’. boete wordt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        421.01,
+        767.0,
+        432.01
+      ],
+      "text": "bewijsmaatstaf ‘aannemelijk Bij aangesloten bij strafrecht, waarbij aannemelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        278.0,
+        423.01,
+        450.75,
+        429.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        295.0,
+        440.01,
+        611.83,
+        449.01
+      ],
+      "text": "boete heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        620.0,
+        440.01,
+        654.13,
+        451.01
+      ],
+      "text": "begaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        103.0,
+        441.01,
+        726.33,
+        449.01
+      ],
+      "text": "niet is. In UWV Dit in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        441.01,
+        712.78,
+        450.01
+      ],
+      "text": "maken voldoende het kunnen dat klant de verschil",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        224.0,
+        441.01,
+        583.33,
+        452.01
+      ],
+      "text": "geval overtreding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        326.0,
+        442.01,
+        462.78,
+        450.01
+      ],
+      "text": "moet aantonen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        253.0,
+        443.01,
+        285.75,
+        449.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.0,
+        460.01,
+        684.33,
+        469.01
+      ],
+      "text": "kan leiden dat dezelfde zaak wél de wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        460.01,
+        735.73,
+        471.01
+      ],
+      "text": "bewijsmaatstaf bij herziening-, intrekking- terugvordering uitkering ingesteld,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        167.0,
+        461.01,
+        188.67,
+        469.01
+      ],
+      "text": "ertoe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        354.0,
+        462.01,
+        764.0,
+        468.01
+      ],
+      "text": "een en van maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        486.0,
+        479.01,
+        549.14,
+        490.01
+      ],
+      "text": "daadwerkelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        238.0,
+        480.01,
+        443.33,
+        488.01
+      ],
+      "text": "In CRvB is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        480.01,
+        478.5,
+        489.01
+      ],
+      "text": "boete kan worden verschillende de dit ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        480.01,
+        596.22,
+        491.01
+      ],
+      "text": "géén opgelegd. uitspraken gebeurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        373.0,
+        482.01,
+        385.75,
+        488.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        220.0,
+        558.01,
+        592.25,
+        567.01
+      ],
+      "text": "het bestuursrecht die het maken’. het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        83.0,
+        558.01,
+        764.1,
+        569.01
+      ],
+      "text": "reguliere bewijsmaatstaf ‘aannemelijk waardering bewijs verantwoordelijkheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        67.0,
+        559.01,
+        639.33,
+        567.01
+      ],
+      "text": "De in is De is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        340.0,
+        561.01,
+        657.75,
+        567.01
+      ],
+      "text": "van van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        373.0,
+        578.01,
+        568.33,
+        586.01
+      ],
+      "text": "Dat is is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        87.0,
+        578.01,
+        649.64,
+        587.01
+      ],
+      "text": "de rechter de rechter beschikt hierin veel ook de reden het definiëren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        330.0,
+        578.01,
+        725.63,
+        589.01
+      ],
+      "text": "vrijheid. lastig precies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        593.0,
+        579.01,
+        671.5,
+        587.01
+      ],
+      "text": "te wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        580.01,
+        686.33,
+        586.01
+      ],
+      "text": "van en over waarom om nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        597.01,
+        608.9,
+        606.01
+      ],
+      "text": "maken!’ het dat de bestuursrechter het voldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        597.01,
+        726.83,
+        608.01
+      ],
+      "text": "‘aannemelijk algemeen geldt ‘aannemelijk zijn’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        170.0,
+        598.01,
+        638.0,
+        606.01
+      ],
+      "text": "is. Over neemt met in mate",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        733.0,
+        600.01,
+        745.75,
+        606.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        424.0,
+        600.01,
+        467.56,
+        609.01
+      ],
+      "text": "genoegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        617.01,
+        92.25,
+        626.01
+      ],
+      "text": "feiten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        65.0,
+        645.18,
+        810.03,
+        830.18
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        360.0,
+        881.01,
+        403.64,
+        890.01
+      ],
+      "text": "strafrecht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        616.0,
+        881.01,
+        687.86,
+        892.01
+      ],
+      "text": "bewijsmaatstaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        743.0,
+        882.01,
+        748.33,
+        890.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        882.01,
+        766.25,
+        891.01
+      ],
+      "text": "Zoals wordt de boete het dus ook worden voldaan de zoals die het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        262.0,
+        882.01,
+        335.25,
+        893.01
+      ],
+      "text": "aangesloten bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        426.0,
+        883.01,
+        446.0,
+        891.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        191.0,
+        884.01,
+        592.5,
+        890.01
+      ],
+      "text": "voor en aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.0,
+        884.01,
+        151.54,
+        893.01
+      ],
+      "text": "aangegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        148.0,
+        901.01,
+        647.33,
+        909.01
+      ],
+      "text": "Voor in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        901.01,
+        736.75,
+        910.01
+      ],
+      "text": "strafrecht het boete worden voldaan de het strafrecht kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        901.01,
+        633.22,
+        912.01
+      ],
+      "text": "geldt. opleggen bewijsmaatstaf Bewijzen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        315.0,
+        902.01,
+        585.2,
+        910.01
+      ],
+      "text": "moet aantonen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        242.0,
+        903.01,
+        438.75,
+        909.01
+      ],
+      "text": "van een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        564.0,
+        920.01,
+        576.0,
+        929.01
+      ],
+      "text": "het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        410.0,
+        920.01,
+        455.45,
+        931.01
+      ],
+      "text": "getwijfeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        257.0,
+        921.01,
+        343.2,
+        929.01
+      ],
+      "text": "in niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        921.01,
+        728.33,
+        930.01
+      ],
+      "text": "worden omschreven als dat kan worden de dat de verdachte wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        268.0,
+        921.01,
+        611.88,
+        932.01
+      ],
+      "text": "redelijkheid juistheid verwijt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        188.0,
+        922.01,
+        229.78,
+        930.01
+      ],
+      "text": "aantonen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        462.0,
+        923.01,
+        556.75,
+        929.01
+      ],
+      "text": "aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        262.0,
+        939.01,
+        306.0,
+        951.01
+      ],
+      "text": "(redelijke)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.0,
+        940.01,
+        748.33,
+        948.01
+      ],
+      "text": "Dat in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        136.0,
+        940.01,
+        766.25,
+        949.01
+      ],
+      "text": "betekent dat dus Als wel de het dit het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        686.0,
+        940.01,
+        693.5,
+        950.01
+      ],
+      "text": "is,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        940.01,
+        675.89,
+        951.01
+      ],
+      "text": "gemaakt. twijfel zijn. twijfel juistheid verwijt aanwezig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        699.0,
+        941.01,
+        719.0,
+        949.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        201.0,
+        942.01,
+        572.75,
+        948.01
+      ],
+      "text": "er er aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        234.0,
+        942.01,
+        362.75,
+        951.01
+      ],
+      "text": "geen mag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.0,
+        959.01,
+        658.83,
+        968.01
+      ],
+      "text": "formule “buiten heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        570.0,
+        959.01,
+        602.4,
+        970.01
+      ],
+      "text": "twijfel”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        267.0,
+        960.01,
+        629.0,
+        968.01
+      ],
+      "text": "Er UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        960.01,
+        674.0,
+        969.01
+      ],
+      "text": "voordeel de klant worden wordt ook wel de de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        215.0,
+        960.01,
+        705.14,
+        971.01
+      ],
+      "text": "uitgelegd. gesproken redelijke plicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        730.0,
+        961.01,
+        736.67,
+        969.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        112.0,
+        962.01,
+        722.0,
+        968.01
+      ],
+      "text": "van over om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.0,
+        979.01,
+        380.83,
+        988.01
+      ],
+      "text": "dat de klant de buiten heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        979.01,
+        423.13,
+        990.01
+      ],
+      "text": "bewijzen overtreding redelijke twijfel begaan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        54.0,
+        998.14,
+        807.96,
+        1140.14
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        90.0,
+        81.0,
+        299.0,
+        99.0
+      ],
+      "text": "Toelichting grondslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        113.0,
+        467.43,
+        123.0
+      ],
+      "text": "In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        123.0,
+        504.11,
+        133.0
+      ],
+      "text": "achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        133.0,
+        412.43,
+        143.0
+      ],
+      "text": "correspondeert met de bijbehorende grondslag in onderstaand overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        93.33,
+        155.0,
+        200.06,
+        167.0
+      ],
+      "text": "I Art. 5.1 lid 2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        171.0,
+        496.95,
+        181.0
+      ],
+      "text": "Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        181.0,
+        336.27,
+        191.0
+      ],
+      "text": "de inspectie, controle en toezicht door bestuursorganen",
+      "source": "text"
+    }
+  ]
+}

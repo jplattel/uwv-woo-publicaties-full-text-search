@@ -1,0 +1,3689 @@
+{
+  "source_id": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs/2025-09-02-ubsmz-2207-004-bijlage-releasebericht-smz-release-2022-07-v1-1-geanonimiseerd",
+  "publication_slug": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_slug": "2025-09-02-ubsmz-2207-004-bijlage-releasebericht-smz-release-2022-07-v1-1-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/ac9b0e3a-28ff-42c4-b422-edf3a76a5455/ubsmz-2207-004-bijlage-releasebericht-smz-release-2022-07-v1-1-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over rapporten en onderzoeken over het Claimbeoordelings- en Borgingssysteem (CBBS)",
+  "publication_date": "2025-09-02T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "UBSMZ 2207-004 - bijlage - Releasebericht SMZ Release 2022-07 v1.1. (PDF, 2 MB)",
+  "retrieved_at": "2026-06-30T12:29:42+00:00",
+  "sha256": "d0a61f781ec70a9767ee87e2b827f83632235cea337cefe34f012b5717c6cf53",
+  "page_count": 8,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        414.0,
+        227.02,
+        497.12,
+        245.02
+      ],
+      "text": "2022-07",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        89.0,
+        227.02,
+        395.0,
+        246.02
+      ],
+      "text": "Releasebericht SMZ-Release",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        220.0,
+        284.01,
+        328.15,
+        297.01
+      ],
+      "text": "* Aanpassingen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        340.0,
+        285.01,
+        371.2,
+        298.01
+      ],
+      "text": "CBBS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        279.0,
+        370.01,
+        315.4,
+        380.01
+      ],
+      "text": "Juli 2022",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        535.0,
+        668.01,
+        538.0,
+        678.01
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        53.0,
+        697.01,
+        150.5,
+        709.01
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        715.01,
+        538.5,
+        725.01
+      ],
+      "text": "INHOUDSOPGAVE. 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        720.0,
+        533.0,
+        725.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        733.01,
+        538.5,
+        743.01
+      ],
+      "text": "1 INLEIDING. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.0,
+        738.0,
+        533.0,
+        743.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        750.01,
+        538.5,
+        760.01
+      ],
+      "text": "2 DE WIJZIGINGEN IN HET KORT. 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        229.0,
+        755.0,
+        533.0,
+        760.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        767.01,
+        538.5,
+        777.01
+      ],
+      "text": "3 TOELICHTING OP DE WIJZIGINGEN. 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        251.0,
+        772.0,
+        533.0,
+        777.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        75.01,
+        128.9,
+        87.01
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        76.01,
+        57.5,
+        88.01
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        116.01,
+        506.0,
+        126.01
+      ],
+      "text": "Het releasebericht is integraal. Het de veranderingen alle domeinen portefeuilles",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        232.0,
+        117.01,
+        248.0,
+        127.01
+      ],
+      "text": "gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        256.0,
+        118.01,
+        377.0,
+        126.01
+      ],
+      "text": "over over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        448.0,
+        122.0,
+        512.0,
+        127.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        133.0,
+        127.01,
+        182.67,
+        137.01
+      ],
+      "text": "rollen heen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        128.01,
+        111.11,
+        138.01
+      ],
+      "text": "systemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        118.0,
+        129.01,
+        125.33,
+        137.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        145.01,
+        523.85,
+        155.01
+      ],
+      "text": "het releasebericht is gesplitst in overzicht de wijzingen toelichting de wijzigingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        219.0,
+        146.01,
+        453.33,
+        154.01
+      ],
+      "text": "een van en een op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        156.01,
+        491.33,
+        166.01
+      ],
+      "text": "In het overzicht de wijzigingen staan rol de wijzigingen in het kort beschreven. In de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.0,
+        158.01,
+        273.25,
+        166.01
+      ],
+      "text": "van per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        167.01,
+        517.27,
+        177.01
+      ],
+      "text": "toelichting de wijzigingen uitgebreider beschreven project- en/of systeemniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        122.0,
+        168.01,
+        142.83,
+        178.01
+      ],
+      "text": "staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        330.0,
+        169.01,
+        416.75,
+        177.01
+      ],
+      "text": "op proces-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        380.0,
+        173.0,
+        382.0,
+        178.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        91.0,
+        184.01,
+        374.33,
+        194.01
+      ],
+      "text": "de volgende wordt de de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        185.01,
+        431.25,
+        195.01
+      ],
+      "text": "Met icoontjes wat impact wijziging is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        222.0,
+        186.01,
+        359.75,
+        194.01
+      ],
+      "text": "aangegeven van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        231.01,
+        448.67,
+        241.01
+      ],
+      "text": "Zeer belangrijke informatie te weten. De werkwijze is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        317.0,
+        233.01,
+        327.0,
+        241.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        220.0,
+        242.01,
+        443.0,
+        252.01
+      ],
+      "text": "of fout blijft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        243.01,
+        419.0,
+        253.01
+      ],
+      "text": "nieuw veranderd zodat het gaat je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        371.0,
+        244.01,
+        405.13,
+        252.01
+      ],
+      "text": "wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        254.01,
+        268.67,
+        264.01
+      ],
+      "text": "doen deed.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        216.0,
+        255.01,
+        241.0,
+        265.01
+      ],
+      "text": "wat je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        292.01,
+        412.5,
+        302.01
+      ],
+      "text": "Belangrijke informatie te weten. De werkwijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        294.0,
+        294.01,
+        304.0,
+        302.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        304.01,
+        426.25,
+        314.01
+      ],
+      "text": "verandert. We hebben nieuwe afspraak het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        295.0,
+        306.01,
+        407.0,
+        314.01
+      ],
+      "text": "een over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        316.01,
+        241.42,
+        326.01
+      ],
+      "text": "werkproces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        363.01,
+        447.25,
+        373.01
+      ],
+      "text": "Handige informatie is iets verbeterd; het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        297.0,
+        364.01,
+        332.33,
+        374.01
+      ],
+      "text": "te weten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        280.0,
+        365.01,
+        349.67,
+        373.01
+      ],
+      "text": "om er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        337.0,
+        369.0,
+        339.0,
+        374.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        223.0,
+        375.01,
+        287.91,
+        385.01
+      ],
+      "text": "blijft hetzelfde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        377.01,
+        216.71,
+        385.01
+      ],
+      "text": "proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        434.01,
+        510.14,
+        444.01
+      ],
+      "text": "We zijn constant bezig het releasebericht leesbaar gebruikersvriendelijk mogelijk te maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        159.0,
+        436.01,
+        322.33,
+        444.01
+      ],
+      "text": "om zo en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        451.01,
+        524.67,
+        461.01
+      ],
+      "text": "Hebben jullie hiervoor zelf suggestie of andere opmerkingen laat het dan weten. Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        175.0,
+        453.01,
+        457.0,
+        461.01
+      ],
+      "text": "een een vraag ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        238.0,
+        456.0,
+        403.0,
+        461.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        54.0,
+        462.01,
+        151.7,
+        472.01
+      ],
+      "text": "kan hier bereiken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        464.01,
+        85.0,
+        472.01
+      ],
+      "text": "ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        492.01,
+        243.4,
+        504.01
+      ],
+      "text": "2 De wijzigingen in het kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        509.01,
+        238.55,
+        519.01
+      ],
+      "text": "Wijzigingen iedereen toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        109.0,
+        511.01,
+        186.75,
+        519.01
+      ],
+      "text": "voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        132.0,
+        582.01,
+        139.33,
+        592.01
+      ],
+      "text": "de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        583.01,
+        154.0,
+        593.01
+      ],
+      "text": "Wijzigingen PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        109.0,
+        584.01,
+        125.0,
+        592.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.0,
+        674.01,
+        168.5,
+        684.01
+      ],
+      "text": "Wijzigingen de (B)VA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        109.0,
+        676.01,
+        125.0,
+        684.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        96.0,
+        708.01,
+        415.31,
+        718.01
+      ],
+      "text": "Er zijn binnen CBBS verschillende onderhoudswijzigingen doorgevoerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        107.0,
+        732.01,
+        276.33,
+        742.01
+      ],
+      "text": "Tekstuele aanpassingen FML k-FML",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        734.01,
+        246.33,
+        742.01
+      ],
+      "text": "• en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        107.0,
+        743.01,
+        346.14,
+        753.01
+      ],
+      "text": "'Duurzaamheid' het tabblad Beoordelingsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        180.0,
+        745.01,
+        396.2,
+        753.01
+      ],
+      "text": "op aanpassen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        746.01,
+        90.5,
+        754.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        535.0,
+        780.01,
+        538.0,
+        790.01
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        109.01,
+        169.33,
+        119.01
+      ],
+      "text": "Wijzigingen de (B)AD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        110.01,
+        125.0,
+        118.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.0,
+        143.01,
+        415.31,
+        153.01
+      ],
+      "text": "Er zijn binnen CBBS verschillende onderhoudswijzigingen doorgevoerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        167.01,
+        337.6,
+        177.01
+      ],
+      "text": "Opl. bevinding: I'tjes niet altijd de juiste info",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        205.0,
+        168.01,
+        228.33,
+        176.01
+      ],
+      "text": "geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        169.01,
+        90.5,
+        177.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        178.01,
+        500.88,
+        188.01
+      ],
+      "text": "Opl. bevinding: dupliceren andere sjabloonversie gelijkblijvende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        179.0,
+        179.01,
+        525.6,
+        189.01
+      ],
+      "text": "Bij ABO MBO met FML-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        267.0,
+        180.01,
+        284.6,
+        188.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        181.01,
+        90.5,
+        189.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        190.01,
+        130.14,
+        200.01
+      ],
+      "text": "versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        202.01,
+        498.64,
+        212.01
+      ],
+      "text": "Opl. BUG: Kleur link functiebeschrijving arbeidspatroon wijzigt niet (de)activeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        289.0,
+        204.01,
+        434.33,
+        212.01
+      ],
+      "text": "en na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        205.01,
+        90.5,
+        213.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        132.0,
+        259.01,
+        139.33,
+        269.01
+      ],
+      "text": "de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        260.01,
+        161.0,
+        270.01
+      ],
+      "text": "Wijzigingen ADA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        261.01,
+        125.0,
+        269.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.0,
+        294.01,
+        415.31,
+        304.01
+      ],
+      "text": "Er zijn binnen CBBS verschillende onderhoudswijzigingen doorgevoerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        317.01,
+        179.75,
+        327.01
+      ],
+      "text": "Geen wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        320.01,
+        90.5,
+        328.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        362.01,
+        150.33,
+        372.01
+      ],
+      "text": "Wijzigingen Allen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        363.01,
+        125.0,
+        371.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.0,
+        396.01,
+        415.31,
+        406.01
+      ],
+      "text": "Er zijn binnen CBBS verschillende onderhoudswijzigingen doorgevoerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        420.01,
+        232.0,
+        431.01
+      ],
+      "text": "Overgang IE11 Edge",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        186.0,
+        422.01,
+        204.4,
+        431.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        423.01,
+        90.5,
+        431.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        467.01,
+        265.5,
+        479.01
+      ],
+      "text": "3 Toelichting de wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        153.0,
+        469.01,
+        164.33,
+        479.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        489.01,
+        353.6,
+        499.01
+      ],
+      "text": "3. 1 Toelichting in detail de systeemwijzigingen in CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        185.0,
+        491.01,
+        193.67,
+        499.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        518.01,
+        510.86,
+        528.01
+      ],
+      "text": "Op 13-07-2022 wordt release 12. 2 CBBS in productie Hieronder staan de (functionele)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        520.01,
+        359.89,
+        528.01
+      ],
+      "text": "van genomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        529.01,
+        148.0,
+        539.01
+      ],
+      "text": "wijzigingen genoemd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        98.0,
+        552.01,
+        181.72,
+        562.01
+      ],
+      "text": "is het veranderd?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        553.01,
+        89.86,
+        563.01
+      ],
+      "text": "Waarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        564.01,
+        502.33,
+        574.01
+      ],
+      "text": "De release bestaat voornamelijk uit wijzigingsverzoeken die correctief zijn (Bugs geconstateerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        422.0,
+        566.01,
+        429.33,
+        574.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        575.01,
+        511.28,
+        585.01
+      ],
+      "text": "fouten). Omdat het voornamelijk kleine betreft wordt bij iedere beschreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        236.0,
+        576.01,
+        458.0,
+        586.01
+      ],
+      "text": "wijzigingen niet wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        320.0,
+        581.0,
+        322.0,
+        586.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        93.0,
+        587.01,
+        166.46,
+        597.01
+      ],
+      "text": "het is veranderd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        589.01,
+        85.71,
+        597.01
+      ],
+      "text": "waarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        610.01,
+        153.72,
+        620.01
+      ],
+      "text": "Wat is veranderd?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        87.0,
+        611.01,
+        94.33,
+        619.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        621.01,
+        327.88,
+        631.01
+      ],
+      "text": "Hieronder vind lijst die deze release",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.0,
+        622.01,
+        347.8,
+        632.01
+      ],
+      "text": "je wijzigingen in zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        135.0,
+        623.01,
+        405.82,
+        631.01
+      ],
+      "text": "een van opgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        661.01,
+        253.83,
+        671.01
+      ],
+      "text": "3. 2 CBBS: aanpassingen de (B)VA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        187.0,
+        662.01,
+        205.4,
+        670.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        683.01,
+        278.83,
+        693.01
+      ],
+      "text": "Tekstuele aanpassingen FML k-FML",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        237.0,
+        685.01,
+        245.67,
+        693.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        71.0,
+        686.01,
+        72.5,
+        694.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.0,
+        695.01,
+        522.33,
+        705.01
+      ],
+      "text": "Het item 'Toelichting' in de FML k-FML niet getoond wordt het veld 'Conclusie' in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        237.0,
+        696.01,
+        405.13,
+        704.01
+      ],
+      "text": "en wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        706.01,
+        490.4,
+        716.01
+      ],
+      "text": "'Beoordelingsgegevens' de waarde ''De klant beschikt [duurzaam] benutbare",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        345.0,
+        707.01,
+        358.6,
+        717.01
+      ],
+      "text": "niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        367.0,
+        708.01,
+        383.0,
+        716.01
+      ],
+      "text": "over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        720.01,
+        491.08,
+        730.01
+      ],
+      "text": "mogelijkheden' bevat zodat CBBS ook dit onderdeel voldoet de AVG voorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        247.0,
+        722.01,
+        384.75,
+        730.01
+      ],
+      "text": "op aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        83.0,
+        734.01,
+        135.44,
+        744.01
+      ],
+      "text": "de release:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.0,
+        734.01,
+        72.2,
+        745.01
+      ],
+      "text": "Vóór",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        535.0,
+        780.01,
+        538.0,
+        790.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        192.01,
+        155.38,
+        202.01
+      ],
+      "text": "Na de release",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        334.01,
+        357.52,
+        344.01
+      ],
+      "text": "'Duurzaamheid' het tabblad Beoordelingsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        172.0,
+        335.01,
+        413.6,
+        343.01
+      ],
+      "text": "op aanpassen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        336.01,
+        72.5,
+        344.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        345.01,
+        524.0,
+        355.01
+      ],
+      "text": "de tekst 'Duurzaamheid' het tabblad Beoordelingsgegevens de wordt gewijzigd in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        346.01,
+        436.67,
+        356.01
+      ],
+      "text": "Dat VA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        221.0,
+        347.01,
+        406.75,
+        355.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        357.01,
+        371.53,
+        367.01
+      ],
+      "text": "'Beoordeling duurzaamheid bij volledige arbeidsongeschiktheid'",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        369.01,
+        426.67,
+        379.01
+      ],
+      "text": "Zodat niet het risico loopt dat de tekst verkeerd geïnterpreteerd wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        118.0,
+        370.01,
+        133.0,
+        378.01
+      ],
+      "text": "men",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.0,
+        391.01,
+        168.44,
+        401.01
+      ],
+      "text": "de release:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        392.01,
+        108.2,
+        402.01
+      ],
+      "text": "Voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.0,
+        516.01,
+        154.44,
+        526.01
+      ],
+      "text": "Na de release:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        526.0,
+        657.01,
+        535.0,
+        666.01
+      ],
+      "text": "het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        435.0,
+        658.01,
+        521.67,
+        666.01
+      ],
+      "text": "Terug wijzigingen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        457.0,
+        659.01,
+        469.8,
+        666.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        423.0,
+        659.01,
+        432.0,
+        667.01
+      ],
+      "text": "> >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        408.0,
+        670.01,
+        419.2,
+        679.01
+      ],
+      "text": "kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.0,
+        689.01,
+        253.83,
+        699.01
+      ],
+      "text": "3. 3 aanpassingen de (B)AD",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        81.0,
+        690.01,
+        106.83,
+        700.01
+      ],
+      "text": "CBBS:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        187.0,
+        691.01,
+        205.4,
+        699.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        719.01,
+        348.0,
+        729.01
+      ],
+      "text": "Opl. bevinding: I'tjes niet altijd de juiste info",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        199.0,
+        721.01,
+        224.83,
+        729.01
+      ],
+      "text": "geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        722.01,
+        72.5,
+        730.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        731.01,
+        488.33,
+        741.01
+      ],
+      "text": "De i-tjes bij de signaleringen bij verschil in sjabloonversie tussen de Medische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        222.0,
+        733.01,
+        279.75,
+        741.01
+      ],
+      "text": "gaven een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        742.01,
+        458.33,
+        752.01
+      ],
+      "text": "beoordeling de arbeidskundige beoordeling niet het juiste blauwe boek zien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        428.0,
+        743.01,
+        434.0,
+        753.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        145.0,
+        744.01,
+        152.33,
+        752.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        754.01,
+        521.14,
+        764.01
+      ],
+      "text": "Nu zal nadat de selectiedatum is aangeklikt de signaleringen i het juiste blauwe boek worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        289.0,
+        755.01,
+        296.33,
+        763.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        765.01,
+        124.56,
+        775.01
+      ],
+      "text": "getoond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        535.0,
+        780.01,
+        538.0,
+        790.01
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        75.01,
+        317.0,
+        85.01
+      ],
+      "text": "Testvoorbeeld is: FML versie 5 Abo versie 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        191.0,
+        76.01,
+        256.33,
+        84.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        99.01,
+        528.31,
+        109.01
+      ],
+      "text": "Opl. bevinding: Bij dupliceren ABO MBO andere sjabloonversie met gelijkblijvende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.0,
+        100.01,
+        287.0,
+        108.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        101.01,
+        72.5,
+        109.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        110.01,
+        139.0,
+        120.01
+      ],
+      "text": "FML-versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        122.01,
+        472.33,
+        132.01
+      ],
+      "text": "Het gebruik de knop dupliceren arbeidskundige beoordeling alle (juiste)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        145.0,
+        124.01,
+        286.75,
+        132.01
+      ],
+      "text": "van van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        418.0,
+        127.0,
+        420.0,
+        132.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        133.01,
+        527.5,
+        143.01
+      ],
+      "text": "MBO's/FML’en getoond worden kiezen Zodat: MBO/FML grondslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        249.0,
+        134.01,
+        481.25,
+        144.01
+      ],
+      "text": "uit te juiste ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        232.0,
+        135.01,
+        462.75,
+        143.01
+      ],
+      "text": "om een er aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        145.01,
+        492.61,
+        155.01
+      ],
+      "text": "ligt ongeacht de technische sjabloonversie (maar wel bij gelijkblijvende FML-versie).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        352.0,
+        147.01,
+        364.75,
+        155.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.0,
+        150.0,
+        106.0,
+        155.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        84.0,
+        168.01,
+        520.29,
+        178.01
+      ],
+      "text": "Voorde Release: in de oude situatie je bij v6 beoordeling kopiëren alleen de v6 FML-en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        257.0,
+        170.01,
+        530.0,
+        178.01
+      ],
+      "text": "zag een :",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        87.0,
+        198.01,
+        388.14,
+        208.01
+      ],
+      "text": "Na de release: zie je dit (dus alle FML-en met dezelfde FML versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        243.01,
+        529.0,
+        253.01
+      ],
+      "text": "Opl. BUG: Kleur link functiebeschrijving arbeidspatroon wijzigt niet (de)activeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        293.0,
+        244.01,
+        301.67,
+        252.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        245.01,
+        456.67,
+        253.01
+      ],
+      "text": "• na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        254.01,
+        345.5,
+        264.01
+      ],
+      "text": "Met de Edge hebben in software zaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        353.0,
+        255.01,
+        383.0,
+        265.01
+      ],
+      "text": "moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        123.0,
+        256.01,
+        455.25,
+        264.01
+      ],
+      "text": "overgang naar we aanpassen om:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        266.01,
+        508.8,
+        276.01
+      ],
+      "text": "Dezelfde werkwijze b. t. de werking schermen te behouden. Dat wil dat je door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        179.0,
+        267.01,
+        455.29,
+        275.01
+      ],
+      "text": "m. van zeggen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        277.01,
+        499.11,
+        287.01
+      ],
+      "text": "middel knop hetzelfde scherm terugspringt bijvoorbeeld functie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        123.0,
+        279.01,
+        460.75,
+        287.01
+      ],
+      "text": "van naar openen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        327.0,
+        283.0,
+        329.0,
+        288.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        305.01,
+        537.25,
+        315.01
+      ],
+      "text": "Openen de functie of arbeidspatroon verliep Edge verhindert dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        349.0,
+        306.01,
+        403.86,
+        316.01
+      ],
+      "text": "in aparte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        127.0,
+        307.01,
+        439.43,
+        315.01
+      ],
+      "text": "van vroeger een pop-up",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        311.0,
+        446.0,
+        316.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        103.0,
+        317.01,
+        316.33,
+        327.01
+      ],
+      "text": "dus worden in hetzelfde scherm geopend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        318.01,
+        180.0,
+        326.01
+      ],
+      "text": "en ze nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        334.01,
+        497.45,
+        344.01
+      ],
+      "text": "Ook is de werking de kleur de links functie arbeidspatroon wat aangepast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        173.0,
+        335.01,
+        354.33,
+        343.01
+      ],
+      "text": "van van naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        353.0,
+        350.01,
+        365.75,
+        361.01
+      ],
+      "text": "één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        351.01,
+        500.5,
+        361.01
+      ],
+      "text": "Voorheen werden alle links die binnen SBC binnen pagina bekeken blauw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        264.0,
+        353.01,
+        470.33,
+        361.01
+      ],
+      "text": "een en waren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        362.01,
+        507.33,
+        372.01
+      ],
+      "text": "gekleurd. Bij springen volgende pagina functies binnen die SBC of springen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        192.0,
+        364.01,
+        493.8,
+        372.01
+      ],
+      "text": "naar een naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        373.01,
+        399.43,
+        383.01
+      ],
+      "text": "volgende of AO-klasse die blauwe kleur de link kwijt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        133.0,
+        374.01,
+        242.0,
+        384.01
+      ],
+      "text": "SBC je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        215.0,
+        375.01,
+        337.75,
+        383.01
+      ],
+      "text": "was van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        104.0,
+        390.01,
+        475.47,
+        400.01
+      ],
+      "text": "wordt alleen de laatste link blauw gekleurd wel functie arbeidspatroon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        391.01,
+        506.14,
+        401.01
+      ],
+      "text": "Nu apart.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        308.0,
+        392.01,
+        405.33,
+        400.01
+      ],
+      "text": "en voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        302.0,
+        396.0,
+        304.0,
+        401.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        188.0,
+        407.01,
+        514.0,
+        417.01
+      ],
+      "text": "zelfs of of functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        408.01,
+        455.57,
+        418.01
+      ],
+      "text": "Het wordt onthouden bij springen volgende AO-klasse SBC pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        268.0,
+        409.01,
+        474.75,
+        417.01
+      ],
+      "text": "naar van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        419.01,
+        154.6,
+        429.01
+      ],
+      "text": "binnen de SBC.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        436.01,
+        367.12,
+        446.01
+      ],
+      "text": "Het blijft dat dit wordt onthouden alleen binnen sessie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        131.0,
+        438.01,
+        333.75,
+        446.01
+      ],
+      "text": "zo een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        513.0,
+        452.01,
+        538.2,
+        461.01
+      ],
+      "text": "het kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        421.0,
+        453.01,
+        508.67,
+        461.01
+      ],
+      "text": "Terug wijzigingen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        454.01,
+        456.8,
+        461.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        410.0,
+        454.01,
+        418.0,
+        462.01
+      ],
+      "text": "> >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.0,
+        490.01,
+        244.5,
+        500.01
+      ],
+      "text": "3. 4 CBBS: aanpassingen de ADA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        187.0,
+        492.01,
+        205.4,
+        500.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        514.01,
+        162.75,
+        524.01
+      ],
+      "text": "Geen wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        69.0,
+        516.01,
+        72.0,
+        524.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        419.0,
+        526.01,
+        506.67,
+        534.01
+      ],
+      "text": "Terug wijzigingen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        511.0,
+        526.01,
+        536.2,
+        535.01
+      ],
+      "text": "het kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        442.0,
+        527.01,
+        454.8,
+        534.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        408.0,
+        527.01,
+        417.0,
+        535.01
+      ],
+      "text": "> >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.0,
+        546.01,
+        208.67,
+        556.01
+      ],
+      "text": "3. 5 CBBS: aanpassingen Allen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        139.0,
+        575.01,
+        497.33,
+        585.01
+      ],
+      "text": "de Edge deze release plaatsvindt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        576.01,
+        355.5,
+        586.01
+      ],
+      "text": "Aangezien IE11 CBBS met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        153.0,
+        577.01,
+        483.33,
+        585.01
+      ],
+      "text": "overgang van naar voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        578.01,
+        72.5,
+        586.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        587.01,
+        490.0,
+        597.01
+      ],
+      "text": "Digitale Werkplek (DWU) niet met Edge kan is de CBBS tegel niet te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        206.0,
+        589.01,
+        477.2,
+        597.01
+      ],
+      "text": "nog overweg meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        350.0,
+        592.0,
+        352.0,
+        597.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        598.01,
+        458.0,
+        608.01
+      ],
+      "text": "benaderen. CBBS kan alleen via het Windows worden gestart:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        221.0,
+        600.01,
+        365.8,
+        608.01
+      ],
+      "text": "nog maar menu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.0,
+        716.01,
+        206.0,
+        726.01
+      ],
+      "text": "En klik de applicatie: CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        214.0,
+        717.01,
+        230.0,
+        725.01
+      ],
+      "text": "aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        733.01,
+        535.5,
+        743.01
+      ],
+      "text": "(Zie ook Microsoft Edge als de standaard browser uitgesteld 30-6 Servicedesk IV )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        385.0,
+        734.01,
+        447.25,
+        742.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        752.01,
+        498.28,
+        763.01
+      ],
+      "text": "de aandachtpuntenlijst CBS 12. 2 door de Edge enkele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        753.01,
+        316.4,
+        764.01
+      ],
+      "text": "Uit zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        225.0,
+        754.01,
+        433.4,
+        763.01
+      ],
+      "text": "voor overgang naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        756.01,
+        72.5,
+        764.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        765.01,
+        428.33,
+        776.01
+      ],
+      "text": "zaken opgelost (zie de nieuwe aandachtpuntenlijst CBBS 12. 2)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        348.0,
+        767.01,
+        366.4,
+        776.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        535.0,
+        780.01,
+        538.0,
+        790.01
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        157.0,
+        87.01,
+        175.4,
+        97.01
+      ],
+      "text": "punt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.0,
+        87.01,
+        404.0,
+        98.01
+      ],
+      "text": "Belangrijkste dat is opgelost door de Edge:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        302.0,
+        89.01,
+        371.4,
+        98.01
+      ],
+      "text": "overgang naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        423.0,
+        100.01,
+        433.5,
+        110.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.0,
+        100.01,
+        528.67,
+        111.01
+      ],
+      "text": "Het knippen/plakken: Microsoft Applicaties (o. WORD EXCELL) beëindigen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        324.0,
+        102.01,
+        512.25,
+        111.01
+      ],
+      "text": "a. van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        370.0,
+        106.0,
+        372.0,
+        111.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        122.0,
+        112.01,
+        486.4,
+        123.01
+      ],
+      "text": "leidde plakken kan ook d. de Microsoft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.0,
+        113.01,
+        238.87,
+        124.01
+      ],
+      "text": "sessie in CBBS. Knippen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        247.0,
+        114.01,
+        422.67,
+        123.01
+      ],
+      "text": "en nu weer m. v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.0,
+        125.01,
+        141.54,
+        136.01
+      ],
+      "text": "Applicaties.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        132.0,
+        149.01,
+        496.33,
+        159.01
+      ],
+      "text": "volledigere lijst: deze vinden de aandachtpuntenlijst de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        150.01,
+        523.0,
+        160.01
+      ],
+      "text": "Voor is te in CBS 12. 2 CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        113.0,
+        151.01,
+        482.33,
+        159.01
+      ],
+      "text": "een voor op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        161.01,
+        109.8,
+        171.01
+      ],
+      "text": "home",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        118.0,
+        163.01,
+        139.67,
+        171.01
+      ],
+      "text": "page.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        419.0,
+        233.01,
+        506.67,
+        241.01
+      ],
+      "text": "Terug wijzigingen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        511.0,
+        233.01,
+        536.2,
+        242.01
+      ],
+      "text": "het kort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        442.0,
+        234.01,
+        454.8,
+        241.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        408.0,
+        234.01,
+        417.0,
+        242.01
+      ],
+      "text": "> >",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        53.0,
+        254.01,
+        249.42,
+        268.01
+      ],
+      "text": "Overzicht de wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        125.0,
+        257.01,
+        144.5,
+        268.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.0,
+        271.01,
+        312.77,
+        281.01
+      ],
+      "text": "Deze release bevat de volgende (functionele) wijzigingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        59.0,
+        285.01,
+        486.86,
+        295.01
+      ],
+      "text": "Nr Titel Domein / Beheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        327.01,
+        281.4,
+        337.01
+      ],
+      "text": "SMZ-16680 CBBS: Overgang IE11 Edge",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        240.0,
+        329.01,
+        256.8,
+        337.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        348.01,
+        367.6,
+        358.01
+      ],
+      "text": "SMZ-22695 Opl. bevinding: I'tjes niet altijd de juiste info",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        235.0,
+        350.01,
+        258.33,
+        358.01
+      ],
+      "text": "geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        369.01,
+        247.6,
+        379.01
+      ],
+      "text": "SMZ-23902 Realisatie CWS koppeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        137.0,
+        390.01,
+        306.33,
+        400.01
+      ],
+      "text": "Tekstuele k-FML",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        391.01,
+        261.5,
+        401.01
+      ],
+      "text": "SMZ-24084 aanpassingen FML",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        269.0,
+        392.01,
+        276.33,
+        400.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        413.01,
+        299.75,
+        423.01
+      ],
+      "text": "SMZ-24085 Tekst 'Duurzaamheid' het tabblad",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        238.0,
+        414.01,
+        245.33,
+        422.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        137.0,
+        424.01,
+        234.14,
+        434.01
+      ],
+      "text": "Beoordelingsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        241.0,
+        426.01,
+        284.2,
+        434.01
+      ],
+      "text": "aanpassen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        445.01,
+        373.43,
+        455.01
+      ],
+      "text": "SMZ-24200 Opl. bevinding: Bij dupliceren ABO MBO andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        297.0,
+        446.01,
+        314.6,
+        454.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        137.0,
+        456.01,
+        287.88,
+        466.01
+      ],
+      "text": "sjabloonversie gelijkblijvende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        205.0,
+        457.01,
+        338.55,
+        467.01
+      ],
+      "text": "met FML-versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        477.01,
+        343.75,
+        487.01
+      ],
+      "text": "SMZ-24933 CBBS: Opl. BUG: Kleur link functiebeschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        352.0,
+        479.01,
+        359.33,
+        487.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        137.0,
+        489.01,
+        331.64,
+        499.01
+      ],
+      "text": "arbeidspatroon wijzigt niet (de)activeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        261.0,
+        490.01,
+        268.33,
+        498.01
+      ],
+      "text": "na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        60.0,
+        515.01,
+        348.0,
+        525.01
+      ],
+      "text": "SMZ-22113 Nieuw veld in tabel medische_beoordeling [t. b.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        351.0,
+        517.01,
+        357.0,
+        525.01
+      ],
+      "text": "v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        137.0,
+        527.01,
+        183.75,
+        537.01
+      ],
+      "text": "dupliceren]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        535.0,
+        780.01,
+        538.0,
+        790.01
+      ],
+      "text": "7",
+      "source": "text"
+    }
+  ]
+}

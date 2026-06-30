@@ -1,0 +1,8453 @@
+{
+  "source_id": "2024-05-15-woo-besluit-it-projecten-boven-de-5-miljoen-euro-in-de-afgelopen-5-jaar/2024-05-15-bijlage-4-23-433-afwijkingsrapport-samen-naar-de-moderne-werkplek",
+  "publication_slug": "2024-05-15-woo-besluit-it-projecten-boven-de-5-miljoen-euro-in-de-afgelopen-5-jaar",
+  "pdf_slug": "2024-05-15-bijlage-4-23-433-afwijkingsrapport-samen-naar-de-moderne-werkplek",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-it-projecten-boven-de-5-miljoen-euro-in-de-afgelopen-5-jaar",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/d1026310-fe22-4ad5-8c9d-dd7ace426a36/bijlage-4-23-433-afwijkingsrapport-samen-naar-de-moderne-werkplek.pdf",
+  "publication_title": "Woo-besluit IT-projecten boven de 5 miljoen euro in de afgelopen 5 jaar",
+  "publication_date": "2024-05-15T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 4. 23-433 Afwijkingsrapport Samen naar de Moderne werkplek (PDF, 326 kB)",
+  "retrieved_at": "2026-06-30T13:01:26+00:00",
+  "sha256": "533b7c37c83b7994e1470c86a1957c5d7a13b70138ccf75b8ea51161929145a3",
+  "page_count": 14,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        511.22,
+        85.76,
+        541.83,
+        97.76
+      ],
+      "text": "2023",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        81.53,
+        459.7,
+        312.46,
+        481.7
+      ],
+      "text": "Afwijkingsrapport",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        512.05,
+        408.12,
+        526.05
+      ],
+      "text": "Projectplan Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.53,
+        538.97,
+        410.93,
+        548.97
+      ],
+      "text": "Opdrachtgever: (directeur ICT Services)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        81.53,
+        581.5,
+        176.6,
+        591.5
+      ],
+      "text": "4 AUGUSTUS 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        294.63,
+        779.09,
+        387.21,
+        788.09
+      ],
+      "text": "Programmamanager",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        398.17,
+        790.92,
+        426.6,
+        797.92
+      ],
+      "text": "UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        294.63,
+        791.34,
+        346.95,
+        800.34
+      ],
+      "text": "Projectcode",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        398.17,
+        803.17,
+        418.86,
+        810.17
+      ],
+      "text": "V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        294.63,
+        803.59,
+        326.44,
+        812.59
+      ],
+      "text": "Versie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        78.64,
+        191.0,
+        87.64
+      ],
+      "text": "Managementsamenvatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        109.14,
+        103.81,
+        118.14
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        120.16,
+        530.04,
+        129.16
+      ],
+      "text": "Voorjaar is fase 3 van het project Samen naar de Moderne Werkplek 365 (SMW) gestart. Onderdeel van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        131.16,
+        523.92,
+        140.16
+      ],
+      "text": "fase 3 is de uitrol van Basis Moderne Werkplek (BMW). Het project loopt vertraging op bij de uitrol van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        142.16,
+        521.15,
+        151.16
+      ],
+      "text": "de BMW. De belangrijkste oorzaak is dat door technische afwijkingen het niet mogelijk was de pilot en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        152.91,
+        509.36,
+        161.91
+      ],
+      "text": "de bulkuitrol te starten en uit te voeren conform de planing voor fase 3. Ook de introductie van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        163.91,
+        522.63,
+        172.91
+      ],
+      "text": "additioneel instrument voor Multiffactor Authenticatie, de FIDO-sleutel, noodzakelijk na het advies van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        174.91,
+        507.29,
+        183.91
+      ],
+      "text": "de Functionaris Gegevensbescherming met betrekking tot multifactor authenticatie met behulp van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        185.91,
+        345.98,
+        194.91
+      ],
+      "text": "Windows Hello for Business, leidt tot vertraging en meerkosten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        207.69,
+        449.6,
+        216.69
+      ],
+      "text": "Voor het opvangen van de afwijkingen zijn er op hoofdlijnen twee scenario’s plausibel:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        218.69,
+        441.84,
+        227.69
+      ],
+      "text": "• De opgelopen vertraging accepteren en de bulkuitrol laten doorlopen in 2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        229.69,
+        472.81,
+        238.69
+      ],
+      "text": "• De opgelopen vertraging beperken en sturen op afronding van de bulkuitrol in 2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        251.44,
+        528.08,
+        260.44
+      ],
+      "text": "Parallel aan het project SMW loopt ook de europese aanbesteding van de werkplekdiensten. De uit deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        262.44,
+        511.9,
+        271.44
+      ],
+      "text": "procedure volgende leverancier wordt per Q1 2024 verantwoordelijk voor, onder andere, het beheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        273.43,
+        528.84,
+        282.43
+      ],
+      "text": "van de werkplekdiensten. Wanneer bij aanvang van de dienstverlening door de nieuwe leverancier UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        284.19,
+        523.78,
+        293.19
+      ],
+      "text": "nog twee typen werkplek in gebruik heeft (de huidige, Extra Veilige Werkplek enerzijds en de, nog niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        295.21,
+        520.01,
+        304.21
+      ],
+      "text": "naar alle medewerkers uitgerolde BMW anderzijds) en de uitrol van de BMW nog in volle gang is heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        306.21,
+        336.49,
+        315.21
+      ],
+      "text": "dat een ongewenst complexiteit- en kostenverhogend gevolg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        317.21,
+        528.11,
+        326.21
+      ],
+      "text": "Het andere argument dat een belangrijke rol bij de afweging van de scenario’s speelt is dat daarmee de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        327.96,
+        339.49,
+        336.96
+      ],
+      "text": "beweging naar een stabiele werkplek geen vertraging oploopt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        338.96,
+        495.41,
+        347.96
+      ],
+      "text": "In overleg met de opdrachtgever is daarom gekozen voor het tweede scenario, afronding van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        349.96,
+        140.21,
+        358.96
+      ],
+      "text": "bulkuitrol in 2023.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        371.71,
+        518.21,
+        380.71
+      ],
+      "text": "Ook de implementatie van het Epertise Centrum voor de Moderne Werkplek (ECMW) is onderdeel van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        382.73,
+        508.18,
+        391.73
+      ],
+      "text": "fase 3. Het ECMW is op dit moment operationeel, met een voorlopige bezetting en werkwijze. In de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        393.73,
+        340.96,
+        402.73
+      ],
+      "text": "huidige fase wordt de basis inrichting van het ECMW afgerond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        404.73,
+        530.01,
+        413.73
+      ],
+      "text": "De verdere inrichting en professionalisering van het ECMW naar een volwaardig Expertisecentrum wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        415.48,
+        404.64,
+        424.48
+      ],
+      "text": "in een volgende fase afgerond. Hiervoor wordt een apart faseplan opgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        437.48,
+        274.21,
+        446.48
+      ],
+      "text": "Maatregelen en impact op planning en financiën",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        448.48,
+        511.91,
+        457.48
+      ],
+      "text": "De bulkuitrol van de BMW loopt uit van 30 september 2023 naar 22 december 2023. De aangepaste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        459.23,
+        231.43,
+        468.23
+      ],
+      "text": "planning is afgestemd met de divisies:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        585.04,
+        476.88,
+        594.04
+      ],
+      "text": "Naast de de aanpassing van de planning worden aanvullende technische en organisatorische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        595.79,
+        164.47,
+        604.79
+      ],
+      "text": "maatregeken genomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        617.78,
+        470.01,
+        626.78
+      ],
+      "text": "De financiële gevolgen van deze maatregelen zijn dat er aanvullend budget ter waarde van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.77,
+        628.78,
+        419.67,
+        637.78
+      ],
+      "text": "miljoen nodig is. De financiële impact is het grootst op de volgende onderdelen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.78,
+        639.56,
+        298.57,
+        648.64
+      ],
+      "text": "• Uitbestede werkzaamheden ICT-leveranciers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.8,
+        652.39,
+        116.2,
+        661.39
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        652.56,
+        523.41,
+        661.56
+      ],
+      "text": "De ondersteuning ter plekke (de zgn. “floowalkers”) gedurende een langere periode en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        664.81,
+        519.62,
+        673.81
+      ],
+      "text": "met een hogere intensiteit heeft een kostenoverschrijdend effect van plm. miljoen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        677.31,
+        523.41,
+        686.31
+      ],
+      "text": "Een deel van deze overschrijding wordt ondervangen door de verlaging van het budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        689.56,
+        494.67,
+        698.56
+      ],
+      "text": "voor communicatiemiddelen. De aanwezigheid van floorwalkers is een belangrijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        701.81,
+        221.21,
+        710.81
+      ],
+      "text": "leerpunt uit de pilot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        110.8,
+        713.64,
+        116.2,
+        722.64
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        713.81,
+        493.51,
+        722.81
+      ],
+      "text": "De automatisering van de datamigratie (overzetten van bestanden van G: en H:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        724.84,
+        480.76,
+        733.84
+      ],
+      "text": "schijven naar respectievelijk MS Teams en OneDrive) leidt tot een additionele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.8,
+        735.84,
+        268.44,
+        744.84
+      ],
+      "text": "kostenpost van .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.8,
+        746.84,
+        529.98,
+        755.84
+      ],
+      "text": "Personele kosten stijgen met ten gevolge van het langer aan moeten houden van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.78,
+        746.92,
+        78.92,
+        755.92
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.8,
+        757.59,
+        191.86,
+        766.59
+      ],
+      "text": "de projectorganisatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        42.52,
+        798.67,
+        494.13,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 2 van 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        70.14,
+        357.49,
+        79.14
+      ],
+      "text": "Het resulterende, aangepaste kostenoverzicht ziet er als volgt uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        328.46,
+        169.75,
+        337.46
+      ],
+      "text": "Aanleiding en voorstel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        346.71,
+        528.19,
+        355.71
+      ],
+      "text": "UWV wenst over een intuïtieve, hoog beschikbare en moderne werkplekomgeving te beschikken, die als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        358.96,
+        520.13,
+        367.96
+      ],
+      "text": "standaard uit de markt wordt afgenomen. Deze omgeving dient voldoende functionele differentiatie te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        371.21,
+        515.41,
+        380.21
+      ],
+      "text": "bieden zodat UWV-werknemers met verschillende behoeften altijd en overal veilig kunnen werken en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        383.48,
+        508.85,
+        392.48
+      ],
+      "text": "bereikbaar zijn. Daarenboven is er ook vanuit technisch en beveiligingsoogpunt de noodzaak om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        395.73,
+        193.15,
+        404.73
+      ],
+      "text": "werkplek door te ontwikkelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        407.98,
+        428.98,
+        416.98
+      ],
+      "text": "Het doel van het project “Samen naar de Moderne Werkplek” (SMW) is tweeledig:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.8,
+        422.23,
+        516.09,
+        431.23
+      ],
+      "text": "een moderne, relatief leveranciersonafhankelijke UWV (cloud)werkplek te realiseren en uit te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.78,
+        422.31,
+        78.92,
+        431.31
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.8,
+        434.73,
+        513.59,
+        443.73
+      ],
+      "text": "rollen naar alle UWV gebruikers. Relatief wil zeggen dat er weliswaar gebruik wordt gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.8,
+        446.98,
+        528.39,
+        455.98
+      ],
+      "text": "van Microsoft-technologie, maar dat er veel leveranciers zijn die deze werkplek kunnen beheren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.8,
+        459.23,
+        524.25,
+        468.23
+      ],
+      "text": "zonder additionele, leverancierspecifieke technische toevoegingen. De moderne werkplek moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.8,
+        471.51,
+        389.63,
+        480.51
+      ],
+      "text": "voldoen aan alle relevante beveiligings- en compliance-vereisten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.78,
+        483.76,
+        521.03,
+        492.84
+      ],
+      "text": "• ExpertiseCentrum voor de Moderne Werkplek (ECMW) in te richten voor de ondersteuning van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.8,
+        496.01,
+        427.61,
+        505.01
+      ],
+      "text": "gebruikers (realiseren van en vergroten adoptie) en voor dienstenbeheer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        520.51,
+        436.73,
+        529.51
+      ],
+      "text": "De eerste twee fases van het project zijn afgerond. Voorjaar 2023 is fase 3 gestart.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        551.03,
+        224.24,
+        560.03
+      ],
+      "text": "Afwijking, oorzaak en maatregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        569.29,
+        182.57,
+        578.29
+      ],
+      "text": "Afwijkingen en oorzaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        581.53,
+        520.75,
+        590.53
+      ],
+      "text": "Ten opzichte van het in maart j.l geaccordeerde herijkt projectplan , opgesteld bij de start van fase 3,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        593.79,
+        217.17,
+        602.79
+      ],
+      "text": "treden de volgende afwijkingen op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        618.29,
+        327.99,
+        627.29
+      ],
+      "text": "A). Afwijkingen op de uitrol van de Basis Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.78,
+        644.81,
+        201.67,
+        653.81
+      ],
+      "text": "1. Technische afwijkingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        110.8,
+        656.89,
+        116.2,
+        665.89
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        657.06,
+        330.64,
+        666.06
+      ],
+      "text": "Netwerk niet (tijdig) gereed voor uitrol BMW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        669.31,
+        529.03,
+        678.31
+      ],
+      "text": "Voor aanvang van de pilot is gebleken dat door netwerkbeperkingen het niet mogelijk is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        681.56,
+        510.51,
+        690.56
+      ],
+      "text": "om de uitrol naar de BMW te faciliteren vanaf kantoorlocaties van UWV. Leverancier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        693.81,
+        513.6,
+        702.81
+      ],
+      "text": "KPN heeft hiervoor oplossingen gevonden en aanpassingen gedaan aan het netwerk,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        706.06,
+        427.45,
+        715.06
+      ],
+      "text": "echter met als gevolg een uitloop op de planning van 3 maanden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        110.8,
+        718.14,
+        116.2,
+        727.14
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        718.31,
+        365.21,
+        727.31
+      ],
+      "text": "Windows Hello for Business werkt niet naar behoren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        128.8,
+        730.58,
+        513.41,
+        739.58
+      ],
+      "text": "Tijdens de pilot GMZ is gebleken dat het onderliggende design, mede opgesteld door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 3 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        48.14,
+        510.56,
+        57.14
+      ],
+      "text": "specialisten van Microsoft, niet naar behoren werkte waardoor er een configuratie is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        60.39,
+        530.97,
+        69.39
+      ],
+      "text": "geïmplementeerd waarmee een aanzienlijk deel van de pilotdeelnemers niet op de juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        72.64,
+        504.63,
+        81.64
+      ],
+      "text": "wijze kon inloggen. Inmiddels is dit deels opgelost; voor het overige gedeelte is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        84.89,
+        311.87,
+        93.89
+      ],
+      "text": "oplossing bekend en onderhanden werk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.78,
+        109.64,
+        167.92,
+        118.64
+      ],
+      "text": "2. Scope afwijking:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.8,
+        121.74,
+        116.2,
+        130.74
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        121.91,
+        304.62,
+        130.91
+      ],
+      "text": "Aanvullend instrument nodig voor MFA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        134.16,
+        512.97,
+        143.16
+      ],
+      "text": "Het design van de Basis Moderne Werkplek is gebaseerd op Multifactor Authenticatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        146.41,
+        530.57,
+        155.41
+      ],
+      "text": "(MFA) met behulp van de standaardoplossing daarvoor van Microsoft: Windows Hello for",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        158.66,
+        525.13,
+        167.66
+      ],
+      "text": "Business (WHfB). Hierbij wordt gebruik gemaakt van gezichtsherkenning of herkenning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        170.91,
+        228.28,
+        179.91
+      ],
+      "text": "van een vingerafdruk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        183.16,
+        504.52,
+        192.16
+      ],
+      "text": "De Functionaris Gegevensbescherming heeft een negatief advies gegeven over het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        195.41,
+        498.16,
+        204.41
+      ],
+      "text": "exclusief inzetten van WHfB als MFA-instrument. Om aan de bezwaren van de FG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        207.69,
+        512.56,
+        216.69
+      ],
+      "text": "tegemoet te komen krijgen gebruikers de keuze uit twee authenticatiemethoden. Zij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        219.94,
+        514.26,
+        228.94
+      ],
+      "text": "kunnen òf gebruik maken van WHfB òf gebruiken maken van een (fysieke) hardware",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        232.19,
+        394.95,
+        241.19
+      ],
+      "text": "sleutel met bijbehorende pincode (de zgn. “FIDO sleutel”).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.78,
+        256.69,
+        242.44,
+        265.69
+      ],
+      "text": "3. Extra ondersteuningsinspanning:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.8,
+        268.76,
+        116.2,
+        277.76
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        268.93,
+        250.38,
+        277.93
+      ],
+      "text": "Lage digitale vaardigheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        281.18,
+        481.68,
+        290.18
+      ],
+      "text": "Uit de pilot is gebleken dat intensieve ondersteuning onsite, aanvullend op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        293.46,
+        485.04,
+        302.46
+      ],
+      "text": "trainingssessies waar medewerkers voor aanvang van de uitrol op hun locatie,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        305.71,
+        198.74,
+        314.71
+      ],
+      "text": "noodzakelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        317.96,
+        521.01,
+        326.96
+      ],
+      "text": "Voor veel medewerkers is de overgang van de G: en de H: schijven (zgn. “fileshares”)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        330.21,
+        513.79,
+        339.21
+      ],
+      "text": "naar Teams en OneDrive als opslaglocaties voor bestanden groot. Veel medewerkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        342.46,
+        504.49,
+        351.46
+      ],
+      "text": "hebben geen ervaring met met bestandoplsag in de cloud, automatisch oplsaan en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        354.71,
+        444.3,
+        363.71
+      ],
+      "text": "versiebeheer. Ook na de introductiesessie en training worden blijft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        366.96,
+        267.69,
+        375.96
+      ],
+      "text": "ondersteuningsbehoefte groot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.8,
+        391.31,
+        116.2,
+        400.31
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        391.48,
+        327.22,
+        400.48
+      ],
+      "text": "Combineren laptopwissel en bulkuitrol BMW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        403.73,
+        518.86,
+        412.73
+      ],
+      "text": "De introductie van de Extra Veilige Werkplek en de wissel van mobiele telefoons heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        416.23,
+        519.76,
+        425.23
+      ],
+      "text": "het afgelopen jaar al impact gehad op de gebruikers. Om verdere gebruikersimpact te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        428.48,
+        530.08,
+        437.48
+      ],
+      "text": "beperken is besloten om de laptopwissel (gepland; de huidige laptops zijn aan het einde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        440.73,
+        503.14,
+        449.73
+      ],
+      "text": "van hun levenscyclus) en de uitrol van de BMW naar de gebruikers te combineren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        452.98,
+        529.19,
+        461.98
+      ],
+      "text": "Hoewel deze combinatie van werkzaamheden in de scope van van fase 3 is opgenomen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        465.26,
+        442.15,
+        474.26
+      ],
+      "text": "is er, omdat het technisch niet mogelijk is de nieuwe laptops volledig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        442.17,
+        476.39,
+        497.23,
+        486.51
+      ],
+      "text": "gebruikers1,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        477.51,
+        438.89,
+        486.51
+      ],
+      "text": "“voorgeconfigureerd” (en daarmee gebruiksklaar) aan te bieden aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        489.76,
+        355.64,
+        498.76
+      ],
+      "text": "additionele ondersteuning op locatie noodzakelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        514.26,
+        523.73,
+        523.26
+      ],
+      "text": "Omdat tijdens de uitrol medewerkers een nieuwe laptop krijgen, zij daarop een nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        526.51,
+        504.23,
+        535.51
+      ],
+      "text": "methode van inloggen moeten instellen en zij daarna in een andere werkomgeving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        538.76,
+        507.18,
+        547.76
+      ],
+      "text": "terecht komen krijgen zij in korte tijd met een aanzienlijk veranderingen te maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        551.03,
+        502.37,
+        560.03
+      ],
+      "text": "Zeker voor vragen over en eventuele hulp bij het inloggen en het gebruik van hun",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        563.28,
+        499.46,
+        572.28
+      ],
+      "text": "nieuwe Basis Moderne Werkplek. Daarboven komt dat de meeste vragen over het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        575.54,
+        516.24,
+        584.54
+      ],
+      "text": "gebruik van de nieuwe werkplek pas boven tijdens het gebruik, veelal in de dagen ná",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        587.78,
+        248.38,
+        596.78
+      ],
+      "text": "het moment van wisselen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        600.03,
+        513.21,
+        609.03
+      ],
+      "text": "Al met al maakt dit er niet alleen om meer ondersteuning wordt gevraagd, maar ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        612.28,
+        301.13,
+        621.28
+      ],
+      "text": "voor een periode langer dan voorzien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.8,
+        636.64,
+        116.2,
+        645.64
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        636.81,
+        400.12,
+        645.81
+      ],
+      "text": "Werkzaamheden t.b.v. niet-ondersteunde Access databases",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        649.06,
+        528.11,
+        658.06
+      ],
+      "text": "Het gebruik van (locale) office databases voor de verwerking van UWV gegevens uit het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        661.31,
+        515.43,
+        670.31
+      ],
+      "text": "primaire proces is in beginsel in strijd met het UWV beleid; Access databases worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        673.56,
+        494.24,
+        682.56
+      ],
+      "text": "niet ondersteund door ICT Services. Desondanks worden Access databases in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.8,
+        685.81,
+        207.02,
+        694.81
+      ],
+      "text": "praktijk gebruikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.77,
+        733.82,
+        60.91,
+        740.32
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        64.53,
+        735.63,
+        317.77,
+        743.63
+      ],
+      "text": "Zie ook de derde bullet onder technische maatregelen (pag. 5)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 4 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        48.14,
+        502.98,
+        57.14
+      ],
+      "text": "Om deze databases ook na de overgang naar de BMW werkend te houden moet er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        60.39,
+        267.17,
+        69.39
+      ],
+      "text": "(technische) oplossing komen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        264.13,
+        83.77,
+        296.95,
+        93.89
+      ],
+      "text": "(20%)2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        84.89,
+        361.24,
+        93.89
+      ],
+      "text": "4. Hoger dan verwacht aantal no shows tijdens uitrol:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        110.8,
+        97.22,
+        116.2,
+        106.22
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        97.39,
+        250.88,
+        106.39
+      ],
+      "text": "Verkokerd planningsproces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        109.64,
+        345.99,
+        118.64
+      ],
+      "text": "Voor de planning zijn drie aspecten van belang:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        149.08,
+        121.91,
+        515.73,
+        130.91
+      ],
+      "text": "1) Voorbereidende (adoptie)trainingen voor gebruikers. Vóór de uitrol wordt van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        134.16,
+        488.67,
+        143.16
+      ],
+      "text": "gebruikers verwacht dat zij zich inschrijven voor en deelnemen aan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        146.41,
+        530.12,
+        155.41
+      ],
+      "text": "adoptietraining (dit zijn klassikale sessies). In deze training krijgen zij o.a. uitleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        158.66,
+        500.5,
+        167.66
+      ],
+      "text": "over de overgang van werken met G: en H: schijven voor het opslaan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        170.91,
+        499.26,
+        179.91
+      ],
+      "text": "bestanden naar het werken met Teams en OneDrive voor het opslaan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        183.16,
+        213.07,
+        192.16
+      ],
+      "text": "bestanden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        149.08,
+        195.41,
+        527.82,
+        204.41
+      ],
+      "text": "2) Logistieke planning met leverancier SPIE voor de omwisseling van de laptop. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        207.69,
+        515.11,
+        216.69
+      ],
+      "text": "leverancier heeft uiterlijk één week voor de geplande uitrol in een district een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        219.94,
+        528.96,
+        228.94
+      ],
+      "text": "overzicht nodig van het aantal en type uit te leveren laptops om op tijd de juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        232.19,
+        364.11,
+        241.19
+      ],
+      "text": "hoeveelheden en types op locatie te krijgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        149.08,
+        244.44,
+        520.53,
+        253.44
+      ],
+      "text": "3) Individuele afspraken met gebruikers voor de uitlevering van de nieuwe laptop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        256.69,
+        516.81,
+        265.69
+      ],
+      "text": "en de overgang naar de Basis Moderne Werkplek: gebruikers schrijven zich in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        268.93,
+        527.72,
+        277.93
+      ],
+      "text": "voor een datum en tijd waarop zij hun laptop kunnen omruilen en zij persoonlijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.08,
+        281.18,
+        502.51,
+        290.18
+      ],
+      "text": "begeleid worden bij het instellen van hun nieuwe Basis Moderne Werkplek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.8,
+        293.46,
+        517.95,
+        302.46
+      ],
+      "text": "Gedurende uitrol zijn hiervoor separate lijsten en uitvragen gebruikt. Om de belasting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.8,
+        305.71,
+        508.91,
+        314.71
+      ],
+      "text": "voor de gebruikers te reduceren (één keer benaderen met alle relevante vragen) en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.8,
+        317.96,
+        463.21,
+        326.96
+      ],
+      "text": "fouten te voorkomen (met name de koppeling met de logistieke planning)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        342.46,
+        529.24,
+        351.46
+      ],
+      "text": "Parallel aan het project SMW loopt ook de Europese aanbesteding van de werkplekdiensten. De uit deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        354.71,
+        512.05,
+        363.71
+      ],
+      "text": "procedure volgende leverancier wordt per Q1 2024 verantwoordelijk voor, onder andere, het beheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        366.96,
+        529.08,
+        375.96
+      ],
+      "text": "van de werkplekdiensten. Wanneer bij aanvang van de dienstverlening door de nieuwe leverancier UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        379.23,
+        524.44,
+        388.23
+      ],
+      "text": "nog twee typen werkplek in gebruik heeft (de huidige, Extra Veilige Werkplek enerzijds en de, nog niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        391.48,
+        497.25,
+        400.48
+      ],
+      "text": "naar alle medewerkers uitgerolde Basis Moderene Werkplek anderzijds) heeft dat een ongewenst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        403.73,
+        247.19,
+        412.73
+      ],
+      "text": "complexiteit- en kostenverhogend gevolg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        415.98,
+        528.11,
+        424.98
+      ],
+      "text": "Het andere argument dat een belangrijke rol bij de afweging van de scenario’s speelt is dat daarmee de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        426.98,
+        339.49,
+        435.98
+      ],
+      "text": "beweging naar een stabiele werkplek geen vertraging oploopt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        437.98,
+        526.31,
+        446.98
+      ],
+      "text": "Vandaar dat bij het opstellen van de maatregelen een afweging is gemaakt en voor het uitgangspunt is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        450.23,
+        441.07,
+        459.23
+      ],
+      "text": "gekozen dat de uitrol van de BMW vóór eind december 2023 moet worden afgerond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        474.76,
+        497.0,
+        483.76
+      ],
+      "text": "B) Afwijking op de implementatie van het Expertise Centrum voor de Moderne Werkplek (ECMW)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        487.01,
+        502.77,
+        496.01
+      ],
+      "text": "Op het moment van schrijven is het ECMW operationeel, de voorlopige werkwijze en bijbehorende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        499.26,
+        514.68,
+        508.26
+      ],
+      "text": "bezetting zijn in fase 2 gerealiseerd. De verdere inrichting en professionalisering van het ECMW naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        511.51,
+        498.39,
+        520.51
+      ],
+      "text": "een basisniveau Expertisecentrum (de deliverable voor de huidige fase van het project, fase 3) is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        523.76,
+        509.33,
+        532.76
+      ],
+      "text": "onderhanden werk. De verdere inrichting en professionalisering van het ECMW naar een volwaardig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        536.01,
+        516.3,
+        545.01
+      ],
+      "text": "Expertisecentrum wordt in een volgende fase afgerond. Hiervoor wordt een apart faseplan opgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        572.78,
+        119.4,
+        581.78
+      ],
+      "text": "Maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        585.04,
+        407.52,
+        594.04
+      ],
+      "text": "De volgende maatregelen worden genomen om de afwijkingen op te vangen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        92.8,
+        599.53,
+        135.33,
+        608.53
+      ],
+      "text": "Planning:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.78,
+        599.61,
+        78.92,
+        608.61
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        110.8,
+        611.62,
+        116.2,
+        620.62
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        611.79,
+        530.08,
+        620.79
+      ],
+      "text": "Aanpassing uitrol-planning (van 30 september 2023 naar 22 december 2023). Tevens is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        624.03,
+        511.6,
+        633.03
+      ],
+      "text": "er in de planning voor gekozen om een meer dakpansgewijs te werken in plaats van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        636.31,
+        526.85,
+        645.31
+      ],
+      "text": "sequentieel (i.e. al beginnen met de uitrol naar een district, terwijl parellel in een ander",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        648.56,
+        337.93,
+        657.56
+      ],
+      "text": "district de werkzaamheden worden afgerond).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        660.81,
+        529.23,
+        669.81
+      ],
+      "text": "In de planning zoals die is opgenomen in de update van het projectplan SMW (voor fase",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        673.06,
+        499.73,
+        682.06
+      ],
+      "text": "3) stond dat de uitrol van de Basis Moderne Werkplek gefaseerd zal plaatsvinden,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        685.31,
+        519.08,
+        694.31
+      ],
+      "text": "volgens een uitgebreid beschreven migratiestrategie. De fasering die wordt gevolgd is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.8,
+        697.56,
+        496.67,
+        706.56
+      ],
+      "text": "op hoofdlijnen gelijk aan de fasering van de uitrol van de Extra Veilige Werkplek:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        726.0,
+        59.95,
+        731.0
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        62.77,
+        726.13,
+        489.47,
+        734.13
+      ],
+      "text": "Met een zeker percentage no shows als gevolg van bijvoorbeeld ziekte werd rekening gehouden, maar dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        735.88,
+        319.53,
+        743.88
+      ],
+      "text": "percentage is te hoog om aan “reguliere” oorzaken toe te wijzen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 5 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        146.83,
+        48.12,
+        323.27,
+        57.14
+      ],
+      "text": "▪ Pre-pilot (naar plm. 50 gebruikers)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        264.58,
+        59.27,
+        336.98,
+        69.39
+      ],
+      "text": "medewerkers3);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        146.83,
+        60.38,
+        514.25,
+        69.39
+      ],
+      "text": "▪ Pilot (naar plm. 1200 deze fase wordt voornamelijk gebruikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        164.83,
+        72.64,
+        357.42,
+        81.64
+      ],
+      "text": "om de migratiestrategie grondig te testen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        146.83,
+        84.88,
+        440.13,
+        93.89
+      ],
+      "text": "▪ Bulkuitrol (naar alle overige UWV-medewerkers, per district)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        97.39,
+        510.18,
+        106.39
+      ],
+      "text": "Inmiddels zijn de pre-pilot en de pilot (district Gelderland Midden Zuid) afgerond, in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        109.64,
+        530.83,
+        118.64
+      ],
+      "text": "respectievelijk februari en mei. De pilot is later gestart dan voorzien (medio april). Mede",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        121.91,
+        426.97,
+        130.91
+      ],
+      "text": "als gevolg daarvan is de bulkuitrol ook later gestart dan voorzien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        134.16,
+        424.17,
+        143.16
+      ],
+      "text": "De aangepaste planning van de bulkuitrol ziet er nu als volgt uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        214.83,
+        153.69,
+        228.57,
+        159.43
+      ],
+      "text": "Week",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        176.41,
+        159.7,
+        192.17,
+        165.44
+      ],
+      "text": "Aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        167.26,
+        518.85,
+        173.01
+      ],
+      "text": "District medewerkers 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        174.83,
+        213.04,
+        180.58
+      ],
+      "text": "Noord 1889",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        182.41,
+        213.04,
+        188.16
+      ],
+      "text": "Groot Amsterdam 1925",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        189.98,
+        213.04,
+        195.72
+      ],
+      "text": "Nord Holland noord 1256",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        197.55,
+        213.04,
+        203.29
+      ],
+      "text": "Den Haag Leiden 1567",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        205.12,
+        213.04,
+        210.86
+      ],
+      "text": "Limburg 1457",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        212.69,
+        213.04,
+        218.43
+      ],
+      "text": "Rijnmond 1529",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        220.27,
+        213.04,
+        226.01
+      ],
+      "text": "Overijssel Gelderland Noord 1791",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        227.83,
+        213.04,
+        233.58
+      ],
+      "text": "West Brabant en Zeeland + KCC Goes 1344",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        235.4,
+        213.04,
+        241.15
+      ],
+      "text": "Midden en Oost Brabant 1875",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        242.97,
+        213.04,
+        248.72
+      ],
+      "text": "Utrecht Flevoland + KCC Almere 2161",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        250.54,
+        213.04,
+        256.28
+      ],
+      "text": "Hoofdkantoor 6593",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        82.84,
+        258.12,
+        109.88,
+        263.86
+      ],
+      "text": "Veegweken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.8,
+        277.19,
+        141.58,
+        286.19
+      ],
+      "text": "Technisch:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        277.27,
+        78.92,
+        286.27
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        289.27,
+        116.2,
+        298.27
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        289.44,
+        384.46,
+        298.44
+      ],
+      "text": "Aanvullend: extra aanpassingen aan het (UWV) netwerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        301.54,
+        116.2,
+        310.54
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        301.71,
+        529.05,
+        310.71
+      ],
+      "text": "Aanvullend: aanschaffen van wifi-routers als back-up (ingeval uitrol op een UWV-locatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        313.96,
+        243.76,
+        322.96
+      ],
+      "text": "via het netwerk niet lukt)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        326.04,
+        116.2,
+        335.04
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        326.21,
+        512.28,
+        335.21
+      ],
+      "text": "Aanvullend: er zijn afspraken gemaakt met leveranciers over het aanleveren nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        470.45,
+        337.34,
+        511.0,
+        347.46
+      ],
+      "text": "worden4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        338.46,
+        467.06,
+        347.46
+      ],
+      "text": "laptops waarop al een deel van de UWV-instellingen vooraf geconfigureerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        350.54,
+        116.2,
+        359.54
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        350.71,
+        403.55,
+        359.71
+      ],
+      "text": "Rework: aanpassen design, configuratie en testen van WHfB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        362.79,
+        116.2,
+        371.79
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        362.96,
+        414.09,
+        371.96
+      ],
+      "text": "Aanvullend: design, configuratie en testen van de FIDO-sleutel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        375.04,
+        116.2,
+        384.04
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        375.21,
+        526.58,
+        384.21
+      ],
+      "text": "Aanvullend: automatisering van de migratie G: en H: schijven naar Teams en OneDrive",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        387.31,
+        116.2,
+        396.31
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        387.48,
+        529.99,
+        396.48
+      ],
+      "text": "Aanvullend: inventarisatie van Access-databses op de G:-schijven en implementatie van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        399.73,
+        451.46,
+        408.73
+      ],
+      "text": "een workaround om deze na de uitrol van de BMW werkend te houden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.8,
+        411.98,
+        167.56,
+        420.98
+      ],
+      "text": "Organisatorisch:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        412.06,
+        78.92,
+        421.06
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        424.06,
+        116.2,
+        433.06
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        424.23,
+        342.01,
+        433.23
+      ],
+      "text": "Extra on-site ondersteuning voor medewerkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        436.31,
+        116.2,
+        445.31
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        436.48,
+        513.97,
+        445.48
+      ],
+      "text": "Aanpassen plannings- en logistieke processen, inclusief gebruik van planningstooling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        479.51,
+        130.79,
+        488.51
+      ],
+      "text": "Consequenties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        497.76,
+        396.45,
+        506.76
+      ],
+      "text": "De consequenties van de afwijkingen op het programmaplan zijn als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        522.26,
+        517.24,
+        531.26
+      ],
+      "text": "1. Op tijd: latere aanvang van de pilot GMZ dan gepland en de uitloop van de bulk-uitrol van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.8,
+        534.51,
+        425.7,
+        543.51
+      ],
+      "text": "Bais Moderne Werkplek van 30 september 2023 naar 22 december 2023.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.78,
+        546.76,
+        251.93,
+        555.76
+      ],
+      "text": "2. Op mensen (projectmedewerkers):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        559.03,
+        477.48,
+        568.03
+      ],
+      "text": "a. Er is extra inzet van medewerkers nodig voor de herplanning van en voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        571.29,
+        276.16,
+        580.29
+      ],
+      "text": "ondersteuning van de bulkuitrol.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        110.8,
+        583.53,
+        517.76,
+        592.53
+      ],
+      "text": "b. Er is extra inzet van medewerkers nodig (geweest) voor ontwerpaanpassingen en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        595.79,
+        253.63,
+        604.79
+      ],
+      "text": "testen van de FIDO-sleutel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        608.03,
+        531.05,
+        617.03
+      ],
+      "text": "Voor de (implementatie van) de FIDO-sleutel zijn diverse aanpassingen op het technisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        620.28,
+        500.42,
+        629.28
+      ],
+      "text": "ontwerp van de BMW noodzakelijk; waarbij er extra aandacht is geweest voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        128.8,
+        632.53,
+        474.65,
+        641.53
+      ],
+      "text": "binnen de overeengekomen kaders bliven op het gebied van architectuur en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        655.49,
+        59.95,
+        660.49
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        62.77,
+        655.61,
+        527.22,
+        663.61
+      ],
+      "text": "In de oorspronkelijke planning was sprake van een pilotgroep van 500 deelnemers (vergelijkbaar met de pilot voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        665.36,
+        485.44,
+        673.36
+      ],
+      "text": "de uitrol van de Extra Veilige Werkplek). In overleg met de business is, omwille van de continuïteit van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        675.11,
+        531.04,
+        683.11
+      ],
+      "text": "bedrijfsvoering, er voor gekozen om het hele pilotdistrict te migreren naar de BMW in plaats van slechts een deel van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        684.86,
+        103.13,
+        692.86
+      ],
+      "text": "het district.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        694.8,
+        60.91,
+        701.3
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        64.53,
+        696.61,
+        496.58,
+        704.61
+      ],
+      "text": "Hierbij is een afweging gemaakt: het logistieke proces wordt iets minder flexibel, maar impact op de UWV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        706.61,
+        519.08,
+        714.61
+      ],
+      "text": "medewerkers wordt kleiner: (a) minder handelingen die de medewerker moet uitvoeren tijdens het personaliseren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        716.36,
+        494.02,
+        724.36
+      ],
+      "text": "van de instellingen op de nieuwe BMW, (b) de tijd voor het ter plekke configureren (via het netwerk) van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        726.13,
+        499.55,
+        734.13
+      ],
+      "text": "werkplek wordt gereduceerd en (c) de afhankelijkheid van het netwerk wordt kleiner (en daarmee de kans op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        735.88,
+        104.9,
+        743.88
+      ],
+      "text": "incidenten).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 6 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        48.14,
+        226.47,
+        57.14
+      ],
+      "text": "informatiebeveiliging.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        60.39,
+        482.42,
+        69.39
+      ],
+      "text": "Vervolgens is de FIDO-sleutel ook door het USOC getest en zijn er additionele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        72.64,
+        448.16,
+        81.64
+      ],
+      "text": "maatregelen genomen om de bevindingen van het USOC te mitigeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        84.89,
+        518.06,
+        93.89
+      ],
+      "text": "c. Extra inzet van medewerkers voor de ondersteuning van MS Access databases op G:-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        97.39,
+        510.1,
+        106.39
+      ],
+      "text": "schijven. Hiertoe is eerst een inventarisatie van de Access-databases die het betreft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        109.64,
+        515.28,
+        118.64
+      ],
+      "text": "gemaakt. Vervolgens is er, na grondig analyseren en testen, een oplossing opgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        121.91,
+        412.76,
+        130.91
+      ],
+      "text": "waarmee deze databases ook op de BMW blijven functioneren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        108.55,
+        133.04,
+        135.64,
+        143.16
+      ],
+      "text": "geld5:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.78,
+        134.16,
+        105.41,
+        143.16
+      ],
+      "text": "3. Op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        146.41,
+        495.73,
+        155.41
+      ],
+      "text": "a. Extra inzet van (project)medewerkers leidt tot een kostenverhoging van .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        158.66,
+        330.06,
+        167.66
+      ],
+      "text": "b. Uitbestede werkzaamheden ICT leveranciers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        143.3,
+        170.91,
+        495.54,
+        179.91
+      ],
+      "text": "i. Extra inzet door KPN voor de technische doorontwikkeling van de werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        162.33,
+        183.16,
+        505.83,
+        192.16
+      ],
+      "text": "). Enerzijds veroorzaakt door de uitloop in de planning, maar er was tevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        195.41,
+        527.24,
+        204.41
+      ],
+      "text": "aanvullende inzet nodig voor het testen en werkend krijgen van de FIDO-sleutel).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        140.8,
+        207.69,
+        519.77,
+        216.69
+      ],
+      "text": "ii. Extra inzet floorwalkers. Door de aanpassing van de planing zijn de floorwalkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        219.94,
+        523.03,
+        228.94
+      ],
+      "text": "gedurende een langere periode nodig. Bovendien zijn er meer floorwalkers nodig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        232.19,
+        470.78,
+        241.19
+      ],
+      "text": "omdat de ondersteuningsinspanning op locatie wordt verhoogd. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        244.44,
+        522.41,
+        253.44
+      ],
+      "text": "medewerkers worden door het hele land ingezet en leidt ook tot een stijging van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        256.69,
+        361.11,
+        265.69
+      ],
+      "text": "de reis- en verblijfkosten van de floorwalkers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.3,
+        268.93,
+        524.81,
+        277.93
+      ],
+      "text": "iii. De automatisering van de datamigratie (van de G: en H: schijven naar Teams en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        281.18,
+        528.96,
+        290.18
+      ],
+      "text": "OneDrive) vergt een extra investering van (inclusief de ondersteuning van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        293.46,
+        279.75,
+        302.46
+      ],
+      "text": "de datamigratie door KPN).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        305.71,
+        499.89,
+        314.71
+      ],
+      "text": "c. De kosten van beheerwerkzaamheden, door het platformteam van ECMW, komen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        317.96,
+        514.35,
+        326.96
+      ],
+      "text": "gedurende de looptijd van het project voor rekening van het project. Uitloop leidt tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        330.21,
+        320.06,
+        339.21
+      ],
+      "text": "extra kosten voor beheer ten bedrage van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        342.46,
+        529.29,
+        351.46
+      ],
+      "text": "d. Externe audit (door nog te selecteren partij) vervalt; deze kan na afloop van het project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        354.71,
+        527.09,
+        363.71
+      ],
+      "text": "alsnog worden uitgevoerd. Bijkomend voordeel is dat op dat tijdstip de audit niet alleen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        366.96,
+        519.78,
+        375.96
+      ],
+      "text": "een goed beeld geeft over opzet en bestaan, maar ook een juist beeld van de werking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        379.23,
+        504.97,
+        388.23
+      ],
+      "text": "van beheersmaatregelen. Een audit nog tijdens de looptijd van het project zou een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        391.48,
+        306.31,
+        400.48
+      ],
+      "text": "beperkter beeld van de werking geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        403.73,
+        203.94,
+        412.73
+      ],
+      "text": "e. Kosten middelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        143.3,
+        416.23,
+        517.92,
+        425.23
+      ],
+      "text": "i. Aanpassingen aan communicatiematerialen (bijvoorbeeld additionele instructies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        428.48,
+        510.28,
+        437.48
+      ],
+      "text": "en voorlichting over de FIDO-sleutel) leiden tot een kostenverhoging. Door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        440.73,
+        521.61,
+        449.73
+      ],
+      "text": "inzet van additionele floowalkers is besloten minder communicatiemiddelen in te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        452.98,
+        512.8,
+        461.98
+      ],
+      "text": "zetten; per saldo is het communicatiebudget derhalve naar beneden bijgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        465.26,
+        249.68,
+        474.26
+      ],
+      "text": "voor een bedrag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        140.8,
+        477.51,
+        372.19,
+        486.51
+      ],
+      "text": "ii. Aanschaf van de FIDO-sleutels ten bedrage van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.3,
+        489.76,
+        520.61,
+        498.76
+      ],
+      "text": "iii. Gebruik van planningstooling t.b.v. plannings- en logistieke processen heeft een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        156.08,
+        502.01,
+        281.89,
+        511.01
+      ],
+      "text": "kostenverhogend effect van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.8,
+        514.26,
+        528.24,
+        523.26
+      ],
+      "text": "f. Overige kosten betreffen diverse kleinere posten voor kosten gemaakt voorafgaand aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        128.8,
+        526.51,
+        188.61,
+        535.51
+      ],
+      "text": "de bulkuitrol.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.77,
+        557.03,
+        148.03,
+        566.03
+      ],
+      "text": "Kansen en risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.77,
+        575.28,
+        433.43,
+        584.28
+      ],
+      "text": "De risico’s zoals benoemd in de laatste bijgewerkte versie van het projectplan zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        67.78,
+        600.29,
+        487.92,
+        609.29
+      ],
+      "text": "Nr Risico K I P Maatregel Eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        67.78,
+        614.29,
+        474.72,
+        623.29
+      ],
+      "text": "1 Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        443.45,
+        626.53,
+        501.71,
+        635.53
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.77,
+        735.75,
+        59.95,
+        740.75
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        62.77,
+        735.88,
+        273.35,
+        743.88
+      ],
+      "text": "Nota bene: bedragen in duizenden euro’s, afgerond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 7 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        319.38,
+        48.72,
+        323.52,
+        57.72
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        368.36,
+        114.39,
+        372.45,
+        123.39
+      ],
+      "text": ")",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        67.78,
+        169.41,
+        474.72,
+        178.41
+      ],
+      "text": "2 Ten aanzien van H H H Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        171.41,
+        387.96,
+        180.41
+      ],
+      "text": "Alternatieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        319.38,
+        171.49,
+        323.52,
+        180.49
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        180.41,
+        501.71,
+        189.41
+      ],
+      "text": "voorkeursoplossing voor Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        182.41,
+        411.79,
+        191.41
+      ],
+      "text": "oplossing (FIDO2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        191.41,
+        210.79,
+        200.41
+      ],
+      "text": "multifactor authenticatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        193.41,
+        429.0,
+        202.41
+      ],
+      "text": "sleutel) uitwerken en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        202.41,
+        224.88,
+        211.41
+      ],
+      "text": "bestaat het risico dat de FG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        204.41,
+        373.88,
+        213.41
+      ],
+      "text": "uitrollen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        213.19,
+        222.19,
+        222.19
+      ],
+      "text": "een negatief advies afgeeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        224.19,
+        236.58,
+        233.19
+      ],
+      "text": "voor deze oplossing (Windows",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        235.19,
+        229.92,
+        244.19
+      ],
+      "text": "Hello for Business). Dit heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        246.19,
+        233.25,
+        255.19
+      ],
+      "text": "impact op de kwaliteit van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        256.94,
+        230.66,
+        265.94
+      ],
+      "text": "oplossing, op tijd en op geld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        67.78,
+        268.43,
+        474.72,
+        277.43
+      ],
+      "text": "3 Ten aanzien van H H M Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        270.44,
+        384.87,
+        279.44
+      ],
+      "text": "Signaleren,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        319.38,
+        270.52,
+        323.52,
+        279.52
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        279.44,
+        502.96,
+        288.44
+      ],
+      "text": "adoptie/acceptatie van de management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        281.44,
+        401.05,
+        290.44
+      ],
+      "text": "rapporteren en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        290.46,
+        229.7,
+        299.46
+      ],
+      "text": "nieuwe werkplek bestaat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        292.46,
+        396.93,
+        301.46
+      ],
+      "text": "bijsturen door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        301.21,
+        228.23,
+        310.21
+      ],
+      "text": "risico dat de instructies voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        303.21,
+        424.38,
+        312.21
+      ],
+      "text": "Projectmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        312.21,
+        228.26,
+        321.21
+      ],
+      "text": "de migratie niet of niet goed",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        323.21,
+        205.79,
+        332.21
+      ],
+      "text": "worden opgevolgd door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        334.21,
+        196.27,
+        343.21
+      ],
+      "text": "medewerkers (omdat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        344.96,
+        231.02,
+        353.96
+      ],
+      "text": "gebruikers over onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        355.96,
+        196.65,
+        364.96
+      ],
+      "text": "digitale vaardigheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        366.96,
+        232.95,
+        375.96
+      ],
+      "text": "beschikken). Dit heeft impact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        377.98,
+        234.35,
+        386.98
+      ],
+      "text": "op tijd en geld (uitvoeren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        388.73,
+        202.97,
+        397.73
+      ],
+      "text": "rework en veegacties).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        67.78,
+        400.23,
+        474.72,
+        409.23
+      ],
+      "text": "4 Ten aanzien van security en M M M Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        402.23,
+        374.32,
+        411.23
+      ],
+      "text": "Inrichten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        319.38,
+        402.31,
+        323.52,
+        411.31
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        411.23,
+        502.96,
+        420.23
+      ],
+      "text": "compliance (en de inrichting management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        413.23,
+        407.68,
+        422.23
+      ],
+      "text": "interdisciplinaire",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        422.23,
+        221.28,
+        431.23
+      ],
+      "text": "van de Moderne Werkplek)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        424.23,
+        408.5,
+        433.23
+      ],
+      "text": "werkgroep “data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        432.98,
+        215.7,
+        441.98
+      ],
+      "text": "bestaat het risico dat niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        434.98,
+        416.7,
+        443.98
+      ],
+      "text": "werkplekdiensten”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        443.98,
+        224.4,
+        452.98
+      ],
+      "text": "eenduidig wordt vastgelegd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        445.98,
+        429.86,
+        454.98
+      ],
+      "text": "die data(classificatie)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        454.98,
+        237.17,
+        463.98
+      ],
+      "text": "welke data(classificatie) wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        456.98,
+        406.93,
+        465.98
+      ],
+      "text": "en bijbehorende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        466.01,
+        238.31,
+        475.01
+      ],
+      "text": "toegelaten binnen de moderne",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        468.01,
+        420.33,
+        477.01
+      ],
+      "text": "richtlijnen bepaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        476.76,
+        206.86,
+        485.76
+      ],
+      "text": "werkplek en welke niet,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        487.76,
+        226.51,
+        496.76
+      ],
+      "text": "waardoor niet alle passende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        498.76,
+        209.14,
+        507.76
+      ],
+      "text": "beveiligingsmaatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        509.76,
+        227.45,
+        518.76
+      ],
+      "text": "kunnen worden bepaald. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        520.51,
+        225.69,
+        529.51
+      ],
+      "text": "heeft impact op de kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        531.51,
+        178.72,
+        540.51
+      ],
+      "text": "van de oplossing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        67.78,
+        543.01,
+        474.72,
+        552.01
+      ],
+      "text": "5 Ten aanzien van security en L M M Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        545.01,
+        426.9,
+        554.01
+      ],
+      "text": "In overleg met CISO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        319.38,
+        545.09,
+        323.52,
+        554.09
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        554.03,
+        502.96,
+        563.03
+      ],
+      "text": "compliance bestaat het risico management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        556.03,
+        428.57,
+        565.03
+      ],
+      "text": "voorlopige richtlijnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        564.78,
+        187.67,
+        573.78
+      ],
+      "text": "dat bestaand UWV-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        566.78,
+        432.33,
+        575.78
+      ],
+      "text": "formuleren vanuit het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        575.79,
+        225.53,
+        584.79
+      ],
+      "text": "informatiebeveiligingsbeleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        577.79,
+        390.75,
+        586.79
+      ],
+      "text": "project SMW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        586.79,
+        240.51,
+        595.79
+      ],
+      "text": "niet voldoende geconcretiseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        597.78,
+        203.64,
+        606.78
+      ],
+      "text": "is naar standaarden en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        608.53,
+        202.98,
+        617.53
+      ],
+      "text": "richtlijnen of ontbreekt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        619.53,
+        231.0,
+        628.53
+      ],
+      "text": "waardoor een toetsingskader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        630.53,
+        236.84,
+        639.53
+      ],
+      "text": "ontbreekt. Dit heeft impact op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        641.56,
+        203.28,
+        650.56
+      ],
+      "text": "tijd en kwaliteit van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        652.31,
+        231.18,
+        661.31
+      ],
+      "text": "oplossing omdat designs niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        663.31,
+        239.52,
+        672.31
+      ],
+      "text": "(tijdig) getoetst en vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        674.31,
+        232.16,
+        683.31
+      ],
+      "text": "kunnen worden of er re-work",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        685.31,
+        169.49,
+        694.31
+      ],
+      "text": "noodzakelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        67.78,
+        707.56,
+        524.08,
+        716.56
+      ],
+      "text": "6 Ten aanzien van het beheer L M M Directeur ICTS en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        319.38,
+        709.56,
+        430.65,
+        718.64
+      ],
+      "text": "• Continue afstemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        718.56,
+        474.72,
+        727.56
+      ],
+      "text": "van de dienstverlening bestaat Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        720.58,
+        416.5,
+        729.58
+      ],
+      "text": "met OR en collega",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.55,
+        729.58,
+        502.96,
+        738.58
+      ],
+      "text": "het risico dat het ECMW niet management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        333.65,
+        731.59,
+        386.29,
+        740.59
+      ],
+      "text": "lijmanagers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 8 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        48.64,
+        218.04,
+        57.64
+      ],
+      "text": "geborgd kan worden in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        59.64,
+        234.51,
+        68.64
+      ],
+      "text": "staande organisatie omdat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        70.64,
+        216.3,
+        79.64
+      ],
+      "text": "formele verankering in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        81.39,
+        237.06,
+        90.39
+      ],
+      "text": "lijnorganisatie niet afgerond is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        92.39,
+        205.05,
+        101.39
+      ],
+      "text": "(bijvoorbeeld omdat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        103.39,
+        211.3,
+        112.39
+      ],
+      "text": "discussie met de OR nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        114.39,
+        129.29,
+        123.39
+      ],
+      "text": "loopt).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        67.78,
+        125.66,
+        474.72,
+        134.66
+      ],
+      "text": "7 Ten aanzien van de L H H Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        127.66,
+        427.64,
+        136.74
+      ],
+      "text": "• “gives” en “gets” op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        136.66,
+        502.96,
+        145.66
+      ],
+      "text": "afstemming tussen de management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        333.65,
+        138.66,
+        399.27,
+        147.66
+      ],
+      "text": "mijlpaalniveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        147.66,
+        223.71,
+        156.66
+      ],
+      "text": "projecten SMW, Sharepoint",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        333.65,
+        149.66,
+        399.53,
+        158.66
+      ],
+      "text": "beschrijven en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        158.66,
+        232.28,
+        167.66
+      ],
+      "text": "Online en Informatie op Orde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        333.65,
+        160.66,
+        423.51,
+        169.66
+      ],
+      "text": "contracteren tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        169.41,
+        195.48,
+        178.41
+      ],
+      "text": "bestaat het risico dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        333.65,
+        171.41,
+        414.01,
+        180.41
+      ],
+      "text": "de verantwoorde-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        180.41,
+        217.45,
+        189.41
+      ],
+      "text": "afhankelijkheden impliciet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        333.65,
+        182.41,
+        405.68,
+        191.41
+      ],
+      "text": "lijken binnen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        191.41,
+        204.28,
+        200.41
+      ],
+      "text": "blijven en onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        333.65,
+        193.41,
+        379.39,
+        202.41
+      ],
+      "text": "projecten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        202.41,
+        234.21,
+        211.41
+      ],
+      "text": "gemanaged worden. Dit heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.55,
+        213.19,
+        201.47,
+        222.19
+      ],
+      "text": "impact op tijd en geld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        247.94,
+        520.51,
+        256.94
+      ],
+      "text": "Feitelijk hebben de risico’s 1, 2 en 3 zich geheel of gedeeltelijk voorgedaan. De getroffen maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        260.19,
+        264.08,
+        269.19
+      ],
+      "text": "zijn beschreven in deze afwijkingsrapportage.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        284.68,
+        500.55,
+        293.68
+      ],
+      "text": "Aan de risico’s zoals eerder beschreven kan op basis van de inzichten uit de pilot één nieuw risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        296.96,
+        112.5,
+        305.96
+      ],
+      "text": "toegevoegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        63.77,
+        326.21,
+        499.67,
+        335.21
+      ],
+      "text": "Nr. Risico K I P Maatregel Eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        346.21,
+        241.99,
+        355.21
+      ],
+      "text": "Ten aanzien van de uitrol ven de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        81.53,
+        348.21,
+        526.96,
+        357.21
+      ],
+      "text": "8. Aanpassen planningsproces Deelproject",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        305.38,
+        348.29,
+        465.59,
+        357.29
+      ],
+      "text": "• •",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        357.21,
+        236.79,
+        366.21
+      ],
+      "text": "BMW bestaat het risico dat veel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        359.21,
+        504.51,
+        368.21
+      ],
+      "text": "(wijzigen van afspraken door -leider",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        367.96,
+        226.32,
+        376.96
+      ],
+      "text": "medewerkers hun laptop niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        369.96,
+        511.54,
+        378.96
+      ],
+      "text": "medewerker). Dit is echter Migratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        378.98,
+        222.19,
+        387.98
+      ],
+      "text": "omruilen en inirchten op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        380.98,
+        441.45,
+        389.98
+      ],
+      "text": "moeilijk ivm met eisen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        389.98,
+        212.15,
+        398.98
+      ],
+      "text": "afgesproken moment (“no",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        391.98,
+        436.96,
+        400.98
+      ],
+      "text": "de hardwareleverancier in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        400.98,
+        230.07,
+        409.98
+      ],
+      "text": "shows”). Dit leidt ertoe dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        402.98,
+        412.47,
+        411.98
+      ],
+      "text": "het logistieke proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        411.73,
+        247.22,
+        420.73
+      ],
+      "text": "planning niet kan worden gehaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        422.73,
+        244.08,
+        431.73
+      ],
+      "text": "en er extra inspanningen moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        424.73,
+        396.99,
+        433.73
+      ],
+      "text": "Aanschrijven van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        305.38,
+        424.81,
+        309.52,
+        433.81
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        426.73,
+        526.02,
+        435.73
+      ],
+      "text": "Stuurgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        461.45,
+        426.81,
+        465.59,
+        435.81
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        433.73,
+        239.19,
+        442.73
+      ],
+      "text": "worden verricht (“veegweken”);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        435.73,
+        418.39,
+        444.73
+      ],
+      "text": "leidinggevenden in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        437.73,
+        526.49,
+        446.73
+      ],
+      "text": "SMW (m.n.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        444.73,
+        233.25,
+        453.73
+      ],
+      "text": "dit heeft impact op tijd en geld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        446.73,
+        444.22,
+        455.73
+      ],
+      "text": "districten (herbevestigen of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        448.73,
+        514.35,
+        457.73
+      ],
+      "text": "business",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        455.48,
+        237.83,
+        464.48
+      ],
+      "text": "(inzet van extra floorwalkers en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        457.48,
+        440.03,
+        466.48
+      ],
+      "text": "aanpassen werkafspraken,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        459.48,
+        519.57,
+        468.48
+      ],
+      "text": "vertegen-",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        256.6,
+        463.76,
+        291.64,
+        472.76
+      ],
+      "text": "M H H",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        93.55,
+        466.51,
+        189.81,
+        475.51
+      ],
+      "text": "projectmedewerkers)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        468.51,
+        442.19,
+        477.51
+      ],
+      "text": "urgentie en bewustzijn van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        470.51,
+        524.85,
+        479.51
+      ],
+      "text": "woordigers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        479.51,
+        431.77,
+        488.51
+      ],
+      "text": "de consequenties van no",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        481.51,
+        497.79,
+        490.51
+      ],
+      "text": "in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        490.51,
+        429.11,
+        499.51
+      ],
+      "text": "shows verder verhogen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        492.51,
+        528.75,
+        501.51
+      ],
+      "text": "stuurgroep)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        515.51,
+        423.6,
+        524.51
+      ],
+      "text": "Opnemen van 2 weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        305.38,
+        515.59,
+        309.52,
+        524.59
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        461.45,
+        516.26,
+        526.96,
+        525.34
+      ],
+      "text": "• Deelproject",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        526.51,
+        443.55,
+        535.51
+      ],
+      "text": "uitloop op de planning voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        527.26,
+        504.51,
+        536.26
+      ],
+      "text": "-leider",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        537.51,
+        443.96,
+        546.51
+      ],
+      "text": "extra “veegweken” (NB: dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        475.45,
+        538.26,
+        511.54,
+        547.26
+      ],
+      "text": "Migratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        548.53,
+        440.08,
+        557.53
+      ],
+      "text": "is inmiddels in de planning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        559.28,
+        441.64,
+        568.28
+      ],
+      "text": "opgenomen; het betreft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        319.38,
+        570.28,
+        396.13,
+        579.28
+      ],
+      "text": "weken 50 en 51)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        609.29,
+        497.0,
+        618.29
+      ],
+      "text": "K = Kans I = Impact G(root), M(iddel) of K(lein) - P = Prioriteit: H(oog), M(iddel) of L(aag)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        652.06,
+        105.13,
+        661.06
+      ],
+      "text": "Financiën",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        685.31,
+        520.67,
+        694.31
+      ],
+      "text": "De begroting van de kosten is bijgesteld op basis van bovengenoemde afwijkingen en maatregelen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        697.56,
+        194.88,
+        706.56
+      ],
+      "text": "wordt weergegeven in tabel 1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        56.77,
+        798.67,
+        512.93,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 9 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        177.21,
+        197.06,
+        185.21
+      ],
+      "text": "Tabel 1 - aangepaste begroting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        218.19,
+        525.49,
+        227.19
+      ],
+      "text": "De verschillen, per kostensoort, tussen de begroting behorende bij het projectplan (versie bij aanvang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        229.19,
+        111.87,
+        238.19
+      ],
+      "text": "fase 3) zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        471.56,
+        266.16,
+        479.56
+      ],
+      "text": "Tabel 2 - overzicht verschillen per kostensoort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        497.51,
+        524.08,
+        506.51
+      ],
+      "text": "De onderbouwing van de afwijking van de kosten ten opzichte van de planning is deels in de paragraaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        508.51,
+        516.82,
+        517.51
+      ],
+      "text": "over de consequenties gegeven. Met afstand de grootste kostenverhoging betreft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        519.51,
+        216.38,
+        528.51
+      ],
+      "text": "hogere kosten van de floorwalkers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        534.51,
+        452.88,
+        543.51
+      ],
+      "text": "Wanneer we de afwijkingen per kostensoort weergeven komt dit op het volgende neer:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        69.28,
+        550.03,
+        306.37,
+        559.03
+      ],
+      "text": "Kostensoort Delta Verklaring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        69.28,
+        565.28,
+        142.4,
+        574.28
+      ],
+      "text": "Personeel intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        567.28,
+        460.93,
+        576.28
+      ],
+      "text": "Een aantal taken op het gebied van Product",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        255.35,
+        567.36,
+        259.49,
+        576.36
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        578.29,
+        500.86,
+        587.29
+      ],
+      "text": "Management en beheer komen, vervroegd, ten laste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        589.29,
+        426.7,
+        598.29
+      ],
+      "text": "van de lijn in plaats van het project.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        600.03,
+        466.51,
+        609.03
+      ],
+      "text": "Strakker sturen op doorbelasting van interne",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        255.35,
+        600.11,
+        259.49,
+        609.11
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        611.03,
+        489.73,
+        620.03
+      ],
+      "text": "medewerkers vanuit de lijn aan het project en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        622.03,
+        476.12,
+        631.03
+      ],
+      "text": "doorvoeren van correcties op de doorbelasting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        69.28,
+        637.56,
+        144.9,
+        646.56
+      ],
+      "text": "Personeel extern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        255.35,
+        639.56,
+        494.39,
+        648.64
+      ],
+      "text": "• Uitloop van 3 maanden van de reguliere, voorziene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        650.31,
+        336.1,
+        659.31
+      ],
+      "text": "werkzaamheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        661.31,
+        482.49,
+        670.31
+      ],
+      "text": "Er is extra inzet van medewerkers nodig voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        255.35,
+        661.39,
+        259.49,
+        670.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        672.31,
+        518.25,
+        681.31
+      ],
+      "text": "herplanning en voor de ondersteuning van de bulkuitrol.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        683.31,
+        517.99,
+        692.31
+      ],
+      "text": "Er is extra inzet van medewerkers nodig (geweest), met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        255.35,
+        683.39,
+        259.49,
+        692.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        694.06,
+        502.76,
+        703.06
+      ],
+      "text": "specifieke kennis, voor ontwerpaanpassingen en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        705.06,
+        387.2,
+        714.06
+      ],
+      "text": "testen van de FIDO-sleutel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        255.35,
+        716.06,
+        515.25,
+        725.14
+      ],
+      "text": "• Additionele werkzaamheden t.b.v. inventarisatie van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        262.35,
+        727.09,
+        481.73,
+        736.09
+      ],
+      "text": "implementatie oplossing voor Access databases.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        56.77,
+        798.67,
+        517.43,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 10 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        69.28,
+        48.64,
+        158.03,
+        57.64
+      ],
+      "text": "Standaard software",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        50.64,
+        509.68,
+        59.64
+      ],
+      "text": "De kosten voor de DUO licenties (de tijdelijke, door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        50.72,
+        259.49,
+        59.72
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        61.64,
+        505.15,
+        70.64
+      ],
+      "text": "Extra Veilige Werkplek gebruikte oplossing voor MFA)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        72.64,
+        501.13,
+        81.64
+      ],
+      "text": "worden in 2023 gedragen door de lijn en komen niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        83.64,
+        376.75,
+        92.64
+      ],
+      "text": "ten laste van het project.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        69.28,
+        98.89,
+        136.02,
+        107.89
+      ],
+      "text": "Uitbesteed ICT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        100.89,
+        444.77,
+        109.89
+      ],
+      "text": "Extra inzet door voor de technische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        100.97,
+        259.49,
+        109.97
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        69.28,
+        109.89,
+        126.17,
+        118.89
+      ],
+      "text": "Leveranciers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        111.89,
+        420.21,
+        120.89
+      ],
+      "text": "doorontwikkeling van de werkplek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        122.91,
+        508.72,
+        131.91
+      ],
+      "text": "Extra inzet floorwalkers (meer floorwalkers gedurende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        122.99,
+        259.49,
+        131.99
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        133.66,
+        509.18,
+        142.66
+      ],
+      "text": "een langere periode). Deze medewerkers worden door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        144.66,
+        518.64,
+        153.66
+      ],
+      "text": "het hele land ingezet en leidt ook tot een stijging van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        155.66,
+        456.73,
+        164.66
+      ],
+      "text": "reis- en verblijfkosten van de floorwalkers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        166.66,
+        505.29,
+        175.74
+      ],
+      "text": "• Aanvullende kosten van beheerwerkzaamheden, door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        177.41,
+        517.84,
+        186.41
+      ],
+      "text": "het platformteam van ECMW, door de verlenging van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        188.41,
+        505.1,
+        197.41
+      ],
+      "text": "looptijd van het project komen voor rekening van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        199.41,
+        297.1,
+        208.41
+      ],
+      "text": "project.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        210.44,
+        506.03,
+        219.44
+      ],
+      "text": "De automatisering van de datamigratie (van de G: en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        210.52,
+        259.49,
+        219.52
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        221.19,
+        512.75,
+        230.19
+      ],
+      "text": "H: schijven naar Teams en OneDrive) vergt additionele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        232.19,
+        469.4,
+        241.19
+      ],
+      "text": "ondersteuning van de datamigratie door KPN.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        243.19,
+        502.57,
+        252.19
+      ],
+      "text": "Bepaalde kosten voor netwerkaanpassingen uit 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        243.27,
+        259.49,
+        252.27
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        254.19,
+        515.8,
+        263.19
+      ],
+      "text": "zijn pas in 2023 bekend geworden. Daarvoor is geen TP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        264.94,
+        318.41,
+        273.94
+      ],
+      "text": "opgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        275.94,
+        514.18,
+        284.94
+      ],
+      "text": "Kosten van voor de inrichting van ketenmonitoring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        276.02,
+        259.49,
+        285.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        286.93,
+        507.29,
+        295.93
+      ],
+      "text": "t.b.v. Kerel waren niet voorzien en niet opgenomen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        297.96,
+        361.95,
+        306.96
+      ],
+      "text": "het budget van fase 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        308.71,
+        474.66,
+        317.71
+      ],
+      "text": "Uitvoering van externe audit op de BMW wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        308.79,
+        259.49,
+        317.79
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        319.71,
+        497.8,
+        328.71
+      ],
+      "text": "uitgesteld. Kosten daarvoor in 2024 vallen daarmee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        330.71,
+        394.73,
+        339.71
+      ],
+      "text": "buiten scope van het project.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        341.71,
+        490.32,
+        350.71
+      ],
+      "text": "De uitvoering van BBN2 assessments is in 2022 al",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        341.79,
+        259.49,
+        350.79
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        352.46,
+        501.7,
+        361.46
+      ],
+      "text": "betaald en is ten onrecht opgenomen in de prognose",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        363.46,
+        311.83,
+        372.46
+      ],
+      "text": "voor 2023.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        69.28,
+        378.98,
+        98.88,
+        387.98
+      ],
+      "text": "Overig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        380.98,
+        477.73,
+        389.98
+      ],
+      "text": "Door de inzet van additionele floowalkers is het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        381.06,
+        259.49,
+        390.06
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        391.98,
+        514.18,
+        400.98
+      ],
+      "text": "mogelijk minder communicatiemiddelen (materialen) in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        402.73,
+        305.66,
+        411.73
+      ],
+      "text": "te zetten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        262.35,
+        413.73,
+        401.56,
+        422.73
+      ],
+      "text": "Aanschaf van de FIDO-sleutels",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        255.35,
+        413.81,
+        259.49,
+        422.81
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        69.28,
+        429.23,
+        97.19,
+        438.23
+      ],
+      "text": "Totaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.77,
+        459.73,
+        441.63,
+        468.73
+      ],
+      "text": "De structurele meerkosten zien er, t.o.v. de oorspronkelijke begroting, als volgt uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.77,
+        663.2,
+        523.92,
+        674.2
+      ],
+      "text": "Door de introductie van de Basis Moderne Werkplek met MFA methoden Windows Hello for Business en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.77,
+        678.45,
+        523.02,
+        689.45
+      ],
+      "text": "FIDO-sleutel vervalt het gebruik van DUO, daarmee vervallen ook de kosten zoals geprognosticeerd voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.77,
+        693.45,
+        81.55,
+        704.45
+      ],
+      "text": "2024.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.77,
+        723.08,
+        237.57,
+        732.08
+      ],
+      "text": "De structurele baten zijn niet gewijzigd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        56.77,
+        798.67,
+        517.43,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 11 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        60.39,
+        104.96,
+        69.39
+      ],
+      "text": "Conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        84.89,
+        388.4,
+        93.89
+      ],
+      "text": "Voor 2023 wordt een additionele budgetvrijgave van € gevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        115.64,
+        182.5,
+        124.64
+      ],
+      "text": "Personele consequenties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        133.91,
+        527.35,
+        142.91
+      ],
+      "text": "Er zijn geen personele consequenties wanneer bovenstaande afwijkingen worden uitgevoerd binnen het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        146.16,
+        251.13,
+        155.16
+      ],
+      "text": "project Samen naar de Moderne Werkplek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        176.66,
+        128.71,
+        185.66
+      ],
+      "text": "Communicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        194.91,
+        351.43,
+        203.91
+      ],
+      "text": "De afwijking leidt niet tot een veranderde communicatie aanpak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        225.44,
+        142.09,
+        234.44
+      ],
+      "text": "Gevraagd besluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        243.69,
+        231.19,
+        252.69
+      ],
+      "text": "Gevraagd wordt akkoord te gaan met:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.8,
+        258.44,
+        523.46,
+        267.44
+      ],
+      "text": "Aanpassing van de einddatum van de bulkuitrol van 30 september 2023 naar 22 december",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.8,
+        258.52,
+        96.94,
+        267.52
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.8,
+        269.44,
+        133.77,
+        278.44
+      ],
+      "text": "2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        110.8,
+        280.44,
+        371.31,
+        289.44
+      ],
+      "text": "De maatregelen zoals beschreven in dit afwijkingsrapport",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.8,
+        280.52,
+        96.94,
+        289.52
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.8,
+        291.46,
+        331.79,
+        300.54
+      ],
+      "text": "• Verhoging van het budget met een bedrag van €",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        92.8,
+        302.46,
+        339.34,
+        311.54
+      ],
+      "text": "• Vrijgave van het additioneel aangevraagde budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        347.21,
+        476.93,
+        356.21
+      ],
+      "text": "PortfolioBureau heeft het projectstuurdocument getoetst op onderstaande criteria.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        369.46,
+        111.53,
+        378.46
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        380.48,
+        168.02,
+        389.48
+      ],
+      "text": "Strategische afstemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        391.98,
+        522.99,
+        400.98
+      ],
+      "text": "Strategische afstemming AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        403.23,
+        251.52,
+        412.23
+      ],
+      "text": "1. Strategie en Doelstellingen UIP-BIP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        414.73,
+        177.78,
+        423.73
+      ],
+      "text": "2. Handboek PFM Rijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        426.23,
+        225.89,
+        435.23
+      ],
+      "text": "3. Wet en Regelgeving (U-toets)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        437.73,
+        146.34,
+        446.73
+      ],
+      "text": "4. Architectuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        448.98,
+        240.45,
+        457.98
+      ],
+      "text": "5. Informatie Beveiliging en Privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        460.48,
+        263.2,
+        469.48
+      ],
+      "text": "6. Contract en Leveranciersmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        472.01,
+        122.38,
+        481.01
+      ],
+      "text": "7. Inkoop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        483.51,
+        220.76,
+        492.51
+      ],
+      "text": "8. Gegevens Effect Beoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        494.76,
+        522.99,
+        503.76
+      ],
+      "text": "Management control AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        506.26,
+        173.56,
+        515.26
+      ],
+      "text": "9. Projectdoelstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        517.76,
+        258.83,
+        526.76
+      ],
+      "text": "10. Samenhang doelstellingen, projecten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        529.26,
+        243.85,
+        538.26
+      ],
+      "text": "11. Verantwoording gekozen scenario",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        540.51,
+        106.59,
+        549.51
+      ],
+      "text": "Organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        552.03,
+        317.14,
+        561.03
+      ],
+      "text": "12. Besturing en stakeholders voldoende onderbouwd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        563.53,
+        176.58,
+        572.53
+      ],
+      "text": "13. Resultaat en scope",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        575.03,
+        94.03,
+        584.03
+      ],
+      "text": "Kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        586.28,
+        230.25,
+        595.28
+      ],
+      "text": "14. Kwaliteitsmanagement aanpak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        597.78,
+        182.05,
+        606.78
+      ],
+      "text": "15. Kwaliteit Voorlegger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        609.29,
+        93.57,
+        618.29
+      ],
+      "text": "Planning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        620.79,
+        209.0,
+        629.79
+      ],
+      "text": "16. Projectresultaten duidelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        632.04,
+        223.39,
+        641.04
+      ],
+      "text": "17. Realisatie pad met producten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        643.56,
+        522.99,
+        652.56
+      ],
+      "text": "Batenmanagement AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        655.06,
+        213.01,
+        664.06
+      ],
+      "text": "18. Batenmanagement aanpak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        666.56,
+        522.99,
+        675.56
+      ],
+      "text": "Financieel management AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        677.81,
+        481.92,
+        686.81
+      ],
+      "text": "19. Wijze van financiering afgestemd, fasegewijze financiering en besluitvorming mogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        689.31,
+        316.36,
+        698.31
+      ],
+      "text": "20. Financieel voldoende onderbouwd en aannemelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        700.81,
+        378.43,
+        709.81
+      ],
+      "text": "21. Structurele meerkosten voldoende onderbouwd en aannemelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        55.02,
+        712.31,
+        522.99,
+        721.31
+      ],
+      "text": "Resourcemanagement AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        73.03,
+        723.58,
+        342.77,
+        732.58
+      ],
+      "text": "22. Resourcemanagement, maakbaarheid projectresultaten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        56.77,
+        798.67,
+        517.43,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 12 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        55.02,
+        48.64,
+        522.99,
+        57.64
+      ],
+      "text": "Risicomanagement AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        73.03,
+        60.14,
+        212.76,
+        69.14
+      ],
+      "text": "23. Risicomanagement aanpak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        55.02,
+        71.64,
+        522.99,
+        80.64
+      ],
+      "text": "Stakeholdersmanagement AR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        73.03,
+        82.89,
+        240.74,
+        91.89
+      ],
+      "text": "24. Stakeholdermanagement aanpak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        73.03,
+        94.39,
+        191.77,
+        103.39
+      ],
+      "text": "25. Communicatie aanpak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        73.03,
+        105.89,
+        201.87,
+        114.89
+      ],
+      "text": "26. Personele consequenties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.27,
+        147.66,
+        483.13,
+        156.66
+      ],
+      "text": "10 De samenhang van verschillende projecten in het KWN-domein in het kader van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        158.66,
+        517.65,
+        167.66
+      ],
+      "text": "beweging naar M365 vereist een integrale benadering, aansturing en governance. PB heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        169.66,
+        517.88,
+        178.66
+      ],
+      "text": "deze vereisten tot nu toe onvoldoende terug gezien bij de realisatie van deze trajecten. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        180.41,
+        521.03,
+        189.41
+      ],
+      "text": "heeft geleid tot veel escalaties, inefficiëntie en daarmee projectvertraging binnen GIV/IS en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        191.41,
+        471.41,
+        200.41
+      ],
+      "text": "FB. PB adviseert om een integrale lessons learned sessie te organiseren voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        202.41,
+        306.61,
+        211.41
+      ],
+      "text": "toekomstige integrale beheer rondom M365.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.27,
+        217.94,
+        487.33,
+        226.94
+      ],
+      "text": "20 Het gekozen scenario gaat uit van uitbreiding van met name de Floorwalkers en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        228.69,
+        509.15,
+        237.69
+      ],
+      "text": "wijziging in de uitrolstrategie. Dakpan gewijs ipv sequentieel. Het valt PB op dat hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        239.69,
+        521.36,
+        248.69
+      ],
+      "text": "een extra investering van per maand nodig is om dit te halen zonder dat het project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        250.69,
+        346.77,
+        259.69
+      ],
+      "text": "aangeeft of en waar er risico’s liggen in deze aanpak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.27,
+        266.18,
+        491.51,
+        275.18
+      ],
+      "text": "22 PB vraagt zich af of er tijdig de benodigde mensen aanwezig/ beschikbaar zijn om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        276.94,
+        492.1,
+        285.94
+      ],
+      "text": "komende 5 maanden de achterstanden weg te werken. En zit dit als een risico om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        287.93,
+        280.35,
+        296.93
+      ],
+      "text": "voorgestelde planning alsnog te halen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        62.27,
+        303.46,
+        507.64,
+        312.46
+      ],
+      "text": "23 PB constateert dat de aangegeven risico’s reeds issues zijn en vreest dat het project niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        314.46,
+        491.64,
+        323.46
+      ],
+      "text": "serieus genoeg met de risico’s en het managen hiervan bezig is. PB ziet in het herijkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        104.8,
+        325.46,
+        485.96,
+        334.46
+      ],
+      "text": "projectplan de actuele risico’s met de daarbij behoorende mitigerende maatregelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        56.77,
+        798.67,
+        517.43,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 13 van 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        56.77,
+        48.14,
+        98.64,
+        57.14
+      ],
+      "text": "Bijlage: -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        56.77,
+        154.91,
+        123.71,
+        163.91
+      ],
+      "text": "Versiebeheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        60.02,
+        175.66,
+        380.16,
+        184.66
+      ],
+      "text": "Versie Datum Voorgelegd aan Beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        60.02,
+        194.66,
+        279.24,
+        203.66
+      ],
+      "text": "V0.8 17-04-2023 Programmamanager SMW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        160.83,
+        208.94,
+        286.07,
+        217.94
+      ],
+      "text": "Gedelegeerd opdrachtgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        60.02,
+        238.19,
+        361.5,
+        247.19
+      ],
+      "text": "V0.9 PB ICT-Services Review",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        160.83,
+        252.44,
+        213.71,
+        261.44
+      ],
+      "text": "PB Centraal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        60.02,
+        281.94,
+        414.42,
+        290.94
+      ],
+      "text": "V0.91 Stuurgroep SMW Ter besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        60.02,
+        311.21,
+        414.43,
+        320.21
+      ],
+      "text": "V0.92 PB Centraal Ter besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        61.77,
+        755.17,
+        297.33,
+        762.17
+      ],
+      "text": "Programmanaam: Samen naar de Moderne Werkplek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        61.77,
+        763.67,
+        204.01,
+        770.67
+      ],
+      "text": "Projectcode: UN1014",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        61.77,
+        772.17,
+        208.77,
+        779.17
+      ],
+      "text": "Datum: 4-8-2023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        61.77,
+        780.67,
+        196.27,
+        787.67
+      ],
+      "text": "Versie: V0.91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        56.77,
+        798.67,
+        517.43,
+        805.67
+      ],
+      "text": "Sjabloonversie: 14-03-2022 1.0 OPP-UPM 14 van 14",
+      "source": "text"
+    }
+  ]
+}

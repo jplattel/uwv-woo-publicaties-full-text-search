@@ -1,0 +1,6701 @@
+{
+  "source_id": "2023-03-07-besluit-woo-verzoek-ip-adressen/2023-03-07-bijlage-04-20222810-herbeoordeling-geb-siem-qradar",
+  "publication_slug": "2023-03-07-besluit-woo-verzoek-ip-adressen",
+  "pdf_slug": "2023-03-07-bijlage-04-20222810-herbeoordeling-geb-siem-qradar",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/besluit-woo-verzoek-ip-adressen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/a6922761-c97d-4156-a576-9488042c6fb8/bijlage-04-20222810-herbeoordeling-geb-siem-qradar.pdf",
+  "publication_title": "Besluit Woo-verzoek IP adressen",
+  "publication_date": "2023-03-07T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 4 20222810 Herbeoordeling GEB SIEM Qradar (PDF, 1 MB)",
+  "retrieved_at": "2026-06-30T13:25:18+00:00",
+  "sha256": "4c39084a3dac3c78dc213d06767abd631ab8da0c390702fff2338ab31462761e",
+  "page_count": 26,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        335.0,
+        733.0,
+        686.0,
+        766.0
+      ],
+      "text": "GEB-rapport inzake:",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        334.0,
+        799.0,
+        1350.0,
+        825.0
+      ],
+      "text": "Herbeoordeling SIEM QRadar; inclusief koppeling met het Threat Intelligence",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        334.0,
+        831.0,
+        444.0,
+        852.0
+      ],
+      "text": "Platform",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        335.0,
+        895.0,
+        1410.0,
+        921.0
+      ],
+      "text": "In het kader van project End Point Detection is er een extra bron toegevoegd aan",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        334.0,
+        927.0,
+        438.0,
+        953.0
+      ],
+      "text": "QRadar.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        349.0,
+        1417.0,
+        666.0,
+        1435.0
+      ],
+      "text": "Organisatieonderdeel UWV",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        350.0,
+        1444.0,
+        876.0,
+        1470.0
+      ],
+      "text": "Degene die verantwoordelijk is 51lid2swbe",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        349.0,
+        1474.0,
+        934.0,
+        1498.0
+      ],
+      "text": "voor de verwerking of de 5.1lid2sube",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        353.0,
+        1505.0,
+        714.0,
+        1523.0
+      ],
+      "text": "gemandateerde opdrachtgever",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        349.0,
+        1532.0,
+        876.0,
+        1552.0
+      ],
+      "text": "Auteur muzwe",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        336.0,
+        1530.0,
+        933.0,
+        1585.0
+      ],
+      "text": "MW Stlgz a",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        350.0,
+        1586.0,
+        876.0,
+        1622.0
+      ],
+      "text": "Business Security Officer (BSO) | 51id2swe",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        350.0,
+        1623.0,
+        914.0,
+        1641.0
+      ],
+      "text": "Datum (laatste wijziging 06-10-2022",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        334.0,
+        1799.0,
+        654.0,
+        1822.0
+      ],
+      "text": "Vertrouwelijk document",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        335.0,
+        1825.0,
+        1375.0,
+        1847.0
+      ],
+      "text": "De informatie in het GEB-rapport bevat bedrijfskritische informatie over de gegevensverwerkingen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        334.0,
+        1852.0,
+        1372.0,
+        1873.0
+      ],
+      "text": "van UWV. Deze informatie dient daarmee vertrouwelijk te worden behandeld. Verstrekking aan en",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        334.0,
+        1877.0,
+        1346.0,
+        1898.0
+      ],
+      "text": "gebruik door anderen dient afgestemd te worden met de verantwoordelijke voor de verwerking.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        127.0,
+        2136.0,
+        407.0,
+        2159.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.24,
+        123.61,
+        165.64,
+        134.06
+      ],
+      "text": "1. Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        149.02,
+        451.84,
+        157.54
+      ],
+      "text": "Privacybescherming is een belangrijk thema voor UWV, omdat we met veel (gevoelige)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        159.34,
+        486.92,
+        167.86
+      ],
+      "text": "persoonsgegevens werken om onze maatschappelijke taken te kunnen uitvoeren. Wanneer een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        169.66,
+        528.23,
+        178.18
+      ],
+      "text": "(voorgenomen) verwerking van persoonsgegevens waarschijnlijk een hoog risico inhoudt voor de privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        179.98,
+        495.12,
+        188.5
+      ],
+      "text": "van betrokkenen, dan dient voorafgaand aan de verwerking een GEB uitgevoerd te worden. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        190.3,
+        501.68,
+        198.82
+      ],
+      "text": "verplichting komt voort uit de AVG, die geldt vanaf 25 mei 2018. De verantwoordelijkheid voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.33,
+        221.14,
+        166.54,
+        229.66
+      ],
+      "text": "Waarom een GEB?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.33,
+        231.34,
+        494.2,
+        239.86
+      ],
+      "text": "De GEB richt zich op (werk)processen waarin persoonsgegevens worden verwerkt en waarvan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.33,
+        241.66,
+        525.96,
+        250.18
+      ],
+      "text": "privacybestendigheid aangetoond dient te worden. De GEB brengt een werkproces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.34,
+        251.98,
+        516.5,
+        260.5
+      ],
+      "text": "in kaart, helpt bij het vaststellen van passende maatregelen en stelt de organisatie zo in staat om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.34,
+        262.3,
+        532.52,
+        270.82
+      ],
+      "text": "afgewogen beslissing te nemen. Daarnaast vormt de GEB een instrument om verantwoording af te leggen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.34,
+        272.62,
+        524.09,
+        281.14
+      ],
+      "text": "over de naleving van de AVG. De resultaten van de GEB worden daartoe vastgelegd in het GEB-rapport.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.34,
+        293.14,
+        281.22,
+        301.66
+      ],
+      "text": "Wanneer doe ik een GEB en wanneer niet?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.34,
+        303.46,
+        525.05,
+        311.98
+      ],
+      "text": "Het is belangrijk om in een vroeg stadium te bepalen of een GEB noodzakelijk is. UWV beschikt hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.34,
+        313.78,
+        523.64,
+        322.3
+      ],
+      "text": "over het GEB-check sjabloon GEB-check sjabloon. UWV werkt met veel gevoelige gegevens van burgers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        324.1,
+        530.74,
+        332.62
+      ],
+      "text": "die daar niet zelf voor kunnen kiezen. Daarom zal in veel gevallen de conclusie zijn dat een volledige GEB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        334.3,
+        526.26,
+        342.82
+      ],
+      "text": "inderdaad noodzakelijk is. Hoewel de uitkomst van de GEB-check in veel gevallen dus voorspelbaar is, is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        344.62,
+        524.24,
+        353.14
+      ],
+      "text": "het toch zinvol om deze stap niet over te slaan. De GEB-check ondersteunt namelijk bij het bepalen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        354.82,
+        508.22,
+        363.34
+      ],
+      "text": "de scope van de volledige GEB, geeft inzicht in risicogebieden en biedt de BSO en de FG de kans om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        365.14,
+        524.69,
+        373.66
+      ],
+      "text": "advies mee te geven voor een volledige GEB. Daarnaast biedt het sjabloon ruimte om gemotiveerd af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        375.46,
+        263.88,
+        383.98
+      ],
+      "text": "wijken van de conclusie van de GEB-check.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        385.78,
+        526.55,
+        394.3
+      ],
+      "text": "Indien aan deze GEB nog geen GEB-check vooraf is gegaan, is het dringende advies om alsnog het GEB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        396.1,
+        201.78,
+        404.62
+      ],
+      "text": "check sjabloon te doorlopen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        416.62,
+        196.43,
+        425.14
+      ],
+      "text": "Hoe voer ik een GEB uit?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        426.94,
+        506.11,
+        435.46
+      ],
+      "text": "Het uitvoeren van een GEB is meer dan alleen het opstellen van een rapport. Het gaat erom dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        369.96,
+        447.46,
+        510.14,
+        455.98
+      ],
+      "text": "een acceptabel niveau. Het GEB-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.33,
+        457.9,
+        512.69,
+        466.42
+      ],
+      "text": "rapport is een verantwoording en verslaglegging van deze activiteiten. Het advies is om verschillende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.33,
+        468.1,
+        390.42,
+        476.62
+      ],
+      "text": "experts in te schakelen die bekend zijn met het (werk)proces of het ICT-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        478.42,
+        474.24,
+        486.94
+      ],
+      "text": "AVG-juristen, materiewetjuristen, uitvoeringsdeskundigen, projectleiders, etc.) en eventueel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        488.62,
+        409.31,
+        497.14
+      ],
+      "text": "verschillende sessies te organiseren om de benodigde informatie op te halen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        509.26,
+        243.51,
+        517.78
+      ],
+      "text": "Opbouw van GEB-rapport sjabloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        519.58,
+        525.88,
+        528.1
+      ],
+      "text": "Het sjabloon wordt gebruikt door de uitvoerder van de GEB (die is aangesteld door de verantwoordelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        529.9,
+        484.02,
+        538.42
+      ],
+      "text": "voor de verwerking) om hierin op gestructureerde en gestandaardiseerde wijze de analyses en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        540.1,
+        207.31,
+        548.62
+      ],
+      "text": "beoordelingen te rapporteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        560.74,
+        210.73,
+        569.26
+      ],
+      "text": "Onderdelen van GEB-sjabloon:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.16,
+        570.94,
+        409.34,
+        579.46
+      ],
+      "text": "Sectie 2: Geeft een overzicht van de informatie van de GEB-opdracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.16,
+        581.26,
+        340.07,
+        589.78
+      ],
+      "text": "Sectie 3: Beschrijft de kenmerken van de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.16,
+        591.58,
+        362.3,
+        600.1
+      ],
+      "text": "Sectie 4: Beoordeelt de rechtmatigheid van de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.16,
+        601.9,
+        499.66,
+        610.42
+      ],
+      "text": "Sectie 5: mitigerende maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.16,
+        612.22,
+        500.98,
+        620.74
+      ],
+      "text": "Sectie 6: Beschrijft risico-acceptatie en verantwoording van de GEB (advies BSO en advies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        158.49,
+        622.42,
+        312.98,
+        630.94
+      ],
+      "text": "Functionaris Gegevensbescherming)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        643.06,
+        519.98,
+        651.58
+      ],
+      "text": "Het sjabloon voor het GEB-rapport is gebaseerd op het Model gegevensbeschermingseffectbeoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        653.26,
+        123.32,
+        661.78
+      ],
+      "text": "rijksdienst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.71,
+        708.19,
+        523.45,
+        714.77
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.71,
+        716.21,
+        139.84,
+        722.8
+      ],
+      "text": "of openbaar gema",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.32,
+        724.29,
+        316.65,
+        730.87
+      ],
+      "text": "manier zonder voorafgaande schriftelijke toestemming van de uitgever.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        262.0,
+        173.0,
+        1244.0,
+        218.0
+      ],
+      "text": "uUwV Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        1185.0,
+        212.0,
+        1277.0,
+        228.0
+      ],
+      "text": "3 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        1184.0,
+        247.0,
+        1364.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        269.0,
+        312.0,
+        722.0,
+        342.0
+      ],
+      "text": "2. Informatie GEB-opdracht",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        220.0,
+        383.0,
+        585.0,
+        406.0
+      ],
+      "text": "Vul de gevraagde gegevens in:",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        753.0,
+        444.0,
+        896.0,
+        465.0
+      ],
+      "text": "01-10-2021",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        235.0,
+        481.0,
+        815.0,
+        503.0
+      ],
+      "text": "Datum GEB Check n.V.t.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        736.0,
+        471.0,
+        1483.0,
+        524.0
+      ],
+      "text": "[nvt O |",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        235.0,
+        518.0,
+        1329.0,
+        546.0
+      ],
+      "text": "Bijzonderheden n.a.v. GEB Check Herbeoordeling bestaande GEB SIEM Qradar",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        222.0,
+        611.0,
+        472.0,
+        632.0
+      ],
+      "text": "Documentbeheer",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        236.0,
+        679.0,
+        490.0,
+        698.0
+      ],
+      "text": "Versiegeschiedenis",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        236.0,
+        714.0,
+        1041.0,
+        740.0
+      ],
+      "text": "Versie Datum Naam Verandering",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        353.0,
+        748.0,
+        1168.0,
+        782.0
+      ],
+      "text": "14-04-2021 |5.1lid2sub e Nieuwe Template GEB",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        350.0,
+        787.0,
+        1359.0,
+        820.0
+      ],
+      "text": "02-11-2021 |5.1lid2 sub e Koppeling tussen Tools Qradar en TIP",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        350.0,
+        825.0,
+        1224.0,
+        849.0
+      ],
+      "text": "01-12-2021 |5.1lid2sub e Commentaar BSO verwerkt",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        222.0,
+        921.0,
+        989.0,
+        948.0
+      ],
+      "text": "2.1 Geraadpleegde experts t.b.v. deze rapportage",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        221.0,
+        960.0,
+        1430.0,
+        982.0
+      ],
+      "text": "Geef aan met wie overleg is gevoerd voor het uitvoeren van de GEB. Neem contact op met de privacy",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        219.0,
+        989.0,
+        1290.0,
+        1011.0
+      ],
+      "text": "juristen Juridische Zaken voor advies over de juridische onderbouwing van de verwerking.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1088.0,
+        1116.0,
+        1123.0
+      ],
+      "text": "| Bd2se 5.1lid2sube LM",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1117.0,
+        1141.0,
+        1165.0
+      ],
+      "text": "| Ba2awe 5.1lid2 sub e CISO",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1162.0,
+        1211.0,
+        1198.0
+      ],
+      "text": "E 5.1lid2sube ICT/USOC",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        233.0,
+        1192.0,
+        1141.0,
+        1231.0
+      ],
+      "text": "51id2swe 5.1lid2 sub e CISO",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1232.0,
+        1141.0,
+        1273.0
+      ],
+      "text": ":.uuz-n- 5.1lid2sube CISO",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        233.0,
+        1266.0,
+        1211.0,
+        1307.0
+      ],
+      "text": "54lid2sube 5.1lid2 sube ICT/USOC",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1303.0,
+        1215.0,
+        1351.0
+      ],
+      "text": ":11uz-n- 5 1 lid2sube ICT/USOC",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1350.0,
+        1211.0,
+        1384.0
+      ],
+      "text": "E 5.1lid2 sub e ICT/USOC",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        233.0,
+        1379.0,
+        1132.0,
+        1418.0
+      ],
+      "text": "51lid2swe 5.1lid 2 sub e K&S",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        217.0,
+        1448.0,
+        1314.0,
+        1487.0
+      ],
+      "text": "[sTiazwe # |5 1 lid2sube ICT/Bedrijfsbureau",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1488.0,
+        1210.0,
+        1524.0
+      ],
+      "text": "[54id2swbe * 5.1lid2sube ICT/USOC",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        238.0,
+        1538.0,
+        542.0,
+        1560.0
+      ],
+      "text": "* betrokken bij herijking",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        222.0,
+        1606.0,
+        745.0,
+        1633.0
+      ],
+      "text": "2.2 Geraadpleegde documentatie",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        221.0,
+        1646.0,
+        1412.0,
+        1669.0
+      ],
+      "text": "Geef hier aan welke documenten zijn gebruikt bij het uitvoeren van de GEB en het opstellen van het",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        222.0,
+        1676.0,
+        314.0,
+        1696.0
+      ],
+      "text": "rapport.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        234.0,
+        1761.0,
+        423.0,
+        1803.0
+      ],
+      "text": "5.1lid 2 sub i",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        241.0,
+        1825.0,
+        455.0,
+        1853.0
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        221.0,
+        2062.0,
+        631.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        127.0,
+        2136.0,
+        407.0,
+        2159.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        426.24,
+        76.09,
+        459.74,
+        83.66
+      ],
+      "text": "4 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        96.24,
+        112.57,
+        447.66,
+        123.02
+      ],
+      "text": "3. Beschrijving van de (voorgenomen) gegevensverwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        127.78,
+        523.5,
+        136.3
+      ],
+      "text": "Deze sectie is bedoeld om inzicht te krijgen in de aard en de omvang van de verwerking waar deze GEB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        137.98,
+        518.3,
+        146.5
+      ],
+      "text": "betrekking op heeft. Dit inzicht vormt de basis om vervolgens in sectie 4 (de rechtmatige en juridische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        148.3,
+        394.75,
+        156.82
+      ],
+      "text": "context van de verwerking) te beoordelen of de verwerking rechtmatig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        168.94,
+        517.17,
+        177.46
+      ],
+      "text": "Graag opletten dat de toelichting per onderdeel op zichzelf staand dient te zijn. Dus geen verwijzingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        179.26,
+        512.4,
+        187.78
+      ],
+      "text": "naar andere niet meegeleverde documentatie. Daarnaast dient de beschrijving door een relatieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.33,
+        189.46,
+        495.73,
+        197.98
+      ],
+      "text": "leek of buitenstaander te begrijpen zijn. Tot slot het verzoek om afkortingen de eerste keer uit te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.33,
+        199.78,
+        120.84,
+        208.3
+      ],
+      "text": "schrijven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.33,
+        220.3,
+        519.9,
+        228.82
+      ],
+      "text": "Indien de verwerking gebruik maakt van een algoritme, raadpleeg dan voor het invullen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.33,
+        230.62,
+        341.07,
+        239.14
+      ],
+      "text": "hoofdstuk 3 en 4 bijlage II: GEB-rapport en algoritmen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        252.51,
+        353.87,
+        261.88
+      ],
+      "text": "3.1 Wat is de scope van de gegevensverwerking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        266.5,
+        504.99,
+        275.02
+      ],
+      "text": "Beschrijf hier kort de scope van het GEB-rapport: wordt bijvoorbeeld alleen een specifieke wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        276.82,
+        528.83,
+        285.34
+      ],
+      "text": "beschreven of wordt het hele proces belicht? Geef daarnaast aan welke verwerkingen nadrukkelijk out-of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        287.02,
+        176.98,
+        295.54
+      ],
+      "text": "scope van de GEB zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        297.34,
+        498.11,
+        305.86
+      ],
+      "text": "NB: Wanneer de GEB-check is ingevuld, neem de informatie over uit de GEB-check, paragraaf 5.2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        307.66,
+        454.64,
+        316.18
+      ],
+      "text": "Tip: neem het proces als uitgangspunt van het GEB-rapport en niet de applicatie. Neem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.34,
+        328.18,
+        179.9,
+        336.7
+      ],
+      "text": "wel mee in het rapport.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.76,
+        348.88,
+        506.49,
+        360.15
+      ],
+      "text": "Dit GEB-Rapport focust zich op de logging en monitoring van UWV systemen, middels een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.76,
+        361.83,
+        473.24,
+        373.11
+      ],
+      "text": "SIEM. Vanuit verschillende normenkaders zoals de BIO moet UWV de integriteit en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.76,
+        374.78,
+        301.56,
+        386.05
+      ],
+      "text": "vertrouwelijkheid van haar gegevens bewaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        409.35,
+        350.4,
+        418.72
+      ],
+      "text": "3.2 Wat is het doel van de gegevensverwerking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        423.34,
+        526.44,
+        431.86
+      ],
+      "text": "Beschrijf de verwerkingsdoeleinden. Het verdient de voorkeur de verwerkingsdoeleinden zoveel mogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        433.66,
+        517.79,
+        442.18
+      ],
+      "text": "op het niveau van werk- en organisatieprocessen uit te werken. Indien de verwerking uit verschillende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        443.98,
+        309.89,
+        452.5
+      ],
+      "text": "fasen bestaat, beschrijf dan voor iedere fase het doel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        454.18,
+        498.11,
+        462.7
+      ],
+      "text": "NB: Wanneer de GEB-check is ingevuld, neem de informatie over uit de GEB-check, paragraaf 5.3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.76,
+        473.8,
+        448.52,
+        485.07
+      ],
+      "text": "Van logging en monitoring kunnen twee kerndoelstellingen onderkend worden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        499.71,
+        498.76,
+        510.99
+      ],
+      "text": "Bewaken van de integriteit van gegevens: Het is voor de bedrijfsvoering van UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.68,
+        502.63,
+        112.44,
+        510.2
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        512.79,
+        524.74,
+        524.06
+      ],
+      "text": "essentieel dat de bedrijfsgegevens eerlijk en betrouwbaarzijn. Daarom is het cruciaal dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        525.74,
+        495.39,
+        537.01
+      ],
+      "text": "de correctheid van deze gegevens gemonitord wordt, zodat waar nodig correctieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        538.69,
+        298.09,
+        549.96
+      ],
+      "text": "maatregelen genomen kunnen worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        564.51,
+        477.96,
+        575.79
+      ],
+      "text": "Bewaken van de vertrouwelijkheid van gegevens: UWV bezit en gebruikt veel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.68,
+        567.43,
+        112.44,
+        575.0
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        577.59,
+        499.64,
+        588.86
+      ],
+      "text": "privacygevoelige gegevens en moet hier op een vertrouwelijke wijze mee om gaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        590.54,
+        506.97,
+        601.81
+      ],
+      "text": "Zowel voor UWV-medewerkers als voor andere stakeholders gelden strikte eisen ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        603.49,
+        516.66,
+        614.76
+      ],
+      "text": "aanzien van doelbinding en proportionaliteit. Op deze manier moet voorkomen worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        616.44,
+        512.72,
+        627.71
+      ],
+      "text": "dat gegevens misbruikt worden, bijvoorbeeld door het plegen van fraude of het lekken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        629.51,
+        521.93,
+        640.78
+      ],
+      "text": "van persoonsgegevens op het web. Logging helptgebruikersgedrag te registreren, zowel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        642.46,
+        523.09,
+        653.74
+      ],
+      "text": "voor de actieve dagelijkse monitoring (realtime of achteraf) als voor het passief bewaren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.6,
+        655.41,
+        318.04,
+        666.68
+      ],
+      "text": "van audit trails t.b.v. forensisch onderzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        701.43,
+        484.06,
+        710.8
+      ],
+      "text": "3.3 en verwerkte persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.16,
+        715.42,
+        487.49,
+        723.94
+      ],
+      "text": "Geef aan van welke van personen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.17,
+        725.74,
+        511.87,
+        734.26
+      ],
+      "text": "persoonsgegevens worden verwerkt. groep personen gaat,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        426.24,
+        76.09,
+        459.74,
+        83.66
+      ],
+      "text": "5 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.17,
+        112.42,
+        504.07,
+        120.94
+      ],
+      "text": "maar het kan ook gaan om een verwerking waarin van verschillende groepen van personen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.17,
+        122.62,
+        269.88,
+        131.14
+      ],
+      "text": "persoonsgegevens worden verwerkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        132.94,
+        457.98,
+        141.46
+      ],
+      "text": "Geef per categorie van personen aan welke persoonsgegevens worden verwerkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        143.14,
+        413.39,
+        151.66
+      ],
+      "text": "Geef aan wat de vertrouwelijkheidsklasse van de persoonsgegevens is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        153.46,
+        509.6,
+        161.98
+      ],
+      "text": "Geef aan of het persoonsgegeven een bijzonder persoonsgeven of een persoonsgegeven van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        163.78,
+        507.58,
+        172.3
+      ],
+      "text": "strafrechtelijke aard is. Neem contact op met Juridische Zaken als er vragen zijn omtrent de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        174.1,
+        509.03,
+        182.62
+      ],
+      "text": "categorisering van persoonsgegevens in gewone, gevoelige, bijzondere en/of strafrechtelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        184.42,
+        195.06,
+        192.94
+      ],
+      "text": "persoonsgegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        194.62,
+        521.7,
+        203.14
+      ],
+      "text": "Geef aan of de persoonsgegevens specifiek voor dit verwerkingsdoel verzameld zijn of voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        204.94,
+        213.12,
+        213.46
+      ],
+      "text": "ander verwerkingsdoel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        215.26,
+        529.63,
+        223.78
+      ],
+      "text": "Geef per persoonsgegeven aan wat de bewaartermijn is en of de bewaartermijn wordt toegepast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        225.46,
+        485.22,
+        233.98
+      ],
+      "text": "Tip: Voor het bepalen van de vertrouwelijkheidsklasse van de persoonsgegevens kun je de BIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        235.78,
+        511.7,
+        244.3
+      ],
+      "text": "classificatie gebruiken en/of gebruik maken van het FUGEM van de applicatie(s) waaruit de gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        246.1,
+        410.0,
+        254.62
+      ],
+      "text": "worden gebruikt. Neem hiervoor contact op met de lokaal gegevensmanager.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        87.64,
+        275.13,
+        521.96,
+        348.85
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        375.27,
+        486.85,
+        384.64
+      ],
+      "text": "3.4 Welke bewaartermijnen gelden voor de verwerkte persoonsgegevens?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        389.26,
+        528.6,
+        397.78
+      ],
+      "text": "De AVG heeft als beginsel dat persoonsgegevens niet langer mogen worden bewaard in een vorm die het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        399.7,
+        471.1,
+        408.22
+      ],
+      "text": "mogelijk maakt de betrokkenen te identificeren dan voor het realiseren van het doel van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        410.02,
+        514.98,
+        418.54
+      ],
+      "text": "gegevensverwerking noodzakelijk is. Ofwel als het voor het verwerkingsdoel niet meer nodig is om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        420.22,
+        515.36,
+        428.74
+      ],
+      "text": "gegevens te bewaren, dan moeten deze vernietigd of geanonimiseerd worden. Vanuit de Archiefwet is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        430.54,
+        450.06,
+        439.06
+      ],
+      "text": "UWV echter vaak verplicht de gegevens langer te bewaren. In paragraaf 3.3 is voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        440.86,
+        522.13,
+        449.38
+      ],
+      "text": "personen aangeven wat de bewaartermijnen zijn. In deze paragraaf wordt gevraagd aan te geven of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        451.06,
+        209.55,
+        459.58
+      ],
+      "text": "bewaartermijnen ook voor alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        461.5,
+        479.52,
+        470.02
+      ],
+      "text": "Wanneer de bewaartermijn niet kan worden toegepast, geef aan waarom dat niet mogelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        471.7,
+        503.62,
+        480.22
+      ],
+      "text": "NB: het niet toepassen van de bewaartermijnen leidt tot een privacyrisico dat terug moet komen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.33,
+        492.22,
+        274.76,
+        500.74
+      ],
+      "text": "Tip: gebruik hiervoor Selectielijst van FB DIV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.76,
+        522.04,
+        404.71,
+        533.31
+      ],
+      "text": "Zie voor bewaartermijnen de documentatie genoemd in paragraaf 3.3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        99.48,
+        549.76,
+        387.71,
+        561.03
+      ],
+      "text": "Bewaartermijnen worden voor allepersoonsgegevens nageleefd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        99.48,
+        564.76,
+        442.63,
+        576.03
+      ],
+      "text": "Bewaartermijnen worden nietvoorallepersoonsgegevens nageleefd, omdat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        600.75,
+        239.38,
+        610.12
+      ],
+      "text": "3.5 Beschrijf de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        614.74,
+        493.85,
+        623.26
+      ],
+      "text": "Beschrijf hoe de verwerking van de genoemde persoonsgegevens plaatsvindt. Ga hierbij in op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        625.06,
+        434.8,
+        633.58
+      ],
+      "text": "volgende vragen en benoem welke informatiesystemen hierbij worden gehanteerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        635.38,
+        497.24,
+        643.9
+      ],
+      "text": "Verzamelen: Van wie of uit welk systeem zijn de persoonsgegevens afkomstig die worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        645.7,
+        155.38,
+        654.22
+      ],
+      "text": "verwerkt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        656.02,
+        527.42,
+        664.54
+      ],
+      "text": "Gebruiken: Wat wordt er vervolgens gedaan met die persoonsgegevens? Welke verwerking vindt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        666.22,
+        143.36,
+        674.74
+      ],
+      "text": "plaats?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        676.54,
+        522.74,
+        685.06
+      ],
+      "text": "Verstrekken: Wie hebben toegang tot de verwerkte persoonsgegevens en/of aan wie worden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.16,
+        686.86,
+        237.93,
+        695.38
+      ],
+      "text": "persoonsgegevens verstrekt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        697.06,
+        523.83,
+        705.58
+      ],
+      "text": "Geef verder aan welke bedrijfsonderdelen betrokken zijn bij de verwerking en vermeld wat hun rol is bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        707.38,
+        142.91,
+        715.9
+      ],
+      "text": "de verwerking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        717.7,
+        496.64,
+        726.22
+      ],
+      "text": "NB: Ook als persoonsgegevens uitsluitend worden geraadpleegd is er sprake van een verwerking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        426.24,
+        76.09,
+        459.74,
+        83.66
+      ],
+      "text": "6 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.34,
+        112.42,
+        517.19,
+        120.94
+      ],
+      "text": "Tip: Het verdient aanbeveling de gegevensverwerkingen ook te visualiseren, bijvoorbeeld aan de hand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.32,
+        122.62,
+        517.94,
+        131.14
+      ],
+      "text": "van een input-output model, flowchart of workflow, of de procesbeschrijving van de verwerking. Neem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.32,
+        132.94,
+        395.6,
+        141.46
+      ],
+      "text": "hiervoor eventueel contact op met de procesontwerpers binnen de divisie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        87.98,
+        151.32,
+        526.88,
+        225.81
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        262.0,
+        172.0,
+        1244.0,
+        218.0
+      ],
+      "text": "uUwV Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        1185.0,
+        212.0,
+        1277.0,
+        228.0
+      ],
+      "text": "7 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        1184.0,
+        247.0,
+        1365.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.0,
+        1119.0,
+        267.0,
+        1140.0
+      ],
+      "text": "3.6",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        315.0,
+        1118.0,
+        1099.0,
+        1145.0
+      ],
+      "text": "Zijn er externe partijen betrokken bij de verwerking?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.0,
+        1157.0,
+        1444.0,
+        1180.0
+      ],
+      "text": "Benoem welke organisaties (buiten UWV) betrokken zijn bij welke gegevensverwerkingen. Denk hierbij",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        221.0,
+        1186.0,
+        1433.0,
+        1209.0
+      ],
+      "text": "aan externe partijen, zoals een leverancier die (een deel van) de analyses uitvoert of een SaaS-dienst",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        221.0,
+        1215.0,
+        329.0,
+        1234.0
+      ],
+      "text": "aanbiedt.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        269.0,
+        1243.0,
+        1360.0,
+        1266.0
+      ],
+      "text": "> Van welke organisaties worden persoonsgegevens ontvangen en waarom? (denk aan de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        316.0,
+        1272.0,
+        805.0,
+        1295.0
+      ],
+      "text": "Belastingdienst, gemeenten, werkgevers)",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        269.0,
+        1300.0,
+        1326.0,
+        1323.0
+      ],
+      "text": "> Met welke organisaties worden persoonsgegevens gedeeld en waarom? (denk aan de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        316.0,
+        1329.0,
+        868.0,
+        1352.0
+      ],
+      "text": "Belastingdienst, gemeenten, pensioenfondsen)",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        269.0,
+        1357.0,
+        1479.0,
+        1380.0
+      ],
+      "text": "> Welke organisaties hebben daarnaast toegang tot de gegevens en waarom? (Denk hierbij ook aan",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        316.0,
+        1386.0,
+        1102.0,
+        1409.0
+      ],
+      "text": "partijen die onze gegevens technisch ondersteunen als verwerker)",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        269.0,
+        1415.0,
+        1430.0,
+        1438.0
+      ],
+      "text": "> Is de externe organisatie verwerker of (gezamenlijk) verwerkingsverantwoordelijke? Voor een",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        315.0,
+        1443.0,
+        1480.0,
+        1466.0
+      ],
+      "text": "toelichting op de begrippen verwerker en verwerkingsverantwoordelijke zie het UWV Beleidskader",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        315.0,
+        1472.0,
+        1445.0,
+        1495.0
+      ],
+      "text": "Privacy , hoofdstuk 2, paragraaf 2.3. Als je niet zeker weet of een organisatie een verwerker of",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        315.0,
+        1500.0,
+        1278.0,
+        1523.0
+      ],
+      "text": "verwerkingsverantwoordelijke is, neem contact op met de privacyjuristen van JZ.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        269.0,
+        1529.0,
+        1234.0,
+        1552.0
+      ],
+      "text": "> Welke afspraken zijn er met de externe organisatie gemaakt in het kader van",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        315.0,
+        1558.0,
+        1431.0,
+        1581.0
+      ],
+      "text": "gegevensbescherming? Geef aan of er een getekende versie van de BVO aanwezig is en zo ja,",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        315.0,
+        1586.0,
+        1201.0,
+        1609.0
+      ],
+      "text": "welke versie. Vermeld tevens of er periodieke controles worden uitgevoerd",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        221.0,
+        2061.0,
+        631.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        126.0,
+        2135.0,
+        407.0,
+        2160.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        426.24,
+        76.09,
+        459.74,
+        83.66
+      ],
+      "text": "8 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.01,
+        112.17,
+        156.89,
+        123.18
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        86.63,
+        124.74,
+        530.25,
+        200.03
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        618.63,
+        509.44,
+        628.0
+      ],
+      "text": "3.7 Worden persoonsgegevens buiten de EER verwerkt (verwerkingslocaties)?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        632.62,
+        511.97,
+        641.14
+      ],
+      "text": "Worden de gegevens buiten de Europese Economische Ruimte (EER) verwerkt? Hoofdregel is dat een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        643.06,
+        522.13,
+        651.58
+      ],
+      "text": "organisatie persoonsgegevens alleen aan derde landen (landen buiten de EER) mag doorgeven als deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        653.26,
+        439.57,
+        661.78
+      ],
+      "text": "landen een passend beschermingsniveau bieden. Doorgifte is mogelijk op basis van:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.16,
+        663.58,
+        203.84,
+        672.1
+      ],
+      "text": "Adequaatheidsbesluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.16,
+        673.78,
+        305.13,
+        682.3
+      ],
+      "text": "Doorgifte op basis van passende waarborgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.16,
+        684.1,
+        369.38,
+        692.62
+      ],
+      "text": "Doorgifte op basis van bindende bedrijfsvoorschriften (BCR)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.16,
+        694.42,
+        319.86,
+        702.94
+      ],
+      "text": "Doorgifte op basis van specifieke uitzonderingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        704.62,
+        527.53,
+        713.14
+      ],
+      "text": "Voor een toelichting op verstrekking aan organisaties in het buitenland, raadpleeg het UWV Beleidskader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        715.06,
+        529.66,
+        723.58
+      ],
+      "text": "Privacy hoofdstuk 5.6.1 Neem contact op met Juridische Zaken, als er gegevens worden verwerkt buiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        725.26,
+        112.15,
+        733.78
+      ],
+      "text": "de EER.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        426.24,
+        76.09,
+        459.74,
+        83.66
+      ],
+      "text": "9 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.48,
+        120.88,
+        389.22,
+        132.15
+      ],
+      "text": "Nee, er worden geen persoonsgegevens buiten de EER verwerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        99.48,
+        135.28,
+        458.24,
+        146.55
+      ],
+      "text": "Ja,er worden persoonsgegevens in de volgende landen buiten de EER verwerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        171.15,
+        462.96,
+        180.52
+      ],
+      "text": "3.8 Wordt er gebruik gemaakt van geautomatiseerde besluitvorming?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        185.26,
+        522.55,
+        193.78
+      ],
+      "text": "Het gaat hier om de vraag of de verwerking is gericht op volledig geautomatiseerde besluitvorming met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        195.58,
+        502.11,
+        204.1
+      ],
+      "text": "rechtsgevolgen voor de betrokkene of volledig geautomatiseerde besluitvorming die de betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        205.9,
+        499.61,
+        214.42
+      ],
+      "text": "anderszins in aanmerkelijke mate treft. Voorbeeld hiervan is de straight-through-processing bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        216.1,
+        523.5,
+        224.62
+      ],
+      "text": "aanvraag van een WW-uitkering. Het systeem stelt automatisch het recht, de hoogte en de duur van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        226.42,
+        519.21,
+        234.94
+      ],
+      "text": "WW-uitkering vast. Dit is een beslissing met rechtsgevolgen voor de klant. Ook als een beslissing geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        236.62,
+        505.01,
+        245.14
+      ],
+      "text": "besluit in de zin van de Awb is, kan sprake zijn van een volledig geautomatiseerde beslissing die de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        247.06,
+        529.62,
+        255.58
+      ],
+      "text": "betrokkene in aanmerkelijke mate treft, bijvoorbeeld een automatische beslissing om iemand niet of juist",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        257.26,
+        271.98,
+        265.78
+      ],
+      "text": "wel voor een bepaald gesprek uit te nodigen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.76,
+        280.6,
+        376.94,
+        291.87
+      ],
+      "text": "Beantwoord in dit onderdeel in ieder geval de volgende vragen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.6,
+        294.4,
+        502.04,
+        305.67
+      ],
+      "text": "Wordt er een computeralgoritme gebruikt bij het verwerken van persoonsgegevens?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        151.92,
+        308.56,
+        169.99,
+        319.83
+      ],
+      "text": "Nee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        323.92,
+        159.74,
+        335.19
+      ],
+      "text": "Ja",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.14,
+        337.11,
+        495.8,
+        348.39
+      ],
+      "text": "Om een eerste schifting in de beschikbare brondata te maken, vindt er een filtering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        125.9,
+        350.06,
+        286.53,
+        361.34
+      ],
+      "text": "middels computeralgoritmes plaats.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.6,
+        376.84,
+        407.69,
+        388.11
+      ],
+      "text": "Wordt er (deels) een beslissing gebaseerd op deze verwerking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        391.6,
+        168.31,
+        402.87
+      ],
+      "text": "Nee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        406.6,
+        159.74,
+        417.87
+      ],
+      "text": "Ja",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        125.9,
+        419.79,
+        525.61,
+        431.06
+      ],
+      "text": "Deze verwerking geeft de security analist louter een onderzoeksrichting. Besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        125.9,
+        432.74,
+        479.73,
+        444.01
+      ],
+      "text": "vindt plaats op basis van het verdere onderzoek, onafhankelijk van algoritmes.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.6,
+        459.64,
+        497.05,
+        470.91
+      ],
+      "text": "Is er sprake van een volledige geautomatiseerde beslissing? Oftewel een beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.6,
+        472.59,
+        383.99,
+        483.86
+      ],
+      "text": "zonder betekenisvolle tussenkomst door een medewerker.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        487.36,
+        168.31,
+        498.63
+      ],
+      "text": "Nee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        502.36,
+        159.74,
+        513.63
+      ],
+      "text": "Ja",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.14,
+        515.55,
+        480.24,
+        526.82
+      ],
+      "text": "Een beslissing komt tot stand op basis van een analyse van een security analist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.6,
+        542.32,
+        522.89,
+        553.59
+      ],
+      "text": "Is de beslissing een besluit met rechtsgevolgen, bijvoorbeeld een besluit in de zin van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.6,
+        555.27,
+        473.3,
+        566.54
+      ],
+      "text": "Awb, of treft de beslissing de betrokkenen anderszins in aanmerkelijke mate?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        570.04,
+        168.31,
+        581.31
+      ],
+      "text": "Nee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        150.24,
+        585.16,
+        159.74,
+        596.43
+      ],
+      "text": "Ja",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        123.14,
+        598.35,
+        480.24,
+        609.62
+      ],
+      "text": "Een beslissing komt tot stand op basis van een analyse van een security analist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        636.75,
+        344.12,
+        646.12
+      ],
+      "text": "3.9 Wordt er gebruikt gemaakt van profilering?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        650.74,
+        491.09,
+        659.26
+      ],
+      "text": "Het gaat hier om de vraag of de verwerking tot doel heeft personen (bijv. klanten) in te delen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        661.06,
+        512.3,
+        669.58
+      ],
+      "text": "bepaalde groepen (klantsegmenten of -profielen), bijvoorbeeld door toepassing van een model. Denk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        671.38,
+        525.95,
+        679.9
+      ],
+      "text": "bijvoorbeeld aan een model dat klanten indeelt in groepen die een hoog of laag risico op fraude vormen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        681.58,
+        517.17,
+        690.1
+      ],
+      "text": "Wordt er een selectie van personen gemaakt door middel van profilering? Zo ja, beschrijf op basis van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        691.9,
+        523.89,
+        700.42
+      ],
+      "text": "welke generieke kenmerken de selectie van personen wordt gegenereerd. Voor meer informatie gebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        702.22,
+        188.03,
+        710.74
+      ],
+      "text": "de informatie in bijlage II",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.34,
+        712.54,
+        495.62,
+        721.06
+      ],
+      "text": "Tip: Onder profilering wordt verstaan het indelen van personen in bepaalde groepen op basis van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        722.86,
+        174.68,
+        731.38
+      ],
+      "text": "generieke kenmerken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "10 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        99.48,
+        123.4,
+        333.83,
+        134.68
+      ],
+      "text": "Nee, er wordt geengebruik gemaakt van profilering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        99.48,
+        138.4,
+        395.18,
+        149.67
+      ],
+      "text": "Ja, profilering wordt op de volgende wijze toegepast:[toelichting]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        262.0,
+        173.0,
+        1245.0,
+        218.0
+      ],
+      "text": "uwV Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        1186.0,
+        212.0,
+        1291.0,
+        228.0
+      ],
+      "text": "11 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        1184.0,
+        247.0,
+        1365.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        268.0,
+        312.0,
+        1033.0,
+        342.0
+      ],
+      "text": "3. Rechtmatigheid van de gegevensverwerking",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        222.0,
+        355.0,
+        1266.0,
+        378.0
+      ],
+      "text": "Deze sectie is bedoeld om inzicht te krijgen in de rechtmatigheid van de verwerking van",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        221.0,
+        383.0,
+        1283.0,
+        406.0
+      ],
+      "text": "persoonsgegevens en de relevante regelgeving die van toepassing is op deze verwerking.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        222.0,
+        412.0,
+        1325.0,
+        435.0
+      ],
+      "text": "Neem contact op met de privacy juristen van Juridische Zaken voor advies over de juridische",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        441.0,
+        1451.0,
+        464.0
+      ],
+      "text": "onderbouwing van de verwerking. Voor informatie over de taken die voortvloeien uit materiewetgeving",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        221.0,
+        469.0,
+        1459.0,
+        492.0
+      ],
+      "text": "kun je contact opnemen met de materiewetjuristen/beleidsadviseurs van je eigen divisie of het Juridisch",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        222.0,
+        498.0,
+        498.0,
+        521.0
+      ],
+      "text": "Kennis Centrum (JKC ).",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        220.0,
+        586.0,
+        1255.0,
+        613.0
+      ],
+      "text": "4.1 Op welke van de AVG-grondslagen is de verwerking gebaseerd?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        221.0,
+        626.0,
+        1454.0,
+        649.0
+      ],
+      "text": "Geef aan op welke grondslag de gegevensverwerking is gebaseerd. Van de zes AVG-grondslagen zijn er",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        221.0,
+        655.0,
+        639.0,
+        678.0
+      ],
+      "text": "vuf die UWV kan hanteren. Dit zijn:",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        269.0,
+        683.0,
+        1447.0,
+        706.0
+      ],
+      "text": "De verwerking is noodzakelijk ter uitvoering van de wettelijke taak van algemeen belang van UWV;",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        221.0,
+        708.0,
+        1179.0,
+        739.0
+      ],
+      "text": "- _ De verwerking is noodzakelijk om aan een wettelijke verplichting te voldoen;",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        221.0,
+        736.0,
+        1434.0,
+        767.0
+      ],
+      "text": "- _ De verwerking is noodzakelijk ter uitvoering van een overeenkomst of om een overeenkomst af te",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        267.0,
+        769.0,
+        354.0,
+        792.0
+      ],
+      "text": "sluiten;",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        221.0,
+        794.0,
+        1443.0,
+        825.0
+      ],
+      "text": "- _ De verwerking is noodzakelijk ter behartiging van een gerechtvaardigd belang van UWV of van een",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        267.0,
+        826.0,
+        343.0,
+        849.0
+      ],
+      "text": "derde;",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        221.0,
+        851.0,
+        1033.0,
+        882.0
+      ],
+      "text": "- _ De verwerking is gebaseerd op toestemming van de betrokkene.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        222.0,
+        883.0,
+        1447.0,
+        906.0
+      ],
+      "text": "Er kan maar 1 grondslag van toepassing zijn op een verwerking. Voor UWV is dit in de meeste gevallen",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        221.0,
+        911.0,
+        1433.0,
+        936.0
+      ],
+      "text": "de grondslag ‘noodzakelijk ter uitvoering van de wettelijke taak van algemeen belang van UWV', Deze",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        940.0,
+        1355.0,
+        963.0
+      ],
+      "text": "grondslag is daarom hieronder ingevuld. Ter onderbouwing van deze grondslag dient te worden",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        969.0,
+        1429.0,
+        992.0
+      ],
+      "text": "aangegeven om welke wettelijke taken het gaat. Vul daarom de wetsartikelen uit de materiewetten in",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        999.0,
+        1468.0,
+        1021.0
+      ],
+      "text": "waar deze taken zijn beschreven. Indien een van de andere grondslagen aan de orde is, vul dit dan in bij",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        219.0,
+        1025.0,
+        453.0,
+        1050.0
+      ],
+      "text": "‘Anders, namelijk..”",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        222.0,
+        1056.0,
+        1384.0,
+        1078.0
+      ],
+      "text": "NB: Wanneer de GEB-check is ingevuld, neem de informatie over uit de GEB-check, paragraaf 5.4",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        219.0,
+        1083.0,
+        1451.0,
+        1107.0
+      ],
+      "text": "Tip: Voor een toelichting op de AVG-grondslagen, zie het UWV Beleidskader Privacy hoofdstuk 4. Check",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        1112.0,
+        1426.0,
+        1135.0
+      ],
+      "text": "het Register van verwerkingen voor de grondslag en de onderbouwing van de grondslag. Wanneer de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        222.0,
+        1140.0,
+        1316.0,
+        1163.0
+      ],
+      "text": "verwerking nog niet in het register is opgenomen, of er iets wijzigt of niet correct is, vul een",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        1169.0,
+        858.0,
+        1192.0
+      ],
+      "text": "mutatieformulier in en stuur deze aan IBPBZ@uwv.nl.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        251.0,
+        1231.0,
+        1448.0,
+        1260.0
+      ],
+      "text": "KIDe verwerking is noodzakelijk ter uitvoering van de wettelijke taak van algemeen belang van",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        248.0,
+        1269.0,
+        331.0,
+        1291.0
+      ],
+      "text": "UWV.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        249.0,
+        1303.0,
+        997.0,
+        1332.0
+      ],
+      "text": "Die taak vloeit voort uit artikel of artikelen 6 lid 1 (f) AVG.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        250.0,
+        1375.0,
+        1296.0,
+        1405.0
+      ],
+      "text": "Ten behoeve van de uitvoering van de maatschappelijke taak die UWV heeft, is het",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        249.0,
+        1411.0,
+        1444.0,
+        1441.0
+      ],
+      "text": "noodzakelijk over een integere en beschikbare bedrijfsvoering te kunnen beschikken. De SIEM",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        250.0,
+        1447.0,
+        1376.0,
+        1477.0
+      ],
+      "text": "geeft hier invulling aan, de grondslag gerechtvaardigd belang kan ingezet worden voor de",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        249.0,
+        1483.0,
+        1454.0,
+        1513.0
+      ],
+      "text": "bedrijfsvoering, dus de wijze waarop intern invulling wordt gegeven aan de uitvoering van onze",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        249.0,
+        1520.0,
+        533.0,
+        1549.0
+      ],
+      "text": "maatschappelijke taak.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        251.0,
+        1596.0,
+        493.0,
+        1626.0
+      ],
+      "text": "DAnders, namelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        220.0,
+        2062.0,
+        631.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        126.0,
+        2135.0,
+        407.0,
+        2159.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "12 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        90.0,
+        110.94,
+        529.69,
+        185.57
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        243.51,
+        372.61,
+        252.88
+      ],
+      "text": "4.3 Worden bijzondere persoonsgegevens verwerkt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        254.74,
+        516.24,
+        263.26
+      ],
+      "text": "Bijzondere persoonsgegevens zijn onder andere persoonsgegevens met betrekking tot de gezondheid,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        265.06,
+        531.55,
+        273.58
+      ],
+      "text": "religieuze- of levensovertuiging. De verwerking van bijzondere persoonsgegevens is alleen toegestaan als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        275.26,
+        519.81,
+        283.78
+      ],
+      "text": "er een wettelijke uitzonderingsgrond van toepassing is. Wanneer bijzondere persoonsgegevens worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        285.58,
+        530.12,
+        294.1
+      ],
+      "text": "verwerkt, geef aan op basis van welke uitzondering de bijzondere persoonsgegevens worden verwerkt en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        295.78,
+        394.15,
+        304.3
+      ],
+      "text": "waarom het verwerken van bijzondere persoonsgegevens noodzakelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        306.1,
+        482.66,
+        314.62
+      ],
+      "text": "Tip: voor een toelichting op de verwerking van bijzondere persoonsgegevens bij UWV zie UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        316.54,
+        518.81,
+        325.06
+      ],
+      "text": "Beleidskader Privacy paragraaf 5.1. Voor vragen of een gegeven een bijzonder persoonsgegeven is, de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        326.74,
+        476.36,
+        335.26
+      ],
+      "text": "uitzonderingsgrond en de noodzakelijkheid, neem contact op met het eigen IB&P team of JZ.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        99.48,
+        345.52,
+        370.96,
+        356.79
+      ],
+      "text": "Nee, er worden geen bijzondere persoonsgegevens verwerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        99.48,
+        372.04,
+        344.8,
+        383.31
+      ],
+      "text": "Ja,er worden bijzondere persoonsgegevens verwerkt (",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        175.56,
+        385.24,
+        445.83,
+        396.51
+      ],
+      "text": "). Dit gebeurt op basis van de volgende uitzonderingsgrond:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        138.48,
+        425.92,
+        461.91,
+        437.19
+      ],
+      "text": "de verwerking is noodzakelijk voor een goede uitvoering van wettelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        123.12,
+        456.4,
+        514.27,
+        467.67
+      ],
+      "text": "andere aanspraken die afhankelijk zijn van de gezondheidstoestand van de betrokkene.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        123.12,
+        471.27,
+        506.83,
+        482.54
+      ],
+      "text": "[Motiveeren geef aan waar in welke artikelen deze taken in nationale wetgeving zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        123.12,
+        486.26,
+        171.96,
+        497.53
+      ],
+      "text": "verankerd]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        135.6,
+        517.96,
+        524.83,
+        529.23
+      ],
+      "text": "de verwerking is noodzakelijk voor de re-integratie of begeleiding van werknemers en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        123.13,
+        533.43,
+        445.29,
+        544.7
+      ],
+      "text": "uitkeringsgerechtigden in verband met ziekte of arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        572.43,
+        447.02,
+        581.8
+      ],
+      "text": "4.4 Worden persoonsgegevens van strafrechtelijke aard verwerkt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        586.42,
+        505.6,
+        594.94
+      ],
+      "text": "Strafrechtelijke persoonsgegevens zijn persoonsgegevens die te maken hebben met strafrechtelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        596.74,
+        506.54,
+        605.26
+      ],
+      "text": "veroordelingen en strafbare feiten. Of met veiligheidsmaatregelen die daarmee verband houden. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        606.94,
+        517.17,
+        615.46
+      ],
+      "text": "verwerking van strafrechtelijke gegevens is alleen toegestaan als er een wettelijke uitzonderingsgrond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        617.26,
+        520.09,
+        625.78
+      ],
+      "text": "van toepassing is. Wanneer er strafrechtelijke gegevens worden verwerkt, geef aan op basis van welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        627.7,
+        363.22,
+        636.22
+      ],
+      "text": "uitzondering deze worden verwerkt en waarom dit noodzakelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        637.9,
+        519.41,
+        646.42
+      ],
+      "text": "Tip: voor een toelichting op de verwerking van persoonsgegevens van strafrechtelijke aard bij UWV zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        648.22,
+        496.29,
+        656.74
+      ],
+      "text": "UWV Beleidskader Privacy paragraaf 5.2. Voor vragen of een gegeven een persoonsgegevens van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        658.42,
+        518.3,
+        666.94
+      ],
+      "text": "strafrechtelijke aard is, de uitzonderingsgrond en de noodzakelijkheid, neem contact op met Juridische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        668.74,
+        108.57,
+        677.26
+      ],
+      "text": "Zaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "13 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 13,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        99.48,
+        111.76,
+        428.56,
+        123.03
+      ],
+      "text": "Nee, er worden geen persoonsgegevens van strafrechtelijke aard verwekt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        99.48,
+        126.16,
+        406.01,
+        137.44
+      ],
+      "text": "Ja, er worden persoonsgegevens van strafrechtelijke aard verwerkt (",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        175.56,
+        139.36,
+        445.83,
+        150.63
+      ],
+      "text": "). Dit gebeurt op basis van de volgende uitzonderingsgrond:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        135.6,
+        167.2,
+        508.56,
+        178.47
+      ],
+      "text": "de verwerking is noodzakelijk ter beoordeling van een verzoek van betrokkene om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        123.13,
+        180.39,
+        480.76,
+        191.66
+      ],
+      "text": "een beslissing over hem te nemen of aan hem een prestatie te leveren (zoals het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        123.13,
+        193.34,
+        499.47,
+        204.61
+      ],
+      "text": "vaststellen van het recht op uitkering of het re-integreren naar een bepaalde sector);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        135.6,
+        221.08,
+        154.99,
+        232.35
+      ],
+      "text": "And",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        259.95,
+        519.19,
+        269.32
+      ],
+      "text": "4.5 Doelbinding: worden de persoonsgegevens verwerkt voor het doel waarvoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        113.2,
+        271.36,
+        334.06,
+        280.73
+      ],
+      "text": "ze zijn verzameld of voor een ander doel?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        295.78,
+        519.21,
+        304.3
+      ],
+      "text": "persoonsgegevens voor deze gegevensverwerking worden verzameld of al eerder ten behoeve van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        305.98,
+        515.15,
+        314.5
+      ],
+      "text": "andere gegevensverwerking (doel) zijn verzameld. Als er persoonsgegevens worden gebruikt die voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        316.3,
+        525.96,
+        324.82
+      ],
+      "text": "een andere verwerking zijn verzameld, beoordeel dan of deze nieuwe verwerking verenigbaar is met het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        326.5,
+        365.95,
+        335.02
+      ],
+      "text": "doel waarvoor de persoonsgegevens oorspronkelijk zijn verzameld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        336.82,
+        510.44,
+        345.34
+      ],
+      "text": "Tip: voor een toelichting het beginsel doelbinding zie UWV Beleidskader Privacy paragraaf 3.3. Neem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        347.14,
+        258.69,
+        355.66
+      ],
+      "text": "hiervoor contact op met Juridische Zaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        97.44,
+        368.9,
+        382.22,
+        376.47
+      ],
+      "text": "Er worden geen gegevens verwerkt die voor een ander doel zijn verzameld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        97.44,
+        378.73,
+        417.27,
+        386.3
+      ],
+      "text": "Er worden wel gegevens verwerkt die voor een ander doel zijn verzameld, namelijk,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        411.15,
+        96.09,
+        420.52
+      ],
+      "text": "4.6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "14 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 14,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        320.31,
+        378.97,
+        329.68
+      ],
+      "text": "4.7 Transparantie van de verwerking voor betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        334.3,
+        520.15,
+        342.82
+      ],
+      "text": "Uitgangspunt is dat de betrokkenen voor aanvang van de verwerking op de hoogte worden gesteld van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        344.62,
+        143.68,
+        353.14
+      ],
+      "text": "de verwerking:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        354.94,
+        528.53,
+        363.46
+      ],
+      "text": "Geef aan of de verwerking is opgenomen in het register van verwerkingen van UWV of onderdeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        365.26,
+        526.21,
+        373.78
+      ],
+      "text": "uitmaakt van een in dat register opgenomen verwerking. Wanneer de verwerking nog niet in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        375.58,
+        515.68,
+        384.1
+      ],
+      "text": "register is opgenomen, of er iets wijzigt of niet correct is, vul een mutatieformulier in en stuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        385.78,
+        484.31,
+        394.3
+      ],
+      "text": "deze aan IBPBZ@uwv.nl. Voor vragen neem contact op met het decentrale IB&P team.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        396.1,
+        501.38,
+        404.62
+      ],
+      "text": "Geef ook aan hoe Is de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.17,
+        406.3,
+        518.25,
+        414.82
+      ],
+      "text": "onderdeel van de privacyverklaring voor klanten of een andere privacyverklaring van UWV? Zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        336.26,
+        416.62,
+        455.98,
+        425.14
+      ],
+      "text": "over de verwerking van hun",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.17,
+        427.06,
+        530.24,
+        435.58
+      ],
+      "text": "persoonsgegevens? Wordt dit nog toegevoegd aan de betreffende privacyverklaring? Vul voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.17,
+        437.26,
+        527.78,
+        445.78
+      ],
+      "text": "wijzigen van de privacyverklaring een mutatieformulier in. Voor vragen neem contact op met het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        447.58,
+        209.12,
+        456.1
+      ],
+      "text": "decentrale IB&P team.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        457.9,
+        507.24,
+        466.42
+      ],
+      "text": "Neem contact op met Juridische Zaken voor advies als de betrokkenen bewust NIET over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        211.56,
+        468.1,
+        257.76,
+        476.62
+      ],
+      "text": "rd worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        123.6,
+        487.0,
+        313.84,
+        498.27
+      ],
+      "text": "Opgenomen in register van verwerkingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        150.24,
+        501.52,
+        251.13,
+        512.79
+      ],
+      "text": "Ja, securitymonitoring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        150.24,
+        514.0,
+        226.93,
+        525.27
+      ],
+      "text": "Nee [toelichting]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        123.6,
+        526.0,
+        273.41,
+        537.27
+      ],
+      "text": "Opgenomen in privacyverklaring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        151.92,
+        539.67,
+        415.69,
+        550.95
+      ],
+      "text": "Ja Informatie die we van u via onze website of app krijgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        151.92,
+        554.43,
+        226.91,
+        565.71
+      ],
+      "text": "Nee, Onbekend?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        123.6,
+        568.72,
+        500.91,
+        579.99
+      ],
+      "text": "Anders,De UWV Portalen worden gelogd en gecontroleerd in QRadar. Klanten die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        123.6,
+        581.67,
+        518.39,
+        592.94
+      ],
+      "text": "inloggen op de UWV portalen maar geen aanvraag invoeren worden alsnog gelogd. Zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        123.6,
+        594.74,
+        507.5,
+        606.01
+      ],
+      "text": "hoofdstuk 3.3. Het is ons niet bekend dat er een disclaimer o.i.d. op het portaal wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        123.6,
+        607.69,
+        313.76,
+        618.96
+      ],
+      "text": "getoond in de browser of privacy stukken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        643.35,
+        241.86,
+        652.72
+      ],
+      "text": "4.8 Rechten van betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        657.34,
+        488.31,
+        665.86
+      ],
+      "text": "Betrokkenen hebben vanuit de AVG een aantal rechten om controle te kunnen uitoefenen op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        667.78,
+        398.42,
+        676.3
+      ],
+      "text": "verwerking van hun persoonsgegevens. Het gaat om de volgende rechten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        677.98,
+        286.45,
+        686.5
+      ],
+      "text": "Verzoek om inzage in persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        688.3,
+        303.75,
+        696.82
+      ],
+      "text": "Verzoek om correctie van persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        698.5,
+        319.68,
+        707.02
+      ],
+      "text": "Verzoek om verwijdering van persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        708.82,
+        306.23,
+        717.34
+      ],
+      "text": "Verzoek om verwerking tijdelijk stil te leggen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.16,
+        719.14,
+        325.5,
+        727.66
+      ],
+      "text": "Recht om bezwaar te maken tegen de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "15 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 15,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.34,
+        112.42,
+        490.43,
+        120.94
+      ],
+      "text": "UWV heeft een aantal generieke processen om eventuele verzoeken van betrokkenen te kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        122.62,
+        510.43,
+        131.14
+      ],
+      "text": "afhandelen. Deze hoeven hier niet te worden herhaald. Het gaat er hier om dat wordt aangegeven in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        132.94,
+        513.6,
+        141.46
+      ],
+      "text": "hoeverre de verwerking er (privacy by design) op is ingericht om aan het verzoek te kunnen voldoen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        143.14,
+        508.06,
+        151.66
+      ],
+      "text": "Indien de verzoeken in het kader van de rechten van betrokkenen niet kunnen worden afgehandeld,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        153.46,
+        521.85,
+        161.98
+      ],
+      "text": "bijvoorbeeld een ingewilligd verzoek om verwijdering waar niet aan kan worden voldaan omdat er geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        163.78,
+        528.27,
+        172.3
+      ],
+      "text": "mogelijkheid is om gegevens uit het systeem te verwijderen, dan is dit een risico dat in hoofdstuk 5 naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        174.1,
+        174.0,
+        182.62
+      ],
+      "text": "voren dient te komen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        184.42,
+        504.91,
+        192.94
+      ],
+      "text": "Tip: voor een toelichting op de rechten van betrokkenen zie UWV Beleidskader Privacy hoofdstuk 9.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        91.08,
+        209.56,
+        482.45,
+        220.83
+      ],
+      "text": "De (persoons)gegevens zijn onderdeel van het controleren van de vertrouwelijkheid en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        91.08,
+        222.63,
+        518.04,
+        233.91
+      ],
+      "text": "integriteit van de systemen die worden geraadpleegd en/of gemanipuleerd. Het is hiermee niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        91.08,
+        235.58,
+        501.16,
+        246.86
+      ],
+      "text": "mogelijk om een verzoek in te dienen tot het wijzigen / verwijderen van deze loggegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        91.08,
+        248.54,
+        430.04,
+        259.81
+      ],
+      "text": "Hiermee zijn de loggegevens compliant aan de onweerlegbaarheid hiervan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "16 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        72.84,
+        106.97,
+        397.22,
+        162.03
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        66.44,
+        176.18,
+        563.55,
+        260.55
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "17 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 17,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 17,
+      "bbox": [
+        70.48,
+        102.51,
+        557.16,
+        185.11
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "18 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 18,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 18,
+      "bbox": [
+        76.87,
+        108.58,
+        539.67,
+        187.12
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "19 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        68.46,
+        108.56,
+        553.12,
+        190.82
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "20 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        63.08,
+        100.14,
+        559.85,
+        184.46
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "21 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 21,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 21,
+      "bbox": [
+        74.86,
+        103.85,
+        560.86,
+        186.34
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        426.24,
+        68.74,
+        447.86,
+        74.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        426.24,
+        76.09,
+        464.58,
+        83.66
+      ],
+      "text": "22 van 26",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 22,
+      "bbox": [
+        426.24,
+        88.57,
+        491.05,
+        96.14
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 22,
+      "bbox": [
+        73.85,
+        99.48,
+        557.83,
+        181.62
+      ],
+      "text": "5.1 lid 2 sub i",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        79.32,
+        741.8,
+        227.22,
+        748.39
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        262.0,
+        173.0,
+        1244.0,
+        218.0
+      ],
+      "text": "uUwV Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        1185.0,
+        212.0,
+        1291.0,
+        228.0
+      ],
+      "text": "23 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        1184.0,
+        247.0,
+        1364.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        268.0,
+        312.0,
+        907.0,
+        342.0
+      ],
+      "text": "4. Risico-acceptatie en verantwoording",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        379.0,
+        788.0,
+        405.0
+      ],
+      "text": "6.1 Afweging restrisico’s acceptabel",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        235.0,
+        419.0,
+        450.0,
+        449.0
+      ],
+      "text": "Risico-acceptant:",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        237.0,
+        454.0,
+        1445.0,
+        483.0
+      ],
+      "text": "KRestrisico’s acceptabel, Logging en monitoring van integriteit en vertrouwelijkheid van het IT",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        236.0,
+        487.0,
+        1386.0,
+        517.0
+      ],
+      "text": "landschap gaat gepaard met risicovolle gegevensverwerkingen. Maar is noodzakelijk om de",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        235.0,
+        521.0,
+        1452.0,
+        550.0
+      ],
+      "text": "wettelijke taken van UWV te vervullen. Door beperkte toegang, opleiding, gebruikersmonitoring",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        236.0,
+        554.0,
+        1370.0,
+        584.0
+      ],
+      "text": "en beperkte bewaartermijnen doet UWV er alles aan om de risico’s te beperken. Er blijven",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        236.0,
+        587.0,
+        1377.0,
+        617.0
+      ],
+      "text": "restrisico’s bestaan, maar de betrokkenen zijn zich bewust van hun verantwoordelijkheden,",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        236.0,
+        621.0,
+        736.0,
+        650.0
+      ],
+      "text": "daarom zijn het acceptabele restrisico’s.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        237.0,
+        654.0,
+        763.0,
+        681.0
+      ],
+      "text": "[Restrisico’s niet acceptabel, [toelichting",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        721.0,
+        492.0,
+        742.0
+      ],
+      "text": "6.2 Reactie BSO",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        222.0,
+        761.0,
+        1459.0,
+        784.0
+      ],
+      "text": "Dit GEB-rapport moet worden voorgelegd aan de BSO (klik hier voor een overzicht) die hieronder zijn of",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        222.0,
+        790.0,
+        1474.0,
+        813.0
+      ],
+      "text": "haar reactie geeft. De reactie van de BSO heeft betrekking op de gehele GEB: de BSO moet tenminste de",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        818.0,
+        565.0,
+        841.0
+      ],
+      "text": "volgende punten beoordelen:",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        269.0,
+        847.0,
+        1081.0,
+        870.0
+      ],
+      "text": "> Is de verwerking begrijpelijk omschreven? Is de scope duidelijk?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        269.0,
+        875.0,
+        1395.0,
+        899.0
+      ],
+      "text": "> Zijn de risico’s voldoende in beeld gebracht en te relateren aan de beschreven verwerking?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        269.0,
+        904.0,
+        1351.0,
+        927.0
+      ],
+      "text": "> Zijn de voorgestelde maatregelen afdoende en is de bijbehorende planning acceptabel?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        269.0,
+        932.0,
+        693.0,
+        957.0
+      ],
+      "text": "> Zijn de (rest) risico’s acceptabel",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        222.0,
+        961.0,
+        1436.0,
+        984.0
+      ],
+      "text": "NB: Indien een ander bedrijfsonderdeel ook betrokken is bij de totstandkoming van de GEB, dan moet",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        990.0,
+        1313.0,
+        1013.0
+      ],
+      "text": "ook het advies van de BSO van dat bedrijfsonderdeel opgenomen worden in de beoordeling.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        238.0,
+        1078.0,
+        1282.0,
+        1110.0
+      ],
+      "text": "Deze GEB is herijkt n.a.v. de aanstaande wijziging met betrekking tot TIP. 51 lid 2 sub i",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        234.0,
+        1221.0,
+        391.0,
+        1256.0
+      ],
+      "text": "5.1lid 2 sub i",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        238.0,
+        1313.0,
+        1456.0,
+        1335.0
+      ],
+      "text": "Een openstaande vraag is in hoeverre data uit QRadar geleverd moet worden naar andere partijen dan",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        237.0,
+        1342.0,
+        1366.0,
+        1364.0
+      ],
+      "text": "genoemd in 3.5. Als BSO van ICT Services sta ik achter het zeer beperkt delen van logging. De",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        237.0,
+        1370.0,
+        1447.0,
+        1392.0
+      ],
+      "text": "functionele behoefte van andere organisatieonderdelen niet gerelateerd aan security incidenten zal op",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        237.0,
+        1399.0,
+        1233.0,
+        1421.0
+      ],
+      "text": "een andere manier onderzocht/ingevuld moeten worden. Dit zal ik agenderen in het",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        237.0,
+        1427.0,
+        517.0,
+        1449.0
+      ],
+      "text": "accounthoudersoverleg.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        238.0,
+        1483.0,
+        485.0,
+        1503.0
+      ],
+      "text": "Naam BSO: 54id2sbe",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        238.0,
+        1516.0,
+        474.0,
+        1533.0
+      ],
+      "text": "Datum: 17-12-2021",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        236.0,
+        1578.0,
+        799.0,
+        1650.0
+      ],
+      "text": "5 1 |- Í",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        295.0,
+        1578.0,
+        799.0,
+        1650.0
+      ],
+      "text": "1 lid 2 sub i",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        238.0,
+        1715.0,
+        439.0,
+        1737.0
+      ],
+      "text": "Naam BSO: 54id2",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        238.0,
+        1748.0,
+        475.0,
+        1765.0
+      ],
+      "text": "Datum: 07-10-2022",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        1805.0,
+        1384.0,
+        1829.0
+      ],
+      "text": "Stuur na afweging van de restrisico's en reactie van de BSO deze rapportage naar de Functionaris",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        221.0,
+        1828.0,
+        647.0,
+        1865.0
+      ],
+      "text": "Gegevensbescherming ='2 @uwv.nl).",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        1863.0,
+        1455.0,
+        1886.0
+      ],
+      "text": "Indien na de FG-reactie aanpassing van het GEB-rapport nodig is, markeer de aanpassingen dan geel in",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        222.0,
+        1891.0,
+        1437.0,
+        1915.0
+      ],
+      "text": "het document, Wanneer de risico's zijn gewijzigd, dan moet ook de risico-afweging aangepast worden.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        222.0,
+        1920.0,
+        1437.0,
+        1938.0
+      ],
+      "text": "Laat in de nieuwe versie van het document de eerdere BSO- en FG-reactie in het document staan. Pas",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        222.0,
+        1947.0,
+        1453.0,
+        1972.0
+      ],
+      "text": "het GEB-rapport aan én geef in 6.3 in de tekst van de FG een reactie op de vragen en opmerkingen van",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        1977.0,
+        1453.0,
+        1999.0
+      ],
+      "text": "de FG (eveneens geel gearceerd). Pas het versienummer van het aangepaste GEB-rapport aan en stuur",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        2006.0,
+        1408.0,
+        2029.0
+      ],
+      "text": "opnieuw naar de BSO. De BSO voegt zijn/haar reactie toe onder vermelding van een nieuwe datum.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        221.0,
+        2062.0,
+        631.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        127.0,
+        2136.0,
+        407.0,
+        2159.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        262.0,
+        173.0,
+        1245.0,
+        218.0
+      ],
+      "text": "uwV Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        1185.0,
+        212.0,
+        1291.0,
+        228.0
+      ],
+      "text": "24 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        1184.0,
+        247.0,
+        1365.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        221.0,
+        312.0,
+        1158.0,
+        339.0
+      ],
+      "text": "6.3 Risico-acceptatie verantwoordelijke gegevensverwerking",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        222.0,
+        352.0,
+        1430.0,
+        375.0
+      ],
+      "text": "Dit onderdeel wordt ingevuld nadat de FG heeft aangegeven dat het proces om het GEB-rapport op te",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        220.0,
+        380.0,
+        1402.0,
+        403.0
+      ],
+      "text": "stellen is afgerond. Na dit bericht moet de verantwoordelijke voor de gegevensverwerking (vaak de",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        220.0,
+        409.0,
+        1391.0,
+        432.0
+      ],
+      "text": "divisiedirecteur of de gemandateerd opdrachtgever) een reactie geven op het eindresultaat van de",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        220.0,
+        435.0,
+        1461.0,
+        464.0
+      ],
+      "text": "afgeronde GEB. Hierna wordt het GEB-rapport in een versie X.0 aan -@uwv.nl gestuurd en opgeslagen",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        221.0,
+        466.0,
+        903.0,
+        489.0
+      ],
+      "text": "in het GEB register, waarna het GEB-Rapport is afgerond.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        236.0,
+        525.0,
+        478.0,
+        543.0
+      ],
+      "text": "Is de verantwoord",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        237.0,
+        555.0,
+        283.0,
+        574.0
+      ],
+      "text": "KJa",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        237.0,
+        585.0,
+        448.0,
+        607.0
+      ],
+      "text": "CINee, [toelichting]",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        235.0,
+        644.0,
+        875.0,
+        666.0
+      ],
+      "text": "Accepteert de verantwoordelijke de restrisico’s?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        237.0,
+        676.0,
+        283.0,
+        695.0
+      ],
+      "text": "BJa",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        237.0,
+        706.0,
+        448.0,
+        728.0
+      ],
+      "text": "CINee, [toelichting]",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        369.0,
+        747.0,
+        495.0,
+        759.0
+      ],
+      "text": "di 18-10-2022 1602",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        369.0,
+        811.0,
+        1279.0,
+        838.0
+      ],
+      "text": "RE: FG-reactie herijkt GEBrráaport SIEM QRadar, inclusief koppeling met het Threat Intelligence Platform",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        369.0,
+        1023.0,
+        593.0,
+        1037.0
+      ],
+      "text": "IN5Gag 15 OKIODET 2U2Z 13:15",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        261.0,
+        1092.0,
+        1009.0,
+        1109.0
+      ],
+      "text": "Onderwerp: FW: FG-reactie herijkt GEB-rapport SIEM ar, inclusief koppeling met t1",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        262.0,
+        1133.0,
+        348.0,
+        1167.0
+      ],
+      "text": "ME",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        262.0,
+        1179.0,
+        1469.0,
+        1197.0
+      ],
+      "text": "De GEB van QRadar is bijgewerkt n.a.v. End Point Detection. Hier zijn geen nieuwe privacy risico’s mee geïntroduceerd, door autorisaties va",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        261.0,
+        1200.0,
+        1475.0,
+        1217.0
+      ],
+      "text": "QRadar te verwijderen zijn de risico's zelfs kleiner geworden. Ben jij akkoord als verwerkingsverantwoordelijke met de restrisico's in de GEB?",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        262.0,
+        1245.0,
+        786.0,
+        1262.0
+      ],
+      "text": "Dan wordt de GEB gearchiveerd en in juni 2024 weer herijkt.",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        222.0,
+        1596.0,
+        834.0,
+        1619.0
+      ],
+      "text": "Datum herbeoordeling GEB : [dd-mm-jjjj]",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        222.0,
+        1625.0,
+        797.0,
+        1648.0
+      ],
+      "text": "Maximaal 3 jaar na datum afronding rapportage.",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        220.0,
+        2062.0,
+        631.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        126.0,
+        2135.0,
+        407.0,
+        2159.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        1185.0,
+        191.0,
+        1244.0,
+        206.0
+      ],
+      "text": "Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        1185.0,
+        212.0,
+        1290.0,
+        228.0
+      ],
+      "text": "25 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 25,
+      "bbox": [
+        1184.0,
+        247.0,
+        1364.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        220.0,
+        2061.0,
+        630.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 25,
+      "bbox": [
+        126.0,
+        2135.0,
+        407.0,
+        2160.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 26,
+      "bbox": [
+        262.0,
+        172.0,
+        1245.0,
+        218.0
+      ],
+      "text": "uUwV Pagina",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 26,
+      "bbox": [
+        1185.0,
+        212.0,
+        1291.0,
+        228.0
+      ],
+      "text": "26 van 26",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 26,
+      "bbox": [
+        1184.0,
+        247.0,
+        1365.0,
+        263.0
+      ],
+      "text": "VERTROUWELIJK",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 26,
+      "bbox": [
+        237.0,
+        627.0,
+        395.0,
+        645.0
+      ],
+      "text": "Datum: 17 ju",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 26,
+      "bbox": [
+        220.0,
+        2061.0,
+        631.0,
+        2080.0
+      ],
+      "text": "Sjabloon GEB-rapport versie december 2020",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 26,
+      "bbox": [
+        126.0,
+        2135.0,
+        407.0,
+        2160.0
+      ],
+      "text": "UWV Bedrijfsvertrouwelijk",
+      "source": "ocr"
+    }
+  ]
+}

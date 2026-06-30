@@ -1,0 +1,7241 @@
+{
+  "source_id": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs/2025-09-02-voorlopige-uitslag-van-de-verschillen-tussen-cbbs_geredigeerd-geanonimiseerd",
+  "publication_slug": "2025-09-02-woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_slug": "2025-09-02-voorlopige-uitslag-van-de-verschillen-tussen-cbbs_geredigeerd-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-over-rapporten-en-onderzoeken-over-het-claimbeoordelings-en-borgingssysteem-cbbs",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/00fc79c7-2826-4220-ba5c-2c5bbac2913f/voorlopige-uitslag-van-de-verschillen-tussen-cbbs_geredigeerd-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over rapporten en onderzoeken over het Claimbeoordelings- en Borgingssysteem (CBBS)",
+  "publication_date": "2025-09-02T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Voorlopige uitslag van de verschillen tussen CBBS (PDF, 4 MB)",
+  "retrieved_at": "2026-06-30T12:29:15+00:00",
+  "sha256": "675d80e7a6487d9f49ca19385466471a1d086c1486146f8d727c6d4626ae5ebc",
+  "page_count": 6,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        90.01,
+        243.33,
+        104.01
+      ],
+      "text": "Voorlopige uitslag de",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        201.0,
+        92.01,
+        220.5,
+        103.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        150.0,
+        107.01,
+        189.43,
+        120.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        107.01,
+        247.28,
+        121.01
+      ],
+      "text": "verschillen CBBS-4",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        260.0,
+        109.01,
+        272.0,
+        120.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        124.01,
+        116.28,
+        138.01
+      ],
+      "text": "CBBS-5",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        245.01,
+        161.93,
+        259.01
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        264.01,
+        521.0,
+        274.01
+      ],
+      "text": "Wat voorafging 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        142.0,
+        269.0,
+        513.0,
+        274.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        281.01,
+        521.0,
+        291.01
+      ],
+      "text": "Start de werkgroep CBBS-5 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        96.0,
+        282.01,
+        108.75,
+        290.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        216.0,
+        286.0,
+        513.0,
+        291.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        97.0,
+        297.01,
+        228.14,
+        307.01
+      ],
+      "text": "heeft dit onderzoek geleid",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        298.01,
+        521.0,
+        308.01
+      ],
+      "text": "Waar toe 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        233.0,
+        303.0,
+        513.0,
+        308.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        314.01,
+        521.0,
+        324.01
+      ],
+      "text": "Wat de verwachtingen de doorgevoerde veranderingen 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        91.0,
+        316.01,
+        217.75,
+        324.01
+      ],
+      "text": "waren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        372.0,
+        320.0,
+        513.0,
+        325.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        79.0,
+        331.01,
+        521.0,
+        341.01
+      ],
+      "text": "Verschil getoonde SBC-codes functies versie 4 versie 5. 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        118.0,
+        332.01,
+        325.71,
+        342.01
+      ],
+      "text": "tussen tussen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        247.0,
+        333.01,
+        379.33,
+        341.01
+      ],
+      "text": "en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        427.0,
+        337.0,
+        513.0,
+        342.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        79.0,
+        348.01,
+        521.0,
+        358.01
+      ],
+      "text": "Verschil in signaleringen de arbeidsdeskundige tussen versie 4 versie 5. 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        192.0,
+        350.01,
+        396.33,
+        358.01
+      ],
+      "text": "voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.0,
+        353.0,
+        513.0,
+        358.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        79.0,
+        365.01,
+        521.0,
+        375.01
+      ],
+      "text": "Vinden verschuivingen plaats in arbeidsongeschiktheidspercentages? 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        113.0,
+        366.01,
+        119.67,
+        374.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        404.0,
+        370.0,
+        513.0,
+        375.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        110.0,
+        381.01,
+        339.27,
+        391.01
+      ],
+      "text": "de daadwerkelijke gevolgen de veranderingen?",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        382.01,
+        521.0,
+        392.01
+      ],
+      "text": "Wat zijn 4",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        240.0,
+        383.01,
+        252.75,
+        391.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        346.0,
+        387.0,
+        513.0,
+        392.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        79.0,
+        398.01,
+        521.0,
+        408.01
+      ],
+      "text": "Verschil getoonde SBC-codes functies versie 4 versie 5? 4",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        118.0,
+        399.01,
+        325.71,
+        409.01
+      ],
+      "text": "tussen tussen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        247.0,
+        400.01,
+        379.33,
+        408.01
+      ],
+      "text": "en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        430.0,
+        404.0,
+        513.0,
+        409.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        79.0,
+        415.01,
+        521.0,
+        425.01
+      ],
+      "text": "Verschil in signaleringen de arbeidsdeskundige versie 4 versie 5. 5",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        317.0,
+        416.01,
+        342.71,
+        426.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        192.0,
+        417.01,
+        396.33,
+        425.01
+      ],
+      "text": "voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.0,
+        421.0,
+        513.0,
+        426.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        79.0,
+        432.01,
+        521.0,
+        442.01
+      ],
+      "text": "Vinden verschuivingen plaats in arbeidsongeschiktheidspercentages? 6",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        113.0,
+        434.01,
+        119.67,
+        442.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        404.0,
+        437.0,
+        513.0,
+        442.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        449.01,
+        521.0,
+        459.01
+      ],
+      "text": "Voorlopige conclusie 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        165.0,
+        454.0,
+        513.0,
+        459.0
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        786.01,
+        514.72,
+        795.01
+      ],
+      "text": "CBBS Versie 5 4 maart 2021 Pagina",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        520.0,
+        787.01,
+        522.0,
+        795.01
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        70.0,
+        73.01,
+        162.63,
+        86.01
+      ],
+      "text": "Wat voorafging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        108.01,
+        492.25,
+        118.01
+      ],
+      "text": "Het CBBS handboek is al in gebruik sedert 2009. In de eerste uitgave zaten zoveel fouten dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        499.0,
+        110.01,
+        505.67,
+        118.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        90.0,
+        120.01,
+        405.17,
+        130.01
+      ],
+      "text": "nieuwe is gedrukt waarbij de meest storende fouten zijn weggehaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        121.01,
+        82.75,
+        129.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        170.0,
+        125.0,
+        172.0,
+        130.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        139.01,
+        417.8,
+        149.01
+      ],
+      "text": "Alle arbeidsdeskundigen verzekeringsartsen hebben druk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        323.0,
+        140.01,
+        509.4,
+        150.01
+      ],
+      "text": "toen nieuwe ontvangen. In 2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        183.0,
+        141.01,
+        358.75,
+        149.01
+      ],
+      "text": "en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        151.01,
+        486.83,
+        161.01
+      ],
+      "text": "zijn diverse wijzigingen doorgevoerd echter dit boek is nimmer breed verspreid zodat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        153.01,
+        518.75,
+        161.01
+      ],
+      "text": "er op er nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        262.0,
+        157.0,
+        462.0,
+        162.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        163.01,
+        245.83,
+        173.01
+      ],
+      "text": "veel werd gewerkt met het ‘oude’ boek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        183.01,
+        514.4,
+        193.01
+      ],
+      "text": "In het verleden is dat dit handboek ‘levend’ document moet zijn dat de hand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        153.0,
+        185.01,
+        474.75,
+        193.01
+      ],
+      "text": "aangegeven een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        438.0,
+        188.0,
+        440.0,
+        193.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        90.0,
+        195.01,
+        512.78,
+        205.01
+      ],
+      "text": "de praktijk steeds moet worden aangevuld verbeterd. Zeker de uitspraken de Centrale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        196.01,
+        457.75,
+        204.01
+      ],
+      "text": "van en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        206.01,
+        438.27,
+        216.01
+      ],
+      "text": "Raad hebben invloed hetgeen het basishandboek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        116.0,
+        207.01,
+        349.0,
+        217.01
+      ],
+      "text": "Beroep is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.0,
+        208.01,
+        334.7,
+        216.01
+      ],
+      "text": "van op opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        226.01,
+        490.5,
+        236.01
+      ],
+      "text": "Door beide adviseur arbeidsdeskundige is het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        248.0,
+        227.01,
+        264.8,
+        237.01
+      ],
+      "text": "toen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        141.0,
+        228.01,
+        148.33,
+        236.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.0,
+        232.0,
+        427.0,
+        237.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        238.01,
+        481.78,
+        248.01
+      ],
+      "text": "neergelegd bij het boek verder redigeren. heeft hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        314.0,
+        239.01,
+        320.0,
+        249.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        221.0,
+        240.01,
+        343.6,
+        248.01
+      ],
+      "text": "om gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        250.01,
+        171.7,
+        260.01
+      ],
+      "text": "toestemming verleend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        270.01,
+        488.75,
+        280.01
+      ],
+      "text": "Op dit moment ook de arbeidsdeskundig analisten bezig met het herschrijven hun",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        142.0,
+        271.01,
+        468.75,
+        279.01
+      ],
+      "text": "waren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        281.01,
+        473.21,
+        291.01
+      ],
+      "text": "teksten. Reden deze teksten af hetgeen het basishandboek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        142.0,
+        282.01,
+        514.33,
+        292.01
+      ],
+      "text": "te te stemmen in CBBS is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        154.0,
+        283.01,
+        334.33,
+        291.01
+      ],
+      "text": "meer om op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        130.0,
+        293.01,
+        411.37,
+        303.01
+      ],
+      "text": "zodat komen boeken die goed elkaar afgestemd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        207.0,
+        294.01,
+        358.8,
+        304.01
+      ],
+      "text": "tot zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        295.01,
+        308.33,
+        303.01
+      ],
+      "text": "opgenomen we op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        123.0,
+        299.0,
+        125.0,
+        304.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        313.01,
+        377.2,
+        323.01
+      ],
+      "text": "Op 11 september 2015 heeft het vooroverleg plaatsgevonden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        222.0,
+        314.01,
+        246.86,
+        324.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        345.01,
+        512.0,
+        355.01
+      ],
+      "text": "Uit dit vooroverleg is de conclusie getrokken dat het nodig is het basishandboek verder te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        349.0,
+        346.01,
+        498.75,
+        354.01
+      ],
+      "text": "om aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        356.01,
+        249.14,
+        366.01
+      ],
+      "text": "vullen date maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.0,
+        357.01,
+        213.0,
+        367.01
+      ],
+      "text": "wijzigen to te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        143.0,
+        358.01,
+        166.0,
+        366.01
+      ],
+      "text": "en up",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.0,
+        362.0,
+        99.0,
+        367.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        376.01,
+        504.9,
+        386.01
+      ],
+      "text": "is de bedoeling dat dit in kleine doen. de hoe discussie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        377.01,
+        372.0,
+        387.01
+      ],
+      "text": "Het Hoe groter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        178.0,
+        378.01,
+        517.67,
+        386.01
+      ],
+      "text": "we een groep groep meer er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        388.01,
+        450.67,
+        398.01
+      ],
+      "text": "is het is niet de bedoeling jaren het redigeren het boek bezig zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        248.0,
+        389.01,
+        428.0,
+        399.01
+      ],
+      "text": "met te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        80.0,
+        390.01,
+        345.75,
+        398.01
+      ],
+      "text": "en om van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        408.01,
+        404.75,
+        418.01
+      ],
+      "text": "Hiermee is kleine gestart bestaande uit (Adviseur AD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        122.0,
+        410.01,
+        192.67,
+        418.01
+      ],
+      "text": "een groep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        409.0,
+        413.0,
+        411.0,
+        418.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        420.01,
+        456.0,
+        430.01
+      ],
+      "text": "(Adviseur AD) (BVA) (BAD) ADA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        134.0,
+        425.0,
+        462.0,
+        430.0
+      ],
+      "text": ", , , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        432.01,
+        473.8,
+        442.01
+      ],
+      "text": "(ADA) (beide beleidsadviseur AD CEC). Later is deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        180.0,
+        433.01,
+        502.67,
+        441.01
+      ],
+      "text": "en groep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        98.0,
+        437.0,
+        100.0,
+        442.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        443.01,
+        487.59,
+        453.01
+      ],
+      "text": "verder uitgebreid (Adviseur VA). (beleidsadviseur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        151.0,
+        444.01,
+        502.67,
+        454.01
+      ],
+      "text": "met VA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        455.01,
+        472.33,
+        465.01
+      ],
+      "text": "CEC) (senior BVA B&B) (ADA) (ADA). In de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        331.0,
+        457.01,
+        338.33,
+        465.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.0,
+        461.0,
+        233.0,
+        466.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        467.01,
+        461.75,
+        477.01
+      ],
+      "text": "afrondende fase is ook (beleid ADA) (beleidsadviseur AD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        469.0,
+        469.01,
+        476.33,
+        477.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        304.0,
+        473.0,
+        306.0,
+        478.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        99.0,
+        479.01,
+        293.55,
+        489.01
+      ],
+      "text": "(beleidsadviseur VA CEC) hierbij betrokken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        499.01,
+        514.0,
+        509.01
+      ],
+      "text": "Tijdens het schrijven het basishandboek CBBS kwamen tot de conclusie dat veel punten in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        167.0,
+        500.01,
+        352.67,
+        508.01
+      ],
+      "text": "van we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        510.01,
+        461.72,
+        520.01
+      ],
+      "text": "het logisch of verbetering aanmerking kwamen. gaf aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        511.01,
+        478.75,
+        521.01
+      ],
+      "text": "systeem niet in Dit tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        195.0,
+        512.01,
+        497.75,
+        520.01
+      ],
+      "text": "voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        522.01,
+        511.14,
+        532.01
+      ],
+      "text": "discussie het Het bleek dat potentieel passende functies werden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        149.0,
+        523.01,
+        215.0,
+        533.01
+      ],
+      "text": "systeem te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.0,
+        524.01,
+        342.2,
+        532.01
+      ],
+      "text": "om aan passen. soms",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        121.0,
+        534.01,
+        200.86,
+        544.01
+      ],
+      "text": "in de voorselectie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        536.01,
+        113.2,
+        544.01
+      ],
+      "text": "verworpen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        70.0,
+        571.01,
+        264.29,
+        584.01
+      ],
+      "text": "Start de werkgroep CBBS-5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        105.0,
+        574.01,
+        123.0,
+        584.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        606.01,
+        505.0,
+        616.01
+      ],
+      "text": "Het UWV werkt sinds 2001 met het Claim Beoordelings- Borgings Systeem (CBBS). Het CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        327.0,
+        607.01,
+        334.33,
+        615.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        617.01,
+        441.25,
+        627.01
+      ],
+      "text": "heeft het Informatie (FIS) Sinds de het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.0,
+        618.01,
+        488.8,
+        628.01
+      ],
+      "text": "Functie Systeem invoering CBBS zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        269.0,
+        619.01,
+        502.33,
+        627.01
+      ],
+      "text": "vervangen. van op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        137.0,
+        629.01,
+        493.25,
+        639.01
+      ],
+      "text": "de Centrale Raad aantal wijzigingen doorgevoerd waardoor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        630.01,
+        264.43,
+        640.01
+      ],
+      "text": "Beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        631.01,
+        284.75,
+        639.01
+      ],
+      "text": "aangeven van van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        641.01,
+        481.14,
+        651.01
+      ],
+      "text": "CBBS reproduceerbaarder werd. Afgezien enkele noodzakelijke kleine",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        98.0,
+        642.01,
+        155.57,
+        652.01
+      ],
+      "text": "transparanter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        163.0,
+        643.01,
+        352.75,
+        651.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        653.01,
+        519.6,
+        663.01
+      ],
+      "text": "wijzigingen jaarlijkse technische aanpassingen onderhoud is het CBBS sinds de invoering niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        124.0,
+        655.01,
+        305.33,
+        663.01
+      ],
+      "text": "en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        97.0,
+        665.01,
+        493.61,
+        675.01
+      ],
+      "text": "in zijn totaliteit inhoudelijk onderzocht mogelijke verbeteringen. Dit met uitzondering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        666.01,
+        513.75,
+        674.01
+      ],
+      "text": "meer op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        677.01,
+        414.33,
+        687.01
+      ],
+      "text": "het project Deregulering in 2011 door UWV verder vervolg is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        225.0,
+        678.01,
+        457.33,
+        686.01
+      ],
+      "text": "waaraan geen gegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        218.0,
+        682.0,
+        220.0,
+        687.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.0,
+        696.01,
+        470.1,
+        706.01
+      ],
+      "text": "opdracht het werkgroep geformeerd die september",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        697.01,
+        495.4,
+        707.01
+      ],
+      "text": "Na DT SMZ in juni 2017 is in 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.0,
+        698.01,
+        284.75,
+        706.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        105.0,
+        708.01,
+        444.14,
+        718.01
+      ],
+      "text": "is het onderzoek. De vraagstelling het onderzoek luidde als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        709.01,
+        129.5,
+        719.01
+      ],
+      "text": "gestart met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        284.0,
+        710.01,
+        300.0,
+        718.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        728.01,
+        515.14,
+        738.01
+      ],
+      "text": "Hoe kan het CBBS zelf de kennis vaardigheden de professionals geoptimaliseerd worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        175.0,
+        730.01,
+        326.75,
+        738.01
+      ],
+      "text": "en en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        740.01,
+        514.5,
+        750.01
+      ],
+      "text": "zodanig dat de bandbreedte tussen professionals tussen kantoren versmalt dat efficiënt met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        295.0,
+        741.01,
+        455.67,
+        749.01
+      ],
+      "text": "en er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        425.0,
+        745.0,
+        427.0,
+        750.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        338.0,
+        751.01,
+        393.71,
+        761.01
+      ],
+      "text": "professionele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        752.01,
+        504.25,
+        762.01
+      ],
+      "text": "het systeem gewerkt kan worden dat de kwaliteit het handelen verbetert dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        301.0,
+        753.01,
+        517.67,
+        761.01
+      ],
+      "text": "van er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        221.0,
+        757.0,
+        489.0,
+        762.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        520.0,
+        786.01,
+        522.0,
+        794.01
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        786.01,
+        514.72,
+        795.01
+      ],
+      "text": "CBBS Versie 5 4 maart 2021 Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        71.01,
+        500.33,
+        81.01
+      ],
+      "text": "gewerkt wordt conform state-of-the-art dat deze verbeterslag positief effect heeft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        253.0,
+        73.01,
+        486.33,
+        81.01
+      ],
+      "text": "en een op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        83.01,
+        147.44,
+        93.01
+      ],
+      "text": "claimbeoordeling?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        103.01,
+        426.88,
+        113.01
+      ],
+      "text": "De diverse onderwerpen die door de werkgroep onderzocht zijn komen vanuit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        358.0,
+        109.0,
+        360.0,
+        114.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        123.01,
+        458.27,
+        133.01
+      ],
+      "text": "wijzigingsverzoeken vanuit de uitvoering (verzekeringsartsen arbeidsdeskundigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        366.0,
+        129.0,
+        465.0,
+        134.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        136.01,
+        210.91,
+        146.01
+      ],
+      "text": "arbeidsdeskundig analisten)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        136.0,
+        148.01,
+        516.67,
+        158.01
+      ],
+      "text": "uit de begintijd het CBBS waaruit blijkt dat bij de al zaken verbetering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        149.01,
+        398.5,
+        159.01
+      ],
+      "text": "rapporten start",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        207.0,
+        150.01,
+        462.0,
+        158.01
+      ],
+      "text": "van voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        161.01,
+        118.62,
+        171.01
+      ],
+      "text": "vatbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.0,
+        162.01,
+        149.33,
+        170.01
+      ],
+      "text": "waren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        173.01,
+        269.38,
+        183.01
+      ],
+      "text": "docenten de AD-vakopleiding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        166.0,
+        174.01,
+        178.75,
+        184.01
+      ],
+      "text": "VA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        133.0,
+        175.01,
+        193.33,
+        183.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        186.01,
+        454.42,
+        196.01
+      ],
+      "text": "kennis ervaring de professionals (arbeidsdeskundigen verzekeringsartsen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        120.0,
+        188.01,
+        468.33,
+        196.01
+      ],
+      "text": "en van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        365.0,
+        191.0,
+        367.0,
+        196.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        198.01,
+        287.2,
+        208.01
+      ],
+      "text": "arbeidsdeskundig analisten) de werkgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        218.0,
+        199.01,
+        224.0,
+        209.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        231.01,
+        491.25,
+        241.01
+      ],
+      "text": "De werkgroep heeft onderwerp het probleem in kaart gebracht onderzocht hoe groot het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        163.0,
+        233.01,
+        174.25,
+        241.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        373.0,
+        236.0,
+        375.0,
+        241.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        243.01,
+        486.0,
+        253.01
+      ],
+      "text": "probleem is proberen te achterhalen bepaalde keuzen in het verleden zijn gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        242.0,
+        244.01,
+        273.71,
+        252.01
+      ],
+      "text": "waarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        123.0,
+        248.0,
+        492.0,
+        253.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        254.01,
+        491.53,
+        264.01
+      ],
+      "text": "alternatieve denkrichtingen geformuleerd onderzocht de deze denkrichtingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        318.0,
+        255.01,
+        504.33,
+        265.01
+      ],
+      "text": "wat impact is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        385.0,
+        256.01,
+        397.75,
+        264.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        258.0,
+        260.0,
+        508.0,
+        265.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        266.01,
+        479.25,
+        276.01
+      ],
+      "text": "keuze bepaalde denkrichting gemaakt de kosten baten de gekozen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        268.01,
+        424.75,
+        276.01
+      ],
+      "text": "een voor een en en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        278.01,
+        205.7,
+        288.01
+      ],
+      "text": "denkrichting in kaart gebracht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        298.01,
+        520.75,
+        308.01
+      ],
+      "text": "De werkgroep CBBS-versie 5 is mening dat de voorgestelde wijzigingen in dit rapport leiden tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        215.0,
+        300.01,
+        227.75,
+        308.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        310.01,
+        493.33,
+        320.01
+      ],
+      "text": "optimalisering het systeem verbetering de hantering het systeem door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        311.01,
+        396.75,
+        319.01
+      ],
+      "text": "een van en van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        321.01,
+        128.8,
+        331.01
+      ],
+      "text": "professionals.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        108.0,
+        358.01,
+        295.28,
+        371.01
+      ],
+      "text": "heeft dit onderzoek geleid",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        70.0,
+        359.01,
+        98.0,
+        372.01
+      ],
+      "text": "Waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        360.01,
+        252.75,
+        372.01
+      ],
+      "text": "toe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        83.0,
+        388.01,
+        515.69,
+        398.01
+      ],
+      "text": "totaal onderzocht kaart gebracht. Veel deze gerealiseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        389.01,
+        457.8,
+        399.01
+      ],
+      "text": "In zijn 43 punten in punten zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        131.0,
+        390.01,
+        379.75,
+        398.01
+      ],
+      "text": "er en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        91.0,
+        400.01,
+        475.0,
+        410.01
+      ],
+      "text": "de invoering de veranderingen 15 mei 2020 (release CBBS-5). Een aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        401.01,
+        510.43,
+        411.01
+      ],
+      "text": "met punten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        150.0,
+        402.01,
+        379.75,
+        410.01
+      ],
+      "text": "van op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        412.01,
+        510.4,
+        422.01
+      ],
+      "text": "zijn achter de hand gehouden omdat hiervoor discussie noodzakelijk is. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        414.01,
+        368.2,
+        422.01
+      ],
+      "text": "nog even nog meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        250.0,
+        417.0,
+        252.0,
+        422.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        424.01,
+        485.67,
+        434.01
+      ],
+      "text": "worden in de opzet CBBS-6 welke dit moment ook al 25 punten bevat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        107.0,
+        426.01,
+        509.6,
+        434.01
+      ],
+      "text": "meegenomen van op waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        279.0,
+        429.0,
+        281.0,
+        434.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        436.01,
+        222.33,
+        446.01
+      ],
+      "text": "nader moet worden gekeken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.0,
+        437.01,
+        115.8,
+        445.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.0,
+        455.01,
+        500.67,
+        465.01
+      ],
+      "text": "de CBBS-5 de daaraan gekoppelde coaching CBBS Level zowel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        456.01,
+        472.8,
+        466.01
+      ],
+      "text": "Door invoering Next zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        457.01,
+        219.33,
+        465.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        453.0,
+        461.0,
+        455.0,
+        466.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        467.01,
+        489.0,
+        477.01
+      ],
+      "text": "arbeidsdeskundigen verzekeringsartsen arbeidsdeskundig analisten zich bezig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        256.0,
+        469.01,
+        460.6,
+        477.01
+      ],
+      "text": "en meer gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        160.0,
+        473.0,
+        162.0,
+        478.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        479.01,
+        447.75,
+        489.01
+      ],
+      "text": "houden met de inhoud werkwijze gebruik het CBBS. Hierdoor komen ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        227.0,
+        481.01,
+        508.43,
+        489.01
+      ],
+      "text": "en van er meer vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        172.0,
+        485.0,
+        514.0,
+        490.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        491.01,
+        520.33,
+        501.01
+      ],
+      "text": "welke in het verleden nimmer zijn gesteld. Het heeft dus geleid tot goede bewustwording bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        377.0,
+        493.01,
+        389.75,
+        501.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        503.01,
+        194.44,
+        513.01
+      ],
+      "text": "gebruikers het systeem.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        121.0,
+        504.01,
+        133.75,
+        512.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        70.0,
+        540.01,
+        489.14,
+        553.01
+      ],
+      "text": "Wat de verwachtingen de doorgevoerde veranderingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        99.0,
+        542.01,
+        279.0,
+        552.01
+      ],
+      "text": "waren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        575.01,
+        507.44,
+        585.01
+      ],
+      "text": "Voor de invoering het systeem is ‘validatietest’ geweest te kijken wat de gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        576.01,
+        388.0,
+        584.01
+      ],
+      "text": "van er een om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        586.01,
+        406.2,
+        596.01
+      ],
+      "text": "zouden kunnen de veranderingen. heeft plaatsgevonden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        142.0,
+        587.01,
+        517.0,
+        597.01
+      ],
+      "text": "zijn Deze test 28 29 30 januari",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        162.0,
+        588.01,
+        467.33,
+        596.01
+      ],
+      "text": "van op en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        439.0,
+        592.0,
+        441.0,
+        597.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        598.01,
+        328.8,
+        608.01
+      ],
+      "text": "2020. De uitkomsten deze test als volgt uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        169.0,
+        600.01,
+        269.67,
+        608.01
+      ],
+      "text": "van zagen er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        618.01,
+        277.11,
+        629.01
+      ],
+      "text": "Verschil getoonde SBC-codes functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.0,
+        619.01,
+        400.0,
+        629.01
+      ],
+      "text": "tussen tussen versie 4 versie 5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        233.0,
+        621.01,
+        360.0,
+        630.01
+      ],
+      "text": "en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        632.01,
+        506.5,
+        642.01
+      ],
+      "text": "Uit de bleek dat in versie 5 18% potentieel geschikte SBC-codes bij 35%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        100.0,
+        633.01,
+        124.86,
+        643.01
+      ],
+      "text": "testen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        227.0,
+        634.01,
+        315.2,
+        642.01
+      ],
+      "text": "ongeveer meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        483.0,
+        634.01,
+        487.0,
+        643.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        84.0,
+        643.01,
+        466.86,
+        653.01
+      ],
+      "text": "in totaal 20% potentieel geschikte functies werden getoond bij de voorselectie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        645.01,
+        168.2,
+        653.01
+      ],
+      "text": "en meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.0,
+        668.01,
+        417.0,
+        678.01
+      ],
+      "text": "in versie 4 versie 5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        668.01,
+        294.39,
+        679.01
+      ],
+      "text": "Verschil signaleringen de arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        301.0,
+        669.01,
+        325.86,
+        679.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        180.0,
+        670.01,
+        377.0,
+        679.01
+      ],
+      "text": "voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        85.0,
+        681.01,
+        492.33,
+        691.01
+      ],
+      "text": "de vergelijking de beoordelingen die door de arbeidsdeskundige gedaan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        682.01,
+        513.4,
+        692.01
+      ],
+      "text": "Bij 330 zijn in test",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        683.01,
+        167.75,
+        691.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        692.01,
+        476.25,
+        702.01
+      ],
+      "text": "bleek dat minder signaleringen worden getoond. het verleden kwam het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        160.0,
+        693.01,
+        496.6,
+        703.01
+      ],
+      "text": "50% In niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        115.0,
+        694.01,
+        519.0,
+        702.01
+      ],
+      "text": "ongeveer voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        703.01,
+        404.0,
+        713.01
+      ],
+      "text": "dat bij functie signalering komt dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        246.0,
+        704.01,
+        489.75,
+        714.01
+      ],
+      "text": "aanwezig Bij versie 5 wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        705.01,
+        509.75,
+        713.01
+      ],
+      "text": "er een geen was. nu meer voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        471.0,
+        709.0,
+        473.0,
+        714.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        714.01,
+        294.38,
+        724.01
+      ],
+      "text": "snellere CBBS-beoordeling gevolg kan hebben.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        193.0,
+        715.01,
+        202.75,
+        725.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        213.0,
+        739.01,
+        218.33,
+        749.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        739.01,
+        382.35,
+        750.01
+      ],
+      "text": "Vinden verschuivingen plaats arbeidsongeschiktheidspercentages?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.0,
+        741.01,
+        110.67,
+        750.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        753.01,
+        408.56,
+        763.01
+      ],
+      "text": "Bij de analyse de is uitgegaan de volgende drie stappen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        137.0,
+        754.01,
+        287.75,
+        762.01
+      ],
+      "text": "van gegevens van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        520.0,
+        786.01,
+        522.0,
+        794.01
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        786.01,
+        514.72,
+        795.01
+      ],
+      "text": "CBBS Versie 5 4 maart 2021 Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        101.0,
+        71.01,
+        347.46,
+        81.01
+      ],
+      "text": "verandert het percentage/restverdiencapaciteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        72.01,
+        179.0,
+        82.01
+      ],
+      "text": "1. Er niets in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        84.01,
+        475.0,
+        94.01
+      ],
+      "text": "2. Er is verschil 10% in de restverdiencapaciteit versie 5 versie 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        343.0,
+        85.01,
+        419.67,
+        95.01
+      ],
+      "text": "tussen t.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        111.0,
+        86.01,
+        436.0,
+        94.01
+      ],
+      "text": "een van o. v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        188.0,
+        86.01,
+        192.0,
+        95.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        97.01,
+        475.0,
+        107.01
+      ],
+      "text": "3. Er is verschil 10% in de restverdiencapaciteit tussen versie 5 t. versie 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        188.0,
+        98.01,
+        192.0,
+        107.01
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        111.0,
+        99.01,
+        436.0,
+        107.01
+      ],
+      "text": "een van o. v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        119.01,
+        511.78,
+        129.01
+      ],
+      "text": "Ad. totaal 311 beoordelingen uitgevoerd. bleek dat 161 gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.0,
+        120.01,
+        452.0,
+        130.01
+      ],
+      "text": "1 In zijn correct Hieruit in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        166.0,
+        121.01,
+        440.67,
+        129.01
+      ],
+      "text": "er er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        131.01,
+        506.78,
+        141.01
+      ],
+      "text": "(=52%) verandering plaatsvond in de restverdiencapaciteit. Veel deze gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        145.0,
+        133.01,
+        441.75,
+        141.01
+      ],
+      "text": "geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        143.01,
+        240.89,
+        153.01
+      ],
+      "text": "(101) zijn blijven 80-100%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        153.0,
+        145.01,
+        160.33,
+        153.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        163.01,
+        514.5,
+        173.01
+      ],
+      "text": "Ad. 2 In totaal 122 (=39%) beoordelingen is verschil minder dan 10%. Van deze 122",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        285.0,
+        165.01,
+        366.75,
+        173.01
+      ],
+      "text": "er een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        174.01,
+        519.43,
+        184.01
+      ],
+      "text": "beoordelingen bleven dezelfde arbeidsongeschiktheidsklasse. beoordelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        218.0,
+        175.01,
+        453.0,
+        185.01
+      ],
+      "text": "105 in Bij 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        206.0,
+        176.01,
+        212.67,
+        184.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        138.0,
+        186.01,
+        420.57,
+        196.01
+      ],
+      "text": "sprake verhoging de restverdiencapaciteit. Verder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        460.0,
+        187.01,
+        474.0,
+        197.01
+      ],
+      "text": "in 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        188.01,
+        454.67,
+        196.01
+      ],
+      "text": "was er van een van was er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        198.01,
+        499.2,
+        208.01
+      ],
+      "text": "beoordelingen sprake verlaging de restverdiencapaciteit. In beide situaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        206.0,
+        200.01,
+        519.5,
+        208.01
+      ],
+      "text": "van een van was",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        247.0,
+        209.01,
+        259.75,
+        220.01
+      ],
+      "text": "één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        118.0,
+        210.01,
+        399.43,
+        220.01
+      ],
+      "text": "sprake verschil arbeidsongeschiktheidsklasse.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        212.01,
+        240.75,
+        220.01
+      ],
+      "text": "er van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        230.01,
+        487.0,
+        240.01
+      ],
+      "text": "Ad. 3 Bij 28 beoordelingen (=9%) sprake verschil 10%. Van deze 28",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        236.0,
+        231.01,
+        391.75,
+        239.01
+      ],
+      "text": "was er van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        399.0,
+        231.01,
+        403.0,
+        240.01
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        242.01,
+        510.0,
+        252.01
+      ],
+      "text": "beoordelingen bleven 14 in dezelfde arbeidsongeschiktheidsklasse namelijk 35%. Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        206.0,
+        243.01,
+        212.67,
+        251.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        466.0,
+        243.01,
+        470.0,
+        252.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        418.0,
+        247.0,
+        420.0,
+        252.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        253.01,
+        496.5,
+        263.01
+      ],
+      "text": "de andere had het wel gevolgen. restverdiencapaciteit werd die hoger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        154.0,
+        254.01,
+        467.33,
+        264.01
+      ],
+      "text": "14 De in situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        501.0,
+        259.0,
+        503.0,
+        264.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        265.01,
+        360.78,
+        275.01
+      ],
+      "text": "waardoor de arbeidsongeschiktheidsklasse lager uitkomt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        277.01,
+        496.2,
+        287.01
+      ],
+      "text": "In 4 beoordelingen sprake het vervallen de IVA-uitkering toekennen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        194.0,
+        279.01,
+        516.75,
+        287.01
+      ],
+      "text": "was er van van en van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        125.0,
+        289.01,
+        167.67,
+        299.01
+      ],
+      "text": "WGA/LGU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        105.0,
+        291.01,
+        117.75,
+        299.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        309.01,
+        500.25,
+        319.01
+      ],
+      "text": "Totaal uitgedrukt in percentage bij minder dan 10% verschil dan 10% verschil het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        347.0,
+        310.01,
+        482.0,
+        318.01
+      ],
+      "text": "en meer zag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        71.0,
+        320.01,
+        162.17,
+        330.01
+      ],
+      "text": "overzicht als volgt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        169.0,
+        321.01,
+        181.8,
+        331.01
+      ],
+      "text": "uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        115.0,
+        322.01,
+        121.67,
+        330.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        207.0,
+        341.01,
+        389.82,
+        351.01
+      ],
+      "text": "Lagere klasse Percentage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        352.01,
+        381.25,
+        362.01
+      ],
+      "text": "Wijziging arbeidsongeschiktheids- t. 311",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        345.0,
+        353.01,
+        351.67,
+        361.01
+      ],
+      "text": "o.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        355.0,
+        354.01,
+        361.0,
+        362.01
+      ],
+      "text": "v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        363.01,
+        405.79,
+        373.01
+      ],
+      "text": "arbeidsongeschiktheid klasse beoordelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        98.0,
+        374.01,
+        380.75,
+        384.01
+      ],
+      "text": "minder dan 35% 9 29%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        375.01,
+        91.6,
+        385.01
+      ],
+      "text": "Naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        368.0,
+        380.0,
+        370.0,
+        385.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        386.01,
+        380.75,
+        396.01
+      ],
+      "text": "Naar 35-80% 18 58%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        368.0,
+        392.0,
+        370.0,
+        397.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        400.01,
+        380.75,
+        410.01
+      ],
+      "text": "Totaal 87%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        263.0,
+        401.01,
+        271.0,
+        411.01
+      ],
+      "text": "27",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        368.0,
+        406.0,
+        370.0,
+        411.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        432.01,
+        500.5,
+        442.01
+      ],
+      "text": "Voor de grote geldstroom is met het percentage 29% belang. Dit zijn de klanten die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        220.0,
+        433.01,
+        360.75,
+        441.01
+      ],
+      "text": "name van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        326.0,
+        437.0,
+        328.0,
+        442.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        95.0,
+        443.01,
+        494.33,
+        453.01
+      ],
+      "text": "uitkering het kader de krijgen. betreffen klanten waarbij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        139.0,
+        444.01,
+        361.67,
+        454.01
+      ],
+      "text": "in WIA De overige 5. 8%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        445.01,
+        208.75,
+        453.01
+      ],
+      "text": "geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        455.01,
+        506.25,
+        465.01
+      ],
+      "text": "restverdiencapaciteit lager wordt. Dit heeft gevolg de geldstroom tijdens de LGU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        363.0,
+        456.01,
+        383.0,
+        466.01
+      ],
+      "text": "grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        268.0,
+        457.01,
+        342.0,
+        465.01
+      ],
+      "text": "geen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        467.01,
+        506.17,
+        477.01
+      ],
+      "text": "periode. Of het de LGU periode gevolgen heeft is met afhankelijk of de klant werk heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.0,
+        469.01,
+        350.8,
+        477.01
+      ],
+      "text": "na name",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        479.01,
+        420.79,
+        489.01
+      ],
+      "text": "gevonden in hoeverre dit werk aansluit bij de resterende verdiencapaciteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        117.0,
+        481.01,
+        124.33,
+        489.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        516.01,
+        450.2,
+        529.01
+      ],
+      "text": "Wat zijn de daadwerkelijke gevolgen de veranderingen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        310.0,
+        519.01,
+        328.0,
+        529.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        145.0,
+        552.01,
+        432.0,
+        563.01
+      ],
+      "text": "getoonde SBC-codes versie 4 versie 5?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        552.01,
+        296.67,
+        564.01
+      ],
+      "text": "Verschil functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        111.0,
+        553.01,
+        330.43,
+        563.01
+      ],
+      "text": "tussen tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        247.0,
+        554.01,
+        386.0,
+        563.01
+      ],
+      "text": "en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        567.01,
+        507.3,
+        577.01
+      ],
+      "text": "Uit de vergelijking tussen versie 4 versie 5 komt dat in de klasse 35% gemiddeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        228.0,
+        568.01,
+        352.67,
+        576.01
+      ],
+      "text": "en naar voren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        434.0,
+        568.01,
+        438.0,
+        577.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        578.01,
+        507.0,
+        588.01
+      ],
+      "text": "bij versie 4 in totaal 44 SBC-codes (over 2020) zitten in versie 5 in totaal 53 SBC-codes (over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        316.0,
+        579.01,
+        323.33,
+        587.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        589.01,
+        497.0,
+        599.01
+      ],
+      "text": "2020). In percentage uitgedrukt komt het 17% SBC-codes in versie 5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        264.0,
+        590.01,
+        390.2,
+        598.01
+      ],
+      "text": "neer op ongeveer meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        599.01,
+        511.4,
+        609.01
+      ],
+      "text": "In de jaren 2019 2018 de aantallen respectievelijk gemiddeld 45 SBC-codes 42 SBC-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        150.0,
+        601.01,
+        471.33,
+        609.01
+      ],
+      "text": "en waren en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        610.01,
+        95.71,
+        620.01
+      ],
+      "text": "codes.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        632.01,
+        357.17,
+        642.01
+      ],
+      "text": "De validatietest gaf hetzelfde beeld (18% i. 17%).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.0,
+        634.01,
+        327.0,
+        642.01
+      ],
+      "text": "ongeveer p. v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        654.01,
+        506.75,
+        664.01
+      ],
+      "text": "Doordat SBC codes worden gepresenteerd in de voorselectie komen logischerwijs ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.0,
+        656.01,
+        426.67,
+        664.01
+      ],
+      "text": "er meer er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        97.0,
+        665.01,
+        369.8,
+        675.01
+      ],
+      "text": "functies in de voorselectie. Het overzicht ziet als volgt uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        667.01,
+        310.67,
+        675.01
+      ],
+      "text": "meer er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.0,
+        687.01,
+        512.9,
+        697.01
+      ],
+      "text": "jaartal versie Over voorselectie Vervallen belasting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        332.0,
+        689.01,
+        469.33,
+        697.01
+      ],
+      "text": "na op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        699.01,
+        473.4,
+        709.01
+      ],
+      "text": "2021 5 909 1001",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        710.01,
+        473.4,
+        720.01
+      ],
+      "text": "2020 5 895 1008",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        726.01,
+        473.4,
+        736.01
+      ],
+      "text": "2020 4 744 1129",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        737.01,
+        473.4,
+        747.01
+      ],
+      "text": "2019 4 723 1098",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        748.01,
+        473.4,
+        758.01
+      ],
+      "text": "2018 676 1095",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        237.0,
+        749.01,
+        240.0,
+        759.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        116.0,
+        760.01,
+        473.4,
+        770.01
+      ],
+      "text": "2017 4 680 1100",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        786.01,
+        514.72,
+        795.01
+      ],
+      "text": "CBBS Versie 5 4 maart 2021 Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        520.0,
+        787.01,
+        522.0,
+        795.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        322.0,
+        82.01,
+        358.37,
+        92.01
+      ],
+      "text": "definitief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        83.01,
+        479.47,
+        93.01
+      ],
+      "text": "De bovenstaande zijn allemaal gebaseerd verklaarde beoordelingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        152.0,
+        84.01,
+        315.33,
+        92.01
+      ],
+      "text": "gegevens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        131.0,
+        102.01,
+        454.33,
+        112.01
+      ],
+      "text": "verduidelijking: het (afhankelijk het jaar) rond de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        103.01,
+        479.4,
+        113.01
+      ],
+      "text": "Even ter In systeem zitten 6000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        95.0,
+        104.01,
+        373.75,
+        112.01
+      ],
+      "text": "nog van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        114.01,
+        249.14,
+        124.01
+      ],
+      "text": "functies. De de functies werden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.0,
+        115.01,
+        141.4,
+        125.01
+      ],
+      "text": "rest",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        148.0,
+        116.01,
+        319.0,
+        124.01
+      ],
+      "text": "van verworpen op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        134.01,
+        180.47,
+        144.01
+      ],
+      "text": "Opleidingsniveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        147.01,
+        184.73,
+        157.01
+      ],
+      "text": "Opleidingsrichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        159.01,
+        213.2,
+        169.01
+      ],
+      "text": "Medische week",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        153.0,
+        161.01,
+        187.25,
+        169.01
+      ],
+      "text": "uren per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        172.01,
+        206.75,
+        182.01
+      ],
+      "text": "Medische dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        153.0,
+        174.01,
+        187.25,
+        182.01
+      ],
+      "text": "uren per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        185.01,
+        242.86,
+        195.01
+      ],
+      "text": "Arbeidspatroon (avond nacht)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        212.0,
+        190.0,
+        214.0,
+        195.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        197.01,
+        206.56,
+        207.01
+      ],
+      "text": "Aantal arbeidsplaatsen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        111.0,
+        231.01,
+        448.0,
+        242.01
+      ],
+      "text": "in de versie 4 versie 5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        231.01,
+        314.95,
+        243.01
+      ],
+      "text": "Verschil signaleringen arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        322.0,
+        232.01,
+        349.43,
+        242.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        189.0,
+        233.01,
+        404.0,
+        242.01
+      ],
+      "text": "voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        246.01,
+        502.14,
+        256.01
+      ],
+      "text": "Kijken het aantal signaleringen dan is hier ook duidelijk verschil in. Hierbij hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        101.0,
+        247.01,
+        517.67,
+        255.01
+      ],
+      "text": "we naar een we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        250.0,
+        251.0,
+        252.0,
+        256.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        115.0,
+        257.01,
+        271.71,
+        267.01
+      ],
+      "text": "vergelijking gemaakt geheel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        213.0,
+        258.01,
+        506.5,
+        268.01
+      ],
+      "text": "tussen 2020 versie 4 in eerste instantie tot met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        259.01,
+        485.33,
+        267.01
+      ],
+      "text": "even een van en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        269.01,
+        496.25,
+        279.01
+      ],
+      "text": "februari 2021 versie 5. Deze laatste maand is zeker hele maand geeft wel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        135.0,
+        271.01,
+        516.75,
+        279.01
+      ],
+      "text": "van nog geen maar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        426.0,
+        275.0,
+        428.0,
+        280.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        281.01,
+        237.44,
+        291.01
+      ],
+      "text": "beeld zoals het in totaliteit uitziet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        145.0,
+        283.01,
+        151.67,
+        291.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        95.0,
+        287.0,
+        97.0,
+        292.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        301.01,
+        385.47,
+        311.01
+      ],
+      "text": "Bij deze cijfers is uitgegaan de definitief gemaakte beoordelingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        198.0,
+        303.01,
+        210.75,
+        311.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        321.01,
+        463.33,
+        331.01
+      ],
+      "text": "Functies kunnen ook worden getoond zonder signalering. Dit heeft te maken met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        147.0,
+        322.01,
+        155.0,
+        330.01
+      ],
+      "text": "nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        332.01,
+        506.7,
+        342.01
+      ],
+      "text": "verandering beoordelingspunten ook omdat bepaalde beoordelingspunten gewijzigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.0,
+        333.01,
+        461.8,
+        343.01
+      ],
+      "text": "in zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        234.0,
+        334.01,
+        253.2,
+        342.01
+      ],
+      "text": "maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        228.0,
+        338.0,
+        512.0,
+        343.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        344.01,
+        361.33,
+        354.01
+      ],
+      "text": "waardoor het verleden signalerend door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.0,
+        345.01,
+        446.6,
+        355.01
+      ],
+      "text": "in aanpassingen niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.0,
+        346.01,
+        473.2,
+        354.01
+      ],
+      "text": "ze waren maar nu meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        283.0,
+        350.0,
+        285.0,
+        355.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        356.01,
+        142.67,
+        366.01
+      ],
+      "text": "signalerend zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        376.01,
+        511.33,
+        386.01
+      ],
+      "text": "Kijken de uitkomsten dan zien dat onder versie 4 in 1. 4% de functies in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        101.0,
+        378.01,
+        432.75,
+        386.01
+      ],
+      "text": "we naar we maar van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        206.0,
+        381.0,
+        208.0,
+        386.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        388.01,
+        493.33,
+        398.01
+      ],
+      "text": "voorselectie signalering Er zaten in versie 4 slecht 0. 3% deze functies in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.0,
+        389.01,
+        405.75,
+        397.01
+      ],
+      "text": "er geen was. van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        400.01,
+        483.78,
+        410.01
+      ],
+      "text": "eindselectie welke door de arbeidsdeskundige als passend zijn aangemerkt zijn gebruikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        416.0,
+        401.01,
+        506.0,
+        409.01
+      ],
+      "text": "en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.0,
+        405.0,
+        125.0,
+        410.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        411.01,
+        299.73,
+        421.01
+      ],
+      "text": "de berekening de resterende verdiencapaciteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.0,
+        413.01,
+        150.75,
+        421.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        431.01,
+        520.0,
+        441.01
+      ],
+      "text": "Bij versie 5 is dit duidelijk anders. Hieruit blijkt dat in 21. 4% de functies die worden getoond in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        349.0,
+        433.01,
+        361.75,
+        441.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        443.01,
+        515.8,
+        453.01
+      ],
+      "text": "de voorselectie signalering is die functie. In de eindselectie zijn in totaal 15% deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        445.01,
+        492.75,
+        453.01
+      ],
+      "text": "er geen op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        455.01,
+        492.0,
+        465.01
+      ],
+      "text": "functies in de berekening de resterende verdiencapaciteit. Bij deze functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        109.0,
+        456.01,
+        264.75,
+        464.01
+      ],
+      "text": "meegenomen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        499.0,
+        457.01,
+        512.5,
+        465.01
+      ],
+      "text": "was",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        466.01,
+        428.0,
+        476.01
+      ],
+      "text": "dus signaleringen door de arbeidsdeskundige de orde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        114.0,
+        467.01,
+        158.55,
+        477.01
+      ],
+      "text": "motivering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        468.01,
+        386.75,
+        476.01
+      ],
+      "text": "geen van aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        85.0,
+        486.01,
+        490.5,
+        496.01
+      ],
+      "text": "de validatietest zoals hierboven de verwachting dat 50%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        487.01,
+        240.33,
+        497.01
+      ],
+      "text": "Bij is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        245.0,
+        488.01,
+        466.33,
+        496.01
+      ],
+      "text": "aangegeven was er ongeveer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        154.0,
+        492.0,
+        302.0,
+        497.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        498.01,
+        519.0,
+        508.01
+      ],
+      "text": "minder signaleringen zouden komen. Op dit is gekeken de verschillen versie 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        272.0,
+        499.01,
+        478.71,
+        509.01
+      ],
+      "text": "moment tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        364.0,
+        500.01,
+        380.8,
+        508.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        84.0,
+        510.01,
+        501.75,
+        520.01
+      ],
+      "text": "versie 5. We hebben hier gekeken de signaleringen 2020. Voor versie 4 tot 15 mei",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        512.01,
+        359.0,
+        520.01
+      ],
+      "text": "en naar over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        522.01,
+        302.29,
+        532.01
+      ],
+      "text": "2020 versie 5 vanaf de voornoemde datum.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        96.0,
+        523.01,
+        126.0,
+        531.01
+      ],
+      "text": "en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        534.01,
+        483.25,
+        544.01
+      ],
+      "text": "Bij de versie 4 gemiddeld in de eindselectie bij de functies 8 signaleringen. Uit het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.0,
+        535.01,
+        175.67,
+        543.01
+      ],
+      "text": "waren er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        545.01,
+        501.33,
+        555.01
+      ],
+      "text": "overzicht blijkt dat gemiddeld minder dan signaleringen voorkomen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.0,
+        546.01,
+        489.0,
+        556.01
+      ],
+      "text": "versie 5 iets 5 in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        114.0,
+        547.01,
+        226.67,
+        555.01
+      ],
+      "text": "voor er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        557.01,
+        453.0,
+        567.01
+      ],
+      "text": "eindselectie bij de functies. Dit komt verschil versie 4 versie 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        334.0,
+        558.01,
+        359.71,
+        568.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        239.0,
+        559.01,
+        490.75,
+        567.01
+      ],
+      "text": "neer op een en van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        569.01,
+        323.73,
+        579.01
+      ],
+      "text": "vermindering 40% minder signaleringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        133.0,
+        571.01,
+        190.33,
+        579.01
+      ],
+      "text": "van ongeveer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        589.01,
+        434.0,
+        599.01
+      ],
+      "text": "Bij het aantal signaleringen moet wel worden aangetekend dat aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        224.0,
+        591.01,
+        402.75,
+        599.01
+      ],
+      "text": "nog er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        600.01,
+        508.33,
+        610.01
+      ],
+      "text": "beoordelingspunten door de arbeidsdeskundig analist worden beoordeeld. Dit zijn de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        335.0,
+        601.01,
+        365.0,
+        611.01
+      ],
+      "text": "moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        162.0,
+        602.01,
+        174.75,
+        610.01
+      ],
+      "text": "nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        613.01,
+        101.5,
+        623.01
+      ],
+      "text": "punten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        632.01,
+        337.38,
+        642.01
+      ],
+      "text": "1. 8. 1 Geen afleiding door activiteiten anderen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        285.0,
+        634.01,
+        297.75,
+        642.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        115.0,
+        644.01,
+        253.77,
+        654.01
+      ],
+      "text": "8. Voorspelbare werksituatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        645.01,
+        127.0,
+        655.01
+      ],
+      "text": "1. 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        657.01,
+        381.27,
+        667.01
+      ],
+      "text": "1. 8. 3 Werk zonder veelvuldige storingen onderbrekingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        301.0,
+        659.01,
+        308.33,
+        667.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        670.01,
+        199.15,
+        680.01
+      ],
+      "text": "2. 11 Beroepsmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        206.0,
+        671.01,
+        236.63,
+        679.01
+      ],
+      "text": "vervoer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        695.01,
+        509.25,
+        705.01
+      ],
+      "text": "Zolang deze punten niet zijn beoordeeld door de arbeidsdeskundig analisten zal het systeem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.0,
+        697.01,
+        175.75,
+        705.01
+      ],
+      "text": "nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        436.0,
+        700.0,
+        438.0,
+        705.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        707.01,
+        518.33,
+        717.01
+      ],
+      "text": "bij beperking de verzekeringsarts signaal Zodra de arbeidsdeskundig analist de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        85.0,
+        708.01,
+        345.57,
+        716.01
+      ],
+      "text": "een van een geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        718.01,
+        511.72,
+        728.01
+      ],
+      "text": "functie heeft beoordeeld zal bij beperking door de verzekeringsarts dit alleen signaleren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        415.0,
+        719.01,
+        431.8,
+        729.01
+      ],
+      "text": "punt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        217.0,
+        720.01,
+        229.75,
+        728.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        180.0,
+        724.0,
+        182.0,
+        729.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        730.01,
+        493.75,
+        740.01
+      ],
+      "text": "als sprake is kenmerkende belasting. Bij kenmerkende belasting komt dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.0,
+        732.01,
+        519.4,
+        740.01
+      ],
+      "text": "er van een geen er geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        742.01,
+        516.75,
+        752.01
+      ],
+      "text": "signalering wat invloed is het aantal signaleringen die de arbeidsdeskundige zal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.0,
+        744.01,
+        269.33,
+        752.01
+      ],
+      "text": "meer weer van op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        146.0,
+        748.0,
+        148.0,
+        753.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        754.01,
+        152.46,
+        764.01
+      ],
+      "text": "moeten motiveren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        786.01,
+        514.72,
+        795.01
+      ],
+      "text": "CBBS Versie 5 4 maart 2021 Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        520.0,
+        787.01,
+        522.0,
+        795.01
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        217.0,
+        71.01,
+        495.58,
+        81.01
+      ],
+      "text": "‘issue’ bij de avond. de dit signalerend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        72.01,
+        509.0,
+        82.01
+      ],
+      "text": "Daarnaast is Het opzet punt te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        120.0,
+        73.01,
+        401.0,
+        81.01
+      ],
+      "text": "was en er nog een was om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        83.01,
+        417.29,
+        93.01
+      ],
+      "text": "maken als de verzekeringsarts vond dat de klant wel de avond kon werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        313.0,
+        84.01,
+        464.75,
+        94.01
+      ],
+      "text": "in tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        428.0,
+        85.01,
+        482.75,
+        93.01
+      ],
+      "text": "maar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        422.0,
+        89.0,
+        424.0,
+        94.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        95.01,
+        483.25,
+        105.01
+      ],
+      "text": "bepaalde tijd. Nu is het of Het advies is de toelichting bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        199.0,
+        96.01,
+        244.46,
+        106.01
+      ],
+      "text": "accepteren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        179.0,
+        97.01,
+        501.75,
+        105.01
+      ],
+      "text": "nog verwerpen. nu om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        107.01,
+        504.67,
+        117.01
+      ],
+      "text": "ander beoordelingspunt waardoor hier altijd signalering komt. Dit kan mogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        180.0,
+        108.01,
+        186.0,
+        118.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        193.0,
+        109.01,
+        397.33,
+        117.01
+      ],
+      "text": "geven een op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        220.0,
+        113.0,
+        222.0,
+        118.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        119.01,
+        203.12,
+        129.01
+      ],
+      "text": "tot signaleringen leiden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        86.0,
+        121.01,
+        105.2,
+        129.01
+      ],
+      "text": "meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        140.01,
+        232.0,
+        151.01
+      ],
+      "text": "Vinden in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        119.0,
+        140.01,
+        410.91,
+        152.01
+      ],
+      "text": "verschuivingen plaats arbeidsongeschiktheidspercentages?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        142.01,
+        113.67,
+        151.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        154.01,
+        486.25,
+        164.01
+      ],
+      "text": "belang natuurlijk ook of veranderingen hebben plaatsgevonden het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        155.01,
+        469.0,
+        165.01
+      ],
+      "text": "Van is te weten in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        200.0,
+        156.01,
+        278.67,
+        164.01
+      ],
+      "text": "om er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        166.01,
+        506.33,
+        176.01
+      ],
+      "text": "arbeidsongeschiktheidspercentage. Hierbij natuurlijk wel worden aangetekend dat in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        265.0,
+        167.01,
+        283.4,
+        177.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        472.0,
+        168.01,
+        480.67,
+        176.01
+      ],
+      "text": "we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        178.01,
+        367.64,
+        188.01
+      ],
+      "text": "coronatijd zitten beoordelingen ‘afstand’ plaatsvinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.0,
+        180.01,
+        262.33,
+        188.01
+      ],
+      "text": "en meer op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        198.01,
+        471.33,
+        208.01
+      ],
+      "text": "Bij de validatietest kwamen tot de conclusie dat 2. 9% 35% uit de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        418.0,
+        199.01,
+        422.0,
+        208.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        198.0,
+        200.01,
+        410.2,
+        208.01
+      ],
+      "text": "we er ongeveer meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        210.01,
+        519.0,
+        220.01
+      ],
+      "text": "beoordelingen komen. Hierbij moet worden aangetekend dat door de opzet de validatietest",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        137.0,
+        211.01,
+        446.75,
+        219.01
+      ],
+      "text": "zou van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        221.01,
+        517.75,
+        231.01
+      ],
+      "text": "deze beoordelingen gedaan door arbeidsdeskundige die de klant hebben gesproken ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        162.0,
+        222.01,
+        397.6,
+        232.01
+      ],
+      "text": "zijn niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        491.0,
+        223.01,
+        498.33,
+        231.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        102.0,
+        233.01,
+        384.61,
+        243.01
+      ],
+      "text": "de gelegenheid overleggen verzekeringsarts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        234.01,
+        283.5,
+        244.01
+      ],
+      "text": "niet in te met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        174.0,
+        235.01,
+        303.75,
+        243.01
+      ],
+      "text": "waren een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        253.01,
+        509.75,
+        263.01
+      ],
+      "text": "Uit het onderstaande overzicht blijkt dat weinig verschil is de uitkomsten in versie 4 als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        348.0,
+        254.01,
+        373.71,
+        264.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        256.0,
+        255.01,
+        262.67,
+        263.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        265.01,
+        404.12,
+        275.01
+      ],
+      "text": "ook in versie 5. De uitkomsten 35% zijn gelijk elkaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        232.0,
+        266.01,
+        236.0,
+        275.01
+      ],
+      "text": "<",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        212.0,
+        267.01,
+        370.75,
+        275.01
+      ],
+      "text": "van nagenoeg aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        285.01,
+        482.23,
+        295.01
+      ],
+      "text": "We zien wel lichte toename de 80-100% gevallen. Maar zoals uit het onderstaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        127.0,
+        286.01,
+        229.75,
+        294.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        296.01,
+        472.9,
+        306.01
+      ],
+      "text": "overzicht blijkt lichte verschuiving de sluitende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        140.0,
+        297.01,
+        428.75,
+        307.01
+      ],
+      "text": "is 35-80% 80-100%. Een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        150.0,
+        298.01,
+        345.8,
+        306.01
+      ],
+      "text": "er een van naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        308.01,
+        493.75,
+        318.01
+      ],
+      "text": "verklaring hier ook dat kan maken hebben de coronatijd. klanten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        119.0,
+        309.01,
+        456.67,
+        319.01
+      ],
+      "text": "is niet te met De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        170.0,
+        310.01,
+        215.2,
+        318.01
+      ],
+      "text": "voor maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        190.0,
+        314.0,
+        192.0,
+        319.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        320.01,
+        446.33,
+        330.01
+      ],
+      "text": "worden ‘afstand’ gezien door zowel de verzekeringsarts als ook door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        322.01,
+        154.33,
+        330.01
+      ],
+      "text": "nu meer op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        332.01,
+        504.33,
+        342.01
+      ],
+      "text": "arbeidsdeskundige. Dit kan tot gevolg hebben dat bij ‘moeilijke’ beoordelingen toch snel de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        474.0,
+        334.01,
+        490.0,
+        342.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        344.01,
+        423.14,
+        354.01
+      ],
+      "text": "zekerheid zal worden gekozen mogelijk iets zwaardere beperkingen worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        210.0,
+        345.01,
+        484.17,
+        353.01
+      ],
+      "text": "en aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        97.0,
+        367.01,
+        132.14,
+        381.01
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        141.0,
+        368.01,
+        145.0,
+        381.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        456.0,
+        386.01,
+        466.5,
+        397.01
+      ],
+      "text": "nul",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        421.0,
+        387.01,
+        511.0,
+        397.01
+      ],
+      "text": "precies precies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        137.0,
+        400.01,
+        408.43,
+        410.01
+      ],
+      "text": "0-100 0-35 35-45 45-55 55-80 80-100",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        180.0,
+        400.01,
+        503.0,
+        411.01
+      ],
+      "text": "% % % % % % 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        93.0,
+        416.01,
+        536.0,
+        426.01
+      ],
+      "text": "2019 96313 369 60 48 91 431 113 420",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        207.0,
+        421.0,
+        534.5,
+        426.0
+      ],
+      "text": ", , , , , , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        93.0,
+        431.01,
+        536.0,
+        441.01
+      ],
+      "text": "2020 51200 363 65 55 98 419 97 406",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        207.0,
+        437.0,
+        534.5,
+        442.0
+      ],
+      "text": ", , , , , , ,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        141.0,
+        462.01,
+        145.0,
+        475.01
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        97.0,
+        462.01,
+        132.14,
+        476.01
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        456.0,
+        480.01,
+        466.5,
+        491.01
+      ],
+      "text": "nul",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        421.0,
+        481.01,
+        511.0,
+        491.01
+      ],
+      "text": "precies precies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        137.0,
+        494.01,
+        408.43,
+        504.01
+      ],
+      "text": "0-100 0-35 35-45 45-55 55-80 80-100",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        180.0,
+        494.01,
+        503.0,
+        505.01
+      ],
+      "text": "% % % % % % 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        93.0,
+        510.01,
+        536.0,
+        520.01
+      ],
+      "text": "2020 39273 367 57 46 80 450 99 436",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        207.0,
+        515.0,
+        534.5,
+        520.0
+      ],
+      "text": ", , , , , , ,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        70.0,
+        559.01,
+        198.9,
+        572.01
+      ],
+      "text": "Voorlopige conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        594.01,
+        487.17,
+        604.01
+      ],
+      "text": "doel de veranderingen het voornamelijk het beter laten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        595.01,
+        462.0,
+        605.01
+      ],
+      "text": "Het in CBBS systeem te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        111.0,
+        596.01,
+        363.0,
+        604.01
+      ],
+      "text": "van was om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        606.01,
+        492.43,
+        616.01
+      ],
+      "text": "selecteren potentieel geschikte functie te tonen de arbeidsdeskundige minder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        120.0,
+        608.01,
+        457.33,
+        616.01
+      ],
+      "text": "en meer aan en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        618.01,
+        509.09,
+        628.01
+      ],
+      "text": "potentieel ongeschikte functies. Daarnaast het doel niet zinvolle signaleringen te voorkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.0,
+        620.01,
+        280.5,
+        628.01
+      ],
+      "text": "was",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        135.0,
+        629.01,
+        392.42,
+        639.01
+      ],
+      "text": "doel de uitkomsten de uitkeringen beïnvloeden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        630.01,
+        336.0,
+        640.01
+      ],
+      "text": "Het te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        631.01,
+        254.75,
+        639.01
+      ],
+      "text": "was geen om van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        649.01,
+        505.63,
+        659.01
+      ],
+      "text": "Als het bovenstaande bekijken het doel de vebeteringen grond deze voorlopige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        228.0,
+        650.01,
+        233.33,
+        660.01
+      ],
+      "text": "is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        87.0,
+        651.01,
+        430.75,
+        659.01
+      ],
+      "text": "we van op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        116.0,
+        661.01,
+        487.43,
+        671.01
+      ],
+      "text": "ook gehaald. Het aantal beoordelingen in de minder dan 35% zijn gelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        663.01,
+        458.0,
+        671.01
+      ],
+      "text": "gegevens nagenoeg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        673.01,
+        512.7,
+        683.01
+      ],
+      "text": "gebleven daar tegenover staat wel dat de arbeidsdeskundige iets potentieel geschikte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.0,
+        675.01,
+        418.2,
+        683.01
+      ],
+      "text": "maar meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        111.0,
+        679.0,
+        113.0,
+        684.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        685.01,
+        415.73,
+        695.01
+      ],
+      "text": "functies te zien krijgt. Daarnaast hebben deze functies minder signaleringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        744.01,
+        152.67,
+        754.01
+      ],
+      "text": "Beleidsadviseur AD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        520.0,
+        786.01,
+        522.0,
+        794.01
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        786.01,
+        514.72,
+        795.01
+      ],
+      "text": "CBBS Versie 5 4 maart 2021 Pagina",
+      "source": "text"
+    }
+  ]
+}

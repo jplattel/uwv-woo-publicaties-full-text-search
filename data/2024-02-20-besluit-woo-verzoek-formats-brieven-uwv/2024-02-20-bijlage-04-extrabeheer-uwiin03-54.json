@@ -1,0 +1,7289 @@
+{
+  "source_id": "2024-02-20-besluit-woo-verzoek-formats-brieven-uwv/2024-02-20-bijlage-04-extrabeheer-uwiin03-54",
+  "publication_slug": "2024-02-20-besluit-woo-verzoek-formats-brieven-uwv",
+  "pdf_slug": "2024-02-20-bijlage-04-extrabeheer-uwiin03-54",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/besluit-woo-verzoek-formats-brieven-uwv",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/bd12bffd-7d36-49c8-a66a-b71cd3ce33fc/bijlage-04-extrabeheer-uwiin03-54.pdf",
+  "publication_title": "Besluit woo-verzoek formats brieven UWV",
+  "publication_date": "2024-02-20T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 4. ExtraBeheer UWIIN03-54 (PDF, 155 kB)",
+  "retrieved_at": "2026-06-30T13:11:17+00:00",
+  "sha256": "46b4c7b6e00a4327322e9bc0af5d69aa722b82a7aa44934e1740273c35638e4d",
+  "page_count": 14,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        38.58,
+        396.19,
+        47.58
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.69,
+        42.34,
+        383.0,
+        50.38
+      ],
+      "text": "<kopie_voor (resultaat)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        84.54,
+        430.75,
+        90.54
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        95.76,
+        512.76,
+        103.8
+      ],
+      "text": "<datum_1500 (datum)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        108.48,
+        481.91,
+        116.52
+      ],
+      "text": "waarde=+9wu>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        120.12,
+        529.19,
+        128.16
+      ],
+      "text": "<van_bst_10 (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        131.52,
+        508.79,
+        139.56
+      ],
+      "text": "waarde=van_bst_10>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        329.47,
+        137.84,
+        380.28,
+        146.84
+      ],
+      "text": "standaard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        138.6,
+        326.34,
+        146.64
+      ],
+      "text": "<begin:0_retouradres_uwi_01> waarde=pb_1060ch_ne",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        152.84,
+        356.45,
+        161.84
+      ],
+      "text": "retouradres Amsterdam, of anders<0_retouradres_uwi_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        165.48,
+        565.98,
+        173.52
+      ],
+      "text": "<begin:van_bst_10:1:van_",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        168.6,
+        245.82,
+        176.64
+      ],
+      "text": "(bouwsteen) waarde=pb_1060ch_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        176.12,
+        556.51,
+        185.12
+      ],
+      "text": "bst_10>kopje van in kop brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        187.4,
+        513.87,
+        196.4
+      ],
+      "text": "(zonder faxnummer)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        202.38,
+        421.13,
+        208.38
+      ],
+      "text": "Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        212.4,
+        566.17,
+        220.44
+      ],
+      "text": "<_p_presentatienaamkop (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        212.84,
+        372.18,
+        221.84
+      ],
+      "text": "<begin:0_retouradres_uwi_01:1:pb_1060ch_ne>centraal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        227.84,
+        141.94,
+        236.84
+      ],
+      "text": "postadres wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        235.08,
+        565.63,
+        243.12
+      ],
+      "text": "<einde:van_bst_10:1:van_",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        241.92,
+        227.99,
+        249.96
+      ],
+      "text": "Postbus 69254, 1060 CH AMSTERDAM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        246.36,
+        446.51,
+        254.4
+      ],
+      "text": "bst_10>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        256.47,
+        366.08,
+        264.51
+      ],
+      "text": "<einde:0_retouradres_uwi_01:1:pb_1060ch_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        261.99,
+        299.72,
+        270.03
+      ],
+      "text": "<kop_uwi_01 (bouwsteen) waarde=kop_uwi_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        269.19,
+        503.15,
+        277.23
+      ],
+      "text": "<van_bst_10:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        286.79,
+        406.36,
+        295.79
+      ],
+      "text": "<begin:kop_uwi_01:1:kop_uwi_01>kop uwi retour amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        294.69,
+        453.01,
+        300.69
+      ],
+      "text": "Ons kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        301.71,
+        271.38,
+        309.75
+      ],
+      "text": "<einde:kop_uwi_01:1:kop_uwi_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        305.91,
+        496.46,
+        313.95
+      ],
+      "text": "<aw_loonheffingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        315.71,
+        379.05,
+        324.71
+      ],
+      "text": "<begin:0_retouradres_uwi_01:2:pb_1040hc_ne>retouradr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        318.63,
+        538.22,
+        326.67
+      ],
+      "text": "(resultaat)><ons_kenmerk1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        327.39,
+        168.27,
+        335.43
+      ],
+      "text": "<kop_uwi_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        330.71,
+        148.67,
+        339.71
+      ],
+      "text": "es bz-nationaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        331.47,
+        464.51,
+        339.51
+      ],
+      "text": "(resultaat)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.06,
+        340.11,
+        345.8,
+        348.15
+      ],
+      "text": "<_zone_beveiligd_mogelij (zone) waarde=2 (onbeveiligd)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        344.31,
+        523.33,
+        352.35
+      ],
+      "text": "<ons_kenmerk2 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        344.67,
+        220.05,
+        352.71
+      ],
+      "text": "Postbus 58135, 1040 HC Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        357.03,
+        554.52,
+        365.07
+      ],
+      "text": "<uw_kenmerk_bst (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        359.19,
+        366.08,
+        367.23
+      ],
+      "text": "<einde:0_retouradres_uwi_01:2:pb_1040hc_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        365.79,
+        309.2,
+        373.83
+      ],
+      "text": "<0_onderwerp (bouwsteen) waarde=0_onderwerp>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        369.87,
+        554.53,
+        377.91
+      ],
+      "text": "waarde=uw_kenmerk_2_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        389.19,
+        216.28,
+        397.23
+      ],
+      "text": "<0_retouradres_uwi_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        390.59,
+        335.87,
+        399.59
+      ],
+      "text": "<begin:0_onderwerp:1:0_onderwerp>onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        405.81,
+        108.59,
+        411.81
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        408.27,
+        569.39,
+        416.31
+      ],
+      "text": "<begin:uw_kenmerk_bst:1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        416.91,
+        280.62,
+        424.95
+      ],
+      "text": "<einde:0_onderwerp:1:0_onderwerp>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        420.35,
+        569.38,
+        429.35
+      ],
+      "text": "uw_kenmerk_1_regel>uw_kenme",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        432.53,
+        143.67,
+        440.57
+      ],
+      "text": "<naw1 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        433.09,
+        463.73,
+        442.09
+      ],
+      "text": "rk_1_regel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        442.61,
+        172.95,
+        450.65
+      ],
+      "text": "<0_onderwerp:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        445.37,
+        143.67,
+        453.41
+      ],
+      "text": "<naw2 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        448.31,
+        450.86,
+        454.31
+      ],
+      "text": "Uw kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        458.09,
+        143.67,
+        466.13
+      ],
+      "text": "<naw3 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        458.77,
+        548.89,
+        467.77
+      ],
+      "text": "uw kenmerk1<uw_kenmerk1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        467.41,
+        261.64,
+        476.41
+      ],
+      "text": "Beslissing over uw WIA-uitkering omdat u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        264.89,
+        468.17,
+        376.53,
+        476.21
+      ],
+      "text": "<kl_werkt_gaat_werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        470.93,
+        143.67,
+        478.97
+      ],
+      "text": "<naw4 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        472.25,
+        446.87,
+        480.29
+      ],
+      "text": "(tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        481.01,
+        337.16,
+        489.05
+      ],
+      "text": "(keuzelijst) waarde=werkt keuzes=(,gaat werken,werkt)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        483.77,
+        143.67,
+        491.81
+      ],
+      "text": "<naw5 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        496.49,
+        143.67,
+        504.53
+      ],
+      "text": "<naw6 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        506.57,
+        280.62,
+        514.61
+      ],
+      "text": "<mv (tekst)> <naam_geadresseerde (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        510.65,
+        569.15,
+        518.69
+      ],
+      "text": "<einde:uw_kenmerk_bst:1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        523.49,
+        514.21,
+        531.53
+      ],
+      "text": "uw_kenmerk_1_regel>",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.94,
+        531.97,
+        77.53,
+        540.97
+      ],
+      "text": "U",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        80.66,
+        532.73,
+        384.74,
+        540.77
+      ],
+      "text": "<kl_werkt_gaat_werken (keuzelijst) waarde=werkt keuzes=(,gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        147.98,
+        544.81,
+        189.04,
+        553.81
+      ],
+      "text": "naast uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        545.57,
+        376.29,
+        553.61
+      ],
+      "text": "werken,werkt)> <wia_uitkering (resultaat) waarde=wia-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        549.05,
+        528.59,
+        557.09
+      ],
+      "text": "<uw_kenmerk_bst:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        557.65,
+        363.24,
+        566.65
+      ],
+      "text": "uitkering>. In deze brief leggen wij uit wat dit betekent voor uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        570.37,
+        114.25,
+        579.37
+      ],
+      "text": "uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        574.73,
+        542.4,
+        582.77
+      ],
+      "text": "<kopie_aan_bst (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        587.45,
+        542.41,
+        595.49
+      ],
+      "text": "waarde=kopie_aan_2_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        304.87,
+        608.17,
+        406.69,
+        617.17
+      ],
+      "text": "wel/geen voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        608.93,
+        301.88,
+        616.97
+      ],
+      "text": "<begin:0_voorschot_01> waarde=0_voorschot_05",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        621.04,
+        270.68,
+        630.04
+      ],
+      "text": "of werkgever betaalt vs<0_voorschot_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        273.53,
+        621.8,
+        331.51,
+        629.84
+      ],
+      "text": "(bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        625.88,
+        568.08,
+        633.92
+      ],
+      "text": "<begin:kopie_aan_bst:1:ko",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        634.64,
+        191.22,
+        642.68
+      ],
+      "text": "waarde=0_voorschot_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        637.96,
+        566.99,
+        646.96
+      ],
+      "text": "pie_aan_1_regel>kopie_aan_1_r",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        650.8,
+        429.66,
+        659.8
+      ],
+      "text": "egel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        659.44,
+        362.6,
+        668.44
+      ],
+      "text": "<begin:0_voorschot_01:1:0_voorschot_05>klant krijgt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        665.9,
+        441.53,
+        671.9
+      ],
+      "text": "Kopie aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        672.28,
+        121.07,
+        681.28
+      ],
+      "text": "voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        677.12,
+        532.69,
+        685.16
+      ],
+      "text": "<kopie_aan_txt01 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        685.0,
+        243.53,
+        694.0
+      ],
+      "text": "Uw uitkering wordt een voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        697.84,
+        378.94,
+        706.84
+      ],
+      "text": "Op het moment dat u gaat werken, verrekenen wij een deel van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        702.68,
+        567.84,
+        710.72
+      ],
+      "text": "<einde:kopie_aan_bst:1:ko",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        710.68,
+        408.02,
+        719.68
+      ],
+      "text": "inkomsten met uw WIA-uitkering. Uw totale inkomsten gaan dus omhoog.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        715.52,
+        491.15,
+        723.56
+      ],
+      "text": "pie_aan_1_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        741.08,
+        516.45,
+        749.12
+      ],
+      "text": "<kopie_aan_bst:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 1/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        83.96,
+        440.56,
+        92.96
+      ],
+      "text": "Omdat uw inkomsten kunnen veranderen, betalen wij uw uitkering als voorschot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        97.56,
+        306.2,
+        105.6
+      ],
+      "text": "<einde:0_voorschot_01:1:0_voorschot_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        135.2,
+        488.98,
+        144.2
+      ],
+      "text": "<begin:0_voorschot_01:2:0_voorschot_06>geen voorschot - inkomsten te hoog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        147.92,
+        341.95,
+        156.92
+      ],
+      "text": "Uw verwachte inkomsten zijn hoger dan uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        160.76,
+        492.47,
+        169.76
+      ],
+      "text": "Op het moment dat u gaat werken, verrekenen wij een deel van uw inkomsten met uw WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        173.6,
+        493.12,
+        182.6
+      ],
+      "text": "uitkering en betalen wij uw uitkering als voorschot. Maar uw verwachte inkomsten zijn hoger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        186.32,
+        326.41,
+        195.32
+      ],
+      "text": "dan uw uitkering. Daarom betalen we u geen voorschot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        199.92,
+        306.2,
+        207.96
+      ],
+      "text": "<einde:0_voorschot_01:2:0_voorschot_06>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        237.56,
+        446.52,
+        246.56
+      ],
+      "text": "<begin:0_voorschot_01:3:0_voorschot_07>zelfbetalende erd'er betaalt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        250.4,
+        121.07,
+        259.4
+      ],
+      "text": "voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        263.15,
+        348.13,
+        272.15
+      ],
+      "text": "Uw werkgever gaat uw uitkering als voorschot betalen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        275.99,
+        474.4,
+        284.99
+      ],
+      "text": "Uw werkgever is eigenrisicodrager en betaalt uw uitkering. Omdat uw inkomsten kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        288.83,
+        458.56,
+        297.83
+      ],
+      "text": "veranderen, gaat uw werkgever uw uitkering als voorschot betalen. Wij adviseren uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        301.55,
+        232.96,
+        310.55
+      ],
+      "text": "werkgever over de hoogte daarvan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        315.15,
+        306.2,
+        323.19
+      ],
+      "text": "<einde:0_voorschot_01:3:0_voorschot_07>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        352.79,
+        496.25,
+        361.79
+      ],
+      "text": "<begin:0_voorschot_01:4:0_voorschot_08>zelfbetalende erd'er - geen voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        365.63,
+        474.4,
+        374.63
+      ],
+      "text": "Uw werkgever is eigenrisicodrager en betaalt uw uitkering. Omdat uw inkomsten kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        378.35,
+        458.56,
+        387.35
+      ],
+      "text": "veranderen, gaat uw werkgever uw uitkering als voorschot betalen. Wij adviseren uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        391.19,
+        232.96,
+        400.19
+      ],
+      "text": "werkgever over de hoogte daarvan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        404.79,
+        306.2,
+        412.83
+      ],
+      "text": "<einde:0_voorschot_01:4:0_voorschot_08>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        430.35,
+        185.67,
+        438.39
+      ],
+      "text": "<0_voorschot_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        317.35,
+        468.61,
+        421.13,
+        477.61
+      ],
+      "text": "info over telefonisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        469.37,
+        314.24,
+        477.41
+      ],
+      "text": "<begin:1_tel_contact_02> waarde=1_tel_contact_02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        481.45,
+        194.32,
+        490.45
+      ],
+      "text": "contact<1_tel_contact_02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.21,
+        482.21,
+        384.44,
+        490.25
+      ],
+      "text": "(bouwsteen) waarde=1_tel_contact_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        257.32,
+        507.01,
+        348.27,
+        516.01
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        507.77,
+        254.66,
+        515.81
+      ],
+      "text": "<begin:1_tel_contact_02:1:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        533.57,
+        290.6,
+        541.61
+      ],
+      "text": "<einde:1_tel_contact_02:1:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        570.97,
+        443.44,
+        579.97
+      ],
+      "text": "<begin:1_tel_contact_02:2:1_tel_contact_02>telefonisch contact klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        596.05,
+        379.61,
+        605.05
+      ],
+      "text": "Op hebben wij u hierover telefonisch gesproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.78,
+        596.81,
+        172.62,
+        604.85
+      ],
+      "text": "<dat_02 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        623.24,
+        318.44,
+        631.28
+      ],
+      "text": "<einde:1_tel_contact_02:2:1_tel_contact_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        660.64,
+        446.75,
+        669.64
+      ],
+      "text": "<begin:1_tel_contact_02:3:1_tel_contact_03>telefonisch contact derde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        685.6,
+        241.47,
+        694.6
+      ],
+      "text": "Op hebben wij uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.78,
+        686.36,
+        441.94,
+        694.4
+      ],
+      "text": "<dat_02 (datum)> <kl_cur_bewindv_belangenbeh (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        698.44,
+        325.79,
+        707.44
+      ],
+      "text": "keuzes=(,belangenbehartiger,bewindvoerder,curator)>,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        328.87,
+        699.2,
+        489.35,
+        707.24
+      ],
+      "text": "<kl_de_heer_mevrouw (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 2/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        321.31,
+        83.96,
+        455.24,
+        92.96
+      ],
+      "text": "(tekst)>, hierover telefonisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        84.72,
+        318.53,
+        92.76
+      ],
+      "text": "waarde=de heer keuzes=(,de heer,mevrouw)> <naam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        96.8,
+        121.24,
+        105.8
+      ],
+      "text": "gesproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        123.96,
+        318.44,
+        132.0
+      ],
+      "text": "<einde:1_tel_contact_02:3:1_tel_contact_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        161.36,
+        419.81,
+        170.36
+      ],
+      "text": "<begin:1_tel_contact_02:4:1_tel_contact_04>belpoging met klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        186.32,
+        482.63,
+        195.32
+      ],
+      "text": "Op hebben wij geprobeerd u hierover te bellen, maar wij konden u niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        86.78,
+        187.08,
+        172.62,
+        195.12
+      ],
+      "text": "<dat_02 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        199.16,
+        493.97,
+        208.16
+      ],
+      "text": "bereiken. U kunt contact met ons opnemen voor meer informatie. Ons telefoonnummer vindt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        212.0,
+        255.99,
+        221.0
+      ],
+      "text": "u bij 'Wilt u uitleg over deze beslissing?’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        239.16,
+        318.44,
+        247.2
+      ],
+      "text": "<einde:1_tel_contact_02:4:1_tel_contact_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        276.59,
+        423.23,
+        285.59
+      ],
+      "text": "<begin:1_tel_contact_02:5:1_tel_contact_05>belpoging met derde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        301.55,
+        399.71,
+        310.55
+      ],
+      "text": "Op hebben wij geprobeerd hierover te bellen met uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        86.78,
+        302.31,
+        172.62,
+        310.35
+      ],
+      "text": "<dat_01 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        315.15,
+        268.39,
+        323.19
+      ],
+      "text": "<kl_cur_bewindv_belangenbeh (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        327.23,
+        325.79,
+        336.23
+      ],
+      "text": "keuzes=(,belangenbehartiger,bewindvoerder,curator)>,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        328.87,
+        327.99,
+        489.35,
+        336.03
+      ],
+      "text": "<kl_de_heer_mevrouw (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        332.35,
+        339.95,
+        452.86,
+        348.95
+      ],
+      "text": "(tekst)>, maar wij konden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        340.71,
+        329.55,
+        348.75
+      ],
+      "text": "waarde=de heer keuzes=(,de heer,mevrouw)> <naam_a",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        383.83,
+        352.79,
+        463.37,
+        361.79
+      ],
+      "text": "niet bereiken. Uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        353.55,
+        380.72,
+        361.59
+      ],
+      "text": "<kl_hem_of_haar_f (keuzelijst) waarde=hem keuzes=(,haar,hem)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        366.39,
+        268.39,
+        374.43
+      ],
+      "text": "<kl_cur_bewindv_belangenbeh (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        325.63,
+        378.35,
+        486.53,
+        387.35
+      ],
+      "text": "kan contact met ons opnemen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        379.11,
+        322.52,
+        387.15
+      ],
+      "text": "keuzes=(,belangenbehartiger,bewindvoerder,curator)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        391.19,
+        450.25,
+        400.19
+      ],
+      "text": "meer informatie. Ons telefoonnummer staat bij 'Wilt u uitleg over deze beslissing?’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        418.35,
+        318.44,
+        426.39
+      ],
+      "text": "<einde:1_tel_contact_02:5:1_tel_contact_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        455.77,
+        481.3,
+        464.77
+      ],
+      "text": "<begin:1_tel_contact_02:6:1_tel_contact_06>geen telnr van klant, klant moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        468.61,
+        151.67,
+        477.61
+      ],
+      "text": "telnr doorgeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        493.57,
+        483.44,
+        502.57
+      ],
+      "text": "Wij wilden u hierover bellen, maar wij hebben geen telefoonnummer van u. U kunt contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        506.41,
+        485.6,
+        515.41
+      ],
+      "text": "met ons opnemen voor meer informatie. Ons telefoonnummer vindt u bij 'Wilt u uitleg over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        519.25,
+        149.52,
+        528.25
+      ],
+      "text": "deze beslissing?’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        544.81,
+        287.21,
+        553.81
+      ],
+      "text": "Geeft u uw telefoonnummer aan ons door?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        557.65,
+        482.75,
+        566.65
+      ],
+      "text": "Dit kan met het formulier ‘Doorgeven wijzigingen als u een WIA-, WAO-, WAZ- of Wajong-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        570.37,
+        395.12,
+        579.37
+      ],
+      "text": "uitkering heeft’ op waarde=uwv.nl>/wiawijziging.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        157.1,
+        571.13,
+        252.9,
+        579.17
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        597.65,
+        318.44,
+        605.69
+      ],
+      "text": "<einde:1_tel_contact_02:6:1_tel_contact_06>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        623.24,
+        191.89,
+        631.28
+      ],
+      "text": "<1_tel_contact_02:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        339.67,
+        660.64,
+        389.65,
+        669.64
+      ],
+      "text": "kader 'uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        661.4,
+        336.43,
+        669.44
+      ],
+      "text": "<begin:5_vs_overzicht_01_f> waarde=5_vs_overzicht_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        673.48,
+        225.58,
+        682.48
+      ],
+      "text": "voorschot'<5_vs_overzicht_01_f",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        228.41,
+        674.24,
+        422.15,
+        682.28
+      ],
+      "text": "(bouwsteen) waarde=5_vs_overzicht_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        699.04,
+        411.86,
+        708.04
+      ],
+      "text": "<begin:5_vs_overzicht_01_f:1:5_vs_overzicht_01>wel voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        711.76,
+        140.26,
+        720.76
+      ],
+      "text": "Uw voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 3/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        97.28,
+        224.57,
+        106.28
+      ],
+      "text": "Verwachte inkomsten per maand:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        110.88,
+        214.74,
+        118.92
+      ],
+      "text": "<e> <bedr_inkomsten (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        135.68,
+        234.61,
+        144.68
+      ],
+      "text": "Het voorschot op uw WIA-uitkering:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        182.09,
+        148.52,
+        369.4,
+        157.52
+      ],
+      "text": "bruto per maand (exclusief vakantiegeld)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        149.28,
+        178.98,
+        157.32
+      ],
+      "text": "<e> <bedr_01 (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        174.08,
+        201.79,
+        183.08
+      ],
+      "text": "De datum waarop dit ingaat:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        186.92,
+        280.89,
+        195.92
+      ],
+      "text": "Datum aanvang voorschot<datb_voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        283.75,
+        187.68,
+        328.16,
+        195.72
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        212.96,
+        163.09,
+        221.96
+      ],
+      "text": "Goed om te weten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.94,
+        225.8,
+        493.28,
+        234.8
+      ],
+      "text": "Wij schatten uw inkomsten iets hoger in. Dat verkleint de kans dat uw voorschot te hoog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        225.88,
+        75.44,
+        234.88
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        238.52,
+        281.19,
+        247.52
+      ],
+      "text": "is en dat u een bedrag moet terugbetalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        251.36,
+        466.82,
+        260.44
+      ],
+      "text": "– Bij uw verwachte inkomsten gaan we uit van uw sv-loon en eventuele opgebouwde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        264.23,
+        492.72,
+        273.23
+      ],
+      "text": "bedragen, zoals een vakantietoeslag of eindejaarsuitkering. Sv-loon is het loon waarover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        276.95,
+        343.72,
+        285.95
+      ],
+      "text": "u belasting en premies betaalt. Meer informatie? Kijk op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        347.11,
+        277.71,
+        442.91,
+        285.75
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        289.79,
+        202.75,
+        298.79
+      ],
+      "text": "waarde=uwv.nl>/svloon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.94,
+        302.63,
+        468.86,
+        311.63
+      ],
+      "text": "We kunnen nu nog niet berekenen hoe hoog uw voorschot netto is. Dit ziet u op uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        302.71,
+        75.44,
+        311.71
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        315.35,
+        427.58,
+        324.35
+      ],
+      "text": "betaalspecificatie op waarde=uwv.nl/mijnuwv>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        184.01,
+        316.11,
+        299.82,
+        324.15
+      ],
+      "text": "<url_mijnuwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        342.63,
+        340.76,
+        350.67
+      ],
+      "text": "<einde:5_vs_overzicht_01_f:1:5_vs_overzicht_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        380.03,
+        418.59,
+        389.03
+      ],
+      "text": "<begin:5_vs_overzicht_01_f:2:5_vs_overzicht_02>geen voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        392.75,
+        140.26,
+        401.75
+      ],
+      "text": "Uw voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        418.31,
+        224.57,
+        427.31
+      ],
+      "text": "Verwachte inkomsten per maand:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        431.91,
+        214.74,
+        439.95
+      ],
+      "text": "<e> <bedr_inkomsten (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        456.73,
+        390.22,
+        465.73
+      ],
+      "text": "Door de hoogte van uw inkomsten ontvangt u vanaf Datum aanvang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        469.57,
+        394.77,
+        478.57
+      ],
+      "text": "voorschot<datb_voorschot geen voorschot op uw uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        201.05,
+        470.33,
+        245.46,
+        478.37
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        495.61,
+        163.09,
+        504.61
+      ],
+      "text": "Goed om te weten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        508.45,
+        481.52,
+        517.53
+      ],
+      "text": "– Wij schatten uw inkomsten iets hoger in. Dat verkleint de kans dat u een bedrag moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        521.17,
+        149.65,
+        530.17
+      ],
+      "text": "terugbetalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.94,
+        534.01,
+        466.82,
+        543.01
+      ],
+      "text": "Bij uw verwachte inkomsten gaan we uit van uw sv-loon en eventuele opgebouwde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        534.09,
+        75.44,
+        543.09
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        546.85,
+        492.72,
+        555.85
+      ],
+      "text": "bedragen, zoals een vakantietoeslag of eindejaarsuitkering. Sv-loon is het loon waarover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        559.57,
+        343.72,
+        568.57
+      ],
+      "text": "u belasting en premies betaalt. Meer informatie? Kijk op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        347.11,
+        560.33,
+        442.91,
+        568.37
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        572.41,
+        202.75,
+        581.41
+      ],
+      "text": "waarde=uwv.nl>/svloon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        599.57,
+        340.76,
+        607.61
+      ],
+      "text": "<einde:5_vs_overzicht_01_f:2:5_vs_overzicht_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        637.0,
+        466.74,
+        646.0
+      ],
+      "text": "<begin:5_vs_overzicht_01_f:3:5_vs_overzicht_03>zelfbetalende erd'er, wel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        649.84,
+        121.07,
+        658.84
+      ],
+      "text": "voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        662.56,
+        140.26,
+        671.56
+      ],
+      "text": "Uw voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        688.12,
+        224.57,
+        697.12
+      ],
+      "text": "Verwachte inkomsten per maand:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        701.72,
+        214.74,
+        709.76
+      ],
+      "text": "<e> <bedr_inkomsten (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 4/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        84.44,
+        470.79,
+        93.44
+      ],
+      "text": "Uw werkgever betaalt uw uitkering vanaf Datum aanvang voorschot<datb_voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        118.58,
+        97.28,
+        181.69,
+        106.28
+      ],
+      "text": "als voorschot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        98.04,
+        115.47,
+        106.08
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        122.84,
+        421.21,
+        131.84
+      ],
+      "text": "We adviseren uw werkgever om u een voorschot te betalen van bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        363.67,
+        123.6,
+        382.88,
+        131.64
+      ],
+      "text": "<e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        135.68,
+        390.92,
+        144.68
+      ],
+      "text": "bruto<bedr_bruto bruto per maand (exclusief vakantiegeld).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        158.78,
+        136.44,
+        196.98,
+        144.48
+      ],
+      "text": "(getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        161.24,
+        448.82,
+        170.24
+      ],
+      "text": "Bij uw verwachte inkomsten gaan we uit van uw sv-loon en eventuele opgebouwde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        174.08,
+        483.65,
+        183.08
+      ],
+      "text": "bedragen, zoals een vakantietoeslag of eindejaarsuitkering. Sv-loon is het loon waarover u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        186.92,
+        316.86,
+        195.92
+      ],
+      "text": "belasting en premies betaalt. Meer informatie? Kijk op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        320.23,
+        187.68,
+        416.01,
+        195.72
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        199.64,
+        184.84,
+        208.64
+      ],
+      "text": "waarde=uwv.nl>/svloon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        227.4,
+        340.76,
+        235.44
+      ],
+      "text": "<einde:5_vs_overzicht_01_f:3:5_vs_overzicht_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        264.83,
+        473.44,
+        273.83
+      ],
+      "text": "<begin:5_vs_overzicht_01_f:4:5_vs_overzicht_04>zelfbetalende erd'er, geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        277.55,
+        121.07,
+        286.55
+      ],
+      "text": "voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        290.27,
+        140.26,
+        299.27
+      ],
+      "text": "Uw voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        315.95,
+        224.57,
+        324.95
+      ],
+      "text": "Verwachte inkomsten per maand:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        329.43,
+        214.74,
+        337.47
+      ],
+      "text": "<e> <bedr_inkomsten (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        354.35,
+        467.3,
+        363.35
+      ],
+      "text": "Vanwege de hoogte van uw inkomsten adviseren wij uw werkgever om u vanaf Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        367.07,
+        416.04,
+        376.07
+      ],
+      "text": "aanvang voorschot<datb_voorschot geen voorschot te betalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        247.13,
+        367.83,
+        291.56,
+        375.87
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        392.75,
+        448.82,
+        401.75
+      ],
+      "text": "Bij uw verwachte inkomsten gaan we uit van uw sv-loon en eventuele opgebouwde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        405.47,
+        483.65,
+        414.47
+      ],
+      "text": "bedragen, zoals een vakantietoeslag of eindejaarsuitkering. Sv-loon is het loon waarover u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        418.31,
+        316.86,
+        427.31
+      ],
+      "text": "belasting en premies betaalt. Meer informatie? Kijk op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        320.23,
+        419.07,
+        416.01,
+        427.11
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        431.15,
+        184.84,
+        440.15
+      ],
+      "text": "waarde=uwv.nl>/svloon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        458.81,
+        340.76,
+        466.85
+      ],
+      "text": "<einde:5_vs_overzicht_01_f:4:5_vs_overzicht_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        484.37,
+        207.52,
+        492.41
+      ],
+      "text": "<5_vs_overzicht_01_f:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        510.05,
+        279.5,
+        518.09
+      ],
+      "text": "<begin:1_max_dgln_2> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        521.77,
+        304.27,
+        530.77
+      ],
+      "text": "Niet alle inkomsten vermeld ivm max-dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        535.61,
+        307.16,
+        543.65
+      ],
+      "text": "<1_max_dgln_2 (bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        245.55,
+        560.17,
+        336.39,
+        569.17
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        560.93,
+        242.78,
+        568.97
+      ],
+      "text": "<begin:1_max_dgln_2:1:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        586.85,
+        278.7,
+        594.89
+      ],
+      "text": "<einde:1_max_dgln_2:1:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        624.28,
+        486.46,
+        633.28
+      ],
+      "text": "<begin:1_max_dgln_2:2:1_max_dgln_2>toelichting op rekenformule ivm max-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        637.0,
+        111.4,
+        646.0
+      ],
+      "text": "dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 5/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        83.96,
+        362.17,
+        92.96
+      ],
+      "text": "Toelichting op de hoogte van uw maandelijkse inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        96.8,
+        489.62,
+        105.8
+      ],
+      "text": "In de berekening staan niet alle inkomsten die u nu maandelijks ontvangt. Dit komt doordat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        109.52,
+        456.25,
+        118.52
+      ],
+      "text": "u vroeger meer verdiende dan het maximum WIA-maandloon. Over een deel van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        122.36,
+        437.05,
+        131.36
+      ],
+      "text": "vroegere loon krijgt u dus geen uitkering. Daarom laten we ook een deel van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        135.2,
+        474.85,
+        144.2
+      ],
+      "text": "maandelijkse inkomsten buiten de berekening. Meer informatie over het WIA-maandloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        147.92,
+        299.03,
+        156.92
+      ],
+      "text": "vindt u op waarde=uwv.nl>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        119.9,
+        148.68,
+        215.7,
+        156.72
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        175.2,
+        294.92,
+        183.24
+      ],
+      "text": "<einde:1_max_dgln_2:2:1_max_dgln_2>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        200.76,
+        180.01,
+        208.8
+      ],
+      "text": "<1_max_dgln_2:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        341.47,
+        224.72,
+        386.43,
+        233.72
+      ],
+      "text": "info over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        225.48,
+        338.22,
+        233.52
+      ],
+      "text": "<begin:0_verrek_cyclus_01> waarde=0_verrek_cyclus_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        237.56,
+        245.44,
+        246.56
+      ],
+      "text": "verrekencyclus<0_verrek_cyclus_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        248.33,
+        238.32,
+        447.47,
+        246.36
+      ],
+      "text": "(bouwsteen) waarde=0_verrek_cyclus_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        263.15,
+        396.71,
+        272.15
+      ],
+      "text": "<begin:0_verrek_cyclus_01:1:0_verrek_cyclus_01>per maand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        275.99,
+        449.0,
+        284.99
+      ],
+      "text": "Vanaf gaan wij één keer per maand de hoogte van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        99.86,
+        276.75,
+        185.82,
+        284.79
+      ],
+      "text": "<dat_01 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        288.83,
+        121.94,
+        297.83
+      ],
+      "text": "berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        302.31,
+        342.56,
+        310.35
+      ],
+      "text": "<einde:0_verrek_cyclus_01:1:0_verrek_cyclus_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        339.95,
+        437.09,
+        348.95
+      ],
+      "text": "<begin:0_verrek_cyclus_01:2:0_verrek_cyclus_02>per twee maanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        352.79,
+        484.94,
+        361.79
+      ],
+      "text": "Vanaf gaan wij één keer per twee maanden de hoogte van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        99.86,
+        353.55,
+        185.82,
+        361.59
+      ],
+      "text": "<dat_01 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        365.63,
+        121.94,
+        374.63
+      ],
+      "text": "berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        379.11,
+        342.56,
+        387.15
+      ],
+      "text": "<einde:0_verrek_cyclus_01:2:0_verrek_cyclus_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        416.75,
+        431.94,
+        425.75
+      ],
+      "text": "<begin:0_verrek_cyclus_01:3:0_verrek_cyclus_03>per drie maanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        429.59,
+        480.39,
+        438.59
+      ],
+      "text": "Vanaf gaan wij één keer per drie maanden de hoogte van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        99.86,
+        430.35,
+        185.82,
+        438.39
+      ],
+      "text": "<dat_01 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        442.45,
+        121.94,
+        451.45
+      ],
+      "text": "berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        455.93,
+        342.56,
+        463.97
+      ],
+      "text": "<einde:0_verrek_cyclus_01:3:0_verrek_cyclus_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        493.57,
+        428.82,
+        502.57
+      ],
+      "text": "<begin:0_verrek_cyclus_01:4:0_verrek_cyclus_04>per zes maanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        506.41,
+        477.89,
+        515.41
+      ],
+      "text": "Vanaf gaan wij één keer per zes maanden de hoogte van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        99.86,
+        507.17,
+        185.82,
+        515.21
+      ],
+      "text": "<dat_01 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        519.25,
+        121.94,
+        528.25
+      ],
+      "text": "berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        532.73,
+        342.56,
+        540.77
+      ],
+      "text": "<einde:0_verrek_cyclus_01:4:0_verrek_cyclus_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        570.37,
+        382.67,
+        579.37
+      ],
+      "text": "<begin:0_verrek_cyclus_01:5:0_verrek_cyclus_05>per jaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        583.21,
+        489.96,
+        592.21
+      ],
+      "text": "Vanaf gaan wij één keer per jaar de hoogte van uw uitkering berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        99.86,
+        583.97,
+        185.82,
+        592.01
+      ],
+      "text": "<dat_01 (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        596.81,
+        342.56,
+        604.85
+      ],
+      "text": "<einde:0_verrek_cyclus_01:5:0_verrek_cyclus_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        622.4,
+        203.92,
+        630.44
+      ],
+      "text": "<0_verrek_cyclus_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        328.39,
+        660.04,
+        457.04,
+        669.04
+      ],
+      "text": "verrekenen o.b.v. polis of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        660.8,
+        325.17,
+        668.84
+      ],
+      "text": "<begin:5_verrek_polis_01> waarde=5_verrek_polis_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        672.88,
+        267.57,
+        681.88
+      ],
+      "text": "gegevens werkgever<5_verrek_polis_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        270.41,
+        673.64,
+        463.19,
+        681.68
+      ],
+      "text": "(bouwsteen) waarde=5_verrek_polis_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        262.84,
+        698.44,
+        353.67,
+        707.44
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        699.2,
+        260.18,
+        707.24
+      ],
+      "text": "<begin:5_verrek_polis_01:1:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 6/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        84.72,
+        296.12,
+        92.76
+      ],
+      "text": "<einde:5_verrek_polis_01:1:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        122.36,
+        353.63,
+        131.36
+      ],
+      "text": "<begin:5_verrek_polis_01:2:5_verrek_polis_01>polis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        135.2,
+        410.56,
+        144.2
+      ],
+      "text": "Wij gebruiken hiervoor de gegevens die wij krijgen van de Belastingdienst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        161.52,
+        329.6,
+        169.56
+      ],
+      "text": "<einde:5_verrek_polis_01:2:5_verrek_polis_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        199.16,
+        456.02,
+        208.16
+      ],
+      "text": "<begin:5_verrek_polis_01:3:5_verrek_polis_02>gegevens van werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        212.0,
+        391.15,
+        221.0
+      ],
+      "text": "Wij gebruiken hiervoor de gegevens die wij krijgen van uw werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        238.32,
+        329.6,
+        246.36
+      ],
+      "text": "<einde:5_verrek_polis_01:3:5_verrek_polis_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        263.91,
+        197.3,
+        271.95
+      ],
+      "text": "<5_verrek_polis_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        316.27,
+        301.55,
+        416.98,
+        310.55
+      ],
+      "text": "wanneer definitieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        302.31,
+        313.04,
+        310.35
+      ],
+      "text": "<begin:0_berek_def_01_f> waarde=0_berek_def_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        314.39,
+        218.01,
+        323.39
+      ],
+      "text": "berekening<0_berek_def_01_f",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        220.85,
+        315.15,
+        402.83,
+        323.19
+      ],
+      "text": "(bouwsteen) waarde=0_berek_def_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        339.95,
+        383.67,
+        348.95
+      ],
+      "text": "<begin:0_berek_def_01_f:1:0_berek_def_01>bij voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        352.79,
+        294.06,
+        361.79
+      ],
+      "text": "Wanneer krijgt u de definitieve berekening?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        365.63,
+        493.13,
+        374.63
+      ],
+      "text": "Uiterlijk in ontvangt u de definitieve berekening van uw uitkering vanaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        120.74,
+        366.39,
+        216.3,
+        374.43
+      ],
+      "text": "<maand_01 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        112.34,
+        378.35,
+        160.02,
+        387.35
+      ],
+      "text": "(datum)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        379.11,
+        109.64,
+        387.15
+      ],
+      "text": "<dat_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        404.03,
+        481.69,
+        413.03
+      ],
+      "text": "Is het definitieve bedrag lager dan het voorschot? Dan moet u het te veel betaalde bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        416.75,
+        477.04,
+        425.75
+      ],
+      "text": "aan ons terugbetalen. Is het definitieve bedrag hoger dan het voorschot, dan krijgt u van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        429.59,
+        319.92,
+        438.59
+      ],
+      "text": "ons een nabetaling. U ontvangt hierover dan een brief.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        455.17,
+        209.77,
+        464.17
+      ],
+      "text": "Veranderen uw inkomsten?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        468.01,
+        464.21,
+        477.01
+      ],
+      "text": "Laat het ons weten. Dan kunnen wij uw voorschot aanpassen. Dat voorkomt dat u een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        480.85,
+        485.73,
+        489.85
+      ],
+      "text": "bedrag moet terugbetalen. Of dat u een nabetaling krijgt die gevolgen kan hebben voor uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        493.57,
+        358.83,
+        502.57
+      ],
+      "text": "inkomstenbelasting en bijvoorbeeld huurtoeslag of zorgtoeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        507.17,
+        317.48,
+        515.21
+      ],
+      "text": "<einde:0_berek_def_01_f:1:0_berek_def_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        544.81,
+        411.36,
+        553.81
+      ],
+      "text": "<begin:0_berek_def_01_f:2:0_berek_def_02>bij geen voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        557.65,
+        294.06,
+        566.65
+      ],
+      "text": "Wanneer krijgt u de definitieve berekening?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        570.37,
+        493.13,
+        579.37
+      ],
+      "text": "Uiterlijk in ontvangt u de definitieve berekening van uw uitkering vanaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        120.74,
+        571.13,
+        216.3,
+        579.17
+      ],
+      "text": "<maand_01 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        112.34,
+        583.21,
+        478.88,
+        592.21
+      ],
+      "text": "(datum)>. Dan laten wij u ook weten of u alsnog recht heeft op een deel van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        583.97,
+        109.64,
+        592.01
+      ],
+      "text": "<dat_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        596.05,
+        319.68,
+        605.05
+      ],
+      "text": "uitkering. In dat geval krijgt u van ons een nabetaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        621.64,
+        209.77,
+        630.64
+      ],
+      "text": "Veranderen uw inkomsten?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        634.48,
+        399.2,
+        643.48
+      ],
+      "text": "Laat het ons weten. Dan kunt u misschien alsnog een voorschot krijgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        647.96,
+        317.48,
+        656.0
+      ],
+      "text": "<einde:0_berek_def_01_f:2:0_berek_def_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        685.6,
+        476.2,
+        694.6
+      ],
+      "text": "<begin:0_berek_def_01_f:3:0_berek_def_03>bij voorschot van zelfbetalende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        698.44,
+        101.09,
+        707.44
+      ],
+      "text": "erd'er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        711.28,
+        294.06,
+        720.28
+      ],
+      "text": "Wanneer krijgt u de definitieve berekening?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 7/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        83.96,
+        493.13,
+        92.96
+      ],
+      "text": "Uiterlijk in ontvangt u de definitieve berekening van uw uitkering vanaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        120.74,
+        84.72,
+        216.3,
+        92.76
+      ],
+      "text": "<maand_01 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        112.34,
+        96.8,
+        160.02,
+        105.8
+      ],
+      "text": "(datum)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        97.56,
+        109.64,
+        105.6
+      ],
+      "text": "<dat_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        122.36,
+        209.77,
+        131.36
+      ],
+      "text": "Veranderen uw inkomsten?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        135.2,
+        479.51,
+        144.2
+      ],
+      "text": "Laat het ons weten. Dan kunnen wij uw werkgever laten weten dat hij uw voorschot moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        147.92,
+        122.31,
+        156.92
+      ],
+      "text": "aanpassen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        161.52,
+        317.48,
+        169.56
+      ],
+      "text": "<einde:0_berek_def_01_f:3:0_berek_def_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        199.16,
+        432.75,
+        208.16
+      ],
+      "text": "<begin:0_berek_def_01_f:4:0_berek_def_04>bij geen voorschot van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        212.0,
+        172.55,
+        221.0
+      ],
+      "text": "zelfbetalende erd'er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        224.72,
+        294.06,
+        233.72
+      ],
+      "text": "Wanneer krijgt u de definitieve berekening?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        237.56,
+        493.13,
+        246.56
+      ],
+      "text": "Uiterlijk in ontvangt u de definitieve berekening van uw uitkering vanaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        120.74,
+        238.32,
+        216.3,
+        246.36
+      ],
+      "text": "<maand_01 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        112.34,
+        250.4,
+        160.02,
+        259.4
+      ],
+      "text": "(datum)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        251.16,
+        109.64,
+        259.2
+      ],
+      "text": "<dat_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        275.99,
+        209.77,
+        284.99
+      ],
+      "text": "Veranderen uw inkomsten?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        288.83,
+        426.8,
+        297.83
+      ],
+      "text": "Laat het ons weten. Dan kunnen wij ons advies over uw voorschot aanpassen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        302.31,
+        317.48,
+        310.35
+      ],
+      "text": "<einde:0_berek_def_01_f:4:0_berek_def_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        327.99,
+        195.74,
+        336.03
+      ],
+      "text": "<0_berek_def_01_f:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        306.79,
+        366.23,
+        385.77,
+        375.23
+      ],
+      "text": "verwijzing naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        366.99,
+        303.79,
+        375.03
+      ],
+      "text": "<begin:1_rekenhulp_01> waarde=1_rekenhulp_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        378.95,
+        202.84,
+        387.95
+      ],
+      "text": "rekenhulp<1_rekenhulp_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        205.73,
+        379.71,
+        387.68,
+        387.75
+      ],
+      "text": "(bouwsteen) waarde=1_rekenhulp_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        404.63,
+        441.31,
+        413.63
+      ],
+      "text": "<begin:1_rekenhulp_01:1:1_rekenhulp_01>verwijzing naar rekenhulp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        429.59,
+        124.51,
+        438.59
+      ],
+      "text": "Rekenhulp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        442.45,
+        458.67,
+        451.45
+      ],
+      "text": "Wilt u weten hoe hoog uw uitkering is als u meer of minder gaat werken? Kijk dan op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        169.37,
+        455.17,
+        299.21,
+        464.17
+      ],
+      "text": "waarde=uwv.nl>/rekenhulp.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        455.93,
+        166.71,
+        463.97
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        482.45,
+        308.0,
+        490.49
+      ],
+      "text": "<einde:1_rekenhulp_01:1:1_rekenhulp_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        252.15,
+        519.85,
+        343.11,
+        528.85
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        520.61,
+        249.49,
+        528.65
+      ],
+      "text": "<begin:1_rekenhulp_01:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        546.41,
+        285.32,
+        554.45
+      ],
+      "text": "<einde:1_rekenhulp_01:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        571.97,
+        186.63,
+        580.01
+      ],
+      "text": "<1_rekenhulp_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        276.65,
+        596.65,
+        489.44,
+        605.65
+      ],
+      "text": "klant krijgt toeslag, verandert ook, aparte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        597.41,
+        273.6,
+        605.45
+      ],
+      "text": "<begin:1_toeslag_01> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        609.4,
+        162.9,
+        618.4
+      ],
+      "text": "brief<1_toeslag_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        165.65,
+        610.16,
+        324.8,
+        618.2
+      ],
+      "text": "(bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        635.08,
+        425.02,
+        644.08
+      ],
+      "text": "<begin:1_toeslag_01:1:1_toeslag_01>klant krijgt toeslag van uwv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        660.04,
+        158.77,
+        669.04
+      ],
+      "text": "Toeslag van UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        672.88,
+        491.85,
+        681.88
+      ],
+      "text": "U ontvangt een toeslag van UWV. Deze verandert ook. Hierover krijgt u een aparte brief van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        685.6,
+        90.17,
+        694.6
+      ],
+      "text": "ons.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        712.88,
+        283.02,
+        720.92
+      ],
+      "text": "<einde:1_toeslag_01:1:1_toeslag_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 8/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        239.56,
+        110.12,
+        330.49,
+        119.12
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        110.88,
+        236.9,
+        118.92
+      ],
+      "text": "<begin:1_toeslag_01:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        136.8,
+        272.82,
+        144.84
+      ],
+      "text": "<einde:1_toeslag_01:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        162.36,
+        174.13,
+        170.4
+      ],
+      "text": "<1_toeslag_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        305.11,
+        186.92,
+        350.08,
+        195.92
+      ],
+      "text": "info over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        187.68,
+        301.92,
+        195.72
+      ],
+      "text": "<begin:1_loonheffingsk_01> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        199.76,
+        267.31,
+        208.76
+      ],
+      "text": "loonheffingskorting<1_loonheffingsk_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        270.05,
+        200.52,
+        429.35,
+        208.56
+      ],
+      "text": "(bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        225.32,
+        487.59,
+        234.32
+      ],
+      "text": "<begin:1_loonheffingsk_01:1:1_loonheffingsk_08>info over loonheffingskorting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        250.4,
+        173.06,
+        259.4
+      ],
+      "text": "Loonheffingskorting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        263.15,
+        467.86,
+        272.15
+      ],
+      "text": "U heeft inkomsten uit werk. Daarom is het belangrijk om te weten dat u maar één keer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        275.99,
+        354.67,
+        284.99
+      ],
+      "text": "loonheffingskorting kunt laten toepassen: op uw loon of op uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        358.03,
+        276.75,
+        477.09,
+        284.79
+      ],
+      "text": "<kl_uitkering_uitkeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        126.02,
+        288.83,
+        450.23,
+        297.83
+      ],
+      "text": "keuzes=(,uitkering,uitkeringen)>. Zo voorkomt u dat u later geld moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        289.59,
+        123.27,
+        297.63
+      ],
+      "text": "(keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        301.55,
+        364.56,
+        310.55
+      ],
+      "text": "terugbetalen aan de Belastingdienst. Op uw betaalspecificatie op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        367.99,
+        302.31,
+        483.84,
+        310.35
+      ],
+      "text": "<url_mijnuwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        195.77,
+        314.39,
+        467.73,
+        323.39
+      ],
+      "text": "kunt u zien of er loonheffingskorting wordt toegepast op uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        315.15,
+        192.78,
+        323.19
+      ],
+      "text": "waarde=uwv.nl/mijnuwv>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        247.73,
+        327.23,
+        477.85,
+        336.23
+      ],
+      "text": "keuzes=(,uitkering,uitkeringen)>. Meer informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        327.99,
+        244.97,
+        336.03
+      ],
+      "text": "<kl_uitkering_uitkeringen (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        339.95,
+        389.92,
+        348.95
+      ],
+      "text": "vindt u op waarde=uwv.nl>/loonheffingskorting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        119.9,
+        340.71,
+        215.7,
+        348.75
+      ],
+      "text": "<url_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        367.23,
+        339.92,
+        375.27
+      ],
+      "text": "<einde:1_loonheffingsk_01:1:1_loonheffingsk_08>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        268.11,
+        404.63,
+        358.95,
+        413.63
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        405.39,
+        265.34,
+        413.43
+      ],
+      "text": "<begin:1_loonheffingsk_01:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        431.19,
+        301.28,
+        439.23
+      ],
+      "text": "<einde:1_loonheffingsk_01:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        456.77,
+        202.6,
+        464.81
+      ],
+      "text": "<1_loonheffingsk_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        494.33,
+        285.2,
+        502.37
+      ],
+      "text": "<begin:0_plichten_02> waarde=0_plichten_04",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        506.41,
+        192.82,
+        515.41
+      ],
+      "text": "Kies uit de bouwstenen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        519.25,
+        111.89,
+        528.25
+      ],
+      "text": "Plichten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        531.97,
+        240.66,
+        540.97
+      ],
+      "text": "Plichten en regels voor afspraken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        544.81,
+        231.34,
+        553.81
+      ],
+      "text": "Plichten voor cliënt met toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        557.65,
+        197.67,
+        566.65
+      ],
+      "text": "Plichten voor cliënt in btl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        570.37,
+        326.47,
+        579.37
+      ],
+      "text": "Plichten en regels voor afspraken voor cliënt in btl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        583.21,
+        333.77,
+        592.21
+      ],
+      "text": "Plichten voor cliënt die uitkering heeft aangevraagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        623.24,
+        314.27,
+        631.28
+      ],
+      "text": "<begin:1_wg_kopie_besl> waarde=1_wg_kopie_besl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        635.08,
+        356.53,
+        644.08
+      ],
+      "text": "Kopie beslissing naar werkgever of garantsteller van wg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        648.8,
+        347.0,
+        656.84
+      ],
+      "text": "<1_wg_kopie_besl (bouwsteen) waarde=1_wg_kopie_besl>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        257.32,
+        673.48,
+        348.27,
+        682.48
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        674.24,
+        254.66,
+        682.28
+      ],
+      "text": "<begin:1_wg_kopie_besl:1:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        700.04,
+        290.6,
+        708.08
+      ],
+      "text": "<einde:1_wg_kopie_besl:1:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        797.1,
+        125.5,
+        806.1
+      ],
+      "text": "Pagina 9/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        97.4,
+        429.16,
+        106.4
+      ],
+      "text": "<begin:1_wg_kopie_besl:2:1_wg_kopie_besl>kopie naar werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        122.36,
+        229.95,
+        131.36
+      ],
+      "text": "Bericht aan uw (ex-)werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        135.2,
+        467.42,
+        144.2
+      ],
+      "text": "Wij hebben een kopie van deze beslissing aan uw (ex-)werkgever gestuurd. Deze heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        147.92,
+        358.43,
+        156.92
+      ],
+      "text": "belang bij deze beslissing en mag daarom ook bezwaar maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        175.2,
+        318.56,
+        183.24
+      ],
+      "text": "<einde:1_wg_kopie_besl:2:1_wg_kopie_besl>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        212.6,
+        477.1,
+        221.6
+      ],
+      "text": "<begin:1_wg_kopie_besl:3:1_wg_kopie_besl_01>kopie naar garantsteller ex-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        225.32,
+        124.82,
+        234.32
+      ],
+      "text": "werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        250.4,
+        325.36,
+        259.4
+      ],
+      "text": "Bericht aan de garantsteller van uw ex-werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        263.15,
+        455.1,
+        272.15
+      ],
+      "text": "Wij hebben een kopie van deze beslissing aan de garantsteller van uw ex-werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        275.99,
+        456.64,
+        284.99
+      ],
+      "text": "gestuurd. Deze heeft belang bij deze beslissing en mag daarom ook bezwaar maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        303.15,
+        335.6,
+        311.19
+      ],
+      "text": "<einde:1_wg_kopie_besl:3:1_wg_kopie_besl_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        328.83,
+        191.89,
+        336.87
+      ],
+      "text": "<1_wg_kopie_besl:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        341.55,
+        331.15,
+        349.59
+      ],
+      "text": "<begin:1_berichtenbox_01> waarde=1_berichtenbox_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        353.39,
+        205.67,
+        362.39
+      ],
+      "text": "Mijn UWV en Berichtenbox",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        367.23,
+        363.92,
+        375.27
+      ],
+      "text": "<1_berichtenbox_01 (bouwsteen) waarde=1_berichtenbox_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        391.79,
+        485.62,
+        400.79
+      ],
+      "text": "<begin:1_berichtenbox_01:1:1_berichtenbox_01>klant attenderen op mijn uwv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        404.63,
+        152.78,
+        413.63
+      ],
+      "text": "en berichtenbox",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        429.59,
+        319.73,
+        438.59
+      ],
+      "text": "Mis geen belangrijke berichten over uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        442.45,
+        342.74,
+        451.45
+      ],
+      "text": "Wij sturen u brieven per post, maar ook online berichten op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        346.15,
+        443.21,
+        449.53,
+        451.25
+      ],
+      "text": "<mijn_uwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        163.1,
+        455.17,
+        448.49,
+        464.17
+      ],
+      "text": "(<url_mijnuwv waarde=uwv.nl/mijnuwv>). Met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        455.93,
+        283.02,
+        463.97
+      ],
+      "text": "waarde=mijn uwv> (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        468.01,
+        427.99,
+        477.01
+      ],
+      "text": "Berichtenbox van MijnOverheid weet u meteen of u een nieuw bericht heeft op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        431.5,
+        468.77,
+        483.03,
+        476.81
+      ],
+      "text": "<mijn_uwv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        186.12,
+        480.85,
+        338.57,
+        489.85
+      ],
+      "text": "uwv>. Meer informatie vindt u op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        481.61,
+        433.53,
+        489.65
+      ],
+      "text": "(resultaat) waarde=mijn <uwv_nl (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        493.57,
+        214.33,
+        502.57
+      ],
+      "text": "waarde=uwv.nl>/berichtenbox.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        520.85,
+        335.6,
+        528.89
+      ],
+      "text": "<einde:1_berichtenbox_01:1:1_berichtenbox_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        265.84,
+        558.25,
+        356.67,
+        567.25
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        559.01,
+        263.18,
+        567.05
+      ],
+      "text": "<begin:1_berichtenbox_01:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        584.81,
+        299.12,
+        592.85
+      ],
+      "text": "<einde:1_berichtenbox_01:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        610.4,
+        200.34,
+        618.44
+      ],
+      "text": "<1_berichtenbox_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        797.1,
+        131.14,
+        806.1
+      ],
+      "text": "Pagina 10/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        97.56,
+        478.11,
+        105.6
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301> waarde=0_uitl_bsl_wn_01 <0_uitl_bsl_wn_11020301",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        110.28,
+        260.46,
+        118.32
+      ],
+      "text": "(bouwsteen) waarde=0_uitl_bsl_wn_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        135.2,
+        484.14,
+        144.2
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:1:0_uitl_bsl_wn_11>eerst bellen, werknemer,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        147.92,
+        124.98,
+        156.92
+      ],
+      "text": "buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        160.76,
+        243.92,
+        169.76
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        173.6,
+        476.65,
+        182.6
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        335.83,
+        174.36,
+        388.4,
+        182.4
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        186.32,
+        488.36,
+        195.32
+      ],
+      "text": "gevolgen hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        189.53,
+        199.16,
+        314.51,
+        208.16
+      ],
+      "text": "waarde=uwv.nl/mijnuwv>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        199.92,
+        186.87,
+        207.96
+      ],
+      "text": "<url_mijnuwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        224.72,
+        171.38,
+        233.72
+      ],
+      "text": "U kunt ook bellen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        174.65,
+        225.48,
+        481.91,
+        233.52
+      ],
+      "text": "<tel_uwvtelefoon_btl (resultaat) waarde=+31 88 898 20 01 (lokaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        258.62,
+        237.56,
+        485.95,
+        246.56
+      ],
+      "text": "telefoonaanbieder)>. Bellen kan van maandag tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        238.32,
+        255.84,
+        246.36
+      ],
+      "text": "tarief - belkosten zijn afhankelijk van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        250.4,
+        488.66,
+        259.4
+      ],
+      "text": "en met vrijdag van 8.00 tot 17.00 uur (Nederlandse tijd). Als u belt, houd dan deze brief en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        263.15,
+        468.65,
+        272.15
+      ],
+      "text": "uw bij de hand. Wij kunnen u dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        87.14,
+        263.91,
+        328.52,
+        271.95
+      ],
+      "text": "<bsn_kll (resultaat) waarde=burgerservicenummer>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        275.99,
+        137.52,
+        284.99
+      ],
+      "text": "sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        289.59,
+        356.84,
+        297.63
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:1:0_uitl_bsl_wn_11>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        327.23,
+        489.25,
+        336.23
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:2:0_uitl_bsl_wg_02>eerst bellen bij beslissing,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        339.95,
+        181.98,
+        348.95
+      ],
+      "text": "werkgever, standaard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        352.79,
+        243.92,
+        361.79
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        365.63,
+        476.65,
+        374.63
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        335.83,
+        366.39,
+        388.4,
+        374.43
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        378.35,
+        488.36,
+        387.35
+      ],
+      "text": "gevolgen hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        391.19,
+        411.9,
+        400.19
+      ],
+      "text": "‘uw berichten’ op waarde=uwv.nl>/werkgeversportaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        151.7,
+        391.95,
+        240.67,
+        399.99
+      ],
+      "text": "<uwv.nl (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        416.75,
+        171.38,
+        425.75
+      ],
+      "text": "U kunt ook bellen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        174.65,
+        417.51,
+        474.62,
+        425.55
+      ],
+      "text": "<tel_uwvtelefoon_wg (resultaat) waarde=088 - 898 92 95 (lokaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        258.62,
+        429.59,
+        485.95,
+        438.59
+      ],
+      "text": "telefoonaanbieder)>. Bellen kan van maandag tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        430.35,
+        255.84,
+        438.39
+      ],
+      "text": "tarief - belkosten zijn afhankelijk van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        442.45,
+        464.13,
+        451.45
+      ],
+      "text": "en met vrijdag van 8.00 tot 17.00 uur. Als u belt, houd dan deze brief bij de hand. Wij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        455.17,
+        202.87,
+        464.17
+      ],
+      "text": "kunnen u dan sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        797.1,
+        131.14,
+        806.1
+      ],
+      "text": "Pagina 11/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        84.72,
+        356.72,
+        92.76
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:2:0_uitl_bsl_wg_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        122.36,
+        484.14,
+        131.36
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:3:0_uitl_bsl_wn_03>eerst bellen, werknemer,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        135.2,
+        202.88,
+        144.2
+      ],
+      "text": "specifiek telefoonnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        147.92,
+        243.92,
+        156.92
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        160.76,
+        476.65,
+        169.76
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        335.83,
+        161.52,
+        388.4,
+        169.56
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        173.6,
+        488.36,
+        182.6
+      ],
+      "text": "gevolgen hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        266.9,
+        186.32,
+        322.43,
+        195.32
+      ],
+      "text": "berichten'>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        187.08,
+        264.13,
+        195.12
+      ],
+      "text": "<mijn_berichten (resultaat) waarde='mijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        212.0,
+        472.53,
+        221.0
+      ],
+      "text": "U kunt ook bellen met via (tekst)>. Als u belt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        174.65,
+        212.76,
+        379.33,
+        220.8
+      ],
+      "text": "<_p_presentatienaam (tekst)> <telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        224.72,
+        493.29,
+        233.72
+      ],
+      "text": "houd dan deze brief en uw bij de hand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        194.69,
+        225.48,
+        435.95,
+        233.52
+      ],
+      "text": "<bsn_kll (resultaat) waarde=burgerservicenummer>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        237.56,
+        220.51,
+        246.56
+      ],
+      "text": "Wij kunnen u dan sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        251.16,
+        356.84,
+        259.2
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:3:0_uitl_bsl_wn_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        288.83,
+        484.14,
+        297.83
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:4:0_uitl_bsl_wn_01>eerst bellen, werknemer,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        301.55,
+        121.86,
+        310.55
+      ],
+      "text": "standaard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        314.39,
+        243.92,
+        323.39
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        327.23,
+        476.65,
+        336.23
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        335.83,
+        327.99,
+        388.4,
+        336.03
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        339.95,
+        488.36,
+        348.95
+      ],
+      "text": "gevolgen hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        322.27,
+        352.79,
+        333.38,
+        361.79
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        353.55,
+        452.4,
+        361.59
+      ],
+      "text": "<mijn_berichten (resultaat) waarde='mijn berichten'> <url_mijnuwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        365.63,
+        195.93,
+        374.63
+      ],
+      "text": "waarde=uwv.nl/mijnuwv>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        391.19,
+        171.38,
+        400.19
+      ],
+      "text": "U kunt ook bellen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        174.65,
+        391.95,
+        489.24,
+        399.99
+      ],
+      "text": "<tel_uwvtelefoon (resultaat) waarde=088 - 898 92 94 (lokaal tarief -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        224.93,
+        404.03,
+        487.23,
+        413.03
+      ],
+      "text": "telefoonaanbieder)>. Bellen kan van maandag tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        404.79,
+        222.26,
+        412.83
+      ],
+      "text": "belkosten zijn afhankelijk van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        416.75,
+        384.67,
+        425.75
+      ],
+      "text": "vrijdag van 8.00 tot 17.00 uur. Als u belt, houd dan deze brief en uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        388.03,
+        417.51,
+        479.52,
+        425.55
+      ],
+      "text": "<bsn_kll (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        221.33,
+        429.59,
+        427.98,
+        438.59
+      ],
+      "text": "bij de hand. Wij kunnen u dan sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        430.35,
+        218.22,
+        438.39
+      ],
+      "text": "waarde=burgerservicenummer>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        443.21,
+        356.84,
+        451.25
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:4:0_uitl_bsl_wn_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        468.77,
+        228.16,
+        476.81
+      ],
+      "text": "<0_uitl_bsl_wn_11020301:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        507.17,
+        369.68,
+        515.21
+      ],
+      "text": "<0_bezw_wn_6w_01 (bouwsteen) waarde=0_bezw_wn_6w_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        531.97,
+        485.41,
+        540.97
+      ],
+      "text": "<begin:0_bezw_wn_6w_01:1:0_bezw_wn_6w_01>6 weken, werknemer, online",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        544.81,
+        118.46,
+        553.81
+      ],
+      "text": "en papier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        557.65,
+        226.63,
+        566.65
+      ],
+      "text": "Niet eens met deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        570.37,
+        478.1,
+        579.37
+      ],
+      "text": "Dan kunt u bezwaar maken. U heeft hiervoor 6 weken de tijd. In uw geval dus tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        165.26,
+        583.21,
+        481.99,
+        592.21
+      ],
+      "text": "(datum)>. Na ontvangst krijgt u binnen 5 werkdagen een bevestiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        583.97,
+        162.6,
+        592.01
+      ],
+      "text": "<dat_bezwaar_42_f",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        596.05,
+        109.72,
+        605.05
+      ],
+      "text": "van ons.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        621.64,
+        235.48,
+        630.64
+      ],
+      "text": "Bezwaar maken kan op 2 manieren:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.94,
+        634.48,
+        487.34,
+        643.48
+      ],
+      "text": "Online via waarde=uwv.nl/bezwaarmaken>. Daar vindt u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        634.56,
+        75.44,
+        643.56
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        137.3,
+        635.24,
+        270.69,
+        643.28
+      ],
+      "text": "<url_bezwaar_maken (tekst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        647.2,
+        176.63,
+        656.2
+      ],
+      "text": "ook alle informatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.94,
+        660.04,
+        453.58,
+        669.04
+      ],
+      "text": "Via de post. Zet in uw brief altijd uw naam, adres, burgerservicenummer (BSN),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        660.12,
+        75.44,
+        669.12
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        672.88,
+        492.46,
+        681.88
+      ],
+      "text": "telefoonnummer en handtekening. Vermeld ook het onderwerp en de datum van de brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        685.6,
+        490.66,
+        694.6
+      ],
+      "text": "waar u het niet mee eens bent. En geef aan waarom u het niet met onze beslissing eens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        698.44,
+        474.82,
+        707.44
+      ],
+      "text": "bent. Met deze informatie kunnen wij uw bezwaar sneller behandelen. Stuur uw brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.82,
+        711.28,
+        113.32,
+        720.28
+      ],
+      "text": "naar:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        797.1,
+        131.14,
+        806.1
+      ],
+      "text": "Pagina 12/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        336.67,
+        109.52,
+        449.75,
+        118.52
+      ],
+      "text": "bezwaaradres volgens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        110.28,
+        333.55,
+        118.32
+      ],
+      "text": "<begin:0_bb_adres_pc_kl> waarde=0_bb_adres_pc_kl_1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        122.36,
+        413.54,
+        131.36
+      ],
+      "text": "postcodetabel of medewerker kiest bezwaaradres<0_bb_adres_pc_kl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        416.38,
+        123.12,
+        474.48,
+        131.16
+      ],
+      "text": "(bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        135.96,
+        212.7,
+        144.0
+      ],
+      "text": "waarde=0_bb_adres_pc_kl_1>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        141.86,
+        160.76,
+        486.7,
+        169.76
+      ],
+      "text": "<begin:0_bb_adres_pc_kl:1:0_bb_adres_pc_kl_1>bezwaaradres volgens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        173.6,
+        142.0,
+        182.6
+      ],
+      "text": "postcodetabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        186.32,
+        375.47,
+        195.32
+      ],
+      "text": "<uwv_afk>, afdeling Bezwaar en Beroep, (tekst)>,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        262.73,
+        187.08,
+        484.19,
+        195.12
+      ],
+      "text": "<postadres_bb <postcode_bb (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        125.06,
+        199.16,
+        166.62,
+        208.16
+      ],
+      "text": "(tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        199.92,
+        122.24,
+        207.96
+      ],
+      "text": "<plaats_bb",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        141.86,
+        212.76,
+        373.4,
+        220.8
+      ],
+      "text": "<einde:0_bb_adres_pc_kl:1:0_bb_adres_pc_kl_1>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        141.86,
+        250.4,
+        444.44,
+        259.4
+      ],
+      "text": "<begin:0_bb_adres_pc_kl:2:0_bb_adres_pc_kl_2>bezwaaradres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        263.15,
+        168.85,
+        272.15
+      ],
+      "text": "keuzelijst adressen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        275.99,
+        221.2,
+        284.99
+      ],
+      "text": "<uwv_afk>, afdeling Bezwaar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        224.45,
+        276.75,
+        493.87,
+        284.79
+      ],
+      "text": "<kl_postbusadressen_bb (keuzelijst) keuzes=(,<N>Beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        289.59,
+        467.25,
+        297.63
+      ],
+      "text": "(Eigen Personeel), Postbus 8071, 1005 AB Amsterdam,Beroep, Postbus 10021, 1301 AA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        302.31,
+        478.87,
+        310.35
+      ],
+      "text": "Almere,Beroep, Postbus 110, 5900 AC Venlo,Beroep, Postbus 111, 8000 AC Zwolle,Beroep,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        315.15,
+        484.32,
+        323.19
+      ],
+      "text": "Postbus 16140, 2500 BC Den Haag,Beroep, Postbus 2064, 3500 GB Utrecht,Beroep, Postbus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        327.99,
+        483.56,
+        336.03
+      ],
+      "text": "286, 8901 BB Leeuwarden,Beroep, Postbus 3276, 4800 MH Breda,Beroep, Postbus 35, 6800",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        340.71,
+        450.79,
+        348.75
+      ],
+      "text": "LG Arnhem,Beroep, Postbus 4895, 6401 JR Heerlen,Beroep, Postbus 51010, 9702 JA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        353.55,
+        451.64,
+        361.59
+      ],
+      "text": "Groningen,Beroep, Postbus 52010, 3007 LA Rotterdam,Beroep, Postbus 71, 1800 BD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        366.39,
+        441.65,
+        374.43
+      ],
+      "text": "Alkmaar,Beroep, Postbus 724, 5600 AS Eindhoven,Beroep, Postbus 8071, 1005 AB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        442.73,
+        378.35,
+        487.46,
+        387.35
+      ],
+      "text": "Leiden)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        379.11,
+        440.05,
+        387.15
+      ],
+      "text": "Amsterdam,Beroep, Postbus 86, 7550 AB Hengelo,Beroep, Postbus 9103, 2300 PC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        141.86,
+        391.95,
+        373.4,
+        399.99
+      ],
+      "text": "<einde:0_bb_adres_pc_kl:2:0_bb_adres_pc_kl_2>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        417.51,
+        195.75,
+        425.55
+      ],
+      "text": "<0_bb_adres_pc_kl:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        455.17,
+        469.98,
+        464.17
+      ],
+      "text": "Let op: Als u contact met ons opneemt, blijft de uiterlijke datum om bezwaar te maken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        468.01,
+        115.58,
+        477.01
+      ],
+      "text": "hetzelfde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        106.34,
+        481.61,
+        341.24,
+        489.65
+      ],
+      "text": "<einde:0_bezw_wn_6w_01:1:0_bezw_wn_6w_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        507.17,
+        203.2,
+        515.21
+      ],
+      "text": "<0_bezw_wn_6w_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        797.1,
+        131.14,
+        806.1
+      ],
+      "text": "Pagina 13/14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        43.5,
+        396.19,
+        52.5
+      ],
+      "text": "Brief: UWIIN03-54 - Voorschot bij verrekenen verdiensten, WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        84.72,
+        315.56,
+        92.76
+      ],
+      "text": "<0_afsl_bsl_01 (bouwsteen) waarde=0_afsl_bsl_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        109.52,
+        482.22,
+        118.52
+      ],
+      "text": "<begin:0_afsl_bsl_01:1:0_afsl_bsl_01>afsluiting beslissing (deze gebruiken!)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        122.36,
+        173.27,
+        131.36
+      ],
+      "text": "Met vriendelijke groet,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        135.2,
+        205.4,
+        144.2
+      ],
+      "text": "Namens de Raad van Bestuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        147.92,
+        105.19,
+        156.92
+      ],
+      "text": "van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        108.38,
+        148.68,
+        486.35,
+        156.72
+      ],
+      "text": "<uwvinstituut (resultaat) waarde=uitvoeringsinstituut werknemersverzekeringen>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        161.52,
+        287.12,
+        169.56
+      ],
+      "text": "<einde:0_afsl_bsl_01:1:0_afsl_bsl_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        187.08,
+        176.19,
+        195.12
+      ],
+      "text": "<0_afsl_bsl_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        263.91,
+        359.6,
+        271.95
+      ],
+      "text": "<5_ondertekening (bouwsteen) waarde=5_ondertekening_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        288.83,
+        493.51,
+        297.83
+      ],
+      "text": "<begin:5_ondertekening:1:5_ondertekening_01>ondertekening presentatienaam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        315.15,
+        212.22,
+        323.19
+      ],
+      "text": "<_p_presentatienaam (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        327.99,
+        167.19,
+        336.03
+      ],
+      "text": "<_p_functie (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        340.71,
+        331.04,
+        348.75
+      ],
+      "text": "<einde:5_ondertekening:1:5_ondertekening_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        366.39,
+        189.61,
+        374.43
+      ],
+      "text": "<5_ondertekening:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        797.1,
+        131.14,
+        806.1
+      ],
+      "text": "Pagina 14/14",
+      "source": "text"
+    }
+  ]
+}

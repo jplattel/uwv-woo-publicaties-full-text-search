@@ -1,0 +1,53 @@
+{
+  "source_id": "2023-07-04-besluit-woo-verzoek-leeftijdscategorieen-nieuwe-medewerkers/2023-07-04-bijlage-1-bij-leeftijdscategorieen-nieuwe-medewerkers",
+  "publication_slug": "2023-07-04-besluit-woo-verzoek-leeftijdscategorieen-nieuwe-medewerkers",
+  "pdf_slug": "2023-07-04-bijlage-1-bij-leeftijdscategorieen-nieuwe-medewerkers",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/besluit-woo-verzoek-leeftijdscategorieen-nieuwe-medewerkers",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/5b09b0cf-0440-498b-843b-d1ff9b3a70c9/bijlage-1-bij-leeftijdscategorieen-nieuwe-medewerkers.pdf",
+  "publication_title": "Besluit Woo-verzoek leeftijdscategorieën nieuwe medewerkers",
+  "publication_date": "2023-07-04T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1 bij 2023041 (PDF, 88 kB)",
+  "retrieved_at": "2026-06-30T13:18:53+00:00",
+  "sha256": "58ed15306c56ecb156c0ead15b0970ceb716c1877e622b9a3201b58be00ec286",
+  "page_count": 1,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        73.94,
+        302.6,
+        83.9
+      ],
+      "text": "Dit zijn de aantallen inclusief BKWI van 2020:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        222.74,
+        302.6,
+        232.7
+      ],
+      "text": "Dit zijn de aantallen inclusief BKWI van 2021:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        371.66,
+        302.6,
+        381.62
+      ],
+      "text": "Dit zijn de aantallen inclusief BKWI van 2022:",
+      "source": "text"
+    }
+  ]
+}

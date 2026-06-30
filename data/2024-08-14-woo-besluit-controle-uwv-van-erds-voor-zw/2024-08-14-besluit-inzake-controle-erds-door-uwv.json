@@ -1,0 +1,773 @@
+{
+  "source_id": "2024-08-14-woo-besluit-controle-uwv-van-erds-voor-zw/2024-08-14-besluit-inzake-controle-erds-door-uwv",
+  "publication_slug": "2024-08-14-woo-besluit-controle-uwv-van-erds-voor-zw",
+  "pdf_slug": "2024-08-14-besluit-inzake-controle-erds-door-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-controle-uwv-van-erds-voor-zw",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/07957ad2-46b3-4d89-8314-652339d4af76/besluit-inzake-controle-erds-door-uwv.pdf",
+  "publication_title": "Woo-besluit controle door UWV van ERD’s voor Ziektewet",
+  "publication_date": "2024-08-14T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Besluit inzake controle ERD’s door UWV (PDF, 100 kB)",
+  "retrieved_at": "2026-06-30T12:55:34+00:00",
+  "sha256": "0f6d99b79d3f832347d035dc3854b49b670f36bdbc1d4bcec30af20e19e9eb49",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        76.6,
+        434.35,
+        82.6
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        114.5,
+        80.38,
+        264.19,
+        88.42
+      ],
+      "text": "Postbus 58285, 1040 HG Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        82.0,
+        112.28,
+        88.0
+      ],
+      "text": "Retouradres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        87.72,
+        455.31,
+        95.76
+      ],
+      "text": "8 juli 2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        114.78,
+        424.73,
+        120.78
+      ],
+      "text": "Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        138.72,
+        541.82,
+        146.76
+      ],
+      "text": "Bestuurszaken/Juridische Zaken",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.82,
+        140.87,
+        161.4,
+        149.87
+      ],
+      "text": "ALLEEN PER E-MAIL:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        411.94,
+        151.44,
+        431.24,
+        159.48
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        172.2,
+        535.62,
+        180.24
+      ],
+      "text": "E: @uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        199.26,
+        456.61,
+        205.26
+      ],
+      "text": "Ons kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        411.94,
+        210.48,
+        470.93,
+        218.52
+      ],
+      "text": "WOO 2024038",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        237.54,
+        454.46,
+        243.54
+      ],
+      "text": "Uw kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.94,
+        248.64,
+        415.59,
+        256.68
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.3,
+        283.77,
+        108.95,
+        289.77
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.3,
+        294.87,
+        235.2,
+        302.91
+      ],
+      "text": "Beslissing op uw verzoek van 24-5-2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        341.63,
+        219.69,
+        350.63
+      ],
+      "text": "Geachte ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        361.43,
+        516.22,
+        370.43
+      ],
+      "text": "U heeft op 24 mei 2024 een verzoek op grond van de Wet open overheid (hierna: Woo) ingediend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        373.31,
+        511.9,
+        382.31
+      ],
+      "text": "bij UWV. Dit verzoek is op 24 mei 2024 door UWV ontvangen. Hierbij ontvangt u de beslissing op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        385.07,
+        125.67,
+        394.07
+      ],
+      "text": "uw verzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        408.71,
+        143.57,
+        417.71
+      ],
+      "text": "Deelbeslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        420.47,
+        514.47,
+        429.47
+      ],
+      "text": "UWV heeft besloten om gegeneerde documenten met de door u verzochte informatie openbaar te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        432.23,
+        489.14,
+        441.23
+      ],
+      "text": "maken. UWV heeft helaas nog geen antwoorden kunnen geven op al uw vragen. U ontvangt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        444.11,
+        366.32,
+        453.11
+      ],
+      "text": "uiterlijk 22 juli 2024 een beslissing ten aanzien van deze vragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        467.65,
+        137.65,
+        476.65
+      ],
+      "text": "Woo-verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        479.53,
+        494.51,
+        488.53
+      ],
+      "text": "In uw verzoek is verzocht om openbaarmaking van documenten met de volgende informatie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        503.17,
+        519.75,
+        512.17
+      ],
+      "text": "- Vragen betreffende de controle van UWV van eigenrisicodragers (ERD’s) voor de Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        514.93,
+        516.14,
+        523.93
+      ],
+      "text": "(zie artikel 63a lid 5 ZW en de Regeling werkzaamheden, administratieve voorschriften en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        526.69,
+        162.84,
+        535.69
+      ],
+      "text": "kosten ERD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        538.57,
+        498.67,
+        547.57
+      ],
+      "text": "- Vragen betreffende verhaal van ziekengeld en WGA-uitkering bij zelfbetalende ERD’s (",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        550.33,
+        305.06,
+        559.33
+      ],
+      "text": "artikel 63a lid 3 ZW en artikel 84 lid 3 WIA)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        562.09,
+        514.97,
+        571.09
+      ],
+      "text": "- Vragen betreffende de melding door de ERD betreffende het niet meer laten bijstaan door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        573.97,
+        320.53,
+        582.97
+      ],
+      "text": "arbodienst of bedrijfsarts (artikel 63c lid 5 ZW)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        585.73,
+        462.75,
+        594.73
+      ],
+      "text": "- Vragen betreffende boete-oplegging door UWV in geval van niet tijdig ziek- en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        597.49,
+        481.79,
+        606.49
+      ],
+      "text": "hersteldmelden door de werkgever en ERD (artikel 38a lid 8 ZW en 39aa lid 3 ZW)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        629.17,
+        208.2,
+        638.17
+      ],
+      "text": "Inventarisatie documenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        640.09,
+        514.98,
+        649.09
+      ],
+      "text": "Naar aanleiding van uw verzoek is intern uitvraag gedaan of er documenten aanwezig zijn met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        651.04,
+        500.2,
+        660.04
+      ],
+      "text": "door u gevraagde informatie. Daarbij hebben wij de afdeling Uitkeren van UWV gevraagd of er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        661.96,
+        520.68,
+        670.96
+      ],
+      "text": "documenten aanwezig zijn met de door u gevraagde informatie. Hieronder worden de aangetroffen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        672.88,
+        194.09,
+        681.88
+      ],
+      "text": "documenten weergegeven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        695.32,
+        449.0,
+        704.32
+      ],
+      "text": "Nr. Documentnaam Beoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.58,
+        706.72,
+        432.33,
+        715.72
+      ],
+      "text": "1 Antwoorden vragen ED Openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        732.76,
+        144.01,
+        741.76
+      ],
+      "text": "Overwegingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        743.68,
+        468.96,
+        752.68
+      ],
+      "text": "De documenten zijn beoordeeld aan de hand van de uitzonderingsgronden van de Woo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        72.66,
+        502.56,
+        81.66
+      ],
+      "text": "M.b.t. uw vragen delen wij 1 document. Dit document bevat antwoorden op uw vragen. Helaas",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        83.72,
+        411.69,
+        92.72
+      ],
+      "text": "heeft UWV m.b.t. WGA nog geen antwoorden kunnen geven op uw vragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        94.64,
+        503.79,
+        103.64
+      ],
+      "text": "Vermeld moet worden dat deze documenten n.a.v. uw vraag zijn gegenereerd. Ondanks dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        105.56,
+        464.82,
+        114.56
+      ],
+      "text": "Woo niet verplicht om informatie te vergaren die niet reeds bestaat, wordt wel van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        116.48,
+        495.96,
+        125.48
+      ],
+      "text": "bestuursorgaan verlangd om informatie te inventariseren die eenvoudig, met enkele stappen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        127.4,
+        511.72,
+        136.4
+      ],
+      "text": "gegenereerd kan worden. Dit laatste geldt voor de door u verzochte informatie. Verder bevat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        138.32,
+        488.76,
+        147.32
+      ],
+      "text": "document geen informatie die onder een uitzonderinggrond van de Woo valt. Daarom wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        149.24,
+        269.32,
+        158.24
+      ],
+      "text": "besloten het document openbaar te maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        172.04,
+        120.7,
+        181.04
+      ],
+      "text": "Publicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        183.8,
+        517.45,
+        192.8
+      ],
+      "text": "Dit besluit en de aan u verstrekte gegevens worden binnen enkele werkdagen na dagtekening van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        195.68,
+        353.21,
+        204.68
+      ],
+      "text": "dit besluit geanonimiseerd gepubliceerd op de website uwv.nl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        219.2,
+        155.96,
+        228.2
+      ],
+      "text": "Bezwaarclausule",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        231.08,
+        513.67,
+        240.08
+      ],
+      "text": "Als u het niet eens bent met onze beslissing op uw Woo-verzoek kunt u tot uiterlijk zes weken na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        242.84,
+        478.88,
+        251.84
+      ],
+      "text": "de datum op deze brief een bezwaarschrift indienen. Richt uw bezwaar aan UWV, afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        254.72,
+        511.0,
+        263.72
+      ],
+      "text": "Juridische Zaken, Postbus 58285, 1040 HG Amsterdam. Wij kunnen sneller op uw bezwaarschrift",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        266.48,
+        303.27,
+        275.48
+      ],
+      "text": "reageren als u een kopie van deze brief meestuurt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        302.51,
+        360.68,
+        311.51
+      ],
+      "text": "Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        326.51,
+        133.46,
+        335.51
+      ],
+      "text": "Hoogachtend,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        338.51,
+        443.84,
+        347.51
+      ],
+      "text": "Namens de Raad van Bestuur van Uitvoeringsinstituut Werknemersverzekeringen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        408.95,
+        151.65,
+        417.95
+      ],
+      "text": "Juridisch adviseur",
+      "source": "text"
+    }
+  ]
+}

@@ -1,0 +1,4445 @@
+{
+  "source_id": "2024-06-12-woo-besluit-procesbeschrijving-gegevensbescherming/2024-06-12-bijlage-1-handreiking-afhandeling-verzoek-tot-inzage",
+  "publication_slug": "2024-06-12-woo-besluit-procesbeschrijving-gegevensbescherming",
+  "pdf_slug": "2024-06-12-bijlage-1-handreiking-afhandeling-verzoek-tot-inzage",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-procesbeschrijving-gegevensbescherming",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/94688386-fe31-4a3a-9f06-6920e4455274/bijlage-1-handreiking-afhandeling-verzoek-tot-inzage.pdf",
+  "publication_title": "Woo-besluit Procesbeschrijving gegevensbescherming",
+  "publication_date": "2024-06-12T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1: Handreiking afhandeling verzoek tot inzage (PDF, 332 kB)",
+  "retrieved_at": "2026-06-30T12:58:54+00:00",
+  "sha256": "cb51c38bc425a09368741b8bfec6125682c4a228a2259ed123132ca0681605e3",
+  "page_count": 8,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.82,
+        86.09,
+        493.31,
+        102.05
+      ],
+      "text": "Handreiking afhandeling verzoek tot inzage (in de zin van de AVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        120.98,
+        111.98,
+        132.98
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        135.38,
+        500.93,
+        146.42
+      ],
+      "text": "Deze handreiking maakt inzichtelijk welke stappen nodig zijn om te bepalen in hoeverre UWV kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        148.82,
+        512.43,
+        159.86
+      ],
+      "text": "voldoen aan het inzageverzoek van een betrokkene (lees: klant van UWV). Het stappenplan biedt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        162.26,
+        521.33,
+        173.3
+      ],
+      "text": "medewerker van UWV generieke kaders hoe in de praktijk om te gaan met een inzageverzoek van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        175.7,
+        487.93,
+        186.74
+      ],
+      "text": "klant. Aan de hand van deze handreiking maken organisatieonderdelen een doorvertaling naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        189.14,
+        509.61,
+        200.18
+      ],
+      "text": "decentrale werkinstructies. BG kan samen met JZ hierop meekijken. De handreiking beoogt slechts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        202.58,
+        501.25,
+        213.62
+      ],
+      "text": "tegemoet te komen aan vragen uit de praktijk van de organisatie en gaat uit van de bestaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        215.9,
+        320.41,
+        226.94
+      ],
+      "text": "regeling (Regeling inzage- en correctierecht UWV 2018).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        242.78,
+        519.69,
+        253.82
+      ],
+      "text": "Naast deze handreiking is het van belang dat medewerkers zich verder laten informeren door content",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        256.22,
+        460.34,
+        267.26
+      ],
+      "text": "op DWU (infopagina inzage en correctie onder AVG pagina, het Handboek en decentrale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        269.69,
+        487.62,
+        280.73
+      ],
+      "text": "werkinstructies (nader op te stellen door de organisatieonderdelen). Bij verdere vragen kan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        283.13,
+        441.12,
+        294.17
+      ],
+      "text": "medewerker zich richten tot de verschillende contactpersonen die binnen het eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        296.57,
+        346.08,
+        307.61
+      ],
+      "text": "organisatieonderdeel zich bezig houden met inzageverzoeken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        323.45,
+        523.45,
+        334.49
+      ],
+      "text": "De handreiking is een ‘levend document’ en zal waar nodig bijgewerkt/geüpdatet worden. De primaire",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        336.89,
+        507.41,
+        347.93
+      ],
+      "text": "verantwoordelijkheid voor het bijhouden van de handreiking ligt bij Bureau Gegevensbescherming.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        363.65,
+        152.03,
+        374.69
+      ],
+      "text": "Aandachtspunten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        377.31,
+        93.9,
+        388.35
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        377.69,
+        517.44,
+        388.73
+      ],
+      "text": "Het is van belang dat bij de afhandeling van een inzageverzoek de gegevens van betrokkenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        391.13,
+        519.22,
+        402.17
+      ],
+      "text": "niet met meer mensen te delen dan strikt noodzakelijk. Daarnaast moet er aandacht zijn voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        404.57,
+        491.02,
+        415.61
+      ],
+      "text": "het feit dat niet elke medewerker bevoegd is om alle stukken in te zien, zoals medische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        418.01,
+        143.96,
+        429.05
+      ],
+      "text": "stukken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.82,
+        431.67,
+        93.9,
+        442.71
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        432.05,
+        505.43,
+        443.09
+      ],
+      "text": "Tot slot zal deze handreiking niet op alle vragen/issues een bevredigend antwoord bieden;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        445.49,
+        435.52,
+        456.53
+      ],
+      "text": "daarvoor is dit onderwerp te contextafhankelijk en zijn de verschillen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        458.83,
+        471.84,
+        469.87
+      ],
+      "text": "organisatieonderdelen te groot. In samenwerking met JZ biedt BG de verschillende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        472.27,
+        460.58,
+        483.31
+      ],
+      "text": "organisatieonderdelen de mogelijkheid aan om mee te kijken op hun decentrale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.82,
+        485.71,
+        177.35,
+        496.75
+      ],
+      "text": "werkinstructies.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        523.15,
+        135.93,
+        534.19
+      ],
+      "text": "Versiebeheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        546.52,
+        279.08,
+        554.56
+      ],
+      "text": "Versie Datum Auteur Verandering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        566.08,
+        484.43,
+        574.12
+      ],
+      "text": "0.1 Feb 2021 W. Pap (BG) Eerste versie voorgelegd aan Werkgroep Inzagerecht (Uitkeren, SMZ en WB)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        585.16,
+        529.69,
+        593.2
+      ],
+      "text": "0.2 Maart 2021 W. Pap (BG) Opmerkingen verwerkt en tweede versie voorgelegd aan voltallige Werkgroep Inzagerecht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        604.12,
+        483.82,
+        612.16
+      ],
+      "text": "0.3 April 2021 W. Pap (BG) Opmerkingen verwerkt Werkgroep Inzagerecht en opmerkingen verwerkt JZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        623.2,
+        223.84,
+        631.24
+      ],
+      "text": "0.4 Mei /juni 2021 W. Pap (BG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        239.33,
+        623.32,
+        539.69,
+        631.36
+      ],
+      "text": "Naar aanleiding van de uitkomsten uit het TO/SO, inhoudelijke opmerkingen SMZ en Uitkeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        239.33,
+        633.76,
+        268.12,
+        641.8
+      ],
+      "text": "verwerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        652.75,
+        357.12,
+        660.79
+      ],
+      "text": "0.5 Juni 2021 W. Pap (BG) Aanbieden versie 0.5 aan TO van 8/7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        671.83,
+        461.74,
+        679.87
+      ],
+      "text": "0.6 Oktober 2021 W. Pap (BG) Update handreiking afgestemd met JZ, BG en Werkgroep Inzagerecht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.82,
+        690.91,
+        373.95,
+        698.95
+      ],
+      "text": "1.0 December 2021 W. Pap (BG) Wijzigingen doorgevoerd, publicatie DWU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        260.93,
+        90.77,
+        334.33,
+        104.81
+      ],
+      "text": "Stappenplan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        124.58,
+        351.62,
+        136.58
+      ],
+      "text": "Stap 1: Indienen van het inzageverzoek door betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        153.62,
+        522.3,
+        164.66
+      ],
+      "text": "De betrokkene kan door het indienen van een inzageverzoek erachter komen of een organisatie zijn of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        167.06,
+        517.38,
+        178.1
+      ],
+      "text": "haar persoonsgegevens verwerkt, welke persoonsgegevens dit zijn en of de verwerking rechtmatig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        180.38,
+        522.48,
+        191.42
+      ],
+      "text": "De betrokkene wordt door UWV op verschillende manieren gewezen op het recht op inzage (denk aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        193.82,
+        519.41,
+        204.86
+      ],
+      "text": "het webformulier, KCC content, communicatieportalen en de Regeling inzage- en correctierecht UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        152.0,
+        206.36,
+        189.46,
+        218.3
+      ],
+      "text": "28604).1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        207.26,
+        517.28,
+        218.3
+      ],
+      "text": "2018 (Stcrt. 2018, Ook is het mogelijk dat de betrokkene op verschillende manieren kenbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        220.7,
+        508.92,
+        231.74
+      ],
+      "text": "maakt dat hij gebruik wil maken van het inzagerecht (bijvoorbeeld digitaal, op het kantoor of in een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        234.14,
+        191.75,
+        245.18
+      ],
+      "text": "fysiek/telefonisch gesprek).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        261.02,
+        482.15,
+        272.06
+      ],
+      "text": "De hoofdroute ziet op het gebruik van het digitale aanvraagformulier. Via deze route kan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        275.57,
+        459.61,
+        286.61
+      ],
+      "text": "betrokkene met het gebruik van zijn DigiD een inzageverzoek formeel indienen bij UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        298.01,
+        480.78,
+        309.05
+      ],
+      "text": "Indien sprake is van niet-digivaardigen/betrokkenen zonder DigiD dan is het ook mogelijk per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        312.53,
+        514.98,
+        323.57
+      ],
+      "text": "brief/post een inzageverzoek in te dienen bij UWV, voorzien van een kopie van een identiteitsbewijs.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        327.05,
+        519.72,
+        338.09
+      ],
+      "text": "Bij twijfel zal de betrokkene zal naar dichtstbijzijnde vestiging moeten komen om zich te identificeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        341.45,
+        516.2,
+        352.49
+      ],
+      "text": "In dat laatste geval zal geen kopie van het ID-bewijs worden gemaakt, maar zal geregistreerd worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.77,
+        355.07,
+        245.02,
+        367.01
+      ],
+      "text": "plaatsgevonden.2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        355.97,
+        509.39,
+        367.01
+      ],
+      "text": "dat identificatie heeft Deze verzoeken worden door het organisatieonderdeel zelf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        370.49,
+        114.93,
+        381.53
+      ],
+      "text": "opgepakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        392.93,
+        497.66,
+        403.97
+      ],
+      "text": "In het geval dat een inzageverzoek met een klacht wordt gecombineerd is het van belang om het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        406.37,
+        335.23,
+        417.41
+      ],
+      "text": "verzoek op te pakken en de klacht naar het klachtenbureau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        433.25,
+        268.19,
+        444.29
+      ],
+      "text": "BG neemt het inzageverzoek in behandeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.1,
+        460.6,
+        109.55,
+        469.6
+      ],
+      "text": "Digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.65,
+        460.84,
+        510.37,
+        470.8
+      ],
+      "text": "De burger logt via DigiD in de UWV-omgeving en dient een inzageverzoek bij UWV in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.1,
+        471.52,
+        148.9,
+        480.52
+      ],
+      "text": "aanvraagformulier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.1,
+        483.28,
+        135.12,
+        492.28
+      ],
+      "text": "1.1 Vastleggen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.65,
+        483.52,
+        509.38,
+        493.48
+      ],
+      "text": "De ingestuurde gegevens worden vanuit het digitale aanvraagformulier vastgelegd in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.1,
+        494.32,
+        116.07,
+        503.32
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.65,
+        495.76,
+        269.94,
+        505.72
+      ],
+      "text": "Elektronisch Archief (EA).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.1,
+        508.48,
+        129.36,
+        517.48
+      ],
+      "text": "1.2 Routeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.65,
+        508.72,
+        490.94,
+        518.68
+      ],
+      "text": "Het verzoek wordt naar het Volgsysteem BG gerouteerd (wordt nog ingeregeld).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        82.1,
+        519.4,
+        110.32,
+        528.4
+      ],
+      "text": "verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        748.0,
+        74.11,
+        754.48
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.34,
+        748.87,
+        245.6,
+        758.83
+      ],
+      "text": "Update publicatie Stcrt volgt: actiepunt JZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        760.12,
+        74.11,
+        766.6
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.34,
+        760.99,
+        394.17,
+        770.95
+      ],
+      "text": "De wijze van registreren is thans onbekend; actiepunt afdeling Rechtmatigheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        73.2,
+        272.88,
+        85.2
+      ],
+      "text": "Stap 2: Ontvangst van het inzageverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        102.26,
+        302.25,
+        113.3
+      ],
+      "text": "De medewerker van BG voert de volgende taken uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        129.36,
+        93.9,
+        140.4
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        129.74,
+        273.79,
+        140.78
+      ],
+      "text": "Het registeren van het inzageverzoek;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        143.4,
+        93.9,
+        154.44
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        143.78,
+        434.88,
+        154.82
+      ],
+      "text": "Controleren aan de hand van een eerste check of het verzoek compleet is;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        157.44,
+        93.9,
+        168.48
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        157.82,
+        511.02,
+        168.86
+      ],
+      "text": "Vaststellen of het verzoek daadwerkelijk ziet op een inzageverzoek in de zin van de AVG (en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        387.48,
+        170.36,
+        396.66,
+        182.3
+      ],
+      "text": "2e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        171.26,
+        429.48,
+        182.3
+      ],
+      "text": "niet sprake van inzagerecht WGBO, WOB of procedure verzoek kopie);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        184.8,
+        93.9,
+        195.84
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        185.18,
+        405.24,
+        196.22
+      ],
+      "text": "Het uitzetten van het inzageverzoek naar het organisatieonderdeel;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        198.84,
+        93.9,
+        209.88
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        199.22,
+        379.1,
+        210.26
+      ],
+      "text": "BG stuurt per brief een ontvangstbevestiging aan betrokkene.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        226.1,
+        492.61,
+        237.14
+      ],
+      "text": "Een inzageverzoek moet onverwijld worden behandeld, d.w.z. in beginsel binnen één maand na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        239.54,
+        519.38,
+        250.58
+      ],
+      "text": "ontvangst van een verzoek, tenzij het gaat om ingewikkelde verzoeken of een groot aantal verzoeken,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        252.98,
+        494.02,
+        264.02
+      ],
+      "text": "in welk geval de termijn met nog eens twee maanden kan worden verlengd. Is dit het geval, dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        266.42,
+        480.18,
+        277.46
+      ],
+      "text": "informeert BG klant hierover schriftelijk en stuurt een vertragingsbericht (hiervoor gelden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        279.89,
+        185.54,
+        290.93
+      ],
+      "text": "voorwaarden uit de Awb).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.1,
+        307.1,
+        126.4,
+        316.1
+      ],
+      "text": "2.1 Checken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.26,
+        307.34,
+        505.14,
+        317.3
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming checkt dagelijks de 'werkbak' op nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.1,
+        318.14,
+        112.83,
+        327.14
+      ],
+      "text": "werkbak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.26,
+        319.58,
+        300.7,
+        329.54
+      ],
+      "text": "verzoeken en aanvullende gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.1,
+        332.3,
+        137.54,
+        341.3
+      ],
+      "text": "2.2 Beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.26,
+        332.54,
+        518.18,
+        342.5
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming beoordeelt waar het verzoek betrekking op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.1,
+        343.22,
+        116.07,
+        352.22
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.26,
+        344.78,
+        478.19,
+        354.74
+      ],
+      "text": "heeft. Ook wordt beoordeeld of eventuele aanvullende gegevens ontvangen zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.1,
+        357.5,
+        117.6,
+        366.5
+      ],
+      "text": "2.3 Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.26,
+        357.74,
+        507.2,
+        367.7
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming draagt zorg dat het inzageverzoek intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.1,
+        368.42,
+        140.04,
+        377.42
+      ],
+      "text": "verder routeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.26,
+        369.98,
+        256.07,
+        379.94
+      ],
+      "text": "verder wordt gerouteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        397.85,
+        483.89,
+        409.85
+      ],
+      "text": "Stap 3: Uitzetten verzoek door BG naar het organisatieonderdeel voor inhoudelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        412.49,
+        129.95,
+        424.49
+      ],
+      "text": "afhandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        441.53,
+        136.03,
+        452.57
+      ],
+      "text": "Processtappen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        454.97,
+        379.05,
+        466.01
+      ],
+      "text": "Het uitzetten van het inzageverzoek kent de volgende processtappen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        482.09,
+        93.9,
+        493.13
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        482.47,
+        490.12,
+        493.51
+      ],
+      "text": "Het verzoek wordt door BG doorgezet naar een vaste centrale contactpersoon van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        495.79,
+        453.98,
+        506.83
+      ],
+      "text": "organisatieonderdeel (‘eerste kring van contactpersonen’). De eerste kring van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        509.23,
+        429.64,
+        520.27
+      ],
+      "text": "contactpersonen monitort het inzageverzoek en geeft inhoudelijk advies.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        522.89,
+        93.9,
+        533.93
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        523.27,
+        501.61,
+        534.31
+      ],
+      "text": "Vanuit de vaste centrale contactpersoon van het organisatieonderdeel wordt het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        536.71,
+        449.98,
+        547.75
+      ],
+      "text": "doorgestuurd naar de contactpersoon in het district/rayon (‘tweede kring van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        550.15,
+        479.98,
+        561.19
+      ],
+      "text": "contactpersonen’). De tweede kring van contactpersonen handelt het inzageverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        563.59,
+        465.98,
+        574.63
+      ],
+      "text": "inhoudelijk af. De regio/rayonmanager heeft het mandaat heeft om het besluit te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        577.03,
+        172.12,
+        588.07
+      ],
+      "text": "ondertekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        603.79,
+        475.73,
+        614.83
+      ],
+      "text": "Indien meerdere organisatieonderdelen betrokken zijn bij het inzageverzoek wordt als volgt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        617.23,
+        120.25,
+        628.27
+      ],
+      "text": "gehandeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        644.33,
+        93.9,
+        655.37
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        644.71,
+        499.92,
+        655.75
+      ],
+      "text": "BG geeft de opdracht aan één organisatieonderdeel om de coördinatie op zich te nemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        658.18,
+        502.64,
+        669.22
+      ],
+      "text": "Indien nodig overlegt BG waar het lopende dossier zich bevindt of wordt gekeken op welk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        671.62,
+        477.75,
+        682.66
+      ],
+      "text": "organisatieonderdeel het inzageverzoek het meest betrekking heeft. Alle betrokken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        685.06,
+        504.72,
+        696.1
+      ],
+      "text": "contactpersonen worden in ieder geval aangeschreven, zodat zij op de hoogte zijn van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        698.5,
+        172.24,
+        709.54
+      ],
+      "text": "inzageverzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        712.04,
+        93.9,
+        723.08
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        712.42,
+        502.17,
+        723.46
+      ],
+      "text": "Het betreffende organisatieonderdeel benadert de contactpersonen (eerste kring) van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        725.86,
+        496.34,
+        736.9
+      ],
+      "text": "overige organisatieonderdelen waar het inzageverzoek betrekking op heeft en geeft een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        739.3,
+        357.2,
+        750.34
+      ],
+      "text": "duidelijke deadline voor het aanleveren van de gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        73.18,
+        93.9,
+        84.22
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        73.56,
+        517.0,
+        84.6
+      ],
+      "text": "Elk organisatieonderdeel beoordeelt en verzamelt de gegevens (samenwerking tussen eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        87.02,
+        505.2,
+        98.06
+      ],
+      "text": "kring en tweede kring van contactpersonen van het betreffende organisatieonderdeel) die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        100.46,
+        503.17,
+        111.5
+      ],
+      "text": "betrekking hebben op het inzageverzoek. De tweede kring van contactpersonen stuurt dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        113.9,
+        493.59,
+        124.94
+      ],
+      "text": "naar de tweede kring van het coördinerende organisatieonderdeel. Let op de eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        127.34,
+        470.41,
+        138.38
+      ],
+      "text": "terugkoppeling van de tweede kring van contactpersonen naar de eerste kring van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        140.78,
+        184.62,
+        151.82
+      ],
+      "text": "contactpersonen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        154.32,
+        93.9,
+        165.36
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        154.7,
+        491.1,
+        165.74
+      ],
+      "text": "Het coördinerende organisatieonderdeel bundelt alle ontvangen gegevens tot één stuk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        168.36,
+        93.9,
+        179.4
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        168.74,
+        519.47,
+        179.78
+      ],
+      "text": "Het coördinerende organisatieonderdeel is verantwoordelijk voor de verdere afhandeling van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        182.18,
+        522.16,
+        193.22
+      ],
+      "text": "het inzageverzoek en informeert de betrokkene hierover. Ook vindt een terugkoppeling plaats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        195.62,
+        504.51,
+        206.66
+      ],
+      "text": "aan BG als het gaat om de afwikkeling van het inzageverzoek (conceptbrief met daarin het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        209.06,
+        274.2,
+        220.1
+      ],
+      "text": "overzicht van welke brieven/stukken).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        222.72,
+        93.9,
+        233.76
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        223.1,
+        471.64,
+        234.14
+      ],
+      "text": "Wanneer SMZ in het inzageverzoek is betrokken is dit in principe het coördinerend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        236.54,
+        417.64,
+        247.58
+      ],
+      "text": "organisatieonderdeel (dit in verband met inzage in medische stukken).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        250.08,
+        93.9,
+        261.12
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        250.46,
+        506.76,
+        261.5
+      ],
+      "text": "Directie Handhaving behandelt de inzageverzoeken die betrekking hebben op Handhaving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        263.9,
+        520.57,
+        274.94
+      ],
+      "text": "Daarnaast is het van groot belang, gezien eventuele lopende fraudeonderzoeken, dat aan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        277.37,
+        485.18,
+        288.41
+      ],
+      "text": "inzageverzoeker niet kenbaar wordt gemaakt dat er gegevens van de inzageverzoeker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        290.81,
+        506.11,
+        301.85
+      ],
+      "text": "aanwezig zijn. Alleen al het kenbaar maken dat er klantgegevens aanwezig zijn bij DHH kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        304.25,
+        479.08,
+        315.29
+      ],
+      "text": "zorgen voor een verstoring in een lopend onderzoek. Het niet kenbaar maken van of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        317.69,
+        521.96,
+        328.73
+      ],
+      "text": "verstrekken van gegevens aan inzageverzoekers valt onder de uitzonderingsregels van de AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        331.13,
+        505.49,
+        342.17
+      ],
+      "text": "(artikel 41 UAVG). Het is daarom van belang om DHH te informeren wanneer men stukken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        344.57,
+        472.6,
+        355.61
+      ],
+      "text": "aantreft in het fysieke dossier/EA. DHH neemt de beoordeling en afhandeling over.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        371.33,
+        519.11,
+        382.37
+      ],
+      "text": "Indien vaststaat dat de klant verzoekt om een volledig inzageverzoek (d.w.z. ‘de klant wil alles’) stuurt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        384.77,
+        485.72,
+        395.81
+      ],
+      "text": "BG het inzageverzoek aan alle vaste centrale contactpersonen van alle organisatieonderdelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        398.21,
+        502.22,
+        409.25
+      ],
+      "text": "Opnieuw zal BG aan één organisatieonderdeel verzoeken om de coördinatie op zich te nemen. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        411.65,
+        303.53,
+        422.69
+      ],
+      "text": "bovengenoemde stappen zijn verder van toepassing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        438.53,
+        512.2,
+        449.57
+      ],
+      "text": "Tot slot is het voor BG van belang om een duidelijk aanspreekpunt te hebben. Daarnaast is het voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        451.97,
+        515.5,
+        463.01
+      ],
+      "text": "de collega’s die de verzoeken uitvoeren van belang een contactpersoon te hebben die bekend is met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        465.43,
+        138.08,
+        476.47
+      ],
+      "text": "hun uitvoering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        492.64,
+        137.54,
+        501.64
+      ],
+      "text": "3.1 Beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        493.0,
+        503.1,
+        502.96
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming beoordeelt welke bedrijfsonderdelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        503.68,
+        125.05,
+        512.68
+      ],
+      "text": "organisatie-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        505.12,
+        434.45,
+        515.08
+      ],
+      "text": "betrokken zijn bij het verzoek en legt dit vast in het Volgsysteem BG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        514.72,
+        139.25,
+        523.72
+      ],
+      "text": "onderde(e)l(en)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        526.36,
+        147.6,
+        535.36
+      ],
+      "text": "3.2 Routeren naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        526.72,
+        478.54,
+        536.68
+      ],
+      "text": "Het verzoek wordt doorgezet naar de 'werkbakken' van de bedrijfsonderdelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        537.4,
+        125.05,
+        546.4
+      ],
+      "text": "organisatie-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        548.32,
+        139.25,
+        557.32
+      ],
+      "text": "onderde(e)l(en)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        560.08,
+        132.38,
+        569.08
+      ],
+      "text": "3.3 Toesturen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        560.32,
+        493.01,
+        570.28
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming mailt de contactpersonen over het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        571.12,
+        110.32,
+        580.12
+      ],
+      "text": "verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        572.56,
+        507.06,
+        582.52
+      ],
+      "text": "verzoek en vraagt hierin om terugkoppeling wanneer de stukken, waarom is verzocht,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        584.8,
+        289.03,
+        594.76
+      ],
+      "text": "zijn opgestuurd naar de burger.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        597.52,
+        148.43,
+        606.52
+      ],
+      "text": "3.4 Registreren en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        597.76,
+        508.93,
+        607.72
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming archiveert en registreert de mail in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.1,
+        608.44,
+        138.07,
+        617.44
+      ],
+      "text": "archiveren mail",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.5,
+        610.0,
+        229.8,
+        619.96
+      ],
+      "text": "Volgsysteem BG.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        73.2,
+        473.24,
+        85.2
+      ],
+      "text": "Stap 4: Generieke kaders voor het inhoudelijk afhandelen van een inzageverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        101.06,
+        249.31,
+        112.1
+      ],
+      "text": "4.1 Besluitvorming en behandeltermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        114.5,
+        522.64,
+        125.54
+      ],
+      "text": "Zodra BG beoordeeld heeft waar het verzoek betrekking op heeft, wordt het verzoek uitgezet naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        127.94,
+        522.88,
+        138.98
+      ],
+      "text": "relevante organisatieonderdeel. Het organisatieonderdeel neemt het formele besluit om al dan niet te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        141.38,
+        517.51,
+        152.42
+      ],
+      "text": "voldoen aan het inzageverzoek van een betrokkene. Het betreft een besluit in de zin van de Awb, (zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        154.82,
+        512.0,
+        165.86
+      ],
+      "text": "ook art. 34 UAVG), en staat daarom open voor bezwaar (zie ook formats op DWU). De kopie van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        168.26,
+        514.38,
+        179.3
+      ],
+      "text": "besluit dient te worden opgeslagen in EA. Het is van belang dat het organisatieonderdeel vaststelt of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        181.7,
+        502.72,
+        192.74
+      ],
+      "text": "duidelijk is waar betrokkene inzage in wenst (is het verzoek voldoende duidelijk en gespecifieerd).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        208.46,
+        222.91,
+        219.5
+      ],
+      "text": "4.2 Uitgangspunten inzageverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        235.55,
+        515.17,
+        245.51
+      ],
+      "text": "Opmerking vooraf: onderstaande informatie in paragraaf 4.2 en 4.3 is in algemene zin in het register van verwerkingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        247.79,
+        419.87,
+        257.75
+      ],
+      "text": "en in de privacyverklaring opgenomen en kan door het organisatieonderdeel gebruikt worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        421.54,
+        248.51,
+        493.69,
+        257.51
+      ],
+      "text": "als bouwsteen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        150.17,
+        260.03,
+        464.05,
+        269.99
+      ],
+      "text": "klant. JZ kan ondersteunen bij de precieze invulling van het verzoek. Daarnaast zal het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        260.75,
+        148.13,
+        269.75
+      ],
+      "text": "brief/brieven naar de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        272.3,
+        514.91,
+        282.26
+      ],
+      "text": "organisatieonderdeel dit onderdeel ook nader moeten uitwerken in de eigen werkinstructie. BG kan samen met JZ hierop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        284.42,
+        390.82,
+        294.38
+      ],
+      "text": "meekijken. Paragraaf 4.4 beschrijft de belangrijkste uitgangspunten die UWV hanteert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        308.93,
+        519.21,
+        319.97
+      ],
+      "text": "Naast het feit dat de betrokkene de mogelijkheid moet worden gegeven om zijn of haar persoonsgegevens in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        322.37,
+        460.6,
+        333.41
+      ],
+      "text": "te zien, moet UWV ook in staat zijn desgevraagd de volgende informatie daarbij te verstrekken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        336.03,
+        93.9,
+        347.07
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        336.41,
+        250.9,
+        347.45
+      ],
+      "text": "de doeleinden voor de verwerking,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        349.95,
+        93.9,
+        360.99
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        350.33,
+        355.07,
+        361.37
+      ],
+      "text": "de categorieën van persoonsgegevens die worden verwerkt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        363.99,
+        93.9,
+        375.03
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        364.37,
+        399.03,
+        375.41
+      ],
+      "text": "de bewaartermijn die voor de desbetreffende persoonsgegevens geldt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        378.03,
+        93.9,
+        389.07
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        378.41,
+        492.61,
+        389.45
+      ],
+      "text": "de rechten die de betrokkene heeft (correctie, verwijdering, stilleggen, bezwaar maken, klacht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        391.85,
+        173.99,
+        402.89
+      ],
+      "text": "indienen bij AP).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        418.73,
+        452.53,
+        429.77
+      ],
+      "text": "In bepaalde gevallen moet ook nog aanvullende informatie worden verstrekt. Dit is het geval:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        432.27,
+        93.9,
+        443.31
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        432.65,
+        498.64,
+        443.69
+      ],
+      "text": "indien de persoonsgegevens zijn of worden verstrekt aan andere organisaties of instellingen, de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        446.09,
+        370.97,
+        457.13
+      ],
+      "text": "namen van deze organisaties of de categorieën van organisaties,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        459.77,
+        93.9,
+        470.81
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        460.15,
+        490.72,
+        471.19
+      ],
+      "text": "indien de persoonsgegevens afkomstig van een andere organisatie of instelling zijn, van welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        473.59,
+        396.05,
+        484.63
+      ],
+      "text": "organisatie of instelling die persoonsgegevens afkomstig zijn (de bron),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        487.25,
+        93.9,
+        498.29
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        487.63,
+        500.23,
+        498.67
+      ],
+      "text": "indien de persoonsgegevens worden verwerkt in een proces waarin gebruik wordt gemaakt van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        501.07,
+        510.96,
+        512.11
+      ],
+      "text": "volledig geautomatiseerde besluitvorming, de onderliggende logica van dat proces en de gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        514.51,
+        190.05,
+        525.55
+      ],
+      "text": "voor de betrokkene,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        528.05,
+        93.9,
+        539.09
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        528.43,
+        503.11,
+        539.47
+      ],
+      "text": "indien de persoonsgegevens worden verstrekt aan een organisatie of instelling in een derde land",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        541.87,
+        433.69,
+        552.91
+      ],
+      "text": "buiten de EU, op grond van welke verdragsbepaling deze gegevens zijn vertrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        568.75,
+        191.03,
+        579.79
+      ],
+      "text": "4.3 Afbakening inzagerecht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        582.19,
+        518.34,
+        593.23
+      ],
+      "text": "De AVG (art. 15 lid 3) geeft recht op verstrekking van een kopie van de persoonsgegevens die worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        595.63,
+        495.88,
+        606.67
+      ],
+      "text": "verwerkt. Het inzagerecht is echter geen absoluut recht. De volgende kaders bieden houvast om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        609.07,
+        386.85,
+        620.11
+      ],
+      "text": "concreet invulling te geven aan het verzoek tot inzage. Het inzagerecht:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        636.05,
+        93.9,
+        647.09
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        636.43,
+        346.9,
+        647.47
+      ],
+      "text": "kan slechts door de betrokkenen worden uitgeoefend;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        650.12,
+        93.9,
+        661.16
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        650.5,
+        290.57,
+        661.54
+      ],
+      "text": "beperkt zich tot eigen persoonsgegevens;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        664.16,
+        93.9,
+        675.2
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        664.54,
+        522.96,
+        675.58
+      ],
+      "text": "is niet absoluut omdat er uitzonderingsgronden van toepassing kunnen zijn (zie art. 23 AVG en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        677.98,
+        170.61,
+        689.02
+      ],
+      "text": "art. 41 UAVG);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        691.64,
+        93.9,
+        702.68
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        692.02,
+        489.35,
+        703.06
+      ],
+      "text": "geeft niet automatisch recht op inzage van alle documenten waarin persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        705.46,
+        160.15,
+        716.5
+      ],
+      "text": "voorkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        732.22,
+        509.95,
+        743.26
+      ],
+      "text": "Inzage kan geweigerd worden om de (privacy)rechten van anderen te beschermen. Bijvoorbeeld als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        745.66,
+        519.67,
+        756.7
+      ],
+      "text": "een familielid of buurvrouw een fraudemelding heeft ingediend en uit de melding zelf valt af te leiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        759.1,
+        521.54,
+        770.14
+      ],
+      "text": "wie het familielid is. Om dit familielid te beschermen kan besloten worden om geen inzage te geven in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        72.96,
+        505.62,
+        84.0
+      ],
+      "text": "de inhoud van de melding, ondanks dat in de melding persoonsgegevens van de betrokkene staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        86.42,
+        517.72,
+        97.46
+      ],
+      "text": "Ook kan inzage geweigerd worden als dat noodzakelijk is voor de openbare veiligheid of om strafbare",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        99.86,
+        512.48,
+        110.9
+      ],
+      "text": "feiten te voorkomen of op te sporen, bijvoorbeeld bij handhaving. Elk organisatieonderdeel zal in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        113.3,
+        447.07,
+        124.34
+      ],
+      "text": "eigen werkinstructie moeten vaststellen of een uitzonderingsgrond van toepassing is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        140.18,
+        353.35,
+        151.22
+      ],
+      "text": "4.4 Standpunt UWV: verstrekken kopieën van dossierstukken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        153.62,
+        512.53,
+        164.66
+      ],
+      "text": "Een belangrijk punt betreft de vraag hoe UWV praktisch invulling geeft aan een inzageverzoek. UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        167.06,
+        499.83,
+        178.1
+      ],
+      "text": "kiest ervoor om bij een inzageverzoek kopieën van dossierstukken te verstrekken aan betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        180.38,
+        517.21,
+        191.42
+      ],
+      "text": "waarin de persoonsgegevens van betrokkene zijn opgenomen. Wordt aldus inzage verlangd op grond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        193.82,
+        444.44,
+        204.86
+      ],
+      "text": "van de AVG, dan kan UWV allicht volstaan met verstrekking van een overzicht van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        207.26,
+        513.17,
+        218.3
+      ],
+      "text": "persoonsgegevens die over de betrokkene worden verwerkt, maar kiest UWV desalniettemin ervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        220.7,
+        349.93,
+        231.74
+      ],
+      "text": "om kopieën van dossierstukken te verschaffen aan betrokkene.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        247.58,
+        491.21,
+        258.62
+      ],
+      "text": "Strikt genomen vereist de AVG de inzage in de persoonsgegevens en zou een overzicht daarvan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        261.02,
+        517.69,
+        272.06
+      ],
+      "text": "(voorzien van doel van verwerking, duur van verwerking en bewaartermijn) volstaan. De praktijk wijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        274.49,
+        519.94,
+        285.53
+      ],
+      "text": "echter uit dat het klanten meestal om inzage in stukken is te doen. Door daar aan tegemoet te komen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        287.93,
+        461.77,
+        298.97
+      ],
+      "text": "wordt voorkomen dat de klant vervolgens via andere weg daar alsnog om vraagt (daarbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        301.37,
+        480.4,
+        312.41
+      ],
+      "text": "rekeninghoudend met de Wet Open Overheid, die waarschijnlijk per 2023 van kracht wordt).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        314.69,
+        523.81,
+        325.73
+      ],
+      "text": "Daarnaast is het voor een aantal organisatieonderdelen makkelijker om inzage in stukken te geven dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        328.13,
+        208.27,
+        339.17
+      ],
+      "text": "een overzicht samen te stellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        355.01,
+        384.18,
+        366.05
+      ],
+      "text": "De volgende uitgangspunten moeten daarbij in acht worden genomen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        368.67,
+        93.9,
+        379.71
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        369.05,
+        514.11,
+        380.09
+      ],
+      "text": "Het verstrekken van kopieën van dossierstukken ziet op alleen zichzelf staande documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        382.49,
+        485.1,
+        393.53
+      ],
+      "text": "Een volledige uitdraai van emailverkeer of van de applicatie K3CR maakt daarom geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        395.93,
+        514.62,
+        406.97
+      ],
+      "text": "onderdeel uit van een inzageverzoek. Dit betreft een onevenredige inspanning voor UWV. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        409.37,
+        518.91,
+        420.41
+      ],
+      "text": "dit soort situaties kan worden volstaan met een overzicht van de contactmomenten, tenzij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        422.81,
+        451.48,
+        433.85
+      ],
+      "text": "klant aangeeft van een specifiek telefoongesprek de vastlegging te willen zien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        436.35,
+        93.9,
+        447.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        436.73,
+        519.27,
+        447.77
+      ],
+      "text": "Het inzagerecht ziet niet op het overleggen van kopieën van interne notities/correspondentie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        450.17,
+        522.2,
+        461.21
+      ],
+      "text": "die de persoonlijke gedachten van de medewerkers van UWV bevatten en uitsluitend bedoeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        463.63,
+        510.54,
+        474.67
+      ],
+      "text": "zijn voor intern overleg en beraad. Met andere woorden, er bestaat geen recht op inzage in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        477.07,
+        506.77,
+        488.11
+      ],
+      "text": "interne instructies en aantekeningen van medewerkers in het dossier. Deze stukken zijn bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        490.51,
+        312.48,
+        501.55
+      ],
+      "text": "uitstek bedoeld voor intern overleg en beraad.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        504.17,
+        93.9,
+        515.21
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        504.55,
+        521.36,
+        515.59
+      ],
+      "text": "Van belang is dat de betrokkene op grond van de AVG alleen recht heeft op inzage in de eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        517.99,
+        523.6,
+        529.03
+      ],
+      "text": "persoonsgegevens. In dossiers en documenten staan soms ook persoonsgegevens van derden,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        531.31,
+        523.41,
+        542.35
+      ],
+      "text": "zoals familieleden of medewerkers van UWV. Deze gegevens vallen niet onder het inzagerecht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        544.75,
+        492.67,
+        555.79
+      ],
+      "text": "en dienen daarom afgelakt te worden door het organisatieonderdeel dat het verzoek in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        558.19,
+        509.68,
+        569.23
+      ],
+      "text": "behandeling heeft genomen. Uitzondering hierop is de naam van de medewerker van UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        571.63,
+        520.56,
+        582.67
+      ],
+      "text": "met wie de klant reeds contact onderhoudt (zoals de adviseur Werk of de AD) aangezien deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        585.07,
+        258.34,
+        596.11
+      ],
+      "text": "naam al bij hem of haar bekend is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        598.73,
+        93.9,
+        609.77
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        599.11,
+        518.38,
+        610.15
+      ],
+      "text": "Als de gevraagde gegevens afkomstig zijn van UWV hoeft geen inspanning te worden verricht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        612.55,
+        472.58,
+        623.59
+      ],
+      "text": "indien de informatie voor betrokkene te vinden is op websites en in portalen (denk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        625.99,
+        492.73,
+        637.03
+      ],
+      "text": "bijvoorbeeld aan de Werkmap). In het laatste geval moet wel worden aangegeven waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        639.43,
+        282.81,
+        650.47
+      ],
+      "text": "verzoeker die gegevens dan kan vinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        653.0,
+        93.9,
+        664.04
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        653.38,
+        518.74,
+        664.42
+      ],
+      "text": "Loggegevens of IP-adressen vormen geen onderdeel van het inzagerecht, omdat loggegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        666.82,
+        486.42,
+        677.86
+      ],
+      "text": "meestal geen persoonsgegevens van de betrokkene zijn. Loggegevens worden primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        680.26,
+        492.02,
+        691.3
+      ],
+      "text": "verzameld in het kader van de beveiliging van persoonsgegevens. Uitzondering op deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        693.7,
+        370.44,
+        704.74
+      ],
+      "text": "hoofdregel in van toepassing bij de volgende twee gevallen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.82,
+        706.46,
+        131.44,
+        717.5
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.82,
+        707.14,
+        486.87,
+        718.18
+      ],
+      "text": "Bureau Integriteit: soms kunnen loggegevens wel informatie bevatten over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.82,
+        720.58,
+        523.66,
+        731.62
+      ],
+      "text": "betrokkene, bijvoorbeeld als sprake is geweest van misbruik van de persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.82,
+        734.02,
+        510.82,
+        745.06
+      ],
+      "text": "(denk bijvoorbeeld aan een integriteitskwestie), maar dan zal Bureau Integriteit zelf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.82,
+        747.46,
+        257.23,
+        758.5
+      ],
+      "text": "een onderzoek opstarten;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        124.82,
+        72.28,
+        131.44,
+        83.32
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        142.82,
+        72.96,
+        512.55,
+        84.0
+      ],
+      "text": "SMZ: in het geval van gegevens waarop het medisch beroepsgeheim van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        142.82,
+        86.42,
+        520.59,
+        97.46
+      ],
+      "text": "is, zegt het mogelijk ook iets over de persoon waarvan deze gegevens zijn, namelijk of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        142.82,
+        99.86,
+        484.89,
+        110.9
+      ],
+      "text": "zijn of haar medisch beroepsgeheim in acht wordt genomen. Daarom hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        142.82,
+        113.3,
+        520.78,
+        124.34
+      ],
+      "text": "patiënten het recht om te weten wie er in zijn of haar medisch dossier heeft gekeken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        108.5,
+        126.74,
+        500.77,
+        137.78
+      ],
+      "text": "Slotconclusie: indien er geen sprake is van een medisch dossier, dan is het standpunt van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        108.5,
+        140.18,
+        502.51,
+        151.22
+      ],
+      "text": "UWV dat de loggegevens geen persoonsgegevens van de klant bevatten en dus buiten de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        108.5,
+        153.62,
+        517.24,
+        164.66
+      ],
+      "text": "reikwijdte van het inzagerecht van de klant vallen. Het gaat immers om beveiligingsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        108.5,
+        167.06,
+        472.65,
+        178.1
+      ],
+      "text": "die iets zeggen over de bedrijfsvoering van UWV, maar niet de betrokkene betreft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.82,
+        180.6,
+        93.9,
+        191.64
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        180.98,
+        495.62,
+        192.02
+      ],
+      "text": "Alle gegevens die reeds zijn vernietigd of anderszins niet meer bestaan vallen buiten het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.82,
+        194.42,
+        160.97,
+        205.46
+      ],
+      "text": "inzagerecht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        221.3,
+        460.58,
+        232.34
+      ],
+      "text": "Indien meerdere organisatieonderdelen betrokken zijn bij het inzageverzoek bundelt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        234.74,
+        488.13,
+        245.78
+      ],
+      "text": "coördinerende organisatieonderdeel alle relevante stukken tot één stuk en draagt zorg voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        248.18,
+        251.49,
+        259.22
+      ],
+      "text": "verdere afhandeling richting betrokkene.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        275.09,
+        518.08,
+        286.13
+      ],
+      "text": "De contactpersoon tweede kring laat door een senior of stafmedewerker de verzamelde gegevens en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        288.53,
+        454.47,
+        299.57
+      ],
+      "text": "het besluit contoleren. Vervolgens legt de medewerker de inzagegegevens voor aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        301.85,
+        397.61,
+        312.89
+      ],
+      "text": "gemandateerde district/rayonmanager (gedelegeerde) ter ondertekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        312.58,
+        314.39,
+        361.8,
+        326.33
+      ],
+      "text": "verstuurd.3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        315.29,
+        310.22,
+        326.33
+      ],
+      "text": "De stukken worden in principe per aangetekende post",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        342.17,
+        221.93,
+        353.21
+      ],
+      "text": "4.5 Inzage op kantoor aanbieden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        355.61,
+        515.08,
+        366.65
+      ],
+      "text": "Het inzageverzoek kan op verzoek van betrokkene of UWV ook op kantoor worden afgehandeld. Betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        369.05,
+        495.57,
+        380.09
+      ],
+      "text": "krijgt ter plekke inzage in zijn persoonsgegevens van het dossier. Wel moet geborgd worden dat geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        382.49,
+        482.16,
+        393.53
+      ],
+      "text": "inzage wordt gegeven in gegevens van derden of medewerkers van UWV. Daarom wordt niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        395.93,
+        511.71,
+        406.97
+      ],
+      "text": "aangeraden om op kantoor een scherm te delen met een klant om de stukken in het dossier digitaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        409.37,
+        496.53,
+        420.41
+      ],
+      "text": "door te nemen, maar een papieren versie (afgelakt waar nodig) van het dossier ter plekke aan te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        422.81,
+        103.99,
+        433.85
+      ],
+      "text": "bieden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        449.57,
+        502.57,
+        460.61
+      ],
+      "text": "Indien meerdere organisatieonderdelen betrokken zijn bij het inzageverzoek faciliteert het coördinerende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        463.03,
+        515.81,
+        474.07
+      ],
+      "text": "organisatieonderdeel het verzoek op het desbetreffende kantoor. Ook behoort tot de mogelijkheden dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        476.47,
+        330.12,
+        487.51
+      ],
+      "text": "verzoek deels op kantoor wordt afgehandeld en deels per post.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        503.35,
+        195.62,
+        514.39
+      ],
+      "text": "4.6 Aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        516.79,
+        503.71,
+        527.83
+      ],
+      "text": "UWV kent verder een aantal beleidsstukken die gaan over het inzagerecht. Het UWV Beleidskader Privacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        530.23,
+        518.82,
+        541.27
+      ],
+      "text": "behandelt ook het inzagerecht. Daarnaast heeft UWV de kaders van het inzage- en correctierecht vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        543.67,
+        282.56,
+        554.71
+      ],
+      "text": "in de Regeling inzage- en correctierecht UWV 2018.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        570.43,
+        524.11,
+        581.47
+      ],
+      "text": "Daarnaast is op DWU een pagina met overzichtelijke informatie over het inzage- en correctierecht beschikbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        583.87,
+        498.36,
+        594.91
+      ],
+      "text": "en zijn er voor de medewerkers van UWV procedures en instructies opgesteld over de wijze waarop een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        597.31,
+        517.72,
+        608.35
+      ],
+      "text": "verzoek om inzage of correctie moet worden behandeld. Zie DWU Handboek ‘proces informatie verstrekken’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        610.75,
+        249.84,
+        621.79
+      ],
+      "text": "onderdeel ‘behandelen verzoek om inzage’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        637.63,
+        515.69,
+        648.67
+      ],
+      "text": "Voor twee type inzageverzoeken gelden eigen kaders. Uit de Regeling inzage- en correctierecht volgt dat een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        651.1,
+        512.41,
+        662.14
+      ],
+      "text": "verzoek om inzage in gegevens uit een medisch dossier wordt doorgezonden naar het betrokken onderdeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        664.54,
+        491.46,
+        675.58
+      ],
+      "text": "van Sociaal Medische Zaken (SMZ) en beoordeeld door de verzekeringsarts op grond van de WGBO en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        677.98,
+        471.08,
+        689.02
+      ],
+      "text": "krachtens de aanwijzingen van de Richtlijn Beheer medische gegevens vallend onder het medisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        691.3,
+        236.76,
+        702.34
+      ],
+      "text": "beroepsgeheim van de verzekeringsarts.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        704.74,
+        486.29,
+        715.78
+      ],
+      "text": "Een verzoek om inzage in gegevens uit een handhavingsdossier wordt doorgezonden naar de directie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        718.18,
+        445.78,
+        729.22
+      ],
+      "text": "Handhaving (DHH) die deze beoordeelt volgens de instructie DHH Inzage-en correctierecht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        761.68,
+        73.87,
+        767.68
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        75.86,
+        761.95,
+        517.65,
+        770.95
+      ],
+      "text": "Er wordt onderzocht of de stukken in de nabije toekomst ook digitaal verstrekt kunnen worden (zie ook art. 15 lid 3 AVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        87.11,
+        506.79,
+        97.07
+      ],
+      "text": "4.1 De UWV-medewerker verzamelt de opgevraagde gegevens ('hoe' bepalen de bedrijfsonderdelen zelf).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        100.07,
+        497.92,
+        110.03
+      ],
+      "text": "4.2 De UWV-medewerker lakt de gegevens van derde weg wanneer het specifieke documenten betreft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        112.31,
+        290.65,
+        122.27
+      ],
+      "text": "Hiervoor kan een weglakinstructie worden gebruikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        137.51,
+        457.54,
+        147.47
+      ],
+      "text": "4.3 De UWV-medewerker bundelt de gegevens voor verzending als er sprake is van meerdere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        149.63,
+        161.3,
+        159.59
+      ],
+      "text": "bedrijfsonderdelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        162.59,
+        505.59,
+        172.55
+      ],
+      "text": "4.4 De UWV-medewerker laat door een senior of stafmedewerker de verzamelde gegevens en het besluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        174.83,
+        128.53,
+        184.79
+      ],
+      "text": "contoleren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        187.79,
+        494.79,
+        197.75
+      ],
+      "text": "4.5 De UWV-medewerker legt de inzage gegevens voor aan de gemandateerde district-/rayonmanager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        200.03,
+        220.89,
+        209.99
+      ],
+      "text": "(gedelegeerde) ter ondertekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        212.99,
+        463.26,
+        222.95
+      ],
+      "text": "4.6. De UWV-medewerker verstuurt het besluit en de verzamelde gegevens naar de burger per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        225.23,
+        161.68,
+        235.19
+      ],
+      "text": "aangetekende post.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        238.07,
+        502.83,
+        248.03
+      ],
+      "text": "4.7 De UWV-medewerker stuurt een e-mail naar de medewerker van het IB&P-team (divisie), met daarin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        250.31,
+        500.46,
+        260.27
+      ],
+      "text": "aangegeven dat aan het verzoek is voldoen en dat de stukken zijn opgeslagen in het Elektronisch Archief",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        82.1,
+        262.55,
+        101.06,
+        272.51
+      ],
+      "text": "(EA).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        287.78,
+        497.58,
+        297.74
+      ],
+      "text": "4.8 De UWV-medewerker archiveert de brieven en de verzamelende kopie inzageverzoek (check bij DIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        299.9,
+        281.66,
+        309.86
+      ],
+      "text": "moet nog volgen) in het Elektronisch Archief (EA).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        338.81,
+        223.3,
+        350.81
+      ],
+      "text": "Stap 5: Terugkoppeling aan BG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        353.21,
+        506.66,
+        364.25
+      ],
+      "text": "Het organisatieonderdeel informeert BG wanneer een reactie naar betrokkene is verstuurd of wanneer de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        366.65,
+        506.05,
+        377.69
+      ],
+      "text": "verwachting is dat niet tijdig aan het verzoek kan worden voldaan. Dit in verband met het bewaken van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        380.09,
+        508.57,
+        391.13
+      ],
+      "text": "afhandeltermijn. BG registreert verder de afhandeling van het verzoek en kan verder EA raadplegen als het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        393.53,
+        295.69,
+        404.57
+      ],
+      "text": "gaat om de brieven die naar betrokkene zijn verstuurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        434.3,
+        93.39,
+        443.3
+      ],
+      "text": "5.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        162.02,
+        434.54,
+        489.14,
+        444.5
+      ],
+      "text": "De medewerker Bureau Gegevensbescherming mailt de contactpersonen over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        445.22,
+        138.38,
+        454.22
+      ],
+      "text": "Terugkoppeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        162.02,
+        446.66,
+        516.69,
+        456.62
+      ],
+      "text": "afhandeling verzoek en vraagt hierin om terugkoppeling wanneer de stukken, waarom is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.1,
+        456.26,
+        107.79,
+        465.26
+      ],
+      "text": "aan BG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        162.02,
+        458.92,
+        327.87,
+        468.88
+      ],
+      "text": "verzocht, zijn opgestuurd naar de burger.",
+      "source": "text"
+    }
+  ]
+}

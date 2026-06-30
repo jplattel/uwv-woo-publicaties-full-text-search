@@ -1,0 +1,5849 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-74-claim-2018-juli-rapport-onderzoek-bkv",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-74-claim-2018-juli-rapport-onderzoek-bkv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/749fabc0-26b0-44c8-a364-6289b4101146/bijlage-74-claim-2018-juli-rapport-onderzoek-bkv.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 74 Claim 2018 juli rapport onderzoek BKV (PDF, 341 kB)",
+  "retrieved_at": "2026-06-30T14:22:50+00:00",
+  "sha256": "68e8edbd62203a025f5a383c8860fa18f7047167a66cde133620d19e98acbdbe",
+  "page_count": 14,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        221.93,
+        270.46,
+        386.86,
+        282.46
+      ],
+      "text": "Rapport onderzoek BKV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        171.41,
+        299.34,
+        437.61,
+        310.38
+      ],
+      "text": "Onderzoek naar de ingangsdatum WIA bij een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        251.93,
+        312.78,
+        357.11,
+        323.82
+      ],
+      "text": "bekortingsverzoek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        177.05,
+        465.25,
+        230.54,
+        474.25
+      ],
+      "text": "SMZ-BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.05,
+        486.25,
+        223.29,
+        495.25
+      ],
+      "text": "Juli 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        72.97,
+        126.53,
+        84.01
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        98.24,
+        518.48,
+        107.24
+      ],
+      "text": "Om het recht op een WIA-uitkering vast te stellen, dient er door de (ex-)werknemer een aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        109.16,
+        519.43,
+        118.16
+      ],
+      "text": "te worden gedaan bij het UWV. Bij deze aanvraag hoort een volledig re-integratieverslag. Dit geldt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        120.08,
+        454.89,
+        129.08
+      ],
+      "text": "voor de mensen die een aanvraag doen met een werkgever of een ex-werkgever die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        131.0,
+        247.29,
+        140.0
+      ],
+      "text": "eigenrisicodrager is voor de Ziektewet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        347.1,
+        151.38,
+        411.44,
+        161.96
+      ],
+      "text": "tekortkoming1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        152.96,
+        440.42,
+        161.96
+      ],
+      "text": "UWV toetst dit re-integratieverslag. Als er sprake is van een wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        163.88,
+        255.33,
+        172.88
+      ],
+      "text": "een loonsanctie opgelegd van 52 weken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        185.72,
+        285.34,
+        194.72
+      ],
+      "text": "Een loonsanctie wordt om 2 redenen opgelegd;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        196.64,
+        507.54,
+        205.64
+      ],
+      "text": "De werkgever heeft nadat wij hebben gevraagd (omdat de werknemer niet kan leveren)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        196.72,
+        92.96,
+        205.72
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        207.56,
+        519.41,
+        216.56
+      ],
+      "text": "het re-integratieverslag te completeren, niet tijdig de gevraagde stukken ingestuurd. Dit is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        218.6,
+        253.76,
+        227.6
+      ],
+      "text": "een administratieve loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        229.52,
+        519.73,
+        238.52
+      ],
+      "text": "De werkgever heeft onvoldoende gedaan aan inspanningen verricht ten aanzien van de re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        229.6,
+        92.96,
+        238.6
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        240.44,
+        428.42,
+        249.44
+      ],
+      "text": "integratie van zijn (ex-) werknemer. Dit is de inhoudelijke loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        262.28,
+        520.43,
+        271.28
+      ],
+      "text": "De werkgever heeft de mogelijkheid om deze periode van 52 weken te bekorten. Hiervoor dient de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        273.2,
+        522.12,
+        282.2
+      ],
+      "text": "werkgever bij een administratieve loonsanctie de ontbrekende stukken van het re-integratieverslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        284.15,
+        479.79,
+        293.15
+      ],
+      "text": "in te dienen of bij een inhoudelijke loonsanctie een bekortingsverzoek indienen waarbij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        295.19,
+        450.98,
+        304.19
+      ],
+      "text": "werkgever gemotiveerd aangeeft dat hij al dan niet de tekortkoming heeft hersteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        306.11,
+        490.62,
+        315.11
+      ],
+      "text": "Het UWV toetst of de tekortkoming voldoende is hersteld; zo ja dan beslist het UWV over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        317.03,
+        238.77,
+        326.03
+      ],
+      "text": "bekorting van de loonsanctieperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        338.87,
+        518.87,
+        347.87
+      ],
+      "text": "De beslissing op een bekortingsverzoek (BKV) dient binnen 3 weken na ontvangst van het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        349.79,
+        169.55,
+        358.79
+      ],
+      "text": "te worden afgegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        360.71,
+        498.87,
+        369.71
+      ],
+      "text": "Als de positieve beschikking wordt afgegeven eindigt de loonsanctie in principe 6 weken na de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        371.75,
+        192.86,
+        380.75
+      ],
+      "text": "datum van de beschikking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        393.59,
+        117.79,
+        402.59
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        404.51,
+        502.86,
+        413.51
+      ],
+      "text": "In eerdere onderzoeken waarbij de BKV geen centrale rol speelde is ons opgevallen dat met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        415.43,
+        515.44,
+        424.43
+      ],
+      "text": "BKV niet altijd goed werd omgegaan. Daarom bestond bij BC&K het vermoeden dat de einddatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        426.35,
+        475.31,
+        435.35
+      ],
+      "text": "van de loonsanctie, en dus ook de ingangsdatum van de WIA-uitkering, niet altijd juist is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        437.39,
+        390.09,
+        446.39
+      ],
+      "text": "vastgesteld. Om deze reden is op dit aspect nader onderzoek verricht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        470.36,
+        232.91,
+        481.4
+      ],
+      "text": "Vraagstelling en conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        495.49,
+        319.04,
+        504.49
+      ],
+      "text": "De primaire vraagstelling van het dossieronderzoek is:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        132.49,
+        516.59,
+        141.84,
+        527.17
+      ],
+      "text": "1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        518.17,
+        429.49,
+        527.17
+      ],
+      "text": "- Is de WIA dag na het herstel van de tekortkoming juist vastgesteld?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        540.61,
+        509.38,
+        549.61
+      ],
+      "text": "Uit het onderzoek is gebleken dat in 72 van de 155 gevallen (46%) de ingangsdatum van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        553.33,
+        254.83,
+        562.33
+      ],
+      "text": "WIA-uitkering correct is vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        575.89,
+        207.77,
+        584.89
+      ],
+      "text": "Afgeleide vraagstelling is nog:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        598.45,
+        479.58,
+        607.45
+      ],
+      "text": "- Als het BKV niet binnen 3 weken is afgerond, is hiervoor een reden aan te wijzen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        621.01,
+        520.5,
+        630.01
+      ],
+      "text": "Er is binnen dit onderzoek geen duidelijk aanwijsbare reden waarom in 88 van de 155 gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        631.93,
+        309.51,
+        640.93
+      ],
+      "text": "(57%) het BKV niet binnen 3 weken is afgerond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        653.8,
+        516.26,
+        662.8
+      ],
+      "text": "In dit rapport kunt u verder lezen hoe het onderzoek is opgezet, de oorza(a)k(en) van de onjuiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        664.84,
+        492.23,
+        673.84
+      ],
+      "text": "vaststelling van de einddatum van de loonsanctie, en dus ook de ingangsdatum van de WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        675.76,
+        433.39,
+        684.76
+      ],
+      "text": "uitkering. Tot slot zijn er nog een aantal bevindingen opgenomen in dit rapport.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        750.9,
+        74.03,
+        755.94
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        76.94,
+        752.0,
+        244.76,
+        760.04
+      ],
+      "text": "Handboek W&R reparatie tekortkomingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        72.97,
+        178.08,
+        84.01
+      ],
+      "text": "Onderzoeksopzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        98.24,
+        512.2,
+        107.24
+      ],
+      "text": "In de periode van 1 januari 2017 tot 1 april 2018 zijn door SMZ 1586 gevallen, met het resultaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        109.16,
+        505.22,
+        118.16
+      ],
+      "text": "BKV gehonoreerd, in SPM geregistreerd. Hier heeft BC&K een aselecte steekproef genomen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        120.08,
+        132.16,
+        129.08
+      ],
+      "text": "157 gevallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        141.92,
+        521.04,
+        150.92
+      ],
+      "text": "Van de 157 gevallen uit de steekproef vielen er twee af vanwege het niet-reproduceerbaar zijn van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        152.96,
+        216.99,
+        161.96
+      ],
+      "text": "essentiële documenten in EAED.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        174.8,
+        434.56,
+        183.8
+      ],
+      "text": "Uiteindelijk kwamen dus 155 gevallen in aanmerking voor een toets door BC&K.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        196.64,
+        521.0,
+        205.64
+      ],
+      "text": "Deze 155 gevallen zijn door de auditoren procesbegeleider (PB) afgezet tegen het vigerende beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        207.56,
+        430.1,
+        216.56
+      ],
+      "text": "(bijlage 1) met betrekking tot de ingangsdatum WIA na een goedgekeurd BKV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        240.63,
+        285.99,
+        251.67
+      ],
+      "text": "Resultaten onderzoek en conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        265.76,
+        213.74,
+        274.76
+      ],
+      "text": "Ingangsdatum WIA na een BKV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        288.35,
+        517.81,
+        297.35
+      ],
+      "text": "Uit het onderzoek is gebleken dat in 72 van de 155 gevallen (46%) de ingangsdatum van de WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        299.39,
+        213.97,
+        308.39
+      ],
+      "text": "uitkering correct is vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        321.23,
+        520.53,
+        330.23
+      ],
+      "text": "Voor de 83 van de 155 gevallen (54%) waarbij de ingangsdatum van de WIA-uitkering niet correct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        332.15,
+        353.27,
+        341.15
+      ],
+      "text": "is vastgesteld, zijn er diverse redenen aan te wijzen (tabel 1).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        353.79,
+        103.49,
+        361.83
+      ],
+      "text": "Tabel 1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        364.79,
+        325.95,
+        373.79
+      ],
+      "text": "Redenen ingangsdatum WIA-uitkering niet correct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        375.71,
+        128.21,
+        384.71
+      ],
+      "text": "vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        468.82,
+        376.71,
+        493.97,
+        384.75
+      ],
+      "text": "N=83",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        387.95,
+        493.98,
+        396.95
+      ],
+      "text": "1. Geen rekening gehouden met een niet tijdige beschikking 37 45%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        400.19,
+        493.98,
+        409.19
+      ],
+      "text": "2. Eén dag verschil 34 41%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        412.43,
+        493.98,
+        421.43
+      ],
+      "text": "3. Datum ontvangst BKV niet correct toegepast 7 8%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        424.67,
+        493.98,
+        433.67
+      ],
+      "text": "4. Geen sprake meer van loondoorbetalingsverplichting 3 4%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        436.91,
+        493.98,
+        445.91
+      ],
+      "text": "5. Ten onrechte loonsanctie ingetrokken 1 1%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        449.99,
+        493.98,
+        458.99
+      ],
+      "text": "6. Uitgegaan van 9 weken na BKV 1 1%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        462.95,
+        493.83,
+        471.95
+      ],
+      "text": "Totaal 83 100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        485.89,
+        123.95,
+        494.89
+      ],
+      "text": "Toelichting:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        507.73,
+        475.81,
+        516.73
+      ],
+      "text": "Ad 1: De meest voorkomende reden is dat men geen rekening houdt met een niet tijdige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        518.65,
+        460.6,
+        527.65
+      ],
+      "text": "beschikking loonsanctie en/of beschikking naar aanleiding van het bekortingsverzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        540.49,
+        498.52,
+        549.49
+      ],
+      "text": "Als de positieve beschikking wordt afgegeven eindigt de loonsanctie in principe 6 weken na de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        551.41,
+        192.85,
+        560.41
+      ],
+      "text": "datum van de beschikking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        573.37,
+        388.74,
+        582.37
+      ],
+      "text": "Er zijn 2 redenen om de periode van 6 weken in duur te verminderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        595.21,
+        476.56,
+        604.21
+      ],
+      "text": "- Ten eerste een niet tijdig besluit over de loonsanctie, deze dient 6 weken vóór de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        606.13,
+        345.04,
+        615.13
+      ],
+      "text": "oorspronkelijke ingangsdatum WIA te zijn genomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.82,
+        617.05,
+        494.53,
+        626.05
+      ],
+      "text": "- Ten tweede een niet tijdig besluit bij een “bekortingsverzoek” hiervoor geldt dat deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        627.97,
+        255.79,
+        636.97
+      ],
+      "text": "binnen 3 weken wordt genomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        649.93,
+        489.01,
+        658.93
+      ],
+      "text": "Het aantal dagen dat het UWV te laat beslist (cumulatief) moet van de periode van 6 weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        660.88,
+        511.46,
+        669.88
+      ],
+      "text": "worden afgetrokken. Dit bepaalt de uiteindelijke duur van de loonsanctie en daarmee dus ook de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        671.8,
+        238.14,
+        680.8
+      ],
+      "text": "ingangsdatum van de WIA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        72.78,
+        494.7,
+        81.78
+      ],
+      "text": "Ad 2: Het begrip “binnen de termijn” dat UWV moet beslissen, wordt verschillend gehanteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        83.82,
+        485.69,
+        92.82
+      ],
+      "text": "evenals de datum “tot” en “tot en met” de datum dat de werkgever moet betalen. Hierdoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        94.76,
+        412.5,
+        103.76
+      ],
+      "text": "ontstaat er vaak een verschil van één dag waarop de WIA-uitkering ingaat.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        230.52,
+        115.02,
+        264.15,
+        125.6
+      ],
+      "text": "(W&R)2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        116.6,
+        515.1,
+        125.6
+      ],
+      "text": "Het handboek Wet en Regelgeving geeft aan dat de beslistermijn van 3 weken gaat tellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        127.52,
+        454.23,
+        136.52
+      ],
+      "text": "op het moment van ontvangen van het verzoek (sluit aan bij de termijn in de AWB).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        374.62,
+        136.86,
+        389.93,
+        147.44
+      ],
+      "text": "22e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        138.44,
+        515.67,
+        147.44
+      ],
+      "text": "Als men moet besluiten binnen een termijn van 3 weken dan is de dag na het verzoek te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        160.4,
+        524.11,
+        169.4
+      ],
+      "text": "Het is ons opgevallen dat voor het berekenen van de einddatum van de loonsanctie in de uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        171.32,
+        510.6,
+        180.32
+      ],
+      "text": "verschillende hulpmiddelen van verschillende kantoren (rekentools) worden gebruikt. Enkele van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        182.24,
+        514.37,
+        191.24
+      ],
+      "text": "deze hulpmiddelen gaan uit van 3 weken na het BKV. Dit is in tegenspraak met de beschrijving in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        193.16,
+        160.83,
+        202.16
+      ],
+      "text": "het handboek W&R.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        215.0,
+        120.33,
+        224.0
+      ],
+      "text": "Voorbeeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        225.84,
+        498.6,
+        233.88
+      ],
+      "text": "Als een BKV wordt ontvangen op 1 januari 2018 dan moet de beschikking uiterlijk op 21 januari 2018 zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        395.2,
+        234.46,
+        471.22,
+        243.6
+      ],
+      "text": "1e 4e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        235.56,
+        497.67,
+        243.6
+      ],
+      "text": "verzonden. Als er op 22 januari 2018 wordt beslist is dit niet tijdig omdat dit de dag is van de week.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        256.4,
+        489.47,
+        265.4
+      ],
+      "text": "Ad 3: In 7 gevallen is men uitgegaan van een latere ontvangstdatum BKV dan de werkelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        267.32,
+        484.87,
+        276.32
+      ],
+      "text": "ontvangstdatum. Dit gebeurt voornamelijk als er meerdere poststempels op het ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        278.27,
+        146.82,
+        287.27
+      ],
+      "text": "document staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        300.11,
+        403.95,
+        309.11
+      ],
+      "text": "Ad 4: In 3 gevallen is klant hersteld. Er is dan geen sprake meer van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        311.03,
+        207.06,
+        320.03
+      ],
+      "text": "loondoorbetalingsverplichting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        332.99,
+        488.52,
+        341.99
+      ],
+      "text": "Ad 5: PB heeft ten onrechte vastgesteld dat de loonsanctie te laat was opgelegd en het BKV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        343.91,
+        141.36,
+        352.91
+      ],
+      "text": "terzijde gelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        365.75,
+        496.98,
+        374.75
+      ],
+      "text": "Ad 6: In 1 dossier is niet uitgegaan van 6 weken na de datum van de beschikking maar van 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        376.67,
+        224.73,
+        385.67
+      ],
+      "text": "weken na ontvangst van het BKV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        409.55,
+        159.9,
+        418.55
+      ],
+      "text": "Tijdigheid en intake",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        431.39,
+        508.11,
+        440.39
+      ],
+      "text": "Uit het onderzoek is gebleken dat in 67 van de 155 gevallen (43%) binnen 3 weken is beslist, in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        442.31,
+        514.19,
+        451.31
+      ],
+      "text": "tabel 2 zijn deze onderverdeeld naar administratieve- en inhoudelijke loonsancties. Omdat er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        453.23,
+        370.16,
+        462.23
+      ],
+      "text": "groot verschil is in tijdigheid hebben wij dit onderscheid gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        475.21,
+        502.48,
+        484.21
+      ],
+      "text": "Er is binnen dit onderzoek geen duidelijk aanwijsbare reden waarom in 88 van de 155 gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        486.13,
+        291.51,
+        495.13
+      ],
+      "text": "(57%) het BKV niet binnen 3 weken is afgerond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        507.77,
+        103.49,
+        515.81
+      ],
+      "text": "Tabel 2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.42,
+        519.25,
+        416.76,
+        528.25
+      ],
+      "text": "Soort sanctie Aantal < 3 weken beslist % tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.42,
+        532.21,
+        409.47,
+        541.21
+      ],
+      "text": "Administratief 100 38 38%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.42,
+        544.69,
+        409.47,
+        553.69
+      ],
+      "text": "Inhoudelijk 55 29 53%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.42,
+        557.65,
+        409.47,
+        566.65
+      ],
+      "text": "Totaal 155 67 43%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        580.57,
+        459.18,
+        589.57
+      ],
+      "text": "Voordat de PB een intake kan maken hebben we te maken met de afdeling DIV en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        591.49,
+        503.22,
+        600.49
+      ],
+      "text": "teamondersteuner. Daarom vinden de auditoren PB een termijn van 4 werkdagen een redelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        602.41,
+        247.25,
+        611.41
+      ],
+      "text": "termijn om te stellen dat deze tijdig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        624.25,
+        473.2,
+        633.25
+      ],
+      "text": "Wij constateren dat een tijdige intake na ontvangst van het verzoek of ontvangst van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        635.29,
+        513.09,
+        644.29
+      ],
+      "text": "ontbrekende stukken een positieve invloed heeft op de tijdigheid. De termijn voor dit proces, van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        646.21,
+        259.63,
+        655.21
+      ],
+      "text": "ontvangst tot beslissing is maar 3 weken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        762.06,
+        74.03,
+        767.1
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.94,
+        763.16,
+        243.05,
+        771.2
+      ],
+      "text": "Handboek W&R bepalen duur loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        72.78,
+        521.63,
+        81.78
+      ],
+      "text": "In tabel 3 staan de percentages weergegeven over de tijdigheid van de beslissing BKV ten opzichte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        83.82,
+        341.62,
+        92.82
+      ],
+      "text": "van de tijdigheid intake na een administratieve loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        105.48,
+        103.49,
+        113.52
+      ],
+      "text": "Tabel 3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        204.89,
+        116.96,
+        334.29,
+        125.96
+      ],
+      "text": "Administratieve loonsancties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        84.38,
+        129.44,
+        445.22,
+        138.44
+      ],
+      "text": "≤ 4 dgn > 4 dgn % tijdige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        207.53,
+        134.84,
+        370.77,
+        143.84
+      ],
+      "text": "Beslissing te laat Beslissing tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.58,
+        140.36,
+        446.55,
+        149.36
+      ],
+      "text": "intake intake beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        96.86,
+        152.48,
+        434.34,
+        161.48
+      ],
+      "text": "69 36 33 48%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        446.86,
+        155.62,
+        465.7,
+        160.66
+      ],
+      "text": "(N=69)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        161.9,
+        164.72,
+        434.34,
+        173.72
+      ],
+      "text": "31 26 5 16%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        446.86,
+        167.86,
+        465.7,
+        172.9
+      ],
+      "text": "(N=31)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.58,
+        178.16,
+        434.33,
+        187.16
+      ],
+      "text": "Totaal 100 62 38 38%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        443.74,
+        181.3,
+        465.82,
+        186.34
+      ],
+      "text": "(N=100)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        201.56,
+        521.63,
+        210.56
+      ],
+      "text": "In tabel 4 staan de percentages weergegeven over de tijdigheid van de beslissing BKV ten opzichte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        212.48,
+        321.0,
+        221.48
+      ],
+      "text": "van de tijdigheid intake na een inhoudelijk loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        234.24,
+        103.49,
+        242.28
+      ],
+      "text": "Tabel 4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        212.21,
+        245.72,
+        327.13,
+        254.72
+      ],
+      "text": "Inhoudelijke loonsancties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        84.38,
+        258.08,
+        445.22,
+        267.08
+      ],
+      "text": "≤ 4 dgn > 4 dgn % tijdige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        207.53,
+        263.6,
+        370.77,
+        272.6
+      ],
+      "text": "Beslissing te laat Beslissing tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.58,
+        269.12,
+        446.55,
+        278.12
+      ],
+      "text": "intake intake beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        96.86,
+        281.27,
+        434.34,
+        290.27
+      ],
+      "text": "42 17 25 60%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        446.86,
+        284.41,
+        465.7,
+        289.45
+      ],
+      "text": "(N=42)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        161.9,
+        293.51,
+        434.34,
+        302.51
+      ],
+      "text": "13 9 4 31%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        446.86,
+        296.65,
+        465.7,
+        301.69
+      ],
+      "text": "(N=13)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.58,
+        306.95,
+        434.33,
+        315.95
+      ],
+      "text": "Totaal 55 26 29 53%",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        446.86,
+        310.09,
+        465.7,
+        315.13
+      ],
+      "text": "(N=55)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        330.35,
+        483.77,
+        339.35
+      ],
+      "text": "Tabel 3 en 4 laat zien dat een korte intakefase een positieve invloed heeft op de tijdigheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        341.27,
+        521.04,
+        350.27
+      ],
+      "text": "In 111 (69 + 42) van de 155 gevallen (72%) is er door de PB een tijdige intake gemaakt, of te wel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        352.31,
+        239.47,
+        361.31
+      ],
+      "text": "≤4 dagen na ontvangst van het BKV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        374.15,
+        511.73,
+        383.15
+      ],
+      "text": "Een verklaring dat er bij een tijdige intake bij de administratieve loonsanctie (tabel 3) een lagere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        385.07,
+        506.93,
+        394.07
+      ],
+      "text": "tijdigheid (48%) wordt gehaald ten opzichte van de inhoudelijke loonsanctie (60%, tabel 4) kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        395.99,
+        512.22,
+        404.99
+      ],
+      "text": "zijn dat er nog een volledige beoordeling van het re-integratieverslag door de VA en/of AD plaats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        406.91,
+        320.32,
+        415.91
+      ],
+      "text": "dient te vinden. Dit is door ons niet verder onderzocht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        443.46,
+        185.57,
+        454.5
+      ],
+      "text": "Nevenbevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        468.61,
+        513.37,
+        477.61
+      ],
+      "text": "De meest in het oog springende bevinding is de volgende. Als de (ex)werkgever een BKV indient,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        479.65,
+        499.74,
+        488.65
+      ],
+      "text": "verstuurt het UWV slechts in 60 van de 155 gevallen (39%) een ontvangstbevestiging naar de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        490.57,
+        503.92,
+        499.57
+      ],
+      "text": "betrokken partijen. In het werkproces is afgesproken dat altijd een ontvangstbevestiging wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        501.49,
+        348.59,
+        510.49
+      ],
+      "text": "gezonden waarin wordt aangegeven wat het UWV gaat doen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        525.73,
+        504.67,
+        534.73
+      ],
+      "text": "Verder blijkt dat niet in alle gevallen alle betrokken partijen (werkgever en werknemer) worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        536.77,
+        451.67,
+        545.77
+      ],
+      "text": "geïnformeerd middels een beslissing betreffende de beëindiging van de loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        558.61,
+        466.89,
+        567.61
+      ],
+      "text": "- In 7 gevallen werden zowel de werkgever als de werknemer niet geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        569.53,
+        352.89,
+        578.53
+      ],
+      "text": "- In 3 gevallen werd alleen de werkgever geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.82,
+        580.45,
+        356.38,
+        589.45
+      ],
+      "text": "- In 3 gevallen werd alleen de werknemer geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        187.85,
+        84.1,
+        498.22,
+        92.14
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        84.3,
+        153.16,
+        93.3
+      ],
+      "text": "Naam document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        95.72,
+        364.95,
+        104.72
+      ],
+      "text": "Verantwoordelijke Business Manager Kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        107.12,
+        399.83,
+        116.12
+      ],
+      "text": "Opsteller Auditoren PB (Team Vakinhoudelijke Kwaliteit)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        130.04,
+        396.9,
+        139.04
+      ],
+      "text": "Review rapport door Landelijk Adviseur Verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        262.12,
+        141.44,
+        433.22,
+        150.44
+      ],
+      "text": "Landelijk Adviseur Arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        241.72,
+        152.96,
+        384.77,
+        161.96
+      ],
+      "text": "Centrale Staf Proces Begeleider",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        175.76,
+        110.61,
+        184.76
+      ],
+      "text": "Historie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        187.28,
+        515.47,
+        196.28
+      ],
+      "text": "Versienummer Versie 0.7 Voorleggen concept aan LAVA, LAAD en CSPB t.b.v. feedback",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        187.85,
+        198.68,
+        479.78,
+        207.68
+      ],
+      "text": "Versie 0.8 voorleggen aan MA, AA en CSPB t.b.v. aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        233.0,
+        222.94,
+        242.0
+      ],
+      "text": "Status concept",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        77.78,
+        244.5,
+        111.74,
+        250.5
+      ],
+      "text": "2018, UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        244.56,
+        75.56,
+        250.56
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        262.14,
+        516.48,
+        268.14
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        269.46,
+        516.16,
+        275.46
+      ],
+      "text": "gemaakt, in enige vorm, of enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen of enige andere manier, zonder voorafgaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        276.78,
+        178.98,
+        282.78
+      ],
+      "text": "schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        798.68,
+        500.77,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        72.78,
+        115.24,
+        81.78
+      ],
+      "text": "Bijlage 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        94.96,
+        208.64,
+        104.92
+      ],
+      "text": "Bepalen duur verlenging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        117.8,
+        116.33,
+        126.8
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        139.64,
+        523.15,
+        148.64
+      ],
+      "text": "Er is een nieuw loonsanctiesysteem bedacht met als uitgangspunt maatwerk. Dat wil zeggen dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        150.68,
+        439.72,
+        159.68
+      ],
+      "text": "sanctieduur wordt afgestemd op het herstelgedrag van de individuele werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        161.6,
+        497.77,
+        170.6
+      ],
+      "text": "De standaardsanctie van 4 maanden, die we voorheen hanteerden, is hiermee verdwenen. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        172.52,
+        515.01,
+        181.52
+      ],
+      "text": "Centrale Raad van Beroep vond de minimumsanctie van 4 maanden ook niet in overeenstemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        183.44,
+        505.95,
+        192.44
+      ],
+      "text": "met de wettelijke vereisten. Zeker administratieve tekortkomingen kunnen immers snel worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        194.36,
+        524.28,
+        203.36
+      ],
+      "text": "hersteld. Vandaar de keuze voor een systeem waarin de sanctieduur wordt bepaald door de periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        205.28,
+        495.52,
+        214.28
+      ],
+      "text": "die de werkgever feitelijk heeft gebruikt voor de reparatie van de tekortkomingen. De nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        216.2,
+        521.17,
+        225.2
+      ],
+      "text": "loonsancties zijn van toepassing wanneer de eerste arbeidsongeschiktheidsdag ligt op of na 15-08-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        227.24,
+        97.14,
+        236.24
+      ],
+      "text": "2004.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        70.82,
+        249.08,
+        89.43,
+        258.08
+      ],
+      "text": "NB:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        270.92,
+        518.1,
+        279.92
+      ],
+      "text": "Als na de WIA-aanvraag met RIV blijkt dat er recht bestaat op WAO-uitkering op grond van artikel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        281.87,
+        521.04,
+        290.87
+      ],
+      "text": "43a WAO (wachttijd 4 weken), dan vindt geen toetsing RIV en loonsanctiebeoordeling meer plaats.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        292.91,
+        449.1,
+        301.91
+      ],
+      "text": "Het hierna besproken loonsanctiebeleid is van overeenkomstige toepassing voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        303.83,
+        295.07,
+        312.83
+      ],
+      "text": "eigenrisicodrager ZW. Zie ook het onderdeel RIV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        325.67,
+        206.91,
+        334.67
+      ],
+      "text": "Systematiek/Herstelmodel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        347.51,
+        523.46,
+        356.51
+      ],
+      "text": "Het opleggen door UWV van een verlenging van de loondoorbetalingsverplichting is een sanctie, die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        358.43,
+        511.13,
+        367.43
+      ],
+      "text": "gericht is op het bieden van een herstelmogelijkheid. Het opleggen van loonsancties zoals hierna",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        369.47,
+        506.35,
+        378.47
+      ],
+      "text": "beschreven geldt voor re-integratie van werknemers met een eerste arbeidsongeschiktheidsdag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        380.39,
+        332.64,
+        389.39
+      ],
+      "text": "vanaf 15/08/2004. Dit is opgenomen in artikel 123b WIA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        402.43,
+        135.75,
+        412.39
+      ],
+      "text": "Geen sanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        425.27,
+        522.55,
+        434.27
+      ],
+      "text": "- We leggen geen loonsanctie op indien de werknemer werkzaam is in overeenstemming met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        436.31,
+        407.5,
+        445.31
+      ],
+      "text": "zijn mogelijkheden of als hij geen benutbare mogelijkheden heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        447.23,
+        508.79,
+        456.23
+      ],
+      "text": "- We leggen geen loonsanctie op als vaststaat dat het alleen aan de werknemer ligt dat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        458.15,
+        504.37,
+        467.15
+      ],
+      "text": "onvoldoende inspanningen zijn verricht. De werkgever moet dan wel voldoende hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        469.09,
+        492.91,
+        478.09
+      ],
+      "text": "gedaan om de medewerking van de werknemer te verkrijgen. Dat betekent dat hij in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        480.01,
+        475.84,
+        489.01
+      ],
+      "text": "uiterste gevallen de loondoorbetaling heeft gestaakt. In dat geval is mogelijk een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        490.93,
+        304.59,
+        499.93
+      ],
+      "text": "maatregel voor de werknemer aan de orde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        501.97,
+        500.35,
+        510.97
+      ],
+      "text": "- Ook als het ons niet lukt de loonsanctie uiterlijk voor einde wachttijd (= verzending op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        512.89,
+        509.06,
+        521.89
+      ],
+      "text": "laatste dag wachttijd), einde vrijwillig verlengde loonbetalingsperiode of einde verlengde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        523.81,
+        511.48,
+        532.81
+      ],
+      "text": "loonbetalingsperiode als gevolg van te late aanvraag op te leggen, dan leggen we geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        534.73,
+        287.22,
+        543.73
+      ],
+      "text": "sanctie meer op (artikel 25 lid 11 WIA).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        556.77,
+        179.93,
+        566.73
+      ],
+      "text": "Tijdige WIA-aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        580.93,
+        211.78,
+        589.93
+      ],
+      "text": "Een WIA-aanvraag is tijdig als:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        602.77,
+        484.03,
+        611.77
+      ],
+      "text": "1. deze is ingediend uiterlijk 11 weken voor afloop van de wachttijd of de periode van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        613.69,
+        275.04,
+        622.69
+      ],
+      "text": "vrijwillig verlengde loondoorbetaling;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        624.61,
+        242.83,
+        633.61
+      ],
+      "text": "2. deze later is ingediend, maar:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        635.65,
+        513.73,
+        644.73
+      ],
+      "text": " wij de aanvraagset te laat hebben verstuurd en de aanvraag binnen 4 weken is ingediend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        646.57,
+        270.75,
+        655.57
+      ],
+      "text": "nadat de aanvraagset is ontvangen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        657.52,
+        334.38,
+        666.52
+      ],
+      "text": "wij helemaal geen aanvraagset hebben verstuurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.82,
+        657.6,
+        92.96,
+        666.6
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        679.36,
+        519.64,
+        688.36
+      ],
+      "text": "In deze onder 2 genoemde situaties komt de aanvraag later bij ons binnen dan 11 weken vóór ewt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        690.28,
+        519.18,
+        699.28
+      ],
+      "text": "of afloop loondoorbetalingsperiode, maar ligt dat aan ons. Bij ons is namelijk iets verkeerd gegaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        701.2,
+        515.99,
+        710.2
+      ],
+      "text": "bij de verzending van de aanvraagset. We moeten de aanvraag dan toch als tijdig beschouwen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        712.24,
+        352.28,
+        721.24
+      ],
+      "text": "krijgen geen extra tijd voor poortwachtertoets en loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        84.02,
+        303.04,
+        93.98
+      ],
+      "text": "Wat dit betreft geldt er één uitzondering:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        108.08,
+        514.28,
+        117.08
+      ],
+      "text": "Het bovenstaande geldt niet als het te laat sturen van de aanvraagset niet aan ons te wijten was.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        119.0,
+        469.4,
+        128.0
+      ],
+      "text": "Dat is het geval als de werkgever de ziekmelding niet of zo laat heeft gedaan dat wij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        129.92,
+        516.82,
+        138.92
+      ],
+      "text": "aanvraagset niet meer tijdig konden versturen. Dat kan ook spelen als de werkgever ten onrechte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        140.96,
+        517.98,
+        149.96
+      ],
+      "text": "een hersteldmelding heeft gedaan zonder deze te herroepen. Omdat we niet konden weten dat we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        151.88,
+        520.63,
+        160.88
+      ],
+      "text": "op een bepaald moment een aanvraagset moesten versturen, waren we daartoe ook niet verplicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        173.72,
+        509.25,
+        182.72
+      ],
+      "text": "In zo’n geval handelen we alsof we de aanvraagset wel op tijd hebben verstuurd en beschouwen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        184.64,
+        259.42,
+        193.64
+      ],
+      "text": "we de WIA-aanvraag dan toch als te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        206.48,
+        476.67,
+        215.48
+      ],
+      "text": "Daarmee krijgen we alsnog extra tijd voor de poortwachtertoets en de oplegging van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        217.52,
+        125.22,
+        226.52
+      ],
+      "text": "loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        239.36,
+        500.24,
+        248.36
+      ],
+      "text": "NB: Per 1/11/2008 is de bepaling in art. 25 lid 10 WIA gewijzigd. Bij een te late aanvraag, die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        250.28,
+        511.31,
+        259.28
+      ],
+      "text": "geacht wordt tijdig te zijn omdat wij geen of een te late kennisgeving (attenderingsbrief) hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        261.2,
+        506.18,
+        270.2
+      ],
+      "text": "gestuurd t.g.v. een te late ziekteaangifte, moeten wij binnen 7 weken een beschikking over een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        272.12,
+        523.82,
+        281.12
+      ],
+      "text": "eventuele loonsanctie afgeven. Deze bepaling passen wij niet toe. Hier blijft het uitzonderingsbeleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        283.19,
+        444.8,
+        292.19
+      ],
+      "text": "zoals hiervoor vermeld van toepassing en beschouwen wij de aanvraag als te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        305.03,
+        418.13,
+        314.03
+      ],
+      "text": "Zie ook de IM Wet wijziging ziekteaangifteproces voor niet-vangnetgevallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        327.07,
+        324.75,
+        337.03
+      ],
+      "text": "Nieuwe sanctie na gegrond bezwaar oude sanctie?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        338.99,
+        519.77,
+        347.99
+      ],
+      "text": "De vraag kwam aan de orde of we na een gegrond bezwaar tegen een tijdig opgelegde loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        350.03,
+        502.45,
+        359.03
+      ],
+      "text": "op administratieve gronden wel na einde wachttijd een nieuwe sanctie op inhoudelijke gronden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        360.95,
+        506.21,
+        369.95
+      ],
+      "text": "kunnen opleggen. Hoewel we geen onderscheid meer maken tussen een administratieve en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        371.87,
+        519.62,
+        380.87
+      ],
+      "text": "inhoudelijke loonsanctie, is een loonsanctie dan niet meer mogelijk. Het eerste sanctiebesluit moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        382.79,
+        513.79,
+        391.79
+      ],
+      "text": "als gevolg van het gegronde bezwaar worden ingetrokken, waardoor de nieuwe sanctie als eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        393.71,
+        509.24,
+        402.71
+      ],
+      "text": "sanctie wordt aangemerkt. En de eerste sanctie moet vóór EWT zijn opgelegd, omdat werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        404.63,
+        431.87,
+        413.63
+      ],
+      "text": "anders geen mogelijkheid tot tijdig herstel van de tekortkomingen heeft gehad.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        426.79,
+        247.62,
+        436.75
+      ],
+      "text": "Onvoldoende informatie ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        438.71,
+        488.52,
+        447.71
+      ],
+      "text": "Als we naar aanleiding van de aanvraag constateren dat we onvoldoende informatie hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        449.63,
+        521.59,
+        458.63
+      ],
+      "text": "ontvangen om de re-integratie-inspanningen te beoordelen, dan krijgt werkgever één week tijd om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        460.55,
+        523.48,
+        469.55
+      ],
+      "text": "deze informatie alsnog te verstrekken (artikel 25 lid 8 WIA). Doet hij dit niet, dan start ook hier het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        471.49,
+        154.62,
+        480.49
+      ],
+      "text": "loonsanctietraject.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        493.65,
+        162.82,
+        503.61
+      ],
+      "text": "Loonsanctietraject",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        505.57,
+        519.81,
+        514.57
+      ],
+      "text": "We leggen de loonsanctie uiterlijk 6 weken voor einde wachtttijd, einde vrijwillige loondoorbetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        516.49,
+        416.15,
+        525.49
+      ],
+      "text": "of einde loondoorbetaling ivm te late aanvraag op. (zie ook beslistermijnen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        527.41,
+        488.51,
+        536.41
+      ],
+      "text": "De loonsanctie die we opleggen als de werkgever zonder deugdelijke grond niet aan zijn re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        538.33,
+        509.93,
+        547.33
+      ],
+      "text": "integratieverplichtingen heeft voldaan, is van onbepaalde duur met een maximum van 52 weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        549.37,
+        479.71,
+        558.37
+      ],
+      "text": "(artikel 25 lid 9 en 14). Onder re-integratieverplichtingen vallen zowel het aanleveren van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        560.29,
+        509.71,
+        569.29
+      ],
+      "text": "voldoende informatie over de re-integratie als het verrichten van voldoende inspanningen om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        571.21,
+        521.65,
+        580.21
+      ],
+      "text": "re-integratie te bevorderen. Tegelijk met de sanctie geven we aan dat de behandeling van de WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        582.13,
+        504.06,
+        591.13
+      ],
+      "text": "aanvraag wordt opgeschort (artikel 64 lid 7). We delen mee welke concrete tekortkomingen we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        593.05,
+        490.75,
+        602.05
+      ],
+      "text": "hebben geconstateerd en geven de werkgever aan dat hij zelf de periode van de sanctie kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        603.97,
+        516.32,
+        612.97
+      ],
+      "text": "bekorten. Ook de werknemer krijgt als belanghebbende een kopie van de sanctie-beschikking. Als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        614.89,
+        462.83,
+        623.89
+      ],
+      "text": "hij de tekortkomingen heeft hersteld, meldt hij dit aan ons waarbij hij aantoont dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        625.93,
+        277.29,
+        634.93
+      ],
+      "text": "geconstateerde tekortkomingen zijn hersteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        647.77,
+        466.02,
+        656.77
+      ],
+      "text": "Binnen 3 weken na de herstelmelding door de werkgever, waarin deze aantoont dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        658.72,
+        519.53,
+        667.72
+      ],
+      "text": "geconstateerde tekortkomingen zijn hersteld, geven wij een beschikking af over het herstel van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        669.64,
+        523.42,
+        678.64
+      ],
+      "text": "tekortkomingen (artikel 25 lid 12 en 13). Ook van deze beschikking krijgt de werknemer een kopie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        691.48,
+        206.74,
+        700.48
+      ],
+      "text": "Akkoord met inspanningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        713.44,
+        511.37,
+        722.44
+      ],
+      "text": "Zijn we akkoord met de inspanningen dan hervatten we de behandeling van de aanvraag (artikel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        724.36,
+        508.12,
+        733.36
+      ],
+      "text": "64 lid 8) en geven we binnen 6 weken een beschikking af over het WIA-recht (artikel 25 lid 15).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        735.28,
+        491.91,
+        744.28
+      ],
+      "text": "Hetzelfde geldt wanneer de aangeleverde informatie alsnog voldoende is én de inspanningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        746.2,
+        513.94,
+        755.2
+      ],
+      "text": "akkoord worden bevonden. De sanctie eindigt in deze gevallen 6 weken na onze beschikking over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        757.12,
+        453.52,
+        766.12
+      ],
+      "text": "de goedkeuring van het herstel of bij de maximale sanctietermijn (artikel 25 lid 14).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        798.68,
+        500.81,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        72.78,
+        142.12,
+        81.78
+      ],
+      "text": "UWV is te laat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        94.76,
+        520.39,
+        103.76
+      ],
+      "text": "Zijn we te laat geweest met het opleggen van de sanctie of met het besluit over het herstel van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        105.68,
+        514.22,
+        114.68
+      ],
+      "text": "tekortkomingen, dan wordt de sanctietermijn korter. Als we bijvoorbeeld 2 weken te laat zijn met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        116.6,
+        480.95,
+        125.6
+      ],
+      "text": "de sanctiebeschikking, dan eindigt de sanctie niet 6 weken, maar 4 weken na ons akkoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        127.52,
+        264.19,
+        136.52
+      ],
+      "text": "betreffende de re-integratie-inspanningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        152.36,
+        275.35,
+        161.36
+      ],
+      "text": "Termijnen WIA-aanvraag en loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        180.44,
+        370.51,
+        189.44
+      ],
+      "text": "1. Tijdigheid WIA-aanvraag van belang voor tijdigheid loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        194.36,
+        512.71,
+        203.36
+      ],
+      "text": "Uitgangspunt: Check altijd of de WIA-aanvraag tijdig is gedaan. Is die namelijk te laat, dan moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        208.4,
+        505.62,
+        217.4
+      ],
+      "text": "de werkgever langer loon doorbetalen en hebben wij meer tijd voor de poortwachtertoets en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        222.44,
+        211.28,
+        231.44
+      ],
+      "text": "oplegging van een loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        250.4,
+        252.58,
+        259.4
+      ],
+      "text": "1.1 Wanneer is de WIA-aanvraag tijdig?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        264.44,
+        211.78,
+        273.44
+      ],
+      "text": "Een WIA-aanvraag is tijdig als:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        278.39,
+        501.1,
+        287.39
+      ],
+      "text": "1. deze is ingediend uiterlijk 11 weken voor afloop van de wachttijd of de periode van vrijwillig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        292.43,
+        198.29,
+        301.43
+      ],
+      "text": "verlengde loondoorbetaling;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        306.47,
+        247.23,
+        315.47
+      ],
+      "text": "2. deze later is binnengekomen, maar:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        320.39,
+        492.3,
+        329.39
+      ],
+      "text": "- wij de aanvraagset verwijtbaar te laat hebben verstuurd en de aanvraag binnen 4 weken is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        334.43,
+        281.82,
+        343.43
+      ],
+      "text": "ingediend nadat de aanvraagset is ontvangen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        348.47,
+        356.53,
+        357.47
+      ],
+      "text": "- wij verwijtbaar helemaal geen aanvraagset hebben gestuurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        376.43,
+        521.23,
+        385.43
+      ],
+      "text": "Let op: Het vermelde bij 2 geldt alleen als het niet of te laat versturen van de aanvraagset aan ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        390.47,
+        502.49,
+        399.47
+      ],
+      "text": "te wijten is. Dit geldt dus niet als wij onmogelijk tijdig een aanvraagset hadden kunnen sturen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        404.39,
+        491.7,
+        413.39
+      ],
+      "text": "omdat we niet wisten dat dat moest. Dat zal met name spelen bij een ontbrekende of te late",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        418.43,
+        225.84,
+        427.43
+      ],
+      "text": "ziekte-aangifte van de werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        432.47,
+        514.44,
+        441.47
+      ],
+      "text": "In zo’n situatie beschouwen we een binnen 11 weken voor ewt ingediende WIA-aanvraag gewoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        446.39,
+        291.5,
+        455.39
+      ],
+      "text": "als te laat en gaat het onder 2 vermelde niet op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        460.43,
+        476.67,
+        469.43
+      ],
+      "text": "Daarmee krijgen we alsnog extra tijd voor de poortwachtertoets en de oplegging van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        474.49,
+        125.17,
+        483.49
+      ],
+      "text": "loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        502.45,
+        285.31,
+        511.45
+      ],
+      "text": "1.2. Een incomplete WIA-aanvraag is ook tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        516.49,
+        295.15,
+        525.49
+      ],
+      "text": "Een niet complete aanvraag is ook een aanvraag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        530.41,
+        494.7,
+        539.41
+      ],
+      "text": "Als een incomplete WIA-aanvraag op tijd is ontvangen, is sprake van een tijdige aanvraag en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        544.45,
+        518.0,
+        553.45
+      ],
+      "text": "krijgen we dus geen extra tijd voor de poortwachtertoets. De WIA-beslistermijn of de termijn voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        558.49,
+        490.49,
+        567.49
+      ],
+      "text": "oplegging van een loonsanctie gaat dan meteen lopen. En de WIA-beslistermijn kan – als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        572.41,
+        514.84,
+        581.41
+      ],
+      "text": "incompleetheid aan de aanvrager ligt - weliswaar worden opgeschort, maar dat geldt niet voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        586.45,
+        513.97,
+        595.45
+      ],
+      "text": "loonsanctietermijn. Snelle completering is dus geboden. Zie punt 4 voor opschorting van de WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        600.49,
+        132.13,
+        609.49
+      ],
+      "text": "beslistermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        628.45,
+        410.98,
+        637.45
+      ],
+      "text": "1.2.1 Incomplete aanvraag ten gevolge van ontbreken re-integratieverslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        642.49,
+        511.79,
+        651.49
+      ],
+      "text": "Zonder compleet re-integratieverslag kunnen we geen poortwachtertoets doen. We zullen dus de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        656.44,
+        304.59,
+        665.44
+      ],
+      "text": "ontbrekende onderdelen meteen moeten opvragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        670.48,
+        190.52,
+        679.48
+      ],
+      "text": "Hersteltermijn van 1 week",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        684.52,
+        513.34,
+        693.52
+      ],
+      "text": "We geven degene die voor het ontbreken van een compleet re-integratieverslag verantwoordelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        698.44,
+        225.92,
+        707.44
+      ],
+      "text": "is, een hersteltermijn van 1 week.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        712.48,
+        515.59,
+        721.48
+      ],
+      "text": "De termijn gaat in op de dag na dagtekening van onze schriftelijke termijnstelling (dagtekening is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        726.52,
+        519.37,
+        735.52
+      ],
+      "text": "datum brief). Als de termijn eindigt op een zaterdag, zondag of algemeen erkende feestdag, wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        740.44,
+        514.73,
+        749.44
+      ],
+      "text": "die verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        754.48,
+        367.51,
+        763.48
+      ],
+      "text": "feestdag is. De termijn eindigt dan op de eerste werkdag daarna.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        798.68,
+        505.97,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        89.84,
+        517.66,
+        98.84
+      ],
+      "text": "Als de ontbrekende stukken binnen de termijn per post zijn verstuurd, en wij de stukken niet later",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        103.88,
+        514.67,
+        112.88
+      ],
+      "text": "dan 1 week na afloop van de termijn hebben ontvangen, geldt de verzenddatum als reactiedatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        117.8,
+        195.13,
+        126.8
+      ],
+      "text": "en is dus tijdig gereageerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        145.88,
+        249.21,
+        154.88
+      ],
+      "text": "Hersteltermijn is ongebruikt verstreken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        159.8,
+        467.98,
+        168.8
+      ],
+      "text": "Als werkgever of werknemer de hersteltermijn ongebruikt hebben gelaten en binnen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        173.84,
+        481.49,
+        182.84
+      ],
+      "text": "hersteltermijn ook niet met een acceptabel excuus zijn gekomen, moeten we daar meteen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        187.88,
+        206.15,
+        196.88
+      ],
+      "text": "consequenties aan verbinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        215.84,
+        177.92,
+        224.84
+      ],
+      "text": "Het ligt aan werkgever:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        229.88,
+        522.75,
+        238.88
+      ],
+      "text": "We leggen de werkgever een loonsanctie op administratieve gronden op. We kunnen namelijk geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        243.8,
+        352.58,
+        252.8
+      ],
+      "text": "poortwachtertoets doen zonder compleet re-integratieverslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        257.84,
+        499.68,
+        266.84
+      ],
+      "text": "De loonsanctie wordt beëindigd als de werkgever voor een compleet re-integratieverslag heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        271.88,
+        475.1,
+        280.88
+      ],
+      "text": "gezorgd en als daaruit blijkt dat hij voldoende re-integratie-inspanningen heeft geleverd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        299.87,
+        177.32,
+        308.87
+      ],
+      "text": "Het ligt aan werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        313.91,
+        407.14,
+        322.91
+      ],
+      "text": "We nemen de aanvraag niet in behandeling op grond van artikel 4:5 Awb.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        327.83,
+        494.7,
+        336.83
+      ],
+      "text": "Dit op grond van het feit dat we dan over te weinig informatie beschikken om de aanvraag te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        341.87,
+        512.05,
+        350.87
+      ],
+      "text": "kunnen behandelen. Dit geldt niet als alleen het “oordeel werknemer” op het re-integratieverslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        355.91,
+        483.31,
+        364.91
+      ],
+      "text": "ontbreekt. Dit onderdeel wordt n.l. niet onmisbaar geacht. We moeten de beslissing om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        369.83,
+        518.43,
+        378.83
+      ],
+      "text": "aanvraag niet te behandelen afgeven binnen 4 weken na afloop van de hersteltermijn van 1 week.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        383.87,
+        512.9,
+        392.87
+      ],
+      "text": "N.B. Komt de werknemer alsnog met het complete re-integratieverslag voordat deze beslissing is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        397.91,
+        352.1,
+        406.91
+      ],
+      "text": "verstuurd, dan nemen we de aanvraag alsnog in behandeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        425.87,
+        504.19,
+        434.87
+      ],
+      "text": "Als we de aanvraag niet behandelen moet de werknemer daarna een nieuwe aanvraag WIA (en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        439.91,
+        336.74,
+        448.91
+      ],
+      "text": "deze keer met een compleet reïntegratieverslag) indienen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        453.83,
+        492.41,
+        462.83
+      ],
+      "text": "Die nieuwe aanvraag is dan te laat. Door de te late aanvraag moet de werkgever langer loon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        467.89,
+        415.83,
+        476.89
+      ],
+      "text": "doorbetalen en krijgen wij meer tijd voor het opleggen van een loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        495.85,
+        413.21,
+        504.85
+      ],
+      "text": "1.2.2. Incomplete aanvraag ten gevolge van ontbrekende andere gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        509.89,
+        518.99,
+        518.89
+      ],
+      "text": "Een WIA-aanvraag geldt ook als aanvraag als bijvoorbeeld de handtekening ontbreekt. En ook dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        523.93,
+        445.59,
+        532.93
+      ],
+      "text": "gaat de WIA-beslistermijn of de termijn voor oplegging van een loonsanctie lopen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        537.85,
+        518.31,
+        546.85
+      ],
+      "text": "We moeten ook dit ontbrekende element dat nodig is om de identiteit van de aanvrager te kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        551.89,
+        502.83,
+        560.89
+      ],
+      "text": "vaststellen meteen opvragen en daar een aanvullingstermijn van 1 week voor stellen. Dit heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        565.93,
+        480.31,
+        574.93
+      ],
+      "text": "haast, want de aanvullingstermijn schort weliswaar de WIA-beslistermijn op, maar niet de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        579.85,
+        157.79,
+        588.85
+      ],
+      "text": "loonsanctietermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        593.89,
+        458.12,
+        602.89
+      ],
+      "text": "Maar we kunnen - met het oog op de geldende termijnen - wel vast beginnen met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        607.93,
+        463.04,
+        616.93
+      ],
+      "text": "poortwachtertoets. Poortwachtertoets en opvraag kunnen dus gelijk opgaan. Mocht de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        621.85,
+        508.97,
+        630.85
+      ],
+      "text": "handtekening van de aanvrager na verstrijking van de aanvullingstermijn nog steeds ontbreken,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        635.89,
+        477.27,
+        644.89
+      ],
+      "text": "nemen we de aanvraag niet verder in behandeling. Zie daarvoor het hierboven vermelde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        663.88,
+        182.92,
+        672.88
+      ],
+      "text": "2. Termijnen loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        677.92,
+        482.79,
+        686.92
+      ],
+      "text": "Uitgangspunt: In geval van een loonsanctie is de voor de WIA-aanvraag geldende normale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        691.96,
+        499.41,
+        700.96
+      ],
+      "text": "beslistermijn van 8 weken niet van toepassing, maar gelden de termijnen die hieronder staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        705.88,
+        511.48,
+        714.88
+      ],
+      "text": "Het is van belang om die termijnen goed in de gaten te houden. Zijn we te laat, dan betekent dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        719.92,
+        508.7,
+        728.92
+      ],
+      "text": "ofwel dat we van de loonsanctie moeten afzien, ofwel dat we de vertraging in mindering moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        733.96,
+        272.58,
+        742.96
+      ],
+      "text": "brengen op de uiteindelijke loonsanctieduur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        747.88,
+        335.03,
+        756.88
+      ],
+      "text": "Het eerste is vanuit re-integratie-oogpunt onverantwoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        798.68,
+        505.97,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        75.78,
+        502.36,
+        84.78
+      ],
+      "text": "Het tweede betekent dat we – ter voorkoming van een gat tussen loon en uitkering minder tijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        89.84,
+        498.55,
+        98.84
+      ],
+      "text": "overhouden voor de claimbeoordeling en soms voorschotverstrekking nodig zal zijn. Ook dit is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        103.88,
+        122.9,
+        112.88
+      ],
+      "text": "ongewenst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        131.84,
+        247.88,
+        140.84
+      ],
+      "text": "2.1 Termijn voor oplegging loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        145.88,
+        494.63,
+        154.88
+      ],
+      "text": "De loonsanctie duurt voort totdat de werkgever zijn tekortkomingen heeft gerepareerd, maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        159.8,
+        164.89,
+        168.8
+      ],
+      "text": "maximaal 52 weken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        173.84,
+        508.87,
+        182.84
+      ],
+      "text": "De duur van de loonsanctie in combinatie met vrijwillig verlengde loondoorbetaling en verlengde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        187.88,
+        346.7,
+        196.88
+      ],
+      "text": "loondoorbetaling wegens te late WIA-aanvraag is onbeperkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        215.84,
+        252.85,
+        224.84
+      ],
+      "text": "Een loonsanctie moet worden opgelegd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        229.88,
+        297.51,
+        238.88
+      ],
+      "text": "- uiterlijk 6 weken voor afloop van de wachttijd of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        243.8,
+        524.22,
+        252.8
+      ],
+      "text": "- uiterlijk 6 weken voor afloop van een verlengde loondoorbetalingsperiode (vrijwillige verlenging of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        257.84,
+        262.99,
+        266.84
+      ],
+      "text": "verlenging wegens te late WIA-aanvraag).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        285.83,
+        242.99,
+        294.83
+      ],
+      "text": "2.1.1. Gevolgen termijnoverschrijding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        313.91,
+        189.19,
+        322.91
+      ],
+      "text": "Bekorting loonsanctieduur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        327.83,
+        464.38,
+        336.83
+      ],
+      "text": "Leggen we de loonsanctie weliswaar te laat op, maar nog voor ewt of afloop verlengde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        341.87,
+        477.36,
+        350.87
+      ],
+      "text": "loondoorbetalingsperiode, dan leidt dit – als de loonsanctie uiteindelijk op verzoek van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        355.91,
+        505.8,
+        364.91
+      ],
+      "text": "werkgever wordt beëindigd - tot een evenredige bekorting van de uiteindelijke loonsanctieduur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        383.87,
+        252.09,
+        392.87
+      ],
+      "text": "Oplegging loonsanctie wordt onmogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        397.91,
+        513.82,
+        406.91
+      ],
+      "text": "Als we de loonsanctie zo laat willen opleggen dat ewt of de verlengde loondoorbetalingsperiode al",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        411.83,
+        371.14,
+        420.83
+      ],
+      "text": "verstreken is, dan kan de loonsanctie niet meer worden opgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        425.87,
+        505.57,
+        434.87
+      ],
+      "text": "N.B.: Wij gaan bij de hantering van de genoemde termijnen uit van de verzenddatum. Dit komt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        439.91,
+        485.63,
+        448.91
+      ],
+      "text": "erop neer dat de loonsanctiebeslissing nog kan worden verzonden op de laatste dag van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        453.83,
+        306.47,
+        462.83
+      ],
+      "text": "wachttijd of de verlengde loondoorbetalingsperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        481.93,
+        426.56,
+        490.93
+      ],
+      "text": "2.2. Termijn voor beslissing tot continuering of beëindiging van de loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        495.85,
+        483.18,
+        504.85
+      ],
+      "text": "Als de werkgever verzoekt om de loonsanctie te beëindigen moeten we binnen 3 weken na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        509.89,
+        239.13,
+        518.89
+      ],
+      "text": "ontvangst van dat verzoek beslissen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        523.93,
+        403.02,
+        532.93
+      ],
+      "text": "De dag van ontvangst telt mee voor het bepalen van de 3-wekentermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        551.89,
+        242.99,
+        560.89
+      ],
+      "text": "2.2.2. Gevolgen termijnoverschrijding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        565.93,
+        189.19,
+        574.93
+      ],
+      "text": "Bekorting loonsanctieduur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        579.85,
+        403.2,
+        588.85
+      ],
+      "text": "Een termijnoverschrijding leidt tot een bekorting van de loonsanctieduur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        593.89,
+        491.7,
+        602.89
+      ],
+      "text": "Leidt onze te late beslissing tot continuering van de loonsanctie, dan zal de bekorting van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        607.93,
+        428.05,
+        616.93
+      ],
+      "text": "loonsanctieduur pas spelen als de loonsanctie uiteindelijk wèl beëindigd wordt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        621.85,
+        445.6,
+        630.85
+      ],
+      "text": "Leidt onze te late beslissing tot beëindiging van de loonsanctie, dan trekken we de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        635.89,
+        328.11,
+        644.89
+      ],
+      "text": "termijnoverschrijding meteen van de loonsanctieduur af.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        663.88,
+        207.23,
+        672.88
+      ],
+      "text": "2.3 Uitlooptermijn loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        677.92,
+        506.22,
+        686.92
+      ],
+      "text": "Als we op verzoek van de werkgever hebben besloten om de loonsanctie te beëindigen, geldt er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        691.96,
+        220.9,
+        700.96
+      ],
+      "text": "een uitlooptermijn van 6 weken .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        705.88,
+        472.65,
+        714.88
+      ],
+      "text": "De dag van de beëindigingsbeslissing telt mee voor het bepalen van de 6-wekentermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        719.92,
+        351.08,
+        728.92
+      ],
+      "text": "Deze uitlooptermijn is bedoeld voor de claimbeoordeling WIA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        798.68,
+        505.97,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        75.78,
+        393.7,
+        84.78
+      ],
+      "text": "2.4. Berekening uiteindelijke loonsanctieduur na beëindigingsbeslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        89.84,
+        514.94,
+        98.84
+      ],
+      "text": "Na de beslissing tot beëindiging van de loonsanctie tellen we 6 weken door ivm de uitlooptermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        103.88,
+        497.98,
+        112.88
+      ],
+      "text": "Vanaf dat moment gaan we terugtellen teneinde de vertragingen van de loonsanctieduur af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        117.8,
+        507.64,
+        126.8
+      ],
+      "text": "trekken. Dat kunnen dus vertragingen zijn bij de oplegging en/of continuering en/of beëindiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        131.84,
+        158.76,
+        140.84
+      ],
+      "text": "van de loonsanctie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        145.88,
+        336.0,
+        154.88
+      ],
+      "text": "Dat terugtellen gebeurt per kalenderdag en niet per week.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        159.8,
+        500.59,
+        168.8
+      ],
+      "text": "Hoe meer vertragingen: hoe korter de duur van de loonsanctie en hoe groter de noodzaak van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        173.84,
+        132.85,
+        182.84
+      ],
+      "text": "voorschotten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        201.8,
+        482.84,
+        210.8
+      ],
+      "text": "3. Termijnen voor claimbeoordeling en vaststelling WIA-recht na afloop van de loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        215.84,
+        135.11,
+        224.84
+      ],
+      "text": "Uitgangspunt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        229.88,
+        519.05,
+        238.88
+      ],
+      "text": "Zijn we te laat met deze beslissing, dan kan er een gat vallen tussen loondoorbetaling en uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        243.8,
+        510.75,
+        252.8
+      ],
+      "text": "en zal er een voorschot nodig zijn. Een voorschot zal nog eerder nodig zijn als we ook vertraging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        257.84,
+        518.41,
+        266.84
+      ],
+      "text": "hebben opgelopen bij de bovengenoemde loonsanctiebeslissingen. Die vertragingen leiden immers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        271.88,
+        318.98,
+        280.88
+      ],
+      "text": "tot een bekorting van de uiteindelijke loonsanctieduur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        299.87,
+        344.65,
+        308.87
+      ],
+      "text": "3.1.Termijn voor claimbeoordeling en vaststelling WIA-recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        313.91,
+        161.28,
+        322.91
+      ],
+      "text": "Binnen 6 weken na:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        341.87,
+        431.04,
+        350.87
+      ],
+      "text": "- de beslissing tot beëindiging van de loonsanctie; dat past dus mooi binnen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        355.91,
+        293.3,
+        364.91
+      ],
+      "text": "hierbovengenoemde uitlooptermijn van 6 weken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        369.83,
+        512.49,
+        378.83
+      ],
+      "text": "Halen we deze termijn, dan lopen loonsanctie en uitkering vloeiend in elkaar over. Zijn we echter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        383.87,
+        520.74,
+        392.87
+      ],
+      "text": "te laat geweest met de onder 2.1 en 2.2 genoemde loonsanctiebeslissingen, dan kan er alsnog een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        397.91,
+        508.38,
+        406.91
+      ],
+      "text": "gat tussen de loondoorbetaling en de uitkering ontstaan. Zoals hierboven aangegeven leiden die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        411.83,
+        416.87,
+        420.83
+      ],
+      "text": "vertragingen immers tot een bekorting van de uiteindelijke loonsanctieduur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        439.91,
+        493.38,
+        448.91
+      ],
+      "text": "- het verzoek van de werknemer tot hervatting behandeling WIA-aanvraag; dit speelt als het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        453.83,
+        274.65,
+        462.83
+      ],
+      "text": "dienstverband tijdens de loonsanctie afloopt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        481.93,
+        490.29,
+        490.93
+      ],
+      "text": "- spontane hervatting behandeling WIA-aanvraag (moet tenminste 6 weken voor verstrijken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        495.85,
+        209.95,
+        504.85
+      ],
+      "text": "maximale loonsanctieperiode).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        523.93,
+        312.02,
+        532.93
+      ],
+      "text": "4. Beslistermijn op WIA-aanvraag zonder loonsanctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        537.85,
+        217.04,
+        546.85
+      ],
+      "text": "Deze termijn bedraagt 8 weken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        551.89,
+        516.44,
+        560.89
+      ],
+      "text": "Deze termijn wordt opgeschort met ingang van de dag waarop wij de aanvrager hebben gevraagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        565.93,
+        514.98,
+        574.93
+      ],
+      "text": "om de aanvraag aan te vullen tot de dag waarop de aanvraag is aangevuld of de gegeven termijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        579.85,
+        522.61,
+        588.85
+      ],
+      "text": "ongebruikt is verstreken. De termijn wordt dus alleen opgeschort als wij de werknemer een termijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        593.89,
+        148.93,
+        602.89
+      ],
+      "text": "hebben gegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        607.93,
+        464.53,
+        616.93
+      ],
+      "text": "N.B.: Als de beslistermijn niet wordt gehaald, moet er een verdagingsbrief de deur uit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        629.89,
+        463.03,
+        638.89
+      ],
+      "text": "Nieuw per 1/1/2008: ook te late beslissing over voortzetting sanctie leidt tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        640.81,
+        138.53,
+        649.81
+      ],
+      "text": "vermindering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        651.73,
+        511.49,
+        660.73
+      ],
+      "text": "Via de Verzamelwet 2008 zal artikel 25 lid 14 WIA worden aangepast. Dit heeft tot gevolg dat bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        662.68,
+        478.25,
+        671.68
+      ],
+      "text": "herstelmeldingen van werkgevers waarop wij te laat beslissen, maar de sanctie wel wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        673.6,
+        520.69,
+        682.6
+      ],
+      "text": "voortgezet ook hier vermindering van de uiteindelijke loonsanctieduur moet plaatsvinden. Dit geldt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        684.52,
+        506.63,
+        693.52
+      ],
+      "text": "voor vaststellingen van de definitieve loonsanctieduur vanaf 1/1/2008. Dit heeft overigens geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        695.44,
+        353.15,
+        704.44
+      ],
+      "text": "effect als de tekortkomingen uiteindelijk niet worden hersteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        798.68,
+        505.97,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        83.82,
+        320.02,
+        92.82
+      ],
+      "text": "Meer dan 6 weken te laat met herstelbeschikking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        94.76,
+        523.6,
+        103.76
+      ],
+      "text": "Hoe berekenen we het einde van de loonsanctie als we in uitzonderlijke gevallen meer dan 6 weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        105.68,
+        395.54,
+        114.68
+      ],
+      "text": "te laat zijn met het beoordelen van het herstel van de tekortkomingen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        116.6,
+        514.34,
+        125.6
+      ],
+      "text": "Antwoord: Artikel 25 lid 14 stelt dat het sanctietijdvak eindigt zes weken na onze vaststelling van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        127.52,
+        437.97,
+        136.52
+      ],
+      "text": "het herstel van de tekortkomingen door de werkgever. Als wij te laat zijn met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        138.44,
+        514.03,
+        147.44
+      ],
+      "text": "sanctiebeschikking en/of de vaststelling ‘herstel’, dan eindigt het loonsanctietijdvak zoveel eerder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        149.36,
+        287.55,
+        158.36
+      ],
+      "text": "als de beschikking(en) later is (zijn) afgegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        160.4,
+        517.5,
+        169.4
+      ],
+      "text": "Zijn we niet akkoord met de herstelacties dan loopt in beide gevallen de sanctie door en geven we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        171.32,
+        499.34,
+        180.32
+      ],
+      "text": "daarover een beschikking af. Hierbij geven we eventuele nieuw gebleken tekortkomingen aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        182.24,
+        486.59,
+        191.24
+      ],
+      "text": "Indien wij na het opleggen van een sanctie uiteindelijk geen herstel van de tekortkomingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        193.16,
+        484.02,
+        202.16
+      ],
+      "text": "constateren dan heeft het te laat opleggen van de sanctie of een te late beslissing over het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        204.08,
+        384.45,
+        213.08
+      ],
+      "text": "aangegeven herstel geen gevolgen voor de maximale sanctietermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        226.04,
+        505.87,
+        235.04
+      ],
+      "text": "De afhandeling van de aanvraag wordt ook voortgezet zonder herstelmelding van de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        236.96,
+        148.77,
+        245.96
+      ],
+      "text": "(artikel 64 lid 8):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        258.8,
+        505.36,
+        267.8
+      ],
+      "text": "op verzoek van de werknemer bij einde dienstbetrekking uiterlijk 6 weken voor einde maximale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        269.72,
+        138.78,
+        278.72
+      ],
+      "text": "sanctietermijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        291.59,
+        153.71,
+        300.59
+      ],
+      "text": "artikel 25, 64 WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        798.68,
+        505.97,
+        806.72
+      ],
+      "text": "Rapportage onderzoek naar de ingangsdatum WIA bij een bekortingsverzoek / vs 0.8 (23-07-2018) 14",
+      "source": "text"
+    }
+  ]
+}

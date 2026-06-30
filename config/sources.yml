@@ -1,0 +1,6 @@
+host: https://www.uwv.nl
+overview_api: /api/overview/nl/wet-open-overheid/publicaties/woo-publicaties
+referer: https://www.uwv.nl/nl/wet-open-overheid/publicaties/woo-publicaties
+ocr_lang: nld
+min_chars_per_page: 40
+request_delay: 0.5

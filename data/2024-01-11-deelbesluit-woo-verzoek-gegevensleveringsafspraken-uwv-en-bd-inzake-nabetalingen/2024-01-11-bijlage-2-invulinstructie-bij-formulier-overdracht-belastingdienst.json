@@ -1,0 +1,737 @@
+{
+  "source_id": "2024-01-11-deelbesluit-woo-verzoek-gegevensleveringsafspraken-uwv-en-bd-inzake-nabetalingen/2024-01-11-bijlage-2-invulinstructie-bij-formulier-overdracht-belastingdienst",
+  "publication_slug": "2024-01-11-deelbesluit-woo-verzoek-gegevensleveringsafspraken-uwv-en-bd-inzake-nabetalingen",
+  "pdf_slug": "2024-01-11-bijlage-2-invulinstructie-bij-formulier-overdracht-belastingdienst",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/deelbesluit-woo-verzoek-gegevensleveringsafspraken-uwv-en-bd-inzake-nabetalingen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/d6fb4989-52b7-40f2-8bd6-73c7e5c39140/bijlage-2-invulinstructie-bij-formulier-overdracht-belastingdienst.pdf",
+  "publication_title": "Deelbesluit Woo-verzoek gegevensleveringsafspraken UWV en BD inzake nabetalingen",
+  "publication_date": "2024-01-11T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2. De invulinstructie bij Formulier Overdracht Belastingdienst (PDF, 310 kB)",
+  "retrieved_at": "2026-06-30T13:15:12+00:00",
+  "sha256": "d4fc0043b030351a601b644b4f176e41bc255ed1c98e7bd583d9cd64bb05bc92",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.8,
+        89.08,
+        636.65,
+        113.08
+      ],
+      "text": "Proces Continueren en muteren WIA, WAO/WAZ, Wajong",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        156.23,
+        330.11,
+        167.75
+      ],
+      "text": "Invulinstructie bij Formulier Overdracht Belastingdienst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        85.8,
+        175.82,
+        649.62,
+        187.34
+      ],
+      "text": "Let op: Omdat het formulier technische formules bevat, verandert de inhoud van sommige kolommen tijdens het invullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        195.26,
+        189.17,
+        206.78
+      ],
+      "text": "Oranje gedeelte: de TWK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        78.72,
+        215.78,
+        479.24,
+        227.3
+      ],
+      "text": "Kolom Instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        78.72,
+        235.82,
+        734.72,
+        247.34
+      ],
+      "text": "Bruto twk incl. vt, na verrekening Je vindt dit bedrag in het Excasso-scherm ‘Raadplegen betalingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.33,
+        255.26,
+        733.9,
+        266.78
+      ],
+      "text": "(EXCTA)’. Je ziet het pas op de dag na levering van de TWK aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.33,
+        274.84,
+        471.97,
+        286.36
+      ],
+      "text": "Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        78.72,
+        295.12,
+        736.9,
+        306.64
+      ],
+      "text": "Lopend jaar van twk incl. vt, na verrekening eigen rcv Je vindt de periode van 1 januari van het huidige jaar tot de TWK-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.33,
+        314.56,
+        757.86,
+        326.08
+      ],
+      "text": "vaststelling in het RESA/FASA-scherm T5406, in de kolom ‘verschil’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        446.33,
+        334.36,
+        481.83,
+        345.88
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.33,
+        354.78,
+        447.91,
+        364.74
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.33,
+        374.06,
+        449.31,
+        384.02
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        473.35,
+        392.59,
+        732.07,
+        404.11
+      ],
+      "text": "1. Dit is het brutobedrag zonder vt. De vt vind je in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        491.35,
+        412.15,
+        759.65,
+        423.67
+      ],
+      "text": "Excasso-scherm ‘Raadplegen betalingen (EXCTA)’ onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        491.35,
+        431.59,
+        736.75,
+        443.11
+      ],
+      "text": "schermfuncties ‘Overzicht deelperioden’. Als de vt is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        491.35,
+        451.15,
+        741.32,
+        462.67
+      ],
+      "text": "betaald, vind je daar ook de vt van 1 mei tot 1 mei. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        491.35,
+        470.59,
+        758.8,
+        482.11
+      ],
+      "text": "opbouw per maand vind je in Excasso-scherm ‘Raadpleeg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        491.35,
+        490.14,
+        681.74,
+        501.66
+      ],
+      "text": "gereserveerde vakantietoeslag (EXCAI)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        473.35,
+        79.31,
+        723.57,
+        90.83
+      ],
+      "text": "2. Als er in de TWK na verrekening geen bedrag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        98.87,
+        703.8,
+        110.39
+      ],
+      "text": "het lopend e jaar zit, dan vul je kolom I met 0.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        118.31,
+        756.54,
+        129.83
+      ],
+      "text": "Je gebruikt dan als ‘ datum tot ’ in kolom L de einddatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        137.87,
+        567.39,
+        149.39
+      ],
+      "text": "van de b etaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        157.31,
+        761.58,
+        168.83
+      ],
+      "text": "Voorbeeld: de TWK is van 10 april 2022 tot en met 31 juli",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        176.9,
+        765.05,
+        188.42
+      ],
+      "text": "2023. Als er verrekend is over de periode 1 november 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        196.34,
+        758.87,
+        207.86
+      ],
+      "text": "tot en met 31 juli 2023 , dan zet je in kolom I het bedrag 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.35,
+        215.9,
+        684.67,
+        227.42
+      ],
+      "text": "en in kolom L: 10-4-2022 tot 1- 11 -2022.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        236.06,
+        736.9,
+        247.58
+      ],
+      "text": "Lopend jaar van twk incl. vt, na verrekening met ZW/WW of GSD Je vindt de periode van 1 januari van het huidige jaar tot de TWK-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.33,
+        255.62,
+        741.98,
+        267.14
+      ],
+      "text": "vaststelling in het scherm ‘Raadplegen betalingen (EXCTA)’ onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.33,
+        275.08,
+        621.97,
+        286.6
+      ],
+      "text": "schermfuncties ‘Overzicht deelperioden’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.33,
+        294.64,
+        736.22,
+        306.16
+      ],
+      "text": "Als de vt is betaald, vind je daar ook de vt van 1 mei tot 1 mei. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.33,
+        314.08,
+        765.38,
+        325.6
+      ],
+      "text": "opbouw per maand vind je in Excasso-scherm ‘Raadpleeg gereserveerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.33,
+        333.64,
+        555.19,
+        345.16
+      ],
+      "text": "vakantietoeslag (EXCAI)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        353.08,
+        716.13,
+        364.6
+      ],
+      "text": "Let op: Als er in de TWK na verrekening geen bedrag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        372.64,
+        731.97,
+        384.16
+      ],
+      "text": "het lopend e jaar zit, dan vul je kolom I met 0. Je gebruikt dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        392.11,
+        671.44,
+        403.63
+      ],
+      "text": "als ‘ datum tot ’ in kolom L de einddatum van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        411.67,
+        759.41,
+        423.19
+      ],
+      "text": "betaling. Voorbeeld: de TWK is van 10 april 2022 tot en met 31 juli",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        431.11,
+        749.01,
+        442.63
+      ],
+      "text": "2023. Als er verrekend is over de periode 1 november 2022 tot en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        450.67,
+        743.06,
+        462.19
+      ],
+      "text": "met 31 juli 2023 , dan zet je in kolom I het bedrag 0 en in kolom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.33,
+        470.11,
+        581.83,
+        481.63
+      ],
+      "text": "L : 10-4-2022 tot 1-11- 2022.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        78.72,
+        490.38,
+        755.84,
+        501.9
+      ],
+      "text": "Loonheffing over totaalbedrag twk Je vindt de loonheffing in het Excasso-scherm ‘Raadplegen betalingen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        431.33,
+        509.97,
+        484.1,
+        521.49
+      ],
+      "text": "(EXCTA)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        79.31,
+        689.44,
+        90.83
+      ],
+      "text": "Betaalperiode vanaf (dd-mm-jjjj) Je vindt deze datum in het RESA/FASA-scherm T5406.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        99.59,
+        689.44,
+        111.11
+      ],
+      "text": "Betaalperiode tot (dd-mm-jjjj) Je vindt deze datum in het RESA/FASA-scherm T5406.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        119.87,
+        741.09,
+        131.39
+      ],
+      "text": "Datum uitbetaald (dd-mm-jjjj) Je vindt deze datum in het Excasso-scherm ‘Raadplegen betalingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        139.31,
+        585.84,
+        150.83
+      ],
+      "text": "(EXCTA)’ in het veld ‘dat verw’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        159.59,
+        408.55,
+        171.11
+      ],
+      "text": "Blauwe gedeelte: de structurele uitkering (of het maandelijkse voorschot)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        180.14,
+        479.24,
+        191.66
+      ],
+      "text": "Kolom Instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        200.06,
+        764.27,
+        211.58
+      ],
+      "text": "Nader te vullen o.b.v. einddatum twk en datum uitbetaald (kolom N) Je vermeldt in de kolom N de uitkering die maandelijks structureel werd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        219.62,
+        739.86,
+        231.14
+      ],
+      "text": "betaald. De tekst bij de kolom N vermeldt dan de maand die je hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        239.06,
+        759.69,
+        250.58
+      ],
+      "text": "opgeeft, afhankelijk van de begin- en einddatum van de nabetaling. Als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        258.62,
+        763.97,
+        270.14
+      ],
+      "text": "hier vragen over zijn, kan de stafmedewerker daarvoor contact opnemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        278.08,
+        736.56,
+        289.6
+      ],
+      "text": "met het belteam. Afhankelijk van de einddatum van de twk kan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        297.64,
+        631.27,
+        309.16
+      ],
+      "text": "kolom N ook ‘nvt’ zijn. Dit is dan vermeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        317.92,
+        757.77,
+        329.44
+      ],
+      "text": "Nader te vullen o.b.v. einddatum twk en datum uitbetaald (kolom O) Je vermeldt in de kolom O meestal de uitkering van de maand nadat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        337.36,
+        761.35,
+        348.88
+      ],
+      "text": "twk wordt betaald. Soms vermeld je in de kolom O de uitkering vanaf 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        356.92,
+        765.21,
+        368.44
+      ],
+      "text": "januari: dit is dan in deze kolom vermeld. Afhankelijk van de einddatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        376.36,
+        738.13,
+        387.88
+      ],
+      "text": "van de twk kan de kolom O ook ‘nvt’ zijn. Dit is dan ook vermeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        78.72,
+        396.67,
+        761.95,
+        408.19
+      ],
+      "text": "Loonheffingskorting toegepast ja/nee/nvt Je ziet in het Excasso-scherm ‘Raadplegen fiscale gegevens (GEMBA)’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.33,
+        416.11,
+        627.64,
+        427.63
+      ],
+      "text": "of de loonheffingskorting wordt toegepast.",
+      "source": "text"
+    }
+  ]
+}

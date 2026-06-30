@@ -1,0 +1,5777 @@
+{
+  "source_id": "2024-08-29-woo-besluit-rol-en-werkwijze-uwv-bij-uitdiensttreding-zieke-werknemer-erd/2024-08-29-bijlage-4-analyse-erd-overnameproces",
+  "publication_slug": "2024-08-29-woo-besluit-rol-en-werkwijze-uwv-bij-uitdiensttreding-zieke-werknemer-erd",
+  "pdf_slug": "2024-08-29-bijlage-4-analyse-erd-overnameproces",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-rol-en-werkwijze-uwv-bij-uitdiensttreding-zieke-werknemer-erd",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0184778b-6cf3-40ea-82bd-a46848c06215/bijlage-4-analyse-erd-overnameproces.pdf",
+  "publication_title": "Woo-besluit rol en werkwijze UWV bij uitdiensttreding zieke werknemer ERD",
+  "publication_date": "2024-08-29T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 4. Analyse ERD overnameproces (PDF, 370 kB)",
+  "retrieved_at": "2026-06-30T12:55:30+00:00",
+  "sha256": "b815ce6346cb4872319cf138ba46a655df109a99fe436d16e8e9d73092b758e9",
+  "page_count": 15,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        144.36,
+        304.98,
+        303.21,
+        321.46
+      ],
+      "text": "Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.83,
+        325.09,
+        390.71,
+        341.57
+      ],
+      "text": "Optimaliseren ERD overnameproces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        198.84,
+        414.73,
+        248.76,
+        423.73
+      ],
+      "text": "Versie: 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        179.54,
+        425.75,
+        268.18,
+        434.75
+      ],
+      "text": "Datum:08-07-2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.49,
+        436.74,
+        224.6,
+        445.74
+      ],
+      "text": "Opgesteld door:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.33,
+        133.88,
+        386.61,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        53.33,
+        171.21,
+        109.77,
+        181.74
+      ],
+      "text": "Versiebeheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        59.81,
+        196.66,
+        341.36,
+        203.43
+      ],
+      "text": "Versie Datum Status Korte beschrijving wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.12,
+        206.77,
+        278.82,
+        213.54
+      ],
+      "text": "0.1 08-07-2024 Concept Eerste versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        61.63,
+        277.49,
+        321.03,
+        284.26
+      ],
+      "text": "Afgestemd met: Datum Resultaat afstemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.33,
+        678.49,
+        140.63,
+        685.26
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.33,
+        688.3,
+        353.13,
+        695.07
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 2 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.33,
+        157.68,
+        117.56,
+        168.21
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.33,
+        177.89,
+        393.92,
+        184.66
+      ],
+      "text": "VERSIEBEHEER ................................................................................................................. 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.33,
+        199.28,
+        393.92,
+        206.05
+      ],
+      "text": "INHOUDSOPGAVE ............................................................................................................. 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.33,
+        220.66,
+        393.92,
+        227.43
+      ],
+      "text": "1 INLEIDING .............................................................................................................. 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        232.93,
+        393.87,
+        239.7
+      ],
+      "text": "1.1 Opdracht .......................................................................................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        241.13,
+        393.87,
+        247.9
+      ],
+      "text": "1.2 Relatie met andere wijzigingsverzoeken of opdrachten ........................................... 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        249.44,
+        393.87,
+        256.21
+      ],
+      "text": "1.3 Brondocumentatie .............................................................................................. 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        257.65,
+        393.87,
+        264.42
+      ],
+      "text": "1.4 Betrokken medewerkers/stakeholders .................................................................. 4",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.33,
+        274.88,
+        393.92,
+        281.65
+      ],
+      "text": "2 PROBLEEMANALYSE ................................................................................................. 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        287.24,
+        393.87,
+        294.01
+      ],
+      "text": "2.1 Afbakenen probleemgebied ................................................................................. 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        295.45,
+        393.87,
+        302.22
+      ],
+      "text": "2.2 Huidige situatie ................................................................................................. 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        303.65,
+        393.87,
+        310.42
+      ],
+      "text": "2.3 Probleeminventarisatie ....................................................................................... 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        311.86,
+        393.94,
+        318.63
+      ],
+      "text": "2.4 Veranderingsdoelstellingen ................................................................................ 10",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        53.33,
+        329.09,
+        393.83,
+        335.86
+      ],
+      "text": "3 VERANDERINGSANALYSE ...................................................................................... 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.62,
+        341.45,
+        393.94,
+        348.22
+      ],
+      "text": "3.1 Gewenste situatie ............................................................................................. 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 3 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        53.33,
+        157.68,
+        104.29,
+        168.21
+      ],
+      "text": "1 Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.98,
+        172.27,
+        120.37,
+        184.27
+      ],
+      "text": "Opdracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        174.13,
+        69.38,
+        183.13
+      ],
+      "text": "1.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        188.72,
+        387.72,
+        195.49
+      ],
+      "text": "Het optimaliseren van het ERD overnameproces vanaf de ontvangst van het overnameverzoek tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        198.56,
+        202.02,
+        205.33
+      ],
+      "text": "en met het overnemen van de ziekmelding.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.98,
+        220.44,
+        337.15,
+        232.44
+      ],
+      "text": "Relatie met andere wijzigingsverzoeken of opdrachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        222.3,
+        69.38,
+        231.3
+      ],
+      "text": "1.2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        236.89,
+        286.01,
+        243.66
+      ],
+      "text": "De opdracht heeft een relatie met de volgende wijzigingsverzoeken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        246.63,
+        311.28,
+        253.4
+      ],
+      "text": "ZWVA-5797 Overname individueel geval beëindiging bedrijf ERD werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        256.37,
+        209.39,
+        263.14
+      ],
+      "text": "ZWVA-5889 Verbeteren overnameproces ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        266.21,
+        332.9,
+        272.98
+      ],
+      "text": "ZWVA-6801 Verbeteren informatie voorziening over 'overname proces ERD-geval'",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        275.96,
+        218.88,
+        282.73
+      ],
+      "text": "ZWVA-7489 Brief bij overname ziekmelding ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        285.7,
+        256.71,
+        292.47
+      ],
+      "text": "ZWVA-7490 Aanpassing ontvangstdatum na overname ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        295.52,
+        233.38,
+        302.29
+      ],
+      "text": "ZWVA-7901 Issue: Onduidelijkheden ERD instructies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        305.26,
+        311.28,
+        312.03
+      ],
+      "text": "ZWVA-9390 Overname individueel geval beëindiging bedrijf ERD werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        315.01,
+        373.02,
+        321.78
+      ],
+      "text": "ZWVA-9387 Verbeteren informatie voorziening over 'overname proces ERD-geval' (instructie)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        324.85,
+        307.72,
+        331.62
+      ],
+      "text": "ZWVA-9391 Brief wordt niet altijd gestuurd bij overname ziekmelding ERD",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.98,
+        346.75,
+        165.71,
+        358.75
+      ],
+      "text": "Brondocumentatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        348.61,
+        69.38,
+        357.61
+      ],
+      "text": "1.3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        363.17,
+        393.25,
+        369.94
+      ],
+      "text": "Bij het uitwerken van deze business analyse is gebruik gemaakt van de volgende brondocumenten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.63,
+        383.12,
+        135.98,
+        389.89
+      ],
+      "text": "Titel brondocument",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.63,
+        393.22,
+        169.17,
+        399.99
+      ],
+      "text": "Proces Backoffice ZW –Actueel-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.63,
+        403.42,
+        144.81,
+        410.19
+      ],
+      "text": "Wetsuitleg ZW -Actueel-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        61.63,
+        413.53,
+        120.77,
+        420.3
+      ],
+      "text": "Verandersignalen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.98,
+        486.58,
+        259.45,
+        498.58
+      ],
+      "text": "Betrokken medewerkers/stakeholders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        488.44,
+        69.38,
+        497.44
+      ],
+      "text": "1.4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        503.02,
+        356.89,
+        509.79
+      ],
+      "text": "Bij het uitwerken van deze business analyse zijn de volgende medewerkers/stakeholders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        512.77,
+        90.61,
+        519.54
+      ],
+      "text": "betrokken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        60.72,
+        532.69,
+        257.71,
+        539.46
+      ],
+      "text": "Naam Afdeling Functie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        161.95,
+        542.17,
+        239.2,
+        548.94
+      ],
+      "text": "IV ZW BC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.95,
+        552.37,
+        250.57,
+        559.14
+      ],
+      "text": "ZW Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.95,
+        562.47,
+        243.64,
+        569.24
+      ],
+      "text": "ZW Staf",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        161.95,
+        572.67,
+        239.11,
+        579.44
+      ],
+      "text": "IV ZW BA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 4 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        53.33,
+        157.68,
+        140.92,
+        168.21
+      ],
+      "text": "2 Probleemanalyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.98,
+        172.27,
+        209.2,
+        184.27
+      ],
+      "text": "Afbakenen probleemgebied",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        174.13,
+        69.38,
+        183.13
+      ],
+      "text": "2.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        188.72,
+        378.91,
+        195.49
+      ],
+      "text": "De scope van het probleemgebied is het proces rondom het ontvangen van een verzoek tot het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        198.56,
+        390.09,
+        205.33
+      ],
+      "text": "overnemen van een ERD ziekmelding. Het proces voor het verhalen van de kosten valt niet binnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        208.3,
+        146.95,
+        215.07
+      ],
+      "text": "de scope van deze analyse.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.98,
+        240.02,
+        150.12,
+        252.02
+      ],
+      "text": "Huidige situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        241.88,
+        69.38,
+        250.88
+      ],
+      "text": "2.2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        266.21,
+        382.44,
+        272.98
+      ],
+      "text": "Binnen de Ziektewet (ZW) is het voor werkgevers mogelijk om zelf het risico te dragen voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        275.96,
+        384.4,
+        282.73
+      ],
+      "text": "aantal ziektegevallen. De werkgever kan dan eigenrisicodrager (ERD) worden voor de ZW en zelf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        285.7,
+        350.21,
+        292.47
+      ],
+      "text": "de ZW-uitkering van zijn (ex-)werknemers betalen die daar bij ziekte recht op hebben.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        305.26,
+        377.26,
+        312.03
+      ],
+      "text": "Het UWV controleert of de ERD de ZW goed uitvoert. De ERD moet ook voor ziektegevallen die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        315.01,
+        365.17,
+        321.78
+      ],
+      "text": "onder zijn risico vallen ziekteaangiften en hersteldmeldingen aan het UWV sturen. Bij einde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        324.85,
+        355.55,
+        331.62
+      ],
+      "text": "dienstverband doet de ERD de ziekteaangifte uiterlijk 6 weken na de laatste dag van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        334.59,
+        390.18,
+        341.36
+      ],
+      "text": "dienstverband als het dienstverband eindigt tijdens de eerste 104 weken van ziekte. Bij nawerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        344.33,
+        374.89,
+        351.1
+      ],
+      "text": "binnen 4 weken na einde dienstverband doet de ERD de ziekteaangifte uiterlijk 6 weken na de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        354.17,
+        112.02,
+        360.94
+      ],
+      "text": "eerste ziektedag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        373.66,
+        368.49,
+        380.43
+      ],
+      "text": "Als een ERD de ziekmelding niet in behandeling neemt of is gestopt met het betalen van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        383.48,
+        388.79,
+        390.25
+      ],
+      "text": "ziekengeld, kan de ex-werknemer zich tot het UWV wenden. UWV kan in dat geval de ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        393.22,
+        385.21,
+        399.99
+      ],
+      "text": "overnemen. De backoffices (BO) Zwolle en Hengelo handelen het ERD overnameproces af. Mocht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        402.97,
+        388.53,
+        409.74
+      ],
+      "text": "een overnameverzoek bij een andere BO binnenkomen, dan wordt deze doorgezet naar BO Zwolle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        412.81,
+        104.69,
+        419.58
+      ],
+      "text": "of BO Hengelo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        431.21,
+        219.5,
+        437.98
+      ],
+      "text": "Aanleiding voor een ERD overname verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        446.19,
+        298.21,
+        452.96
+      ],
+      "text": "Er zijn meerdere situaties die kunnen leiden tot een overname verzoek:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        461.07,
+        239.4,
+        467.9
+      ],
+      "text": "• ERD neemt de ziekmelding niet in behandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        469.28,
+        266.52,
+        476.11
+      ],
+      "text": "• ERD is gestopt met de afhandeling van de ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        80.38,
+        477.49,
+        274.0,
+        484.26
+      ],
+      "text": "Faillissement van of schuldsaneringsregeling bij een ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        477.55,
+        69.98,
+        484.32
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        80.38,
+        485.69,
+        291.08,
+        492.46
+      ],
+      "text": "Uitspraak Bezwaar en beroep (BOB) omdat er geen verhaal is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        485.75,
+        69.98,
+        492.52
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        80.38,
+        493.9,
+        246.77,
+        500.67
+      ],
+      "text": "Volledige beëindiging van het bedrijf van de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        493.96,
+        69.98,
+        500.73
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        516.99,
+        214.84,
+        523.76
+      ],
+      "text": "ERD neemt de ziekmelding niet in behandeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        531.89,
+        364.25,
+        538.66
+      ],
+      "text": "De (ex-)werknemer doet dit verzoek telefonisch via het Klantcontact center (KCC). De KCC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        540.82,
+        376.93,
+        547.59
+      ],
+      "text": "medewerker voert de ziekmelding alvast op in UZS. Hierdoor ontstaat in UZS signaal UZZ0361",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        549.65,
+        385.32,
+        556.42
+      ],
+      "text": "‘Werkgever mogelijk ERD op 1ste ziektedag’. De UD beoordeelt naar aanleiding van dit signaal of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        558.49,
+        393.31,
+        565.26
+      ],
+      "text": "het klopt dat er sprake is van ERD-schap van de werkgever op de 1ste ziektedag. Dit doet de UD in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        567.41,
+        325.91,
+        574.18
+      ],
+      "text": "het scherm ‘Beheren werkgever’ aan de hand van de begin- en einddatum ERD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        582.32,
+        368.07,
+        589.09
+      ],
+      "text": "• Er is sprake van ERD-schap: De UD registreert in het scherm ‘Beheren aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.38,
+        591.15,
+        383.89,
+        597.92
+      ],
+      "text": "ZW/ZW-ERD’ dat er sprake is van ERD en zet de indicatie <Vragenlijst> op nee. UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.38,
+        600.08,
+        377.55,
+        606.85
+      ],
+      "text": "maakt dan geen vragenlijst aan voor de cliënt. Tenslotte zorgt de UD ervoor dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.38,
+        608.93,
+        393.09,
+        615.7
+      ],
+      "text": "juiste ontvangstbevestiging naar de cliënt wordt verstuurd. Het is belangrijk dat signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.38,
+        617.77,
+        387.28,
+        624.54
+      ],
+      "text": "UZZ0361 op dezelfde dag wordt afgehandeld zodat UZS niet onterecht een vragenlijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.38,
+        626.69,
+        294.91,
+        633.46
+      ],
+      "text": "klaarzet en een verkeerde ontvangstbevestiging verstuurd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.86,
+        635.53,
+        393.83,
+        642.3
+      ],
+      "text": "• Er is geen sprake van ERD-schap: De UD informeert de MVB met een voorlegger in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        93.38,
+        644.38,
+        299.06,
+        651.15
+      ],
+      "text": "zodat de MVB een vragenlijst voor de cliënt kan klaarzetten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 5 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        159.13,
+        375.22,
+        165.9
+      ],
+      "text": "Naast het opvoeren van de ziekmelding zet de KCC-medewerker ook een informatieverzoek of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        167.96,
+        369.92,
+        174.73
+      ],
+      "text": "terugbelverzoek voor de UD klaar. De UD ontvangt dan één van onderstaande signalen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        176.89,
+        84.54,
+        183.66
+      ],
+      "text": "werklijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        191.79,
+        207.67,
+        198.56
+      ],
+      "text": "UZZ0558 Afhandelen vraag van klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.86,
+        191.85,
+        69.98,
+        198.62
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        200.62,
+        388.05,
+        207.39
+      ],
+      "text": "De KCC-medewerker heeft de vraag van de cliënt niet (volledig) kunnen beantwoorden en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        209.45,
+        339.92,
+        216.22
+      ],
+      "text": "maakt een terugbelverzoek voor de UD aan. De UD belt de cliënt dan terug.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        218.41,
+        210.8,
+        225.18
+      ],
+      "text": "UZZ0559 Informatiemelding van klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.86,
+        218.47,
+        69.98,
+        225.24
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        227.24,
+        386.7,
+        234.01
+      ],
+      "text": "De KCC-medewerker heeft de vraag van de cliënt verwerkt en informeert de UD hierover.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        236.07,
+        248.43,
+        242.84
+      ],
+      "text": "De UD kan deze informatie vervolgen verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        250.95,
+        391.11,
+        257.72
+      ],
+      "text": "Het ERD overnameproces start op het moment dat de UD heeft geconcludeerd dat er sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        259.9,
+        371.05,
+        266.67
+      ],
+      "text": "ERD-schap. De UD controleert of de wettelijke termijn van 6 weken voor het indienen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        268.73,
+        286.68,
+        275.5
+      ],
+      "text": "ziekteaangifte is verstreken. Hierbij kunnen twee situaties ontstaan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        283.61,
+        218.13,
+        290.38
+      ],
+      "text": "Wettelijke termijn is nog niet verstreken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.86,
+        283.67,
+        69.98,
+        290.44
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        292.54,
+        391.99,
+        299.31
+      ],
+      "text": "De UD wijst het overnameverzoek af en stuurt brief SET10I750 ‘Niet in behandeling nemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        301.4,
+        378.94,
+        308.17
+      ],
+      "text": "verzoek overname’ naar de cliënt en een kopie naar de ERD. In deze brief staat dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        310.23,
+        389.89,
+        317.0
+      ],
+      "text": "verzoek niet in behandeling wordt genomen en dat de cliënt zich opnieuw tot het UWV kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        319.16,
+        391.04,
+        325.93
+      ],
+      "text": "wenden na het verstrijken van de wettelijke termijn van 6 weken. Er wordt in deze situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        328.01,
+        390.36,
+        334.78
+      ],
+      "text": "niet bewaakt of de ERD de ziekmelding in behandeling heeft genomen. Dit gebeurd pas als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        336.85,
+        286.78,
+        343.62
+      ],
+      "text": "de cliënt weer belt nadat de wettelijke termijn is verstreken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.86,
+        345.77,
+        187.93,
+        352.6
+      ],
+      "text": "• Wettelijke termijn is verstreken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        354.61,
+        385.21,
+        361.38
+      ],
+      "text": "De UD stuurt brief SET11A007 ‘Verzoek om ziekmelding in behandeling te nemen (ERD)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        363.56,
+        382.3,
+        370.33
+      ],
+      "text": "Met deze brief wordt de ERD verzocht om de ziekmelding in behandeling te nemen en te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        372.39,
+        108.05,
+        379.16
+      ],
+      "text": "betalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        381.22,
+        360.46,
+        387.99
+      ],
+      "text": "10 kalenderdagen na het versturen van deze brief controleert de UD of de ERD de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        390.15,
+        373.09,
+        396.92
+      ],
+      "text": "ziekmelding in behandeling heeft genomen. Als dit niet het geval is stuurt de UD brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        399.01,
+        376.37,
+        405.78
+      ],
+      "text": "SET17G023 ‘Herhaald verzoek om ziekmelding in behandeling te nemen’. In deze brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        407.84,
+        393.6,
+        414.61
+      ],
+      "text": "wordt verwezen naar de eerder verstuurde brief SET11A007 en krijgt de ERD nog één week",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        416.77,
+        282.48,
+        423.54
+      ],
+      "text": "de tijd om de ziekmelding alsnog in behandeling te nemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        425.62,
+        388.08,
+        432.39
+      ],
+      "text": "10 kalenderdagen na het versturen van het herhaald verzoek controleert de UD of de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        434.45,
+        380.27,
+        441.22
+      ],
+      "text": "de ziekmelding in behandeling heeft genomen. Als dit niet het geval is, neemt de UD de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        443.38,
+        370.19,
+        450.15
+      ],
+      "text": "ziekmelding over. De UD informeert de ERD over de overname met brief SET17G024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        452.21,
+        386.42,
+        458.98
+      ],
+      "text": "‘Beslissing overname ziekmelding ERD’. In deze brief wordt de ERD erop gewezen dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        461.17,
+        380.14,
+        467.94
+      ],
+      "text": "UWV de ziekmelding overneemt en de uitkeringskosten en uitvoeringskosten op de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        470.0,
+        129.67,
+        476.77
+      ],
+      "text": "gaat verhalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        579.34,
+        239.47,
+        586.11
+      ],
+      "text": "ERD is gestopt met de afhandeling van de ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        594.22,
+        392.3,
+        600.99
+      ],
+      "text": "De (ex-)werknemer geeft via het KCC aan dat zijn werkgever (ERD) is gestopt met het betalen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        603.15,
+        385.49,
+        609.92
+      ],
+      "text": "zijn ZW-uitkering. De KCC medewerker hoort het verhaal aan en maakt een informatiemelding of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        611.98,
+        365.44,
+        618.75
+      ],
+      "text": "terugbelverzoek voor de UD aan. De UD ontvangt dan één van onderstaande signalen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        620.84,
+        84.54,
+        627.61
+      ],
+      "text": "werklijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        635.72,
+        207.67,
+        642.49
+      ],
+      "text": "UZZ0558 Afhandelen vraag van klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.86,
+        635.78,
+        69.98,
+        642.55
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        644.65,
+        388.05,
+        651.42
+      ],
+      "text": "De KCC-medewerker heeft de vraag van de cliënt niet (volledig) kunnen beantwoorden en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        653.48,
+        339.92,
+        660.25
+      ],
+      "text": "maakt een terugbelverzoek voor de UD aan. De UD belt de cliënt dan terug.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        80.38,
+        662.33,
+        210.8,
+        669.1
+      ],
+      "text": "UZZ0559 Informatiemelding van klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.86,
+        662.39,
+        69.98,
+        669.16
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 6 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        80.38,
+        159.13,
+        386.59,
+        165.9
+      ],
+      "text": "De KCC-medewerker heeft de vraag van de cliënt verwerkt en informeert de UD hierover.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        80.38,
+        167.96,
+        252.11,
+        174.73
+      ],
+      "text": "De UD kan deze informatie vervolgens verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        182.86,
+        380.06,
+        189.63
+      ],
+      "text": "De UD verstuurt brief SET17G021 ‘Beëindiging betaling door ERD’. Met deze brief wordt de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        191.79,
+        353.8,
+        198.56
+      ],
+      "text": "verzocht om binnen één week na dagtekening van de brief, de betaling te hervatten. 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        200.62,
+        371.88,
+        207.39
+      ],
+      "text": "kalenderdagen na het versturen van deze brief controleert de UD of de ERD de betaling heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        209.45,
+        388.45,
+        216.22
+      ],
+      "text": "hervat. Als dit niet het geval is, neemt de UD het ziektegeval over. De UD informeert de ERD over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        218.41,
+        379.0,
+        225.18
+      ],
+      "text": "de overname met brief SET17G022 ‘Beslissing overname gevalsbehandeling ERD’. In deze brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        227.24,
+        289.89,
+        234.01
+      ],
+      "text": "wordt de ERD erop gewezen dat het UWV de ziekmelding overneemt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        345.68,
+        246.95,
+        352.45
+      ],
+      "text": "Faillissement van of schuldsaneringsregeling bij een ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        360.56,
+        339.08,
+        367.33
+      ],
+      "text": "Een faillissement van de ERD wordt via het KCC, door de ex-werknemer of door het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        369.41,
+        393.95,
+        376.18
+      ],
+      "text": "administratiekantoor doorgegeven, maar kan ook via de afdeling Faillissementen binnenkomen. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        378.34,
+        390.74,
+        385.11
+      ],
+      "text": "UWV neemt de ZW-uitkering vanaf de datum dat het faillissement is uitgesproken over of vanaf de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        387.17,
+        384.82,
+        393.94
+      ],
+      "text": "datum waarop de schuldsaneringsregeling van toepassing is verklaard. De UD informeert de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        396.03,
+        350.84,
+        402.8
+      ],
+      "text": "over de overname met brief SET17G025 ‘Beslissing overname gevalsbehandeling ERD’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        410.91,
+        190.06,
+        417.68
+      ],
+      "text": "Uitspraak BOB omdat er geen verhaal is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        425.79,
+        347.21,
+        432.56
+      ],
+      "text": "Volgens de wet (art 62a lid 3 ZW) betaalt de ERD namens het UWV ziekengeld aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        434.72,
+        392.76,
+        441.49
+      ],
+      "text": "(ex)werknemer. Betaalt de ERD niet, dan betaalt UWV. Vervolgens verhaalt UWV het ziekengeld op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        443.57,
+        389.43,
+        450.34
+      ],
+      "text": "de ERD. Soms kan het UWV, op basis van een uitspraak van BOB, de ZW-uitkering niet op de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        452.5,
+        389.39,
+        459.27
+      ],
+      "text": "verhalen en wordt de ziekmelding overgenomen. De UD informeert de ERD over de overname met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        461.33,
+        270.96,
+        468.1
+      ],
+      "text": "brief SET17G025 ‘Beslissing overname gevalsbehandeling ERD’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        476.21,
+        219.72,
+        482.98
+      ],
+      "text": "Volledige beëindiging van het bedrijf van de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        491.12,
+        388.74,
+        497.89
+      ],
+      "text": "Wanneer de ERD werkgever zijn bedrijf volledig beëindigt tijdens een Ziektewet-uitkering die voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        499.95,
+        365.03,
+        506.72
+      ],
+      "text": "zijn risico komt, neemt het UWV de ziekmelding vanaf de datum dat het werkgeverschap is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        508.88,
+        373.06,
+        515.65
+      ],
+      "text": "geëindigd over. De UD informeert de ERD over de overname met brief SET17G025 ‘Beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        517.71,
+        173.45,
+        524.48
+      ],
+      "text": "overname gevalsbehandeling ERD’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 7 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.98,
+        187.25,
+        187.37,
+        199.25
+      ],
+      "text": "Probleeminventarisatie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        53.33,
+        189.11,
+        69.38,
+        198.11
+      ],
+      "text": "2.3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        203.69,
+        386.96,
+        210.46
+      ],
+      "text": "In onderstaande tabel worden de problemen aangegeven die zich in de huidige situatie voordoen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        213.44,
+        393.2,
+        220.21
+      ],
+      "text": "In de tabel wordt per probleem een korte beschrijving gegeven en voorts wordt aangegeven wie de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        223.18,
+        389.51,
+        229.95
+      ],
+      "text": "probleemeigenaar is. De probleemeigenaar is de persoon die verantwoordelijk is voor dat deel van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        233.0,
+        386.59,
+        239.77
+      ],
+      "text": "de bedrijfsvoering waarbij het probleem speelt. Een probleem wordt gedefinieerd in samenspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        242.74,
+        143.4,
+        249.51
+      ],
+      "text": "met de probleemeigenaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        68.66,
+        282.76,
+        372.39,
+        288.79
+      ],
+      "text": "Nr Probleem naam Probleem omschrijving Probleem eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        302.71,
+        269.26,
+        308.74
+      ],
+      "text": "1 Voor de UD is het ERD - De UD weet niet welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        312.52,
+        281.18,
+        318.55
+      ],
+      "text": "overname proces bewegingsruimte er is met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        322.27,
+        286.6,
+        328.3
+      ],
+      "text": "onduidelijk ingericht betrekking tot het in contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        332.01,
+        276.04,
+        338.04
+      ],
+      "text": "treden met de ERD en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        341.85,
+        265.32,
+        347.88
+      ],
+      "text": "administratiekantoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        186.74,
+        351.6,
+        287.42,
+        357.63
+      ],
+      "text": "- Als de wettelijke termijn nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        361.34,
+        289.98,
+        367.37
+      ],
+      "text": "niet is verstreken bewaakt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        371.18,
+        264.34,
+        377.21
+      ],
+      "text": "UD niet of de ERD de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        380.92,
+        293.44,
+        386.95
+      ],
+      "text": "ziekmelding al heeft opgepakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        390.67,
+        292.66,
+        396.7
+      ],
+      "text": "De ERD krijgt alleen een kopie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        400.48,
+        290.97,
+        406.51
+      ],
+      "text": "van de brief die naar de client",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        410.23,
+        286.36,
+        416.26
+      ],
+      "text": "gaat en waarin staat dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        419.97,
+        296.01,
+        426.0
+      ],
+      "text": "UWV het overnameverzoek niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        429.81,
+        296.16,
+        435.84
+      ],
+      "text": "in behandeling neemt. Hierdoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        439.56,
+        264.16,
+        445.59
+      ],
+      "text": "blijft de cliënt lang in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        449.3,
+        280.24,
+        455.33
+      ],
+      "text": "onzekerheid over zijn ZW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        459.14,
+        299.0,
+        465.17
+      ],
+      "text": "uitkering en is de kans groot dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        468.88,
+        286.61,
+        474.91
+      ],
+      "text": "de ziekmelding te laat wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        478.6,
+        230.51,
+        484.63
+      ],
+      "text": "opgepakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        186.74,
+        488.44,
+        299.36,
+        494.47
+      ],
+      "text": "- De manier waarop het proces nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        498.19,
+        289.34,
+        504.22
+      ],
+      "text": "is ingericht (m.n. de gestelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        507.93,
+        292.8,
+        513.96
+      ],
+      "text": "termijnen) zorgt ervoor dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        517.77,
+        263.53,
+        523.8
+      ],
+      "text": "cliënt veel te lang op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        527.52,
+        277.68,
+        533.55
+      ],
+      "text": "duidelijkheid omtrent zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.28,
+        537.26,
+        274.18,
+        543.29
+      ],
+      "text": "uitkering moet wachten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        576.76,
+        270.17,
+        582.79
+      ],
+      "text": "2 Werkinstructie De werkinstructie beschrijft niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        586.51,
+        284.07,
+        592.54
+      ],
+      "text": "‘Overname individueel (voldoende) welke stappen op welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        596.25,
+        291.48,
+        602.28
+      ],
+      "text": "geval op aangeven (ex- termijnen genomen moeten worden en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        606.09,
+        284.76,
+        612.12
+      ],
+      "text": ")werknemer ERD of welke bewegingsruimte de UD heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        615.84,
+        300.26,
+        621.87
+      ],
+      "text": "failliete ERD-werkgever’ Hierdoor zijn UD’en veel tijd kwijt aan het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        92.02,
+        625.58,
+        299.86,
+        631.61
+      ],
+      "text": "is onvolledig uitzoeken hoe ze een situatie aan moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        173.23,
+        635.4,
+        284.26,
+        641.43
+      ],
+      "text": "pakken en wordt er ook niet uniform",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        173.23,
+        645.14,
+        199.76,
+        651.17
+      ],
+      "text": "gewerkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        173.23,
+        664.72,
+        299.75,
+        670.75
+      ],
+      "text": "Ook staat niet in de instructie beschreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        173.23,
+        674.47,
+        296.36,
+        680.5
+      ],
+      "text": "dat bij een volledige beëindiging van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 8 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        68.66,
+        170.9,
+        372.39,
+        176.93
+      ],
+      "text": "Nr Probleem naam Probleem omschrijving Probleem eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        190.84,
+        274.41,
+        196.87
+      ],
+      "text": "bedrijf, het UWV de ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        200.59,
+        208.04,
+        206.62
+      ],
+      "text": "overneemt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        210.76,
+        151.65,
+        216.79
+      ],
+      "text": "3 De inhoud van brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        220.51,
+        154.85,
+        226.54
+      ],
+      "text": "SET11A007 ‘Verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        230.35,
+        147.24,
+        236.38
+      ],
+      "text": "om ziekmelding in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        240.09,
+        161.32,
+        246.12
+      ],
+      "text": "behandeling te nemen’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        249.84,
+        131.93,
+        255.87
+      ],
+      "text": "is onvolledig.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        260.04,
+        281.45,
+        266.07
+      ],
+      "text": "4 De geldende termijnen In instructies, KCC content, brieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        269.78,
+        295.19,
+        275.81
+      ],
+      "text": "komen niet overeen. komen verschillende termijnen voor. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        279.52,
+        281.57,
+        285.55
+      ],
+      "text": "zorgt intern voor onduidelijkheid bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        289.34,
+        297.58,
+        295.37
+      ],
+      "text": "zowel de UD’en als de klantadviseurs. En",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        299.08,
+        283.6,
+        305.11
+      ],
+      "text": "ook naar de client en ERD schept dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        308.83,
+        297.84,
+        314.86
+      ],
+      "text": "onduidelijkheid en komt het slordig over.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        319.03,
+        296.12,
+        325.06
+      ],
+      "text": "5 Het versturen van de Als de ZW-uitkering wordt overgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        328.77,
+        265.63,
+        334.8
+      ],
+      "text": "overnamebeschikking moet brief SET17G022 of brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        338.61,
+        293.75,
+        344.64
+      ],
+      "text": "wordt vaak vergeten. SET17G024 worden gestuurd. Door een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        348.36,
+        280.46,
+        354.39
+      ],
+      "text": "van deze brieven te sturen zet UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        358.1,
+        260.57,
+        364.13
+      ],
+      "text": "signaal UZZ0488 Beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        367.92,
+        292.37,
+        373.95
+      ],
+      "text": "verhaalkosten ERD’ klaar. Dit signaal is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        377.66,
+        298.78,
+        383.69
+      ],
+      "text": "de trigger om de uitvoeringskosten op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        387.4,
+        292.72,
+        393.43
+      ],
+      "text": "ERD te verhalen. Als de UD vergeet om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        397.24,
+        279.94,
+        403.27
+      ],
+      "text": "de brief te versturen dan wordt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        406.99,
+        282.81,
+        413.02
+      ],
+      "text": "signaal ook niet gezet en worden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        416.73,
+        269.26,
+        422.76
+      ],
+      "text": "gemaakte kosten niet verhaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        426.93,
+        295.97,
+        432.96
+      ],
+      "text": "6 ERD overname proces Wanneer een dossier uit het ERD-proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        436.68,
+        296.66,
+        442.71
+      ],
+      "text": "zorgt voor te late wordt gehaald zet UZS Signaal UZZ0051",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        446.42,
+        288.71,
+        452.45
+      ],
+      "text": "afhandeling van Signaal ‘Nog niet toe- of afgewezen aanvraag’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        456.24,
+        294.5,
+        462.27
+      ],
+      "text": "UZZ0051 ‘Nog niet toe- klaar. Dit signaal triggert de UD om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        465.98,
+        298.35,
+        472.01
+      ],
+      "text": "of afgewezen aanvraag’ dossier op tijd toe te wijzen. De uiterlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        475.72,
+        285.96,
+        481.75
+      ],
+      "text": "afhandeltermijn van het signaal is 15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        485.56,
+        299.23,
+        491.59
+      ],
+      "text": "werkdagen vanaf de ontvangstdatum van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        495.31,
+        290.94,
+        501.34
+      ],
+      "text": "een ziekmelding. Bij een overgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        505.05,
+        284.73,
+        511.08
+      ],
+      "text": "ERD dossier is die termijn meestal al",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        514.89,
+        295.11,
+        520.92
+      ],
+      "text": "verstreken waardoor het signaal als niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        524.61,
+        287.45,
+        530.64
+      ],
+      "text": "tijdig afgehandeld gekenmerkt wordt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        543.97,
+        290.79,
+        550.74
+      ],
+      "text": "In een aantal brieven (SET11A007",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        544.56,
+        160.66,
+        550.59
+      ],
+      "text": "7 Aanmaken herinnering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        553.71,
+        199.31,
+        560.48
+      ],
+      "text": "‘Verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        92.02,
+        554.3,
+        295.37,
+        560.33
+      ],
+      "text": "wordt vaak vergeten om ziekmelding in behandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        181.33,
+        563.55,
+        299.85,
+        570.32
+      ],
+      "text": "nemen’, brief SET17G023 ‘Herhaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        564.14,
+        179.17,
+        570.17
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        573.88,
+        292.93,
+        579.91
+      ],
+      "text": "verzoek om ziekmelding in behandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        205.97,
+        583.04,
+        232.05,
+        589.81
+      ],
+      "text": "en brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        583.63,
+        269.79,
+        589.66
+      ],
+      "text": "te nemen’ SET17G021",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        593.44,
+        299.91,
+        599.47
+      ],
+      "text": "‘Beëindiging betaling door ERD’) wordt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        603.19,
+        290.31,
+        609.22
+      ],
+      "text": "ERD verzocht om binnen een bepaalde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        612.93,
+        288.74,
+        618.96
+      ],
+      "text": "tijd de ZW-uitkering in behandeling te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        622.77,
+        292.92,
+        628.8
+      ],
+      "text": "nemen/hervatten. De UD maakt in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        632.52,
+        296.1,
+        638.55
+      ],
+      "text": "handmatig een herinnering aan om deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        642.26,
+        281.14,
+        648.29
+      ],
+      "text": "termijn te bewaken. Het handmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        652.1,
+        280.56,
+        658.13
+      ],
+      "text": "aanmaken van een herinnering kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        661.84,
+        277.88,
+        667.87
+      ],
+      "text": "vergeten worden en is daarom erg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        173.23,
+        671.59,
+        279.27,
+        677.62
+      ],
+      "text": "kwetsbaar. De UD’en kan daardoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 9 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        68.66,
+        170.9,
+        372.39,
+        176.93
+      ],
+      "text": "Nr Probleem naam Probleem omschrijving Probleem eigenaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        173.23,
+        191.56,
+        283.05,
+        197.59
+      ],
+      "text": "vergeten om het proces verder af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        173.23,
+        201.4,
+        203.02,
+        207.43
+      ],
+      "text": "handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        211.51,
+        280.94,
+        217.54
+      ],
+      "text": "8 Werkinstructie Wanneer KCC Een ERD ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        92.02,
+        221.32,
+        282.93,
+        227.35
+      ],
+      "text": "UZZ0361 sluit niet aan opvoeren, zet UZS signaal UZZ0361",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        92.02,
+        231.07,
+        267.52,
+        237.1
+      ],
+      "text": "op de werkinstructie Werkgever mogelijk ERD op 1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        92.02,
+        240.81,
+        298.88,
+        246.84
+      ],
+      "text": "Overname individueel ziektedag. In de instructie van dit signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        92.02,
+        250.65,
+        280.3,
+        256.68
+      ],
+      "text": "geval op aangeven ex- staat geen verwijzing naar het ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        92.02,
+        260.4,
+        294.04,
+        266.43
+      ],
+      "text": "werknemer overnameproces. Hierdoor kan het voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        173.23,
+        270.14,
+        285.5,
+        276.17
+      ],
+      "text": "komen dat de UD niet ziet dat er ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        173.23,
+        279.98,
+        284.69,
+        286.01
+      ],
+      "text": "sprake is van een overnameverzoek.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        74.98,
+        380.57,
+        206.65,
+        392.57
+      ],
+      "text": "Veranderingsdoelstellingen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        53.33,
+        382.43,
+        69.38,
+        391.43
+      ],
+      "text": "2.4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.33,
+        407.38,
+        388.09,
+        414.15
+      ],
+      "text": "Door procesoptimalisatie wordt het proces rondom het overlijden van een klant en het beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.33,
+        417.85,
+        223.83,
+        424.62
+      ],
+      "text": "van het recht op overlijdensuitkering eenduidiger.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        63.14,
+        449.11,
+        281.45,
+        455.14
+      ],
+      "text": "Nr Probleem naam Veranderingsdoelstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        65.33,
+        468.96,
+        395.36,
+        474.99
+      ],
+      "text": "1 Voor de UD is het ERD overname Het moet voor de UD duidelijk zijn welke stappen er ondernomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        478.8,
+        393.48,
+        484.83
+      ],
+      "text": "proces onduidelijk ingericht kunnen worden binnen het ERD overnameproces, zodat de client",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        488.54,
+        396.26,
+        494.57
+      ],
+      "text": "(zowel werknemer als werkgever) zo goed mogelijk geholpen kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        498.28,
+        221.49,
+        504.31
+      ],
+      "text": "worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        508.12,
+        398.34,
+        514.15
+      ],
+      "text": "Ook in geval dat de wettelijke termijn nog niet is verstreken is het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        517.87,
+        376.38,
+        523.9
+      ],
+      "text": "in het kader van klantgerichtheid wenselijk dat de UD actie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        527.61,
+        380.51,
+        533.64
+      ],
+      "text": "onderneemt richting de ERD en de voortgang bewaakt zodat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        537.43,
+        381.83,
+        543.46
+      ],
+      "text": "voorkomen kan worden dat de cliënt te lang op zijn uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        547.17,
+        241.97,
+        553.2
+      ],
+      "text": "moet wachten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        65.33,
+        557.37,
+        384.26,
+        563.4
+      ],
+      "text": "2 Werkinstructie ‘Overname Werkinstructie ‘Overname individueel geval op aangeven (ex-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        567.12,
+        385.43,
+        573.15
+      ],
+      "text": "individueel geval op aangeven )werknemer ERD of failliete ERD-werkgever’ wordt inhoudelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        576.86,
+        384.12,
+        582.89
+      ],
+      "text": "(ex-)werknemer ERD of failliete verbeterd zodat deze aansluit op het verbeterde proces en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        586.7,
+        340.67,
+        592.73
+      ],
+      "text": "ERD-werkgever’ is onvolledig UD’en op een uniforme manier kunnen werken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        65.33,
+        606.55,
+        377.88,
+        612.58
+      ],
+      "text": "3 Verbetering van brief SET11A007 Brief SET11A007 wordt inhoudelijk verbeterd. De wettelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        616.36,
+        396.03,
+        622.39
+      ],
+      "text": "‘Verzoek om ziekmelding in termijn wordt hierin opgenomen en ook de consequenties die een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        626.11,
+        236.93,
+        632.14
+      ],
+      "text": "behandeling te nemen’ is ERD riskeert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        635.85,
+        117.58,
+        641.88
+      ],
+      "text": "onvolledig.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        65.33,
+        646.05,
+        382.92,
+        652.08
+      ],
+      "text": "4 De geldende termijnen komen De termijnen die in instructies, KCC content en brieven staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        84.62,
+        655.8,
+        379.26,
+        661.83
+      ],
+      "text": "niet overeen. moeten overeenkomen en passen bij de geldende wettelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        196.94,
+        665.64,
+        221.04,
+        671.67
+      ],
+      "text": "termijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 10 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        63.14,
+        170.9,
+        281.45,
+        176.93
+      ],
+      "text": "Nr Probleem naam Veranderingsdoelstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.33,
+        190.84,
+        377.88,
+        196.87
+      ],
+      "text": "5 Versturen van de De overnamebeschikking moet altijd gestuurd worden in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        200.59,
+        379.4,
+        206.62
+      ],
+      "text": "overnamebeschikking wordt vaak situaties waarbij de ziekmelding of gevalsbehandeling wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        210.4,
+        240.61,
+        216.43
+      ],
+      "text": "vergeten. overgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.33,
+        220.51,
+        351.45,
+        226.54
+      ],
+      "text": "6 ERD overname proces zorgt voor Bij een overgenomen ERD dossier telt UZS voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        230.35,
+        397.05,
+        236.38
+      ],
+      "text": "te late afhandeling van Signaal afhandeltermijn van signaal UZZ0051 ‘Nog niet toe- of afgewezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        240.09,
+        385.89,
+        246.12
+      ],
+      "text": "UZZ0051 ‘Nog niet toe- of aanvraag’, 15 werkdagen vanaf het moment dat het dossier is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        249.84,
+        240.61,
+        255.87
+      ],
+      "text": "afgewezen aanvraag’ overgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.33,
+        269.78,
+        396.16,
+        275.81
+      ],
+      "text": "7 Aanmaken herinnering wordt Er moet altijd bewaakt worden of de ERD actie heeft ondernomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        279.52,
+        325.57,
+        285.55
+      ],
+      "text": "vaak vergeten naar aanleiding van de brief van het UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        65.33,
+        289.7,
+        377.94,
+        295.73
+      ],
+      "text": "8 Werkinstructie UZZ0361 sluit niet Het moet voor de UD duidelijk zijn dat bij signaal ‘UZZ0361",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        299.44,
+        387.29,
+        305.47
+      ],
+      "text": "aan op de werkinstructie Werkgever mogelijk ERD op 1e ziektedag’ ook sprake kan zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        309.28,
+        293.85,
+        315.31
+      ],
+      "text": "Overname individueel geval op van een ERD overnameverzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        84.62,
+        319.03,
+        159.97,
+        325.06
+      ],
+      "text": "aangeven ex-werknemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 11 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        53.33,
+        157.68,
+        156.07,
+        168.21
+      ],
+      "text": "3 Veranderingsanalyse",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        74.98,
+        197.9,
+        161.88,
+        209.9
+      ],
+      "text": "Gewenste situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        199.76,
+        69.38,
+        208.76
+      ],
+      "text": "3.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        224.07,
+        282.56,
+        230.84
+      ],
+      "text": "Onderstaand staat de gewenste situatie per probleem aangegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        243.65,
+        91.78,
+        250.42
+      ],
+      "text": "Probleem 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        253.4,
+        379.44,
+        260.17
+      ],
+      "text": "Het proces wordt opnieuw ontworpen met een doorlooptijd die rekening houd met de wettelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        263.14,
+        365.79,
+        269.91
+      ],
+      "text": "termijn van 6 weken. Dit geldt ook voor de situatie waarbij de wettelijke termijn nog niet is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        272.98,
+        386.38,
+        279.75
+      ],
+      "text": "verstreken. Het nieuwe proces bied de UD de juiste bewegingsruimte om telefonisch in contact te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        282.73,
+        340.94,
+        289.5
+      ],
+      "text": "treden met de ERD en/of administratiekantoor. Door te bellen met de ERD en/of het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        292.47,
+        370.23,
+        299.24
+      ],
+      "text": "administratiekantoren kan het proces sneller doorlopen worden en hoeft cliënt niet te lang in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        302.29,
+        162.71,
+        309.06
+      ],
+      "text": "onduidelijkheid te blijven zitten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        321.77,
+        390.65,
+        328.54
+      ],
+      "text": "De klantadviseurs van het KCC zijn de eerste aanspreekpunt voor de client. Het is wenselijk dat zij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        331.61,
+        376.46,
+        338.38
+      ],
+      "text": "zoveel mogelijk vragen van de client kunnen ondervangen. Dit kunnen zij alleen doen met een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        341.36,
+        154.13,
+        348.13
+      ],
+      "text": "duidelijke procesbeschrijving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        507.53,
+        91.78,
+        514.3
+      ],
+      "text": "Probleem 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        517.28,
+        365.84,
+        524.05
+      ],
+      "text": "Het ERD overname proces staat beschreven in de instructie ‘Overname individueel geval op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        527.02,
+        389.73,
+        533.79
+      ],
+      "text": "aangeven (ex-)werknemer ERD of failliete ERD-werkgever’. De aanpassingen in het huidige proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        536.84,
+        388.96,
+        543.61
+      ],
+      "text": "moeten hierin opgenomen worden zodat de UD weet wanneer welke stappen ondernomen moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        546.58,
+        392.37,
+        553.35
+      ],
+      "text": "worden. Ook moet de instructie volledig zijn en ook de situatie van bedrijfsbeëindiging beschrijven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        566.17,
+        91.78,
+        572.94
+      ],
+      "text": "Probleem 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        575.91,
+        380.65,
+        582.68
+      ],
+      "text": "De inhoud van brief SET11A007 ‘Verzoek om ziekmelding in behandeling te nemen (ERD)’ moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        585.65,
+        366.69,
+        592.42
+      ],
+      "text": "volledig en duidelijk zijn, zodat de ERD weet welke consequenties er zijn voor het niet tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        595.47,
+        156.89,
+        602.24
+      ],
+      "text": "oppakken van de ziekmelding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        614.96,
+        91.78,
+        621.73
+      ],
+      "text": "Probleem 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        624.8,
+        384.45,
+        631.57
+      ],
+      "text": "Alle informatiebronnen en brieven bevatten dezelfde termijnen, zodat alle betrokkenen(UD, KCC,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        634.54,
+        222.78,
+        641.31
+      ],
+      "text": "Client, ERD) over dezelfde informatie beschikken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        654.13,
+        91.78,
+        660.9
+      ],
+      "text": "Probleem 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 12 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        160.21,
+        386.83,
+        166.98
+      ],
+      "text": "Als een ziekmelding of gevalsbehandeling daadwerkelijk wordt overgenomen, zet UZS een trigger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        169.95,
+        368.05,
+        176.72
+      ],
+      "text": "klaar voor de UD om brief SET17G022 ‘Beslissing overname gevalsbehandeling ERD’ of brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        179.69,
+        272.34,
+        186.46
+      ],
+      "text": "SET17G024 ‘Beslissing overname ziekmelding ERD’ te versturen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        199.28,
+        91.78,
+        206.05
+      ],
+      "text": "Probleem 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        209.02,
+        384.39,
+        215.79
+      ],
+      "text": "Wanneer in het scherm ‘Beheren aanvraag ZW/ZW-ERD’ de waarde van het veld <ERD?> wijzigt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        218.84,
+        385.21,
+        225.61
+      ],
+      "text": "‘Ja’ naar ‘Nee’ zet UZS het signaal UZZ0051 ‘Nog niet toe- of afgewezen aanvraag’, klaar. Omdat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        228.58,
+        377.6,
+        235.35
+      ],
+      "text": "er sprake is van een ERD overname, telt UZS voor de afhandeltermijn 15 werkdagen vanaf het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        238.33,
+        193.89,
+        245.1
+      ],
+      "text": "moment dat het dossier is overgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        257.91,
+        94.16,
+        264.68
+      ],
+      "text": "Probleem 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        267.65,
+        379.1,
+        274.42
+      ],
+      "text": "Er moet een trigger komen die de UD attendeert op het verstrijken van de reactietermijn uit de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        277.49,
+        380.68,
+        284.26
+      ],
+      "text": "brieven, zodat de UD het ERD overnameproces binnen de gestelde doorlooptijd kan afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        296.96,
+        91.78,
+        303.73
+      ],
+      "text": "Probleem 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        306.8,
+        386.46,
+        313.57
+      ],
+      "text": "Bij het ontvangen van signaal UZZ0361 ‘Werkgever mogelijk ERD op 1e ziektedag’ moet het voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        316.54,
+        386.63,
+        323.31
+      ],
+      "text": "de UD duidelijk zijn dat er mogelijk sprake is van een ERD overnameverzoek. Vanuit de instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        326.29,
+        376.23,
+        333.06
+      ],
+      "text": "van signaal UZZ0361 moet er daarom gelinkt worden naar de instructie ‘Overname individueel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        336.13,
+        287.46,
+        342.9
+      ],
+      "text": "geval op aangeven (ex-)werknemer ERD of failliete ERD-werkgever’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        355.61,
+        221.38,
+        362.38
+      ],
+      "text": "Gewenste situatie per brief, instructie of systeem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        375.17,
+        79.05,
+        381.94
+      ],
+      "text": "Brieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        395.71,
+        378.07,
+        401.74
+      ],
+      "text": "Brief Aanpassingen Jira nummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        405.81,
+        371.66,
+        411.84
+      ],
+      "text": "SET11A007 ‘Verzoek om Algehele verbetering van deze brief. ZWVA-5889",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        406.42,
+        500.07,
+        413.19
+      ],
+      "text": "Met opmerkingen [AI(1]:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        501.98,
+        406.46,
+        576.29,
+        413.23
+      ],
+      "text": "Afstemmen met UD en staf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        415.65,
+        148.07,
+        421.68
+      ],
+      "text": "ziekmelding in behandeling te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        425.4,
+        324.14,
+        431.43
+      ],
+      "text": "nemen (ERD) In deze brief moet duidelijk vermeld worden dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        177.82,
+        435.14,
+        319.75,
+        441.17
+      ],
+      "text": "er een wettelijke termijn geldt van 6 weken en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        177.82,
+        444.96,
+        325.31,
+        450.99
+      ],
+      "text": "per welke datum de wettelijke termijn voor deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        177.82,
+        454.7,
+        245.56,
+        460.73
+      ],
+      "text": "ziekmelding verstrijkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        484.39,
+        315.19,
+        490.42
+      ],
+      "text": "SET10I750 ‘Niet in behandeling Kopie client aanpassen met betrekking tot de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        494.23,
+        201.92,
+        500.26
+      ],
+      "text": "nemen verzoek overname’ termijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        514.08,
+        187.72,
+        520.11
+      ],
+      "text": "SET17G023 ‘Herhaald verzoek om ntb",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        523.89,
+        148.07,
+        529.92
+      ],
+      "text": "ziekmelding in behandeling te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        533.64,
+        79.82,
+        539.67
+      ],
+      "text": "nemen’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        543.84,
+        187.72,
+        549.87
+      ],
+      "text": "SET17G021 ‘Beëindiging betaling ntb",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        553.58,
+        89.76,
+        559.61
+      ],
+      "text": "door ERD’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        563.68,
+        371.66,
+        569.71
+      ],
+      "text": "SET17G022 ‘Beslissing overname Het komt regelmatig voor dat de UD deze brief ZWVA-7489",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        573.52,
+        307.86,
+        579.55
+      ],
+      "text": "gevalsbehandeling ERD’ vergeet te versturen (MOK). UZS moet het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        177.82,
+        583.27,
+        284.88,
+        589.3
+      ],
+      "text": "versturen van deze brief afdwingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        583.87,
+        565.92,
+        590.68
+      ],
+      "text": "Met opmerkingen [AI(2]: Als de stappen voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        591.67,
+        588.8,
+        598.44
+      ],
+      "text": "overnemen voor beide processen gelijk zijn is het makkelijker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        593.44,
+        371.66,
+        599.47
+      ],
+      "text": "SET17G024 ‘Beslissing overname Het komt regelmatig voor dat de UD deze brief ZWVA-7489",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        599.42,
+        580.94,
+        606.19
+      ],
+      "text": "om hier 1 brief van te maken en dan dmv LOV’en de juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        603.19,
+        307.75,
+        609.22
+      ],
+      "text": "ziekmelding ERD vergeet te versturen (MOK). UZS moet het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        607.27,
+        580.58,
+        614.04
+      ],
+      "text": "situatie te versturen. Dan hoeft UZS niet zelf te beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        177.82,
+        612.93,
+        284.88,
+        618.96
+      ],
+      "text": "versturen van deze brief afdwingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        615.02,
+        518.09,
+        621.79
+      ],
+      "text": "welke brief klaargezet moet worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        623.13,
+        371.66,
+        629.16
+      ],
+      "text": "SET17G025 ‘Beslissing overname Situatie toevoegen waarbij de ERD zijn bedrijf ZWVA-9390",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        57.55,
+        632.88,
+        309.69,
+        638.91
+      ],
+      "text": "gevalsbehandeling ERD’ volledig beëindigd tijdens een ZW-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        672.17,
+        89.48,
+        678.94
+      ],
+      "text": "Instructies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        420.86,
+        673.35,
+        587.62,
+        680.16
+      ],
+      "text": "Met opmerkingen [IA3]: Nog toevoegen: instructies KCC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 13 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        170.9,
+        378.07,
+        176.93
+      ],
+      "text": "Titel Aanpassingen Jira nummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        181.1,
+        371.66,
+        187.13
+      ],
+      "text": "Overname individueel geval op Algehele aanpassing van deze instructie zodat het ZWVA-5889",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        190.84,
+        325.14,
+        196.87
+      ],
+      "text": "aangeven (ex-)werknemer ERD of voor de UD duidelijk wordt op welke termijn welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        200.59,
+        287.52,
+        206.62
+      ],
+      "text": "failliete ERD-werkgever stappen moeten worden ondernomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        220.15,
+        321.98,
+        226.18
+      ],
+      "text": "Toevoegen van de contactmomenten met de ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        229.89,
+        266.72,
+        235.92
+      ],
+      "text": "en/of het administratiekantoor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        249.48,
+        371.66,
+        255.51
+      ],
+      "text": "Toevoegen dat het niet versturen van brief ZWVA-7489",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        259.22,
+        321.93,
+        265.25
+      ],
+      "text": "SET17G022 of SET17G024 kan leiden tot het niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        269.06,
+        278.7,
+        275.09
+      ],
+      "text": "verhalen van de kosten op de ERD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        288.55,
+        371.66,
+        294.58
+      ],
+      "text": "Aan stap 9 situatie toevoegen waarbij de ERD ZWVA-9390",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        298.36,
+        295.1,
+        304.39
+      ],
+      "text": "volledig zijn bedrijf beëindigt tijdens een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        308.11,
+        231.09,
+        314.14
+      ],
+      "text": "Ziektewet-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        328.05,
+        322.78,
+        334.08
+      ],
+      "text": "Afhandelen signaal UZZ0361 Toevoegen dat er mogelijk sprake is van een ERD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        337.8,
+        319.83,
+        343.83
+      ],
+      "text": "Werkgever mogelijk ERD op 1e overnameverzoek en een link toevoegen naar de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        347.64,
+        297.3,
+        353.67
+      ],
+      "text": "ziektedag instructie ‘Overname individueel geval op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        357.38,
+        316.79,
+        363.41
+      ],
+      "text": "aangeven (ex-)werknemer ERD of failliete ERD-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        171.86,
+        367.12,
+        205.24,
+        373.15
+      ],
+      "text": "werkgever’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        387.04,
+        182.49,
+        393.07
+      ],
+      "text": "Wijzigen of beëindigen Ntb",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        396.79,
+        138.14,
+        402.82
+      ],
+      "text": "ziekmelding met status ER",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.33,
+        425.98,
+        129.18,
+        432.75
+      ],
+      "text": "Systeemaanpassingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        446.42,
+        378.07,
+        452.45
+      ],
+      "text": "UZS Aanpassingen Jira nummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        456.6,
+        313.01,
+        462.63
+      ],
+      "text": "Bewakingssignaal voor Signaal UZZ0381 ‘Aanvullende informatie niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        466.34,
+        286.28,
+        472.37
+      ],
+      "text": "overnamebeschikkingen ontvangen’ ook gebruiken voor brief:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        420.86,
+        466.95,
+        545.26,
+        473.76
+      ],
+      "text": "Met opmerkingen [AI(4]: Afstemmen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        420.86,
+        474.74,
+        467.12,
+        481.51
+      ],
+      "text": "Informatieanalist",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        476.18,
+        293.76,
+        482.21
+      ],
+      "text": "SET11A007 ‘Verzoek om ziekmelding in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        485.92,
+        245.03,
+        491.95
+      ],
+      "text": "behandeling te nemen’,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        495.67,
+        322.99,
+        501.7
+      ],
+      "text": "SET17G023 ‘Herhaald verzoek om ziekmelding in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        505.51,
+        252.31,
+        511.54
+      ],
+      "text": "behandeling te nemen’ en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        515.25,
+        308.96,
+        521.28
+      ],
+      "text": "SET17G021 ‘Beëindiging betaling door ERD’)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        525.36,
+        293.42,
+        531.39
+      ],
+      "text": "Signaal UZZ0051 ‘Nog niet toe- of Bij een ERD overname telt UZS voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        535.17,
+        322.92,
+        541.2
+      ],
+      "text": "afgewezen aanvraag’ afhandeltermijn van 15 dagen vanaf het moment",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        544.92,
+        271.28,
+        550.95
+      ],
+      "text": "dat het dossier is overgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        555.12,
+        323.2,
+        561.15
+      ],
+      "text": "Pop up in het scherm Beheren Wanneer de waarde van het veld <ERD?> wijzigt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        57.55,
+        564.86,
+        315.31,
+        570.89
+      ],
+      "text": "aanvraag ZW/ZW-ERD’ ‘Ja’ naar ‘Nee’ verschijnt een pop up die de UD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        574.6,
+        305.64,
+        580.63
+      ],
+      "text": "attendeert om een overnamebeschikking te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        173.59,
+        584.44,
+        202.62,
+        590.47
+      ],
+      "text": "versturen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        420.86,
+        584.95,
+        545.26,
+        591.76
+      ],
+      "text": "Met opmerkingen [AI(5]: Afstemmen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        420.86,
+        592.84,
+        466.76,
+        599.61
+      ],
+      "text": "informatieanalist",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 14 / 15 ©2014 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.33,
+        133.88,
+        387.78,
+        140.65
+      ],
+      "text": "Opdracht: <naam> Business analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.33,
+        688.3,
+        140.63,
+        695.07
+      ],
+      "text": "Document versie: << >>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        53.33,
+        698.14,
+        394.47,
+        704.91
+      ],
+      "text": "Sjabloon versie: 1.1 Pagina: 15 / 15 ©2014 UWV",
+      "source": "text"
+    }
+  ]
+}

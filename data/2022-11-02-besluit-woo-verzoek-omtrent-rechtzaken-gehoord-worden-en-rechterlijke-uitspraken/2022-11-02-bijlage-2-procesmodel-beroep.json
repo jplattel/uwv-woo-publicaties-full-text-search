@@ -1,0 +1,5369 @@
+{
+  "source_id": "2022-11-02-besluit-woo-verzoek-omtrent-rechtzaken-gehoord-worden-en-rechterlijke-uitspraken/2022-11-02-bijlage-2-procesmodel-beroep",
+  "publication_slug": "2022-11-02-besluit-woo-verzoek-omtrent-rechtzaken-gehoord-worden-en-rechterlijke-uitspraken",
+  "pdf_slug": "2022-11-02-bijlage-2-procesmodel-beroep",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2022/besluit-woo-verzoek-omtrent-rechtzaken-gehoord-worden-en-rechterlijke-uitspraken",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0b3ebf1b-9e23-4e8c-9a58-0f0d7a81beb6/bijlage-2-procesmodel-beroep.pdf",
+  "publication_title": "Besluit Woo-verzoek omtrent rechtzaken, gehoord worden en rechterlijke uitspraken",
+  "publication_date": "2022-11-02T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2 Procesmodel Beroep (PDF, 379 kB)",
+  "retrieved_at": "2026-06-30T13:53:54+00:00",
+  "sha256": "6aa9a2c8efb3bf92e863cfb3e7d8d3b9b4572671bc56df45d770df4466cac49a",
+  "page_count": 11,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        297.0,
+        352.0,
+        321.0
+      ],
+      "text": "Werkproces Beroep",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        79.0,
+        388.0,
+        229.0,
+        407.0
+      ],
+      "text": "Versie: 3.0",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        15.26,
+        567.08,
+        24.26
+      ],
+      "text": "Beroep Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        42.3,
+        106.72,
+        51.3
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        50.28,
+        56.29,
+        566.66,
+        67.36
+      ],
+      "text": "Versiebeheer ........................................................................................................................................... 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        56.38,
+        36.6,
+        67.42
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        50.28,
+        69.75,
+        237.01,
+        80.79
+      ],
+      "text": "Voorbereiden behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        69.78,
+        566.66,
+        80.88
+      ],
+      "text": "2. ....................................................................................................... 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        50.28,
+        83.19,
+        566.66,
+        94.26
+      ],
+      "text": "Uitvoeren zitting rechtbank .................................................................................................................. 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        83.28,
+        36.6,
+        94.32
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        50.28,
+        96.63,
+        277.86,
+        107.67
+      ],
+      "text": "Behandelen beroep/afhandelen uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        28.32,
+        96.66,
+        566.66,
+        107.76
+      ],
+      "text": "4. ......................................................................................... 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        279.05,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "JKC B&B Page 2 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        28.32,
+        15.26,
+        567.08,
+        24.26
+      ],
+      "text": "Beroep Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        42.24,
+        53.22,
+        109.08,
+        62.22
+      ],
+      "text": "Versiebeheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        28.32,
+        53.3,
+        35.13,
+        62.3
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        79.16,
+        340.63,
+        88.16
+      ],
+      "text": "Versie Datum Afgestemd Beslissing Wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        165.98,
+        90.08,
+        183.67,
+        99.08
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        101.96,
+        447.63,
+        110.96
+      ],
+      "text": "1.0 September MT B&B Akkoord Definitieve versie proces B&B 2012",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.42,
+        112.88,
+        118.43,
+        121.88
+      ],
+      "text": "2010",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        124.88,
+        557.55,
+        133.88
+      ],
+      "text": "2.0 December MT B&B Akkoord Versie 2012 zonder groeiproces en verwijzingen naar (nog)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.42,
+        135.8,
+        430.21,
+        144.8
+      ],
+      "text": "2011 niet gerealiseerde digitalisering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        147.8,
+        478.5,
+        156.8
+      ],
+      "text": "2.1 September - Layout conform bezwaar gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.42,
+        158.72,
+        527.83,
+        167.72
+      ],
+      "text": "2013 - Beoordelen of informeren primair nodig is na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        324.43,
+        169.64,
+        487.74,
+        178.64
+      ],
+      "text": "ontvangst beroepschrift toegevoegd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        180.56,
+        496.68,
+        189.56
+      ],
+      "text": "- Natraject gelijk aan bezwaar gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        191.48,
+        470.82,
+        200.48
+      ],
+      "text": "- Gewijzigde rol c JKC beschreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        202.4,
+        526.69,
+        211.4
+      ],
+      "text": "- Informeren cJKC na elke gegronde uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        324.43,
+        213.32,
+        375.66,
+        222.32
+      ],
+      "text": "verwijderd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        236.27,
+        484.69,
+        245.27
+      ],
+      "text": "2.2 November Foutje hersteld: cJKC vervangen door dJKC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.42,
+        247.19,
+        118.43,
+        256.19
+      ],
+      "text": "2013",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        259.19,
+        427.13,
+        268.19
+      ],
+      "text": "3.0 April 2019 DT B&B Aanpassing n.a.v. uitrol DWBB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        270.11,
+        559.43,
+        279.11
+      ],
+      "text": "- Ontvangen post via inputmanagement systeem DIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        281.03,
+        542.79,
+        290.03
+      ],
+      "text": "- Daar waar mogelijk digitaal informeren primaire",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        324.43,
+        291.95,
+        371.37,
+        300.95
+      ],
+      "text": "afdelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        302.87,
+        546.95,
+        311.87
+      ],
+      "text": "- Geen bewaking meer van het natraject door B&B",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        313.79,
+        539.11,
+        322.79
+      ],
+      "text": "- Digitalisering stukken van papieren hulpdossier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        288.41,
+        324.83,
+        398.13,
+        333.83
+      ],
+      "text": "Inhoudelijke aanpassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        335.75,
+        558.47,
+        344.75
+      ],
+      "text": "- Informeren derde belanghebbende als wordt berust",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        324.43,
+        346.67,
+        549.02,
+        355.67
+      ],
+      "text": "of nieuw besluit, ook als derde blh niet betrokken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        324.43,
+        357.59,
+        341.85,
+        366.59
+      ],
+      "text": "was",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        288.41,
+        368.51,
+        426.51,
+        377.51
+      ],
+      "text": "Aantal tekstuele aanpassingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.43,
+        379.43,
+        515.6,
+        388.43
+      ],
+      "text": "- De term dJKC is vervangen door MHB/JKC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        28.32,
+        402.37,
+        80.63,
+        411.37
+      ],
+      "text": "Beheerder",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        28.32,
+        413.29,
+        66.89,
+        422.29
+      ],
+      "text": "JKC B&B",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        279.05,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "JKC B&B Page 3 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        28.32,
+        15.26,
+        567.05,
+        24.26
+      ],
+      "text": "Beroep Beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        28.32,
+        29.8,
+        175.82,
+        40.84
+      ],
+      "text": "Werkproces beroep algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        336.77,
+        55.34,
+        370.72,
+        59.3
+      ],
+      "text": "Signaal NAAR primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        410.96,
+        58.09,
+        430.73,
+        62.05
+      ],
+      "text": "Signaal VAN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        336.05,
+        59.89,
+        370.82,
+        63.86
+      ],
+      "text": "uitvoering uitspraak of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        398.11,
+        62.66,
+        443.59,
+        66.62
+      ],
+      "text": "primair uitgevoerde uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.14,
+        63.25,
+        125.72,
+        67.22
+      ],
+      "text": "signaal NAAR primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        346.74,
+        64.45,
+        362.0,
+        68.42
+      ],
+      "text": "intrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        231.74,
+        67.54,
+        266.35,
+        72.46
+      ],
+      "text": "Uitvoeren zitting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        98.5,
+        67.81,
+        119.14,
+        71.78
+      ],
+      "text": "beroepschrift",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        238.45,
+        73.18,
+        260.3,
+        78.1
+      ],
+      "text": "rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        374.94,
+        102.36,
+        400.54,
+        107.28
+      ],
+      "text": "Behandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.18,
+        103.56,
+        138.5,
+        108.48
+      ],
+      "text": "Voorbereiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        474.45,
+        107.42,
+        500.58,
+        112.46
+      ],
+      "text": "Afhandelden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        357.54,
+        108.0,
+        418.94,
+        112.92
+      ],
+      "text": "beroep/afhandelen uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        103.18,
+        109.2,
+        145.62,
+        114.12
+      ],
+      "text": "behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        39.2,
+        111.5,
+        66.92,
+        116.54
+      ],
+      "text": "Beroepschrift",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        480.09,
+        113.06,
+        494.92,
+        118.11
+      ],
+      "text": "beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        129.22,
+        147.17,
+        147.88,
+        151.14
+      ],
+      "text": "Verzoek om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.51,
+        151.73,
+        146.77,
+        155.7
+      ],
+      "text": "mediation",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.98,
+        173.58,
+        149.16,
+        177.54
+      ],
+      "text": "Vraagstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.26,
+        178.14,
+        146.79,
+        182.1
+      ],
+      "text": "rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.39,
+        201.79,
+        146.44,
+        205.75
+      ],
+      "text": "Uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.26,
+        206.35,
+        146.79,
+        210.31
+      ],
+      "text": "rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.26,
+        233.48,
+        147.01,
+        237.44
+      ],
+      "text": "Intrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        126.23,
+        260.97,
+        151.82,
+        264.94
+      ],
+      "text": "Tussenuitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        308.63,
+        88.19,
+        317.63
+      ],
+      "text": "Leeswijzer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        319.55,
+        534.03,
+        328.55
+      ],
+      "text": "In de beschrijving van het werkproces beroep wordt onder de klant de indiener van het beroep (verzekerde of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        330.59,
+        363.47,
+        339.59
+      ],
+      "text": "werkgever) of de gemachtigde van de indiener van het beroep verstaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        341.51,
+        549.83,
+        350.51
+      ],
+      "text": "Dit werkproces geldt vanaf het moment dat DWBB op een kantoor is uitgerold. Dat moment ligt dus niet voor alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        352.43,
+        526.95,
+        361.43
+      ],
+      "text": "kantoren gelijk. Zaken die al voor de uitrol van fase B van DWBB zijn gestart, worden voorlopig afgehandeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        363.35,
+        514.89,
+        372.35
+      ],
+      "text": "volgens het werkproces versie september 2013, totdat er een conversie van de dan nog resterende zaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        374.27,
+        86.87,
+        383.27
+      ],
+      "text": "plaatsvindt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        396.13,
+        172.15,
+        405.13
+      ],
+      "text": "Doel van het proces beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        407.17,
+        527.5,
+        416.17
+      ],
+      "text": "Op een klantgerichte manier meewerken aan het proces van de rechtbank. UWV is in dit proces klant van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        418.09,
+        341.73,
+        427.09
+      ],
+      "text": "rechtbank en wil graag voldoen aan de eisen die de rechtbank stelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        439.93,
+        207.31,
+        448.93
+      ],
+      "text": "Korte omschrijving van het proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        450.85,
+        552.96,
+        459.85
+      ],
+      "text": "Na ontvangst van een beroepschrift zijn alle stappen afhankelijk van verzoeken van de rechtbank. Alle activiteiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        461.77,
+        400.95,
+        470.77
+      ],
+      "text": "worden in principe binnen de door de rechtbank gestelde termijnen afgehandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        472.69,
+        550.26,
+        481.69
+      ],
+      "text": "Daar waar de procedure er zich voor leent, wordt maatwerk voor de klant geleverd, waar nodig in overleg met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        483.73,
+        82.1,
+        492.73
+      ],
+      "text": "rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        33.72,
+        505.57,
+        131.2,
+        514.57
+      ],
+      "text": "Uitvoerende rollen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        516.49,
+        154.58,
+        525.49
+      ],
+      "text": "administratieve rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        51.72,
+        516.57,
+        54.72,
+        525.57
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        527.41,
+        128.32,
+        536.41
+      ],
+      "text": "juridische rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        51.72,
+        527.49,
+        54.72,
+        536.49
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        538.33,
+        127.35,
+        547.33
+      ],
+      "text": "medische rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        51.72,
+        538.41,
+        54.72,
+        547.41
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        69.74,
+        549.4,
+        169.12,
+        558.4
+      ],
+      "text": "arbeidsdeskundige rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        51.72,
+        549.48,
+        54.72,
+        558.48
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 4 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        28.32,
+        15.26,
+        567.05,
+        24.26
+      ],
+      "text": "Beroep Voorbereiden behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        42.24,
+        42.3,
+        213.9,
+        51.3
+      ],
+      "text": "Voorbereiden behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        28.32,
+        42.38,
+        35.13,
+        51.38
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        247.21,
+        81.56,
+        286.49,
+        88.14
+      ],
+      "text": "Voorbereiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        239.17,
+        89.11,
+        296.02,
+        95.69
+      ],
+      "text": "behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        112.73,
+        110.36,
+        128.06,
+        115.65
+      ],
+      "text": "Signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        283.88,
+        115.64,
+        327.81,
+        122.38
+      ],
+      "text": "Uitvoeren nader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.07,
+        116.46,
+        132.99,
+        121.75
+      ],
+      "text": "naar primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        278.58,
+        123.19,
+        333.2,
+        129.93
+      ],
+      "text": "onderzoek medisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.98,
+        155.8,
+        455.09,
+        162.53
+      ],
+      "text": "Ontvangen Beoordelen Uitvoeren nader Maken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        65.76,
+        163.34,
+        465.3,
+        170.07
+      ],
+      "text": "beroepschrift beroep onderzoek arbk verweerschrift",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        296.76,
+        200.76,
+        315.15,
+        207.5
+      ],
+      "text": "Maken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        277.77,
+        208.31,
+        334.27,
+        215.04
+      ],
+      "text": "wijzigingsbeslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        211.73,
+        290.03,
+        383.39,
+        299.03
+      ],
+      "text": "Voorbereiden behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        301.67,
+        526.48,
+        310.67
+      ],
+      "text": "Deze processtap gaat over alle voorbereidende handelingen van B&B na ontvangst van een beroepschrift ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        312.71,
+        185.49,
+        321.71
+      ],
+      "text": "behandeling van de beroepszaak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        335.99,
+        204.05,
+        344.99
+      ],
+      "text": "Activiteit Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        347.75,
+        462.9,
+        356.75
+      ],
+      "text": "Ontvangen Beroepschriften (en ook de nadere stukken) worden ontvangen via het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        358.67,
+        556.42,
+        367.67
+      ],
+      "text": "beroepschrift inputmanagementsysteem van DIV. (Vooralsnog als witte post, die door de administratieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        369.59,
+        530.42,
+        378.59
+      ],
+      "text": "rol naar DIV wordt gestuurd en dan via het inputmanagementsysteem van DIV terug",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        380.51,
+        544.71,
+        389.51
+      ],
+      "text": "komt.) De administratieve rol zorgt voor verdere registratie van de zaak en classificering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        391.45,
+        213.88,
+        400.45
+      ],
+      "text": "van de stukken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        402.37,
+        530.7,
+        411.37
+      ],
+      "text": "Het beroep wordt in hetzelfde team behandeld als het bezwaar, kantoren kunnen hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        413.41,
+        297.93,
+        422.41
+      ],
+      "text": "afwijkende afspraken over maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        435.25,
+        255.68,
+        444.25
+      ],
+      "text": "Wie verantwoordelijk?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        446.17,
+        468.24,
+        455.17
+      ],
+      "text": "B&B is verantwoordelijk zodra het beroep binnen komt bij UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        159.38,
+        446.25,
+        162.38,
+        455.25
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        468.01,
+        559.03,
+        477.01
+      ],
+      "text": "De behandelaar van het bezwaar en de primaire afdeling worden op de hoogte gebracht dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        479.05,
+        557.45,
+        488.05
+      ],
+      "text": "er beroep is ingesteld tegen de beslissing op bezwaar. Als B&B tijdens de procedure nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        489.97,
+        552.11,
+        498.97
+      ],
+      "text": "medische stukken ontvangt, wordt (de administratieve ondersteuning van) de primaire VA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        500.89,
+        558.56,
+        509.89
+      ],
+      "text": "daarover geïnformeerd. Zo mogelijk direct na ontvangst, maar in ieder geval samen met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        511.81,
+        288.93,
+        520.81
+      ],
+      "text": "rapportage van de medische rol.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        545.44,
+        550.01,
+        554.44
+      ],
+      "text": "Maken en verzenden Alle correspondentie en rapportages worden gemaakt in Fleks en daardoor automatisch in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        556.36,
+        533.4,
+        565.36
+      ],
+      "text": "correspondentie EA opgenomen, en aangeboden aan het outputmanagementsysteem van DIV dat voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        567.28,
+        526.44,
+        576.28
+      ],
+      "text": "verzending zorgt. Zolang DIV via outputmanagement geen stukken met bijlagen kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        578.2,
+        552.46,
+        587.2
+      ],
+      "text": "verzenden, print en verzendt B&B de stukken zelf. Deze processtap is van toepassing voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        589.12,
+        259.52,
+        598.12
+      ],
+      "text": "het gehele proces beroep.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        33.72,
+        600.88,
+        404.95,
+        609.88
+      ],
+      "text": "Beoordelen beroep De inhoudelijke beoordeling omvat de volgende aspecten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        159.38,
+        611.63,
+        164.78,
+        620.63
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        611.8,
+        252.86,
+        620.8
+      ],
+      "text": "beoordeling BOB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        159.38,
+        622.55,
+        164.78,
+        631.55
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        622.72,
+        297.63,
+        631.72
+      ],
+      "text": "analyse kern beroepschrift",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        159.38,
+        633.47,
+        164.78,
+        642.47
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        633.64,
+        541.21,
+        642.64
+      ],
+      "text": "beoordeling of er sprake is van een principiële zaak. Zo ja, registratie hiervan in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        644.56,
+        534.84,
+        653.56
+      ],
+      "text": "dossier (en systeem) en afstemming met JKC. Dit gebeurt in ieder geval bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        655.48,
+        505.82,
+        664.48
+      ],
+      "text": "beoordeling van de uitspraak van de rechtbank en waar nodig al eerder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        159.38,
+        666.35,
+        164.78,
+        675.35
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        666.52,
+        511.32,
+        675.52
+      ],
+      "text": "beoordeling of commentaar van de medische en/of arbeidsdeskundige rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.38,
+        677.44,
+        246.87,
+        686.44
+      ],
+      "text": "aangewezen is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        699.3,
+        258.43,
+        708.3
+      ],
+      "text": "Selecteren gedingstukken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        710.22,
+        552.07,
+        719.22
+      ],
+      "text": "De stukken voor de rechtbank worden door de juridische rol geselecteerd op basis van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        721.14,
+        550.23,
+        730.14
+      ],
+      "text": "bezwaardossier. Het dossier wordt beoordeeld op volledigheid. Ontbreken er stukken, dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        732.06,
+        508.21,
+        741.06
+      ],
+      "text": "worden deze alsnog geselecteerd uit het primaire dossier en toegevoegd aan het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        743.1,
+        520.83,
+        752.1
+      ],
+      "text": "beroepsdossier, en (zo nodig) geclassificeerd door de administratieve rol. Is nadere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        754.02,
+        390.43,
+        763.02
+      ],
+      "text": "informatie nodig, dan wordt hier actie op ondernomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        775.86,
+        333.47,
+        784.86
+      ],
+      "text": "Beoordelen of wijzigingsbeslissing nodig is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        786.78,
+        526.81,
+        795.78
+      ],
+      "text": "Als uit het beroepschrift of nader ingekomen informatie blijkt dat de uitkomst van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.38,
+        797.7,
+        538.52,
+        806.7
+      ],
+      "text": "bestreden beslissing niet juist is, en geheel of gedeeltelijk aan het beroep moet worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 5 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        28.32,
+        15.26,
+        567.05,
+        24.26
+      ],
+      "text": "Beroep Voorbereiden behandeling beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        31.02,
+        204.05,
+        40.02
+      ],
+      "text": "Activiteit Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        42.66,
+        543.74,
+        51.66
+      ],
+      "text": "tegemoet gekomen, dan wordt zo snel mogelijk een wijzigingsbeslissing bekendgemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        53.7,
+        550.52,
+        62.7
+      ],
+      "text": "aan de klant, aan eventuele derde belanghebbenden en de rechtbank (artikel 6:19 van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        64.62,
+        345.51,
+        73.62
+      ],
+      "text": "Awb). Zie verder maken wijzigingsbeslissing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        87.2,
+        540.54,
+        96.2
+      ],
+      "text": "Uitvoeren nader Op gerichte vraagstelling (veelal via het plan van aanpak) van de juridische rol geeft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        98.12,
+        410.03,
+        107.12
+      ],
+      "text": "onderzoek medisch medische rol commentaar op het beroepschrift en bijlagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        120.8,
+        540.54,
+        129.8
+      ],
+      "text": "Uitvoeren nader Op gerichte vraagstelling (veelal via het plan van aanpak) van de juridische rol geeft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        131.72,
+        451.73,
+        140.72
+      ],
+      "text": "onderzoek arbeidsdeskundige rol commentaar op het beroepschrift en bijlagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        142.64,
+        97.14,
+        151.64
+      ],
+      "text": "arbeidskundig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        154.4,
+        556.39,
+        163.4
+      ],
+      "text": "Maken De rechtbank, de klant en eventuele derde belanghebbenden worden geïnformeerd over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        165.32,
+        232.67,
+        174.32
+      ],
+      "text": "wijzigingsbeslissing wijzigingsbeslissing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        187.16,
+        530.26,
+        196.16
+      ],
+      "text": "Naast de wijzigingsbeslissing en een brief voor de rechtbank wordt na overleg met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        198.08,
+        537.3,
+        207.08
+      ],
+      "text": "betrokken (primaire) afdeling een instructie opgesteld voor die afdeling of de medische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        209.0,
+        425.98,
+        218.0
+      ],
+      "text": "rol/arbeidsdeskundige rol, waarin de vervolgopdrachten staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        230.99,
+        558.17,
+        239.99
+      ],
+      "text": "Bij een wijzigingsbeslissing waarin volledig tegemoet wordt gekomen aan de bezwaren, kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        241.91,
+        522.03,
+        250.91
+      ],
+      "text": "- na overleg met de primaire afdeling - gebeld worden met de klant om de concrete",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        252.83,
+        467.79,
+        261.83
+      ],
+      "text": "vervolgstappen te bespreken. Dit gebeurt na overleg met de rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        274.67,
+        500.49,
+        283.67
+      ],
+      "text": "Ook wordt dan aan de klant meegedeeld dat de griffierechten worden vergoed.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        285.71,
+        525.59,
+        294.71
+      ],
+      "text": "Als er (mogelijk) nog een veroordeling proceskosten volgt, wordt het griffierecht pas",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        296.63,
+        558.45,
+        305.63
+      ],
+      "text": "betaald samen met die proceskosten. In de overige gevallen worden de griffierechten direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.38,
+        307.55,
+        329.82,
+        316.55
+      ],
+      "text": "vergoed na de intrekking van het beroep.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        330.11,
+        553.11,
+        339.11
+      ],
+      "text": "Maken De juridische rol stelt zo nodig een inhoudelijk verweerschrift op en verzendt dit binnen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        33.72,
+        341.15,
+        483.26,
+        350.15
+      ],
+      "text": "verweerschrift door de rechtbank aangegeven termijn, of vraagt uitstel voor deze termijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 6 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        28.32,
+        15.26,
+        567.07,
+        24.26
+      ],
+      "text": "Beroep Uitvoeren zitting rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        42.24,
+        42.3,
+        181.06,
+        51.3
+      ],
+      "text": "Uitvoeren zitting rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        28.32,
+        42.38,
+        35.13,
+        51.38
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        175.12,
+        78.81,
+        244.07,
+        88.67
+      ],
+      "text": "Uitvoeren zitting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        188.57,
+        90.1,
+        232.06,
+        99.96
+      ],
+      "text": "rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        190.73,
+        220.55,
+        225.75,
+        229.68
+      ],
+      "text": "Uitvoeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        198.41,
+        231.12,
+        220.03,
+        240.25
+      ],
+      "text": "zitting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        228.17,
+        418.57,
+        367.01,
+        427.57
+      ],
+      "text": "Uitvoeren zitting rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        33.72,
+        430.21,
+        204.05,
+        439.21
+      ],
+      "text": "Activiteit Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        33.72,
+        441.85,
+        547.71,
+        450.85
+      ],
+      "text": "Uitvoeren zitting De juridische rol die de zitting toegewezen heeft gekregen, beoordeelt de ontvangen post",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        452.77,
+        553.95,
+        461.77
+      ],
+      "text": "over de zitting. De juridische rol onderneemt de noodzakelijke acties ter voorbereiding van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        463.81,
+        496.69,
+        472.81
+      ],
+      "text": "de zitting. Als voorbereiding op de zitting kan een pleitnota worden opgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        485.65,
+        460.61,
+        494.65
+      ],
+      "text": "De juridische rol bezoekt in principe altijd de zitting van de rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        507.49,
+        192.65,
+        516.49
+      ],
+      "text": "Uitnodiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        518.41,
+        503.44,
+        527.41
+      ],
+      "text": "Beoordeeld wordt of er nog acties openstaan die voor de zitting moeten worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        529.45,
+        560.02,
+        538.45
+      ],
+      "text": "afgehandeld. Als er nog stukken moeten worden ingezonden naar de rechtbank dan gebeurt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        540.37,
+        323.63,
+        549.37
+      ],
+      "text": "dit tot uiterlijk 10 dagen voor de zitting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        551.32,
+        536.92,
+        560.32
+      ],
+      "text": "Als er toch stukken minder dan 10 dagen voor de zitting aan de rechtbank toegestuurd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        562.24,
+        527.23,
+        571.24
+      ],
+      "text": "moeten worden, dan stuurt B&B deze ook aan de klant. De rechtbank wordt hierover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        573.16,
+        205.2,
+        582.16
+      ],
+      "text": "geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        595.0,
+        174.44,
+        604.0
+      ],
+      "text": "Oproep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        606.04,
+        538.87,
+        615.04
+      ],
+      "text": "Het voorgaande geldt ook bij een oproep. Geprobeerd wordt de reden van de oproep te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        616.96,
+        507.66,
+        625.96
+      ],
+      "text": "achterhalen. Zo nodig wordt telefonisch contact met de griffier van de rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        627.88,
+        197.65,
+        636.88
+      ],
+      "text": "opgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        649.72,
+        243.26,
+        658.72
+      ],
+      "text": "Mededeling comparitie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        660.64,
+        533.28,
+        669.64
+      ],
+      "text": "Het voorgaande geldt ook in geval van comparitie. Als er sprake is van een comparitie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        671.56,
+        544.04,
+        680.56
+      ],
+      "text": "omdat B&B niet heeft voldaan aan een verzoek/opdracht van de rechtbank (bijvoorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        682.6,
+        556.14,
+        691.6
+      ],
+      "text": "gedingstukken zijn niet ingezonden) wordt die actie alsnog zo spoedig mogelijk uitgevoerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        693.52,
+        507.55,
+        702.52
+      ],
+      "text": "De rechtbank heeft dan immers nog de gelegenheid om van de zitting af te zien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        715.38,
+        251.19,
+        724.38
+      ],
+      "text": "Achterwege laten zitting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        726.3,
+        517.01,
+        735.3
+      ],
+      "text": "De rechtbank meldt B&B het voornemen de zitting achterwege te laten. Als aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        737.22,
+        545.77,
+        746.22
+      ],
+      "text": "schriftelijke behandeling niets valt toe te voegen of toe te lichten, stemt B&B hiermee in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        748.26,
+        554.9,
+        757.26
+      ],
+      "text": "Wanneer er redenen zijn om niet in te stemmen, maakt de juridische rol dit schriftelijk aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        759.18,
+        392.41,
+        768.18
+      ],
+      "text": "de rechtbank kenbaar, onder vermelding van de reden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.38,
+        770.1,
+        509.3,
+        779.1
+      ],
+      "text": "De zittingen worden verzorgd door het kantoor dat de zaak in behandeling heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 7 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        28.32,
+        15.26,
+        567.07,
+        24.26
+      ],
+      "text": "Beroep Uitvoeren zitting rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        228.17,
+        31.02,
+        367.01,
+        40.02
+      ],
+      "text": "Uitvoeren zitting rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        33.72,
+        42.66,
+        204.05,
+        51.66
+      ],
+      "text": "Activiteit Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        54.42,
+        225.04,
+        63.42
+      ],
+      "text": "Overnemen zitting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        65.34,
+        555.17,
+        74.34
+      ],
+      "text": "De zitting kan worden overgenomen door het kantoor waar de klant woont als het gaat om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        76.28,
+        537.74,
+        85.28
+      ],
+      "text": "één geval per zitting. Tenzij er sprake is van een oproep of een voorlopige voorziening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        87.2,
+        527.06,
+        96.2
+      ],
+      "text": "De overdracht van het dossier vindt (zo mogelijk) 4 tot 6 weken van te voren plaats.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        109.16,
+        276.4,
+        118.16
+      ],
+      "text": "Werkzaamheden na de zitting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        120.08,
+        468.55,
+        129.08
+      ],
+      "text": "Na de zitting maakt de juridische rol een zittingsverslag/aantekeningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        131.0,
+        369.12,
+        140.0
+      ],
+      "text": "Ook worden eventuele vervolgacties ondernomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        443.4,
+        152.34,
+        486.17,
+        163.38
+      ],
+      "text": "gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        141.38,
+        153.92,
+        440.25,
+        162.92
+      ],
+      "text": "Bij het waarnemen van een zitting wordt altijd een zittingsverslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 8 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        42.24,
+        42.3,
+        253.17,
+        51.3
+      ],
+      "text": "Behandelen beroep/afhandelen uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        28.32,
+        42.38,
+        35.13,
+        51.38
+      ],
+      "text": "4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        262.07,
+        72.73,
+        278.66,
+        75.77
+      ],
+      "text": "Behandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        250.46,
+        76.28,
+        290.76,
+        79.31
+      ],
+      "text": "beroep/afhandelen uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        437.73,
+        76.46,
+        450.71,
+        78.9
+      ],
+      "text": "Signaal NAAR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        459.47,
+        76.68,
+        470.89,
+        79.12
+      ],
+      "text": "Signaal VAN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        441.28,
+        78.97,
+        447.41,
+        81.42
+      ],
+      "text": "primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        462.06,
+        79.2,
+        468.19,
+        81.64
+      ],
+      "text": "primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        374.52,
+        79.26,
+        389.07,
+        82.37
+      ],
+      "text": "Instellen HB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        298.59,
+        81.18,
+        319.09,
+        84.29
+      ],
+      "text": "Informeren klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        440.54,
+        81.49,
+        448.54,
+        83.93
+      ],
+      "text": "uitvoeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        456.07,
+        81.72,
+        474.56,
+        84.16
+      ],
+      "text": "uitgevoerde uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        440.54,
+        84.01,
+        448.63,
+        86.45
+      ],
+      "text": "uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        303.03,
+        84.73,
+        314.76,
+        87.84
+      ],
+      "text": "voorl. HB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        218.22,
+        86.37,
+        235.46,
+        89.48
+      ],
+      "text": "Advies geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        439.21,
+        86.52,
+        449.5,
+        88.96
+      ],
+      "text": "of intrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        222.28,
+        89.92,
+        231.39,
+        93.03
+      ],
+      "text": "med rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        472.92,
+        98.36,
+        484.85,
+        101.47
+      ],
+      "text": "Afronden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        218.22,
+        99.1,
+        235.46,
+        102.21
+      ],
+      "text": "Advies geven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        158.63,
+        99.17,
+        313.24,
+        102.36
+      ],
+      "text": "Beoordelen Instellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        369.2,
+        99.39,
+        393.58,
+        102.5
+      ],
+      "text": "Informeren klant en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        439.66,
+        101.63,
+        447.36,
+        104.07
+      ],
+      "text": "Wachten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        474.48,
+        101.92,
+        483.38,
+        105.02
+      ],
+      "text": "beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        160.4,
+        102.66,
+        231.47,
+        105.84
+      ],
+      "text": "uitspraak arbk rol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        300.73,
+        102.8,
+        316.54,
+        105.91
+      ],
+      "text": "voorlopig HB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        366.68,
+        102.94,
+        396.17,
+        106.05
+      ],
+      "text": "derde belanghebbende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        435.59,
+        104.14,
+        451.17,
+        106.58
+      ],
+      "text": "op signaal primair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        435.59,
+        106.66,
+        451.57,
+        109.1
+      ],
+      "text": "afronden uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        219.41,
+        111.84,
+        233.84,
+        114.94
+      ],
+      "text": "Afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        215.12,
+        115.39,
+        238.31,
+        118.49
+      ],
+      "text": "vereenv. uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        376.44,
+        119.98,
+        387.84,
+        123.08
+      ],
+      "text": "Berusten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        213.34,
+        126.57,
+        239.51,
+        129.67
+      ],
+      "text": "Overdragen aan JKC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        39.15,
+        136.26,
+        53.59,
+        139.37
+      ],
+      "text": "Afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        72.79,
+        136.56,
+        119.17,
+        139.67
+      ],
+      "text": "Afhandelen Afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        40.56,
+        139.82,
+        52.18,
+        142.93
+      ],
+      "text": "mediation",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        69.98,
+        140.11,
+        122.37,
+        143.22
+      ],
+      "text": "vraagstelling RB tussenuitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        409.19,
+        140.41,
+        435.87,
+        143.52
+      ],
+      "text": "Afhandelen intrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        418.14,
+        143.96,
+        427.04,
+        147.07
+      ],
+      "text": "beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        138.37,
+        150.19,
+        155.61,
+        152.63
+      ],
+      "text": "Uitspraak rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        64.14,
+        157.67,
+        79.5,
+        160.11
+      ],
+      "text": "Vraagstelling RB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        64.73,
+        160.18,
+        78.34,
+        162.62
+      ],
+      "text": "(kan gedurende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        64.88,
+        162.7,
+        78.07,
+        165.15
+      ],
+      "text": "het hele proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        65.77,
+        165.22,
+        77.51,
+        167.66
+      ],
+      "text": "binnenkomen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        192.05,
+        228.2,
+        403.05,
+        237.2
+      ],
+      "text": "Behandelen beroep/afhandelen uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        239.87,
+        204.05,
+        248.87
+      ],
+      "text": "Activiteit Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        251.51,
+        525.49,
+        260.51
+      ],
+      "text": "Afhandelen Een verzoek om in te stemmen met mediation kan in principe in elk stadium van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        262.55,
+        536.73,
+        271.55
+      ],
+      "text": "mediation beroepsproces tot aan de uitspraak worden gedaan. Elke rechtbank hanteert een eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        273.47,
+        467.56,
+        282.47
+      ],
+      "text": "procedure. Bij twijfel en vragen kan contact opgenomen worden met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        284.39,
+        324.21,
+        293.39
+      ],
+      "text": "mediationfunctionaris van de rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        306.23,
+        529.94,
+        315.23
+      ],
+      "text": "Als het verzoek tijdens de zitting naar voren komt, reageert de juridische rol meteen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        328.91,
+        545.6,
+        337.91
+      ],
+      "text": "Afhandelen De rechtbank kan diverse vragen stellen in een beroepszaak. De juridische rol zorgt voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        339.83,
+        517.48,
+        348.83
+      ],
+      "text": "vraagstelling RB beantwoording, zo nodig na advisering door de medische en/of arbeidskundige rol.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        362.39,
+        560.54,
+        371.39
+      ],
+      "text": "Afhandelen B&B wordt door de rechtbank met een tussenuitspraak in de gelegenheid gesteld om tijdens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        373.43,
+        457.56,
+        382.43
+      ],
+      "text": "tussenuitspraak de beroepsprocedure gebreken in een bestreden besluit te herstellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        395.29,
+        534.83,
+        404.29
+      ],
+      "text": "B&B moet zo snel mogelijk aangeven of gevolg wordt gegeven aan het verzoek van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        406.21,
+        189.76,
+        415.21
+      ],
+      "text": "rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        428.05,
+        354.56,
+        437.05
+      ],
+      "text": "Vervolgens zijn er de volgende mogelijkheden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        438.92,
+        146.78,
+        447.92
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        159.38,
+        439.09,
+        207.44,
+        448.09
+      ],
+      "text": "Geen actie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        449.84,
+        146.78,
+        458.84
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        159.38,
+        450.01,
+        485.28,
+        459.01
+      ],
+      "text": "Nieuw of gewijzigd besluit - zie processtap 'maken wijzigingsbeslissing'.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        460.76,
+        146.78,
+        469.76
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        159.38,
+        460.93,
+        266.33,
+        469.93
+      ],
+      "text": "Aanvullende motivering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        482.77,
+        530.24,
+        491.77
+      ],
+      "text": "Tussentijds hoger beroep tegen de tussenuitspraak van de rechtbank staat niet open.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        504.61,
+        559.57,
+        513.61
+      ],
+      "text": "De juridische rol beslist samen met de MHB/JKC (bij principiële punten in overleg met cJKC)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        515.65,
+        284.49,
+        524.65
+      ],
+      "text": "welke actie ondernomen wordt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.72,
+        538.21,
+        348.18,
+        547.21
+      ],
+      "text": "Beoordelen uitspraak B&B ontvangt de uitspraak van de rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        549.16,
+        536.97,
+        558.16
+      ],
+      "text": "Binnen 6 weken kan hoger beroep worden aangetekend. Aan de hand van de uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        560.08,
+        541.11,
+        569.08
+      ],
+      "text": "wordt beoordeeld welke actie moet worden ondernomen. De rechtbank kan de zaak ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        571.12,
+        413.08,
+        580.12
+      ],
+      "text": "voor hernieuwde behandeling terugverwijzen naar bezwaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        592.96,
+        505.94,
+        601.96
+      ],
+      "text": "De juridische rol beslist samen met de MHB/JKC welke actie ondernomen wordt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        614.8,
+        277.57,
+        623.8
+      ],
+      "text": "Beoordelen uitspraak gegrond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        625.72,
+        538.14,
+        634.72
+      ],
+      "text": "De beslissing hoger beroep instellen/berusten wordt zelfstandig genomen. Uitzondering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        636.64,
+        561.4,
+        645.64
+      ],
+      "text": "hierop zijn de principiële zaken. In dergelijke gevallen wordt met cJKC overlegd welke acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        647.68,
+        239.28,
+        656.68
+      ],
+      "text": "moeten plaatsvinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        658.6,
+        486.69,
+        667.6
+      ],
+      "text": "Als het gaat om een medisch/arbeidskundig geschil, dan wordt de medische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        669.52,
+        554.32,
+        678.52
+      ],
+      "text": "rol/arbeidsdeskundige rol gericht om advies gevraagd. Dit advies weegt zwaar maar is niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        680.44,
+        180.75,
+        689.44
+      ],
+      "text": "bindend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        702.3,
+        543.26,
+        711.3
+      ],
+      "text": "Zo spoedig mogelijk, maar in ieder geval binnen 2 weken na ontvangst van de uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        713.34,
+        543.41,
+        722.34
+      ],
+      "text": "wordt gebeld met de klant. Zo nodig wordt uitgelegd dat UWV nog geen uitvoering geeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        724.26,
+        544.72,
+        733.26
+      ],
+      "text": "aan de uitspraak, omdat nog beoordeeld wordt of UWV wel of niet gaat berusten, en wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        735.18,
+        295.29,
+        744.18
+      ],
+      "text": "daarvan de gevolgen kunnen zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        757.02,
+        527.3,
+        766.02
+      ],
+      "text": "De juridische rol managet de verwachtingen van de klant. Met name bij zogenaamde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        767.94,
+        542.62,
+        776.94
+      ],
+      "text": "zorgvuldigheidsvernietigingen wordt de klant erop voorbereid dat een nieuwe zorgvuldig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        778.86,
+        459.87,
+        787.86
+      ],
+      "text": "voorbereide BOB niet altijd leidt tot een voor hem gunstiger resultaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        141.38,
+        800.82,
+        471.67,
+        809.82
+      ],
+      "text": "Er wordt niet gebeld als er sprake is van een professioneel gemachtigde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 9 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        192.05,
+        31.02,
+        403.05,
+        40.02
+      ],
+      "text": "Behandelen beroep/afhandelen uitspraak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        42.66,
+        204.05,
+        51.66
+      ],
+      "text": "Activiteit Beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        65.34,
+        360.21,
+        74.34
+      ],
+      "text": "Beoordelen uitspraak ongegrond/NO/onbevoegd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        76.28,
+        542.07,
+        85.28
+      ],
+      "text": "Binnen het team moeten alle medewerkers, die bij het bezwaar of het beroep betrokken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        87.2,
+        454.87,
+        96.2
+      ],
+      "text": "zijn geweest, geïnformeerd worden over de afloop van de procedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        98.96,
+        554.72,
+        107.96
+      ],
+      "text": "Advies medische rol Op basis van de uitspraak van de rechtbank geeft de medische rol desgevraagd een advies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        109.88,
+        547.49,
+        118.88
+      ],
+      "text": "over het wel of niet instellen van een hoger beroep. Bij een advies om hoger beroep in te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        120.8,
+        323.25,
+        129.8
+      ],
+      "text": "stellen, worden argumenten aangereikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        132.44,
+        544.95,
+        141.44
+      ],
+      "text": "Advies Op basis van de uitspraak van de rechtbank geeft de arbeidsdeskundige rol desgevraagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        143.48,
+        540.83,
+        152.48
+      ],
+      "text": "arbeidskundige rol een advies over het wel of niet instellen van een hoger beroep. Bij een advies om hoger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        154.4,
+        381.02,
+        163.4
+      ],
+      "text": "beroep in te stellen, worden argumenten aangereikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        166.04,
+        403.92,
+        175.04
+      ],
+      "text": "Afhandelen Afhandelen uitspraak kennelijk ongegrond/onbevoegd/NO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        176.96,
+        546.24,
+        185.96
+      ],
+      "text": "vereenvoudigde Er wordt gewacht of de klant verzet gaat instellen. Als er na 3 maanden nog niets van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        187.88,
+        379.97,
+        196.88
+      ],
+      "text": "uitspraak rechtbank is ontvangen, wordt de zaak afgehandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        209.84,
+        248.8,
+        218.84
+      ],
+      "text": "Afhandelen verzet klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        220.76,
+        432.71,
+        229.76
+      ],
+      "text": "De klant kan verzet aantekenen tegen de betreffende uitspraak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        231.71,
+        512.91,
+        240.71
+      ],
+      "text": "Op verzoek wordt hij/zij in de gelegenheid gesteld om te worden gehoord door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        242.63,
+        544.08,
+        251.63
+      ],
+      "text": "rechtbank. Als B&B wordt uitgenodigd voor deze zitting, dan wordt daar in principe altijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        253.55,
+        235.75,
+        262.55
+      ],
+      "text": "gevolg aan gegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        264.47,
+        388.0,
+        273.47
+      ],
+      "text": "B&B wacht vervolgens op de uitspraak van het verzet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        286.43,
+        248.06,
+        295.43
+      ],
+      "text": "Afhandelen verzet UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        297.35,
+        527.91,
+        306.35
+      ],
+      "text": "Als UWV zich niet kan verenigen met de uitspraak wordt door de juridische rol verzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        308.27,
+        470.99,
+        317.27
+      ],
+      "text": "aangetekend. Het verzetschrift moet worden ingediend bij de rechtbank.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        319.19,
+        518.86,
+        328.19
+      ],
+      "text": "Bij het verzetschrift wordt aangegeven of B&B over het verzet wil worden gehoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        341.15,
+        181.73,
+        350.15
+      ],
+      "text": "Berusten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        352.07,
+        250.45,
+        361.07
+      ],
+      "text": "Zie processtap berusten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        373.91,
+        268.57,
+        382.91
+      ],
+      "text": "Beoordelen uitspraak verzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        384.83,
+        544.79,
+        393.83
+      ],
+      "text": "De rechtbank doet uitspraak over het verzet. Tegen deze uitspraak is geen hoger beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        395.77,
+        183.29,
+        404.77
+      ],
+      "text": "mogelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        417.73,
+        350.43,
+        426.73
+      ],
+      "text": "De uitspraak in de verzetprocedure strekt tot:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        159.38,
+        428.65,
+        517.77,
+        437.73
+      ],
+      "text": " niet ontvankelijkheid van het verzet of ongegrondverklaring van het verzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        439.57,
+        548.72,
+        448.57
+      ],
+      "text": "In beide gevallen blijft de uitspraak waartegen verzet was aangetekend in stand en wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        450.49,
+        491.76,
+        459.49
+      ],
+      "text": "het beroep afgehandeld conform de uitspraak. Hoger beroep is niet mogelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        472.33,
+        151.63,
+        481.33
+      ],
+      "text": "Of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        159.38,
+        483.25,
+        328.56,
+        492.33
+      ],
+      "text": " gegrondverklaring van het verzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        494.29,
+        555.58,
+        503.29
+      ],
+      "text": "Gevolg is dat de uitspraak waartegen verzet is gedaan vervalt en dat de gewone procedure",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        505.21,
+        488.03,
+        514.21
+      ],
+      "text": "wordt voortgezet in de stand waarin het zich bevond voor de uitspraak in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        516.13,
+        265.29,
+        525.13
+      ],
+      "text": "vereenvoudigde procedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        538.69,
+        549.17,
+        547.69
+      ],
+      "text": "Instellen voorlopig Hoger beroep wordt altijd binnen zes weken ingesteld. Alleen in principiële zaken die aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        549.76,
+        555.66,
+        558.76
+      ],
+      "text": "hoger beroep cJKC worden overgedragen wordt zo nodig voorlopig hoger beroep ingesteld om de termijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        560.68,
+        198.03,
+        569.68
+      ],
+      "text": "te sauveren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        583.24,
+        550.41,
+        592.24
+      ],
+      "text": "Informeren klant Als UWV een voorlopige hoger beroepschrift verstuurd, wordt de klant hierover schriftelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        594.16,
+        205.29,
+        603.16
+      ],
+      "text": "voorlopig hoger geïnformeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        605.2,
+        64.99,
+        614.2
+      ],
+      "text": "beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        616.84,
+        217.85,
+        625.84
+      ],
+      "text": "Informeren klant en Informeren klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        627.76,
+        553.14,
+        636.76
+      ],
+      "text": "derde De juridische rol informeert de klant dat hoger beroep wordt ingesteld of wordt berust. Zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        638.68,
+        283.05,
+        647.68
+      ],
+      "text": "belanghebbende verder de processtap berusten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        660.64,
+        298.97,
+        669.64
+      ],
+      "text": "Informeren derde belanghebbende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        671.56,
+        479.78,
+        680.56
+      ],
+      "text": "De juridische rol informeert de derde belanghebbende, die partij was in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        682.48,
+        447.79,
+        691.48
+      ],
+      "text": "beroepsprocedure, dat UWV in hoger beroep gaat of gaat berusten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        693.4,
+        541.13,
+        702.4
+      ],
+      "text": "Als er wordt berust en een nieuw besluit wordt genomen of de rechtbank zelf in de zaak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        704.34,
+        556.31,
+        713.34
+      ],
+      "text": "heeft voorzien, wordt de derde belanghebbende ook geïnformeerd als hij geen partij was in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        141.38,
+        715.26,
+        366.34,
+        724.26
+      ],
+      "text": "de procedure. Zie verder de processtap berusten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        727.02,
+        559.68,
+        736.02
+      ],
+      "text": "Instellen hoger De juridische rol stelt het hoger beroepschrift op, rekening houdend met de argumenten die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        33.72,
+        737.94,
+        472.18,
+        746.94
+      ],
+      "text": "beroep eventueel zijn ingebracht door de medische en/of arbeidsdeskundige rol.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 10 of 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        33.72,
+        43.62,
+        181.73,
+        52.62
+      ],
+      "text": "Berusten Berusten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        54.66,
+        534.15,
+        63.66
+      ],
+      "text": "De overwegingen ten aanzien van berusten worden beknopt in het dossier vastgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        76.52,
+        196.86,
+        85.52
+      ],
+      "text": "Nieuwe BOB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        87.27,
+        146.78,
+        96.27
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        87.44,
+        541.61,
+        96.44
+      ],
+      "text": "Als een nieuwe BOB moet worden genomen, stelt de juridische rol die op na overleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        98.36,
+        453.05,
+        107.36
+      ],
+      "text": "met de primaire afdeling als dit nodig is voor de vervolgstappen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        109.11,
+        146.78,
+        118.11
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        109.28,
+        549.12,
+        118.28
+      ],
+      "text": "De termijn waarbinnen uitvoering wordt gegeven aan de BOB wordt opgenomen in de",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        159.38,
+        120.32,
+        182.01,
+        129.32
+      ],
+      "text": "BOB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        131.07,
+        146.78,
+        140.07
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        131.24,
+        557.89,
+        140.24
+      ],
+      "text": "Aan de klant wordt uitleg gegeven over de BOB en de gevolgen daarvan. Als de klant al",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        142.16,
+        477.74,
+        151.16
+      ],
+      "text": "in hoger beroep is gegaan, wordt de BOB ingebracht in die procedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        152.91,
+        146.78,
+        161.91
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        153.08,
+        550.8,
+        162.08
+      ],
+      "text": "Een terugverwijzing wordt direct opgepakt. B&B houdt rekening met de termijn die de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        164.0,
+        534.57,
+        173.0
+      ],
+      "text": "rechtbank stelt, maar probeert de uitspraak sneller uit te voeren dan de rechtbank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        174.92,
+        203.18,
+        183.92
+      ],
+      "text": "opdraagt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        196.71,
+        128.78,
+        205.71
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        196.88,
+        337.03,
+        205.88
+      ],
+      "text": "De uitspraak komt in de plaats van de BOB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        207.63,
+        128.78,
+        216.63
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        207.8,
+        518.22,
+        216.8
+      ],
+      "text": "Als de rechtbank met de uitspraak zelf heeft voorzien in de zaak, wordt dit door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        218.72,
+        509.47,
+        227.72
+      ],
+      "text": "juridische rol aan de klant toegelicht. Dit gebeurt telefonisch bij een klant zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        229.67,
+        471.36,
+        238.67
+      ],
+      "text": "professioneel gemachtigde (eventueel schriftelijk als de klant dit wenst).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        251.51,
+        242.41,
+        260.51
+      ],
+      "text": "Informeren afdelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        262.43,
+        551.36,
+        271.43
+      ],
+      "text": "De juridische rol stelt een memo op om de betrokken primaire afdeling te informeren over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        273.47,
+        552.65,
+        282.47
+      ],
+      "text": "de uitspraak. Hierin wordt ook aangegeven welke acties van die afdeling worden verlangd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        284.39,
+        523.07,
+        293.39
+      ],
+      "text": "Zo mogelijk wordt de primaire afdeling hierop geattendeerd via een digitaal signaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        306.23,
+        312.75,
+        315.23
+      ],
+      "text": "Informeren derde belanghebbende(n)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        317.15,
+        551.43,
+        326.15
+      ],
+      "text": "Derde belanghebbende(n), die partij waren in de beroepsprocedure, worden geïnformeerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        328.07,
+        491.18,
+        337.07
+      ],
+      "text": "over de genomen beslissing om te berusten en de eventuele vervolgstappen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        338.94,
+        128.78,
+        347.94
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        349.86,
+        128.78,
+        358.86
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        350.03,
+        547.79,
+        359.03
+      ],
+      "text": "Een nieuwe BOB wordt (ook) bekendgemaakt aan de derde belanghebbende, ongeacht of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        360.95,
+        313.78,
+        369.95
+      ],
+      "text": "hij partij was in de beroepsprocedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        371.7,
+        128.78,
+        380.7
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        382.62,
+        128.78,
+        391.62
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        382.79,
+        525.73,
+        391.79
+      ],
+      "text": "Als de uitspraak in de plaats treedt van de BOB wordt ook de derde belanghebbende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        393.73,
+        512.07,
+        402.73
+      ],
+      "text": "geïnformeerd over de gevolgen van die uitspraak, ongeacht of hij partij was in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        404.65,
+        226.17,
+        413.65
+      ],
+      "text": "beroepsprocedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        123.38,
+        415.52,
+        128.78,
+        424.52
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        426.61,
+        234.09,
+        435.61
+      ],
+      "text": "Informeren collega's",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        437.53,
+        547.59,
+        446.53
+      ],
+      "text": "Binnen het team moet worden geborgd dat alle medewerkers, die aan het bezwaar of het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        448.45,
+        505.6,
+        457.45
+      ],
+      "text": "beroep hebben gewerkt, geïnformeerd worden over de afloop van de procedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        470.29,
+        293.62,
+        479.29
+      ],
+      "text": "Intrekken voorlopig hoger beroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        481.21,
+        526.56,
+        490.21
+      ],
+      "text": "Als besloten wordt tot berusten, wordt het voorlopig hoger beroep – ingesteld om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        492.25,
+        299.81,
+        501.25
+      ],
+      "text": "termijn te sauveren – ingetrokken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        33.72,
+        503.89,
+        550.13,
+        512.89
+      ],
+      "text": "Afhandelen De intrekking wordt afgehandeld. De primaire afdeling krijgt een signaal dat het beroep is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        33.72,
+        514.81,
+        198.38,
+        523.81
+      ],
+      "text": "intrekking beroep ingetrokken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        525.73,
+        315.47,
+        534.73
+      ],
+      "text": "Mogelijke redenen van intrekking zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        536.48,
+        164.78,
+        545.48
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        177.38,
+        536.65,
+        267.31,
+        545.65
+      ],
+      "text": "spontane intrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.38,
+        547.55,
+        164.78,
+        556.55
+      ],
+      "text": "·",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        177.38,
+        547.72,
+        279.65,
+        556.72
+      ],
+      "text": "na wijzigingsbeslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        558.64,
+        541.5,
+        567.64
+      ],
+      "text": "De klant krijgt het griffierecht na een intrekking vanwege een wijzigingsbeslissing direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        569.56,
+        181.38,
+        578.56
+      ],
+      "text": "vergoed.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        580.48,
+        542.38,
+        589.48
+      ],
+      "text": "Behalve als UWV geheel of gedeeltelijk aan het beroepschrift is tegemoetgekomen en er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        591.4,
+        559.08,
+        600.4
+      ],
+      "text": "geen overeenstemming bestaat over het te vergoeden bedrag, dan kan de rechtbank in een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        602.32,
+        424.78,
+        611.32
+      ],
+      "text": "later stadium een uitspraak doen alleen over de proceskosten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        613.36,
+        548.56,
+        622.36
+      ],
+      "text": "De klant moet hierom verzoeken, uiterlijk tegelijktijdig met de intrekking van het beroep.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        624.28,
+        518.18,
+        633.28
+      ],
+      "text": "In een dergelijke situatie wordt de uitspraak van de rechtbank hierover afgewacht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        646.12,
+        527.06,
+        655.12
+      ],
+      "text": "Ook dan wordt het griffierecht gelijktijdig betaald met de proceskosten, hierbij wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        657.04,
+        412.62,
+        666.04
+      ],
+      "text": "rekening gehouden met een eventueel lopende invordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        33.72,
+        668.8,
+        556.94,
+        677.8
+      ],
+      "text": "Afhandelen natraject Primair is verantwoordelijk voor het uitvoering geven aan de uitspraak c.q. de nieuwe BOB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        679.72,
+        530.58,
+        688.72
+      ],
+      "text": "De BOB bevat afgeronde besluitvorming. De (in voorkomende gevallen van primair te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        690.64,
+        527.66,
+        699.64
+      ],
+      "text": "ontvangen) informatie over recht, hoogte en duur is al eerder in het proces, voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        701.58,
+        441.15,
+        710.58
+      ],
+      "text": "maken van de BOB, door de juridische rol met primair afgestemd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        712.5,
+        558.18,
+        721.5
+      ],
+      "text": "De juridische rol informeert de primaire afdeling (per memo en zo mogelijk ook een digitaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        723.42,
+        342.71,
+        732.42
+      ],
+      "text": "signaal) over de uitkomst van de procedure.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        33.72,
+        746.1,
+        498.52,
+        755.1
+      ],
+      "text": "Afronden beroep De administratieve rol zorgt ervoor dat eventuele proceskosten, griffierecht en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        757.02,
+        349.94,
+        766.02
+      ],
+      "text": "schadevergoeding betaalbaar worden gesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        767.94,
+        525.94,
+        776.94
+      ],
+      "text": "De juridische rol zorgt dat archiefwaardige stukken in het E-dossier of eventueel een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        778.86,
+        501.77,
+        787.86
+      ],
+      "text": "papieren hulpdossier – als dit al niet gebeurd is - in EA worden opgenomen. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        141.38,
+        789.78,
+        451.02,
+        798.78
+      ],
+      "text": "administratieve rol zorgt ook bij deze stukken voor de classificering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        28.32,
+        818.54,
+        567.18,
+        827.54
+      ],
+      "text": "03-04-2019 JKC B&B Page 11 of 11",
+      "source": "text"
+    }
+  ]
+}

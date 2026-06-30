@@ -1,0 +1,641 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-36-zw-arbo-2015-monitoring-art-19-aa-zw",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-36-zw-arbo-2015-monitoring-art-19-aa-zw",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/b47d81f1-5428-4798-bb65-0202178bfb5d/bijlage-36-zw-arbo-2015-monitoring-art-19-aa-zw.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 36 ZW Arbo 2015 monitoring art 19 AA ZW (PDF, 76 kB)",
+  "retrieved_at": "2026-06-30T14:21:29+00:00",
+  "sha256": "e2d648f9aacc450044c47402e8e750ba7c8fea335fb93e58223048ce19437bd2",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        72.98,
+        407.14,
+        82.94
+      ],
+      "text": "Monitoring art 19 AA ZW periode april tot en met juni 2015:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        96.8,
+        121.31,
+        105.8
+      ],
+      "text": "Methodiek:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        119.24,
+        511.95,
+        128.24
+      ],
+      "text": "Stap 1. Vanuit systeem selectie alle “WIA_EZWB” gevallen geselecteerd in de periode april tot en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        131.96,
+        295.41,
+        140.96
+      ],
+      "text": "met juni 2015 met uitkomst “geen recht” (1045).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        154.52,
+        456.14,
+        163.52
+      ],
+      "text": "Stap 2. Vaststelling peildatum; 5 weken voor datum EWT (normaal maand + 1 dag).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        177.08,
+        515.25,
+        186.08
+      ],
+      "text": "Stap 3. Vergelijking peildatum met einddatum AWB. Indien “einddatum AWB” voor peildatum dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        189.68,
+        167.07,
+        198.68
+      ],
+      "text": "indicatie TVB2 (475).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        212.24,
+        402.15,
+        221.24
+      ],
+      "text": "Stap 4. Gevallen met indicatie TVB2 vergeleken met geboekte TVB2 (86)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        234.8,
+        519.83,
+        243.8
+      ],
+      "text": "Stap 5. Steekproef (54) vanuit gevallen “indicatie zonder geboekte TVB2” (389) volledigheidshalve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        247.28,
+        480.03,
+        256.28
+      ],
+      "text": "gecontroleerd in EAED op toch aanwezige beslissing TVB2. In twee gevallen wel beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        260.03,
+        258.32,
+        269.03
+      ],
+      "text": "aangetroffen, maar geen geboekte TVB2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        282.59,
+        132.01,
+        291.59
+      ],
+      "text": "Schematisch:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        285.77,
+        305.95,
+        334.52,
+        315.91
+      ],
+      "text": "% N",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        318.55,
+        264.14,
+        328.51
+      ],
+      "text": "Aantal <35 1045",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        331.27,
+        260.9,
+        341.23
+      ],
+      "text": "Aantal Indicatie CWIAb 570",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        343.87,
+        260.9,
+        353.83
+      ],
+      "text": "Aantal Indicatie TVB 2 475",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        369.19,
+        257.78,
+        379.15
+      ],
+      "text": "CWIAb in combinatie met TVB2 86",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        381.79,
+        343.48,
+        391.75
+      ],
+      "text": "Geen TVB2 in systeem 389 37,22% 1045",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        416.87,
+        123.36,
+        425.87
+      ],
+      "text": "Per kantoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        440.29,
+        529.29,
+        449.29
+      ],
+      "text": "Kantoor Indicatie TVB2 Geen TVB2 geboekt % Niet geboekte TVB2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        452.05,
+        490.11,
+        461.05
+      ],
+      "text": "Aantal Alkmaar 23 17 73,91%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        463.81,
+        492.99,
+        472.81
+      ],
+      "text": "Aantal Almere 26 26 100,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        475.57,
+        492.99,
+        484.57
+      ],
+      "text": "Aantal Amsterdam 45 45 100,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        487.33,
+        490.11,
+        496.33
+      ],
+      "text": "Aantal Apeldoorn 10 9 90,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        499.09,
+        490.11,
+        508.09
+      ],
+      "text": "Aantal Arnhem 11 10 90,91%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        510.73,
+        490.11,
+        519.73
+      ],
+      "text": "Aantal Assen 3 1 33,33%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        522.49,
+        490.11,
+        531.49
+      ],
+      "text": "Aantal Breda 7 2 28,57%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        534.25,
+        490.11,
+        543.25
+      ],
+      "text": "Aantal Den Bosch 18 12 66,67%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        546.01,
+        490.11,
+        555.01
+      ],
+      "text": "Aantal Den Haag 29 22 75,86%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        557.77,
+        490.11,
+        566.77
+      ],
+      "text": "Aantal Doetinchem 8 5 62,50%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        569.53,
+        490.11,
+        578.53
+      ],
+      "text": "Aantal Dordrecht 8 7 87,50%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        581.29,
+        490.11,
+        590.29
+      ],
+      "text": "Aantal Duitsland Verdragen 14 11 78,57%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        593.05,
+        490.11,
+        602.05
+      ],
+      "text": "Aantal Eindhoven 35 26 74,29%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        604.84,
+        490.11,
+        613.84
+      ],
+      "text": "Aantal Emmen 6 4 66,67%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        616.6,
+        490.11,
+        625.6
+      ],
+      "text": "Aantal Goes 8 7 87,50%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        628.36,
+        492.99,
+        637.36
+      ],
+      "text": "Aantal Groningen 7 7 100,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        640.12,
+        490.11,
+        649.12
+      ],
+      "text": "Aantal Haarlem 8 6 75,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        651.76,
+        490.11,
+        660.76
+      ],
+      "text": "Aantal Heerlen 20 18 90,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        663.52,
+        490.11,
+        672.52
+      ],
+      "text": "Aantal Hengelo 24 20 83,33%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        675.28,
+        489.04,
+        684.28
+      ],
+      "text": "Aantal Leeuwarden 7 0 0,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        687.04,
+        492.99,
+        696.04
+      ],
+      "text": "Aantal Leiden 30 30 100,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        698.8,
+        492.99,
+        707.8
+      ],
+      "text": "Aantal Nijmegen 14 14 100,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        710.56,
+        490.11,
+        719.56
+      ],
+      "text": "Aantal Roermond 13 12 92,31%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        722.32,
+        490.11,
+        731.32
+      ],
+      "text": "Aantal Rotterdam 24 20 83,33%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        734.08,
+        490.11,
+        743.08
+      ],
+      "text": "Aantal Tilburg 12 11 91,67%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        745.84,
+        490.11,
+        754.84
+      ],
+      "text": "Aantal Utrecht 33 32 96,97%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.58,
+        757.6,
+        490.11,
+        766.6
+      ],
+      "text": "Aantal Venlo 22 6 27,27%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        73.62,
+        490.11,
+        82.62
+      ],
+      "text": "Aantal Zwolle 10 9 90,00%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        85.4,
+        490.11,
+        94.4
+      ],
+      "text": "Totaalaantal 475 389 81,89%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        119.48,
+        130.07,
+        128.48
+      ],
+      "text": "Aanbeveling:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        141.92,
+        515.67,
+        150.92
+      ],
+      "text": "Laat lokale BC&K wekelijks dezelfde vergelijking doorvoeren, en vervolgens sturen op correctie cq",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        154.64,
+        309.03,
+        163.64
+      ],
+      "text": "daar waar nog mogelijk alsnog de TVB2 doorvoeren.",
+      "source": "text"
+    }
+  ]
+}

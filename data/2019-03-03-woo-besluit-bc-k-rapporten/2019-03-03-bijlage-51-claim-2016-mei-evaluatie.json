@@ -1,0 +1,2825 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-51-claim-2016-mei-evaluatie",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-51-claim-2016-mei-evaluatie",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/21f6744b-f875-4938-bfba-d51b133bb074/bijlage-51-claim-2016-mei-evaluatie.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 51 Claim 2016 mei evaluatie (PDF, 594 kB)",
+  "retrieved_at": "2026-06-30T14:22:06+00:00",
+  "sha256": "15c0f053bdfc7cbf944a8752c0776fd623590af084f5fb59778001bc8808af6e",
+  "page_count": 10,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.22,
+        344.65,
+        303.36,
+        356.65
+      ],
+      "text": "Evaluatie methodiek IVA-toets 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.22,
+        376.79,
+        346.74,
+        385.79
+      ],
+      "text": "Verkennend arbeidskundig onderzoek over een juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.22,
+        387.71,
+        436.19,
+        396.71
+      ],
+      "text": "arbeidsongeschiktheidsvaststelling van 80-100% bij een IVA-uitkering",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        177.05,
+        538.57,
+        226.22,
+        547.57
+      ],
+      "text": "SMZ-BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.05,
+        559.57,
+        218.65,
+        568.57
+      ],
+      "text": "Mei 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        72.78,
+        149.22,
+        81.78
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        140.78,
+        501.3,
+        151.82
+      ],
+      "text": "1. Achtergrond 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        185.0,
+        501.42,
+        194.0
+      ],
+      "text": "2. Aanleiding huidig onderzoek 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        226.88,
+        501.42,
+        235.88
+      ],
+      "text": "3. Vraagstellingen 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        271.16,
+        501.42,
+        280.16
+      ],
+      "text": "4. Methodiek 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        313.07,
+        501.42,
+        322.07
+      ],
+      "text": "5. Bevindingen 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.22,
+        334.07,
+        501.42,
+        343.07
+      ],
+      "text": "Tabel A 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.22,
+        356.63,
+        501.42,
+        365.63
+      ],
+      "text": "Tabel B 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.22,
+        379.19,
+        501.42,
+        388.19
+      ],
+      "text": "Tabel C 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.82,
+        424.49,
+        501.3,
+        435.53
+      ],
+      "text": "6. Conclusies en aanbevelingen 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        97.48,
+        273.92,
+        107.44
+      ],
+      "text": "1. Managementsamenvatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        137.36,
+        518.71,
+        146.36
+      ],
+      "text": "In februari 2016 is door BC&K een onderzoek verricht met de vraagstelling of de IVA-toets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        149.84,
+        499.47,
+        158.84
+      ],
+      "text": "plaats vond bij toekenning van een IVA-uitkering. Dit bleek in nagenoeg alle getoetste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        162.44,
+        224.35,
+        171.44
+      ],
+      "text": "situaties het geval te zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        175.04,
+        495.37,
+        184.04
+      ],
+      "text": "De IVA-toetsen bleken op diverse wijzen in het land te worden uitgevoerd: er werden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        187.64,
+        514.86,
+        196.64
+      ],
+      "text": "diverse formulieren gebruikt. Toetsen werden verricht door een adviseur verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        200.24,
+        514.93,
+        209.24
+      ],
+      "text": "en of arbeidsdeskundige ofwel door een tweede verzekeringsarts en of arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        212.84,
+        390.06,
+        221.84
+      ],
+      "text": "niet zijnde de primaire verzekeringsarts of arbeidsdeskundige.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        237.92,
+        523.46,
+        246.92
+      ],
+      "text": "Naar aanleiding van het recent verrichte onderzoek in februari 2016 is door de directie SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        250.52,
+        494.1,
+        259.52
+      ],
+      "text": "aan CEC gevraagd aanvullend onderzoek te doen naar de juistheid van een 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        263.12,
+        510.4,
+        272.12
+      ],
+      "text": "arbeidsongeschiktheidsvaststelling bij een IVA-uitkering. Uit deze vraagstelling volgt een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        275.84,
+        314.48,
+        284.84
+      ],
+      "text": "evaluatie over de noodzaak van de IVA-toets.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        298.31,
+        509.46,
+        307.31
+      ],
+      "text": "Een aselecte steekproef van 199 dossiers met een IVA-uitkering werd getrokken over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        310.91,
+        524.38,
+        319.91
+      ],
+      "text": "periode van september 2015 tot en met december 2015. Bij de dossiers uit deze steekproef",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        323.39,
+        467.56,
+        332.39
+      ],
+      "text": "waren zowel full time- als part time medewerkers en zowel interne- als externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        335.99,
+        519.69,
+        344.99
+      ],
+      "text": "verzekeringsartsen en arbeidsdeskundigen betrokken. Daar dit een vervolgonderzoek is op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        348.59,
+        520.93,
+        357.59
+      ],
+      "text": "het eerder vermelde onderzoek van februari 2016, is deze steekproef dezelfde. 1 dossier is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        361.19,
+        511.72,
+        370.19
+      ],
+      "text": "in dit onderzoek komen te vervallen omdat onvoldoende gegevens te herleiden waren uit",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        106.82,
+        372.21,
+        138.42,
+        382.79
+      ],
+      "text": "EAED1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.5,
+        373.79,
+        471.48,
+        382.79
+      ],
+      "text": "Het totaal aantal daadwerkelijk getoetste dossiers behelst 198 dossiers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        398.99,
+        364.35,
+        407.99
+      ],
+      "text": "Wij komen tot de volgende conclusies en aanbevelingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        421.55,
+        153.71,
+        430.55
+      ],
+      "text": "Conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        444.51,
+        112.84,
+        455.55
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        444.89,
+        441.18,
+        455.93
+      ],
+      "text": "In 12 gevallen (6%) is sprake van een risico op een onterechte 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        458.21,
+        505.34,
+        469.25
+      ],
+      "text": "arbeidsongeschiktheid, vastgesteld door de arbeidsdeskundige. Hierdoor bestaat een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        471.79,
+        297.18,
+        482.83
+      ],
+      "text": "risico op een onterechte IVA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        495.41,
+        112.84,
+        506.45
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        495.79,
+        475.27,
+        506.83
+      ],
+      "text": "In al deze gevallen vond een IVA-toets plaats die uitgevoerd werd door diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        509.11,
+        196.0,
+        520.15
+      ],
+      "text": "functionarissen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        522.55,
+        514.54,
+        533.59
+      ],
+      "text": "De adviseur arbeidsdeskundige toetste in 2 gevallen (1%), de adviseur verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        535.99,
+        503.63,
+        547.03
+      ],
+      "text": "in 4 gevallen (2%) en de dedicated arbeidsdeskundige in 1 geval (0,5%). In 5 gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        549.55,
+        403.12,
+        560.59
+      ],
+      "text": "(2,5%) is niet te achterhalen welke functionaris heeft getoetst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        573.05,
+        112.84,
+        584.09
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        573.43,
+        507.77,
+        584.47
+      ],
+      "text": "Tevens is naar voren gekomen dat in 25 dossiers (12,5%) de kwaliteit als onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        586.87,
+        520.27,
+        597.91
+      ],
+      "text": "beschouwd moet worden. Hierbij is echter geen sprake van een risico op een onterechte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        600.43,
+        269.31,
+        611.47
+      ],
+      "text": "80-100% arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        623.65,
+        172.47,
+        632.65
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.22,
+        646.49,
+        112.84,
+        657.53
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        646.87,
+        520.58,
+        657.91
+      ],
+      "text": "IVA-toets continueren, tevens hierbij vakinhoudelijke aspecten - en het toetsen hiervan -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        660.34,
+        507.67,
+        671.38
+      ],
+      "text": "onder de aandacht brengen bij (adviseur)arbeidsdeskundigen. Dit zijn vakinhoudelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        673.78,
+        510.42,
+        684.82
+      ],
+      "text": "aspecten zoals het correct raadplegen van het CBBS, het inzichtelijk maken van (juiste)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        687.22,
+        514.03,
+        698.26
+      ],
+      "text": "argumenten waarom voorgeselecteerde functies zijn komen te vervallen en het correct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.22,
+        700.78,
+        295.4,
+        711.82
+      ],
+      "text": "beoordelen van een beroeps WSW-er.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        759.74,
+        74.64,
+        765.74
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        76.94,
+        760.99,
+        270.03,
+        770.95
+      ],
+      "text": "Electronisch Archief Electronisch Dossier opslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        88.84,
+        194.53,
+        98.8
+      ],
+      "text": "2. Achtergrond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        128.72,
+        458.91,
+        137.72
+      ],
+      "text": "De WIA kent twee soorten uitkeringen; de uitkering op grond van de regeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        141.32,
+        504.3,
+        150.32
+      ],
+      "text": "Werkhervatting gedeeltelijk arbeidsongeschikten (WGA) en de uitkering op rond van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        153.92,
+        520.91,
+        162.92
+      ],
+      "text": "Inkomensverzekering voor volledig en duurzaam arbeidsongeschikten (IVA). Dit onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        166.52,
+        272.34,
+        175.52
+      ],
+      "text": "richt zich deze laatste IVA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        179.0,
+        522.42,
+        188.0
+      ],
+      "text": "Eén van de voorwaarden voor het recht op een IVA-uitkering is dat een persoon volledig en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        191.6,
+        249.69,
+        200.6
+      ],
+      "text": "duurzaam arbeidsongeschikt is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        204.2,
+        521.33,
+        213.2
+      ],
+      "text": "Onder volledig wordt verstaan dat betrokkene als gevolg van ziekte, gebrek, zwangerschap",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        216.8,
+        508.71,
+        225.8
+      ],
+      "text": "of bevalling duurzaam slechts in staat is om met arbeid 20% of minder te verdienen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        229.4,
+        262.3,
+        238.4
+      ],
+      "text": "zijn of haar maatmanloon per uur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        241.88,
+        514.14,
+        250.88
+      ],
+      "text": "De duurzaamheid bij arbeidsongeschiktheid wordt omschreven als ongeschiktheid waarbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        254.48,
+        499.27,
+        263.48
+      ],
+      "text": "medisch gezien geen verbetering van de verdiencapaciteit wordt verwacht, dan wel op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        267.08,
+        336.19,
+        276.08
+      ],
+      "text": "lange termijn een geringe kans op herstel bestaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        279.71,
+        513.31,
+        288.71
+      ],
+      "text": "Wanneer de beoordeling door de VA en/ of AD aanleiding is om een volledig en duurzame",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        292.31,
+        509.32,
+        301.31
+      ],
+      "text": "arbeidsongeschiktheid aan te nemen, dient dit eerst nog getoetst te worden middels een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.22,
+        304.91,
+        152.34,
+        313.91
+      ],
+      "text": "IVA-toets.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        331.43,
+        499.15,
+        340.43
+      ],
+      "text": "In februari 2016 is door BC&K onderzoek verricht met de vraagstelling of de IVA-toets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        344.03,
+        499.47,
+        353.03
+      ],
+      "text": "plaats vond bij toekenning van een IVA-uitkering. Dit bleek in nagenoeg alle getoetste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        356.63,
+        224.35,
+        365.63
+      ],
+      "text": "situaties het geval te zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        369.23,
+        482.35,
+        378.23
+      ],
+      "text": "De IVA-toetsen bleken op diverse wijzen in het land te worden uitgevoerd: diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        381.71,
+        515.46,
+        390.71
+      ],
+      "text": "formulieren werden gebruikt. Toetsen werden verricht door een adviseur verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        394.31,
+        514.93,
+        403.31
+      ],
+      "text": "en of arbeidsdeskundige ofwel door een tweede verzekeringsarts en of arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        406.91,
+        390.06,
+        415.91
+      ],
+      "text": "niet zijnde de primaire verzekeringsarts of arbeidsdeskundige.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        454.99,
+        285.0,
+        464.95
+      ],
+      "text": "3. Aanleiding huidig onderzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        502.57,
+        523.46,
+        511.57
+      ],
+      "text": "Naar aanleiding van het recent verrichte onderzoek in februari 2016 is door de directie SMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        515.17,
+        441.9,
+        524.17
+      ],
+      "text": "aan CEC gevraagd onderzoek te doen naar de juistheid van een 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        527.77,
+        510.4,
+        536.77
+      ],
+      "text": "arbeidsongeschiktheidsvaststelling bij een IVA-uitkering. Uit deze vraagstelling volgt een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        540.49,
+        314.48,
+        549.49
+      ],
+      "text": "evaluatie over de noodzaak van de IVA-toets.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        585.81,
+        212.88,
+        595.77
+      ],
+      "text": "4. Vraagstellingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        628.69,
+        402.95,
+        637.69
+      ],
+      "text": "In hoeveel gevallen is er sprake van een risico op een onterechte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        639.61,
+        514.96,
+        648.61
+      ],
+      "text": "arbeidsongeschiktheidsuitkering van 80-100%, vastgesteld door de arbeidsdeskundige en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        251.45,
+        650.83,
+        303.98,
+        661.87
+      ],
+      "text": "toegekend?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        651.97,
+        248.29,
+        660.97
+      ],
+      "text": "waarna een IVA-uitkering werd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.82,
+        674.26,
+        511.74,
+        685.3
+      ],
+      "text": "In hoeveel gevallen hiervan werd een IVA-toets uitgevoerd en door welke functionarissen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        74.78,
+        183.1,
+        84.74
+      ],
+      "text": "5. Methodiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        117.8,
+        509.46,
+        126.8
+      ],
+      "text": "Een aselecte steekproef van 199 dossiers met een IVA-uitkering werd getrokken over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        131.84,
+        524.38,
+        140.84
+      ],
+      "text": "periode van september 2015 tot en met december 2015. Bij de dossiers uit deze steekproef",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        145.88,
+        467.56,
+        154.88
+      ],
+      "text": "waren zowel full time- als part time medewerkers en zowel interne- als externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        159.8,
+        524.46,
+        168.8
+      ],
+      "text": "verzekeringsartsen en arbeidsdeskundige betrokken. Daar het een vervolgonderzoek op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        173.84,
+        490.98,
+        182.84
+      ],
+      "text": "eerder vermelde onderzoek van februari 2016 betreft, is deze steekproef dezelfde. 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        187.88,
+        511.67,
+        196.88
+      ],
+      "text": "dossier is in dit onderzoek komen te vervallen omdat onvoldoende gegevens te herleiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        201.8,
+        513.47,
+        210.8
+      ],
+      "text": "waren uit EAED. Het totaal aantal daadwerkelijk getoetste dossiers behelst 198 dossiers.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        200.57,
+        214.26,
+        229.23,
+        224.84
+      ],
+      "text": "CBBS2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        215.84,
+        519.16,
+        224.84
+      ],
+      "text": "Beoordeeld is of het correct is geraadpleegd of terecht niet is geraadpleegd. Onjuist",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        229.88,
+        522.05,
+        238.88
+      ],
+      "text": "ingevoerde gegevens kunnen leiden tot een geringere en hiermee foutieve voorselectie van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        243.8,
+        480.99,
+        252.8
+      ],
+      "text": "mogelijk te duiden functies in het CBBS. Relevante voorbeelden hiervan zijn - het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        257.84,
+        456.53,
+        266.84
+      ],
+      "text": "onterecht uitsluiten van een opleidingsrichting of - het sowieso uitsluiten van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        271.88,
+        506.31,
+        280.88
+      ],
+      "text": "opleidingsrichtingen bij een opleidingsniveau lager dan 3. Tevens is bekeken of correcte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        285.83,
+        516.51,
+        294.83
+      ],
+      "text": "maatmanomvang en maatmanloon zijn ingevoerd. Indien de voorselectie CBBS voldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        299.87,
+        523.04,
+        308.87
+      ],
+      "text": "functies toonde, is beoordeeld of dat voldoende inzichtelijk en plausibel is gemaakt waarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        313.91,
+        240.53,
+        322.91
+      ],
+      "text": "deze zijn komen te vervallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        327.83,
+        475.4,
+        336.83
+      ],
+      "text": "Het betreft een arbeidskundig verkennend onderzoek, waarbij de belastbaarheid,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        341.87,
+        351.91,
+        350.87
+      ],
+      "text": "vastgesteld door de verzekeringsarts, niet is getoetst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.82,
+        375.67,
+        194.3,
+        385.63
+      ],
+      "text": "6. Bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        420.03,
+        112.84,
+        431.07
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        420.41,
+        485.82,
+        431.45
+      ],
+      "text": "In 12 gevallen is sprake van een risico dat de arbeidsongeschiktheid van 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        433.97,
+        233.71,
+        445.01
+      ],
+      "text": "onterecht is vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        457.25,
+        452.93,
+        468.29
+      ],
+      "text": "In 1 situatie is een IVA-uitkering toegekend, terwijl de arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        470.71,
+        477.21,
+        481.75
+      ],
+      "text": "beargumenteerd aangeeft dat dit niet aan de orde is (hier heeft geen IVA-toets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        484.27,
+        508.45,
+        495.31
+      ],
+      "text": "plaatsgevonden, de procesbegeleider heeft hier onterecht een beschikking uitgedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        507.77,
+        112.84,
+        518.81
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        508.15,
+        475.27,
+        519.19
+      ],
+      "text": "In al deze gevallen vond een IVA-toets plaats die uitgevoerd werd door diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        521.59,
+        196.0,
+        532.63
+      ],
+      "text": "functionarissen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        535.03,
+        510.66,
+        546.07
+      ],
+      "text": "De adviseur arbeidsdeskundige toetste in 2 gevallen, de adviseur verzekeringsarts in 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        548.47,
+        474.68,
+        559.51
+      ],
+      "text": "gevallen en de dedicated arbeidsdeskundige in 1 geval. In 5 gevallen is niet te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        562.03,
+        331.27,
+        573.07
+      ],
+      "text": "achterhalen welke functionaris heeft getoetst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.22,
+        585.53,
+        112.84,
+        596.57
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        585.91,
+        471.19,
+        596.95
+      ],
+      "text": "Tevens is naar voren gekomen dat in 25 dossiers de kwaliteit als onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        599.35,
+        520.27,
+        610.39
+      ],
+      "text": "beschouwd moet worden. Hierbij is echter geen sprake van een risico op een onterechte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        124.22,
+        612.91,
+        269.31,
+        623.95
+      ],
+      "text": "80-100% arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        759.74,
+        74.64,
+        765.74
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.94,
+        760.99,
+        239.22,
+        770.95
+      ],
+      "text": "ClaimBeoordelings- en Borgingssysteem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.22,
+        94.76,
+        275.91,
+        103.76
+      ],
+      "text": "Onderstaande overzichten tonen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        132.62,
+        501.53,
+        143.66
+      ],
+      "text": "A) De oorzaken die geleid hebben tot een risico op een onterecht toegekende 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.82,
+        146.18,
+        272.4,
+        157.22
+      ],
+      "text": "arbeidsongeschiktheidsuitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        169.46,
+        513.02,
+        180.5
+      ],
+      "text": "B) De betrokken functionaris bij de IVA-toets op een risicodossier met een onterechte 80-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.82,
+        183.02,
+        255.37,
+        194.06
+      ],
+      "text": "100% arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        206.3,
+        487.79,
+        217.34
+      ],
+      "text": "C) Fouten die weliswaar zijn gemaakt, maar niet hebben geleid tot een risico op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        124.82,
+        219.86,
+        359.67,
+        230.9
+      ],
+      "text": "onterechte 80-100% arbeidsongeschiktheidssituatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.82,
+        266.48,
+        140.58,
+        275.48
+      ],
+      "text": "Tabel A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        316.19,
+        384.35,
+        325.19
+      ],
+      "text": "Oorzaken van een risico op een onterechte 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        327.11,
+        553.12,
+        336.11
+      ],
+      "text": "arbeidsongeschiktheidssituatie beoordeeld door de Aantallen %*",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        338.03,
+        212.58,
+        347.03
+      ],
+      "text": "arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        153.14,
+        403.19,
+        279.31,
+        412.19
+      ],
+      "text": "Onjuist raadplegen CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        135.14,
+        403.27,
+        140.54,
+        412.27
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        424.43,
+        566.48,
+        433.43
+      ],
+      "text": "Opleidingsniveau 2, onterecht opleidingsrichtingen uitgesloten in CBBS 2 1 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        455.51,
+        569.12,
+        464.51
+      ],
+      "text": "Opleidingsniveau 3 of hoger een onjuiste beroepsrichting uitgesloten in CBBS 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        486.49,
+        566.0,
+        495.49
+      ],
+      "text": "CBBS ten onrechte niet geraadpleegd 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        517.45,
+        566.0,
+        526.45
+      ],
+      "text": "Maatmanloon en maatmanomvang onjuist ingevoerd (omvang en loon zijn 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        528.37,
+        218.24,
+        537.37
+      ],
+      "text": "omgewisseld) in CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        135.14,
+        568.45,
+        242.1,
+        577.53
+      ],
+      "text": " Overige oorzaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        589.81,
+        566.48,
+        598.81
+      ],
+      "text": "Onjuiste argumenten gebruikt of niet voldoende inzichtelijk gemaakt waarom 4 2 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        600.73,
+        287.47,
+        609.73
+      ],
+      "text": "functies zijn komen te laten vervallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        620.77,
+        566.0,
+        629.77
+      ],
+      "text": "Situatie van beroeps WSW-er onjuist beoordeeld. CBBS had niet 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        631.69,
+        454.85,
+        640.69
+      ],
+      "text": "geraadpleegd moeten worden maar bij de WSW organisatie had nagegaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.14,
+        642.61,
+        367.89,
+        651.61
+      ],
+      "text": "moeten worden of er passende banen aanwezig waren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        153.14,
+        152.84,
+        467.39,
+        161.84
+      ],
+      "text": "Onjuist raadplegen CBBS gecombineerd met overige oorzaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        135.14,
+        152.92,
+        140.54,
+        161.92
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        184.16,
+        567.92,
+        193.16
+      ],
+      "text": "Zowel opleidingsniveau 2 en hierbij onterecht opleidingsrichtingen 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        195.08,
+        457.76,
+        204.08
+      ],
+      "text": "uitgesloten in CBBS, als onvoldoende inzichtelijk gemaakt waarom functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        206.0,
+        249.07,
+        215.0
+      ],
+      "text": "zijn komen te laten vervallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        226.16,
+        567.92,
+        235.16
+      ],
+      "text": "Zowel opleidingsniveau 3 of hoger en hierbij een onjuiste beroepsrichting 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        237.08,
+        457.76,
+        246.08
+      ],
+      "text": "uitgesloten in CBBS, als onvoldoende inzichtelijk gemaakt waarom functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        248.0,
+        249.07,
+        257.0
+      ],
+      "text": "zijn komen te laten vervallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        299.03,
+        566.48,
+        308.03
+      ],
+      "text": "Totaal 12 6 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.22,
+        348.71,
+        344.42,
+        357.71
+      ],
+      "text": "* NB. De percentages zijn zo veel mogelijk afgerond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.22,
+        416.51,
+        139.99,
+        425.51
+      ],
+      "text": "Tabel B",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        477.01,
+        528.48,
+        486.01
+      ],
+      "text": "Functionaris die de IVA-toets verricht heeft op een risicodossier met Aantallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        540.12,
+        479.53,
+        561.04,
+        488.53
+      ],
+      "text": "% *",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        488.05,
+        361.72,
+        497.05
+      ],
+      "text": "een onterechte 80-100% arbeidsongeschiktheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        531.73,
+        568.16,
+        540.73
+      ],
+      "text": "Adviseur arbeidsdeskundige 2 1 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        551.77,
+        568.16,
+        560.77
+      ],
+      "text": "Adviseur verzekeringsarts 4 2 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        571.81,
+        567.68,
+        580.81
+      ],
+      "text": "Dedicated arbeidsdeskundige 1 0,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        591.73,
+        568.76,
+        600.73
+      ],
+      "text": "Niet te achterhalen 5 2,5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.14,
+        622.69,
+        568.16,
+        631.69
+      ],
+      "text": "Totaal 12 6 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.22,
+        672.4,
+        344.42,
+        681.4
+      ],
+      "text": "* NB. De percentages zijn zo veel mogelijk afgerond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        72.78,
+        140.1,
+        81.78
+      ],
+      "text": "Tabel C",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        121.76,
+        525.31,
+        130.76
+      ],
+      "text": "Fouten die weliswaar zijn gemaakt, maar niet hebben geleid tot een Aantalle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        535.68,
+        124.28,
+        556.6,
+        133.28
+      ],
+      "text": "% *",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        132.8,
+        490.11,
+        141.8
+      ],
+      "text": "risico op een onterechte 80-100% arbeidsongeschiktheidssituatie** n",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        176.48,
+        560.48,
+        185.48
+      ],
+      "text": "Opleidingsniveau 2, onterecht opleidingsrichtingen uitgesloten in CBBS 10 5 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        207.56,
+        560.11,
+        216.56
+      ],
+      "text": "Opleidingsniveau 3 of hoger een onjuiste beroepsrichting uitgesloten in CBBS 9 4,5%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        238.52,
+        560.48,
+        247.52
+      ],
+      "text": "Onvoldoende inzichtelijk gemaakt waarom functies zijn komen te vervallen 4 2 %",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        269.48,
+        560.11,
+        278.48
+      ],
+      "text": "Een onjuist opleidingsniveau ingebracht (opleidingsnivo 4 ipv 2 met als gevolg 1 0,5%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        280.43,
+        284.29,
+        289.43
+      ],
+      "text": "ook opleidingsrichtingen uitgesloten)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        303.59,
+        560.11,
+        312.59
+      ],
+      "text": "Situatie van beroeps WSW-er onjuist beoordeeld. CBBS had niet geraadpleegd 1 0,5%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        314.51,
+        464.28,
+        323.51
+      ],
+      "text": "moeten worden maar bij de WSW organisatie had nagegaan moeten worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        325.43,
+        293.96,
+        334.43
+      ],
+      "text": "of er passende banen aanwezig waren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        483.7,
+        363.23,
+        565.86,
+        372.23
+      ],
+      "text": "25 12,5%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.14,
+        365.63,
+        148.55,
+        374.63
+      ],
+      "text": "Totaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        413.87,
+        344.42,
+        422.87
+      ],
+      "text": "* NB. De percentages zijn zo veel mogelijk afgerond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        436.43,
+        413.5,
+        445.43
+      ],
+      "text": "** Vanwege forse beperkingen, combinatie van beperkingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.82,
+        480.09,
+        286.93,
+        490.05
+      ],
+      "text": "7. Conclusies en aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        524.29,
+        153.71,
+        533.29
+      ],
+      "text": "Conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        547.13,
+        112.84,
+        558.17
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        547.51,
+        441.18,
+        558.55
+      ],
+      "text": "In 12 gevallen (6%) is sprake van een risico op een onterechte 80-100%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        560.95,
+        505.34,
+        571.99
+      ],
+      "text": "arbeidsongeschiktheid, vastgesteld door de arbeidsdeskundige. Hierdoor bestaat een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        574.39,
+        297.18,
+        585.43
+      ],
+      "text": "risico op een onterechte IVA-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        598.01,
+        112.84,
+        609.05
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        598.39,
+        475.27,
+        609.43
+      ],
+      "text": "In al deze gevallen vond een IVA-toets plaats die uitgevoerd werd door diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        611.71,
+        196.0,
+        622.75
+      ],
+      "text": "functionarissen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        625.15,
+        514.54,
+        636.19
+      ],
+      "text": "De adviseur arbeidsdeskundige toetste in 2 gevallen (1%), de adviseur verzekeringsarts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        638.59,
+        503.63,
+        649.63
+      ],
+      "text": "in 4 gevallen (2%) en de dedicated arbeidsdeskundige in 1 geval (0,5%). In 5 gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        652.15,
+        403.12,
+        663.19
+      ],
+      "text": "(2,5%) is niet te achterhalen welke functionaris heeft getoetst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.22,
+        675.68,
+        112.84,
+        686.72
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        676.06,
+        507.77,
+        687.1
+      ],
+      "text": "Tevens is naar voren gekomen dat in 25 dossiers (12,5%) de kwaliteit als onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        689.5,
+        520.27,
+        700.54
+      ],
+      "text": "beschouwd moet worden. Hierbij is echter geen sprake van een risico op een onterechte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.22,
+        703.06,
+        269.31,
+        714.1
+      ],
+      "text": "80-100% arbeidsongeschiktheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.22,
+        96.32,
+        172.47,
+        105.32
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.82,
+        118.94,
+        503.16,
+        129.98
+      ],
+      "text": "IVA-toets continueren, tevens hierbij vakinhoudelijke aspecten - en het toetsen hiervan -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.82,
+        132.38,
+        490.27,
+        143.42
+      ],
+      "text": "onder de aandacht brengen bij (adviseur)arbeidsdeskundigen. Dit zijn vakinhoudelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.82,
+        145.82,
+        493.02,
+        156.86
+      ],
+      "text": "aspecten zoals het correct raadplegen van het CBBS, het inzichtelijk maken van (juiste)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.82,
+        159.14,
+        502.91,
+        170.18
+      ],
+      "text": "argumenten waarom functies zijn komen te vervallen en het correct beoordelen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.82,
+        172.7,
+        185.94,
+        183.74
+      ],
+      "text": "beroeps WSW-er.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        518.76,
+        786.76,
+        524.48,
+        795.76
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        76.86,
+        114.53,
+        85.86
+      ],
+      "text": "Colofon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        114.8,
+        298.94,
+        123.8
+      ],
+      "text": "Uitgever CEC/ SMZ BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        152.84,
+        109.63,
+        161.84
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        171.8,
+        107.99,
+        180.8
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        190.88,
+        379.94,
+        199.88
+      ],
+      "text": "Document Evaluatie methodiek IVA-toets 2016",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        82.82,
+        270.54,
+        116.92,
+        276.54
+      ],
+      "text": "2015, UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        270.6,
+        80.74,
+        276.6
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        278.97,
+        491.69,
+        284.97
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        287.49,
+        486.11,
+        293.49
+      ],
+      "text": "openbaar gemaakt, in enige vorm, of enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen of enige andere manier,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        76.22,
+        296.01,
+        250.39,
+        302.01
+      ],
+      "text": "zonder voorafgaande schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        513.12,
+        786.76,
+        524.6,
+        795.76
+      ],
+      "text": "10",
+      "source": "text"
+    }
+  ]
+}

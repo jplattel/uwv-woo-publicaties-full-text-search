@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="base-path" content="{{ base_path }}" />
+    <title>UWV Woo-publicaties</title>
+    <link rel="stylesheet" href="{{ base_path }}assets/style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>UWV Woo-publicaties</h1>
+      <p>Doorzoekbare OCR-extracten van Woo-besluiten op uwv.nl</p>
+    </header>
+    <main>
+      <div class="search-box">
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Zoek op onderwerp, titel, tekst…"
+          autofocus
+        />
+      </div>
+      <div id="search-suggestions" class="search-suggestions"></div>
+      <div id="result-count" class="meta-bar"></div>
+      <div id="results"></div>
+    </main>
+    <script src="{{ base_path }}assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,7373 @@
+{
+  "source_id": "2023-07-18-besluit-woo-verzoek-it-strategie-uwv/2023-07-18-bijlage-3-beleid-reference-data",
+  "publication_slug": "2023-07-18-besluit-woo-verzoek-it-strategie-uwv",
+  "pdf_slug": "2023-07-18-bijlage-3-beleid-reference-data",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/besluit-woo-verzoek-it-strategie-uwv",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/963606f0-324a-4366-9277-97aca9ab0637/bijlage-3-beleid-reference-data.pdf",
+  "publication_title": "Besluit Woo-verzoek IT strategie UWV",
+  "publication_date": "2023-07-18T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 3 Beleid Reference Data v3.0 (PDF, 727 kB)",
+  "retrieved_at": "2026-06-30T13:18:09+00:00",
+  "sha256": "d69b7902660748616816f5283aacae3500a3c1749e9bdfe5a30ef5a43a7ef31f",
+  "page_count": 17,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        315.73,
+        183.39,
+        327.73
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        328.57,
+        281.94,
+        340.57
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        388.75,
+        442.32,
+        398.71
+      ],
+      "text": "voor het beheren en beschikbaar stellen van reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        411.1,
+        43.98,
+        516.21,
+        52.98
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        110.22,
+        434.1,
+        116.22
+      ],
+      "text": "Status Auteur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        120.0,
+        477.98,
+        128.04
+      ],
+      "text": "Definitief Data Office UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Versie Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "3.0 2 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.46,
+        171.8,
+        140.93,
+        180.8
+      ],
+      "text": "Versiehistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        185.0,
+        344.9,
+        194.0
+      ],
+      "text": "Versie Datum Wijzigingen t.o.v. vorige versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        198.32,
+        516.9,
+        207.32
+      ],
+      "text": "2.1 30 -01-2016 Herformulering beleid Reference Data na consultatie met Data-Office",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        211.04,
+        354.29,
+        220.04
+      ],
+      "text": "en Lokaal Gegevensmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        224.24,
+        515.58,
+        233.24
+      ],
+      "text": "2.2 14-02-2016 Herformulering beleid Reference data na consultatie met Data-Office",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        237.08,
+        354.29,
+        246.08
+      ],
+      "text": "en Lokaal Gegevensmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        250.28,
+        347.86,
+        259.28
+      ],
+      "text": "2.3 15-02-2016 Commentaren verwerkt van DO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        263.48,
+        517.27,
+        272.48
+      ],
+      "text": "2.4 26-02-2016 Invoeging TVB rond beheerplatform reference data n.a.v. bespreking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        276.35,
+        234.8,
+        285.35
+      ],
+      "text": "in LGM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        289.55,
+        360.03,
+        298.55
+      ],
+      "text": "2.5 01-03-2016 Finale review Data Office verwerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        302.75,
+        489.34,
+        311.75
+      ],
+      "text": "2.6 21-03-2016 Review commentaar LGM verwerkt: 3.2.2 betreft naast nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        315.59,
+        452.3,
+        324.59
+      ],
+      "text": "applicaties ook nieuwe reference data in een applicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        328.79,
+        502.06,
+        337.79
+      ],
+      "text": "2.7 24-03-2016 Vastgesteld in LGM 24-03-2016, met de aanpassing, dat in 3.3.1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        341.51,
+        510.4,
+        350.51
+      ],
+      "text": "“Ook bewaakt de gegevenseigenaar of de wijzigingen adequaat zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        354.35,
+        502.71,
+        363.35
+      ],
+      "text": "doorgevoerd” moet worden gelezen als: gegevenseigenaar vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        367.07,
+        479.0,
+        376.07
+      ],
+      "text": "bevestiging van afnemer dat deze de gegevens correct heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        379.79,
+        469.95,
+        388.79
+      ],
+      "text": "overgenomen. Geen controle op daadwerkelijk doorvoeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        392.51,
+        477.71,
+        401.51
+      ],
+      "text": "Daarnaast verzoekt het LGM om een vervolg in de vorm van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        405.35,
+        487.33,
+        414.35
+      ],
+      "text": "stappenplan voor implementatie (niet in dit beleidsdocument).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        418.55,
+        348.39,
+        427.55
+      ],
+      "text": "2.8 13-04-2016 Vastgesteld in KOG 13-04-2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        203.93,
+        430.67,
+        444.19,
+        439.67
+      ],
+      "text": "Gecontroleerd op werking hyperlinks en terminologie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        85.1,
+        431.75,
+        187.05,
+        440.75
+      ],
+      "text": "3.0 D 28-12-2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.46,
+        445.07,
+        204.58,
+        454.07
+      ],
+      "text": "C = Concept; D = Definitief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.46,
+        468.73,
+        178.61,
+        477.73
+      ],
+      "text": "Status besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        482.05,
+        271.53,
+        491.05
+      ],
+      "text": "Versie Datum Besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        495.25,
+        443.09,
+        504.25
+      ],
+      "text": "2.0 22 januari Vastgesteld in Kaderstellend Overleg d.d. 22-1-2015",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.98,
+        507.97,
+        155.98,
+        516.97
+      ],
+      "text": "2015",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        85.1,
+        521.29,
+        495.92,
+        530.29
+      ],
+      "text": "3.0 D 18 april Vastgesteld in Coalitie Gegevensmanagement d.d. 18 april 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.98,
+        534.01,
+        155.98,
+        543.01
+      ],
+      "text": "2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.46,
+        547.21,
+        204.58,
+        556.21
+      ],
+      "text": "C = Concept; D = Definitief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        71.3,
+        740.74,
+        266.58,
+        747.7
+      ],
+      "text": "© UWV Uitvoeringsinstituut werknemersverzekeringen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        71.3,
+        751.9,
+        402.99,
+        758.86
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        71.3,
+        763.06,
+        405.07,
+        770.02
+      ],
+      "text": "een geautomatiseerd gegevensbestand of openbaar gemaakt, in enige vorm of op enige wijze,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        71.3,
+        774.22,
+        401.32,
+        781.18
+      ],
+      "text": "hetzij elektronisch, mechanisch, door fotokopieën, opnamen of op enig andere manier zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        71.3,
+        785.5,
+        270.84,
+        792.46
+      ],
+      "text": "voorafgaande schriftelijke toestemming van de uitgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "3 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        171.8,
+        102.7,
+        180.8
+      ],
+      "text": "Inhoud",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        196.52,
+        418.22,
+        205.52
+      ],
+      "text": "1 Inleiding 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        209.24,
+        417.54,
+        218.24
+      ],
+      "text": "1.1 Aanleiding 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        222.08,
+        417.54,
+        231.08
+      ],
+      "text": "1.2 Historie 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        234.8,
+        417.54,
+        243.8
+      ],
+      "text": "1.3 Doel 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        247.52,
+        417.54,
+        256.52
+      ],
+      "text": "1.4 Reikwijdte 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        260.24,
+        310.32,
+        269.24
+      ],
+      "text": "1.5 Relatie met andere producten van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        156.02,
+        273.08,
+        417.54,
+        282.08
+      ],
+      "text": "gegevensmanagement 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        297.83,
+        418.22,
+        306.83
+      ],
+      "text": "2 Reference data 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        310.55,
+        417.54,
+        319.55
+      ],
+      "text": "2.1 Wat is het belang van reference data? 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        323.27,
+        417.54,
+        332.27
+      ],
+      "text": "2.2 Kwaliteitseisen aan reference data 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        336.11,
+        417.54,
+        345.11
+      ],
+      "text": "2.2.1 Meervoudig gebruik 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        348.83,
+        417.54,
+        357.83
+      ],
+      "text": "2.2.2 Vast waardebereik (gedurende een periode) 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        361.55,
+        417.54,
+        370.55
+      ],
+      "text": "2.2.3 Geldigheidstermijn (waardebereik) 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        386.27,
+        418.22,
+        395.27
+      ],
+      "text": "3 Beleidsuitgangspunten Reference Data Management 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        399.11,
+        417.54,
+        408.11
+      ],
+      "text": "3.1 Procesmodel Reference Data Management 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        411.83,
+        423.3,
+        420.83
+      ],
+      "text": "3.2 Modellering en beheer 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        424.55,
+        423.3,
+        433.55
+      ],
+      "text": "3.2.1 TVB voortbrengingsproces reference data 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        437.27,
+        423.3,
+        446.27
+      ],
+      "text": "3.2.2 TVB beheer CGM reference data 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        450.11,
+        423.3,
+        459.11
+      ],
+      "text": "3.3 Distributie 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        462.83,
+        423.3,
+        471.83
+      ],
+      "text": "3.3.1 TVB distributie van gewijzigde waardebereiken 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.54,
+        475.57,
+        423.3,
+        484.57
+      ],
+      "text": "3.4 Afnemen 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        141.86,
+        488.29,
+        423.3,
+        497.29
+      ],
+      "text": "3.4.1 TVB Afname van gewijzigde waardebereiken 15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        513.13,
+        424.58,
+        522.13
+      ],
+      "text": "4 Afkortingenlijst 16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        537.85,
+        424.58,
+        546.85
+      ],
+      "text": "Bijlage A Issues met de landcodetabel binnen UWV 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "4 van 17",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.94,
+        193.85,
+        80.93,
+        207.89
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.94,
+        196.23,
+        144.65,
+        207.27
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        221.91,
+        172.47,
+        232.95
+      ],
+      "text": "1.1 Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        174.89,
+        234.54,
+        221.55,
+        244.16
+      ],
+      "text": "reference1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        235.16,
+        488.12,
+        244.16
+      ],
+      "text": "Eenduidig gebruik van data binnen UWV moet goed zijn geregeld. Het bestaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        247.76,
+        492.48,
+        256.76
+      ],
+      "text": "beleid, zoals beschreven in “Beleid Tabellen UGR” dekt slechts een deel van de materie af en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        260.36,
+        195.32,
+        269.36
+      ],
+      "text": "dient vernieuwd te worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        285.42,
+        155.66,
+        296.46
+      ],
+      "text": "1.2 Historie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        298.67,
+        455.83,
+        307.67
+      ],
+      "text": "In 2005 is het beleid “Beleid Tabellen UGR” opgesteld. Hierop zijn in januari 2015 de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        311.27,
+        496.02,
+        320.27
+      ],
+      "text": "“Beleidsuitgangspunten reference Data UWV” gebaseerd. Dit is vooral gericht op de inpassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        323.87,
+        396.0,
+        332.87
+      ],
+      "text": "in het Canonieke Gegevensmodel UWV (CGM), het belang voor de UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        263.31,
+        335.85,
+        307.31,
+        345.47
+      ],
+      "text": "FUGEMs2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        336.47,
+        479.51,
+        345.47
+      ],
+      "text": "gegevenshuishouding en het project UWV Daarnaast is een voorstel gedaan om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        349.07,
+        464.63,
+        358.07
+      ],
+      "text": "een “Centraal tabellenregister voor UWV” in te richten binnen Gegevensdiensten. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        361.55,
+        495.75,
+        370.55
+      ],
+      "text": "aanbeveling is niet overgenomen in de organisatie. Er is aangegeven dat centraal beheer niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        374.15,
+        172.07,
+        383.15
+      ],
+      "text": "past in de organisatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        386.75,
+        489.54,
+        395.75
+      ],
+      "text": "Door de beschrijving van reference data in dit document, vervalt paragraaf 4.1.1 Wat is een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        397.67,
+        455.77,
+        406.67
+      ],
+      "text": "Codegegeven? in het gepubliceerde Beleid Tabellen UGR, versie 1.0 van 9 mei 2005.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        408.59,
+        463.99,
+        417.59
+      ],
+      "text": "De overige inhoud van “Beleid Tabellen UGR” zal worden herijkt en vervolgens worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        419.63,
+        495.38,
+        428.63
+      ],
+      "text": "verwerkt in de FUGEM-standaard en het metamodel van het Canoniek Gegevensmodel UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        430.55,
+        397.05,
+        439.55
+      ],
+      "text": "Daarmee zal het Beleid Tabellen UGR in zijn geheel komen te vervallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        453.9,
+        134.72,
+        464.94
+      ],
+      "text": "1.3 Doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        468.25,
+        483.71,
+        477.25
+      ],
+      "text": "Het doel is duidelijk te maken wat het belang van reference data voor de bedrijfsvoering is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        481.09,
+        487.66,
+        490.09
+      ],
+      "text": "en hoe reference data binnen UWV moet worden beheerd. Het moet voor iedereen mogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        493.81,
+        493.11,
+        502.81
+      ],
+      "text": "zijn om gebruik te maken van eenduidige en consistente reference data: “Reference data die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        506.53,
+        496.24,
+        515.53
+      ],
+      "text": "volledig, juist en actueel zijn”. Het beleid richt zich op een federatief model, niet meer op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        519.25,
+        148.58,
+        528.25
+      ],
+      "text": "centraal register.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        543.44,
+        173.07,
+        554.48
+      ],
+      "text": "1.4 Reikwijdte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        557.77,
+        491.68,
+        566.77
+      ],
+      "text": "Dit document stelt de definities vast van reference data en reference data management. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        570.61,
+        480.53,
+        579.61
+      ],
+      "text": "geeft richting aan de wijze van modelleren, beheren en beschikbaar stellen van reference",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        583.33,
+        483.57,
+        592.33
+      ],
+      "text": "data binnen UWV. Reference data zijn een speciale categorie van Master Data. Waarbij het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        596.05,
+        475.89,
+        605.05
+      ],
+      "text": "gaat om het vaststellen en beheren van de “enkelvoudige waarheid over de belangrijkste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        608.77,
+        199.53,
+        617.77
+      ],
+      "text": "bedrijfsgegevens van UWV”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        634.33,
+        425.64,
+        643.33
+      ],
+      "text": "Dit document is bestemd voor gegevenseigenaren, lokaal gegevensmanagers,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        647.05,
+        457.22,
+        656.05
+      ],
+      "text": "bedrijfsarchitecten, gegevensarchitecten, systeemeigenaren, functioneel beheerders,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        659.8,
+        471.58,
+        668.8
+      ],
+      "text": "functioneel ontwerpers en gegevensspecialisten. Voor wat betreft de beschikbaarstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        672.64,
+        490.82,
+        681.64
+      ],
+      "text": "middels services, is er een impact te verwachten op de berichtontwikkeling en –uitwisseling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        685.36,
+        361.44,
+        694.36
+      ],
+      "text": "Daarnaast speelt het beheerplatform GM een rol bij wijzigingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        775.42,
+        484.22,
+        782.38
+      ],
+      "text": "1 Er wordt bewust voor het engelse begrip “reference data” gekozen in plaats van “referentie data”, dit in lijn met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        783.94,
+        274.88,
+        790.9
+      ],
+      "text": "term Master data. Twee begrippen die nauw verwant zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        791.84,
+        73.84,
+        796.4
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.22,
+        792.46,
+        376.49,
+        799.42
+      ],
+      "text": "Het project UWV FUGEMs speelt zich af in de periode van begin 2014 tot medio 2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "5 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        170.79,
+        460.85,
+        181.83
+      ],
+      "text": "1.5 Relatie met andere producten van gegevensmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        186.08,
+        473.52,
+        195.08
+      ],
+      "text": "Reference data zijn een bepaald soort bedrijfsgegevens. Vanuit dit specifieke perspectief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        198.68,
+        438.68,
+        207.68
+      ],
+      "text": "heeft dit document een relatie met diverse producten van gegevensmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        211.28,
+        296.75,
+        220.28
+      ],
+      "text": "(gegevensstandaarden, -beleid en –architectuur).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        236.84,
+        480.28,
+        245.84
+      ],
+      "text": "De hieronder en verder in dit document genoemde beleids- en/of architectuurdocumenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        249.68,
+        478.26,
+        258.68
+      ],
+      "text": "van de Data Office UWV zijn beschikbaar op de Digitale Werkplek onder Data Office UWV,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        262.4,
+        168.06,
+        271.4
+      ],
+      "text": "Producten en Kaders.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        287.87,
+        237.84,
+        296.87
+      ],
+      "text": "Titel Relatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        300.35,
+        463.38,
+        309.35
+      ],
+      "text": "Standaards voor Geeft aan hoe een gegeven moet worden gedefinieerd en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        312.35,
+        461.04,
+        321.35
+      ],
+      "text": "Functioneel ontworpen. Hoe je reference data modelleert staat hierin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        324.35,
+        257.35,
+        333.35
+      ],
+      "text": "Gegevensmodel beschreven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        336.83,
+        491.54,
+        345.83
+      ],
+      "text": "Canoniek Toont hoe gegevens in bijbehorende context zijn gemodelleerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        348.83,
+        453.87,
+        357.83
+      ],
+      "text": "Gegevensmodel UWV Reference data is zichtbaar gemaakt in diagrammen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        360.83,
+        373.67,
+        369.83
+      ],
+      "text": "(CGM) bijbehorende metadata is vastgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        373.31,
+        499.7,
+        382.31
+      ],
+      "text": "Beleid Elk gegeven kent een gegevenseigenaar, dus ook reference data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        385.31,
+        184.76,
+        394.31
+      ],
+      "text": "gegevenseigenaarschap",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        397.79,
+        510.09,
+        406.79
+      ],
+      "text": "Beleid Met het beleid reference data wordt gestreefd naar het principe van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        409.79,
+        482.48,
+        418.79
+      ],
+      "text": "gegevensredundantie eenmalige uitvraag (en onderhouden) en meervoudig gebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.49,
+        421.79,
+        425.92,
+        430.79
+      ],
+      "text": "binnen UWV. Geen onnodige opslag van kopieën.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        434.27,
+        507.38,
+        443.27
+      ],
+      "text": "Beleid tijdsdimensies Voor goed beheer van reference data is het noodzakelijk te werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.49,
+        446.27,
+        434.66,
+        455.27
+      ],
+      "text": "met de geldigheidsdimensie en transactiedimensie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        458.87,
+        504.62,
+        467.87
+      ],
+      "text": "Gegevensprincipes Dit document raakt aan gegevensprincipes 1, 2, 3, 4, 6, 7, 8 en 9.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        471.37,
+        504.72,
+        480.37
+      ],
+      "text": "Berichtstandaard Geeft aan hoe beschikbaarstelling van reference data, door middel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.49,
+        483.37,
+        354.26,
+        492.37
+      ],
+      "text": "van UwvML, wordt vormgegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        495.85,
+        473.7,
+        504.85
+      ],
+      "text": "Beleid Normenhiërarchie Dit document geeft richting aan de te kiezen reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.49,
+        507.85,
+        476.73,
+        516.85
+      ],
+      "text": "wanneer er sprake is van meerdere varianten afkomstig van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.49,
+        519.85,
+        449.83,
+        528.85
+      ],
+      "text": "verschillende bronnen/instanties (bijv. landcodetabel).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        532.33,
+        510.33,
+        541.33
+      ],
+      "text": "Onderzoek Master Data Het onderzoek naar nut en noodzaak van master data management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.58,
+        544.33,
+        489.84,
+        553.33
+      ],
+      "text": "Management raakt ook aan reference data, aangezien deze een soort Master",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        202.49,
+        556.33,
+        246.21,
+        565.33
+      ],
+      "text": "Data zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "6 van 17",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        70.94,
+        167.81,
+        80.93,
+        181.85
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        170.19,
+        182.45,
+        181.23
+      ],
+      "text": "Reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        196.52,
+        391.67,
+        205.52
+      ],
+      "text": "Dit hoofdstuk beschrijft wat reference data zijn en hoe deze eruit zien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        220.47,
+        342.0,
+        231.51
+      ],
+      "text": "2.1 Wat is het belang van reference data?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        241.28,
+        233.82,
+        250.28
+      ],
+      "text": "Reference data (UWV definitie):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        257.16,
+        94.02,
+        268.2
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        257.54,
+        410.4,
+        268.58
+      ],
+      "text": "Gegevens die worden gebruikt om bedrijfsgegevens te classificeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        273.24,
+        94.02,
+        284.28
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        273.62,
+        491.84,
+        284.66
+      ],
+      "text": "Reference data hebben altijd een vast waardebereik gedurende een bepaalde periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        289.01,
+        148.98,
+        300.05
+      ],
+      "text": "in de tijd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        318.83,
+        433.93,
+        327.83
+      ],
+      "text": "Reference data bieden de context voor de uitvoering: de bedrijfssector indeling,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        331.67,
+        466.01,
+        340.67
+      ],
+      "text": "opleidingsniveau’s, opleidingen, rekenregels. De gegevens aan de hand waarvan wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        344.39,
+        478.07,
+        353.39
+      ],
+      "text": "geclassificeerd om later vergelijkingen en uitspraken te kunnen doen. B.v stuurinformatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        357.11,
+        449.19,
+        366.11
+      ],
+      "text": "verkrijgen over WIA uitkeringsduur per opleidingsniveau en WW uitkeringsduur per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        369.83,
+        458.04,
+        378.83
+      ],
+      "text": "opleidingsniveau. Dit maakt het belang duidelijk van een vast waardebereik voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        382.67,
+        458.75,
+        391.67
+      ],
+      "text": "bepaalde periode in de tijd en van eenduidigheid over de betekenis van de gebruikte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        116.06,
+        394.77,
+        119.88,
+        400.77
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        395.39,
+        112.85,
+        404.39
+      ],
+      "text": "waarden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        420.83,
+        494.47,
+        429.83
+      ],
+      "text": "Het kan van belang zijn om gedurende een zekere tijd een vaste set aan waarden te hebben,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        433.67,
+        346.81,
+        442.67
+      ],
+      "text": "b.v. premiepercentages hebben een geldigheid van een jaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        459.11,
+        239.1,
+        468.11
+      ],
+      "text": "Voorbeelden van reference data zijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        471.85,
+        169.56,
+        480.93
+      ],
+      "text": " Postcodetabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        484.69,
+        162.16,
+        493.69
+      ],
+      "text": "Landentabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        484.77,
+        93.08,
+        493.77
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        497.41,
+        194.99,
+        506.41
+      ],
+      "text": "Nationaliteitentabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        497.49,
+        93.08,
+        506.49
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        510.13,
+        167.11,
+        519.13
+      ],
+      "text": "Tabel SZ-wet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        510.21,
+        93.08,
+        519.21
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        522.85,
+        189.84,
+        531.93
+      ],
+      "text": " Minimumloontabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        535.69,
+        193.4,
+        544.69
+      ],
+      "text": "Premiepercentages",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        535.77,
+        93.08,
+        544.77
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        548.41,
+        187.66,
+        557.41
+      ],
+      "text": "Indexeringscijfers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        548.49,
+        93.08,
+        557.49
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        561.13,
+        200.48,
+        570.13
+      ],
+      "text": "Kostenplaatsindeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        561.21,
+        93.08,
+        570.21
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        573.85,
+        183.99,
+        582.93
+      ],
+      "text": " Opleidingsniveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        586.69,
+        160.46,
+        595.69
+      ],
+      "text": "Opleidingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        586.77,
+        93.08,
+        595.77
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        599.41,
+        180.02,
+        608.41
+      ],
+      "text": "Bedrijfssectoren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        599.49,
+        93.08,
+        608.49
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        612.25,
+        171.56,
+        621.33
+      ],
+      "text": " Regio-indeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        633.85,
+        495.23,
+        642.85
+      ],
+      "text": "Uit bovenstaand overzicht mag duidelijk zijn dat het een breed palet aan soorten gegevens is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        646.45,
+        206.09,
+        655.45
+      ],
+      "text": "waarop geclassificeerd wordt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        660.04,
+        493.06,
+        669.04
+      ],
+      "text": "Extern gedefinieerde gegevens, waarvoor verschillende lijsten met een waardebereik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        660.12,
+        93.08,
+        669.12
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        672.88,
+        258.55,
+        681.88
+      ],
+      "text": "bestaan (landen, nationaliteiten),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        685.6,
+        451.3,
+        694.6
+      ],
+      "text": "Extern gedefinieerde gegevens waarvan één waardenlijst van toepassing is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        685.68,
+        93.08,
+        694.68
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        698.32,
+        181.06,
+        707.32
+      ],
+      "text": "(Postcodetabel),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        711.04,
+        470.35,
+        720.04
+      ],
+      "text": "Extern gedefinieerde gegevens, gebaseerd op wet en regelgeving uit het sociale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.94,
+        711.12,
+        93.08,
+        720.12
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.94,
+        723.88,
+        364.01,
+        732.88
+      ],
+      "text": "domein (SZ-wet, Minimumloontabel, Indexeringscijfers),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        755.9,
+        74.76,
+        761.9
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.9,
+        758.14,
+        489.16,
+        765.1
+      ],
+      "text": "In de analyses van de FUGEM en het CGM wordt duidelijk welke bedrijfsgegevens gebruik maken van reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        767.02,
+        485.17,
+        773.98
+      ],
+      "text": "t.b.v. classificatie. Ook is duidelijk dat in de huidige implementatie van deze reference data niet altijd een eenduidige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        775.42,
+        493.11,
+        782.38
+      ],
+      "text": "definitie/ uitvoering van het begrip wordt gehanteerd (vrije velden om b.v. land van geboorte aan te geven; hergebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        783.94,
+        488.32,
+        790.9
+      ],
+      "text": "van oude codes, omdat het aantal mogelijk waarden beperkt was (codes van 1 numeriek, waar in de tijd meer dan 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        792.46,
+        146.55,
+        799.42
+      ],
+      "text": "waarden nodig zijn)).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "7 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.06,
+        171.92,
+        446.42,
+        180.92
+      ],
+      "text": "Intern gedefinieerde gegevens als Kostenplaatsindeling en Regio-indeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.94,
+        172.0,
+        93.08,
+        181.0
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        194.48,
+        490.08,
+        203.48
+      ],
+      "text": "De eenvoudigste vorm waarin de reference data voorkomen is: een lijst met waarden. Zoals",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        207.32,
+        491.37,
+        216.32
+      ],
+      "text": "die in een app voor de smartphone als keuzelijst beschikbaar is voor het kiezen van het land",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        220.04,
+        473.63,
+        229.04
+      ],
+      "text": "van geboorte. Soms wordt aan een waarde nog een korte toelichting toegevoegd, of een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        232.76,
+        166.1,
+        241.76
+      ],
+      "text": "aanvullend kenmerk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        258.32,
+        479.64,
+        267.32
+      ],
+      "text": "Aan het beschikbaar stellen van eenduidige reference data kleven verschillende aspecten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.94,
+        271.04,
+        467.6,
+        280.04
+      ],
+      "text": "Omgaan met wijzigingen in omschrijvingen, terwijl de kern van het begrip blijft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.94,
+        271.12,
+        93.08,
+        280.12
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.94,
+        283.79,
+        142.75,
+        292.79
+      ],
+      "text": "bestaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.94,
+        296.51,
+        463.11,
+        305.51
+      ],
+      "text": "Omgaan met verschillende synoniemen voor een zelfde begrip (meertaligheid)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.94,
+        296.59,
+        93.08,
+        305.59
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        309.35,
+        492.14,
+        318.35
+      ],
+      "text": "Hier is een aanpak nodig die de continuïteit van het object garandeert terwijl de beschrijving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        322.07,
+        488.58,
+        331.07
+      ],
+      "text": "in de loop der tijd of per taal mag wisselen. Er wordt gekozen om een betekenisloze code te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        334.79,
+        495.16,
+        343.79
+      ],
+      "text": "koppelen aan het begrip. Dus code 1 voor “Man”, code 2 voor “Vrouw” in plaats van code “M”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        347.51,
+        489.08,
+        356.51
+      ],
+      "text": "voor “Man” en code “V” voor vrouw. Zo kun je taalonafhankelijk met elkaar communiceren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        360.35,
+        492.98,
+        369.35
+      ],
+      "text": "In het Frans zou immers gekozen worden voor “H(omme)” en “F(emme)” etc. Het maakt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        373.07,
+        459.78,
+        382.07
+      ],
+      "text": "gelijk lastig als je persoonsgegevens wilt lezen zonder de uitleg bij code 1 en 2. In de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        385.79,
+        482.17,
+        394.79
+      ],
+      "text": "communicatie zal altijd de werkelijke waarde van het begrip meegeleverd moeten worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        398.51,
+        461.36,
+        407.51
+      ],
+      "text": "De praktijk is echter weerbarstig, in bestaande normenlijsten en gegevenssets komen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        411.35,
+        470.92,
+        420.35
+      ],
+      "text": "betekenisdragende codes voor. Deze uitbannen is niet mogelijk. Het beleid is daarom te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        424.07,
+        299.55,
+        433.07
+      ],
+      "text": "streven naar het gebruik van betekenisloze codes.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        449.51,
+        413.34,
+        458.51
+      ],
+      "text": "Omgaan en vaststellen van een goede lijst aan reference data is tweeledig:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.94,
+        473.95,
+        453.45,
+        484.99
+      ],
+      "text": "1. Vanuit het informatieperspectief: Reference data moet alle voor de gebruiker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.94,
+        486.67,
+        456.16,
+        497.71
+      ],
+      "text": "relevante waarden bevatten, compleet en actueel, welke synoniemen worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.94,
+        499.39,
+        421.15,
+        510.43
+      ],
+      "text": "gehanteerd, hoe verschillende normstelsels zich tot elkaar verhouden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.94,
+        512.23,
+        492.21,
+        523.27
+      ],
+      "text": "2. Vanuit beschikbaarheidsperspectief: De reference data moet voor alle afnemers tijdig,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.94,
+        525.07,
+        424.08,
+        536.11
+      ],
+      "text": "compleet en juist beschikbaar zijn op het moment waarop het nodig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        548.77,
+        427.89,
+        557.77
+      ],
+      "text": "Een voorbeeld ad 1: Bij de registratie van werkzoekenden en het matchen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        561.61,
+        490.12,
+        570.61
+      ],
+      "text": "werkzoekenden op aanvragen is men gediend bij het beschikbaar hebben van een correcte,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        574.33,
+        456.24,
+        583.33
+      ],
+      "text": "complete en actuele keuzelijst voor werkzoekenden om zijn opleidingen op te geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        587.05,
+        482.55,
+        596.05
+      ],
+      "text": "N.B. Wat compleet betekent, is afhankelijk van wat we als informatiebehoefte hanteren en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        599.77,
+        455.71,
+        608.77
+      ],
+      "text": "accepteren: de DUO goedgekeurde opleidingen, of een lijst, waarin ook buitenlandse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        612.61,
+        480.9,
+        621.61
+      ],
+      "text": "opleidingen en opleidingen, die voor de werkzoekende relevant waren, maar geen officiële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        625.33,
+        220.07,
+        634.33
+      ],
+      "text": "status hebben, zijn opgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        650.77,
+        485.08,
+        659.77
+      ],
+      "text": "Een voorbeeld ad 2: Als er nieuwe opleidingen beschikbaar komen, moeten deze aan zowel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        663.64,
+        494.77,
+        672.64
+      ],
+      "text": "de werkzoekenden registratie systemen, als de matching systemen worden opgevoerd, zodat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        676.36,
+        153.47,
+        685.36
+      ],
+      "text": "beide actueel zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "8 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        170.19,
+        321.73,
+        181.23
+      ],
+      "text": "2.2 Kwaliteitseisen aan reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        184.52,
+        474.39,
+        193.52
+      ],
+      "text": "Het meervoudig gebruik van een vast waardebereik op enig moment in de tijd stelt hoge",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        197.24,
+        457.4,
+        206.24
+      ],
+      "text": "eisen aan de kwaliteit van de reference data en hoe er mee moet worden omgegaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        222.8,
+        207.57,
+        231.8
+      ],
+      "text": "2.2.1 Meervoudig gebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        235.52,
+        483.25,
+        244.52
+      ],
+      "text": "Uit de aard van reference data volgt het meervoudig gebruik in verschillende processen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        248.24,
+        478.54,
+        257.24
+      ],
+      "text": "systemen. In deze processen kunnen de reference data in verschillende rollen voorkomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        261.08,
+        448.48,
+        270.08
+      ],
+      "text": "(geboorteland, nationaliteit, land van overlijden, woonadres land). Het beleid rond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        273.8,
+        488.45,
+        282.8
+      ],
+      "text": "meervoudig gebruik van gegevens en meerdere keren voorkomen van dezelfde gegevens in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        286.55,
+        475.77,
+        295.55
+      ],
+      "text": "verschillende systemen wordt behandeld in “Beleid gegevensredundantie”. Dit beleid laat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        299.27,
+        485.58,
+        308.27
+      ],
+      "text": "zien dat het de voorkeur binnen UWV heeft om van een gegeven slechts één exemplaar als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        312.11,
+        492.72,
+        321.11
+      ],
+      "text": "origineel (Master) in een (centrale) applicatie te hebben waarvan eventuele kopieën (Slaves)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        324.83,
+        430.4,
+        333.83
+      ],
+      "text": "in een één op één relatie hiermee in een aantal aanpalende omgevingen staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        350.27,
+        331.48,
+        359.27
+      ],
+      "text": "2.2.2 Vast waardebereik (gedurende een periode)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        363.11,
+        486.48,
+        372.11
+      ],
+      "text": "Het vaststellen wat het waardebereik op enig moment is, is een gezamenlijke keuze van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        375.21,
+        117.0,
+        384.83
+      ],
+      "text": "afnemers4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        120.14,
+        375.83,
+        477.68,
+        384.83
+      ],
+      "text": "en de gegevenseigenaar, de partij die de opdracht heeft dit waardebereik voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        388.55,
+        493.64,
+        397.55
+      ],
+      "text": "UWV te onderhouden. Uiteraard wordt de keuzevrijheid beperkt door de bedrijfsvoering waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        401.27,
+        485.42,
+        410.27
+      ],
+      "text": "men mee te maken heeft. In geval van buiten UWV geformuleerde waardenlijsten kan men",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        414.11,
+        472.22,
+        423.11
+      ],
+      "text": "niet afwijken van de gehanteerde standaards. Voor uitsluitend binnen UWV gehanteerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        426.83,
+        432.33,
+        435.83
+      ],
+      "text": "begrippen is de vrijheid groter. Echter één partij binnen UWV vervult de rol van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        439.55,
+        490.41,
+        448.55
+      ],
+      "text": "gegevenseigenaar, de anderen van afnemer. De taken en verantwoordelijkheden die hierbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        452.27,
+        399.83,
+        461.27
+      ],
+      "text": "in het geding zijn, zijn verwoord in het “Beleid gegevenseigenaarschap”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        465.13,
+        377.5,
+        474.13
+      ],
+      "text": "Het vaste karakter van het waardebereik heeft meerdere aspecten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.94,
+        477.85,
+        482.0,
+        486.93
+      ],
+      "text": " Een bepaald reference data voorkomen heeft een betekenis en die geldt voor allen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        490.57,
+        479.58,
+        499.57
+      ],
+      "text": "die het gebruiken: voorkom homoniemen en synoniemen, dit geldt gedurende het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        503.29,
+        243.69,
+        512.29
+      ],
+      "text": "hele bestaan van dit gegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        516.13,
+        488.85,
+        525.13
+      ],
+      "text": "Voor bepaalde reference data zijn externe bronnen beschikbaar, UWV streeft ernaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.94,
+        516.21,
+        93.08,
+        525.21
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        528.85,
+        486.5,
+        537.85
+      ],
+      "text": "aan te sluiten op één van deze bronnen, zie het “Beleid Normenhiërarchie”. Gezien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        541.57,
+        489.5,
+        550.57
+      ],
+      "text": "de historie binnen, maar ook buiten UWV, zal het voorkomen dat meerdere bronnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        554.29,
+        488.79,
+        563.29
+      ],
+      "text": "als uitgangspunt zijn genomen. Voor adequate classificatie is beleid geformuleerd in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        567.13,
+        398.86,
+        576.13
+      ],
+      "text": "de normenhiërarchie over hoe om te gaan met deze samenloop.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        88.94,
+        579.85,
+        492.42,
+        588.93
+      ],
+      "text": " De mate waarin het waardebereik kan groeien, krimpen door de tijd heen bepaalt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        592.57,
+        491.81,
+        601.57
+      ],
+      "text": "bruikbaarheid voor het maken van analyses op basis van de gegevens. Hoe stabieler",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        605.29,
+        463.82,
+        614.29
+      ],
+      "text": "hoe makkelijker. Het is een eigenschap, die bekend moet zijn bij afnemers om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.94,
+        618.13,
+        288.35,
+        627.13
+      ],
+      "text": "eenduidigheid in gebruik te bevorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        643.81,
+        285.5,
+        652.81
+      ],
+      "text": "2.2.3 Geldigheidstermijn (waardebereik)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        656.56,
+        474.01,
+        665.56
+      ],
+      "text": "De geldigheidstermijn van het waardebereik is van essentieel belang om te weten, zodat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        669.4,
+        487.56,
+        678.4
+      ],
+      "text": "vergelijkingen van waarden eenduidig kunnen worden gemaakt. Het “Beleid tijdsdimensies”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        682.12,
+        450.69,
+        691.12
+      ],
+      "text": "geeft de richtlijn hoe om te gaan met de geldigheidsduur van een voorkomen en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        694.84,
+        479.37,
+        703.84
+      ],
+      "text": "administratieve kant van het beheer van een voorkomen, denk aan terugwerkende kracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        707.56,
+        494.34,
+        716.56
+      ],
+      "text": "mutaties. D.w.z. elke referentie waarde heeft een begin en einddatum waarop deze geldig is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        720.4,
+        465.86,
+        729.4
+      ],
+      "text": "en een mutatiedatum, die aangeeft per wanneer het gegeven beschikbaar is gekomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        774.8,
+        73.84,
+        779.36
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.22,
+        775.42,
+        487.0,
+        782.38
+      ],
+      "text": "We kiezen expliciet voor de term “Afnemer” in plaats van “gebruiker”, om de afhankelijkheid van de eigenaar aan te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        783.94,
+        460.61,
+        790.9
+      ],
+      "text": "geven. De term “gebruiker” wordt vaak ook gehanteerd voor de functionaris die de registratie verzorgt van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        792.46,
+        392.66,
+        799.42
+      ],
+      "text": "gegevens in een applicatie. Afnemer versus Eigenaar is daarom duidelijker in deze context.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        411.1,
+        145.8,
+        446.69,
+        153.84
+      ],
+      "text": "9 van 17",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        70.94,
+        167.81,
+        80.93,
+        181.85
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.94,
+        170.19,
+        413.17,
+        181.23
+      ],
+      "text": "Beleidsuitgangspunten Reference Data Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        195.44,
+        451.07,
+        204.44
+      ],
+      "text": "Een goed beheer (management) van reference data is noodzakelijk om issues zoals",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        208.04,
+        471.21,
+        217.04
+      ],
+      "text": "bijvoorbeeld m.b.t. de integratie en kwaliteit van data op te lossen en in de toekomst te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        220.64,
+        471.38,
+        229.64
+      ],
+      "text": "voorkomen. Dit hoofdstuk beschrijft daarom de beleidsuitgangspunten om tot die goede",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        233.24,
+        451.08,
+        242.24
+      ],
+      "text": "beheersing te komen. Onder het “managen” van reference data wordt het volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        245.72,
+        114.26,
+        254.72
+      ],
+      "text": "verstaan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        273.56,
+        303.08,
+        282.56
+      ],
+      "text": "Reference data management (UWV definitie):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        286.31,
+        472.72,
+        295.31
+      ],
+      "text": "Het geheel van richtlijnen, processen en applicaties om reference data te beheren en ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        299.15,
+        314.65,
+        308.15
+      ],
+      "text": "beschikking te stellen voor een bedrijfsbreed gebruik.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        323.15,
+        480.4,
+        332.15
+      ],
+      "text": "In het vorige hoofdstuk is toegelicht vanuit welke gegevensbeleid naar reference data kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        335.75,
+        461.95,
+        344.75
+      ],
+      "text": "worden gekeken. Dat heeft zijn consequenties voor het beheer van de reference data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        349.43,
+        488.63,
+        358.43
+      ],
+      "text": "Wijzigingen in de reference data hebben grote impact op de mogelijkheid tot classificatie en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        362.15,
+        487.76,
+        371.15
+      ],
+      "text": "vervolgens analyse van bedrijfsgegevens. De invoering van nieuwe waarden vraagt daarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        374.87,
+        456.26,
+        383.87
+      ],
+      "text": "om zorgvuldig management: afstemmen met de bron wanneer de data geldig wordt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        387.59,
+        478.78,
+        396.59
+      ],
+      "text": "informeren van en afstemmen met de afnemers (partijen die de reference data gebruiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        400.43,
+        481.61,
+        409.43
+      ],
+      "text": "voor gegevens invoer en gegevens uitvoer (rapportages, leveringen, analyses etc.)). Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        413.15,
+        385.2,
+        422.15
+      ],
+      "text": "rol ligt bij de gegevenseigenaar, of zijn vertegenwoordiger, zie beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        425.87,
+        182.4,
+        434.87
+      ],
+      "text": "gegevenseigenaarschap.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        438.59,
+        491.47,
+        447.59
+      ],
+      "text": "Zodra de nieuwe lijst met waarden is vastgesteld zal de ingangsdatum gesteld worden en de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        451.43,
+        300.25,
+        460.43
+      ],
+      "text": "lijst worden vrijgegeven voor gebruik in productie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        464.15,
+        493.17,
+        473.15
+      ],
+      "text": "Het is in deze raadzaam om à la de OTAP-straat voor systeemontwikkeling een acceptatie en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        476.89,
+        372.23,
+        485.89
+      ],
+      "text": "release traject in te richten voor de wijziging van waardebereiken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        501.08,
+        90.58,
+        512.12
+      ],
+      "text": "3.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.94,
+        501.93,
+        344.45,
+        511.89
+      ],
+      "text": "Procesmodel Reference Data Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        514.33,
+        489.99,
+        523.33
+      ],
+      "text": "Onderstaand model geeft de verschillende aspecten weer van Reference Data management:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.94,
+        527.11,
+        310.0,
+        538.15
+      ],
+      "text": "1. Modellering en beheer van de reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.94,
+        542.47,
+        240.7,
+        553.51
+      ],
+      "text": "2. Distributie van reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.94,
+        557.95,
+        234.82,
+        568.99
+      ],
+      "text": "3. Afnemen van reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        787.96,
+        395.79,
+        796.96
+      ],
+      "text": "In de paragrafen hierna worden de verschillende onderdelen toegelicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "10 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        170.19,
+        90.58,
+        181.23
+      ],
+      "text": "3.2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.94,
+        171.04,
+        232.48,
+        181.0
+      ],
+      "text": "Modellering en beheer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        456.47,
+        467.88,
+        465.47
+      ],
+      "text": "De modellering van reference data volgt het standaard pad van de gegevensanalyse en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        469.09,
+        455.44,
+        478.09
+      ],
+      "text": "vastlegging in de repositories. De reference data kennen een UWV-breed gebruik. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        481.57,
+        480.53,
+        490.57
+      ],
+      "text": "verschillende omgevingen kunnen ze verschillend worden gebruikt. Het is daarom zaak de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        494.17,
+        484.51,
+        503.17
+      ],
+      "text": "afspraak in het CGM vast te leggen over wat de “enkelvoudige bron van de waarheid” is en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        506.77,
+        479.08,
+        515.77
+      ],
+      "text": "hoe er met de afgeleiden wordt omgegaan. In het CGM wordt aangegeven welke waarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        519.37,
+        491.28,
+        528.37
+      ],
+      "text": "geldig zijn. Dit kan door expliciet een lijst met waarden op te nemen of aan te geven in welk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        531.97,
+        494.39,
+        540.97
+      ],
+      "text": "systeem, of welke documentatie deze waarden als “enkelvoudige waarheid” worden beheerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        544.57,
+        412.49,
+        553.57
+      ],
+      "text": "In de FUGEM’s worden de verschijningsvormen van de reference data in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        557.05,
+        234.87,
+        566.05
+      ],
+      "text": "bedrijfsapplicaties gedocumenteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        569.65,
+        492.17,
+        578.65
+      ],
+      "text": "Met het aangeven van wat de bron van de referentiedata is, wordt ook de eigenaar van deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        582.25,
+        473.71,
+        591.25
+      ],
+      "text": "gegevens aangemerkt: die eigenaar bepaalt dat er een wijziging op de lijst met waarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        594.85,
+        479.1,
+        603.85
+      ],
+      "text": "aanstaande is. Namens de bron-eigenaar kan een bron-houder worden aangemerkt. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        607.45,
+        490.14,
+        616.45
+      ],
+      "text": "treedt binnen UWV namens de bron-eigenaar op in de besturing en beheer van de reference",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        620.05,
+        94.25,
+        629.05
+      ],
+      "text": "data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        645.13,
+        466.31,
+        654.13
+      ],
+      "text": "De eigenaar van de reference data maakt met de afnemers afspraken over het beheer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        657.76,
+        451.61,
+        666.76
+      ],
+      "text": "De afnemers worden aan de hand van de CGM/FUGEM-documentatie bepaald. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        670.36,
+        409.1,
+        679.36
+      ],
+      "text": "afspraken worden vastgelegd in een Service Niveau Overeenkomst (SNO).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        74.06,
+        682.96,
+        383.91,
+        691.96
+      ],
+      "text": "Hierin staan de rechten en plichten van beide partijen. Op hoofdlijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.94,
+        695.84,
+        94.02,
+        706.88
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.94,
+        696.22,
+        416.29,
+        707.26
+      ],
+      "text": "Wat verwachten de afnemers van de kwaliteit van de reference data,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        124.94,
+        711.02,
+        131.56,
+        722.06
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        142.94,
+        711.7,
+        463.9,
+        722.74
+      ],
+      "text": "kwaliteitsdimensies (beschikbaarheid, vertrouwelijkheid, compleetheid,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        142.94,
+        727.18,
+        304.57,
+        738.22
+      ],
+      "text": "consistentie, juistheid en tijdigheid )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        124.94,
+        741.85,
+        131.56,
+        752.89
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        145.46,
+        742.54,
+        423.72,
+        753.58
+      ],
+      "text": "inhoudelijk (welke waarden willen we als reference data zien).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.94,
+        758.24,
+        94.02,
+        769.28
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.94,
+        758.62,
+        443.55,
+        769.66
+      ],
+      "text": "Wat verwachten de houders van de wijzigingsverwerking door de afnemers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        124.94,
+        773.41,
+        131.56,
+        784.45
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        142.94,
+        774.1,
+        392.73,
+        785.14
+      ],
+      "text": "Verwerking wijzigingen binnen afgesproken tijdsvenster",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "11 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        124.94,
+        170.22,
+        131.56,
+        181.26
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        142.94,
+        170.9,
+        357.56,
+        181.94
+      ],
+      "text": "Signalering issues bij gebruik van reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        196.16,
+        473.7,
+        205.16
+      ],
+      "text": "Op basis van deze afspraken voeren alle afnemers samen met de eigenaar het reference",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        207.08,
+        463.25,
+        216.08
+      ],
+      "text": "data change management in het Beheer platform. Hierin wordt minimaal het volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        218.0,
+        121.24,
+        227.0
+      ],
+      "text": "besproken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.94,
+        229.32,
+        94.02,
+        240.36
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.94,
+        229.7,
+        385.48,
+        240.74
+      ],
+      "text": "Overleg over kwaliteitsniveau service verlening reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.94,
+        245.4,
+        94.02,
+        256.44
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.94,
+        245.78,
+        375.21,
+        256.82
+      ],
+      "text": "Wijzigingenbeheer (wanneer welke wijzigingen doornemen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.94,
+        261.36,
+        94.02,
+        272.4
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.94,
+        261.74,
+        358.06,
+        272.78
+      ],
+      "text": "Maatregelen treffen t.b.v. tijdige verwerking wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        287.03,
+        491.26,
+        296.03
+      ],
+      "text": "Van Beheer platform overleg wordt verslag gedaan, waarbij ook de lokaal gegevensmanager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        297.95,
+        473.0,
+        306.95
+      ],
+      "text": "wordt geconsulteerd/ geïnformeerd om eventuele wijzigingen in de reference data in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        308.99,
+        234.79,
+        317.99
+      ],
+      "text": "CGM/ FUGEM te (laten) doorvoeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        344.87,
+        317.68,
+        353.87
+      ],
+      "text": "3.2.1 TVB voortbrengingsproces reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        356.51,
+        436.63,
+        365.51
+      ],
+      "text": "Bij de ontwikkeling van nieuwe reference data moet de lokaal gegevensmanager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        367.55,
+        475.4,
+        376.55
+      ],
+      "text": "geconsulteerd worden, opdat deze i.s.m. Data Office toetst of de reference data al elders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        378.47,
+        479.1,
+        387.47
+      ],
+      "text": "beschikbaar is en ingezet kan worden. Indien een en ander geheel nieuw is, kan de lokaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        389.39,
+        489.6,
+        398.39
+      ],
+      "text": "gegevensmanager adviseren over de beste aanpak, opdat het CGM goed gevuld zal worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        400.31,
+        202.17,
+        409.31
+      ],
+      "text": "met nieuwe waardebereiken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        531.85,
+        267.23,
+        540.85
+      ],
+      "text": "3.2.2 TVB beheer CGM reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        543.49,
+        468.54,
+        552.49
+      ],
+      "text": "De ontwikkelaar van nieuwe reference data heeft de verantwoordelijkheid (R) om deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        554.41,
+        470.75,
+        563.41
+      ],
+      "text": "adequaat te (laten) documenteren in het FUGEM en te delen met Data Office om een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        565.33,
+        213.45,
+        574.33
+      ],
+      "text": "ander op te nemen in het CGM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "12 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        170.19,
+        90.58,
+        181.23
+      ],
+      "text": "3.3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.94,
+        171.04,
+        166.09,
+        181.0
+      ],
+      "text": "Distributie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        450.35,
+        486.18,
+        459.35
+      ],
+      "text": "Periodiek zullen de wijzigingen in de reference data worden klaargezet voor distributie naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        461.27,
+        424.56,
+        470.27
+      ],
+      "text": "de afnemers, dan gaat het om die reference data waar in het beheer platform",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        472.21,
+        223.84,
+        481.21
+      ],
+      "text": "overeenstemming over is bereikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        494.17,
+        412.97,
+        503.17
+      ],
+      "text": "Dit klaarzetten kent twee verschijningsvormen: a-synchroon en synchroon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.94,
+        516.41,
+        94.02,
+        527.45
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.94,
+        516.79,
+        154.49,
+        527.83
+      ],
+      "text": "Synchroon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        124.94,
+        531.59,
+        131.56,
+        542.63
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        532.27,
+        471.71,
+        543.31
+      ],
+      "text": "Real-time, 24*7 services op de repositories, waarin de referentie worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        547.63,
+        490.4,
+        558.67
+      ],
+      "text": "beheerd, leveren de geldige gevraagde waarden voor een bepaalde reference",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        563.11,
+        483.91,
+        574.15
+      ],
+      "text": "data. Geldig in termen van goedgekeurd en actueel voor het moment dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        578.59,
+        284.06,
+        589.63
+      ],
+      "text": "vastlegging moet plaats vinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.94,
+        594.17,
+        94.02,
+        605.21
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.94,
+        594.55,
+        164.2,
+        605.59
+      ],
+      "text": "A-Synchroon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        124.94,
+        609.35,
+        131.56,
+        620.39
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        610.03,
+        473.14,
+        621.07
+      ],
+      "text": "Daar waar de reference data niet in een database worden beheerd, het te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        625.39,
+        485.09,
+        636.43
+      ],
+      "text": "verwerken volume aan wijzigingen groot is en/of de beherende systemen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        640.87,
+        495.25,
+        651.91
+      ],
+      "text": "het afnemende systeem verschillende productiekarakteristieken hebben (hoge",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        656.38,
+        476.76,
+        667.42
+      ],
+      "text": "versus lage verwerkingssnelheid); systeembeschikbaarheid (24*7 versus 8-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        327.22,
+        670.96,
+        382.44,
+        682.9
+      ],
+      "text": "gehanteerd5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        142.94,
+        671.86,
+        324.77,
+        682.9
+      ],
+      "text": "18:00) wordt de a-synchrone verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        123.86,
+        686.54,
+        130.48,
+        697.58
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        141.86,
+        687.22,
+        489.94,
+        698.26
+      ],
+      "text": "De wijzigingen in de reference data worden in files of in niet-geautomatiseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        141.86,
+        702.7,
+        483.48,
+        713.74
+      ],
+      "text": "verwerkbare berichten ter beschikking gesteld aan de afnemende systemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        779.04,
+        75.07,
+        785.52
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        78.5,
+        781.28,
+        458.69,
+        789.32
+      ],
+      "text": "Het gegevensredundantie beleid geeft een aantal aspecten van systemen, waardoor gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        791.48,
+        295.62,
+        799.52
+      ],
+      "text": "redundant worden opgeslagen. Dus ook reference data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "13 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        171.8,
+        346.2,
+        180.8
+      ],
+      "text": "3.3.1 TVB distributie van gewijzigde waardebereiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        183.44,
+        462.76,
+        192.44
+      ],
+      "text": "Het beheerplatform van de gegevenseigenaar zorgt voor het tijdig informeren van zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        194.36,
+        468.46,
+        203.36
+      ],
+      "text": "afnemers van reference data, opdat deze voldoende tijd hebben om wijzigingen door te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        205.28,
+        469.4,
+        214.28
+      ],
+      "text": "voeren. Ook bewaakt de gegevenseigenaar passend of de wijzigingen zijn doorgevoerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        216.32,
+        471.69,
+        225.32
+      ],
+      "text": "Passend is situationeel. In de meeste gevallen is een bevestiging van de afnemer dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        227.24,
+        486.92,
+        236.24
+      ],
+      "text": "gegevens zijn doorgevoerd voldoende. Daar waar het belang van UWV dit vraagt kan het in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        238.16,
+        411.71,
+        247.16
+      ],
+      "text": "gevallen nodig zijn dat er meer zekerheid over het doorvoeren nodig is. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        249.08,
+        488.25,
+        258.08
+      ],
+      "text": "gegevenseigenaar en de afnemers maken hier expliciet afspraken over in de Service Niveau",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        260.0,
+        140.06,
+        269.0
+      ],
+      "text": "Overeenkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        270.92,
+        482.09,
+        279.92
+      ],
+      "text": "Hierbij gesteund door de LGM’er, die een consulted rol heeft in het toetsen van het correct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        281.87,
+        360.99,
+        290.87
+      ],
+      "text": "houden van de diverse gedistribueerde sets aan reference data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "14 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        170.19,
+        90.58,
+        181.23
+      ],
+      "text": "3.4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        171.04,
+        156.99,
+        181.0
+      ],
+      "text": "Afnemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        442.91,
+        491.64,
+        451.91
+      ],
+      "text": "De afnemer verwerkt conform de afspraak in de SNO. Dit is cruciaal om te zorgen dat iedere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        453.95,
+        491.44,
+        462.95
+      ],
+      "text": "gebruiker van de reference data dezelfde set aan data op dezelfde tijd ter beschikking heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        464.89,
+        384.89,
+        473.89
+      ],
+      "text": "Dit om analyses en werkzaamheden over heel UWV in lijn te houden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        475.81,
+        452.7,
+        484.81
+      ],
+      "text": "De verwerking van de wijzigingen worden getoetst door het Beheerplatform voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        486.73,
+        140.1,
+        495.73
+      ],
+      "text": "reference data.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        508.57,
+        488.28,
+        517.57
+      ],
+      "text": "Met de nieuwe waarden voor de reference data heeft de gebruiker de UWV gevalideerde set",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        519.49,
+        491.18,
+        528.49
+      ],
+      "text": "aan waarden. Hiermee kan in het eigen werkproces conform de richtlijnen van UWV gewerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        530.53,
+        477.44,
+        539.53
+      ],
+      "text": "worden. Een bepaalde referentie waarde zal door heel het bedrijf met de zelfde betekenis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        541.45,
+        199.42,
+        550.45
+      ],
+      "text": "gehanteerd moeten worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        563.29,
+        473.81,
+        572.29
+      ],
+      "text": "Elke gebruiker zal speciale regels hebben bovenop de richtlijnen voor het gebruik van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        574.21,
+        243.71,
+        583.21
+      ],
+      "text": "reference data die UWV breed gelden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.94,
+        585.53,
+        94.02,
+        596.57
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        585.91,
+        490.07,
+        596.95
+      ],
+      "text": "Een bepaald werkproces zal bijvoorbeeld niet alle waarden uit een waardenlijst willen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        599.35,
+        486.17,
+        610.39
+      ],
+      "text": "gebruiken. Daarvoor zal intern een masker moeten worden ontwikkeld dat de niet te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        612.79,
+        243.95,
+        623.83
+      ],
+      "text": "gebruiken waarden afschermt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.94,
+        626.45,
+        94.02,
+        637.49
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        626.83,
+        494.4,
+        637.87
+      ],
+      "text": "Voor rapportages en analyses zullen meer “gebruikersvriendelijke” omschrijvingen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        640.27,
+        485.23,
+        651.31
+      ],
+      "text": "de referentie waarden gewenst zijn. Ook deze kunnen als aanvulling binnen de eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.94,
+        653.74,
+        366.42,
+        664.78
+      ],
+      "text": "omgeving op de referentie gegevens worden opgenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "15 van 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        171.8,
+        332.64,
+        180.8
+      ],
+      "text": "3.4.1 TVB Afname van gewijzigde waardebereiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        183.44,
+        453.44,
+        192.44
+      ],
+      "text": "De afnemers van reference data zorgen voor tijdig doorvoeren van wijzigingen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        194.36,
+        489.6,
+        203.36
+      ],
+      "text": "reference data. Zij rapporteren hierover aan de gegevenseigenaar. Hierbij gesteund door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        205.28,
+        473.45,
+        214.28
+      ],
+      "text": "LGM’er, die een consulted rol heeft in het toetsen van het correct houden van de diverse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        216.32,
+        489.29,
+        225.32
+      ],
+      "text": "gedistribueerde sets aan reference data. Daar waar het waardebereik van de reference data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        227.24,
+        477.78,
+        236.24
+      ],
+      "text": "ook in het CGM is opgenomen, zullen de gegevensspecialisten van DO de aangepaste lijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        238.16,
+        174.72,
+        247.16
+      ],
+      "text": "verwerken in het CGM.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "16 van 17",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        70.94,
+        206.57,
+        80.93,
+        220.61
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        88.94,
+        208.95,
+        185.5,
+        219.99
+      ],
+      "text": "Afkortingenlijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        235.28,
+        291.69,
+        244.28
+      ],
+      "text": "BRP Basisregistratie Personen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        248.0,
+        318.99,
+        257.0
+      ],
+      "text": "CGM Canoniek Gegevensmodel UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        260.72,
+        343.22,
+        269.72
+      ],
+      "text": "DIV Documentaire Informatievoorziening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        273.56,
+        304.09,
+        282.56
+      ],
+      "text": "FUGEM Functioneel Gegevensmodel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        286.31,
+        415.02,
+        295.31
+      ],
+      "text": "GBA Gemeentelijke Basisadministratie Persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        299.03,
+        386.11,
+        308.03
+      ],
+      "text": "ISO International Organization for Standardization",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        311.75,
+        313.46,
+        320.75
+      ],
+      "text": "LGM Lokaal Gegevensmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        324.59,
+        261.49,
+        333.59
+      ],
+      "text": "NEN Nederlandse Norm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        337.31,
+        277.04,
+        346.31
+      ],
+      "text": "ODS Operational Datastore",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        350.03,
+        313.62,
+        359.03
+      ],
+      "text": "SNO Service Niveau Overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        362.75,
+        381.79,
+        371.75
+      ],
+      "text": "TVB Taken Verantwoordelijkheden Bevoegdheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        375.59,
+        258.9,
+        384.59
+      ],
+      "text": "WW Werkloosheidswet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        31.02,
+        442.45,
+        40.02
+      ],
+      "text": "Beleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        43.86,
+        516.21,
+        52.86
+      ],
+      "text": "Reference Data UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        84.4,
+        433.51,
+        90.4
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        94.2,
+        486.85,
+        102.24
+      ],
+      "text": "28 december 2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        110.22,
+        432.25,
+        116.22
+      ],
+      "text": "Versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        120.0,
+        424.25,
+        128.04
+      ],
+      "text": "3.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        136.02,
+        434.06,
+        142.02
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        411.1,
+        145.8,
+        451.73,
+        153.84
+      ],
+      "text": "17 van 17",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 17,
+      "bbox": [
+        70.94,
+        167.81,
+        141.0,
+        181.85
+      ],
+      "text": "Bijlage A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        177.29,
+        170.19,
+        434.63,
+        181.23
+      ],
+      "text": "Issues met de landcodetabel binnen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        146.66,
+        209.24,
+        311.72,
+        218.24
+      ],
+      "text": "(20141017), (20160229)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        69.94,
+        210.47,
+        243.29,
+        216.47
+      ],
+      "text": "5.1 lid 2 sub e 5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        234.8,
+        312.94,
+        243.8
+      ],
+      "text": "BRP-adressen en loonaangifteadressen in Polis:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        247.52,
+        473.25,
+        256.52
+      ],
+      "text": "Landcode wordt geregistreerd zowel bij adressen afkomstig uit Basisregistratie personen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        260.24,
+        469.53,
+        269.24
+      ],
+      "text": "(BRP) als bij adressen afkomstig uit de loonaangifte. UWV past beschikbare normen toe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        273.08,
+        359.91,
+        282.08
+      ],
+      "text": "volgens het beleid normenhiërarchie. Dat beleid leidt ertoe dat:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        285.83,
+        471.09,
+        294.83
+      ],
+      "text": "Adressen afkomstig uit de Basisregistratie Personen (BRP) een landcode hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        88.94,
+        285.91,
+        93.08,
+        294.91
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        298.55,
+        287.94,
+        307.55
+      ],
+      "text": "overeenkomstig de tabel landcode GBA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        311.27,
+        472.98,
+        320.27
+      ],
+      "text": "Adressen afkomstig uit de loonaangifte een landcode hebben overeenkomstig de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        88.94,
+        311.35,
+        93.08,
+        320.35
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        324.11,
+        196.2,
+        333.11
+      ],
+      "text": "tabel landcode ISO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        336.83,
+        492.64,
+        345.83
+      ],
+      "text": "Resa/Fasa maakt gebruik van de z.g.n. GAK-BRP landcode, niet te verwarren met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        88.94,
+        336.91,
+        93.08,
+        345.91
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        349.55,
+        478.8,
+        358.55
+      ],
+      "text": "Basisregistratie Personen (BRP) landencode. Dit gebeurt naast het gebruik van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        106.94,
+        362.27,
+        241.02,
+        371.27
+      ],
+      "text": "ISO 2 lettercode voor landen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        387.83,
+        489.71,
+        396.83
+      ],
+      "text": "In de gegevensketen blijkt dat ODS zich beperkt tot Landcode ISO. Waarom dit zo is, is niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        400.55,
+        474.98,
+        409.55
+      ],
+      "text": "duidelijk. Vertalen van de landcode GBA naar de landcode ISO leidt tot informatieverlies,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        413.27,
+        490.49,
+        422.27
+      ],
+      "text": "omdat de landcodetabel GBA gedetailleerder gegevens bevat dan de landcodetabel ISO. Een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        426.11,
+        482.94,
+        435.11
+      ],
+      "text": "eventueel noodzakelijke vertaling van landcode GBA naar landcode ISO mag in ieder geval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        438.83,
+        269.33,
+        447.83
+      ],
+      "text": "niet leiden tot verlies van de landcode GBA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        464.27,
+        382.19,
+        473.27
+      ],
+      "text": "Andere buitenlandse adressen waarbij verzekerde de bron is:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        477.13,
+        481.66,
+        486.13
+      ],
+      "text": "Als de verzekerde de bron is van adresgegevens en als daarbij een landcode geregistreerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        489.85,
+        400.52,
+        498.85
+      ],
+      "text": "wordt, dan wordt dat conform beleid normenhiërarchie de landcode ISO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        515.29,
+        458.92,
+        524.29
+      ],
+      "text": "Uit de beschrijving “T2301 Muteren adresgegevens” blijkt dat voor “Verblijfadres” en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        528.13,
+        476.94,
+        537.13
+      ],
+      "text": "“Postadres” (volgens adressenbeleid “Verblijfadres bij ziekte”, “Verblijfadres bij afwijkend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        540.85,
+        488.84,
+        549.85
+      ],
+      "text": "woonland” en “Correspondentieadres”) een landcode overeenkomstig de tabel landcode ISO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        553.57,
+        489.9,
+        562.57
+      ],
+      "text": "geregistreerd wordt. Omdat Resa/Fasa uitgaat van landcode GAK-BRP naast de ISO Alpha-2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        566.29,
+        485.22,
+        575.29
+      ],
+      "text": "(letter) code, wordt bij uitwisseling met Resa/Fasa de landcode ISO vertaald naar landcode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        579.13,
+        369.41,
+        588.13
+      ],
+      "text": "GBA. Ook hier leidt dat in bepaalde gevallen tot informatieverlies.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        604.57,
+        122.76,
+        613.57
+      ],
+      "text": "Conclusie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        617.29,
+        467.94,
+        626.29
+      ],
+      "text": "Er wordt in de praktijk kennelijk vanuit gegaan dat er een 1:1-vertaling mogelijk is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        630.13,
+        485.67,
+        639.13
+      ],
+      "text": "landcode ISO naar landcode GBA. Zoals hierboven gezegd is dat een onjuiste aanname. Uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        642.85,
+        457.48,
+        651.85
+      ],
+      "text": "de praktijk komen dan ook bij herhaling signalen dat er foutsituaties optreden bij het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        655.6,
+        457.42,
+        664.6
+      ],
+      "text": "uitwisselen van landcodes. Op grond van het bovenstaande is dat goed verklaarbaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        682.6,
+        487.9,
+        691.6
+      ],
+      "text": "Om deze foutsituaties te vermijden moet men zodanige maatregelen nemen dat in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        695.32,
+        474.94,
+        704.32
+      ],
+      "text": "alle gevallen waarin sprake is van vertaling van de code uit het ene codestelsel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        708.16,
+        451.83,
+        717.16
+      ],
+      "text": "naar een code uit het andere stelsel, in ieder geval de oorspronkelijke code",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94,
+        721.0,
+        151.1,
+        730.0
+      ],
+      "text": "behouden blijft.",
+      "source": "text"
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "source_id": "2023-12-18-besluit-woo-verzoek-de-source-code-stap-aanvraagsysteem/2023-12-18-bijlage-2-stap-beoordelingsmethodiek-kwaliteit",
+  "publication_slug": "2023-12-18-besluit-woo-verzoek-de-source-code-stap-aanvraagsysteem",
+  "pdf_slug": "2023-12-18-bijlage-2-stap-beoordelingsmethodiek-kwaliteit",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2023/besluit-woo-verzoek-de-source-code-stap-aanvraagsysteem",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/012b7b67-0f7c-4f22-a772-1c42b5cd7bcc/bijlage-2-stap-beoordelingsmethodiek-kwaliteit.pdf",
+  "publication_title": "Besluit Woo-verzoek De source code STAP aanvraagsysteem",
+  "publication_date": "2023-12-18T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2 STAP beoordelingsmethodiek kwaliteit (PDF, 125 kB)",
+  "retrieved_at": "2026-06-30T13:15:31+00:00",
+  "sha256": "7dc698bd7f4eaa71a182fd9565cc524121a6c03dea85cd583b9b45884e1e067e",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        257.81,
+        37.38,
+        337.47,
+        46.38
+      ],
+      "text": "STAP-applicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        213.65,
+        48.3,
+        381.59,
+        57.3
+      ],
+      "text": "Beoordelingsmethodiek Kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        97.88,
+        515.54,
+        106.88
+      ],
+      "text": "De beoordeling vindt plaats op basis van 4 hoofdonderwerpen die ieder een aantal sub-criteria (in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        109.88,
+        500.13,
+        118.88
+      ],
+      "text": "totaal 9 over de 4 hoofdonderwerpen) bevatten. Op deze sub-criteria kunnen punten gescoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        121.88,
+        502.53,
+        130.88
+      ],
+      "text": "worden. De aspecten waarop UWV beoordeelt, worden hieronder in figuur 1 in detail benoemd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        146.88,
+        104.12,
+        154.92
+      ],
+      "text": "Figuur 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        170.48,
+        566.23,
+        179.48
+      ],
+      "text": "Nr. Gunningscriterium Sub Gunningcriterium Weging Max aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        520.92,
+        182.48,
+        556.48,
+        191.48
+      ],
+      "text": "punten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        194.96,
+        544.52,
+        203.96
+      ],
+      "text": "1 Functionaliteit Usability/gebruiksvriendelijkheid 10 70",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        211.04,
+        547.4,
+        220.04
+      ],
+      "text": "2 Functionaliteit Functionele fit met minimaal maatwerk 20 140",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        227.0,
+        544.52,
+        236.0
+      ],
+      "text": "3 Functionaliteit Wensen (mate van invulling aan nice to have’s) 5 35",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        243.08,
+        547.4,
+        252.08
+      ],
+      "text": "4 Leverbetrouwbaarheid Tijdigheid en projectbeheersing 15 105",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        259.16,
+        544.52,
+        268.16
+      ],
+      "text": "5 Leverbetrouwbaarheid Toekomstvastheid 5 35",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        275.24,
+        547.4,
+        284.24
+      ],
+      "text": "6 Architectuur Koppelbaarheid 15 105",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        291.23,
+        544.52,
+        300.23
+      ],
+      "text": "7 Architectuur Gelaagdheid en hosting 5 35",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        307.31,
+        547.4,
+        316.31
+      ],
+      "text": "8 Architectuur Performance, beschikbaarheid en schaalbaarheid 15 105",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        323.39,
+        544.52,
+        332.39
+      ],
+      "text": "9 Informatiebeveiliging. Informatiebeveiliging 10 70",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        225.17,
+        339.47,
+        548.2,
+        348.47
+      ],
+      "text": "Totaal 100 700",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        363.95,
+        513.69,
+        372.95
+      ],
+      "text": "Per sub-gunningscriterium wordt een schoolcijfer gegeven tussen de 0 en 10. Om de weging mee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        375.95,
+        443.75,
+        384.95
+      ],
+      "text": "te nemen in de puntentoekenning, werkt UWV met een gewogen gemiddelde sub-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        387.95,
+        156.71,
+        396.95
+      ],
+      "text": "gunningscriterium:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        411.95,
+        505.77,
+        420.95
+      ],
+      "text": "Deze rekenmethodiek wordt voor alle negen sub-gunningscriteria toegepast. In de tabel hierna,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        423.95,
+        437.12,
+        432.95
+      ],
+      "text": "figuur 2, is een (fictieve) uitkomst opgenomen met alle sub-gunningscriteria een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        435.95,
+        446.34,
+        444.95
+      ],
+      "text": "voorbeeldberekening inzake de score per sub-gunningscriterium van Inschrijver Y:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        460.95,
+        104.12,
+        468.99
+      ],
+      "text": "Figuur 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        484.45,
+        544.19,
+        493.45
+      ],
+      "text": "Nr. Sub Gunningcriterium Aantal Behaalde Gewogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        350.23,
+        496.45,
+        550.01,
+        505.45
+      ],
+      "text": "punten Schoolcijfer gemiddelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        508.93,
+        538.95,
+        517.93
+      ],
+      "text": "1 Usability/gebruiksvriendelijkheid 70 8 8*70 = 560",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        525.01,
+        538.34,
+        534.01
+      ],
+      "text": "2 Functionele fit met minimaal maatwerk 140 7 7*140 = 980",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        541.09,
+        538.95,
+        550.09
+      ],
+      "text": "3 Wensen (mate van invulling aan nice to have’s) 35 9 9*70 = 315",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        557.05,
+        538.34,
+        566.05
+      ],
+      "text": "4 Tijdigheid en projectbeheersing 105 6 6*105 = 630",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        573.13,
+        538.95,
+        582.13
+      ],
+      "text": "5 Toekomstvastheid 35 8 8*35 = 280",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        589.21,
+        538.34,
+        598.21
+      ],
+      "text": "6 Koppelbaarheid 105 8 8*105 = 840",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        605.29,
+        535.82,
+        614.29
+      ],
+      "text": "7 Gelaagdheid en hosting 35 6 6*35 = 210",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        621.25,
+        538.34,
+        630.25
+      ],
+      "text": "8 Performance, beschikbaarheid en schaalbaarheid 105 7 7*105 = 735",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        637.33,
+        538.95,
+        646.33
+      ],
+      "text": "9 Informatiebeveiliging 70 7 7* 70 = 490",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        69.14,
+        653.41,
+        519.47,
+        662.41
+      ],
+      "text": "Totaal Inschrijver Y 700 Gewogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        472.66,
+        665.44,
+        531.29,
+        674.44
+      ],
+      "text": "gemiddelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        472.66,
+        677.44,
+        547.44,
+        686.44
+      ],
+      "text": "5040/700=7,2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        472.66,
+        689.44,
+        491.94,
+        698.44
+      ],
+      "text": "(Si)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        701.92,
+        188.86,
+        710.92
+      ],
+      "text": "Toelichting op figuur 2:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        725.92,
+        514.5,
+        734.92
+      ],
+      "text": "Stel dat de totaalscore op kwaliteit (het gewogen gemiddelde) van de best scorende Inschrijver X",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        737.92,
+        390.42,
+        746.92
+      ],
+      "text": "(Smax) een 7,4 is. (deze score wordt niet afgerond achter de komma)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        761.92,
+        466.25,
+        770.92
+      ],
+      "text": "Stel dat, uitgaande van figuur 2, het gewogen gemiddelde van Inschrijver Y een 7,2 is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        257.81,
+        37.38,
+        337.47,
+        46.38
+      ],
+      "text": "STAP-applicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        213.65,
+        48.3,
+        381.59,
+        57.3
+      ],
+      "text": "Beoordelingsmethodiek Kwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        85.86,
+        442.79,
+        94.86
+      ],
+      "text": "Stel dat het gewogen gemiddelde van de laagst scorende Inschrijver Z een 6,9 is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        109.88,
+        517.77,
+        118.88
+      ],
+      "text": "De totaalscore van het gunningscriterium kwaliteit wordt berekend volgens onderstaande formule,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        121.88,
+        125.88,
+        130.88
+      ],
+      "text": "zie figuur 3:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        146.88,
+        104.12,
+        154.92
+      ],
+      "text": "Figuur 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        159.44,
+        301.59,
+        168.44
+      ],
+      "text": "Pi = 700– [700 x log10(Smax/Si)/log10(x)]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        185.88,
+        110.2,
+        193.92
+      ],
+      "text": "Legenda",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        209.88,
+        296.49,
+        217.92
+      ],
+      "text": "• Pi = Totaal puntenscore van Inschrijver op Kwaliteit;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        221.88,
+        405.02,
+        229.92
+      ],
+      "text": "• Si = Gewogen gemiddelde score (=rapportcijfer) van Inschrijver voor Kwaliteit;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        233.88,
+        404.66,
+        241.92
+      ],
+      "text": "• Smax = Gewogen gemiddelde score van best scorende Inschrijver op Kwaliteit;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        245.88,
+        261.08,
+        253.92
+      ],
+      "text": "• x = UWV hanteert hiervoor het getal 1,667;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        269.88,
+        365.71,
+        277.92
+      ],
+      "text": "1. Inschrijvers met een ex aequo score krijgen hetzelfde aantal punten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.22,
+        281.91,
+        451.68,
+        289.95
+      ],
+      "text": "2. Is de uitkomst van deze formule negatief, dan behaalt Inschrijver 0 punten voor Kwaliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        315.11,
+        522.31,
+        324.11
+      ],
+      "text": "Indien de uitkomst in deze formule meerder decimalen bevat (Pi) wordt op 1 (één) decimaal achter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        327.11,
+        519.78,
+        336.11
+      ],
+      "text": "de komma afgerond. Is het tweede cijfer achter de komma een 1, 2, 3 of 4 dan verandert er niets.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        339.11,
+        519.2,
+        348.11
+      ],
+      "text": "Het eerste cijfer achter de komma blijft gelijk. Is het tweede cijfer achter de komma een 5, 6, 7, 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        351.11,
+        511.62,
+        360.11
+      ],
+      "text": "of 9 dan wordt het eerste cijfer achter de komma met 1 verhoogd. Nb. Het derde cijfer achter de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        363.11,
+        303.74,
+        372.11
+      ],
+      "text": "komma wordt niet betrokken in de eindberekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        387.11,
+        512.08,
+        396.11
+      ],
+      "text": "PI (Totaal puntenscore van Inschrijver op Kwaliteit) Voor de Inschrijvers X, Y en Z is de score als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        399.11,
+        97.44,
+        408.11
+      ],
+      "text": "volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        411.11,
+        482.66,
+        420.11
+      ],
+      "text": "Inschrijver X: De Pi, de totaal puntenscore van Inschrijver op kwaliteit met een gewogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        423.11,
+        517.84,
+        432.11
+      ],
+      "text": "gemiddelde score van 7,4 in dit voorbeeld (Smax) ontvangt het maximaal aantal punten van 700.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        435.11,
+        482.42,
+        444.11
+      ],
+      "text": "Inschrijver Y: De Pi, de totaal puntenscore van Inschrijver op kwaliteit met een gewogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        447.11,
+        506.76,
+        456.11
+      ],
+      "text": "gemiddelde score van 7,2 in dit voorbeeld ontvangt 662,469 afgerond op 1 (één) decimaal naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        459.11,
+        102.87,
+        468.11
+      ],
+      "text": "662,5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        471.13,
+        483.12,
+        480.13
+      ],
+      "text": "Inschrijver Z: De Pi de totaal puntenscore van Inschrijver op Kwaliteit met een gewogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        483.13,
+        508.79,
+        492.13
+      ],
+      "text": "gemiddelde score van 6,9 in dit voorbeeld is 604,171 afgerond op 1 (één) decimaal naar 604,2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        506.05,
+        521.07,
+        515.05
+      ],
+      "text": "Waarom geven we de inschrijver met het hoogste gewogen gemiddelde kwaliteit de hele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        517.93,
+        136.69,
+        526.93
+      ],
+      "text": "700 punten ?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        538.81,
+        519.58,
+        547.81
+      ],
+      "text": "Zoals aangegeven wil UWV voor de verhouding Prijs/kwaliteit 30%/70% hanteren. Echter, de kans",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        550.81,
+        491.95,
+        559.81
+      ],
+      "text": "dat een inschrijver op alle sub-Gunningscriteria het schoolcijfer 10 haalt dan 700 punten zou",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        562.81,
+        470.01,
+        571.81
+      ],
+      "text": "krijgen is vrij klein. Stel een inschrijver scoort een 8 en hij heeft de laagste prijs Bij een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        574.81,
+        520.76,
+        583.81
+      ],
+      "text": "eenvoudige formule zou deze dan 80% van de 700 punten krijgen dat is 560 punten. Op prijs is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        586.81,
+        519.57,
+        595.81
+      ],
+      "text": "maximale score 300 punten. De verhouding bij gunning is dan geen 30/70 maar 300/560 = 35% /",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        598.81,
+        95.34,
+        607.81
+      ],
+      "text": "65%.",
+      "source": "text"
+    }
+  ]
+}

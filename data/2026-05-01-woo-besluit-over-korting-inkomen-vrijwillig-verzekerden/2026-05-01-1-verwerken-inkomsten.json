@@ -1,0 +1,1829 @@
+{
+  "source_id": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden/2026-05-01-1-verwerken-inkomsten",
+  "publication_slug": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_slug": "2026-05-01-1-verwerken-inkomsten",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/82d15df4-4898-4e99-ac04-0e74b142e0c5/1-verwerken-inkomsten.pdf",
+  "publication_title": "Woo-besluit over korting inkomen vrijwillig verzekerden",
+  "publication_date": "2026-05-01T06:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1. Verwerken inkomsten (PDF, 220 kB)",
+  "retrieved_at": "2026-06-30T11:24:24+00:00",
+  "sha256": "ff95e6021e2f2abe29c4414615a268d1a9a2a4be3b90a336e93ef7994e36b1ad",
+  "page_count": 4,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        473.29,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UC » Afhandelen inkomstenkorting » Verwerken inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        288.0,
+        316.73,
+        313.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        353.25,
+        270.05,
+        374.25
+      ],
+      "text": "Verwerken inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        392.43,
+        718.96,
+        403.68
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        410.25,
+        213.74,
+        421.5
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        450.0,
+        528.79,
+        461.25
+      ],
+      "text": "Wie Uitkeringsconsulent (UC)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        470.25,
+        503.22,
+        481.5
+      ],
+      "text": "Divisie Uitkeren - Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        490.5,
+        714.95,
+        501.75
+      ],
+      "text": "Samenvatting Je bepaalt of de inkomsten van de cliënt invloed hebben op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        404.48,
+        510.0,
+        705.45,
+        521.25
+      ],
+      "text": "Ziektewet-uitkering. Als dat nodig is, registreer je een korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        404.48,
+        529.5,
+        481.33,
+        540.75
+      ],
+      "text": "op de uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        549.75,
+        100.28,
+        561.0
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        570.0,
+        491.04,
+        581.25
+      ],
+      "text": "Intern Proces Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        590.25,
+        208.09,
+        601.5
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        610.5,
+        140.98,
+        621.75
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        630.75,
+        136.43,
+        642.0
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        651.0,
+        106.31,
+        662.25
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        31.5,
+        710.33,
+        42.75
+      ],
+      "text": "Tijdens de Ziektewet-uitkering heeft de cliënt mogelijk inkomsten. Je kunt de inkomsten van de cliënt op verschillende manieren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        51.0,
+        709.17,
+        62.25
+      ],
+      "text": "ontvangen. Je bepaalt met o.a. deze werkinstructie of de inkomsten invloed hebben op de hoogte van de uitkering. Als dat zo is,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        70.5,
+        688.07,
+        81.75
+      ],
+      "text": "bereken je een kortingsbedrag en registreer je dat in UZS. Als je de inkomsten nog niet definitief kunt berekenen, bereken en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        90.0,
+        672.91,
+        101.25
+      ],
+      "text": "registreer je een voorlopige korting. Je bewaakt zelf wanneer de definitieve inkomsten bekend zijn met signaal ‘UZZ0414",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        109.5,
+        338.16,
+        120.75
+      ],
+      "text": "Controleer loongegevens i.v.m. inkomsten uit arbeid’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        140.25,
+        557.93,
+        151.5
+      ],
+      "text": "Door 1 van de volgende signalen of processtappen ben je in deze werkinstructie terechtgekomen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        167.25,
+        82.57,
+        185.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        171.0,
+        396.8,
+        182.25
+      ],
+      "text": "UZZ0414 Controleer loongegevens i.v.m. inkomsten uit arbeid",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        186.75,
+        82.57,
+        204.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        190.5,
+        329.99,
+        201.75
+      ],
+      "text": "UZZ0436 Beoordeel melding gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        206.25,
+        82.57,
+        224.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        210.0,
+        411.5,
+        221.25
+      ],
+      "text": "UZZ0472 Beoordelen verworpen of gewijzigd gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        225.75,
+        82.57,
+        243.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        229.5,
+        405.02,
+        240.75
+      ],
+      "text": "UZZ0606 Beoordeel nieuwe inkomstenverhouding i.v.m. korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        245.25,
+        82.57,
+        263.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        249.0,
+        424.39,
+        260.25
+      ],
+      "text": "UZZ0607 Beoordeel beëindigde inkomstenverhouding i.v.m. korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        264.75,
+        82.57,
+        282.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        268.5,
+        422.59,
+        279.75
+      ],
+      "text": "UZZ0608 Beoordeel gewijzigde inkomstenverhouding i.v.m. korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        284.25,
+        82.57,
+        302.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        288.0,
+        363.89,
+        299.25
+      ],
+      "text": "UZZ2436 Beoordeel melding gedeeltelijk werken DWBZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        303.75,
+        82.57,
+        321.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        307.5,
+        308.93,
+        318.75
+      ],
+      "text": "UZZ5080 Aanvullende informatie ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        323.25,
+        82.57,
+        341.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        327.0,
+        283.33,
+        338.25
+      ],
+      "text": "UZZ5160 Vooraf beoordelen AO advies",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        342.75,
+        82.57,
+        360.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        346.5,
+        375.8,
+        357.75
+      ],
+      "text": "UZZ5422 Melding van volledig herstel-gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        362.25,
+        82.57,
+        380.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        366.0,
+        397.49,
+        377.25
+      ],
+      "text": "UZZ5524 Beoordelen ingetrokken melding gedeeltelijk werken",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        381.75,
+        82.57,
+        399.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        385.5,
+        342.83,
+        396.75
+      ],
+      "text": "UZZ7080 Aanvullende informatie ontvangen DWBZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        401.25,
+        82.57,
+        419.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        405.0,
+        409.7,
+        416.25
+      ],
+      "text": "UZZ7422 Melding van volledig herstel-gedeeltelijk werken DWBZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        420.75,
+        82.57,
+        438.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        424.5,
+        347.49,
+        435.75
+      ],
+      "text": "UZZ7435 Beoordeel gedeeltelijk werken ander geval",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        440.25,
+        82.57,
+        458.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        444.0,
+        539.33,
+        455.25
+      ],
+      "text": "Afhandelen filterregel 207 ‘Geen andere overlappende ZW melding van dezelfde aanvrager’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        459.75,
+        82.57,
+        477.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        463.5,
+        344.39,
+        474.75
+      ],
+      "text": "Beoordelen recht WAZO betaald ouderschapsverlof",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        479.25,
+        82.57,
+        497.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        483.0,
+        341.42,
+        494.25
+      ],
+      "text": "Beoordelen recht WAZO aanvullend geboorteverlof",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        528.75,
+        710.72,
+        540.0
+      ],
+      "text": "Let op: Inkomsten voor een zieke werkloze (WWZ) worden via GINA opgevraagd en daarna in UZS verwerkt. Daarvoor gebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        548.25,
+        581.32,
+        559.5
+      ],
+      "text": "je deze werkinstructie niet. Ga voor meer informatie naar de werkinstructie WWZ Informatiepagina.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        579.0,
+        606.3,
+        600.0
+      ],
+      "text": "Bepalen korten uitkering vanwege vrijwilligerswerk cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        615.0,
+        663.93,
+        626.25
+      ],
+      "text": "Als de cliënt aangeeft dat hij tijdens de ZW-uitkering met vrijwilligerswerk is begonnen, bepaal je met de Wetsuitleg ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        634.5,
+        691.56,
+        645.75
+      ],
+      "text": "Onkostenvergoedingen bij vrijwilligerswerk of je de vrijwilligersvergoeding en/of onkostenvergoeding moet korten op de ZW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        654.0,
+        404.38,
+        665.25
+      ],
+      "text": "uitkering. Als dat nodig is, vraag je extra informatie op bij de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        681.0,
+        82.57,
+        699.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        684.75,
+        646.53,
+        696.0
+      ],
+      "text": "Geen korting op de ZW-uitkering: verstuur brief SET10I335 ‘Informatiebrief vrijwilligerswerk’ naar de cliënt. Einde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        704.25,
+        162.87,
+        715.5
+      ],
+      "text": "werkinstructie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        720.0,
+        82.57,
+        738.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        723.75,
+        493.75,
+        735.0
+      ],
+      "text": "Wel korting op de ZW-uitkering: ga verder met ‘Completeren inkomstengegevens’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        769.5,
+        683.7,
+        780.75
+      ],
+      "text": "Let op: Als uit de gegevens uit Suwinet of informatie van de cliënt blijkt dat de organisatie waar hij vrijwilligerswerk doet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        789.0,
+        664.3,
+        800.25
+      ],
+      "text": "commerciële doeleinden heeft, verstuur je de informatiebrief nog niet. Je geeft de situatie door aan DHH volgens de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        808.5,
+        645.79,
+        819.75
+      ],
+      "text": "werkinstructie Overdragen meldingen van ZW aan Handhaving (DHH). Je ontvangt binnen 2 weken van DHH een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        828.0,
+        591.79,
+        839.25
+      ],
+      "text": "terugkoppeling waarin zij je informeren of het om vrijwilligerswerk gaat of korting op de ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        858.75,
+        389.34,
+        879.75
+      ],
+      "text": "Completeren inkomstengegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        895.5,
+        686.79,
+        906.75
+      ],
+      "text": "Je controleert eerst of je alle gegevens van de inkomsten hebt volgens de werkinstructie Completeren inkomstengegevens.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        926.25,
+        419.15,
+        947.25
+      ],
+      "text": "Berekenen inkomstenbedrag per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        962.25,
+        457.47,
+        973.5
+      ],
+      "text": "Als je alle gegevens hebt, ga je verder met 1 van de volgende werkinstructies:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        989.25,
+        82.57,
+        1007.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        993.0,
+        251.67,
+        1004.25
+      ],
+      "text": "Inkomsten uit (gedeeltelijk) werk",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1008.75,
+        82.57,
+        1026.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1012.5,
+        484.41,
+        1023.75
+      ],
+      "text": "Inkomsten uit zelfstandig werk of overige NVZP-arbeid (niet vrijwillig verzekerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1028.25,
+        82.57,
+        1046.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1032.0,
+        257.52,
+        1043.25
+      ],
+      "text": "Inkomsten uit (VUT-/pre)pensioen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1047.75,
+        82.57,
+        1065.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1051.5,
+        242.34,
+        1062.75
+      ],
+      "text": "Inkomsten vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        1067.25,
+        82.57,
+        1085.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1071.0,
+        359.81,
+        1082.25
+      ],
+      "text": "Inkomsten bij samenloop met ziekmelding (AGV/BOV)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1101.75,
+        474.56,
+        1122.75
+      ],
+      "text": "Inkomstenverrekening vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        30.75,
+        673.96,
+        42.0
+      ],
+      "text": "Vanaf 1 juli 2022 is de manier waarop je de inkomsten per dag berekent voor een vrijwillig verzekerde (ongeacht de soort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        50.25,
+        716.51,
+        61.5
+      ],
+      "text": "inkomsten) gewijzigd. Daarom volg je voor deze groep cliënten eerst de werkinstructie Inkomstenverrekening vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        69.75,
+        280.74,
+        81.0
+      ],
+      "text": "voordat je de duur van de korting bepaalt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        100.5,
+        269.97,
+        121.5
+      ],
+      "text": "Bepalen duur korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        137.25,
+        687.23,
+        148.5
+      ],
+      "text": "Nadat je een inkomstenbedrag per dag hebt berekend (voorlopig of definitief), stel je de duur van de korting vast volgens de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        156.75,
+        254.3,
+        168.0
+      ],
+      "text": "werkinstructie Bepalen duur korting.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        187.5,
+        353.18,
+        208.5
+      ],
+      "text": "Registreren inkomsten in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        223.5,
+        500.59,
+        234.75
+      ],
+      "text": "Je gebruikt voor een juiste registratie de werkinstructie Registreren inkomsten in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        243.0,
+        374.27,
+        254.25
+      ],
+      "text": "Voor het registeren in UZS gebruik je de volgende schermen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        270.0,
+        82.57,
+        288.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        273.75,
+        313.28,
+        285.0
+      ],
+      "text": "Registreren gedeeltelijk werken tijdens ziekte",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        289.5,
+        82.57,
+        307.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        293.25,
+        276.58,
+        304.5
+      ],
+      "text": "Registreren inkomsten uit arbeid/KBZ",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        309.0,
+        82.57,
+        327.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        312.75,
+        374.26,
+        324.0
+      ],
+      "text": "Registreren korting pensioeninkomsten gedeeltelijke KBZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        358.5,
+        395.77,
+        369.75
+      ],
+      "text": "Daarnaast gebruik je ook het UZS-scherm Registreren schorsing.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        389.25,
+        481.41,
+        410.25
+      ],
+      "text": "Toepassen korting bij meerdere uitkeringen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        426.0,
+        680.19,
+        437.25
+      ],
+      "text": "Als de cliënt meerdere uitkeringen heeft (bijvoorbeeld 2 ZW-uitkeringen of een ZW-uitkering met een WW- of AW-uitkering),",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        445.5,
+        709.42,
+        456.75
+      ],
+      "text": "beoordeel je op basis van de wetsuitleg Samenloop hoe je de korting moet toepassen. Je gebruikt de werkinstructie Registreren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        465.0,
+        378.91,
+        476.25
+      ],
+      "text": "inkomsten in UZS voor de juiste registratie van de inkomsten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        496.5,
+        529.08,
+        515.25
+      ],
+      "text": "Korting uitkering op uitkering bij maximering daglonen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        529.5,
+        717.51,
+        540.75
+      ],
+      "text": "Soms zijn er 2 uitkeringen en is er een maximering van de daglonen omdat de daglonen samen boven het max dagloon uitkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        549.0,
+        711.49,
+        560.25
+      ],
+      "text": "Voor het berekenen van de juiste hoogte van de korting ga je naar de werkinstructie Korting uitkering op uitkering bij maximering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        568.5,
+        123.54,
+        579.75
+      ],
+      "text": "daglonen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        600.0,
+        711.6,
+        618.75
+      ],
+      "text": "Berekenen vervangend loon bij wegvallen inkomsten door betalingsonmacht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        633.0,
+        711.87,
+        644.25
+      ],
+      "text": "Als een cliënt tijdens ziekte gedeeltelijk werkt en de werkgever waar de cliënt gedeeltelijk werkt failliet gaat, kort je gedurende de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        652.5,
+        675.2,
+        663.75
+      ],
+      "text": "periode van de faillissementsuitkering ‘vervangend loon’. Voor deze situatie ga je verder met de werkinstructie Berekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        672.0,
+        401.01,
+        683.25
+      ],
+      "text": "vervangend loon bij wegvallen inkomsten door betalingsonmacht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        702.75,
+        123.86,
+        714.0
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        722.25,
+        703.52,
+        733.5
+      ],
+      "text": "1: Als de inkomsten uit het dienstverband niet gekort zijn op de al lopende ZW-uitkering, dan mag je het ZW-dagloon van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        741.75,
+        716.35,
+        753.0
+      ],
+      "text": "nieuwe ZW-recht uit dat dienstverband ook niet korten. Dit geldt voor inkomsten die al bestonden voor de eerste ziektedag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        761.25,
+        707.57,
+        772.5
+      ],
+      "text": "het eerste lopende recht. Dit geldt ook voor een ZW-uitkering voor een vrijwillig verzekerde. Als de inkomsten uit zelfstandige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        780.75,
+        690.91,
+        792.0
+      ],
+      "text": "werkzaamheden nooit gekort zijn op de al lopende ZW-uitkering en de cliënt gaat een ZW-uitkering ontvangen bij ziekte in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        800.25,
+        634.69,
+        811.5
+      ],
+      "text": "verband met zijn vrijwillige verzekering, dan wordt dat ZW-dagloon ook niet gekort op het al lopende ZW-recht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        819.75,
+        699.0,
+        831.0
+      ],
+      "text": "2: Soms zijn beide daglonen van 2 uitkeringen vrij hoog, maar komen ze elk niet boven het maximum dagloon uit. Als beide",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        839.25,
+        704.64,
+        850.5
+      ],
+      "text": "uitkeringsbedragen samen boven het maximum uitkeringsbedrag uitkomen, dan moet er ook gemaximeerd worden. Ga naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        858.75,
+        285.86,
+        870.0
+      ],
+      "text": "de werkinstructie Maximeren daglonen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        878.25,
+        680.32,
+        889.5
+      ],
+      "text": "3: Als de cliënt een ZW- en OSW-uitkering ontvangt en je zijn inkomsten kort op zijn lopende ZW-uitkering, dan heeft dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        897.75,
+        710.93,
+        909.0
+      ],
+      "text": "mogelijk financiële gevolgen voor zijn OSW-uitkering. Daarom informeer je de afdeling OSW over het korten van de inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        917.25,
+        672.21,
+        928.5
+      ],
+      "text": "volgens de werkinstructie Samenloop ‘Overige Soorten Werkloosheid’ (OSW). Hierin staat ook hoe je de afdeling OSW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        936.75,
+        144.87,
+        948.0
+      ],
+      "text": "informeert.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        967.5,
+        337.96,
+        988.5
+      ],
+      "text": "Beoordelen recht op toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1003.5,
+        718.2,
+        1014.75
+      ],
+      "text": "Als de cliënt naast de ZW-uitkering een toeslag ontvangt of heeft aangevraagd, hebben de inkomsten invloed op de hoogte van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1023.0,
+        706.39,
+        1034.25
+      ],
+      "text": "toeslag. Met de werkinstructie Bepalen recht toeslag beoordeel je opnieuw het recht op toeslag en registreer je de inkomsten in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1042.5,
+        316.98,
+        1053.75
+      ],
+      "text": "het UZS-scherm Beheren inkomsten ivm toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        1073.25,
+        383.73,
+        1094.25
+      ],
+      "text": "Wijzigingen inkomsten of korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        30.75,
+        706.27,
+        42.0
+      ],
+      "text": "Nadat je een voorlopige korting hebt toegepast, kan de definitieve korting hoger of lager zijn. Ook bij wijzigingen achteraf in een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        50.25,
+        688.52,
+        61.5
+      ],
+      "text": "definitieve korting kan de hoogte van de korting anders zijn. De cliënt ontvangt een nabetaling of een terugvordering. Bij een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        69.75,
+        701.09,
+        81.0
+      ],
+      "text": "nabetaling is er verder geen actie nodig. Bij een terugvordering ontvang je signaal UZZ0090 Claimvordering ontvangen. Aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        89.25,
+        655.11,
+        100.5
+      ],
+      "text": "hand van het signaal overleg je samen met de cliënt of je de claimvordering verrekent of terugvordert. Zie hiervoor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        108.75,
+        482.42,
+        120.0
+      ],
+      "text": "werkinstructie Verrekenen claimvordering en/of Verrekenen met interne vordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        140.25,
+        108.55,
+        151.5
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        160.5,
+        428.86,
+        171.75
+      ],
+      "text": "Cliënt Brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        404.48,
+        180.0,
+        619.08,
+        191.25
+      ],
+      "text": "SET10I335 Informatiebrief vrijwilligerswerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        404.48,
+        210.75,
+        449.11,
+        222.0
+      ],
+      "text": "Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        404.48,
+        230.25,
+        653.45,
+        241.5
+      ],
+      "text": "Eventueel opvragen informatie bij vrijwilligerswerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        250.5,
+        148.84,
+        261.75
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        270.75,
+        187.01,
+        282.0
+      ],
+      "text": "Zie de werkinstructies.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        302.25,
+        144.62,
+        313.5
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        322.5,
+        481.21,
+        333.75
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        404.48,
+        342.0,
+        492.84,
+        353.25
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        373.5,
+        276.08,
+        384.75
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        393.75,
+        692.22,
+        405.0
+      ],
+      "text": "Toelichting Wetsuitleg ZW Onkostenvergoedingen bij vrijwilligerswerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        414.0,
+        144.12,
+        425.25
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        436.68,
+        718.96,
+        447.93
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    }
+  ]
+}

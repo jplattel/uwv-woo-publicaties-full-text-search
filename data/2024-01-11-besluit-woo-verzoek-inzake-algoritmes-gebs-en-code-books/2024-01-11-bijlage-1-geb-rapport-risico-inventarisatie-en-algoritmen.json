@@ -1,0 +1,7049 @@
+{
+  "source_id": "2024-01-11-besluit-woo-verzoek-inzake-algoritmes-gebs-en-code-books/2024-01-11-bijlage-1-geb-rapport-risico-inventarisatie-en-algoritmen",
+  "publication_slug": "2024-01-11-besluit-woo-verzoek-inzake-algoritmes-gebs-en-code-books",
+  "pdf_slug": "2024-01-11-bijlage-1-geb-rapport-risico-inventarisatie-en-algoritmen",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/besluit-woo-verzoek-inzake-algoritmes-gebs-en-code-books",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/861b98a5-0215-4c68-ae21-3c355810f6b1/bijlage-1-geb-rapport-risico-inventarisatie-en-algoritmen.pdf",
+  "publication_title": "Besluit Woo-verzoek Inzake algoritmes, GEB’s en code books",
+  "publication_date": "2024-01-11T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 1. Bijlagen bij GEB-rapport (risico-inventarisatie en algoritmen) (PDF, 224 kB)",
+  "retrieved_at": "2026-06-30T13:15:02+00:00",
+  "sha256": "1083e7233bd8c65a48ea4c46ebb1a5426670fd841924355ae25371765da10425",
+  "page_count": 12,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        86.03,
+        467.06,
+        97.07
+      ],
+      "text": "Bijlage I: Toelichting op het invullen van risico’s en mitigerende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        101.5,
+        215.81,
+        112.54
+      ],
+      "text": "maatregelen in sectie 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        131.97,
+        396.53,
+        140.97
+      ],
+      "text": "In sectie 5 moeten de volgende twee onderdelen uitgewerkt te worden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.8,
+        144.57,
+        524.07,
+        153.57
+      ],
+      "text": "A. Beschrijf en beoordeel de risico’s van de voorgenomen gegevensverwerkingen. Houd hierbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.8,
+        157.17,
+        433.79,
+        166.17
+      ],
+      "text": "rekening met de aard, omvang, context en doelen van de voorgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.8,
+        169.77,
+        214.37,
+        178.77
+      ],
+      "text": "gegevensverwerkingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.8,
+        182.37,
+        479.89,
+        191.37
+      ],
+      "text": "B. Beschrijf de voorgenomen maatregelen om de hiervoor beschreven risico’s van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.8,
+        194.97,
+        337.98,
+        203.97
+      ],
+      "text": "voorgenomen gegevensverwerkingen te mitigeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        220.05,
+        154.36,
+        229.05
+      ],
+      "text": "Risicomethodiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        232.65,
+        511.85,
+        241.65
+      ],
+      "text": "De privacyregelgeving schrijft niet voor op welke wijze de risicoanalyse uitgevoerd moet worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        268.56,
+        245.25,
+        508.56,
+        254.25
+      ],
+      "text": "gehanteerd. Deze methodiek bestaat uit tenminste 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        245.25,
+        265.41,
+        254.25
+      ],
+      "text": "Binnen UWV wordt vaak de CRSA methode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        257.85,
+        517.07,
+        266.85
+      ],
+      "text": "bijeenkomst waarin de risico’s worden geïnventariseerd en beoordeeld. Vervolgens wordt gekeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        270.45,
+        498.09,
+        279.45
+      ],
+      "text": "naar de maatregelen om de geïnventariseerde risico’s te voorkomen, dan wel te verminderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        282.93,
+        527.5,
+        291.93
+      ],
+      "text": "Belangrijk bij deze methode is dat de risico’s en maatregelen vanuit verschillende disciplines worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        295.53,
+        112.12,
+        304.53
+      ],
+      "text": "bekeken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        308.13,
+        508.34,
+        317.13
+      ],
+      "text": "Welke methode ook wordt gehanteerd om de risico’s te beschrijven, een multidisciplinaire blik is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        320.73,
+        523.98,
+        329.73
+      ],
+      "text": "sterk aan te bevelen. Gezien het onderwerp is het sowieso aan te raden kennis uit het IB&P domein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        333.33,
+        514.26,
+        342.33
+      ],
+      "text": "te betrekken, denk aan de collega’s van het decentrale IB&P team (BSO/Coördinator IB&P), maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        345.81,
+        315.29,
+        354.81
+      ],
+      "text": "ook de collega’s van CISO-Office en Juridische Zaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        371.01,
+        190.0,
+        380.01
+      ],
+      "text": "Uitwerking risicomatrix",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        383.61,
+        523.88,
+        392.61
+      ],
+      "text": "Het is belangrijk dat risico’s op een eenduidige manier worden beschreven. Allereerst om de risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        396.21,
+        518.56,
+        405.21
+      ],
+      "text": "binnen de GEB goed te kunnen beoordelen. Het is daarnaast ook noodzakelijk dat de verschillende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        408.81,
+        500.28,
+        417.81
+      ],
+      "text": "GEBs op een vergelijkbare manier tot hun risicobeoordeling komen. Dit leidt ertoe dat er eisen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        421.29,
+        514.4,
+        430.29
+      ],
+      "text": "gesteld worden aan de wijze waarop de risico’s worden beschreven en de wijze waarop de risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.8,
+        433.89,
+        437.09,
+        442.89
+      ],
+      "text": "worden geclassificeerd. In de GEB wordt hiervoor onderstaande matrix gebruikt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        460.53,
+        414.37,
+        469.53
+      ],
+      "text": "Identificeren Risico 1 Het risico op: [wat treedt erop]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        473.13,
+        449.52,
+        482.13
+      ],
+      "text": "risico’s Als gevolg van: [gebeurtenis/activiteit]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        485.73,
+        506.97,
+        494.73
+      ],
+      "text": "Veroorzaakt door: [oorzaak, kwetsbaarheid of issue",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        498.33,
+        454.71,
+        507.33
+      ],
+      "text": "(vaak een maatregel die niet of slecht is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        510.93,
+        444.4,
+        519.93
+      ],
+      "text": "geïmplementeerd of niet effectief is)].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.8,
+        524.01,
+        489.04,
+        533.01
+      ],
+      "text": "Consequenties voor [Wat zijn de mogelijke negatieve gevolgen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.8,
+        536.49,
+        337.57,
+        545.49
+      ],
+      "text": "betrokkene betrokkenen?]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        561.69,
+        321.49,
+        570.69
+      ],
+      "text": "Voorbeeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        574.29,
+        516.22,
+        583.29
+      ],
+      "text": "Identiteitsfraude, stigmatisering, uitsluiting, chantage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        587.37,
+        398.3,
+        596.37
+      ],
+      "text": "Classificeren Classificatie Kans score: [tussen 1 en 5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        599.97,
+        408.02,
+        608.97
+      ],
+      "text": "risico (Kans / Impact) Impact score: [tussen 1 en 5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        612.57,
+        397.8,
+        621.57
+      ],
+      "text": "Classificatie: [kans*impact]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        625.65,
+        481.9,
+        634.65
+      ],
+      "text": "Uitwerking Maatregel Geïmplementeerde maatregelen: [beschrijf de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        638.13,
+        506.86,
+        647.13
+      ],
+      "text": "mitigerende maatregelen die reeds zijn geïmplementeerd en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        650.73,
+        360.25,
+        659.73
+      ],
+      "text": "maatregelen effect op het risico]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        663.33,
+        503.85,
+        672.33
+      ],
+      "text": "Geplande maatregelen: [beschrijf de voorgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        271.92,
+        675.93,
+        493.84,
+        684.93
+      ],
+      "text": "maatregelen en het beoogde effect op het risico]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.8,
+        689.01,
+        515.03,
+        698.01
+      ],
+      "text": "Geplande [Valt de geplande maatregel binnen de scope van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.8,
+        701.61,
+        480.38,
+        710.61
+      ],
+      "text": "maatregelen project of wijziging? Zo nee, op welke wijze is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.8,
+        714.09,
+        468.88,
+        723.09
+      ],
+      "text": "binnen scope implementatie van de maatregel geborgd?]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.8,
+        726.69,
+        248.92,
+        735.69
+      ],
+      "text": "project/wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        739.77,
+        509.43,
+        748.77
+      ],
+      "text": "Risico- Restrisico Restrisico na geïmplementeerde maatregelen: [Is er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.8,
+        752.37,
+        479.54,
+        761.37
+      ],
+      "text": "acceptatie een restrisico aanwezig na implementatie van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        271.92,
+        74.25,
+        508.34,
+        83.25
+      ],
+      "text": "genomen maatregelen? Indien ja, motiveer waarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        271.92,
+        86.73,
+        496.57,
+        95.73
+      ],
+      "text": "restrisico acceptabel is en wie is risico-acceptant]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        271.92,
+        99.33,
+        485.73,
+        108.33
+      ],
+      "text": "Restrisico na geplande maatregelen: [Is er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        271.92,
+        111.93,
+        504.35,
+        120.93
+      ],
+      "text": "restrisico aanwezig na implementatie van geplande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        271.92,
+        124.53,
+        507.31,
+        133.53
+      ],
+      "text": "maatregelen? Indien ja, motiveer waarom restrisico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        271.92,
+        137.13,
+        452.41,
+        146.13
+      ],
+      "text": "acceptabel is en wie is risico-acceptant]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        162.81,
+        503.83,
+        171.81
+      ],
+      "text": "Per onderdeel (identificeren risico’s, classificeren risico, uitwerking mitigerende maatregelen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        175.29,
+        270.04,
+        184.29
+      ],
+      "text": "risicoacceptatie) volgt een korte toelichting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        225.69,
+        178.62,
+        234.69
+      ],
+      "text": "Identificeren risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        238.17,
+        506.98,
+        247.17
+      ],
+      "text": "De eerste stap is om potentiële privacyrisico’s vast te stellen. Een privacyrisico is een potentieel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        250.77,
+        523.81,
+        259.77
+      ],
+      "text": "negatief gevolg voor de rechten en vrijheden van de betrokkenen als gevolg van de verwerking van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        263.37,
+        502.05,
+        272.37
+      ],
+      "text": "persoonsgegevens. Het gaat bij de GEB dus niet om de bestuurlijke risico’s voor de organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        275.97,
+        248.19,
+        284.97
+      ],
+      "text": "(bijvoorbeeld imagoschade voor UWV).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.8,
+        302.61,
+        412.69,
+        311.61
+      ],
+      "text": "Identificeren Risico 1 Het risico op: [wat treedt erop]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.8,
+        315.21,
+        447.85,
+        324.21
+      ],
+      "text": "risico’s Als gevolg van: [gebeurtenis/activiteit]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.24,
+        327.81,
+        505.29,
+        336.81
+      ],
+      "text": "Veroorzaakt door: [oorzaak, kwetsbaarheid of issue",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.24,
+        340.41,
+        453.01,
+        349.41
+      ],
+      "text": "(vaak een maatregel die niet of slecht is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.24,
+        352.89,
+        442.72,
+        361.89
+      ],
+      "text": "geïmplementeerd of niet effectief is)].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        160.92,
+        365.97,
+        487.36,
+        374.97
+      ],
+      "text": "Consequenties [Wat zijn de mogelijke negatieve gevolgen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        160.92,
+        378.57,
+        335.89,
+        387.57
+      ],
+      "text": "voor betrokkene betrokkenen?]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.24,
+        403.77,
+        319.81,
+        412.77
+      ],
+      "text": "Voorbeeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.24,
+        416.37,
+        514.54,
+        425.37
+      ],
+      "text": "Identiteitsfraude, stigmatisering, uitsluiting, chantage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        441.93,
+        410.68,
+        450.93
+      ],
+      "text": "Hieronder staan enkele voorbeelden van veel voorkomende privacyrisico’s.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.79,
+        467.13,
+        325.24,
+        476.13
+      ],
+      "text": "Onrechtmatige verwerking van persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.79,
+        479.73,
+        431.4,
+        488.73
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.79,
+        491.58,
+        92.93,
+        500.58
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        492.33,
+        522.48,
+        501.33
+      ],
+      "text": "Als een grondslag ontbreekt, bijvoorbeeld wanneer er geen wettelijke taak is vastgelegd en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        504.93,
+        305.76,
+        513.93
+      ],
+      "text": "toestemming als grondslag niet mogelijk is;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.79,
+        516.67,
+        92.93,
+        525.67
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        517.41,
+        510.95,
+        526.41
+      ],
+      "text": "Wanneer bijzondere persoonsgegevens worden verwerkt zonder dat er sprake is van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        530.01,
+        233.65,
+        539.01
+      ],
+      "text": "geldige uitzonderingsgrond;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.79,
+        542.61,
+        528.67,
+        551.61
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat zijn gegevens ten onrechte door een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.79,
+        555.21,
+        530.26,
+        564.21
+      ],
+      "text": "organisatie of individu kunnen worden geraadpleegd, worden vastgelegd en verder worden verwerkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.79,
+        580.3,
+        474.95,
+        589.3
+      ],
+      "text": "De verwerking van persoonsgegevens is niet transparant en/of niet ‘behoorlijk’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.79,
+        592.9,
+        431.39,
+        601.9
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.79,
+        604.75,
+        92.93,
+        613.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        605.5,
+        475.13,
+        614.5
+      ],
+      "text": "De verwerking is niet of onvolledig opgenomen in het register van verwerkingen;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.79,
+        617.35,
+        92.93,
+        626.35
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        618.1,
+        430.85,
+        627.1
+      ],
+      "text": "De verwerking is niet of onvolledig opgenomen in de privacyverklaring;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.79,
+        629.95,
+        92.93,
+        638.95
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        630.7,
+        525.9,
+        639.7
+      ],
+      "text": "De verwerking is niet maatschappelijk geaccepteerd en niet in lijn met wat de betrokkene in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        643.3,
+        527.25,
+        652.3
+      ],
+      "text": "redelijkheid van UWV kon verwachten. Dit kan zich bijvoorbeeld voordoen bij het hergebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.79,
+        655.78,
+        283.36,
+        664.78
+      ],
+      "text": "van gegevens voor nieuwe doeleinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        668.38,
+        483.87,
+        677.38
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat hij geen weet heeft van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        680.98,
+        521.36,
+        689.98
+      ],
+      "text": "verwerking van zijn gegevens en daardoor geen gebruik kan maken van zijn rechten onder de AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        693.58,
+        453.04,
+        702.58
+      ],
+      "text": "om de rechtmatigheid van de verwerking van zijn persoonsgegevens te controleren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        718.66,
+        497.69,
+        727.66
+      ],
+      "text": "De verwerking van persoonsgegevens voldoet niet aan de vereisten van doelbinding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.8,
+        731.26,
+        431.39,
+        740.26
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        72.9,
+        92.94,
+        81.9
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        73.65,
+        497.86,
+        82.65
+      ],
+      "text": "Gegevens die voor de ene taak van UWV zijn verzameld worden voor een andere taak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        86.25,
+        527.09,
+        95.25
+      ],
+      "text": "gebruikt zonder dat dit verenigbaar is. Bijvoorbeeld gegevens die UWV als beheerder van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        98.85,
+        530.12,
+        107.85
+      ],
+      "text": "Polisadministratie verwerkt worden ingezet voor een analyse van het dienstverleningsproces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        111.45,
+        519.68,
+        120.45
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat hij, nadat gegevens door UWV zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        124.05,
+        405.92,
+        133.05
+      ],
+      "text": "verzameld, geen grip meer heeft op waar UWV deze gegevens voor inzet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        149.13,
+        492.69,
+        158.13
+      ],
+      "text": "De verwerking van persoonsgegevens voldoet niet aan de beginselen van minimale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        161.73,
+        176.22,
+        170.73
+      ],
+      "text": "gegevensverwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        174.33,
+        431.41,
+        183.33
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        186.18,
+        92.94,
+        195.18
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        186.93,
+        530.49,
+        195.93
+      ],
+      "text": "Er worden meer gegevens verwerkt dan strikt noodzakelijk doordat dit bijvoorbeeld handig is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        199.53,
+        487.25,
+        208.53
+      ],
+      "text": "voor het proces of doordat het systeem niet voorziet in fijnmazig autorisatiebeheer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        212.01,
+        529.88,
+        221.01
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat meer mensen kennis nemen van zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        224.61,
+        480.18,
+        233.61
+      ],
+      "text": "persoonsgegevens dan strikt noodzakelijk of dat mensen kennis nemen van meer van zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        237.21,
+        264.06,
+        246.21
+      ],
+      "text": "persoonsgegevens dan strikt noodzakelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        262.41,
+        499.61,
+        271.41
+      ],
+      "text": "Gegevens worden langer bewaard dan noodzakelijk voor het doel van de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        275.01,
+        155.24,
+        284.01
+      ],
+      "text": "(bewaartermijn)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.8,
+        287.5,
+        431.41,
+        296.5
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        299.35,
+        92.94,
+        308.35
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        300.1,
+        491.02,
+        309.1
+      ],
+      "text": "Gegevens blijven langer in het archief staan/worden niet tijdig vernietigd doordat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        312.7,
+        372.05,
+        321.7
+      ],
+      "text": "ingangsdatum van de bewaartermijn niet is geregistreerd;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        324.55,
+        92.94,
+        333.55
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        325.3,
+        476.43,
+        334.3
+      ],
+      "text": "Gegevens worden niet tijdig vernietigd doordat de applicatie hier niet in voorziet;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        337.15,
+        92.94,
+        346.15
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        337.9,
+        493.27,
+        346.9
+      ],
+      "text": "Gegevens worden niet tijdig vernietigd doordat er geen proces is ingericht dat hier in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        350.38,
+        147.24,
+        359.38
+      ],
+      "text": "voorziet;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        362.23,
+        92.94,
+        371.23
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        362.98,
+        464.34,
+        371.98
+      ],
+      "text": "Gegevens worden niet tijdig vernietigd omdat de bewaartermijn onduidelijk is;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.8,
+        374.83,
+        92.94,
+        383.83
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        375.58,
+        507.82,
+        384.58
+      ],
+      "text": "Gegevens worden niet tijdig vernietigd doordat zij buiten doelsystemen zijn opgeslagen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.8,
+        388.18,
+        463.61,
+        397.18
+      ],
+      "text": "zoals op sharepoint, op gezamenlijke of persoonlijke schijven en in mailboxen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        400.78,
+        524.03,
+        409.78
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat medewerkers langer kennis kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        413.38,
+        515.48,
+        422.38
+      ],
+      "text": "nemen van zijn persoonsgegevens dan strikt noodzakelijk is. Zijn gegevens kunnen mogelijk voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        425.86,
+        519.49,
+        434.86
+      ],
+      "text": "andere verwerkingen van UWV worden ingezet of worden gedeeld nadat deze al vernietigd hadden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        438.46,
+        507.78,
+        447.46
+      ],
+      "text": "moeten zijn. Het zal niet in de lijn der verwachting van betrokkene liggen dat zijn gegevens nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        451.06,
+        529.47,
+        460.06
+      ],
+      "text": "steeds worden verwerkt, waardoor hij mogelijk ook minder snel geneigd is om gebruik te maken van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        463.66,
+        279.06,
+        472.66
+      ],
+      "text": "zijn rechten om de verwerking te controleren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.83,
+        488.86,
+        353.84,
+        497.86
+      ],
+      "text": "Inbreuk op de vertrouwelijkheid van persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.83,
+        501.35,
+        431.44,
+        510.35
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.83,
+        513.2,
+        92.97,
+        522.2
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        513.95,
+        482.55,
+        522.95
+      ],
+      "text": "Door een inbreuk op of gebrek in de technische of organisatorische beveiliging van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        526.55,
+        366.12,
+        535.55
+      ],
+      "text": "persoonsgegevens (datalek). Bijvoorbeeld als gevolg van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.02,
+        539.15,
+        361.26,
+        548.15
+      ],
+      "text": "onveilige uitwisseling van gegevens via open email;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.02,
+        542.54,
+        113.42,
+        551.54
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.02,
+        551.75,
+        319.86,
+        560.75
+      ],
+      "text": "het gebruik van een verkeerd (post)adres;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.02,
+        555.14,
+        113.42,
+        564.14
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.02,
+        564.23,
+        484.65,
+        573.23
+      ],
+      "text": "een kwetsbaarheid in de applicatie of infra die door een hacker wordt gebruikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        108.02,
+        567.62,
+        113.42,
+        576.62
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.83,
+        576.08,
+        92.97,
+        585.08
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        576.83,
+        517.99,
+        585.83
+      ],
+      "text": "Als gevolg van het feit dat er gegevens ontsloten worden van teveel betrokkenen of dat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        589.43,
+        485.41,
+        598.43
+      ],
+      "text": "van betrokkenen teveel gegevens ontsloten worden, doordat autorisatiebeheer niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        602.03,
+        254.78,
+        611.03
+      ],
+      "text": "voldoende fijnmazig is ingericht;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.83,
+        613.88,
+        92.97,
+        622.88
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        614.63,
+        520.48,
+        623.63
+      ],
+      "text": "Als gevolg van het feit dat persoonsgegevens bij ingang van de bewaartermijn niet worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        627.23,
+        517.41,
+        636.23
+      ],
+      "text": "afgeschermd tegen inzage door medewerkers in het primaire proces. Bijvoorbeeld doordat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.84,
+        639.71,
+        517.07,
+        648.71
+      ],
+      "text": "een systeem niet zo is ingericht of doordat gegevens buiten doelsystemen staan waar niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.84,
+        652.31,
+        188.33,
+        661.31
+      ],
+      "text": "wordt geschoond;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.84,
+        664.16,
+        92.98,
+        673.16
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.84,
+        664.91,
+        501.16,
+        673.91
+      ],
+      "text": "Als gevolg van het feit dat persoonsgegevens buiten doelsystemen worden opgeslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.84,
+        677.51,
+        498.52,
+        686.51
+      ],
+      "text": "(bijvoorbeeld op sharepoint, in mailboxen, op groepsschijven of persoonlijke schijven)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.84,
+        690.11,
+        357.64,
+        699.11
+      ],
+      "text": "waardoor zij onttrokken worden aan autorisatiebeheer;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.83,
+        701.96,
+        92.97,
+        710.96
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        702.71,
+        517.88,
+        711.71
+      ],
+      "text": "Als gevolg van gebruik van productiedata buiten de productieomgeving, bijvoorbeeld in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.83,
+        715.19,
+        171.67,
+        724.19
+      ],
+      "text": "testomgeving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.83,
+        727.79,
+        484.78,
+        736.79
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat zijn persoonsgegevens zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.83,
+        740.39,
+        512.54,
+        749.39
+      ],
+      "text": "ingezien door en mogelijk nog in bezit zijn van iemand voor wie deze gegevens niet zijn bedoeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        73.65,
+        508.15,
+        82.65
+      ],
+      "text": "Afhankelijk van om welke gegevens het gaat kan deze persoon de persoonsgegevens bovendien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        86.25,
+        467.2,
+        95.25
+      ],
+      "text": "misbruiken voor stigmatisering van betrokkene, chantage, spear phishing of ID-fraude.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        114.69,
+        268.5,
+        123.69
+      ],
+      "text": "Inbreuk op de integriteit van gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        127.29,
+        431.41,
+        136.29
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.8,
+        139.14,
+        92.94,
+        148.14
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        139.89,
+        512.5,
+        148.89
+      ],
+      "text": "Gegevens kunnen ongecontroleerd gewijzigd worden doordat de applicatie niet logt en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        152.49,
+        433.05,
+        161.49
+      ],
+      "text": "monitort of doordat gegevens buiten doelsystemen worden opgeslagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.8,
+        164.34,
+        92.94,
+        173.34
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        165.09,
+        506.64,
+        174.09
+      ],
+      "text": "Gegevens kunnen ongecontroleerd gewijzigd worden door een inbreuk op of gebrek aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        177.57,
+        525.11,
+        186.57
+      ],
+      "text": "technische of organisatorische beveiliging van persoonsgegevens (datalek). Bijvoorbeeld als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        190.17,
+        488.9,
+        199.17
+      ],
+      "text": "gevolg van een onveilige uitwisseling van gegevens, een fout waardoor een bestand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        202.77,
+        507.0,
+        211.77
+      ],
+      "text": "verkeerd wordt overschreven of een kwetsbaarheid in de applicatie of infra die door een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.8,
+        215.37,
+        214.96,
+        224.37
+      ],
+      "text": "hacker wordt misbruikt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        227.97,
+        513.18,
+        236.97
+      ],
+      "text": "De mogelijke consequentie voor betrokkene is dat niet kan worden vastgesteld wie zijn gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        240.57,
+        494.81,
+        249.57
+      ],
+      "text": "heeft gewijzigd en of de gegevens nog juist zijn. Mogelijk zijn de gegevens op zodanige wijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        253.05,
+        492.77,
+        262.05
+      ],
+      "text": "veranderd dat dit nadelig is voor betrokkene, bijvoorbeeld omdat hij door een wijziging in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        265.65,
+        423.64,
+        274.65
+      ],
+      "text": "Polisadministratie niet meer aan de wekeneis voor een WW-uitkering voldoet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        290.85,
+        373.86,
+        299.85
+      ],
+      "text": "De rechten van betrokkenen zijn onvoldoende gewaarborgd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        303.45,
+        431.42,
+        312.45
+      ],
+      "text": "Voorbeelden van wanneer dit kan optreden (gebeurtenis/activiteit en oorzaak):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.81,
+        315.19,
+        92.95,
+        324.19
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        315.94,
+        522.23,
+        324.94
+      ],
+      "text": "Er kan geen gevolg worden gegeven aan een inzageverzoek doordat onvoldoende overzicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        328.54,
+        358.97,
+        337.54
+      ],
+      "text": "bestaat van waar de persoonsgegevens zicht bevinden;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.81,
+        340.39,
+        92.95,
+        349.39
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        341.14,
+        525.58,
+        350.14
+      ],
+      "text": "Er kan geen gehoor worden gegeven aan een inzageverzoek doordat het proces niet goed is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        353.74,
+        150.38,
+        362.74
+      ],
+      "text": "ingericht;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.81,
+        365.59,
+        92.95,
+        374.59
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        366.34,
+        503.02,
+        375.34
+      ],
+      "text": "Er kan geen gevolg worden gegeven aan een inzageverzoek doordat de applicatie geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        378.94,
+        500.23,
+        387.94
+      ],
+      "text": "overzicht van de verwerkte persoonsgegevens in een gangbaar format kan genereren;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.81,
+        390.67,
+        92.95,
+        399.67
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        391.42,
+        529.17,
+        400.42
+      ],
+      "text": "Er kan geen gevolg worden gegeven aan het recht op vergetelheid omdat onduidelijk is waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        404.02,
+        514.0,
+        413.02
+      ],
+      "text": "de gegevens allemaal zijn opgeslagen (bijvoorbeeld ook buiten archief en doelsystemen);",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.81,
+        415.87,
+        92.95,
+        424.87
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        416.62,
+        507.89,
+        425.62
+      ],
+      "text": "Er kan geen gevolg worden gegeven aan het recht op vergetelheid doordat de applicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.81,
+        429.22,
+        254.47,
+        438.22
+      ],
+      "text": "geen gegevens kan verwijderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        441.82,
+        523.67,
+        450.82
+      ],
+      "text": "De mogelijke consequentie van dit risico voor betrokkene is dat hij geen controle kan uitoefenen op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        454.3,
+        369.08,
+        463.3
+      ],
+      "text": "de rechtmatigheid van de verwerking van zijn persoonsgegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        479.5,
+        174.06,
+        488.5
+      ],
+      "text": "Classificeren risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        492.1,
+        511.88,
+        501.1
+      ],
+      "text": "Nadat de risico’s en de gevolgen voor betrokkenen in kaart zijn gebracht, moet het risico worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        504.7,
+        513.17,
+        513.7
+      ],
+      "text": "geclassificeerd. Zoals aangegeven is het belangrijk dat de risico’s binnen een GEB goed onderling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        517.3,
+        517.0,
+        526.3
+      ],
+      "text": "vergeleken kunnen worden. Het is daarnaast ook belangrijk dat GEBs op een vergelijkbare manier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        529.79,
+        490.71,
+        538.79
+      ],
+      "text": "de risico’s classificeren, zodat bijvoorbeeld de beoordeling of een verwerking een hoog risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        542.39,
+        328.77,
+        551.39
+      ],
+      "text": "verwerking is op eenzelfde manier tot stand is gekomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        567.59,
+        382.0,
+        576.59
+      ],
+      "text": "Voor de GEB wordt gebruikt gemaakt van onderstaande kwalificatie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.8,
+        580.65,
+        396.02,
+        589.65
+      ],
+      "text": "Classificeren Classificatie Kans score: [tussen 1 en 5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.8,
+        593.25,
+        405.74,
+        602.25
+      ],
+      "text": "risico (Kans / Impact) Impact score: [tussen 1 en 5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        269.64,
+        605.85,
+        395.52,
+        614.85
+      ],
+      "text": "Classificatie: [kans*impact]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        631.41,
+        92.77,
+        640.41
+      ],
+      "text": "Kans",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        644.01,
+        444.87,
+        653.01
+      ],
+      "text": "De kans dat de risico’s zich voltrekken is mede afhankelijk van de middelen die de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        656.61,
+        521.64,
+        665.61
+      ],
+      "text": "verwerkingsverantwoordelijke gebruikt bij de gegevensverwerking (is het middel gevoelig voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        669.21,
+        523.18,
+        678.21
+      ],
+      "text": "inbreuk), maar ook van de aard van de persoonsgegevens (zijn de persoonsgegevens zo waardevol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.8,
+        681.81,
+        507.87,
+        690.81
+      ],
+      "text": "dat kwaadwillenden er veel effort in willen steken om ze te bemachtigen) en het dreigingsbeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        694.29,
+        501.25,
+        703.29
+      ],
+      "text": "Persoonsgegevens die de sleutel vormen voor toegang tot geldelijke middelen of waarmee een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        706.89,
+        501.64,
+        715.89
+      ],
+      "text": "betrokkene te chanteren is, zijn aantrekkelijk voor hackers. Denk hierbij aan de inloggegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        719.49,
+        287.0,
+        728.49
+      ],
+      "text": "voor DigiD of (gezondheids)gegevens van VIPs.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        744.69,
+        102.68,
+        753.69
+      ],
+      "text": "Impact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.81,
+        757.29,
+        425.21,
+        766.29
+      ],
+      "text": "De impact/ernst van de risico’s hangt af van de context van de verwerkingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.8,
+        72.82,
+        92.92,
+        81.82
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        73.65,
+        506.19,
+        82.65
+      ],
+      "text": "de aard van de persoonsgegevens (gaat het om ‘gewone’ persoonsgegevens of bijv. om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        86.25,
+        215.18,
+        95.25
+      ],
+      "text": "gezondheidsgegevens?)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.8,
+        98.02,
+        92.92,
+        107.02
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        98.85,
+        515.77,
+        107.85
+      ],
+      "text": "de aard van de verwerkingen (gaat het alleen om het vastleggen van gegevens of worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        111.45,
+        524.11,
+        120.45
+      ],
+      "text": "gegevenssets gekoppeld en wordt gebruik gemaakt van geautomatiseerde besluitvorming?)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.8,
+        123.22,
+        92.92,
+        132.22
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        124.05,
+        521.41,
+        133.05
+      ],
+      "text": "de doeleinden waarvoor de gegevens worden verwerkt (maakt de verwerking onderdeel uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        136.65,
+        453.62,
+        145.65
+      ],
+      "text": "van het primaire proces van UWV of gaat het bijv. om ondersteuning van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.8,
+        149.13,
+        186.77,
+        158.13
+      ],
+      "text": "bedrijfsvoering?).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        171.57,
+        486.27,
+        180.57
+      ],
+      "text": "De risicoclassificatie (kans*impact) is vervolgens volgens onderstaande matrix in te delen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        179.88,
+        196.78,
+        268.22,
+        204.02
+      ],
+      "text": "Legenda Risico matrix",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        127.25,
+        206.44,
+        356.84,
+        213.68
+      ],
+      "text": "Kans 1 2 3 4 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        79.46,
+        216.09,
+        375.56,
+        223.34
+      ],
+      "text": "Impact zeer klein klein redelijk groot zeer groot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.36,
+        225.75,
+        359.87,
+        232.99
+      ],
+      "text": "5 zeer groot 5 10 15 20 25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.36,
+        234.8,
+        359.87,
+        242.04
+      ],
+      "text": "4 groot 4 8 12 16 20",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.36,
+        243.86,
+        359.87,
+        251.1
+      ],
+      "text": "3 redelijk 3 6 9 12 15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.36,
+        252.91,
+        359.87,
+        260.15
+      ],
+      "text": "2 beperkt 2 4 6 8 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.36,
+        261.96,
+        356.84,
+        269.21
+      ],
+      "text": "1 minimaal 1 2 3 4 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        123.01,
+        274.04,
+        193.77,
+        281.28
+      ],
+      "text": "Risicoclassificatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.96,
+        283.7,
+        157.23,
+        290.94
+      ],
+      "text": "Zeer klein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.96,
+        301.81,
+        137.26,
+        309.05
+      ],
+      "text": "Klein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.96,
+        310.86,
+        159.55,
+        318.1
+      ],
+      "text": "Gemiddeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.96,
+        319.91,
+        185.61,
+        327.16
+      ],
+      "text": "Groot/zeer groot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        354.56,
+        257.56,
+        363.56
+      ],
+      "text": "Uitwerking mitigerende maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        367.16,
+        496.87,
+        376.16
+      ],
+      "text": "De verwerkingsverantwoordelijke moet passende technische en organisatorische maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        379.76,
+        508.12,
+        388.76
+      ],
+      "text": "treffen om een op het risico afgestemd beveiligingsniveau te waarborgen. In het begrip passend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        392.36,
+        512.12,
+        401.36
+      ],
+      "text": "ligt besloten dat de beveiliging in overeenstemming is met de huidige stand van de techniek. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        404.85,
+        519.14,
+        413.85
+      ],
+      "text": "begrip passend duidt tevens op proportionaliteit tussen de maatregelen en erkende privacyrisico’s.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        417.45,
+        477.52,
+        426.45
+      ],
+      "text": "Er is geen verplichting om altijd de zwaarste beveiliging te nemen. Enkel is vereist dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        430.05,
+        508.91,
+        439.05
+      ],
+      "text": "maatregelen met het oog op de beschikbare technologie en uitvoeringskosten redelijk zijn. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        442.65,
+        387.07,
+        451.65
+      ],
+      "text": "maatregelen moeten het risico tot een aanvaardbaar niveau brengen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        455.25,
+        484.95,
+        464.25
+      ],
+      "text": "Naarmate de risico’s groter zijn, worden zwaardere eisen gesteld aan de beveiliging van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        467.85,
+        157.96,
+        476.85
+      ],
+      "text": "persoonsgegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        492.93,
+        507.88,
+        501.93
+      ],
+      "text": "In de risicomatrix wordt gevraagd inzicht te geven in de bestaande maatregelen en de geplande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        505.53,
+        493.04,
+        514.53
+      ],
+      "text": "maatregelen. Hierdoor wordt het makkelijker om het restrisico te duiden op het moment van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        518.13,
+        494.58,
+        527.13
+      ],
+      "text": "schrijven van de GEB en het restrisico in te schatten nadat ook de geplande maatregelen zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        530.73,
+        116.08,
+        539.73
+      ],
+      "text": "genomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        543.21,
+        521.9,
+        552.21
+      ],
+      "text": "Houdt bij het beschrijven van mitigerende maatregelen ook rekening met de oorzaak. Ofwel draagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        555.81,
+        494.76,
+        564.81
+      ],
+      "text": "de bestaande, dan wel geplande maatregel bij aan het terug brengen van de kans en impact.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.8,
+        575.97,
+        482.02,
+        584.97
+      ],
+      "text": "Uitwerking Maatregel Geïmplementeerde maatregelen: [beschrijf de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.8,
+        588.45,
+        506.98,
+        597.45
+      ],
+      "text": "mitigerende maatregelen die reeds zijn geïmplementeerd en het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.8,
+        601.05,
+        360.37,
+        610.05
+      ],
+      "text": "maatregelen effect op het risico]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        272.04,
+        613.65,
+        503.97,
+        622.65
+      ],
+      "text": "Geplande maatregelen: [beschrijf de voorgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        272.04,
+        626.25,
+        493.96,
+        635.25
+      ],
+      "text": "maatregelen en het beoogde effect op het risico]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        160.68,
+        639.33,
+        515.15,
+        648.33
+      ],
+      "text": "Geplande [Valt de geplande maatregel binnen de scope van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        160.68,
+        651.93,
+        480.5,
+        660.93
+      ],
+      "text": "maatregelen project of wijziging? Zo nee, op welke wijze is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        160.68,
+        664.41,
+        469.0,
+        673.41
+      ],
+      "text": "binnen scope implementatie van de maatregel geborgd?]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        160.68,
+        677.01,
+        248.8,
+        686.01
+      ],
+      "text": "project/wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.8,
+        702.69,
+        509.34,
+        711.69
+      ],
+      "text": "Op basis van het Privacy by Design/by Default Beleid kunnen de benodigde privacyborgende- en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.81,
+        715.29,
+        499.39,
+        724.29
+      ],
+      "text": "beveiligingsmaatregelen worden afgeleid. Het beleidskader PbDD van het CISO Office kan hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.81,
+        727.89,
+        293.7,
+        736.89
+      ],
+      "text": "gevonden worden: Privacy en Security by Design",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        73.65,
+        505.54,
+        82.65
+      ],
+      "text": "In het PbDD beleidskader zijn voornamelijk technische maatregelen beschreven. Daarnaast kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        86.25,
+        411.29,
+        95.25
+      ],
+      "text": "ook gedacht worden aan de volgende organisatorische maatregelen, zoals:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.8,
+        98.1,
+        92.94,
+        107.1
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.8,
+        98.85,
+        450.61,
+        107.85
+      ],
+      "text": "Privacybewustzijn- en beveiligingstrainingen (Awareness en Gouden regels)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.8,
+        110.7,
+        92.94,
+        119.7
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.8,
+        111.45,
+        451.57,
+        120.45
+      ],
+      "text": "UWV richtlijnen voor gebruik ICT-hulpmiddelen en systemen (Gedragscode)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.8,
+        123.3,
+        92.94,
+        132.3
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.8,
+        124.05,
+        378.01,
+        133.05
+      ],
+      "text": "Screening personeel en VOG-verklaring (screening en VOG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.8,
+        135.9,
+        92.94,
+        144.9
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.8,
+        136.65,
+        227.73,
+        145.65
+      ],
+      "text": "Geheimhoudingsverklaring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.8,
+        148.38,
+        92.94,
+        157.38
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.8,
+        149.13,
+        419.89,
+        158.13
+      ],
+      "text": "Afspraken over thuiswerken en toegang tot systemen (Gedragscode)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.8,
+        160.98,
+        92.94,
+        169.98
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.8,
+        161.73,
+        178.41,
+        170.73
+      ],
+      "text": "4 Ogen principe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        186.93,
+        512.52,
+        195.93
+      ],
+      "text": "De onderstaande tabel geeft een bondig overzicht van de verschillende (technische) maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        199.53,
+        446.25,
+        208.53
+      ],
+      "text": "die overwogen kunnen worden en die van links naar rechts doorlopen kan worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        235.99,
+        539.92,
+        242.95
+      ],
+      "text": "Anonimi- 1. 2. 3. Encryptie 4. Access 5. Data 6. 7. Rechten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        245.71,
+        512.2,
+        252.67
+      ],
+      "text": "seren Dataminima Pseudonimi- control protection Bewaarter- van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        255.55,
+        542.58,
+        262.51
+      ],
+      "text": "-lisatie seren by default mijnen betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        498.0,
+        265.27,
+        502.96,
+        272.23
+      ],
+      "text": "n",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        276.55,
+        529.15,
+        283.51
+      ],
+      "text": "Anonimiseren Welke Identificerende Versleuteling Toegangscon Privacyvrien Indien - Actieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        286.39,
+        542.15,
+        293.35
+      ],
+      "text": "van gegevens zijn gegevens van trole van delijke gegevens informatiepli",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        296.23,
+        508.78,
+        303.19
+      ],
+      "text": "persoonsgeg strikt worden persoonsgeg zowel fysieke settings als niet meer cht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        305.95,
+        538.64,
+        312.91
+      ],
+      "text": "evens waar - Recht van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        305.95,
+        463.77,
+        312.91
+      ],
+      "text": "noodzakelijk verwijderd en evens bij als logische uitgangspunt mogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        315.79,
+        520.63,
+        322.75
+      ],
+      "text": "dat kan. voor het doel gescheiden opslag of toegang. worden inzage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        325.51,
+        538.64,
+        332.48
+      ],
+      "text": "Indien niet van bewaard. transport. bewaard - Recht van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        335.35,
+        124.89,
+        342.31
+      ],
+      "text": "mogelijk, dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        335.35,
+        528.42,
+        342.32
+      ],
+      "text": "verwerking moeten ze correctie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        345.07,
+        465.68,
+        352.04
+      ],
+      "text": "de tabel (proportionali worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        354.91,
+        475.1,
+        361.88
+      ],
+      "text": "vervolgen. teit)? vernietigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        439.92,
+        364.65,
+        483.28,
+        371.61
+      ],
+      "text": "(Archiefwet)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        375.43,
+        514.64,
+        382.39
+      ],
+      "text": "UWV UWV richtlijn: UWV richtlijn: UWV UWV UWV UWV",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        266.04,
+        375.76,
+        285.34,
+        383.8
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        385.27,
+        527.56,
+        392.23
+      ],
+      "text": "richtlijn : TDA (CISO) richtlijn: - richtlijn: richtlijn: richtlijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        385.6,
+        172.55,
+        393.64
+      ],
+      "text": "Data Life",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        266.04,
+        386.92,
+        297.65,
+        394.96
+      ],
+      "text": "richtijn:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        77.04,
+        394.99,
+        530.56,
+        401.95
+      ],
+      "text": "TDA (CISO) Fysieke SSD (CISO) - Data Life - Inzage-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        396.76,
+        158.03,
+        404.8
+      ],
+      "text": "Cylce",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        266.04,
+        398.08,
+        311.09,
+        406.12
+      ],
+      "text": "Cryptografi",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        404.83,
+        543.84,
+        411.79
+      ],
+      "text": "beveiliging Cycle verzoek (BZ)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        407.92,
+        185.33,
+        415.96
+      ],
+      "text": "Managemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        266.04,
+        409.36,
+        301.63,
+        417.4
+      ],
+      "text": "e (CISO)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        414.55,
+        538.48,
+        421.51
+      ],
+      "text": "(FB) Management - Correctie-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.44,
+        419.08,
+        139.61,
+        427.12
+      ],
+      "text": "t",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.96,
+        419.83,
+        185.08,
+        426.79
+      ],
+      "text": "(DataOffice)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        266.04,
+        420.19,
+        307.84,
+        427.15
+      ],
+      "text": "SSD (CISO)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        424.39,
+        543.84,
+        431.35
+      ],
+      "text": "- (GD) verzoek (BZ)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        434.11,
+        501.16,
+        441.07
+      ],
+      "text": "Autorisatiebe - Selectielijst -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        443.95,
+        543.88,
+        450.91
+      ],
+      "text": "heer (BZ) (FB DIV) Privacystate-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        453.67,
+        539.66,
+        460.63
+      ],
+      "text": "- Logging & ment (K&S)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        463.51,
+        361.1,
+        470.47
+      ],
+      "text": "Monitoring",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        324.0,
+        473.23,
+        348.4,
+        480.19
+      ],
+      "text": "(CISO)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        497.25,
+        155.98,
+        506.25
+      ],
+      "text": "Risico acceptatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        509.85,
+        491.77,
+        518.85
+      ],
+      "text": "Tot slot, beveiligingsrisico’s volledig reduceren is niet mogelijk. Dit betekent dat er altijd een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        522.45,
+        485.31,
+        531.45
+      ],
+      "text": "restrisico zal overblijven. Bij dit onderdeel moet beschreven worden wat het restrisico is na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        535.05,
+        522.01,
+        544.05
+      ],
+      "text": "implementatie van de genomen en/of geplande maatregelen. Daarnaast moet aangegeven waarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        547.53,
+        308.33,
+        556.53
+      ],
+      "text": "het restrisico acceptabel is en wie risicoacceptant is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        560.13,
+        521.41,
+        569.13
+      ],
+      "text": "Als uit de GEB komt dat de (voorgenomen) verwerking een hoog privacyrisico met zich mee brengt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        572.73,
+        506.98,
+        581.73
+      ],
+      "text": "en het niet lukt om (voldoende) maatregelen te vinden om dit risico te beperken, dan is overleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        585.33,
+        524.54,
+        594.33
+      ],
+      "text": "met de Autoriteit Persoonsgegevens (AP) noodzakelijk. Middels een voorafgaande raadpleging geeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        597.93,
+        520.68,
+        606.93
+      ],
+      "text": "de AP advies hoe de risico’s van de voorgenomen verwerking kunnen worden beperkt. Het kan ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        610.41,
+        500.74,
+        619.41
+      ],
+      "text": "zijn dat de AP adviseert om af te zien van de verwerking. UWV kan bij de constatering dat een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        623.01,
+        496.11,
+        632.01
+      ],
+      "text": "verwerking een hoog privacy met zich mee brengt ook zelf besluiten de verwerking niet uit te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.8,
+        635.61,
+        162.16,
+        644.61
+      ],
+      "text": "voeren of te staken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.8,
+        661.29,
+        487.14,
+        670.29
+      ],
+      "text": "Risico- Restrisico Restrisico na bestaande maatregelen: [Is er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.8,
+        673.89,
+        501.08,
+        682.89
+      ],
+      "text": "acceptatie restrisico aanwezig na implementatie van genomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.84,
+        686.49,
+        503.23,
+        695.49
+      ],
+      "text": "maatregelen? Indien ja, motiveer waarom restrisico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.84,
+        698.97,
+        448.32,
+        707.97
+      ],
+      "text": "acceptabel is en wie is risico-acceptant]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.84,
+        711.57,
+        481.61,
+        720.57
+      ],
+      "text": "Restrisico na geplande maatregelen: [Is er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.84,
+        724.17,
+        500.27,
+        733.17
+      ],
+      "text": "restrisico aanwezig na implementatie van geplande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.84,
+        736.77,
+        503.2,
+        745.77
+      ],
+      "text": "maatregelen? Indien ja, motiveer waarom restrisico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        267.84,
+        749.37,
+        448.32,
+        758.37
+      ],
+      "text": "acceptabel is en wie is risico-acceptant]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        73.65,
+        500.9,
+        82.65
+      ],
+      "text": "Onderstaande tabel geeft aan hoe de risico’s geclassificeerd worden en wie, afhankelijk van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        86.25,
+        452.14,
+        95.25
+      ],
+      "text": "risicoclassificatie, de risico’s kan accepteren. Uitgangspunt is dat de directie van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.8,
+        98.85,
+        499.35,
+        107.85
+      ],
+      "text": "bedrijfsonderdeel de risico’s moet accepteren, wel kan risicoacceptatie bij (zeer) kleine risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.81,
+        111.45,
+        509.03,
+        120.45
+      ],
+      "text": "gedelegeerd worden aan de domeinhouder/verantwoordelijk management. De Business Security",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.81,
+        124.05,
+        512.72,
+        133.05
+      ],
+      "text": "Officer (BSO) kan geen risico’s accepteren. De BSO geeft in paragraaf 6.2 een reactie op de GEB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.81,
+        136.65,
+        334.52,
+        145.65
+      ],
+      "text": "waarin ook een advies wordt gegeven over de restrisico’s.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        195.8,
+        162.27,
+        297.05,
+        170.57
+      ],
+      "text": "Legenda Risico matrix",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        135.49,
+        173.34,
+        398.62,
+        181.64
+      ],
+      "text": "Kans 1 2 3 4 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        80.72,
+        184.4,
+        420.08,
+        192.71
+      ],
+      "text": "Impact zeer klein klein redelijk groot zeer groot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        93.21,
+        195.47,
+        402.09,
+        203.77
+      ],
+      "text": "5 zeer groot 5 10 15 20 25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        93.21,
+        205.85,
+        402.09,
+        214.15
+      ],
+      "text": "4 groot 4 8 12 16 20",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        93.21,
+        216.22,
+        402.09,
+        224.52
+      ],
+      "text": "3 redelijk 3 6 9 12 15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        93.21,
+        226.6,
+        402.09,
+        234.9
+      ],
+      "text": "2 beperkt 2 4 6 8 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        93.21,
+        236.98,
+        398.62,
+        245.28
+      ],
+      "text": "1 minimaal 1 2 3 4 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        130.63,
+        250.82,
+        321.27,
+        259.12
+      ],
+      "text": "Risicoclassificatie Risicoacceptatie door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.84,
+        261.67,
+        397.54,
+        269.28
+      ],
+      "text": "Directie bedrijfsonderdeel, gedelegeerd aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        123.7,
+        261.88,
+        169.84,
+        270.19
+      ],
+      "text": "Zeer klein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.84,
+        271.36,
+        404.72,
+        278.97
+      ],
+      "text": "domeinhouder/verantwoordelijk management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.84,
+        282.43,
+        397.54,
+        290.04
+      ],
+      "text": "Directie bedrijfsonderdeel, gedelegeerd aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        123.7,
+        282.64,
+        146.96,
+        290.94
+      ],
+      "text": "Klein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.84,
+        292.8,
+        325.46,
+        300.41
+      ],
+      "text": "Directie bedrijfsonderdeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        123.7,
+        293.01,
+        172.5,
+        301.32
+      ],
+      "text": "Gemiddeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.84,
+        303.18,
+        403.92,
+        310.79
+      ],
+      "text": "Directie bedrijfsonderdeel en mogelijk Raad",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        123.7,
+        303.39,
+        202.37,
+        311.69
+      ],
+      "text": "Groot/zeer groot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        222.84,
+        312.87,
+        270.47,
+        320.48
+      ],
+      "text": "van Bestuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        74.03,
+        515.82,
+        85.07
+      ],
+      "text": "Bijlage II: Hulpmiddel bij het uitvoeren van een GEB voor verwerkingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        89.5,
+        442.95,
+        100.54
+      ],
+      "text": "met complexe data-analyses, algoritmen, (klant)profilering,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        104.86,
+        404.6,
+        115.9
+      ],
+      "text": "risicomodellen, geautomatiseerde besluitvorming e.d.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        138.21,
+        285.16,
+        147.21
+      ],
+      "text": "Wanneer kan je deze bijsluiter gebruiken?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        163.41,
+        494.21,
+        172.41
+      ],
+      "text": "Deze bijsluiter is bedoeld om te helpen bij het uitvoeren van een GEB voor voorgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        488.87,
+        173.68,
+        517.55,
+        179.68
+      ],
+      "text": "artikel 5 lid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        266.77,
+        174.98,
+        342.31,
+        184.89
+      ],
+      "text": "data-analyses1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        175.89,
+        486.81,
+        184.89
+      ],
+      "text": "verwerkingen die bestaan uit (complexe) (bijv. op basis van gegevens in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        488.87,
+        180.88,
+        508.55,
+        186.88
+      ],
+      "text": "2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        69.8,
+        186.28,
+        119.83,
+        192.28
+      ],
+      "text": "artikel 5 lid 2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        488.87,
+        188.08,
+        501.21,
+        194.08
+      ],
+      "text": "Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        121.56,
+        188.49,
+        515.59,
+        197.49
+      ],
+      "text": "of een andere analyseomgeving) en toepassing van algoritmen. Het kan daarbij gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        69.8,
+        193.48,
+        82.14,
+        199.48
+      ],
+      "text": "Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        201.09,
+        484.3,
+        210.09
+      ],
+      "text": "om verwerkingen die tot doel hebben klanten te profileren (indelen in groepen) door het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.81,
+        213.69,
+        498.95,
+        222.69
+      ],
+      "text": "ontwikkelen van klantprofielen, klantsegmenten, risicomodellen e.d. Deze toelichting is verder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.81,
+        226.29,
+        464.35,
+        235.29
+      ],
+      "text": "handig wanneer de verwerking is gericht op geautomatiseerde besluitvorming met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.81,
+        238.77,
+        386.24,
+        247.77
+      ],
+      "text": "rechtsgevolgen of andere aanmerkelijke gevolgen voor de betrokken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        263.97,
+        193.96,
+        272.97
+      ],
+      "text": "Waarom deze bijsluiter?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        289.17,
+        521.36,
+        298.17
+      ],
+      "text": "De hierboven genoemde verwerkingen zijn verwerkingen met een hoog risico voor de privacy van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        301.77,
+        512.46,
+        310.77
+      ],
+      "text": "de betrokkenen. Het gaat om verwerkingen waarbij vaak zeer veel persoonsgegevens worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        314.25,
+        481.3,
+        323.25
+      ],
+      "text": "gecombineerd. Ook kunnen dergelijke verwerkingen soms aanzienlijke gevolgen voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        326.85,
+        516.35,
+        335.85
+      ],
+      "text": "betrokkene hebben. Daarom is het van belang om voor deze verwerkingen een goede GEB uit te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        339.45,
+        522.62,
+        348.45
+      ],
+      "text": "voeren. Om te helpen de GEB zo volledig mogelijk in te vullen, heeft Bureau Gegevensbescherming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        352.05,
+        253.27,
+        361.05
+      ],
+      "text": "deze bijsluiter als hulpmiddel opgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        377.13,
+        225.66,
+        386.13
+      ],
+      "text": "Hoe gebruik je deze bijsluiter?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        402.33,
+        469.55,
+        411.33
+      ],
+      "text": "Hieronder wordt voor de onderdelen 3 (beschrijving van de verwerking), 4 (beoordeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        414.93,
+        513.57,
+        423.93
+      ],
+      "text": "rechtmatigheid verwerking) en 5 (risico’s en maatregelen) van het GEB-sjabloon toegelicht welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        427.53,
+        524.2,
+        436.53
+      ],
+      "text": "informatie in het GEB-rapport voor dergelijke verwerkingen moet worden opgenomen. Hoe ga je nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        440.13,
+        109.67,
+        449.13
+      ],
+      "text": "te werk?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        465.21,
+        305.92,
+        474.22
+      ],
+      "text": "Stap 1: Download een leeg GEB-sjabloon van DWU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        477.81,
+        267.79,
+        486.81
+      ],
+      "text": "Stap 2: Vul het voorblad en onderdeel 2 in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        490.41,
+        522.88,
+        499.41
+      ],
+      "text": "Stap 3: Pak deze bijsluiter erbij en lees welke informatie in ieder geval bij de vragen in hoofdstuk 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        503.01,
+        517.72,
+        512.01
+      ],
+      "text": "en 4 moet worden opgenomen. Aanbevolen wordt om zeker bij hoofdstuk 4 de expertise van JZ te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        515.61,
+        119.56,
+        524.61
+      ],
+      "text": "betrekken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        528.09,
+        514.94,
+        537.09
+      ],
+      "text": "Stap 5: Vul de risico-maatregelenmatrix (hoofdstuk 5) in en neem, indien van toepassing, daarbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        540.69,
+        317.84,
+        549.69
+      ],
+      "text": "de risico’s die in deze bijsluiter worden genoemd mee.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        553.29,
+        515.61,
+        562.29
+      ],
+      "text": "Stap 6: Vul hoofdstuk 6 in en lever de GEB in bij je BSO. Deze beoordeelt de kwaliteit, vult zijn of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        565.89,
+        271.24,
+        574.89
+      ],
+      "text": "haar advies in en stuurt de GEB naar de FG.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        590.97,
+        432.98,
+        599.97
+      ],
+      "text": "Bestaat de verwerking uit verschillende fasen? Beschrijf dan alle fasen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        616.17,
+        515.15,
+        625.17
+      ],
+      "text": "Sommige verwerkingen waarvoor deze bijsluiter is bedoeld, bestaan uit verschillende fasen. Denk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        628.77,
+        485.72,
+        637.77
+      ],
+      "text": "bijvoorbeeld aan project of pilot waarbij eerst een grote hoeveelheid historische data wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        641.37,
+        518.83,
+        650.37
+      ],
+      "text": "geanalyseerd met als doel bepaalde verbanden te ontdekken en daarmee een model (beslisregels)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        653.97,
+        516.38,
+        662.97
+      ],
+      "text": "of een klantprofiel te ontwikkelen. Vervolgens wordt het ontwikkelde model in het primaire proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        666.46,
+        474.82,
+        675.46
+      ],
+      "text": "van UWV ingezet. Daarna kan weer sprake zijn van een fase waarin de gegevens die zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        679.06,
+        496.84,
+        688.06
+      ],
+      "text": "verzameld bij de toepassing van het model worden gebruikt om de juistheid van het model te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        691.66,
+        311.83,
+        700.66
+      ],
+      "text": "verifiëren en/of om het model verder te ontwikkelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        716.86,
+        515.32,
+        725.86
+      ],
+      "text": "Bestaat de verwerking uit verschillende fasen, beschrijf dan in de GEB al die fasen en beantwoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        729.46,
+        189.05,
+        738.46
+      ],
+      "text": "de vragen voor alle fasen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.8,
+        762.02,
+        74.62,
+        768.02
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        77.76,
+        763.6,
+        502.71,
+        771.64
+      ],
+      "text": "Denk hierbij aan data-analyses waarbij meer dan 6 categorieën van persoonsgegevens worden verwerkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        86.25,
+        132.13,
+        95.25
+      ],
+      "text": "Nog een tip.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        111.45,
+        508.67,
+        120.45
+      ],
+      "text": "Lees paragraaf 5.8 van het UWV Beleidskader Privacy voor meer informatie over de eisen die de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.81,
+        124.05,
+        241.13,
+        133.05
+      ],
+      "text": "AVG stelt aan dit soort verwerkingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        161.51,
+        237.3,
+        172.55
+      ],
+      "text": "GEB-rapport en algoritmen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        179.49,
+        516.98,
+        188.49
+      ],
+      "text": "Hieronder volgt voor een aantal onderdelen van het GEB-rapport specifieke aandachtspunten voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.81,
+        192.09,
+        516.7,
+        201.09
+      ],
+      "text": "verwerkingen met algoritmen. Neem deze aandachtspunten mee in het GEB-traject en verwerk ze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.81,
+        204.69,
+        159.53,
+        213.69
+      ],
+      "text": "in het GEB-rapport.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        230.18,
+        464.91,
+        240.14
+      ],
+      "text": "Hoofdstuk 3 Beschrijving van de (voorgenomen) gegevensverwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        256.41,
+        311.55,
+        265.41
+      ],
+      "text": "3.1 Wat is de aanleiding van de verwerking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        269.01,
+        506.03,
+        278.01
+      ],
+      "text": "Geef aan waarom wordt gekozen voor een toepassing van algoritmen, klantprofilering e.d. Geef",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        281.61,
+        524.02,
+        290.61
+      ],
+      "text": "hier ook aan wie het besluit heeft genomen om het project te starten. Geef ook aan of dit project al",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        294.21,
+        520.07,
+        303.21
+      ],
+      "text": "besproken is in de Adviescommissie data-gestuurd werken. Zo ja, geef aan wat het oordeel van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        306.69,
+        131.8,
+        315.69
+      ],
+      "text": "commissie is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        344.49,
+        460.79,
+        353.49
+      ],
+      "text": "3.3 Verwerkte categorieën van personen en verwerkte persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        357.09,
+        381.01,
+        366.09
+      ],
+      "text": "Neem in de Excel-bijlage bij het rapport zo nauwkeurig mogelijk op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.8,
+        369.56,
+        504.52,
+        378.57
+      ],
+      "text": "a. van welke personen gegevens worden gebruikt voor de analyse of ontwikkeling van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        322.2,
+        379.96,
+        343.2,
+        385.96
+      ],
+      "text": "artikel 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        382.17,
+        452.47,
+        391.17
+      ],
+      "text": "model (bijv. welke selectie van personen die in staan is gemaakt); en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        322.2,
+        387.16,
+        344.54,
+        393.16
+      ],
+      "text": "lid 2 sub",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        322.2,
+        394.36,
+        339.54,
+        400.36
+      ],
+      "text": "d Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.8,
+        394.77,
+        466.71,
+        403.77
+      ],
+      "text": "b. Een zo volledig mogelijke opsomming van de persoonsgegevens (denk ook aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        407.37,
+        519.73,
+        416.37
+      ],
+      "text": "(gedrags)kenmerken of andere variabelen die worden meegenomen bij de analyse). Als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        419.97,
+        521.11,
+        428.97
+      ],
+      "text": "verwerking uit verschillende fasen bestaat, geef dan duidelijk aan welke persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        432.57,
+        335.83,
+        441.57
+      ],
+      "text": "in welke fase van de verwerking worden verwerkt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.8,
+        445.05,
+        515.26,
+        454.05
+      ],
+      "text": "c. Geef het doel waarvoor zij oorspronkelijk zijn verkregen. Dit laatste is van belang voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        457.65,
+        510.01,
+        466.65
+      ],
+      "text": "beantwoording van de vraag of het gebruik van deze gegevens voor de ontwikkeling van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        470.25,
+        477.83,
+        479.25
+      ],
+      "text": "het model verenigbaar is met het oorspronkelijke doel waarvoor de gegevens zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.8,
+        482.85,
+        226.25,
+        491.85
+      ],
+      "text": "verkregen (zie vraag 4.5).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        495.45,
+        468.51,
+        504.45
+      ],
+      "text": "Beschrijf in het rapport op welke personen het model uiteindelijk zal worden toegepast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.8,
+        533.13,
+        226.85,
+        542.13
+      ],
+      "text": "3.4 Beschrijf de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        545.73,
+        499.68,
+        554.73
+      ],
+      "text": "Beschrijf hier de verschillende fasen van de verwerking (het verzamelen van de gegevens, het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        558.33,
+        490.76,
+        567.33
+      ],
+      "text": "analyseren daarvan, het testen van een model, het toepassen van het model in het primaire",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        570.93,
+        416.71,
+        579.93
+      ],
+      "text": "proces, controleren van de betrouwbaarheid (valideren) van het model etc).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        596.02,
+        495.96,
+        605.02
+      ],
+      "text": "Maak bij de beschrijving van de verwerking een onderscheid tussen de verschillende fasen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        608.62,
+        492.05,
+        617.62
+      ],
+      "text": "beschrijf per fase wat de verwerking inhoudt. Indien gebruik wordt gemaakt van algoritmen,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        621.22,
+        487.18,
+        630.22
+      ],
+      "text": "beschrijf dan in begrijpelijke taal hoe het algoritme werkt en hoe het model wordt getraind.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        633.82,
+        484.34,
+        642.82
+      ],
+      "text": "Beschrijf ook hoe het model wordt getest en of daarbij gebruik wordt gemaakt van externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        646.42,
+        249.96,
+        655.42
+      ],
+      "text": "expertise (universiteit, IT auditors etc.)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        671.5,
+        523.42,
+        680.5
+      ],
+      "text": "Beschrijf vervolgens hoe het model wordt gebruikt in het primaire proces (productie). Worden in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        684.1,
+        521.66,
+        693.1
+      ],
+      "text": "uitvoering naast de gevallen/dossiers die het model heeft opgeleverd ook willekeurig geselecteerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        696.7,
+        516.98,
+        705.7
+      ],
+      "text": "gevallen/dossiers meegenomen, bijv. om het model te toetsen, aan medewerkers aangeboden? Is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        709.3,
+        513.31,
+        718.3
+      ],
+      "text": "er sprake van een feedbackloop (wordt het model doorontwikkeld door nieuwe gegevens terug te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        721.78,
+        506.3,
+        730.78
+      ],
+      "text": "‘pompen’?) Welke rol speelt de uitkomst van het model in de besluitvorming? Wie beslist wat er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        734.38,
+        484.43,
+        743.38
+      ],
+      "text": "met de uitkomst van het model wordt gedaan? Welke andere factoren spelen een rol bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.79,
+        746.98,
+        418.43,
+        755.98
+      ],
+      "text": "uiteindelijke besluitvorming? Welke gevolgen heeft het model voor de klant?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        73.65,
+        440.3,
+        82.65
+      ],
+      "text": "3.8 Wordt er gebruik gemaakt van geautomatiseerde besluitvorming?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.79,
+        86.25,
+        521.5,
+        95.25
+      ],
+      "text": "Het gaat hier om de vraag of de verwerking is gericht op volledig geautomatiseerde besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.79,
+        98.85,
+        487.17,
+        107.85
+      ],
+      "text": "met rechtsgevolgen voor de betrokkene of volledig geautomatiseerde besluitvorming die de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        111.45,
+        495.07,
+        120.45
+      ],
+      "text": "betrokkene anderszins in aanmerkelijke mate treft. Voorbeeld hiervan is de straight-through-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        124.05,
+        502.43,
+        133.05
+      ],
+      "text": "processing bij de aanvraag van een WW-uitkering. Het systeem stelt automatisch het recht, de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        136.65,
+        501.58,
+        145.65
+      ],
+      "text": "hoogte en de duur van de WW-uitkering vast. Dit is een beslissing met rechtsgevolgen voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        149.13,
+        96.52,
+        158.13
+      ],
+      "text": "klant.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        161.73,
+        359.94,
+        170.73
+      ],
+      "text": "Beantwoord in dit onderdeel in ieder geval de volgende vragen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.8,
+        173.5,
+        95.95,
+        182.5
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.8,
+        174.33,
+        447.08,
+        183.33
+      ],
+      "text": "Wordt er een algoritme gebruikt bij het verwerken van persoonsgegevens?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.8,
+        186.1,
+        95.95,
+        195.1
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.8,
+        186.93,
+        394.72,
+        195.93
+      ],
+      "text": "Wordt er (deels) een beslissing gebaseerd op deze verwerking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.8,
+        198.7,
+        95.95,
+        207.7
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.8,
+        199.53,
+        517.98,
+        208.53
+      ],
+      "text": "Is er sprake van een volledige geautomatiseerde beslissing? Oftewel een beslissing zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.8,
+        212.01,
+        337.74,
+        221.01
+      ],
+      "text": "betekenisvolle tussenkomst door een medewerker.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        224.61,
+        513.01,
+        233.61
+      ],
+      "text": "Is de beslissing een besluit met rechtsgevolgen, bijvoorbeeld een besluit in de zin van de Awb, of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        237.21,
+        386.19,
+        246.21
+      ],
+      "text": "treft de beslissing de betrokkenen anderszins in aanmerkelijke mate?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        249.81,
+        488.02,
+        258.81
+      ],
+      "text": "Als in het proces gebruik wordt gemaakt van volledig geautomatiseerde besluitvorming met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        262.41,
+        482.18,
+        271.41
+      ],
+      "text": "rechtsgevolgen of andere aanmerkelijke gevolgen voor de betrokkene, beschrijf dan welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        275.01,
+        523.23,
+        284.01
+      ],
+      "text": "uitzonderingsgrond deze verwerking toestaat, welke logica (business rules) er wordt gebruikt bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        287.5,
+        501.43,
+        296.5
+      ],
+      "text": "geautomatiseerde besluitvorming en uit welke regelgeving de criteria afkomstig zijn. Dit is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        300.1,
+        516.08,
+        309.1
+      ],
+      "text": "belang omdat UWV dit ook aan de betrokkene moet kunnen uitleggen (zie ook sectie 4.7) en zelfs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        312.7,
+        293.1,
+        321.7
+      ],
+      "text": "(verkort) in de privacyverklaring moet opnemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        337.9,
+        326.67,
+        346.9
+      ],
+      "text": "3.9 Wordt er gebruikt gemaakt van profilering?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        350.38,
+        508.89,
+        359.38
+      ],
+      "text": "Het gaat hier om de vraag of de verwerking tot doel heeft personen (bijv. klanten) in te delen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        362.98,
+        504.92,
+        371.98
+      ],
+      "text": "bepaalde groepen (klantsegmenten of -profielen), bijvoorbeeld door toepassing van een model.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        375.58,
+        499.25,
+        384.58
+      ],
+      "text": "Denk bijvoorbeeld aan een model dat klanten indeelt in groepen die een hoog of laag risico op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        388.18,
+        140.69,
+        397.18
+      ],
+      "text": "fraude vormen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        400.78,
+        359.95,
+        409.78
+      ],
+      "text": "Beantwoord in dit onderdeel in ieder geval de volgende vragen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.81,
+        412.55,
+        95.95,
+        421.55
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.81,
+        413.38,
+        427.84,
+        422.38
+      ],
+      "text": "Worden betrokkenen geautomatiseerd ingedeeld in bepaalde groepen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.81,
+        425.03,
+        95.95,
+        434.03
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.81,
+        425.86,
+        460.97,
+        434.86
+      ],
+      "text": "Worden generieke kenmerken gebruikt voor het indelen in bepaalde groepen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.81,
+        437.63,
+        95.95,
+        446.63
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.81,
+        438.46,
+        518.78,
+        447.46
+      ],
+      "text": "Worden bepaalde gevolgen getrokken uit het feit dat de betrokkene in een bepaalde groep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.81,
+        451.06,
+        520.25,
+        460.06
+      ],
+      "text": "is ingedeeld? Bijv. voorspelt het model dat een betrokkene uit een bepaalde groep bepaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.81,
+        463.66,
+        202.45,
+        472.66
+      ],
+      "text": "gedrag zal vertonen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        488.86,
+        499.11,
+        497.86
+      ],
+      "text": "Als in het proces gebruik wordt gemaakt van profilering, beschrijf dan hier de werking van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        501.35,
+        512.32,
+        510.35
+      ],
+      "text": "model, de verschillende groepen (klantsegmenten) die in het model worden onderscheiden en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        513.95,
+        475.57,
+        522.95
+      ],
+      "text": "basis van welke kenmerken een betrokkene in een bepaalde groep (klantsegment) wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        526.55,
+        117.77,
+        535.55
+      ],
+      "text": "ingedeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        551.75,
+        485.5,
+        560.75
+      ],
+      "text": "Beschrijf voorts wat er met de uitkomst van het model wordt gedaan. Indien gebruik wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        564.23,
+        500.45,
+        573.23
+      ],
+      "text": "gemaakt van profilering moet er altijd sprake zijn van ‘betekenisvolle menselijke tussenkomst’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        576.83,
+        523.82,
+        585.83
+      ],
+      "text": "voordat op basis van de uitkomst van het model een beslissing wordt genomen met rechtsgevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        589.43,
+        504.06,
+        598.43
+      ],
+      "text": "voor de betrokkene of een beslissing die de betrokkene anderszins in aanmerkelijke mate treft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        602.03,
+        493.72,
+        611.03
+      ],
+      "text": "Beschrijf hier in ieder geval wie uiteindelijk de beslissing neemt en welke andere factoren die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        614.63,
+        398.85,
+        623.63
+      ],
+      "text": "medewerker daarbij betrekt om tot de uiteindelijke beslissing te komen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.81,
+        639.71,
+        365.18,
+        648.71
+      ],
+      "text": "Beschrijf ook welke rol de profilering in het gehele proces speelt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        666.62,
+        385.24,
+        676.58
+      ],
+      "text": "Hoofstuk 4 Rechtmatigheid van de gegevensverwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        694.29,
+        354.14,
+        703.29
+      ],
+      "text": "4.3 Worden bijzondere persoonsgegevens verwerkt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        706.77,
+        469.21,
+        715.77
+      ],
+      "text": "Geef hier aan of bij de verwerking bijzondere persoonsgegevens worden gebruikt, zoals",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.79,
+        719.37,
+        510.95,
+        728.37
+      ],
+      "text": "gezondheidsgegevens. Als dat het geval is, geef dan aan op grond van welke uitzonderingsgrond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.79,
+        731.97,
+        520.65,
+        740.97
+      ],
+      "text": "(zie UWV Beleidskader Privacy en de UAVG) UWV bevoegd is deze bijzondere persoonsgegevens te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.79,
+        744.57,
+        504.38,
+        753.57
+      ],
+      "text": "gebruiken voor de ontwikkeling van het model. Motiveer waarom deze uitzonderinggrond op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.8,
+        757.17,
+        205.85,
+        766.17
+      ],
+      "text": "verwerking van toepassing is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        86.25,
+        425.31,
+        95.25
+      ],
+      "text": "4.4 Worden persoonsgegevens van strafrechtelijke aard verwerkt?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        98.85,
+        504.81,
+        107.85
+      ],
+      "text": "Geeft hier aan of bij de ontwikkeling van het model persoonsgegevens van strafrechtelijke aard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        111.45,
+        286.68,
+        120.45
+      ],
+      "text": "worden gebruikt, zoals gegevens over detentie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        124.05,
+        510.87,
+        133.05
+      ],
+      "text": "Als dat het geval is, geef dan aan op grond van welke uitzonderingsgrond (zie UWV Beleidskader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        136.65,
+        478.78,
+        145.65
+      ],
+      "text": "Privacy en de UAVG) UWV bevoegd is deze persoonsgegevens van strafrechtelijke aard te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        149.13,
+        504.39,
+        158.13
+      ],
+      "text": "gebruiken voor de ontwikkeling van het model. Motiveer waarom deze uitzonderinggrond op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        161.73,
+        205.84,
+        170.73
+      ],
+      "text": "verwerking van toepassing is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        186.93,
+        508.39,
+        195.93
+      ],
+      "text": "4.5 Doelbinding: worden de persoonsgegevens verwerkt voor het doel waarvoor ze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        199.53,
+        267.41,
+        208.53
+      ],
+      "text": "zijn verzameld of voor een ander doel?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        212.0,
+        508.21,
+        221.0
+      ],
+      "text": "Beschrijf hier of de persoonsgegevens die in paraaf. 3.3 zijn geïdentificeerd, zijn verkregen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        224.6,
+        484.22,
+        233.61
+      ],
+      "text": "een doel dat verenigbaar is met het doel waarvoor de analyse wordt uitgevoerd of het doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        237.21,
+        515.88,
+        246.21
+      ],
+      "text": "waarvoor het model wordt ontwikkeld. Let op: dit kan per persoonsgegeven verschillen aangezien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        277.68,
+        247.6,
+        306.35,
+        253.6
+      ],
+      "text": "artikel 5 lid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        249.81,
+        523.22,
+        258.81
+      ],
+      "text": "in de analyseomgevingen (in het bijzonder in zich persoonsgegevens bevinden die voor zeer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        277.68,
+        254.8,
+        297.36,
+        260.8
+      ],
+      "text": "2 sub d",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        277.68,
+        262.0,
+        290.01,
+        268.0
+      ],
+      "text": "Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.81,
+        262.41,
+        258.07,
+        271.41
+      ],
+      "text": "uiteenlopende doeleinden zijn verkregen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        287.49,
+        307.48,
+        296.49
+      ],
+      "text": "4.6 Wat is de noodzaak van de verwerking?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        300.09,
+        518.76,
+        309.09
+      ],
+      "text": "Dit een belangrijk onderdeel van de GEB dus besteed hier aandacht aan. Geef voor het geheel van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.79,
+        312.69,
+        513.28,
+        321.69
+      ],
+      "text": "de verwerking, maar ook per fase of processtap een goede motivering waarom deze noodzakelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        325.29,
+        511.84,
+        334.29
+      ],
+      "text": "is. Motiveer dit goed. Een enkele opmerking dat de verwerking noodzakelijk is voor de uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        337.89,
+        477.63,
+        346.89
+      ],
+      "text": "van de wettelijke taak volstaat niet. Geef bijvoorbeeld duidelijk aan wat er gebeurt als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        350.37,
+        507.99,
+        359.37
+      ],
+      "text": "verwerking (en de verschillende stappen die daarbinnen worden gevolgd) niet kan plaatsvinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        375.57,
+        360.21,
+        384.57
+      ],
+      "text": "4.7 Transparantie van de verwerking voor betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        388.17,
+        514.01,
+        397.17
+      ],
+      "text": "Vul zoals gebruikelijk in en vul aan met de beschrijving (of in een bijlage) in begrijpelijke taal (de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        400.77,
+        482.48,
+        409.77
+      ],
+      "text": "klant moet het ook kunnen begrijpen) hoe de logica van het algoritme werkt (hoe komt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        413.37,
+        519.07,
+        422.37
+      ],
+      "text": "uitkomst van het model of het besluit tot stand). Beschrijf voorts de gevolgen van de profilering of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        425.86,
+        364.99,
+        434.86
+      ],
+      "text": "geautomatiseerde besluitvorming voor de klant beschikbaar zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        451.06,
+        229.3,
+        460.06
+      ],
+      "text": "4.8 Rechten van betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        463.66,
+        455.1,
+        472.66
+      ],
+      "text": "Betrokkenen hebben recht op inzage en correctie van hun persoonsgegevens. Onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        476.26,
+        506.05,
+        485.26
+      ],
+      "text": "omstandigheden hebben ze ook recht op vernietiging van hun gegevens (denk bijvoorbeeld aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        488.86,
+        511.29,
+        497.86
+      ],
+      "text": "gegevens die via websitebezoek zijn verzameld met toestemming van de betrokkene) en kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        501.34,
+        341.0,
+        510.34
+      ],
+      "text": "ze bezwaar maken tegen de verwerking van hun gegevens.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        526.54,
+        513.36,
+        535.54
+      ],
+      "text": "Geef hier aan of aan dergelijke verzoeken gehoor kan worden gegeven. Indien bij de analyse ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        539.14,
+        495.64,
+        548.14
+      ],
+      "text": "gebruik wordt gemaakt van (klik)gegevens die zijn verzameld over het websitebezoek van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        551.74,
+        486.14,
+        560.74
+      ],
+      "text": "betrokken, geef dan aan of aan een verzoek tot vernietiging kan worden voldaan, indien de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        564.22,
+        239.57,
+        573.22
+      ],
+      "text": "betrokkene zijn toestemming intrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        589.7,
+        451.81,
+        599.66
+      ],
+      "text": "Hoofdstuk 5 Inventarisatie van risico’s en mitigerende maatregelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        614.61,
+        523.41,
+        623.61
+      ],
+      "text": "Als er sprake is van een verwerking waarin op basis van big data analyses worden verricht voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        627.21,
+        512.64,
+        636.21
+      ],
+      "text": "opstellen van modellen of klantprofielen, zal in ieder geval aandacht moeten worden besteed aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        639.69,
+        163.94,
+        648.69
+      ],
+      "text": "de volgende risico’s:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        664.06,
+        77.95,
+        673.06
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        664.89,
+        522.79,
+        673.89
+      ],
+      "text": "Betrokkene zijn niet op de hoogte van het feit dat hun persoonsgegevens worden gebruikt voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        677.49,
+        166.45,
+        686.49
+      ],
+      "text": "deze verwerking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        689.26,
+        77.95,
+        698.26
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        690.09,
+        513.39,
+        699.09
+      ],
+      "text": "Er worden bijzondere persoonsgegevens of gegevens van strafrechtelijke aard gebruikt bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        702.69,
+        142.24,
+        711.69
+      ],
+      "text": "verwerking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        714.34,
+        77.95,
+        723.34
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        715.17,
+        274.32,
+        724.17
+      ],
+      "text": "De gebruikte data is niet actueel of juist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        726.94,
+        77.95,
+        735.94
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        727.77,
+        288.42,
+        736.77
+      ],
+      "text": "De bewaartermijnen worden niet nageleefd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.8,
+        739.54,
+        77.95,
+        748.54
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        88.8,
+        740.37,
+        282.9,
+        749.37
+      ],
+      "text": "De data zijn niet of onvoldoende beveiligd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        72.82,
+        77.95,
+        81.82
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.8,
+        73.65,
+        519.18,
+        82.65
+      ],
+      "text": "Een externe partij/leverancier/cloud provider is betrokken bij de uitvoering van de analyses en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.8,
+        86.25,
+        293.24,
+        95.25
+      ],
+      "text": "gebruikt de gegevens voor eigen doeleinden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        98.02,
+        77.95,
+        107.02
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.8,
+        98.85,
+        519.18,
+        107.85
+      ],
+      "text": "Een externe partij/leverancier/cloud provider is betrokken bij de uitvoering van de analyses en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.8,
+        111.45,
+        272.37,
+        120.45
+      ],
+      "text": "deze beveiligt de gegevens onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        123.22,
+        77.95,
+        132.22
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.8,
+        124.05,
+        242.1,
+        133.05
+      ],
+      "text": "UWV kan de logica niet uitleggen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        135.82,
+        77.95,
+        144.82
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        88.8,
+        136.65,
+        347.71,
+        145.65
+      ],
+      "text": "Het model heeft een (verborgen) discriminatoir karakter.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        161.73,
+        511.88,
+        170.73
+      ],
+      "text": "Dit laatste punt van een (verborgen) discriminatoir karakter van het model is een heel belangrijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        174.33,
+        524.51,
+        183.33
+      ],
+      "text": "risico waarop zal moeten worden ingegaan in de GEB en waarbij uitleg moet worden gegeven welke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        186.93,
+        524.52,
+        195.93
+      ],
+      "text": "maatregelen zijn getroffen om dit risico te mitigeren. Denk hierbij bijvoorbeeld aan externe partijen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.8,
+        199.53,
+        218.57,
+        208.53
+      ],
+      "text": "die het model testen en toetsen.",
+      "source": "text"
+    }
+  ]
+}

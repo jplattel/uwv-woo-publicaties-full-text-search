@@ -1,0 +1,1085 @@
+{
+  "source_id": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden/2026-05-01-3-inkomsten-vrijwillig-verzekerde",
+  "publication_slug": "2026-05-01-woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_slug": "2026-05-01-3-inkomsten-vrijwillig-verzekerde",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-korting-inkomen-vrijwillig-verzekerden",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/c5de44ea-5cbc-464f-9b9e-ed169fece89e/3-inkomsten-vrijwillig-verzekerde.pdf",
+  "publication_title": "Woo-besluit over korting inkomen vrijwillig verzekerden",
+  "publication_date": "2026-05-01T06:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 3. Inkomsten vrijwillig verzekerde (PDF, 177 kB)",
+  "retrieved_at": "2026-06-30T11:24:27+00:00",
+  "sha256": "df985ec658fef4cfda662ea3a425f0fb41e3a27ef22036466ce03f2f1198a12b",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        731.9,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UC » Afhandelen inkomstenkorting » Verwerken inkomsten » Berekenen inkomsten per dag » Inkomsten vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        288.0,
+        316.73,
+        313.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        342.0,
+        356.26,
+        363.0
+      ],
+      "text": "Inkomsten vrijwillig verzekerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.18,
+        390.0,
+        754.81,
+        401.25
+      ],
+      "text": "Completeren inkomstengegevens Bepalen duur korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        392.43,
+        768.74,
+        403.68
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        410.25,
+        213.74,
+        421.5
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        450.0,
+        553.68,
+        461.25
+      ],
+      "text": "Wie Uitkeringsconsulent (UC)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        470.25,
+        532.38,
+        481.5
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        490.5,
+        764.73,
+        501.75
+      ],
+      "text": "Samenvatting Je bepaalt of je de inkomsten moet korten op de ZW-uitkering (niet-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.37,
+        510.0,
+        715.35,
+        521.25
+      ],
+      "text": "WWZ). Als dat zo is, bereken je het bedrag van de korting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        530.25,
+        100.28,
+        541.5
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        550.5,
+        482.97,
+        561.75
+      ],
+      "text": "Intern ZW-proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        570.75,
+        208.09,
+        582.0
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        591.0,
+        140.98,
+        602.25
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        611.25,
+        136.43,
+        622.5
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        631.5,
+        106.31,
+        642.75
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        31.5,
+        740.69,
+        42.75
+      ],
+      "text": "Je hebt bepaald dat de cliënt vrijwillig verzekerd is. Met de werkinstructie Completeren inkomstengegevens heb je gecontroleerd of de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        51.0,
+        488.77,
+        62.25
+      ],
+      "text": "benodigde gegevens aanwezig zijn en zo nodig ontbrekende gegevens opgevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        81.75,
+        333.43,
+        102.75
+      ],
+      "text": "Berekenen korting uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        117.75,
+        741.99,
+        129.0
+      ],
+      "text": "Als een vrijwilligverzekerde tijdens de ZW-uitkering (gedeeltelijk) de werkzaamheden in het eigen bedrijf hervat, kun je niet meteen een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        137.25,
+        768.36,
+        148.5
+      ],
+      "text": "definitieve korting berekenen. De definitieve korting wordt namelijk bepaald na sluiting van het boekjaar omdat de definitieve inkomsten niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        156.75,
+        751.97,
+        168.0
+      ],
+      "text": "eerder bekend zijn. Daarom bereken je bij bericht van inkomsten bij een vrijwilligverzekerde altijd eerst een voorlopige korting. Nadat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        176.25,
+        739.65,
+        187.5
+      ],
+      "text": "boekjaar waarin de vrijwilligverzekerde inkomsten heeft ontvangen is afgesloten, bereken je de definitieve korting. Zie hiervoor ook de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        195.75,
+        389.08,
+        207.0
+      ],
+      "text": "wetsuitleg Samenloop: Korting bijzondere inkomenselementen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        226.5,
+        377.76,
+        237.75
+      ],
+      "text": "Je bepaalt welke korting je wil berekenen en gaat verder met:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        253.5,
+        82.57,
+        271.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        257.25,
+        235.08,
+        268.5
+      ],
+      "text": "Berekenen voorlopige korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        273.0,
+        82.57,
+        291.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        276.75,
+        233.73,
+        288.0
+      ],
+      "text": "Berekenen definitieve korting",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        308.25,
+        320.57,
+        327.0
+      ],
+      "text": "Berekenen voorlopige korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        341.25,
+        466.73,
+        352.5
+      ],
+      "text": "Je hebt een melding van werkhervatting van de vrijwilligverzekerde ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        360.75,
+        738.61,
+        372.0
+      ],
+      "text": "Voor het berekenen van een voorlopige korting heb je de geschatte inkomsten nodig. Die heb je opgevraagd volgens de werkinstructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        380.25,
+        249.12,
+        391.5
+      ],
+      "text": "‘Completeren inkomstengegevens’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        411.0,
+        437.01,
+        422.25
+      ],
+      "text": "Na ontvangst van de gegevens bereken je de voorlopige korting als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        441.75,
+        373.71,
+        453.0
+      ],
+      "text": "Opgegeven bedrag aan geschatte/te verwachten extra winst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        461.25,
+        535.58,
+        472.5
+      ],
+      "text": "————————————————————————————————- = voorlopig kortingsbedrag per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        480.75,
+        93.22,
+        492.0
+      ],
+      "text": "261",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        511.5,
+        757.03,
+        522.75
+      ],
+      "text": "Je registreert het bsn van de cliënt in de Zelfstandige Applicatie UWV (ZAU). Je geeft hierbij aan over welke jaren je de definitieve aanslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        531.0,
+        730.9,
+        542.25
+      ],
+      "text": "wil ontvangen. ZAU vraagt maandelijks de gegevens op bij de Belastingdienst en ontvangt de definitieve aanslag zodra die bekend is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        550.5,
+        508.86,
+        561.75
+      ],
+      "text": "(meestal na 1 juli van het opvolgend jaar). Meer informatie lees je in het handboek ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        581.25,
+        757.87,
+        592.5
+      ],
+      "text": "Om de definitieve inkomsten te kunnen berekenen, registreer je een voorlopige korting in het scherm Beheren gedeeltelijke werkhervatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        600.75,
+        752.27,
+        612.0
+      ],
+      "text": "volgens de werkinstructie Registreren inkomsten in UZS. Hierdoor zet UZS signaal UZZ0625 Beoordeel de kortingsregel(s) met de status",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        620.25,
+        765.71,
+        631.5
+      ],
+      "text": "‘voorlopig’ bij zelfstandige arbeid in je werklijst op 20 juli van het jaar volgend op het huidige jaar om de voorlopige of definitieve aanslag op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        639.75,
+        156.43,
+        651.0
+      ],
+      "text": "te halen uit ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        671.25,
+        319.05,
+        690.0
+      ],
+      "text": "Berekenen definitieve korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        704.25,
+        732.35,
+        715.5
+      ],
+      "text": "Signaal UZZ0625 Beoordeel de kortingsregel(s) met de status ‘voorlopig’ bij zelfstandige arbeid staat in je werklijst om de definitieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        723.75,
+        179.5,
+        735.0
+      ],
+      "text": "korting te berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        754.5,
+        719.71,
+        765.75
+      ],
+      "text": "Je berekent de definitieve inkomsten op basis van de voorlopige, definitieve of ambtshalve aanslag. Deze aanslag haal je op uit de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        774.0,
+        750.28,
+        785.25
+      ],
+      "text": "applicatie ZAU. Je hebt toestemming van de cliënt nodig om de ambtshalve aanslag te gebruiken. Je leest in de werkinstructie Invoeren,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        793.5,
+        416.9,
+        804.75
+      ],
+      "text": "controleren en afhandelen in ZAU hoe je hiervoor toestemming krijgt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        824.25,
+        751.44,
+        835.5
+      ],
+      "text": "Let op: Als je in ZAU een ‘lege’ aanslag ontvangt, dan betekent dit niet dat er geen inkomsten zijn. Bij een lege aanslag in ZAU vraag je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        843.75,
+        360.21,
+        855.0
+      ],
+      "text": "altijd schriftelijk de volgende gegevens op bij de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        874.5,
+        715.43,
+        885.75
+      ],
+      "text": "Je gebruikt de volgende gegevens uit de voorlopige, definitieve of ambtshalve aanslag om de definitieve inkomsten te berekenen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        901.5,
+        82.57,
+        919.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        905.25,
+        216.54,
+        916.5
+      ],
+      "text": "De winst uit onderneming",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        921.0,
+        82.57,
+        939.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        924.75,
+        200.85,
+        936.0
+      ],
+      "text": "De ondernemersaftrek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        940.5,
+        82.57,
+        958.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        944.25,
+        210.15,
+        955.5
+      ],
+      "text": "De MKB-winstvrijstelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        978.75,
+        288.78,
+        990.0
+      ],
+      "text": "Je berekent het inkomstenbedrag als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1009.5,
+        426.41,
+        1020.75
+      ],
+      "text": "(Bedrag belastbare winst + ondernemersaftrek + MKB winstvrijstelling)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1029.0,
+        546.09,
+        1040.25
+      ],
+      "text": "—————————————————————————————————————– = inkomstenbedrag per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1048.5,
+        93.22,
+        1059.75
+      ],
+      "text": "261",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1079.25,
+        658.96,
+        1090.5
+      ],
+      "text": "Hierna bereken je het definitieve kortingsbedrag volgens de werkinstructie Inkomstenverrekening vrijwilligverzekerde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1110.0,
+        748.24,
+        1121.25
+      ],
+      "text": "Let op: Als je na de berekening van de definitieve korting op 0 of een negatief bedrag uitkomt, beëindig je de voorlopige kortingsregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        1129.5,
+        490.24,
+        1140.75
+      ],
+      "text": "over het afgesloten jaar volgens de werkinstructie Registreren inkomsten in UZS.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        27.0,
+        435.72,
+        48.0
+      ],
+      "text": "Afhandelen opvraag gegevens via ZAU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        63.75,
+        754.9,
+        75.0
+      ],
+      "text": "Nadat je het definitieve dagloon hebt bepaald op basis van de gegevens in ZAU, handel je jouw opvraag van gegevens af in ZAU. Als je dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        83.25,
+        734.79,
+        94.5
+      ],
+      "text": "niet doet, komt de invoer in ZAU niet op ‘Afgehandeld’ te staan en blijft ZAU onterecht berichten versturen naar de Belastingdienst. Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        102.75,
+        467.15,
+        114.0
+      ],
+      "text": "gebruikt hiervoor de werkinstructie Invoeren, controleren en afhandelen in ZAU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        134.25,
+        108.55,
+        145.5
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        431.62,
+        150.75,
+        437.7,
+        168.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        154.5,
+        533.15,
+        165.75
+      ],
+      "text": "Intern Registratie in UZS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        431.62,
+        170.25,
+        437.7,
+        188.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        444.37,
+        174.0,
+        533.79,
+        185.25
+      ],
+      "text": "Registratie in ZAU",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        431.62,
+        189.75,
+        437.7,
+        207.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        444.37,
+        193.5,
+        534.66,
+        204.75
+      ],
+      "text": "Signaal ‘UZZ0625’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        431.62,
+        209.25,
+        437.7,
+        227.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        444.37,
+        213.0,
+        561.65,
+        224.25
+      ],
+      "text": "Kortingsbedrag per dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        233.25,
+        148.84,
+        244.5
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        253.5,
+        130.71,
+        264.75
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        285.0,
+        144.62,
+        296.25
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        305.25,
+        506.1,
+        316.5
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        429.37,
+        324.75,
+        517.73,
+        336.0
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        345.0,
+        276.08,
+        356.25
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        365.25,
+        762.11,
+        376.5
+      ],
+      "text": "Toelichting Wetsuitleg ZW Samenloop: Korting bijzondere inkomenselementen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        385.5,
+        144.12,
+        396.75
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.18,
+        405.75,
+        754.81,
+        417.0
+      ],
+      "text": "Completeren inkomstengegevens Bepalen duur korting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        408.18,
+        768.74,
+        419.43
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    }
+  ]
+}

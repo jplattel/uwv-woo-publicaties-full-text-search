@@ -1,0 +1,7337 @@
+{
+  "source_id": "2019-03-03-woo-besluit-bc-k-rapporten/2019-03-03-bijlage-19-mcp-2017-nov",
+  "publication_slug": "2019-03-03-woo-besluit-bc-k-rapporten",
+  "pdf_slug": "2019-03-03-bijlage-19-mcp-2017-nov",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2019/woo-besluit-bc-k-rapporten",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/3120ef2b-80ea-496e-9b8a-17ab8aa86806/bijlage-19-mcp-2017-nov.pdf",
+  "publication_title": "Woo-besluit BC&K Rapporten",
+  "publication_date": "2019-03-03T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 19 MCP 2017 november (PDF, 1 MB)",
+  "retrieved_at": "2026-06-30T14:20:13+00:00",
+  "sha256": "2bcd8a3fd2edb35cbb12814e5cf77f3606071141f102442cd363df8b44c20001",
+  "page_count": 22,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        159.26,
+        223.42,
+        390.91,
+        235.42
+      ],
+      "text": "Vakinhoudelijke kwaliteit productie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        223.61,
+        238.06,
+        326.48,
+        250.06
+      ],
+      "text": "november 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        207.65,
+        266.92,
+        360.52,
+        276.88
+      ],
+      "text": "1. Kerncijfers landelijk MCP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        238.61,
+        279.07,
+        329.46,
+        289.03
+      ],
+      "text": "2. Review BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        623.89,
+        228.72,
+        632.89
+      ],
+      "text": "Uitgever : Divisie SMZ, BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        634.81,
+        217.37,
+        643.81
+      ],
+      "text": "Auteurs : Auditoren BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        645.73,
+        217.17,
+        654.73
+      ],
+      "text": "Datum : 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        656.68,
+        162.58,
+        665.68
+      ],
+      "text": "Versie : 0.1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        72.98,
+        157.92,
+        82.94
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        120.8,
+        512.62,
+        129.8
+      ],
+      "text": "Hoofdstuk Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        143.6,
+        500.46,
+        152.6
+      ],
+      "text": "1 Inleiding 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        166.4,
+        500.46,
+        175.4
+      ],
+      "text": "2 Dekkingsgraad MCP landelijk 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        189.2,
+        500.46,
+        198.2
+      ],
+      "text": "3 Resultaten Landelijke MCP ZW-Arbo 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        223.4,
+        500.46,
+        232.4
+      ],
+      "text": "4 Resultaten Landelijke MCP RIV 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        246.2,
+        503.34,
+        255.2
+      ],
+      "text": "5 Resultaten Landelijke MCP EZWb/ (C)Wia(b) 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        291.83,
+        503.34,
+        300.83
+      ],
+      "text": "6 Resultaten Landelijke MCP Wajong 16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        326.03,
+        503.34,
+        335.03
+      ],
+      "text": "7 Review BC&K 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        348.83,
+        503.34,
+        357.83
+      ],
+      "text": "7.1 Bevindingen 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.58,
+        371.63,
+        503.34,
+        380.63
+      ],
+      "text": "7.2 Bespreking en conclusies 21",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        72.97,
+        162.53,
+        84.01
+      ],
+      "text": "1. Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        98.12,
+        518.29,
+        107.12
+      ],
+      "text": "Om de kwaliteit van de professionele gevalsbehandeling zo efficiënt en actueel mogelijk te toetsen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        110.72,
+        514.0,
+        119.72
+      ],
+      "text": "wordt een kort-cyclische toetssystematiek gehanteerd: het Minimum Controle Programma (MCP).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        123.32,
+        498.6,
+        132.32
+      ],
+      "text": "Via het MCP worden, op basis van een centraal getrokken steekproef, op de kantoren dossiers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        135.8,
+        514.68,
+        144.8
+      ],
+      "text": "getoetst die in de maand ervoor met een beslissing zijn afgesloten. Vervolgens wordt, als borging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        148.4,
+        519.55,
+        157.4
+      ],
+      "text": "van de kwaliteit en de betrouwbaarheid van het MCP, door de afdeling BC&K de maand volgend op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        161.12,
+        348.04,
+        170.12
+      ],
+      "text": "de MCP-toets een review op de dossiers uit het MCP verricht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        183.56,
+        522.65,
+        192.56
+      ],
+      "text": "Dit rapport geeft inzage in de resultaten van het MCP gemeten door de adviseurs VA/AD en Staf PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        196.28,
+        379.91,
+        205.28
+      ],
+      "text": "op de diverse kantoren en over de review die door BC&K is verricht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        218.84,
+        487.8,
+        227.84
+      ],
+      "text": "Dit rapport geeft een landelijk beeld en bestaat in principe uit twee onderdelen, te weten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        241.28,
+        340.69,
+        250.28
+      ],
+      "text": "- Resultaten vanuit de metingen op de kantoren zelf;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        254.0,
+        306.83,
+        263.0
+      ],
+      "text": "- Resultaat review door BC&K Vakinhoudelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        276.78,
+        317.64,
+        287.82
+      ],
+      "text": "1.A Opbouw en methodiek rapportage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        301.91,
+        523.96,
+        310.91
+      ],
+      "text": "In dit rapport zal nader worden ingegaan op de resultaten die enerzijds in de districten zijn geboekt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        314.63,
+        417.81,
+        323.63
+      ],
+      "text": "in KRS en anderzijds zijn geboekt naar aanleiding van de review door BC&K.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        337.19,
+        272.44,
+        346.19
+      ],
+      "text": "Dit rapport bevat de volgende onderwerpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        348.11,
+        237.58,
+        357.11
+      ],
+      "text": "- Dekkingsgraad MCP landelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        359.03,
+        269.62,
+        368.03
+      ],
+      "text": "- Resultaten Landelijke MCP ZW-Arbo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        369.95,
+        245.51,
+        378.95
+      ],
+      "text": "- Resultaten Landelijke MCP RIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        380.87,
+        307.96,
+        389.87
+      ],
+      "text": "- Resultaten Landelijke MCP EZWb/ (C)Wia(b)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        391.79,
+        263.56,
+        400.79
+      ],
+      "text": "- Resultaten Landelijke MCP Wajong",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        402.83,
+        170.54,
+        411.83
+      ],
+      "text": "- Review BC&K.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        424.67,
+        339.61,
+        433.67
+      ],
+      "text": "Bij elk onderwerp komen een aantal aspecten aan de orde:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        446.51,
+        262.38,
+        455.51
+      ],
+      "text": "1. Het handelen van de professional;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        457.43,
+        476.63,
+        466.43
+      ],
+      "text": "2. De plausibiliteit van de beoordeling (alleen van toepassing bij EZWB/ (C)Wia(b));",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        468.37,
+        310.52,
+        477.37
+      ],
+      "text": "3. Het integraal oordeel oftewel risico bepaling;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        479.41,
+        344.55,
+        488.41
+      ],
+      "text": "4. De rechtmatigheid productie maand november 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.82,
+        490.33,
+        491.08,
+        499.33
+      ],
+      "text": "5. De cumulatieve rechtmatigheid per district productie maand januari 2017 tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.82,
+        501.25,
+        178.42,
+        510.25
+      ],
+      "text": "november 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        523.09,
+        275.17,
+        532.09
+      ],
+      "text": "Deze zullen hieronder kort worden uitgelegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        545.05,
+        143.53,
+        554.05
+      ],
+      "text": "Ad 1. Handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        566.89,
+        506.48,
+        575.89
+      ],
+      "text": "Onder het handelen wordt verstaan dat de VA, AD en PB werken conform de voor hun discipline",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        577.81,
+        520.94,
+        586.81
+      ],
+      "text": "relevante professionele standaard, dus volgens alle relevante instructies, protocollen, standaarden,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        588.73,
+        508.11,
+        597.73
+      ],
+      "text": "werkwijzers, et cetera. Naast het werken conform deze afspraken speelt voor VA en AD nog een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        599.65,
+        522.76,
+        608.65
+      ],
+      "text": "ander, minstens zo belangrijk aspect mee bij een kwalitatief goede beoordeling: de inzichtelijkheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        610.57,
+        509.76,
+        619.57
+      ],
+      "text": "VA en AD moeten hun conclusies altijd beargumenteren en zodanig vastleggen dat de conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        621.61,
+        499.87,
+        630.61
+      ],
+      "text": "die zijn getrokken ook voor een derde begrijpelijk zijn. Daarbij is het van groot belang dat alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        632.53,
+        466.18,
+        641.53
+      ],
+      "text": "verzamelde onderzoekgegevens consistent en herleidbaar zijn. Indien er in een dossier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        643.45,
+        495.93,
+        652.45
+      ],
+      "text": "inconsistenties worden gevonden neemt de inzichtelijkheid van dit dossier af. Een gebrek aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        654.4,
+        412.78,
+        663.4
+      ],
+      "text": "inzichtelijkheid kán leiden tot de constatering dat de kwaliteit tekort schiet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        676.24,
+        505.05,
+        685.24
+      ],
+      "text": "De vakinhoudelijke kwaliteit van de VA, AD en PB in de uitvoering wordt voor elke afzonderlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        687.16,
+        513.61,
+        696.16
+      ],
+      "text": "discipline steekproefsgewijs getoetst: op de vestigingen door de adviseurs VA en - AD en de staf-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        698.2,
+        517.12,
+        707.2
+      ],
+      "text": "PB door middel van het MCP; centraal door de auditors BC&K door middel van reviews op de MCP.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        709.12,
+        499.53,
+        718.12
+      ],
+      "text": "Daarbij worden checklists gebruikt die – samen met de bijbehorende toelichtingen waarop alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        720.04,
+        486.71,
+        729.04
+      ],
+      "text": "criteria zijn vastgelegd – door BC&K in samenspraak met het CEC zijn ontwikkeld en steeds",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        730.96,
+        510.34,
+        739.96
+      ],
+      "text": "opnieuw wordt geactualiseerd en verfijnd. Deze zijn ook opgenomen in KRS. M.b.v. de checklists",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        741.88,
+        518.63,
+        750.88
+      ],
+      "text": "worden alle belangrijke onderdelen van de vakinhoudelijke gevalsbehandeling in elke afzonderlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        752.8,
+        493.66,
+        761.8
+      ],
+      "text": "discipline getoetst. Wanneer in een onderzocht dossier teveel en/of cruciale aspecten van die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        72.78,
+        522.97,
+        81.78
+      ],
+      "text": "checklist als “inadequaat” worden gescoord, kan dat als optelsom onder de streep resulteren in een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        83.82,
+        437.9,
+        92.82
+      ],
+      "text": "“onvoldoende” voor de kwaliteit van het handelen door de betreffende discipline.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        116.6,
+        155.38,
+        125.6
+      ],
+      "text": "Ad 2. Plausibiliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        138.44,
+        467.57,
+        147.44
+      ],
+      "text": "In een dossier wordt de conclusie van een beoordeling als plausibel aangemerkt als het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        149.36,
+        520.01,
+        158.36
+      ],
+      "text": "uiteindelijke resultaat van de beoordeling naar de mening van de toetser correct of aannemelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        160.4,
+        515.1,
+        169.4
+      ],
+      "text": "Daarbij baseert de toetser zich niet alleen op de betreffende rapportage, maar ook op de rest van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        171.32,
+        521.55,
+        180.32
+      ],
+      "text": "het dossier en op zijn eigen deskundigheid en ervaring. . Als de kwaliteit van de gevalsbehandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        182.24,
+        478.52,
+        191.24
+      ],
+      "text": "voldoende is, is vrijwel steeds de uitkomst ook plausibel. Maar ook als de kwaliteit van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        193.16,
+        512.78,
+        202.16
+      ],
+      "text": "gevalsbehandeling ónvoldoende is kan in sommige gevallen de conclusie van de beoordeling toch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        204.08,
+        503.09,
+        213.08
+      ],
+      "text": "nog plausibel zijn. Een voorbeeld is, als de verzekeringsarts constateert tot GBM maar hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        215.0,
+        513.89,
+        224.0
+      ],
+      "text": "geen enkel argument vastlegt, terwijl de toetser aan de rest van het dossier inclusief de aard van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        226.04,
+        352.67,
+        235.04
+      ],
+      "text": "het ziektebeeld kan opmaken dat die GBM wel aannemelijk is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        247.88,
+        348.73,
+        256.88
+      ],
+      "text": "Ad 3. Het integraal oordeel over de juistheid van de uitkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        269.72,
+        524.28,
+        278.72
+      ],
+      "text": "Na het oordeel over de kwaliteit van de afzonderlijke bij de gevalsbehandeling betrokken disciplines",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        280.67,
+        453.54,
+        289.67
+      ],
+      "text": "moet vervolgens worden beoordeeld of er, als gevolg van de eventueel vastgestelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        291.59,
+        490.18,
+        300.59
+      ],
+      "text": "tekortkomingen in de kwaliteit, ook sprake is van een risico op een onjuiste uitkomst van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        302.63,
+        489.72,
+        311.63
+      ],
+      "text": "integrale gevalsbehandeling. Het begrip risico houdt in dat er sprake is van een kans op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        313.55,
+        458.06,
+        322.55
+      ],
+      "text": "onjuiste uitkomst, Of anders gezegd: in deze gevallen kunnen we ten gevolge van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        324.47,
+        398.6,
+        333.47
+      ],
+      "text": "tekortkomingen niet met zekerheid zeggen dat de uitkomst correct was.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        346.31,
+        491.44,
+        355.31
+      ],
+      "text": "Het is inherent aan het begrip “kans”, dat niet in maat of getal is uit te drukken hoe groot of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        357.23,
+        474.27,
+        366.23
+      ],
+      "text": "“zeker” die kans op een onjuiste beslissing is. Vooral daar waar het gaat om kwalitatieve",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        368.15,
+        507.31,
+        377.15
+      ],
+      "text": "onvolkomenheden in de medische of arbeidskundige beoordeling, waar bij de VA en de AD altijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        379.19,
+        507.68,
+        388.19
+      ],
+      "text": "een meer of mindere mate van discretionaire oordeelsruimte aan de orde is, zou eigenlijk alleen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        390.11,
+        496.22,
+        399.11
+      ],
+      "text": "een tweede beoordeling van de cliënt daarover uitsluitsel kunnen geven. We spreken hier dus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        401.03,
+        493.46,
+        410.03
+      ],
+      "text": "noodgedwongen niet over zekerheid, maar over een (gerede) kans op een onjuiste uitkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        422.87,
+        509.4,
+        431.87
+      ],
+      "text": "In het kader van het MCP wordt het eventuele risico bepaald op de kantoren in een gezamenlijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        433.79,
+        519.79,
+        442.79
+      ],
+      "text": "overleg tussen de adviseurs VA, -AD en de staf-PB’s. Een bij het MCP geconstateerd risico wordt in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        444.83,
+        515.7,
+        453.83
+      ],
+      "text": "KRS vastgelegd. Centraal wordt bij de review op de MCP het risico bepaald in gezamenlijk overleg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        455.75,
+        227.99,
+        464.75
+      ],
+      "text": "tussen de auditoren VA, AD en PB.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        477.61,
+        171.71,
+        486.61
+      ],
+      "text": "Ad 4. Rechtmatigheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        500.17,
+        491.59,
+        509.17
+      ],
+      "text": "Zoals al eerder gesteld doelen wij met het begrip “risico” op de kans dat een geconstateerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        511.09,
+        464.78,
+        520.09
+      ],
+      "text": "tekortkoming in de kwaliteit heeft geleid tot een onjuiste beslissing inzake de integrale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        522.01,
+        501.64,
+        531.01
+      ],
+      "text": "gevalsbehandeling. Aangezien in de gevalsbehandeling van SMZ beslissingen vrijwel altijd (het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        533.05,
+        485.86,
+        542.05
+      ],
+      "text": "recht op) uitkering betreffen, is bij een risico op een onjuiste beslissing dus automatisch de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        543.97,
+        204.7,
+        552.97
+      ],
+      "text": "rechtmatigheid in het geding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        565.81,
+        512.2,
+        574.81
+      ],
+      "text": "De mate van risico kan variëren. Soms blijft het bij een kans dat de uitkomst onjuist en daarmee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        576.73,
+        235.65,
+        585.73
+      ],
+      "text": "de rechtmatigheid in het geding is. .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        609.61,
+        523.21,
+        618.61
+      ],
+      "text": "Van een aantal van de geconstateerde fouten weten we echter zéker dat deze direct gevolg hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        620.53,
+        494.83,
+        629.53
+      ],
+      "text": "voor de rechtmatigheid, het risico is dan niet zozeer meer een kans, maar een zekerheid. Wij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        631.45,
+        505.44,
+        640.45
+      ],
+      "text": "spreken dan van “feitelijke onrechtmatigheid”. In deze situatie kan zonodig direct het financiële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        642.37,
+        469.95,
+        651.37
+      ],
+      "text": "gevolg worden vastgesteld. Deze dienen dan op het niveau van de uitvoering te worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        653.29,
+        131.16,
+        662.29
+      ],
+      "text": "gecorrigeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        675.28,
+        502.95,
+        684.28
+      ],
+      "text": "In de gevallen waarin wij spreken van “gerede kans op onrechtmatigheid” dient heroverweging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        686.2,
+        505.05,
+        695.2
+      ],
+      "text": "door het primaire team plaats te vinden om te kunnen beoordelen of er daadwerkelijk sprake is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        697.12,
+        218.85,
+        706.12
+      ],
+      "text": "van een financiële consequentie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.82,
+        72.97,
+        286.52,
+        84.01
+      ],
+      "text": "2. Dekkingsgraad MCP landelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        98.12,
+        503.8,
+        107.12
+      ],
+      "text": "De landelijke dekkingsgraad van het MCP over de productiemaand november 2017 is hieronder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        110.84,
+        262.61,
+        119.84
+      ],
+      "text": "weergegeven, gespecificeerd naar district.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        73.4,
+        335.09,
+        85.4
+      ],
+      "text": "3. Resultaten Landelijke MCP ZW-Arbo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        99.68,
+        153.26,
+        108.68
+      ],
+      "text": "Stap 1: Handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        121.52,
+        237.54,
+        130.52
+      ],
+      "text": "Handelen productie november 2017:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        304.71,
+        300.44,
+        312.75
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        314.43,
+        514.15,
+        322.47
+      ],
+      "text": "**In de praktijk wordt de AD maar beperkt ingeschakeld. Het percentage voldoende van de AD moet dan ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        324.27,
+        331.18,
+        332.31
+      ],
+      "text": "met enig voorbehoud worden bezien, gezien de kleine aantallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        345.11,
+        502.13,
+        354.11
+      ],
+      "text": "Specificatie handelen (inadequaat score) per functionaris, daar waar dit is aangegeven door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        356.03,
+        134.19,
+        365.03
+      ],
+      "text": "adviseur/staf:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        377.87,
+        150.84,
+        386.87
+      ],
+      "text": "Verzekeringsarts:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        389.27,
+        435.69,
+        398.27
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        401.27,
+        536.63,
+        410.27
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        413.15,
+        523.74,
+        422.15
+      ],
+      "text": "N-waarde 125 123 114 130 125 132 157 137 145 148 150 1486",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        425.03,
+        517.98,
+        434.03
+      ],
+      "text": "Begeleiding algemeen 0 3 3 3 2 1 0 4 1 1 1 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        436.91,
+        515.0,
+        445.91
+      ],
+      "text": "Overdracht/consult AD/Rb/SMV 0 1 3 0 0 0 0 2 1 0 0 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        448.79,
+        515.0,
+        457.79
+      ],
+      "text": "Taakdelegatie 0 1 2 2 0 0 0 0 2 1 0 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        460.67,
+        517.98,
+        469.67
+      ],
+      "text": "Aandacht voor geschiktheid EW 0 1 2 4 1 1 0 1 0 0 2 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        472.69,
+        515.0,
+        481.69
+      ],
+      "text": "Medische interventies 0 2 1 0 0 0 0 1 2 1 1 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        495.49,
+        160.17,
+        504.49
+      ],
+      "text": "Arbeidsdeskundige:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        506.41,
+        520.74,
+        515.41
+      ],
+      "text": "De score bij de arbeidsdeskundige blijft beperkt tot (on)voldoende handelen in algemene zin; dit is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        517.33,
+        191.25,
+        526.33
+      ],
+      "text": "verder niet gespecificeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        539.29,
+        185.14,
+        548.29
+      ],
+      "text": "Re-integratie-begeleider:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        550.69,
+        420.75,
+        559.69
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        562.57,
+        524.51,
+        571.57
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        574.45,
+        511.62,
+        583.45
+      ],
+      "text": "N-waarde 30 133 126 130 126 138 140 130 133 133 137 1356",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        586.33,
+        508.74,
+        595.33
+      ],
+      "text": "Plan van aanpak/ bijstelling 17 17 23 19 26 33 19 23 12 24 30 243",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        598.33,
+        508.74,
+        607.33
+      ],
+      "text": "Monitoring 16 14 11 13 18 14 16 14 12 12 16 156",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        610.21,
+        508.74,
+        619.21
+      ],
+      "text": "Visie RB 0 5 8 9 14 21 21 24 12 10 16 140",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        622.09,
+        508.74,
+        631.09
+      ],
+      "text": "26e weeks herijking 13 6 7 8 9 18 10 17 8 6 7 109",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        633.97,
+        505.86,
+        642.97
+      ],
+      "text": "Maatstaf 0 8 8 4 10 12 12 14 9 11 9 97",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        645.85,
+        505.86,
+        654.85
+      ],
+      "text": "78e weeks herijking 0 8 2 4 3 5 10 6 9 6 10 63",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        657.76,
+        505.86,
+        666.76
+      ],
+      "text": "52e weeks herijking 5 6 4 1 6 8 4 6 3 5 2 50",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        669.64,
+        505.86,
+        678.64
+      ],
+      "text": "Samenloop 7 4 3 4 4 1 3 2 3 2 3 36",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        681.64,
+        505.86,
+        690.64
+      ],
+      "text": "Mening Klant 0 2 2 2 1 3 8 5 3 4 2 32",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        715.36,
+        178.42,
+        724.36
+      ],
+      "text": "Stap 2: Risico bepaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        737.2,
+        449.86,
+        746.2
+      ],
+      "text": "De score in het kader van de ZW-Arbo wordt uitgedrukt in voldoende/onvoldoende.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        748.24,
+        515.69,
+        757.24
+      ],
+      "text": "De gevolgen van het al dan niet inzetten van een re-integratie-middel is moeilijk uit te drukken in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        759.16,
+        306.38,
+        768.16
+      ],
+      "text": "een risico gelet op de ongewisheid van de uitkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        94.76,
+        496.6,
+        103.76
+      ],
+      "text": "In onderstaande grafiek is een vergelijking gemaakt van de productie november 2017 met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        105.68,
+        200.25,
+        114.68
+      ],
+      "text": "eerdere productie-maanden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        295.23,
+        300.44,
+        303.27
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        316.19,
+        502.82,
+        325.19
+      ],
+      "text": "Cumulatief “Risico” ZW Arbo per district productie januari tot en met november 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        561.65,
+        300.44,
+        569.69
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        73.4,
+        300.47,
+        85.4
+      ],
+      "text": "4. Resultaten Landelijke MCP RIV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        99.68,
+        153.26,
+        108.68
+      ],
+      "text": "Stap 1: Handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        121.52,
+        237.54,
+        130.52
+      ],
+      "text": "Handelen productie november 2017:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        315.27,
+        300.44,
+        323.31
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        336.11,
+        502.13,
+        345.11
+      ],
+      "text": "Specificatie handelen (inadequaat score) per functionaris, daar waar dit is aangegeven door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        347.03,
+        134.18,
+        356.03
+      ],
+      "text": "adviseur/staf:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        368.99,
+        150.84,
+        377.99
+      ],
+      "text": "Verzekeringsarts:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        379.91,
+        519.2,
+        388.91
+      ],
+      "text": "De score bij de verzekeringsarts blijft beperkt tot (on)voldoende handelen in algemene zin, zonder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        390.83,
+        161.99,
+        399.83
+      ],
+      "text": "verdere specificatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        412.67,
+        160.17,
+        421.67
+      ],
+      "text": "Arbeidsdeskundige:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        424.19,
+        444.51,
+        433.19
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        436.07,
+        535.67,
+        445.07
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        447.95,
+        519.9,
+        456.95
+      ],
+      "text": "N-waarde 48 51 42 58 49 50 56 69 54 63 60 600",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        459.83,
+        517.02,
+        468.83
+      ],
+      "text": "Weging resultaten onderzoek 8 6 0 5 5 0 0 0 0 0 0 24",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        471.73,
+        517.02,
+        480.73
+      ],
+      "text": "Besluitvorming / Conclusie 2 1 3 1 2 1 0 4 1 2 0 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        483.61,
+        517.02,
+        492.61
+      ],
+      "text": "Beeldvorming re-integratie 0 0 4 0 0 1 1 2 2 4 0 14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        495.49,
+        517.02,
+        504.49
+      ],
+      "text": "Hoor- / Wederhoor 0 0 3 0 0 2 0 3 2 1 1 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        507.49,
+        517.02,
+        516.49
+      ],
+      "text": "Oordeelsvorming 0 0 3 0 0 1 0 3 4 2 0 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        519.37,
+        514.04,
+        528.37
+      ],
+      "text": "Deugdelijke Grond 0 0 1 0 0 0 0 1 1 0 0 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        531.25,
+        514.04,
+        540.25
+      ],
+      "text": "Beeldvorming klant 2 0 0 0 0 0 0 4 0 0 0 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        543.13,
+        514.04,
+        552.13
+      ],
+      "text": "Beeldvorming werkgever en arbeid 0 0 0 0 0 0 0 3 0 0 0 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        555.01,
+        514.04,
+        564.01
+      ],
+      "text": "Indien plaatsing van toepassing is 0 0 0 0 0 0 0 4 0 0 0 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        566.89,
+        514.04,
+        575.89
+      ],
+      "text": "Onderzoeksactiviteiten 0 0 0 0 0 0 0 3 0 0 0 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        578.89,
+        514.04,
+        587.89
+      ],
+      "text": "Toets-data 0 0 0 0 0 0 0 1 0 0 0 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        601.69,
+        151.53,
+        610.69
+      ],
+      "text": "Procesbegeleider:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        613.09,
+        423.21,
+        622.09
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        624.97,
+        530.27,
+        633.97
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        636.97,
+        514.5,
+        645.97
+      ],
+      "text": "N-waarde 67 69 62 70 67 73 76 96 69 84 77 810",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        648.85,
+        511.62,
+        657.85
+      ],
+      "text": "Klant geïnformeerd 7 4 6 4 7 6 3 7 5 9 7 65",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        660.76,
+        511.62,
+        669.76
+      ],
+      "text": "Kopie (ex)werkgever 7 3 5 3 6 6 2 6 7 7 6 58",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        672.64,
+        511.62,
+        681.64
+      ],
+      "text": "Beoordeling RIV uitgevoerd 4 5 2 3 3 8 2 5 3 6 7 48",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        72.78,
+        178.42,
+        81.78
+      ],
+      "text": "Stap 2: Risico bepaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        94.76,
+        486.74,
+        103.76
+      ],
+      "text": "In het kader van de RIV spreken wij, bij de bepaling van het risico, van “het niet verhalen /",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        105.68,
+        513.21,
+        114.68
+      ],
+      "text": "opleggen van sanctie / opleggen van maatregel”. Het niet opleggen van een sanctie heeft ook tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        116.6,
+        395.84,
+        125.6
+      ],
+      "text": "gevolg dat ten onrechte een claim-beoordeling wordt uitgevoerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        138.44,
+        509.99,
+        147.44
+      ],
+      "text": "Risico vaststelling productie november 2017 en vergelijking met de eerdere productie-maanden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        308.19,
+        300.44,
+        316.23
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        340.79,
+        467.78,
+        349.79
+      ],
+      "text": "Cumulatief Risico RIV per district productie januari tot en met november 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        592.25,
+        300.44,
+        600.29
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        518.76,
+        775.12,
+        524.48,
+        784.12
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        73.4,
+        395.02,
+        85.4
+      ],
+      "text": "5. Resultaten Landelijke MCP EZWb/ (C)Wia(b).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        99.68,
+        224.96,
+        108.68
+      ],
+      "text": "Stap 1: Handelen en plausibiliteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.94,
+        121.52,
+        364.76,
+        130.52
+      ],
+      "text": "Handelen / plausibiliteit productie november 2017 (norm 95%):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        319.83,
+        300.44,
+        327.87
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        351.71,
+        502.13,
+        360.71
+      ],
+      "text": "Specificatie handelen (inadequaat score) per functionaris, daar waar dit is aangegeven door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        362.63,
+        134.19,
+        371.63
+      ],
+      "text": "adviseur/staf:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        384.47,
+        150.84,
+        393.47
+      ],
+      "text": "Verzekeringsarts:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        395.87,
+        458.85,
+        404.87
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        407.87,
+        559.81,
+        416.87
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        419.75,
+        546.92,
+        428.75
+      ],
+      "text": "N-waarde 209 209 213 211 218 242 2425",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        244.01,
+        420.23,
+        503.94,
+        429.23
+      ],
+      "text": "200 234 228 234 227",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        431.63,
+        544.04,
+        440.63
+      ],
+      "text": "1A. Weging (on)geschiktheid EW 20 18 27 23 22 29 252",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        246.89,
+        432.11,
+        503.94,
+        441.11
+      ],
+      "text": "18 31 21 27 16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        443.51,
+        544.04,
+        452.51
+      ],
+      "text": "1B. Weging FML rubrieken I t/m V 11 14 16 14 13 22 180",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        246.89,
+        443.99,
+        503.94,
+        452.99
+      ],
+      "text": "12 19 22 22 15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        455.39,
+        541.16,
+        464.39
+      ],
+      "text": "1C. Weging GBM 7 8 7 10 9 11 88",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        249.65,
+        455.87,
+        503.82,
+        464.87
+      ],
+      "text": "4 12 5 7 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        467.29,
+        544.04,
+        476.29
+      ],
+      "text": "1D. Weging arbeidsduur/-patroon 24 21 24 17 21 33 248",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        246.89,
+        467.77,
+        503.94,
+        476.77
+      ],
+      "text": "18 25 22 26 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        479.29,
+        541.16,
+        488.29
+      ],
+      "text": "1E. Weging Bijzondere wetsartikelen 3 5 5 4 5 3 51",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        249.65,
+        479.65,
+        503.82,
+        488.65
+      ],
+      "text": "4 1 5 9 7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        502.09,
+        160.17,
+        511.09
+      ],
+      "text": "Arbeidsdeskundige:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        513.49,
+        372.61,
+        522.49
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        525.37,
+        580.09,
+        534.37
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        537.37,
+        567.2,
+        546.37
+      ],
+      "text": "N-waarde 177 175 18 19 18 19 20 200 20 19 200 2095",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        318.55,
+        548.29,
+        493.74,
+        557.29
+      ],
+      "text": "4 0 1 0 4 0 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        559.69,
+        564.32,
+        568.69
+      ],
+      "text": "Beschrijving maatman 35 41 42 25 37 36 40 50 46 48 45 445",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        571.57,
+        564.32,
+        580.57
+      ],
+      "text": "Correcte vaststelling maatmanloon 34 41 36 41 31 24 23 41 35 42 37 385",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        583.45,
+        564.32,
+        592.45
+      ],
+      "text": "Beoordeling (on)geschiktheid maatman 30 31 27 23 35 26 46 40 49 35 49 391",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        595.33,
+        564.32,
+        604.33
+      ],
+      "text": "Motivering geduide functies CBBS 15 19 16 13 14 15 18 16 20 16 21 183",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        607.33,
+        564.32,
+        616.33
+      ],
+      "text": "Invoer gegevens CBBS 13 13 15 25 10 13 11 22 15 18 21 176",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        619.21,
+        564.32,
+        628.21
+      ],
+      "text": "Motivering geen functies, hogere AO 16 4 9 12 13 12 12 17 16 17 15 143",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        630.13,
+        192.7,
+        639.13
+      ],
+      "text": "klasse of volledig AO CBBS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        641.53,
+        561.44,
+        650.53
+      ],
+      "text": "Correcte keuze maatman 8 9 8 7 9 5 8 4 7 8 7 80",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        653.41,
+        564.32,
+        662.41
+      ],
+      "text": "Vaststelling van het 6 10 7 11 13 5 15 13 13 12 14 119",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        664.48,
+        226.54,
+        673.48
+      ],
+      "text": "arbeidsongeschiktheidspercentage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        675.88,
+        561.44,
+        684.88
+      ],
+      "text": "Beschrijving maatstaf 5 10 6 6 3 7 10 7 9 7 10 80",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        267.29,
+        687.76,
+        558.56,
+        696.76
+      ],
+      "text": "0 0 0 0 0 0 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        688.24,
+        396.63,
+        697.24
+      ],
+      "text": "Beoordeling gerealiseerde arbeid 0 0 1 0 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        72.78,
+        151.53,
+        81.78
+      ],
+      "text": "Procesbegeleider:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        84.3,
+        340.33,
+        93.3
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        96.2,
+        556.33,
+        105.2
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        108.08,
+        543.44,
+        117.08
+      ],
+      "text": "N-waarde 177 207 212 214 212 206 234 200 200 221 221 2304",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        119.96,
+        540.56,
+        128.96
+      ],
+      "text": "Identiteit 10 21 14 22 7 17 15 19 20 20 20 185",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        131.84,
+        537.68,
+        140.84
+      ],
+      "text": "Beslissing (ex)werkgever 7 5 8 8 5 4 0 3 4 1 6 51",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        143.84,
+        537.68,
+        152.84
+      ],
+      "text": "Beslissing klant 7 7 8 6 4 3 0 8 12 5 7 67",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        155.72,
+        537.68,
+        164.72
+      ],
+      "text": "Duur van de LGU 7 5 5 4 0 6 5 6 9 3 3 53",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        167.6,
+        537.68,
+        176.6
+      ],
+      "text": "Intake 6 9 7 7 4 8 0 10 12 0 25 88",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        179.48,
+        537.68,
+        188.48
+      ],
+      "text": "Juiste soort uitkering (VVU / 3 - 3 1 2 2 4 1 5 0 0 21",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        70.82,
+        190.4,
+        148.06,
+        199.4
+      ],
+      "text": "LAU / LGU / IVA)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        201.92,
+        537.68,
+        210.92
+      ],
+      "text": "Hoogte van de uitkering 6 - 2 3 2 3 5 3 2 1 2 29",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        213.8,
+        537.68,
+        222.8
+      ],
+      "text": "Ingangsdatum uitkering 3 1 2 2 1 4 3 3 2 3 1 25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        225.68,
+        540.56,
+        234.68
+      ],
+      "text": "Resa / Fasa 22 3 6 10 8 12 17 12 5 8 9 112",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        237.56,
+        537.68,
+        246.56
+      ],
+      "text": "Regres 0 4 2 3 2 2 3 3 2 5 2 28",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        249.44,
+        537.68,
+        258.44
+      ],
+      "text": "Dagloon 8 1 1 6 3 3 5 5 2 3 5 42",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        261.32,
+        534.68,
+        270.32
+      ],
+      "text": "Toetsdatum 2 - 1 1 2 0 0 2 0 0 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        273.32,
+        537.68,
+        282.32
+      ],
+      "text": "Opschorten / verlengen; klant 3 5 - 1 4 2 0 5 6 3 2 31",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        284.27,
+        131.34,
+        293.27
+      ],
+      "text": "geïnformeerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        295.67,
+        537.68,
+        304.67
+      ],
+      "text": "Beslistermijn opgeschort / 4 4 - 2 2 1 0 3 2 4 5 27",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        306.59,
+        110.13,
+        315.59
+      ],
+      "text": "verlengd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        329.03,
+        178.42,
+        338.03
+      ],
+      "text": "Stap 2: Risico bepaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        350.87,
+        275.7,
+        359.87
+      ],
+      "text": "Risico vaststelling productie november 2017:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.18,
+        362.75,
+        368.55,
+        371.75
+      ],
+      "text": "Risico (Norm 95%) N-waarde* = 224",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        288.19,
+        374.15,
+        309.39,
+        383.15
+      ],
+      "text": "84%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.18,
+        374.63,
+        124.39,
+        383.63
+      ],
+      "text": "Geen risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        74.18,
+        386.51,
+        309.39,
+        395.51
+      ],
+      "text": "Wel risico 16%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        397.83,
+        300.44,
+        405.87
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        428.39,
+        475.46,
+        437.39
+      ],
+      "text": "In onderstaande grafiek is een vergelijking gemaakt met de eerdere productie-maanden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        651.29,
+        300.44,
+        659.33
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        72.78,
+        137.86,
+        81.78
+      ],
+      "text": "Aandeel risico:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        83.82,
+        523.44,
+        92.82
+      ],
+      "text": "Het kan voorkomen dat slechts één van de behandelaars een risico veroorzaakt. Omdat de dossiers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        94.76,
+        507.16,
+        103.76
+      ],
+      "text": "integraal worden beoordeeld kan het ook zo zijn dat een combinatie van behandelaars het risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        105.68,
+        127.83,
+        114.68
+      ],
+      "text": "veroorzaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        127.52,
+        497.87,
+        136.52
+      ],
+      "text": "Vaststelling risico aandeel productie november 2017 in vergelijking met de eerdere productie-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        138.44,
+        116.79,
+        147.44
+      ],
+      "text": "maanden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        374.87,
+        192.67,
+        383.87
+      ],
+      "text": "Vaststelling oorzaak risico:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        385.79,
+        479.37,
+        394.79
+      ],
+      "text": "De oorzaak van het risico van een dossier kan zich beperken tot een aspect maar kan ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        396.71,
+        485.18,
+        405.71
+      ],
+      "text": "meerdere oorzaken hebben per gevalsbehandeling. In onderstaande tabel is zichtbaar (qua",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        407.75,
+        289.35,
+        416.75
+      ],
+      "text": "aantallen) wat de geconstateerde oorzaken zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        429.59,
+        259.11,
+        438.59
+      ],
+      "text": "Oorzaak risico productie november 2017:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        440.99,
+        408.6,
+        449.99
+      ],
+      "text": "Oorzaak Risico Aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        452.87,
+        555.59,
+        461.87
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        464.89,
+        542.72,
+        473.89
+      ],
+      "text": "N-waarde 202 209 212 214 212 220 2424",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        381.91,
+        465.01,
+        496.86,
+        474.01
+      ],
+      "text": "246 236 222 227 224",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        476.77,
+        536.96,
+        485.77
+      ],
+      "text": "Identiteit 6 8 10 3 4 2 69",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        477.01,
+        490.98,
+        486.01
+      ],
+      "text": "5 7 8 10 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        488.65,
+        536.96,
+        497.65
+      ],
+      "text": "Weging (on)geschiktheid EW 2 3 8 0 6 4 39",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        488.89,
+        490.98,
+        497.89
+      ],
+      "text": "2 4 2 4 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        238.97,
+        500.53,
+        536.96,
+        509.53
+      ],
+      "text": "2 5 3 1 0 2 28",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        500.77,
+        490.98,
+        509.77
+      ],
+      "text": "Duur van de LGU 1 5 4 2 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        512.41,
+        536.96,
+        521.41
+      ],
+      "text": "Weging arbeidsduur/-patroon 4 2 2 4 2 5 31",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        512.65,
+        490.98,
+        521.65
+      ],
+      "text": "3 0 2 4 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        524.29,
+        536.96,
+        533.29
+      ],
+      "text": "Weging GBM 4 5 4 2 1 2 31",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        524.53,
+        490.98,
+        533.53
+      ],
+      "text": "2 4 3 1 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.82,
+        536.29,
+        536.96,
+        545.29
+      ],
+      "text": "CBBS 3 3 4 2 4 3 72",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        384.79,
+        536.41,
+        493.98,
+        545.41
+      ],
+      "text": "11 10 12 9 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        548.17,
+        536.96,
+        557.17
+      ],
+      "text": "Dagloon 4 2 2 4 1 2 26",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        548.41,
+        490.98,
+        557.41
+      ],
+      "text": "2 3 1 0 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        560.05,
+        536.96,
+        569.05
+      ],
+      "text": "Art 19 AA ZW 2 3 0 2 0 1 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        560.29,
+        490.98,
+        569.29
+      ],
+      "text": "1 5 0 2 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        571.93,
+        536.96,
+        580.93
+      ],
+      "text": "Resa / Fasa 0 3 1 0 3 2 25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        572.17,
+        490.98,
+        581.17
+      ],
+      "text": "3 5 1 4 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        583.81,
+        536.96,
+        592.81
+      ],
+      "text": "Regres 0 4 1 1 2 0 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        584.05,
+        490.98,
+        593.05
+      ],
+      "text": "0 1 1 0 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        595.69,
+        533.96,
+        604.69
+      ],
+      "text": "Maatmanloon 1 1 1 2 1 0 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        595.93,
+        490.98,
+        604.93
+      ],
+      "text": "0 0 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        607.69,
+        536.96,
+        616.69
+      ],
+      "text": "Praktische schatting 2 0 1 1 2 1 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        607.81,
+        490.98,
+        616.81
+      ],
+      "text": "0 1 1 1 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        619.57,
+        536.96,
+        628.57
+      ],
+      "text": "Weging FML rubrieken I t/m V 1 0 0 1 2 1 27",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        619.81,
+        490.98,
+        628.81
+      ],
+      "text": "4 3 5 7 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        631.45,
+        536.96,
+        640.45
+      ],
+      "text": "Weging TVB2 3 4 0 2 3 0 15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        631.69,
+        490.98,
+        640.69
+      ],
+      "text": "1 1 0 1 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        643.33,
+        533.96,
+        652.33
+      ],
+      "text": "Geen onderzoek 0 0 1 2 1 1 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        643.57,
+        490.98,
+        652.57
+      ],
+      "text": "0 0 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        655.24,
+        536.96,
+        664.24
+      ],
+      "text": "Ingangsdatum uitkering 1 0 0 0 2 6 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        655.48,
+        490.98,
+        664.48
+      ],
+      "text": "2 3 3 2 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        667.12,
+        533.96,
+        676.12
+      ],
+      "text": "Juiste soort uitkering (VVU / LAU 0 0 0 0 1 0 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        672.64,
+        490.98,
+        681.64
+      ],
+      "text": "3 2 3 0 0",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.82,
+        678.04,
+        127.08,
+        687.04
+      ],
+      "text": "/ LGU / IVA)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        689.56,
+        536.96,
+        698.56
+      ],
+      "text": "Maatman 2 0 0 1 0 4 44",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        689.8,
+        490.98,
+        698.8
+      ],
+      "text": "6 6 8 12 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        238.97,
+        701.44,
+        533.96,
+        710.44
+      ],
+      "text": "0 0 2 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        701.68,
+        490.98,
+        710.68
+      ],
+      "text": "3 2 1 1 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        701.92,
+        320.43,
+        710.92
+      ],
+      "text": "Hoogte van de uitkering 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        238.97,
+        713.32,
+        533.96,
+        722.32
+      ],
+      "text": "0 0 0 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        713.56,
+        490.98,
+        722.56
+      ],
+      "text": "1 0 2 1 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        713.8,
+        320.43,
+        722.8
+      ],
+      "text": "Weging Bijzondere wetsartikelen 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        725.2,
+        369.15,
+        734.2
+      ],
+      "text": "Toetsdatum 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        387.67,
+        725.44,
+        490.98,
+        734.44
+      ],
+      "text": "0 1 1 0 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        265.97,
+        725.68,
+        533.96,
+        734.68
+      ],
+      "text": "0 0 0 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        72.78,
+        228.3,
+        81.78
+      ],
+      "text": "Stap 3 Vaststellen rechtmatigheid:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        95.48,
+        423.23,
+        104.48
+      ],
+      "text": "Productie november 2017 in vergelijking met de eerdere productie-maanden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        283.59,
+        300.44,
+        291.63
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        304.55,
+        281.95,
+        313.55
+      ],
+      "text": "Productie november 2017 uitgesplitst per wet:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        572.21,
+        300.44,
+        580.25
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        72.66,
+        511.87,
+        81.66
+      ],
+      "text": "Cumulatief Rechtmatigheid EZWb / (C)Wia(b) per district productie januari tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        85.38,
+        153.27,
+        94.38
+      ],
+      "text": "november 2017.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        391.35,
+        300.44,
+        399.39
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        412.67,
+        185.99,
+        421.67
+      ],
+      "text": "Betrouwbaarheid MCP.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        435.23,
+        523.62,
+        444.23
+      ],
+      "text": "Bij het vaststellen van de betrouwbaarheid van de cijfers in voorgaande tabel dient een vergelijking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        447.83,
+        429.04,
+        456.83
+      ],
+      "text": "plaats te vinden met de cijfers verkregen vanuit de review verricht door BC&K.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        470.41,
+        502.27,
+        479.41
+      ],
+      "text": "In onderstaande grafiek/tabel is het % afwijkend oordeel opgenomen van de “claim” tussen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        483.01,
+        346.7,
+        492.01
+      ],
+      "text": "auditoren en de adviseurs/staf in het desbetreffende district.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "14",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        72.78,
+        475.32,
+        81.78
+      ],
+      "text": "Overzicht “feitelijke onrechtmatigheid” productie november 2017 per gevalsbehandeling:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        95.24,
+        169.37,
+        104.24
+      ],
+      "text": "Feitelijk onrechtmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        107.12,
+        481.5,
+        116.12
+      ],
+      "text": "Risico aspect 1 Risico aspect 2 Risico aspect 3 Veroorzaker Aantal dossiers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        130.16,
+        449.94,
+        139.16
+      ],
+      "text": "Duur van de LGU PB 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        143.96,
+        449.94,
+        152.96
+      ],
+      "text": "Art 19 AA ZW PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        157.64,
+        449.94,
+        166.64
+      ],
+      "text": "Dagloon cbbs AD / PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        171.32,
+        449.94,
+        180.32
+      ],
+      "text": "Resa / Fasa PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        185.0,
+        449.94,
+        194.0
+      ],
+      "text": "Dagloon PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        198.68,
+        449.94,
+        207.68
+      ],
+      "text": "Dagloon Duur van de LGU cbbs AD / PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        212.36,
+        449.94,
+        221.36
+      ],
+      "text": "Resa / Fasa Dagloon PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        237.08,
+        473.03,
+        246.08
+      ],
+      "text": "Overzicht “gerede kans onrechtmatig” productie november 2017 per gevalsbehandeling:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        259.4,
+        190.86,
+        268.4
+      ],
+      "text": "Gerede kans onrechtmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        271.28,
+        569.58,
+        280.28
+      ],
+      "text": "Risico aspect 1 Risico aspect 2 Risico aspect 3 Veroorzaker Aantal dossiers",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 15,
+      "bbox": [
+        70.82,
+        294.47,
+        538.04,
+        303.47
+      ],
+      "text": "CBBS AD 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        306.35,
+        538.04,
+        315.35
+      ],
+      "text": "CBBS Weging FML VA / AD 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        222.17,
+        317.27,
+        301.13,
+        326.27
+      ],
+      "text": "rubrieken I t/m V",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        328.67,
+        538.04,
+        337.67
+      ],
+      "text": "Dagloon Resa / Fasa VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        340.55,
+        538.04,
+        349.55
+      ],
+      "text": "Identiteit PB 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        352.55,
+        538.04,
+        361.55
+      ],
+      "text": "Identiteit regres PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        364.43,
+        538.04,
+        373.43
+      ],
+      "text": "Maatman AD 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        376.31,
+        538.04,
+        385.31
+      ],
+      "text": "Maatman CBBS AD 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        388.19,
+        538.04,
+        397.19
+      ],
+      "text": "Toetsdatum PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        400.07,
+        538.04,
+        409.07
+      ],
+      "text": "Weging (on)geschiktheid EW CBBS Weging AD / VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        329.59,
+        410.99,
+        391.64,
+        419.99
+      ],
+      "text": "arbeidsduur/-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        329.59,
+        422.03,
+        364.66,
+        431.03
+      ],
+      "text": "patroon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        433.43,
+        538.04,
+        442.43
+      ],
+      "text": "Weging (on)geschiktheid EW Weging GBM VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        445.31,
+        538.04,
+        454.31
+      ],
+      "text": "Weging (on)geschiktheid EW Weging FML VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        222.17,
+        456.23,
+        301.13,
+        465.23
+      ],
+      "text": "rubrieken I t/m V",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        467.77,
+        538.04,
+        476.77
+      ],
+      "text": "Weging (on)geschiktheid EW VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        479.65,
+        538.04,
+        488.65
+      ],
+      "text": "Weging arbeidsduur/-patroon VA 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        491.53,
+        538.04,
+        500.53
+      ],
+      "text": "Weging FML rubrieken I t/m V VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        503.41,
+        538.04,
+        512.41
+      ],
+      "text": "Weging GBM VA 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "15",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        73.4,
+        326.96,
+        85.4
+      ],
+      "text": "6. Resultaten Landelijke MCP Wajong.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        99.68,
+        153.27,
+        108.68
+      ],
+      "text": "Stap 1: Handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        121.52,
+        296.84,
+        130.52
+      ],
+      "text": "Handelen productie november 2017 (norm 95%):",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        284.31,
+        300.44,
+        292.35
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        305.27,
+        501.93,
+        314.27
+      ],
+      "text": "Specificatie handelen (inadequaat score) per functionaris, daar waar dit is aangegeven door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        316.19,
+        134.18,
+        325.19
+      ],
+      "text": "adviseur/staf:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        338.03,
+        150.84,
+        347.03
+      ],
+      "text": "Verzekeringsarts:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        349.43,
+        332.34,
+        358.43
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        361.31,
+        562.8,
+        370.31
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        373.31,
+        561.2,
+        382.31
+      ],
+      "text": "N-waarde 37 41 48 38 37 47 24 39 38 40 37 429",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        385.19,
+        558.32,
+        394.19
+      ],
+      "text": "Weging t.a.v. al dan niet 2 6 3 2 5 9 1 1 1 4 2 36",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        396.11,
+        149.3,
+        405.11
+      ],
+      "text": "arbeidsvermogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        407.51,
+        558.32,
+        416.51
+      ],
+      "text": "Indien geen 4 4 3 4 2 7 2 1 2 5 3 37",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        418.43,
+        207.8,
+        427.43
+      ],
+      "text": "arbeidsvermogen: Duurzaam?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        429.95,
+        558.32,
+        438.95
+      ],
+      "text": "Kan wel / niet één uur 5 4 3 2 3 7 2 5 5 5 0 41",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        440.87,
+        177.97,
+        449.87
+      ],
+      "text": "aaneengesloten werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        452.27,
+        558.32,
+        461.27
+      ],
+      "text": "Is wel / niet tenminste 4 uur 1 5 3 1 3 10 2 3 5 3 2 38",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        463.19,
+        118.22,
+        472.19
+      ],
+      "text": "belastbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        474.73,
+        558.32,
+        483.73
+      ],
+      "text": "Beschikt wel / niet over 3 1 5 2 5 6 1 3 5 2 1 34",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        485.65,
+        99.81,
+        494.65
+      ],
+      "text": "basale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        496.57,
+        187.81,
+        505.57
+      ],
+      "text": "werknemersvaardigheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        507.97,
+        558.32,
+        516.97
+      ],
+      "text": "Begeleidingsbehoefte 0 2 3 0 2 4 3 1 1 2 1 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        519.85,
+        558.32,
+        528.85
+      ],
+      "text": "Weging t.a.v. 2 3 2 0 3 7 1 1 1 3 5 28",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        530.89,
+        173.2,
+        539.89
+      ],
+      "text": "beperkingen/relevante",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        541.81,
+        160.09,
+        550.81
+      ],
+      "text": "beoordelingspunten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        553.21,
+        558.32,
+        562.21
+      ],
+      "text": "Ontwikkeling in de toekomst / 2 2 2 0 4 5 3 2 5 4 4 33",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        564.13,
+        112.65,
+        573.13
+      ],
+      "text": "prognose",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        575.65,
+        558.32,
+        584.65
+      ],
+      "text": "Externe factoren 2 2 0 2 6 5 2 2 4 6 3 34",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        587.53,
+        558.32,
+        596.53
+      ],
+      "text": "GBM 2 0 2 1 1 2 1 0 2 2 0 13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        599.41,
+        558.32,
+        608.41
+      ],
+      "text": "Benoemen van de 1 2 1 0 2 6 2 1 1 2 1 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        610.33,
+        196.35,
+        619.33
+      ],
+      "text": "mogelijkheden van de klant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        621.25,
+        156.98,
+        630.25
+      ],
+      "text": "om te functioneren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        632.65,
+        558.32,
+        641.65
+      ],
+      "text": "Indien geen 2 2 1 0 3 4 1 1 2 0 3 19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        643.69,
+        153.34,
+        652.69
+      ],
+      "text": "arbeidsvermogen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        654.64,
+        141.11,
+        663.64
+      ],
+      "text": "Ingangsdatum?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        666.04,
+        558.32,
+        675.04
+      ],
+      "text": "Weging t.a.v. arbeidsduur / 2 2 0 1 2 6 0 0 1 2 1 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        676.96,
+        138.87,
+        685.96
+      ],
+      "text": "arbeidspatroon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        688.48,
+        332.34,
+        697.48
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        700.36,
+        558.32,
+        709.36
+      ],
+      "text": "Kan wel / geen taken in een 3 0 1 1 1 2 1 1 2 3 1 16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        711.28,
+        156.26,
+        720.28
+      ],
+      "text": "arb. org. uitvoeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        722.68,
+        558.32,
+        731.68
+      ],
+      "text": "Persoonlijke factoren 2 0 0 2 5 3 3 2 3 7 3 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        734.56,
+        555.44,
+        743.56
+      ],
+      "text": "Indien geen 0 0 0 0 0 0 1 1 2 0 0 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        745.6,
+        184.59,
+        754.6
+      ],
+      "text": "arbeidsvermogen: Zelfde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        756.52,
+        138.09,
+        765.52
+      ],
+      "text": "ziekteoorzaak?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        83.82,
+        160.17,
+        92.82
+      ],
+      "text": "Arbeidsdeskundige:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        95.24,
+        344.89,
+        104.24
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        107.12,
+        530.51,
+        116.12
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        119.0,
+        514.74,
+        128.0
+      ],
+      "text": "N-waarde 41 26 40 23 19 29 15 22 40 25 23 307",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        130.88,
+        511.86,
+        139.88
+      ],
+      "text": "Analyse Arbeidsvermogen Totaal 4 5 9 9 4 8 1 4 4 10 5 63",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        142.88,
+        511.86,
+        151.88
+      ],
+      "text": "Toetsing aan de criteria 5 5 9 5 3 9 2 4 5 9 8 64",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        154.76,
+        511.86,
+        163.76
+      ],
+      "text": "Voorwaarden werkomgeving 5 1 8 5 6 10 1 4 3 8 6 57",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        166.64,
+        511.86,
+        175.64
+      ],
+      "text": "Voorwaarden Arbeidsorganisatie 5 1 6 6 5 10 2 4 4 8 4 55",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        178.52,
+        511.86,
+        187.52
+      ],
+      "text": "Arbeidsvermogen nu 2 3 5 4 2 6 1 2 2 9 5 41",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        190.4,
+        511.86,
+        199.4
+      ],
+      "text": "Arbeidsvermogen in de toekomst 2 1 7 2 4 0 1 1 4 7 29",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        202.28,
+        511.86,
+        211.28
+      ],
+      "text": "Voorbeelden werksoort 2 1 4 3 2 5 2 3 1 4 5 32",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        225.2,
+        151.53,
+        234.2
+      ],
+      "text": "Procesbegeleider:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        236.6,
+        367.69,
+        245.6
+      ],
+      "text": "Onderdeel Aantal inadequaat scores",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        248.48,
+        548.39,
+        257.48
+      ],
+      "text": "Productiemaand Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov cumulatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        260.36,
+        533.36,
+        269.36
+      ],
+      "text": "N-waarde 41 44 52 40 39 34 38 34 40 40 38 445",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        272.36,
+        488.1,
+        281.36
+      ],
+      "text": "Juridische Intake: 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        284.27,
+        530.48,
+        293.27
+      ],
+      "text": "Ingangsdatum 2 1 2 3 2 2 1 1 0 3 0 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        296.15,
+        527.6,
+        305.15
+      ],
+      "text": "Uitsluitingsgronden 0 0 2 1 2 0 0 0 1 0 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        308.03,
+        530.48,
+        317.03
+      ],
+      "text": "specifieke punten laattijdige aanvraag 2 0 0 3 3 2 3 2 2 4 3 24",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        319.91,
+        488.1,
+        328.91
+      ],
+      "text": "Multidisciplinaire intake: 0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        331.79,
+        530.48,
+        340.79
+      ],
+      "text": "Gerichte vraagstelling geformuleerd 8 3 6 6 4 3 3 5 4 0 4 46",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        343.79,
+        530.48,
+        352.79
+      ],
+      "text": "Klant niet correct geïnformeerd 0 2 1 3 4 0 0 0 0 0 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        355.67,
+        527.6,
+        364.67
+      ],
+      "text": "Toepassing opschorten en verlengen 0 0 6 0 0 0 0 0 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        367.55,
+        530.48,
+        376.55
+      ],
+      "text": "Opschorten en verlengen 4 0 0 4 3 7 5 3 5 5 4 40",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        255.29,
+        379.43,
+        488.1,
+        388.43
+      ],
+      "text": "0 0 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        391.31,
+        530.48,
+        400.31
+      ],
+      "text": "Beslissing niet juist 0 2 2 2 2 0 0 0 3 1 12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        403.19,
+        533.36,
+        412.19
+      ],
+      "text": "Identiteit 13 0 14 11 6 11 11 5 11 14 8 104",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        415.07,
+        527.6,
+        424.07
+      ],
+      "text": "Regres 0 0 0 0 0 0 1 0 0 0 1 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        437.99,
+        257.61,
+        446.99
+      ],
+      "text": "Stap 2: Bepaling Risico / rechtmatigheid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        459.83,
+        495.83,
+        468.83
+      ],
+      "text": "Risico vaststelling productie november 2017 en vergelijking met eerdere productie-maanden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        665.8,
+        329.05,
+        674.8
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        687.76,
+        192.67,
+        696.76
+      ],
+      "text": "Vaststelling oorzaak risico:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        698.68,
+        479.37,
+        707.68
+      ],
+      "text": "De oorzaak van het risico van een dossier kan zich beperken tot een aspect maar kan ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        709.6,
+        485.18,
+        718.6
+      ],
+      "text": "meerdere oorzaken hebben per gevalsbehandeling. In onderstaande tabel is zichtbaar (qua",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        720.52,
+        289.35,
+        729.52
+      ],
+      "text": "aantallen) wat de geconstateerde oorzaken zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        72.78,
+        259.11,
+        81.78
+      ],
+      "text": "Oorzaak risico productie november 2017:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        191.21,
+        84.3,
+        311.26,
+        93.3
+      ],
+      "text": "Gerede kans onrechtmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        99.8,
+        431.79,
+        108.8
+      ],
+      "text": "Risico aspect 1 Risico aspect 2 Veroorzaker Aantal dossiers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        112.16,
+        371.91,
+        121.16
+      ],
+      "text": "Weging arbeidsvermogen Weging duurzaamheid AD 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        124.04,
+        371.91,
+        133.04
+      ],
+      "text": "Weging arbeidsvermogen identiteit VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        135.92,
+        371.91,
+        144.92
+      ],
+      "text": "identiteit PB 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        147.8,
+        371.91,
+        156.8
+      ],
+      "text": "Ingangsdatum VA 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        181.16,
+        228.34,
+        190.16
+      ],
+      "text": "Stap 3 Vaststellen rechtmatigheid:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        203.0,
+        485.72,
+        212.0
+      ],
+      "text": "In onderstaande grafiek is een vergelijking van de rechtmatigheid gemaakt met de eerdere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        213.92,
+        162.42,
+        222.92
+      ],
+      "text": "productie-maanden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        398.79,
+        300.44,
+        406.83
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        419.51,
+        483.39,
+        428.51
+      ],
+      "text": "Cumulatief Rechtmatigheid Wajong 2015 per district productie januari tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        432.11,
+        153.27,
+        441.11
+      ],
+      "text": "november 2017.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        676.76,
+        300.44,
+        684.8
+      ],
+      "text": "*N-waarde is het aantal volledig gecontroleerde gevallen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "18",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        84.98,
+        72.97,
+        186.0,
+        84.01
+      ],
+      "text": "7. Review BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        98.12,
+        495.0,
+        107.12
+      ],
+      "text": "Voor de review is een landelijke steekproef getrokken uit het MCP zoals die door de districten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        110.84,
+        474.02,
+        119.84
+      ],
+      "text": "verricht had moeten worden in de periode 1 december 2017 tot en met 15 januari 2018.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        133.28,
+        506.43,
+        142.28
+      ],
+      "text": "De auditoren VA, AD en PB van de afdeling BC&K bestuderen de dossiers uit deze steekproef en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        145.88,
+        520.79,
+        154.88
+      ],
+      "text": "zetten hun eigen oordeel over de kwaliteit af tegen het oordeel van de collega’s op de kantoren die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        158.48,
+        417.2,
+        167.48
+      ],
+      "text": "verantwoordelijk zijn voor het MCP, zoals dat door hen is ingebracht in KRS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        181.04,
+        519.93,
+        190.04
+      ],
+      "text": "Na het afzonderlijke oordeel over de kwaliteit per discipline moet vervolgens worden beoordeeld of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        193.52,
+        520.2,
+        202.52
+      ],
+      "text": "er, als gevolg van de eventueel vastgestelde tekortkomingen in de kwaliteit, ook sprake is van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        206.12,
+        488.42,
+        215.12
+      ],
+      "text": "risico op een onjuiste uitkomst van de integrale gevalsbehandeling. In de review door BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        218.72,
+        478.37,
+        227.72
+      ],
+      "text": "gebeurt dit, net als op de kantoren, in gezamenlijk overleg tussen alle auditoren van de 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        231.32,
+        515.19,
+        240.32
+      ],
+      "text": "disciplines. Dit door de auditoren vastgestelde risico wordt vergeleken met de uitkomsten van het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        70.82,
+        244.04,
+        93.3,
+        253.04
+      ],
+      "text": "MCP.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        266.48,
+        517.16,
+        275.48
+      ],
+      "text": "Dit levert per gereviewd dossier de volgende score op: ofwel “oordeel BC&K over het risico op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        279.11,
+        502.11,
+        288.11
+      ],
+      "text": "onjuiste uitkomst is overeenkomstig MCP”, ofwel “oordeel BC&K over het risico op een onjuiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        291.83,
+        216.8,
+        300.83
+      ],
+      "text": "uitkomst is afwijkend van MCP”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        314.27,
+        517.6,
+        323.27
+      ],
+      "text": "Indien in de review-steekproef dossiers blijken te zitten die (nog) niet door de uitvoerders van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        326.99,
+        320.93,
+        335.99
+      ],
+      "text": "MCP zijn gedaan, blijven deze in de review open staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        349.74,
+        183.42,
+        360.78
+      ],
+      "text": "7.1 Bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        380.27,
+        368.4,
+        389.27
+      ],
+      "text": "a. Aantal geconstateerde risico’s in vergelijking met MCP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        402.71,
+        522.61,
+        411.71
+      ],
+      "text": "De bevindingen van de review over het MCP van de productie november 2017 staan in de volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        415.43,
+        96.64,
+        424.43
+      ],
+      "text": "tabel.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        110.06,
+        436.85,
+        191.6,
+        449.7
+      ],
+      "text": "Bevindingen1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        195.29,
+        438.66,
+        400.32,
+        449.7
+      ],
+      "text": "review productie november 2017",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        403.42,
+        440.27,
+        485.37,
+        449.27
+      ],
+      "text": "onderdeel Claim",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        202.61,
+        451.91,
+        392.96,
+        460.91
+      ],
+      "text": "(zoals vastgesteld in KRS op 16-12-2017)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        451.9,
+        474.25,
+        483.65,
+        483.25
+      ],
+      "text": "N = 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        90.5,
+        485.65,
+        379.11,
+        494.65
+      ],
+      "text": "Totale steekproef 30",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        92.18,
+        497.17,
+        411.66,
+        506.17
+      ],
+      "text": "- Staat nog open in KRS - MCP dus niet afgerond 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        92.18,
+        508.57,
+        411.66,
+        517.57
+      ],
+      "text": "- Dossier afgewezen; dossier niet reproduceerbaar 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        92.18,
+        519.97,
+        411.66,
+        528.97
+      ],
+      "text": "- Dossier afgewezen; niet beschikbaar (B&B) 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        90.5,
+        531.49,
+        478.5,
+        540.49
+      ],
+      "text": "Aantal dossiers dat resteert voor review: 25 83%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        90.5,
+        554.29,
+        483.66,
+        563.29
+      ],
+      "text": "Van deze 25 dossiers: N = 25",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        108.5,
+        576.73,
+        478.5,
+        585.73
+      ],
+      "text": "dossiers met een risico, zowel in MCP als in review 5 20%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        90.5,
+        576.81,
+        95.45,
+        585.81
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        108.5,
+        587.65,
+        160.15,
+        596.65
+      ],
+      "text": "vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        90.5,
+        599.05,
+        478.5,
+        608.13
+      ],
+      "text": " extra dossiers met een risico, in de review 9 36%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        108.5,
+        609.97,
+        160.15,
+        618.97
+      ],
+      "text": "vastgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        108.5,
+        621.49,
+        478.5,
+        630.49
+      ],
+      "text": "Totaal aantal door BC&K geconstateerde risico’s 14 56%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        90.5,
+        621.57,
+        95.45,
+        630.57
+      ],
+      "text": "",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        666.4,
+        494.04,
+        675.4
+      ],
+      "text": "Het totaal aantal geconstateerde risico’s in de review is 56% van de gecontroleerde dossiers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        759.36,
+        74.95,
+        765.84
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        78.38,
+        762.68,
+        182.8,
+        770.72
+      ],
+      "text": "Percentages zijn afgerond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "19",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        72.78,
+        169.75,
+        81.78
+      ],
+      "text": "Overzicht per district:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.58,
+        95.96,
+        492.87,
+        104.96
+      ],
+      "text": "Review Totaal in Niet mee (staat nog open in KRS - Overeenkomstig Niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        135.62,
+        106.88,
+        519.98,
+        115.88
+      ],
+      "text": "review MCP niet afgerond op peilmoment*, overeenkomstig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        201.05,
+        117.8,
+        333.92,
+        126.8
+      ],
+      "text": "dossier niet beschikbaar voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        187.85,
+        128.72,
+        347.24,
+        137.72
+      ],
+      "text": "controle**, )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        240.4,
+        129.48,
+        340.22,
+        137.52
+      ],
+      "text": "niet reproduceerbaar***",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        140.36,
+        486.66,
+        149.36
+      ],
+      "text": "NRD 4 3 1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        152.36,
+        486.66,
+        161.36
+      ],
+      "text": "UFL 2 1** 1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        164.24,
+        486.66,
+        173.24
+      ],
+      "text": "RIJ 2 1 1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        176.12,
+        486.66,
+        185.12
+      ],
+      "text": "OGN 3 1* 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        188.0,
+        486.66,
+        197.0
+      ],
+      "text": "DHL 2 1*** 1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        199.88,
+        399.27,
+        208.88
+      ],
+      "text": "WBZ 2 1*** 1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        211.76,
+        399.27,
+        220.76
+      ],
+      "text": "GMZ 3 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        223.76,
+        399.27,
+        232.76
+      ],
+      "text": "NHN 2 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        235.64,
+        399.27,
+        244.64
+      ],
+      "text": "MOB 3 3",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        247.52,
+        486.66,
+        256.52
+      ],
+      "text": "GA 1 1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        259.4,
+        486.66,
+        268.4
+      ],
+      "text": "LMB 3 1 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.58,
+        271.28,
+        399.27,
+        280.28
+      ],
+      "text": "BZ 3 1* 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.58,
+        283.19,
+        486.66,
+        292.19
+      ],
+      "text": "Totaal 30 5 16 9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        317.51,
+        293.25,
+        326.51
+      ],
+      "text": "b. Redenen van de geconstateerde risico’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        340.07,
+        478.04,
+        349.07
+      ],
+      "text": "In de review productie november 2017 is in 9 gevallen sprake van een afwijkend oordeel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        363.11,
+        236.15,
+        372.11
+      ],
+      "text": "Redenen voor geconstateerde risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        385.55,
+        513.35,
+        394.55
+      ],
+      "text": "Geconstateerde fout aantal Meest verantwoordelijke professional",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        407.87,
+        435.15,
+        416.87
+      ],
+      "text": "Duur LGU 1* PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        419.39,
+        446.45,
+        428.39
+      ],
+      "text": "Regres, GBM 1 VA / PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        430.79,
+        446.9,
+        439.79
+      ],
+      "text": "Regres, CBBS 1 AD / PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        442.19,
+        446.9,
+        451.19
+      ],
+      "text": "Art 19 AA ZW 1* AD / PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        453.59,
+        435.15,
+        462.59
+      ],
+      "text": "Identiteit 1 PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        465.13,
+        458.18,
+        474.13
+      ],
+      "text": "Praktische schatting, Resa / Fasa*, Weging 1* VA / AD / PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        476.05,
+        171.05,
+        485.05
+      ],
+      "text": "arbeidsduur/-patroon",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        73.94,
+        487.45,
+        435.92,
+        496.45
+      ],
+      "text": "CBBS 1 AD",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        73.94,
+        498.97,
+        446.9,
+        507.97
+      ],
+      "text": "CBBS, Identiteit 1 AD / PB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        510.17,
+        163.52,
+        518.21
+      ],
+      "text": "*Feitelijk onrechtmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        531.49,
+        411.36,
+        540.49
+      ],
+      "text": "c. Impact van geconstateerde fouten en betekenis van “risico”",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        554.05,
+        491.59,
+        563.05
+      ],
+      "text": "Zoals al eerder gesteld doelen wij met het begrip “risico” op de kans dat een geconstateerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        566.53,
+        502.96,
+        575.53
+      ],
+      "text": "tekortkoming in de kwaliteit een onjuiste beslissing t.a.v. (het recht op) de uitkering tot gevolg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        579.13,
+        507.99,
+        588.13
+      ],
+      "text": "heeft gehad. Of anders gezegd: in deze gevallen kunnen we ten gevolge van de tekortkomingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        591.85,
+        342.55,
+        600.85
+      ],
+      "text": "niet met zekerheid zeggen dat de uitkomst wel correct was.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        614.29,
+        519.01,
+        623.29
+      ],
+      "text": "Inherent aan het begrip “kans” is niet in maat of getal uit te drukken hoe groot of “zeker” die kans",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        626.89,
+        508.27,
+        635.89
+      ],
+      "text": "op een onjuiste beslissing is. Vooral daar waar het gaat om kwalitatieve onvolkomenheden in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        639.49,
+        515.66,
+        648.49
+      ],
+      "text": "medische of arbeidskundige beoordeling zou eigenlijk alleen een tweede beoordeling van de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        652.09,
+        520.92,
+        661.09
+      ],
+      "text": "daarover uitsluitsel kunnen geven. We spreken hier dus noodgedwongen niet over zekerheid, maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        664.72,
+        287.9,
+        673.72
+      ],
+      "text": "over een gerede kans op een onjuiste uitkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        687.28,
+        510.59,
+        696.28
+      ],
+      "text": "Van een aantal van de geconstateerde fouten weten we echter wel degelijk zeker dat deze direct",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        699.88,
+        488.84,
+        708.88
+      ],
+      "text": "gevolg hebben voor de rechtmatigheid, d.w.z. de facto een onjuiste of onterechte uitkering;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        723.04,
+        141.31,
+        732.04
+      ],
+      "text": "Rechtmatigheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        736.72,
+        355.71,
+        745.72
+      ],
+      "text": "Feitelijk onrechtmatig 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        748.6,
+        355.71,
+        757.6
+      ],
+      "text": "Gerede kans onrechtmatig 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "20",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        70.82,
+        98.43,
+        262.96,
+        109.47
+      ],
+      "text": "7.2 Bespreking en conclusies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        88.82,
+        123.56,
+        512.37,
+        132.64
+      ],
+      "text": " Bij de dossiers met de afwijkende score in de review is in 3 gevallen sprake van “Feitelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        106.82,
+        134.48,
+        434.06,
+        143.48
+      ],
+      "text": "onrechtmatig” en in 6 gevallen sprake van “Gerede kans onrechtmatig”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "21",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        208.28,
+        109.13,
+        217.28
+      ],
+      "text": "Colofon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        253.52,
+        233.24,
+        262.52
+      ],
+      "text": "Uitgever : Divisie SMZ, BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        276.11,
+        221.07,
+        285.11
+      ],
+      "text": "Auteurs : Auditoren BC&K",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        298.67,
+        221.17,
+        307.67
+      ],
+      "text": "Datum : 31 januari 2018",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        321.23,
+        163.54,
+        330.23
+      ],
+      "text": "Versie : 0.1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 22,
+      "bbox": [
+        70.82,
+        366.45,
+        111.76,
+        372.51
+      ],
+      "text": " 2018, UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        384.93,
+        516.72,
+        390.93
+      ],
+      "text": "Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of openbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        393.33,
+        515.91,
+        399.33
+      ],
+      "text": "gemaakt, in enige vorm, of enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen of enige andere manier, zonder voorafgaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        401.97,
+        178.98,
+        407.97
+      ],
+      "text": "schriftelijke toestemming van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        513.12,
+        775.12,
+        524.6,
+        784.12
+      ],
+      "text": "22",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.82,
+        775.88,
+        436.8,
+        783.92
+      ],
+      "text": "Rapportage Vakinhoudelijke kwaliteit productie november 2017 / versie 0.1/ 31 januari 2018",
+      "source": "text"
+    }
+  ]
+}

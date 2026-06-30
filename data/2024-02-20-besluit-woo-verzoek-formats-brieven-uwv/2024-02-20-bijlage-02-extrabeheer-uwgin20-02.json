@@ -1,0 +1,9653 @@
+{
+  "source_id": "2024-02-20-besluit-woo-verzoek-formats-brieven-uwv/2024-02-20-bijlage-02-extrabeheer-uwgin20-02",
+  "publication_slug": "2024-02-20-besluit-woo-verzoek-formats-brieven-uwv",
+  "pdf_slug": "2024-02-20-bijlage-02-extrabeheer-uwgin20-02",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/besluit-woo-verzoek-formats-brieven-uwv",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/f4ee20c0-4192-4470-af70-45c17a33a781/bijlage-02-extrabeheer-uwgin20-02.pdf",
+  "publication_title": "Besluit woo-verzoek formats brieven UWV",
+  "publication_date": "2024-02-20T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 2. ExtraBeheer UWGIN20-02 (PDF, 181 kB)",
+  "retrieved_at": "2026-06-30T13:11:13+00:00",
+  "sha256": "b7188def00928d2eb466636a0830f830d57ae4f16f1f4181c52e8a60ef2c3f55",
+  "page_count": 16,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.69,
+        42.34,
+        383.0,
+        50.38
+      ],
+      "text": "<kopie_voor (resultaat)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        84.54,
+        430.75,
+        90.54
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        95.76,
+        512.76,
+        103.8
+      ],
+      "text": "<datum_1500 (datum)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        108.48,
+        481.91,
+        116.52
+      ],
+      "text": "waarde=+9wu>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        122.16,
+        529.19,
+        130.2
+      ],
+      "text": "<van_bst_10 (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        133.44,
+        508.79,
+        141.48
+      ],
+      "text": "<begin:0_retouradres_uwg_01> waarde=pb_1060ch_ne waarde=van_bst_10>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        144.84,
+        361.88,
+        152.88
+      ],
+      "text": "<0_retouradres_uwg_01 (bouwsteen) waarde=pb_1060ch_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        167.52,
+        565.98,
+        175.56
+      ],
+      "text": "<begin:van_bst_10:1:van_",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        178.16,
+        556.51,
+        187.16
+      ],
+      "text": "<begin:0_retouradres_uwg_01:1:pb_1060ch_ne>centraal bst_10>kopje van in kop brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        189.44,
+        513.87,
+        198.44
+      ],
+      "text": "postadres wia (zonder faxnummer)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        202.8,
+        227.99,
+        210.84
+      ],
+      "text": "Postbus 69254, 1060 CH AMSTERDAM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        204.42,
+        421.13,
+        210.42
+      ],
+      "text": "Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        214.32,
+        566.17,
+        222.36
+      ],
+      "text": "<einde:0_retouradres_uwg_01:1:pb_1060ch_ne> <_p_presentatienaamkop (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        237.12,
+        565.63,
+        245.16
+      ],
+      "text": "<einde:van_bst_10:1:van_",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        248.4,
+        446.51,
+        256.44
+      ],
+      "text": "bst_10>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        259.07,
+        375.18,
+        268.07
+      ],
+      "text": "<begin:0_retouradres_uwg_01:2:pb_1000ae_ne>centraal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        261.99,
+        305.48,
+        270.03
+      ],
+      "text": "<kop_uwg_01 (bouwsteen) waarde=kop_uwg_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        270.35,
+        161.42,
+        279.35
+      ],
+      "text": "postadres wajong",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        271.11,
+        503.15,
+        279.15
+      ],
+      "text": "<van_bst_10:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        283.71,
+        216.85,
+        291.75
+      ],
+      "text": "Postbus 244, 1000 AE AMSTERDAM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        286.79,
+        320.48,
+        295.79
+      ],
+      "text": "<begin:kop_uwg_01:1:kop_uwg_01>kop uwg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        295.35,
+        369.2,
+        303.39
+      ],
+      "text": "<einde:0_retouradres_uwg_01:2:pb_1000ae_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        296.73,
+        453.01,
+        302.73
+      ],
+      "text": "Ons kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        301.71,
+        277.02,
+        309.75
+      ],
+      "text": "<einde:kop_uwg_01:1:kop_uwg_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        307.83,
+        496.46,
+        315.87
+      ],
+      "text": "<aw_loonheffingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        320.67,
+        538.22,
+        328.71
+      ],
+      "text": "(resultaat)><ons_kenmerk1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        327.39,
+        171.13,
+        335.43
+      ],
+      "text": "<kop_uwg_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        333.51,
+        464.51,
+        341.55
+      ],
+      "text": "(resultaat)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        339.95,
+        377.17,
+        348.95
+      ],
+      "text": "<begin:0_retouradres_uwg_01:3:pb_1000ae_ne_02>centr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.06,
+        340.11,
+        345.8,
+        348.15
+      ],
+      "text": "<_zone_beveiligd_mogelij (zone) waarde=2 (onbeveiligd)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        346.23,
+        523.33,
+        354.27
+      ],
+      "text": "<ons_kenmerk2 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        351.23,
+        208.65,
+        360.23
+      ],
+      "text": "aal postadres wao uitkeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        359.07,
+        554.52,
+        367.11
+      ],
+      "text": "<uw_kenmerk_bst (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        364.59,
+        216.85,
+        372.63
+      ],
+      "text": "Postbus 245, 1000 AE AMSTERDAM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        365.79,
+        309.2,
+        373.83
+      ],
+      "text": "<0_onderwerp (bouwsteen) waarde=0_onderwerp>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        371.91,
+        554.53,
+        379.95
+      ],
+      "text": "waarde=uw_kenmerk_2_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        387.51,
+        350.6,
+        395.55
+      ],
+      "text": "<einde:0_retouradres_uwg_01:3:pb_1000ae_ne_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        390.59,
+        335.87,
+        399.59
+      ],
+      "text": "<begin:0_onderwerp:1:0_onderwerp>onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        405.81,
+        108.59,
+        411.81
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        410.31,
+        569.39,
+        418.35
+      ],
+      "text": "<begin:uw_kenmerk_bst:1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        416.91,
+        280.62,
+        424.95
+      ],
+      "text": "<einde:0_onderwerp:1:0_onderwerp>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        422.27,
+        569.38,
+        431.27
+      ],
+      "text": "uw_kenmerk_2_regel>uw_kenme",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        432.25,
+        377.17,
+        441.25
+      ],
+      "text": "<begin:0_retouradres_uwg_01:4:pb_1000ae_ne_03>centr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        435.13,
+        463.73,
+        444.13
+      ],
+      "text": "rk_2_regel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        442.61,
+        172.95,
+        450.65
+      ],
+      "text": "<0_onderwerp:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        443.53,
+        207.82,
+        452.53
+      ],
+      "text": "aal postadres waz uitkeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        450.35,
+        450.86,
+        456.35
+      ],
+      "text": "Uw kenmerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        456.89,
+        216.85,
+        464.93
+      ],
+      "text": "Postbus 246, 1000 AE AMSTERDAM",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        460.69,
+        548.89,
+        469.69
+      ],
+      "text": "uw kenmerk1<uw_kenmerk1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        468.17,
+        384.98,
+        476.21
+      ],
+      "text": "<begin:1_verl_uitkering> waarde=1_verl_uitk_01 <1_verl_uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        474.29,
+        446.87,
+        482.33
+      ],
+      "text": "(tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        479.81,
+        350.6,
+        487.85
+      ],
+      "text": "<einde:0_retouradres_uwg_01:4:pb_1000ae_ne_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        481.01,
+        247.98,
+        489.05
+      ],
+      "text": "(bouwsteen) waarde=1_verl_uitk_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        487.13,
+        520.93,
+        495.17
+      ],
+      "text": "<uw_kenmerk2 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        505.81,
+        399.79,
+        514.81
+      ],
+      "text": "<begin:1_verl_uitkering:1:1_verl_uitk_01>tijdelijke verlaging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        512.69,
+        569.15,
+        520.73
+      ],
+      "text": "<einde:uw_kenmerk_bst:1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        518.65,
+        116.71,
+        527.65
+      ],
+      "text": "uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        524.41,
+        378.51,
+        533.41
+      ],
+      "text": "<begin:0_retouradres_uwg_01:5:pb_0000ek_ne>postadre",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        525.53,
+        514.21,
+        533.57
+      ],
+      "text": "uw_kenmerk_2_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        535.81,
+        149.65,
+        544.81
+      ],
+      "text": "s eigen kantoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        544.21,
+        251.52,
+        553.21
+      ],
+      "text": "Beslissing: uw uitkering is tijdelijk lager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        549.17,
+        322.16,
+        557.21
+      ],
+      "text": "<_k_post_adres (tekst)>, <_k_post_postcode (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        551.09,
+        528.59,
+        559.13
+      ],
+      "text": "<uw_kenmerk_bst:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        561.89,
+        212.94,
+        569.93
+      ],
+      "text": "<_k_post_woonplaats (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        570.53,
+        304.28,
+        578.57
+      ],
+      "text": "<einde:1_verl_uitkering:1:1_verl_uitk_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        573.53,
+        369.2,
+        581.57
+      ],
+      "text": "<einde:0_retouradres_uwg_01:5:pb_0000ek_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        576.65,
+        542.4,
+        584.69
+      ],
+      "text": "<kopie_aan_bst (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        589.49,
+        542.41,
+        597.53
+      ],
+      "text": "waarde=kopie_aan_2_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        608.17,
+        399.79,
+        617.17
+      ],
+      "text": "<begin:1_verl_uitkering:2:1_verl_uitk_02>tijdelijke verlaging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        618.16,
+        381.93,
+        627.16
+      ],
+      "text": "<begin:0_retouradres_uwg_01:6:pb_1040hc_ne>retouradr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        621.04,
+        210.51,
+        630.04
+      ],
+      "text": "uitkering en toeslag op uitk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        627.92,
+        568.08,
+        635.96
+      ],
+      "text": "<begin:kopie_aan_bst:1:ko",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        629.56,
+        148.67,
+        638.56
+      ],
+      "text": "es bz-nationaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        640.0,
+        566.99,
+        649.0
+      ],
+      "text": "pie_aan_2_regel>kopie_aan_2_r",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        642.8,
+        220.05,
+        650.84
+      ],
+      "text": "Postbus 58135, 1040 HC Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        646.6,
+        326.45,
+        655.6
+      ],
+      "text": "Beslissing: uw uitkering en uw toeslag zijn tijdelijk lager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        652.72,
+        429.66,
+        661.72
+      ],
+      "text": "egel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.86,
+        654.44,
+        368.96,
+        662.48
+      ],
+      "text": "<einde:0_retouradres_uwg_01:6:pb_1040hc_ne>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        667.94,
+        441.53,
+        673.94
+      ],
+      "text": "Kopie aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        673.04,
+        304.28,
+        681.08
+      ],
+      "text": "<einde:1_verl_uitkering:2:1_verl_uitk_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        677.12,
+        219.18,
+        685.16
+      ],
+      "text": "<0_retouradres_uwg_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        679.16,
+        532.69,
+        687.2
+      ],
+      "text": "<kopie_aan_txt01 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        691.88,
+        532.69,
+        699.92
+      ],
+      "text": "<kopie_aan_txt02 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.34,
+        710.68,
+        399.79,
+        719.68
+      ],
+      "text": "<begin:1_verl_uitkering:3:1_verl_uitk_03>tijdelijke verlaging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        716.0,
+        143.67,
+        724.04
+      ],
+      "text": "<naw1 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        443.74,
+        717.56,
+        567.84,
+        725.6
+      ],
+      "text": "<einde:kopie_aan_bst:1:ko",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        723.4,
+        108.07,
+        732.4
+      ],
+      "text": "toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        728.84,
+        143.67,
+        736.88
+      ],
+      "text": "<naw2 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        730.28,
+        491.15,
+        738.32
+      ],
+      "text": "pie_aan_2_regel>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        741.68,
+        143.67,
+        749.72
+      ],
+      "text": "<naw3 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        749.08,
+        244.09,
+        758.08
+      ],
+      "text": "Beslissing: uw toeslag is tijdelijk lager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        754.4,
+        143.67,
+        762.44
+      ],
+      "text": "<naw4 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        408.34,
+        755.96,
+        516.45,
+        764.0
+      ],
+      "text": "<kopie_aan_bst:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        767.24,
+        143.67,
+        775.28
+      ],
+      "text": "<naw5 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        780.08,
+        143.67,
+        788.12
+      ],
+      "text": "<naw6 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 1/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        72.82,
+        304.28,
+        80.86
+      ],
+      "text": "<einde:1_verl_uitkering:3:1_verl_uitk_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        98.4,
+        187.83,
+        106.44
+      ],
+      "text": "<1_verl_uitkering:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        136.8,
+        280.62,
+        144.84
+      ],
+      "text": "<mv (tekst)> <naam_geadresseerde (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        162.48,
+        533.64,
+        170.52
+      ],
+      "text": "<kl_krijgt_heeft_aanvraag (keuzelijst) keuzes=(,U heeft een aanvraag gedaan voor een,U heeft op dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        175.2,
+        283.5,
+        183.24
+      ],
+      "text": "moment recht op,U krijgt op dit moment een)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        287.23,
+        187.28,
+        515.53,
+        196.28
+      ],
+      "text": "enkel of samenloop, met of zonder toeslag of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        188.04,
+        283.98,
+        196.08
+      ],
+      "text": "<begin:0_srt_uitk_02> waarde=0_srt_uitk_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        200.12,
+        212.44,
+        209.12
+      ],
+      "text": "alleen toeslag<0_srt_uitk_02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        215.33,
+        200.88,
+        387.32,
+        208.92
+      ],
+      "text": "(bouwsteen) waarde=0_srt_uitk_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        225.68,
+        448.73,
+        234.68
+      ],
+      "text": "<begin:0_srt_uitk_02:1:0_srt_uitk_03>enkele uitkering zonder toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        252.29,
+        238.52,
+        461.87,
+        247.52
+      ],
+      "text": "keuzes=(,Wajong,WAO,WAZ,WIA)>-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        239.28,
+        249.66,
+        247.32
+      ],
+      "text": "<kl_wao_wia_waz_wajong (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        252.0,
+        288.32,
+        260.04
+      ],
+      "text": "<einde:0_srt_uitk_02:1:0_srt_uitk_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        289.67,
+        433.63,
+        298.67
+      ],
+      "text": "<begin:0_srt_uitk_02:2:0_srt_uitk_04>enkele uitkering met toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        252.29,
+        302.51,
+        511.74,
+        311.51
+      ],
+      "text": "keuzes=(,Wajong,WAO,WAZ,WIA)>-uitkering en toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        303.27,
+        249.66,
+        311.31
+      ],
+      "text": "<kl_wao_wia_waz_wajong (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        316.11,
+        288.32,
+        324.15
+      ],
+      "text": "<einde:0_srt_uitk_02:2:0_srt_uitk_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        353.75,
+        359.02,
+        362.75
+      ],
+      "text": "<begin:0_srt_uitk_02:3:0_srt_uitk_05>alleen toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        366.47,
+        106.8,
+        375.47
+      ],
+      "text": "toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        380.07,
+        288.32,
+        388.11
+      ],
+      "text": "<einde:0_srt_uitk_02:3:0_srt_uitk_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        417.71,
+        434.12,
+        426.71
+      ],
+      "text": "<begin:0_srt_uitk_02:4:0_srt_uitk_06>2 uitkeringen zonder toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.66,
+        430.55,
+        407.95,
+        439.55
+      ],
+      "text": "(tekst)>-uitkering en (tekst)>-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        431.31,
+        319.42,
+        439.35
+      ],
+      "text": "<vrije_tekst_01 <vrije_tekst_02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        444.05,
+        288.32,
+        452.09
+      ],
+      "text": "<einde:0_srt_uitk_02:4:0_srt_uitk_06>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        481.69,
+        419.02,
+        490.69
+      ],
+      "text": "<begin:0_srt_uitk_02:5:0_srt_uitk_07>2 uitkeringen met toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.66,
+        494.53,
+        446.66,
+        503.53
+      ],
+      "text": "(tekst)>-uitkering, (tekst)>-uitkering en toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        495.29,
+        308.38,
+        503.33
+      ],
+      "text": "<vrije_tekst_01 <vrije_tekst_02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        508.13,
+        288.32,
+        516.17
+      ],
+      "text": "<einde:0_srt_uitk_02:5:0_srt_uitk_07>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        545.77,
+        434.12,
+        554.77
+      ],
+      "text": "<begin:0_srt_uitk_02:6:0_srt_uitk_08>3 uitkeringen zonder toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.66,
+        558.49,
+        529.21,
+        567.49
+      ],
+      "text": "(tekst)>-uitkering, (tekst)>-uitkering en (tekst)>-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        559.25,
+        483.87,
+        567.29
+      ],
+      "text": "<vrije_tekst_01 <vrije_tekst_02 <vrije_tekst_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        571.33,
+        114.25,
+        580.33
+      ],
+      "text": "uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        584.93,
+        288.32,
+        592.97
+      ],
+      "text": "<einde:0_srt_uitk_02:6:0_srt_uitk_08>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        622.6,
+        419.02,
+        631.6
+      ],
+      "text": "<begin:0_srt_uitk_02:7:0_srt_uitk_09>3 uitkeringen met toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.66,
+        635.32,
+        529.21,
+        644.32
+      ],
+      "text": "(tekst)>-uitkering, (tekst)>-uitkering en (tekst)>-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        636.08,
+        483.87,
+        644.12
+      ],
+      "text": "<vrije_tekst_01 <vrije_tekst_02 <vrije_tekst_03",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        648.16,
+        164.23,
+        657.16
+      ],
+      "text": "uitkering en toeslag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.34,
+        661.76,
+        288.32,
+        669.8
+      ],
+      "text": "<einde:0_srt_uitk_02:7:0_srt_uitk_09>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        687.32,
+        176.77,
+        695.36
+      ],
+      "text": "<0_srt_uitk_02:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        712.12,
+        116.11,
+        721.12
+      ],
+      "text": "Voor deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.3,
+        712.88,
+        449.73,
+        720.92
+      ],
+      "text": "<kl_uitk_en_toeslag (keuzelijst) keuzes=(,toeslag,uitkering,uitkering en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        277.01,
+        724.96,
+        514.0,
+        733.96
+      ],
+      "text": "geldt dat u zich aan een aantal regels moet houden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        725.72,
+        273.9,
+        733.76
+      ],
+      "text": "toeslag,uitkeringen,uitkeringen en toeslag)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        338.11,
+        737.8,
+        519.45,
+        746.8
+      ],
+      "text": "selecteer welke regel de klant heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        738.56,
+        335.02,
+        746.6
+      ],
+      "text": "<begin:0_regels_overtreden> waarde=0_regel_overtr_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        750.52,
+        227.94,
+        759.52
+      ],
+      "text": "overtreden<0_regels_overtreden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        230.69,
+        751.28,
+        423.47,
+        759.32
+      ],
+      "text": "(bouwsteen) waarde=0_regel_overtr_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 2/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        72.06,
+        539.36,
+        81.06
+      ],
+      "text": "<begin:0_regels_overtreden:1:0_regel_overtr_01>toeslag te laat aangevr, na 6 wkn na 1e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        84.92,
+        90.56,
+        93.92
+      ],
+      "text": "uitk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        97.64,
+        543.35,
+        106.64
+      ],
+      "text": "Eén daarvan is dat u de toeslag op tijd aanvraagt. U moet deze toeslag aanvragen binnen zes weken na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        110.48,
+        477.32,
+        119.48
+      ],
+      "text": "ontvangst van uw eerste uitkering. U krijgt een uitkering sinds datum ingang uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        123.32,
+        416.02,
+        132.32
+      ],
+      "text": "(algemeen)<dat_ingang_uitk (datum)>. U had de toeslag daarom uiterlijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        419.26,
+        124.08,
+        497.94,
+        132.12
+      ],
+      "text": "<dat_uiterlyk_op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        118.58,
+        136.04,
+        543.11,
+        145.04
+      ],
+      "text": "moeten aanvragen. Maar wij ontvingen uw aanvraag pas op (datum)>. Dat is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        136.8,
+        463.37,
+        144.84
+      ],
+      "text": "(datum)> <dat_aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        175.49,
+        148.88,
+        238.47,
+        157.88
+      ],
+      "text": "dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        149.64,
+        172.35,
+        157.68
+      ],
+      "text": "<aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        162.48,
+        339.32,
+        170.52
+      ],
+      "text": "<einde:0_regels_overtreden:1:0_regel_overtr_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        200.12,
+        520.81,
+        209.12
+      ],
+      "text": "<begin:0_regels_overtreden:2:0_regel_overtr_02>toeslag te laat aangevr, na 6wkn na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        212.84,
+        140.59,
+        221.84
+      ],
+      "text": "recht op toesl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        225.68,
+        530.65,
+        234.68
+      ],
+      "text": "Eén daarvan is dat u de toeslag aanvraagt binnen zes weken nadat u er recht op had. U had recht op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        238.52,
+        484.34,
+        247.52
+      ],
+      "text": "de toeslag vanaf datum vanaf<dat_vanaf (datum)>. Daarom had u de toeslag uiterlijk op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        199.85,
+        251.24,
+        472.22,
+        260.24
+      ],
+      "text": "moeten aanvragen. Maar wij ontvingen uw aanvraag pas op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        252.0,
+        196.74,
+        260.04
+      ],
+      "text": "<dat_uiterlyk_op (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        142.82,
+        264.11,
+        390.54,
+        273.11
+      ],
+      "text": "(datum)>. Dat is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        264.87,
+        324.32,
+        272.91
+      ],
+      "text": "<dat_aanvraag <aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        277.71,
+        339.32,
+        285.75
+      ],
+      "text": "<einde:0_regels_overtreden:2:0_regel_overtr_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        315.35,
+        480.0,
+        324.35
+      ],
+      "text": "<begin:0_regels_overtreden:3:0_regel_overtr_03>info niet tijdig doorgegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        328.07,
+        538.48,
+        337.07
+      ],
+      "text": "Eén daarvan is dat u op tijd reageert als wij u vragen om informatie te geven. Wij hebben u op datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        340.91,
+        445.69,
+        349.91
+      ],
+      "text": "uitvraag gegevens<dat_uitvr_gegevens gevraagd ons uiterlijk datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        264.17,
+        341.67,
+        308.6,
+        349.71
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        353.75,
+        528.47,
+        362.75
+      ],
+      "text": "uiterlijk<dat_uiterlijk informatie te geven over (tekst)>. Maar wij ontvingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        176.33,
+        354.51,
+        394.72,
+        362.55
+      ],
+      "text": "(datum)> <onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        366.47,
+        467.49,
+        375.47
+      ],
+      "text": "uw gegevens op (datum)>. Dit is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.62,
+        367.23,
+        401.39,
+        375.27
+      ],
+      "text": "<dat_ontvangst <aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        380.07,
+        339.32,
+        388.11
+      ],
+      "text": "<einde:0_regels_overtreden:3:0_regel_overtr_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        417.71,
+        526.67,
+        426.71
+      ],
+      "text": "<begin:0_regels_overtreden:4:0_regel_overtr_04>verblyf buitenl langer dan 4 wkn niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        430.55,
+        129.87,
+        439.55
+      ],
+      "text": "tijdig doorg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        443.29,
+        534.42,
+        452.29
+      ],
+      "text": "Eén daarvan is dat u uiterlijk twee weken voor uw vertrek doorgeeft dat u langer dan vier weken naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        456.13,
+        472.38,
+        465.13
+      ],
+      "text": "het buitenland gaat. U op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        175.61,
+        456.89,
+        535.64,
+        464.93
+      ],
+      "text": "<kl_vertrok_vertrekt (keuzelijst) keuzes=(,vertrekt,vertrok)> <dat_vertrek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        118.58,
+        468.97,
+        508.13,
+        477.97
+      ],
+      "text": "naar het buitenland, maar gaf dit pas op aan ons door. Dit is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        469.73,
+        416.27,
+        477.77
+      ],
+      "text": "(datum)> <dat_melding (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        175.49,
+        481.69,
+        238.47,
+        490.69
+      ],
+      "text": "dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        482.45,
+        172.35,
+        490.49
+      ],
+      "text": "<aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        495.29,
+        339.32,
+        503.33
+      ],
+      "text": "<einde:0_regels_overtreden:4:0_regel_overtr_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        532.93,
+        483.67,
+        541.93
+      ],
+      "text": "<begin:0_regels_overtreden:5:0_regel_overtr_06>opname inrichting niet tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        545.77,
+        136.83,
+        554.77
+      ],
+      "text": "doorgegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        558.49,
+        508.32,
+        567.49
+      ],
+      "text": "Eén daarvan is dat u het binnen een week aan ons doorgeeft wanneer u bent opgenomen in een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        571.33,
+        489.11,
+        580.33
+      ],
+      "text": "medische instelling. U bent op datum verhuizing<dat_verhuizing opgenomen in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        377.23,
+        572.09,
+        421.67,
+        580.13
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        152.9,
+        584.17,
+        538.48,
+        593.17
+      ],
+      "text": "(tekst)>, maar gaf dit pas op datum melding verhuizing<dat_melding_verhuizing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        584.93,
+        150.09,
+        592.97
+      ],
+      "text": "<naam_instelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        118.58,
+        596.89,
+        377.95,
+        605.89
+      ],
+      "text": "aan ons door. Dit is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        597.65,
+        311.84,
+        605.69
+      ],
+      "text": "(datum)> <aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        610.52,
+        339.32,
+        618.56
+      ],
+      "text": "<einde:0_regels_overtreden:5:0_regel_overtr_06>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        648.16,
+        482.8,
+        657.16
+      ],
+      "text": "<begin:0_regels_overtreden:6:0_regel_overtr_07>niet op afspraak verschenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        661.0,
+        523.32,
+        670.0
+      ],
+      "text": "Eén daarvan is dat u verschijnt op onze afspraken. Wij hebben u uitgenodigd voor een gesprek met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        673.72,
+        92.25,
+        682.72
+      ],
+      "text": "onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.42,
+        674.48,
+        495.24,
+        682.52
+      ],
+      "text": "<kl_ad_arts_aw_rib_va (keuzelijst) keuzes=(,adviseur werk,arbeidsdeskundige,arts,re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        687.32,
+        537.49,
+        695.36
+      ],
+      "text": "integratiebegeleider,verzekeringsarts)> <kl_heer_mevrouw (keuzelijst) keuzes=(,de heer,mevrouw)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        209.21,
+        699.4,
+        539.77,
+        708.4
+      ],
+      "text": "op (datum)>. Maar u bent niet op de afspraak gekomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        700.16,
+        296.45,
+        708.2
+      ],
+      "text": "<naam_medewerker (tekst)> <dat_spreekuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        712.12,
+        195.08,
+        721.12
+      ],
+      "text": "en heeft ook niet afgezegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.34,
+        725.72,
+        339.32,
+        733.76
+      ],
+      "text": "<einde:0_regels_overtreden:6:0_regel_overtr_07>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 3/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        72.06,
+        530.68,
+        81.06
+      ],
+      "text": "<begin:0_regels_overtreden:7:0_regel_overtr_08>niet meegewerkt aan onderzoek va of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        84.92,
+        83.23,
+        93.92
+      ],
+      "text": "ad",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        97.64,
+        164.44,
+        106.64
+      ],
+      "text": "Eén daarvan is dat u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        111.24,
+        528.95,
+        119.28
+      ],
+      "text": "<begin:0_antwoord_onderzoek> waarde=0_antw_onderz_01 <0_antwoord_onderzoek (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        124.08,
+        205.86,
+        132.12
+      ],
+      "text": "waarde=0_antw_onderz_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        148.88,
+        537.26,
+        157.88
+      ],
+      "text": "<begin:0_antwoord_onderzoek:1:0_antw_onderz_01>antwoord geeft op de vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        161.72,
+        89.23,
+        170.72
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        174.44,
+        221.87,
+        183.44
+      ],
+      "text": "antwoord geeft op de vragen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        188.04,
+        390.56,
+        196.08
+      ],
+      "text": "<einde:0_antwoord_onderzoek:1:0_antw_onderz_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        225.68,
+        527.81,
+        234.68
+      ],
+      "text": "<begin:0_antwoord_onderzoek:2:0_antw_onderz_02>zich laat onderzoeken door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        238.52,
+        193.14,
+        247.52
+      ],
+      "text": "zich laat onderzoeken door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        252.0,
+        390.56,
+        260.04
+      ],
+      "text": "<einde:0_antwoord_onderzoek:2:0_antw_onderz_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        277.71,
+        220.02,
+        285.75
+      ],
+      "text": "<0_antwoord_onderzoek:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.06,
+        289.67,
+        529.2,
+        298.67
+      ],
+      "text": "onze keuzes=(,arbeidsdeskundige,arts)>. Maar tijdens het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        98.54,
+        290.43,
+        284.06,
+        298.47
+      ],
+      "text": "<kl_arts_of_ad (keuzelijst) waarde=arts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        302.51,
+        127.62,
+        311.51
+      ],
+      "text": "gesprek met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        130.82,
+        303.27,
+        509.87,
+        311.31
+      ],
+      "text": "<kl_heer_mevrouw (keuzelijst) keuzes=(,de heer,mevrouw)> <naam_medewerker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        112.46,
+        315.35,
+        281.95,
+        324.35
+      ],
+      "text": "op wilde u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        316.11,
+        246.78,
+        324.15
+      ],
+      "text": "(tekst)> <dat_spreekuur (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        328.83,
+        486.18,
+        336.87
+      ],
+      "text": "<begin:0_antwoord_onderzoek_f> waarde=0_antw_onderz_03 <0_antwoord_onderzoek_f",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        341.67,
+        266.7,
+        349.71
+      ],
+      "text": "(bouwsteen) waarde=0_antw_onderz_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        366.47,
+        484.5,
+        375.47
+      ],
+      "text": "<begin:0_antwoord_onderzoek_f:1:0_antw_onderz_03>onze vragen niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        379.31,
+        144.01,
+        388.31
+      ],
+      "text": "beantwoorden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        392.15,
+        214.31,
+        401.15
+      ],
+      "text": "onze vragen niet beantwoorden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        405.63,
+        399.83,
+        413.67
+      ],
+      "text": "<einde:0_antwoord_onderzoek_f:1:0_antw_onderz_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        443.29,
+        539.72,
+        452.29
+      ],
+      "text": "<begin:0_antwoord_onderzoek_f:2:0_antw_onderz_04>zich niet laten onderzoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        456.13,
+        195.36,
+        465.13
+      ],
+      "text": "zich niet laten onderzoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.86,
+        469.73,
+        399.83,
+        477.77
+      ],
+      "text": "<einde:0_antwoord_onderzoek_f:2:0_antw_onderz_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        495.29,
+        229.02,
+        503.33
+      ],
+      "text": "<0_antwoord_onderzoek_f:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        507.37,
+        74.22,
+        516.37
+      ],
+      "text": ".",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        520.85,
+        339.32,
+        528.89
+      ],
+      "text": "<einde:0_regels_overtreden:7:0_regel_overtr_08>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        558.49,
+        507.99,
+        567.49
+      ],
+      "text": "<begin:0_regels_overtreden:8:0_regel_overtr_09>aanwijzingen arts niet opgevolgd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        571.33,
+        512.14,
+        580.33
+      ],
+      "text": "Eén daarvan is dat u de aanwijzingen van arts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        263.57,
+        572.09,
+        491.51,
+        580.13
+      ],
+      "text": "<kl_uw_of_onze (keuzelijst) keuzes=(,onze,uw)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        584.17,
+        540.29,
+        593.17
+      ],
+      "text": "opvolgt. Op heeft arts u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        126.74,
+        584.93,
+        510.83,
+        592.97
+      ],
+      "text": "<dat_mededeling (datum)> <kl_uw_of_onze (keuzelijst) keuzes=(,onze,uw)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        596.89,
+        368.86,
+        605.89
+      ],
+      "text": "gevraagd om (tekst)>. Maar u heeft dit niet gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        133.7,
+        597.65,
+        189.43,
+        605.69
+      ],
+      "text": "<vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        610.52,
+        339.32,
+        618.56
+      ],
+      "text": "<einde:0_regels_overtreden:8:0_regel_overtr_09>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        648.16,
+        445.42,
+        657.16
+      ],
+      "text": "<begin:0_regels_overtreden:9:0_regel_overtr_10>genezing belemmerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        661.0,
+        437.27,
+        670.0
+      ],
+      "text": "Eén daarvan is dat u er alles aan doet om uw kans op genezing te vergroten. Op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        440.74,
+        661.76,
+        520.38,
+        669.8
+      ],
+      "text": "<dat_mededeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        118.58,
+        673.72,
+        141.67,
+        682.72
+      ],
+      "text": "heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        674.48,
+        521.37,
+        682.52
+      ],
+      "text": "(datum)> <kl_wg_ad_va_anders (keuzelijst) keuzes=(,onze arbeidsdeskundige,onze arts,uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        237.41,
+        686.56,
+        542.37,
+        695.56
+      ],
+      "text": "u daarom gevraagd om (tekst)>. Maar u heeft dit niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        687.32,
+        402.47,
+        695.36
+      ],
+      "text": "arbeidsdeskundige,uw werkgever)> <vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        699.4,
+        463.7,
+        708.4
+      ],
+      "text": "gedaan. Op bleek namelijk dat u (tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        126.38,
+        700.16,
+        419.17,
+        708.2
+      ],
+      "text": "<dat_informatie (datum)> <vrije_tekst_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        712.88,
+        339.32,
+        720.92
+      ],
+      "text": "<einde:0_regels_overtreden:9:0_regel_overtr_10>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.34,
+        750.52,
+        497.69,
+        759.52
+      ],
+      "text": "<begin:0_regels_overtreden:10:0_regel_overtr_11>niet meegewerkt aan scholing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 4/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        72.06,
+        512.37,
+        81.06
+      ],
+      "text": "Eén daarvan is dat u een cursus of opleiding moet volgen als dat nodig is om uw kans op werk te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        84.92,
+        344.03,
+        93.92
+      ],
+      "text": "vergroten. Op datum contact<dat_contact heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        273.41,
+        85.68,
+        518.16,
+        93.72
+      ],
+      "text": "(datum)> <kl_uw_onze_ad_wg_aw (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        501.82,
+        97.64,
+        528.38,
+        106.64
+      ],
+      "text": "met u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        98.4,
+        498.71,
+        106.44
+      ],
+      "text": "keuzes=(,onze adviseur werk,onze arbeidsdeskundige,uw arbeidsdeskundige,uw werkgever)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        110.48,
+        527.0,
+        119.48
+      ],
+      "text": "besproken dat u een moet gaan volgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        167.33,
+        111.24,
+        439.07,
+        119.28
+      ],
+      "text": "<kl_cursus_opleid (keuzelijst) keuzes=(,cursus,opleiding)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        123.32,
+        184.44,
+        132.32
+      ],
+      "text": "Maar u heeft laten weten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        187.61,
+        124.08,
+        539.22,
+        132.12
+      ],
+      "text": "<kl_niet_willen_gestopt (keuzelijst) waarde=dat u dat niet wilt keuzes=(,dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        287.76,
+        136.04,
+        322.67,
+        145.04
+      ],
+      "text": "bent)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        136.8,
+        284.96,
+        144.84
+      ],
+      "text": "u dat niet wilt,dat u hier inmiddels mee gestopt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        149.64,
+        345.08,
+        157.68
+      ],
+      "text": "<einde:0_regels_overtreden:10:0_regel_overtr_11>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        187.28,
+        519.78,
+        196.28
+      ],
+      "text": "<begin:0_regels_overtreden:11:0_regel_overtr_12>niet meegewerkt aan re-integratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        200.12,
+        323.71,
+        209.12
+      ],
+      "text": "Eén daarvan is dat u zich houdt aan de afspraken die in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        327.07,
+        200.88,
+        523.58,
+        208.92
+      ],
+      "text": "<kl_plan_visie (keuzelijst) keuzes=(,de re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        335.83,
+        212.84,
+        520.5,
+        221.84
+      ],
+      "text": "van staan. Volgens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        213.6,
+        450.71,
+        221.64
+      ],
+      "text": "integratievisie,uw participatieplan,uw re-integratieplan)> <dat_brief (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        225.68,
+        492.74,
+        234.68
+      ],
+      "text": "onze informatie heeft u zich daar niet aan gehouden. Wij hebben namelijk bericht ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        129.62,
+        238.52,
+        171.21,
+        247.52
+      ],
+      "text": "(tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        239.28,
+        126.8,
+        247.32
+      ],
+      "text": "<vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        252.0,
+        345.08,
+        260.04
+      ],
+      "text": "<einde:0_regels_overtreden:11:0_regel_overtr_12>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        289.67,
+        532.53,
+        298.67
+      ],
+      "text": "<begin:0_regels_overtreden:12:0_regel_overtr_13>niet ingeschreven als werkzoekende,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        302.51,
+        88.94,
+        311.51
+      ],
+      "text": "wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        315.35,
+        532.92,
+        324.35
+      ],
+      "text": "Eén daarvan is dat u zich bij ons inschrijft als werkzoekende. Volgens onze informatie heeft u dat nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        328.07,
+        127.57,
+        337.07
+      ],
+      "text": "niet gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        341.67,
+        345.08,
+        349.71
+      ],
+      "text": "<einde:0_regels_overtreden:12:0_regel_overtr_13>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        379.31,
+        465.67,
+        388.31
+      ],
+      "text": "<begin:0_regels_overtreden:13:0_regel_overtr_14>te laat ingeschreven als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        392.15,
+        168.83,
+        401.15
+      ],
+      "text": "werkzoekende, wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        404.87,
+        414.7,
+        413.87
+      ],
+      "text": "Eén daarvan is dat u zich bij ons inschrijft als werkzoekende. U deed dat op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        211.73,
+        417.71,
+        459.46,
+        426.71
+      ],
+      "text": "(datum)>. Dat is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        418.47,
+        393.32,
+        426.51
+      ],
+      "text": "<dat_inschrijving_werkbedrijf <aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        431.31,
+        345.08,
+        439.35
+      ],
+      "text": "<einde:0_regels_overtreden:13:0_regel_overtr_14>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        468.97,
+        538.74,
+        477.97
+      ],
+      "text": "<begin:0_regels_overtreden:14:0_regel_overtr_15>uitkering te laat aangevraagd, wajong",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        481.69,
+        325.74,
+        490.69
+      ],
+      "text": "Eén daarvan is dat u de uitkering op tijd aanvraagt. Een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        329.11,
+        482.45,
+        530.06,
+        490.49
+      ],
+      "text": "<wajong_uitkering (tekst) waarde=wajong-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        121.94,
+        494.53,
+        204.74,
+        503.53
+      ],
+      "text": "moet u aanvragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        495.29,
+        537.31,
+        503.33
+      ],
+      "text": "uitkering> <kl_aanvr_te_laat (keuzelijst) keuzes=(,drie maanden voordat u 18 jaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        407.15,
+        507.37,
+        455.54,
+        516.37
+      ],
+      "text": "werken)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        508.13,
+        404.49,
+        516.17
+      ],
+      "text": "wordt,op het moment dat u negen maanden door ziekte niet heeft kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        532.93,
+        425.28,
+        541.93
+      ],
+      "text": "U bent op datum verjaardag en 1e ziektedag<dat_verjaardag_1e_zw_dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        428.14,
+        533.69,
+        472.55,
+        541.73
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        319.39,
+        545.77,
+        529.03,
+        554.77
+      ],
+      "text": "geworden. U had de uitkering daarom uiterlijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        546.53,
+        316.28,
+        554.57
+      ],
+      "text": "<kl_18jr_of_ziek (keuzelijst) keuzes=(,18 jaar,ziek)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        558.49,
+        531.49,
+        567.49
+      ],
+      "text": "datum uiterlijk<dat_uiterlijk moeten aanvragen. Maar wij ontvingen uw aanvraag pas op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        211.73,
+        559.25,
+        256.14,
+        567.29
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.82,
+        571.33,
+        417.16,
+        580.33
+      ],
+      "text": "(datum)>. Dat is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        572.09,
+        351.08,
+        580.13
+      ],
+      "text": "<dat_aanvraag <aant_dgn_te_laat (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        584.93,
+        345.08,
+        592.97
+      ],
+      "text": "<einde:0_regels_overtreden:14:0_regel_overtr_15>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        622.6,
+        519.38,
+        631.6
+      ],
+      "text": "<begin:0_regels_overtreden:15:0_regel_overtr_16>uitkering te laat aangevraagd, wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        635.32,
+        510.04,
+        644.32
+      ],
+      "text": "Eén daarvan is dat u de uitkering op tijd aanvraagt. Een WIA-uitkering moet u aanvragen op het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        648.16,
+        135.17,
+        657.16
+      ],
+      "text": "moment dat u",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.38,
+        648.92,
+        497.86,
+        656.96
+      ],
+      "text": "<kl_een_jaar_en_negen_mnd (keuzelijst) waarde=een jaar en negen maanden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        330.79,
+        661.0,
+        450.13,
+        670.0
+      ],
+      "text": "niet heeft kunnen werken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        661.76,
+        327.68,
+        669.8
+      ],
+      "text": "keuzes=(,een jaar en negen maanden,negen maanden)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        686.56,
+        537.81,
+        695.56
+      ],
+      "text": "U bent op ziek geworden. U had de uitkering daarom uiterlijk datum na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        118.34,
+        687.32,
+        253.14,
+        695.36
+      ],
+      "text": "<dat_1e_ziektedag (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        699.4,
+        507.61,
+        708.4
+      ],
+      "text": "1 jaar en 9 maanden<dat_na_1jr_9mnd moeten aanvragen. Maar wij ontvingen uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        266.09,
+        700.16,
+        310.52,
+        708.2
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        712.12,
+        495.58,
+        721.12
+      ],
+      "text": "aanvraag pas op (datum)>. Dat is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        149.3,
+        712.88,
+        429.47,
+        720.92
+      ],
+      "text": "<dat_aanvraag <aant_dgn_te_laat (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.34,
+        725.72,
+        345.08,
+        733.76
+      ],
+      "text": "<einde:0_regels_overtreden:15:0_regel_overtr_16>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 5/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        72.06,
+        523.76,
+        81.06
+      ],
+      "text": "<begin:0_regels_overtreden:16:0_regel_overtr_17>riv niet of niet volledig opgestuurd,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        84.92,
+        88.94,
+        93.92
+      ],
+      "text": "wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        97.64,
+        533.78,
+        106.64
+      ],
+      "text": "Als u een aanvraagt, moet u een volledig ingevuld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        115.94,
+        98.4,
+        347.84,
+        106.44
+      ],
+      "text": "<wia_uitkering (resultaat) waarde=wia-uitkering>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        110.48,
+        284.43,
+        119.48
+      ],
+      "text": "re-integratieverslag opsturen. Maar wij hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        287.83,
+        111.24,
+        522.4,
+        119.28
+      ],
+      "text": "<kl_geen_onvolledig (keuzelijst) keuzes=(,een niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        187.01,
+        123.32,
+        358.87,
+        132.32
+      ],
+      "text": "re-integratieverslag van u ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        124.08,
+        183.9,
+        132.12
+      ],
+      "text": "volledig ingevuld,geen)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        136.8,
+        345.08,
+        144.84
+      ],
+      "text": "<einde:0_regels_overtreden:16:0_regel_overtr_17>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        174.44,
+        479.16,
+        183.44
+      ],
+      "text": "<begin:0_regels_overtreden:17:0_regel_overtr_18>riv te laat opgestuurd, wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        187.28,
+        533.78,
+        196.28
+      ],
+      "text": "Als u een aanvraagt, moet u een volledig ingevuld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        115.94,
+        188.04,
+        347.84,
+        196.08
+      ],
+      "text": "<wia_uitkering (resultaat) waarde=wia-uitkering>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        200.12,
+        511.75,
+        209.12
+      ],
+      "text": "re-integratieverslag opsturen. Op hebben wij u gevraagd om dit uiterlijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        225.65,
+        200.88,
+        335.6,
+        208.92
+      ],
+      "text": "<dat_verzoek (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        212.84,
+        500.84,
+        221.84
+      ],
+      "text": "datum uiterlijk<dat_uiterlijk naar ons op te sturen. Wij hebben het verslag pas op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        211.73,
+        213.6,
+        256.14,
+        221.64
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        193.49,
+        225.68,
+        441.66,
+        234.68
+      ],
+      "text": "ontvangen. Dit is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        226.44,
+        375.56,
+        234.48
+      ],
+      "text": "<dat_ontvangst (datum)> <aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        239.28,
+        345.08,
+        247.32
+      ],
+      "text": "<einde:0_regels_overtreden:17:0_regel_overtr_18>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        276.95,
+        496.69,
+        285.95
+      ],
+      "text": "<begin:0_regels_overtreden:18:0_regel_overtr_19>id-bewijs niet tijdig laten zien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        289.67,
+        461.24,
+        298.67
+      ],
+      "text": "Eén daarvan is dat u een geldig identiteitsbewijs laat zien als wij daarnaar vragen. Op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        464.62,
+        290.43,
+        527.35,
+        298.47
+      ],
+      "text": "<dat_verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        118.58,
+        302.51,
+        489.02,
+        311.51
+      ],
+      "text": "bent u bij ons op gesprek geweest. U had toen geen geldig identiteitsbewijs bij u.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        303.27,
+        115.47,
+        311.31
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        328.83,
+        269.29,
+        336.87
+      ],
+      "text": "<begin:5_id_te_laat> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        340.91,
+        235.54,
+        349.91
+      ],
+      "text": "identiteitsbewijs te laat getoond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        354.51,
+        297.08,
+        362.55
+      ],
+      "text": "<5_id_te_laat (bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.86,
+        379.31,
+        474.86,
+        388.31
+      ],
+      "text": "<begin:5_id_te_laat:1:5_id_te_laat>identiteitsbewijs te laat getoond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        392.15,
+        544.07,
+        401.15
+      ],
+      "text": "Wij hebben u toen gevraagd uiterlijk op datum uiterlijk<dat_uiterlijk uw identiteitsbewijs te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        395.02,
+        392.91,
+        439.31,
+        400.95
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        404.87,
+        388.75,
+        413.87
+      ],
+      "text": "laten zien. U deed dit op datum te laat<dat_te_laat (datum)>. Dit is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        391.9,
+        405.63,
+        493.19,
+        413.67
+      ],
+      "text": "<aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        376.63,
+        417.71,
+        408.91,
+        426.71
+      ],
+      "text": "te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        418.47,
+        373.52,
+        426.51
+      ],
+      "text": "<kl_dag_dagen (keuzelijst) waarde=dagen keuzes=(,dag,dagen)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.86,
+        431.31,
+        310.16,
+        439.35
+      ],
+      "text": "<einde:5_id_te_laat:1:5_id_te_laat>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        270.99,
+        468.97,
+        361.95,
+        477.97
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.86,
+        469.73,
+        268.22,
+        477.77
+      ],
+      "text": "<begin:5_id_te_laat:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        141.86,
+        495.29,
+        304.16,
+        503.33
+      ],
+      "text": "<einde:5_id_te_laat:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        520.85,
+        169.93,
+        528.89
+      ],
+      "text": "<5_id_te_laat:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        533.69,
+        345.08,
+        541.73
+      ],
+      "text": "<einde:0_regels_overtreden:18:0_regel_overtr_19>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        571.33,
+        500.04,
+        580.33
+      ],
+      "text": "<begin:0_regels_overtreden:19:0_regel_overtr_20>niet meegewerkt aan re-int bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        584.17,
+        164.99,
+        593.17
+      ],
+      "text": "aanvraag uitk, wia",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        596.89,
+        536.5,
+        605.89
+      ],
+      "text": "Eén daarvan is dat u er alles aan doet om weer aan het werk te gaan, ook in de periode voordat u een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        305.95,
+        609.76,
+        499.54,
+        618.76
+      ],
+      "text": "kreeg. Wat u in die periode samen met uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        610.52,
+        302.84,
+        618.56
+      ],
+      "text": "<wia_uitkering (resultaat) waarde=wia-uitkering>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        622.6,
+        517.45,
+        631.6
+      ],
+      "text": "werkgever aan uw re-integratie heeft gedaan, staat in uw re-integratieverslag. Wij hebben het re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        635.32,
+        537.45,
+        644.32
+      ],
+      "text": "integratieverslag beoordeeld en volgens ons heeft u niet genoeg gewerkt aan uw re-integratie. U heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        648.16,
+        537.88,
+        657.16
+      ],
+      "text": "namelijk (tekst)>. Meer hierover kunt u lezen in de brief van onze arbeidsdeskundige van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        112.7,
+        648.92,
+        168.54,
+        656.96
+      ],
+      "text": "<vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        122.06,
+        661.0,
+        169.65,
+        670.0
+      ],
+      "text": "(datum)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        661.76,
+        119.32,
+        669.8
+      ],
+      "text": "<dat_brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        674.48,
+        345.08,
+        682.52
+      ],
+      "text": "<einde:0_regels_overtreden:19:0_regel_overtr_20>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.34,
+        712.12,
+        508.89,
+        721.12
+      ],
+      "text": "<begin:0_regels_overtreden:20:0_regel_overtr_21>passend werk niet geaccepteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        724.96,
+        311.93,
+        733.96
+      ],
+      "text": "Eén daarvan is dat u passend werk moet accepteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        751.28,
+        443.14,
+        759.32
+      ],
+      "text": "<begin:5_afwijz_baan> waarde=5_afwijz_baan_01 <5_afwijz_baan (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        764.12,
+        201.78,
+        772.16
+      ],
+      "text": "waarde=5_afwijz_baan_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 6/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.86,
+        84.92,
+        470.72,
+        93.92
+      ],
+      "text": "<begin:5_afwijz_baan:1:5_afwijz_baan_01>afwijzing passende baan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        182.57,
+        97.64,
+        478.55,
+        106.64
+      ],
+      "text": "heeft ons laten weten dat u een passende baan heeft afgewezen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        98.4,
+        179.46,
+        106.44
+      ],
+      "text": "<naam_bedrijf (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.86,
+        111.24,
+        345.56,
+        119.28
+      ],
+      "text": "<einde:5_afwijz_baan:1:5_afwijz_baan_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.86,
+        148.88,
+        518.13,
+        157.88
+      ],
+      "text": "<begin:5_afwijz_baan:2:5_afwijz_baan_02>afwijzing passende baan, ivm met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        161.72,
+        167.27,
+        170.72
+      ],
+      "text": "extra voorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        182.57,
+        174.44,
+        510.37,
+        183.44
+      ],
+      "text": "heeft ons laten weten dat u een passende baan heeft afgewezen, omdat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        175.2,
+        179.46,
+        183.24
+      ],
+      "text": "<naam_bedrijf (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        129.62,
+        187.28,
+        171.21,
+        196.28
+      ],
+      "text": "(tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        188.04,
+        126.8,
+        196.08
+      ],
+      "text": "<vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        141.86,
+        200.88,
+        345.56,
+        208.92
+      ],
+      "text": "<einde:5_afwijz_baan:2:5_afwijz_baan_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        226.44,
+        179.17,
+        234.48
+      ],
+      "text": "<5_afwijz_baan:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        252.0,
+        345.08,
+        260.04
+      ],
+      "text": "<einde:0_regels_overtreden:20:0_regel_overtr_21>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        289.67,
+        510.34,
+        298.67
+      ],
+      "text": "<begin:0_regels_overtreden:21:0_regel_overtr_22>onvoldoende gedaan om werk te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        302.51,
+        120.76,
+        311.51
+      ],
+      "text": "behouden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        315.35,
+        539.35,
+        324.35
+      ],
+      "text": "Eén daarvan is dat u er alles aan moet doen om uw werk te houden. heeft ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        385.63,
+        316.11,
+        494.03,
+        324.15
+      ],
+      "text": "<naam_bedrijf (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        328.07,
+        461.95,
+        337.07
+      ],
+      "text": "laten weten dat u onvoldoende heeft gedaan om uw werk te houden. U heeft namelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        465.46,
+        328.83,
+        521.2,
+        336.87
+      ],
+      "text": "<vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        340.91,
+        112.74,
+        349.91
+      ],
+      "text": "(tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        354.51,
+        345.08,
+        362.55
+      ],
+      "text": "<einde:0_regels_overtreden:21:0_regel_overtr_22>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        392.15,
+        541.93,
+        401.15
+      ],
+      "text": "<begin:0_regels_overtreden:22:0_regel_overtr_24>onvoldoende gedaan om passend werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        404.87,
+        120.16,
+        413.87
+      ],
+      "text": "te zoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        417.71,
+        535.7,
+        426.71
+      ],
+      "text": "Eén daarvan is dat u er alles aan moet doen om passend werk te vinden. Uit onze informatie blijkt dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        430.55,
+        402.14,
+        439.55
+      ],
+      "text": "u dat onvoldoende heeft gedaan. U heeft namelijk (tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        301.87,
+        431.31,
+        357.72,
+        439.35
+      ],
+      "text": "<vrije_tekst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        444.05,
+        345.08,
+        452.09
+      ],
+      "text": "<einde:0_regels_overtreden:22:0_regel_overtr_24>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        481.69,
+        513.26,
+        490.69
+      ],
+      "text": "<begin:0_regels_overtreden:23:0_regel_overtr_23>proefplaatsing, niet doorgegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        494.53,
+        535.06,
+        503.53
+      ],
+      "text": "Eén daarvan is dat u aan ons doorgeeft als u bent gaan werken, ook als u op proef bent gaan werken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        507.37,
+        498.74,
+        516.37
+      ],
+      "text": "U heeft ons niet laten weten dat u op proef bent gaan werken bij (tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        368.95,
+        508.13,
+        454.4,
+        516.17
+      ],
+      "text": "<naam_werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        520.85,
+        345.08,
+        528.89
+      ],
+      "text": "<einde:0_regels_overtreden:23:0_regel_overtr_23>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        558.49,
+        532.82,
+        567.49
+      ],
+      "text": "<begin:0_regels_overtreden:24:0_regel_overtr_25>ondanks afspr verblijf buitenl -4 wkn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        571.33,
+        130.73,
+        580.33
+      ],
+      "text": "niet gemeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        584.17,
+        520.77,
+        593.17
+      ],
+      "text": "Wij hebben met u afgesproken dat u uiterlijk twee weken voor uw vertrek doorgeeft dat u naar het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        596.89,
+        502.02,
+        605.89
+      ],
+      "text": "buitenland gaat. U vertrok op naar het buitenland, maar gaf dit pas op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        208.01,
+        597.65,
+        315.2,
+        605.69
+      ],
+      "text": "<dat_vertrek (datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        234.77,
+        609.76,
+        494.26,
+        618.76
+      ],
+      "text": "aan ons door. Dit is dagen te laat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        610.52,
+        428.03,
+        618.56
+      ],
+      "text": "<dat_doorgeven_vertrek (datum)> <aant_dagen (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        623.36,
+        345.08,
+        631.4
+      ],
+      "text": "<einde:0_regels_overtreden:24:0_regel_overtr_25>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        648.92,
+        207.17,
+        656.96
+      ],
+      "text": "<0_regels_overtreden:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        687.32,
+        247.76,
+        695.36
+      ],
+      "text": "<begin:1_reden> waarde=1_reden_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        699.4,
+        264.31,
+        708.4
+      ],
+      "text": "Reactie klant, wel/geen geldige reden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        712.88,
+        280.38,
+        720.92
+      ],
+      "text": "<1_reden (bouwsteen) waarde=1_reden_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        106.34,
+        737.8,
+        497.62,
+        746.8
+      ],
+      "text": "<begin:1_reden:1:1_reden_01>cliënt reageert, geen geldige reden, verwijtbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        763.36,
+        510.42,
+        772.36
+      ],
+      "text": "U heeft ons laten weten dat (tekst)>. Dit is voor ons echter geen geldige reden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        199.85,
+        764.12,
+        272.73,
+        772.16
+      ],
+      "text": "<vrije_tekst_99",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 7/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        85.68,
+        251.94,
+        93.72
+      ],
+      "text": "<einde:1_reden:1:1_reden_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        123.32,
+        505.77,
+        132.32
+      ],
+      "text": "<begin:1_reden:2:1_reden_02>cliënt reageert, geldige reden, minder verwijtbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        148.88,
+        536.48,
+        157.88
+      ],
+      "text": "U heeft ons laten weten dat (tekst)>. Wij hebben hier rekening mee gehouden bij het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        199.85,
+        149.64,
+        272.73,
+        157.68
+      ],
+      "text": "<vrije_tekst_99",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        161.72,
+        280.47,
+        170.72
+      ],
+      "text": "vaststellen van de verlaging van uw uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        188.04,
+        251.94,
+        196.08
+      ],
+      "text": "<einde:1_reden:2:1_reden_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        225.68,
+        392.81,
+        234.68
+      ],
+      "text": "<begin:1_reden:3:1_reden_04>cliënt niet heeft gereageerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        251.24,
+        523.26,
+        260.24
+      ],
+      "text": "Wij hebben u de kans gegeven om een reden te geven voor deze overtreding. Hiervan heeft u geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        264.11,
+        150.73,
+        273.11
+      ],
+      "text": "gebruik gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        290.43,
+        251.94,
+        298.47
+      ],
+      "text": "<einde:1_reden:3:1_reden_04>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        328.07,
+        420.73,
+        337.07
+      ],
+      "text": "<begin:1_reden:4:1_reden_05>spontaan herstel van overtreding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        353.75,
+        537.08,
+        362.75
+      ],
+      "text": "U heeft ons al op laten weten dat (tekst)>. Wij hebben hier rekening mee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        151.34,
+        354.51,
+        352.95,
+        362.55
+      ],
+      "text": "<dat_info (datum)> <reden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        366.47,
+        360.2,
+        375.47
+      ],
+      "text": "gehouden bij het vaststellen van de verlaging van uw uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        392.91,
+        251.94,
+        400.95
+      ],
+      "text": "<einde:1_reden:4:1_reden_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        418.47,
+        150.15,
+        426.51
+      ],
+      "text": "<1_reden:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        431.31,
+        266.53,
+        439.35
+      ],
+      "text": "<begin:1_reden_02> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        443.29,
+        414.03,
+        452.29
+      ],
+      "text": "als de cliënt de afgelopen twee jaar dezelfde regel heeft overtreden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        456.89,
+        294.32,
+        464.93
+      ],
+      "text": "<1_reden_02 (bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        481.69,
+        512.2,
+        490.69
+      ],
+      "text": "<begin:1_reden_02:1:1_reden_03>cliënt afgelopen 2 jr dezelfde regel heeft overtr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        507.37,
+        527.1,
+        516.37
+      ],
+      "text": "De afgelopen twee jaar is het al eerder voorgekomen dat u zich niet aan deze regel heeft gehouden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        520.09,
+        381.71,
+        529.09
+      ],
+      "text": "Het bedrag waarmee wij uw uitkering nu verlagen, is daarom hoger.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        546.53,
+        268.98,
+        554.57
+      ],
+      "text": "<einde:1_reden_02:1:1_reden_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        232.6,
+        584.17,
+        323.53,
+        593.17
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        584.93,
+        229.82,
+        592.97
+      ],
+      "text": "<begin:1_reden_02:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        610.52,
+        265.86,
+        618.56
+      ],
+      "text": "<einde:1_reden_02:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        636.08,
+        167.17,
+        644.12
+      ],
+      "text": "<1_reden_02:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        648.92,
+        295.38,
+        656.96
+      ],
+      "text": "<begin:1_uitbet_uitk> waarde=1_uitbet_uitk_01",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        661.0,
+        405.06,
+        670.0
+      ],
+      "text": "Soort beslissing (WAO/WAZ/Wajong, WIA, toeslag €25/ € 37,50)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        674.48,
+        328.28,
+        682.52
+      ],
+      "text": "<1_uitbet_uitk (bouwsteen) waarde=1_uitbet_uitk_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        106.34,
+        699.4,
+        413.23,
+        708.4
+      ],
+      "text": "<begin:1_uitbet_uitk:1:1_uitbet_uitk_01>mtr waozj overtreding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 8/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        72.06,
+        295.39,
+        81.06
+      ],
+      "text": "Beslissing over de betaling van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        84.92,
+        535.22,
+        93.92
+      ],
+      "text": "Wij verlagen uw uitkering van datum begin maatregel<dat_begin_mtr tot en met datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        404.74,
+        85.68,
+        449.03,
+        93.72
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        97.64,
+        421.25,
+        106.64
+      ],
+      "text": "einde maatregel<dat_einde_mtr met uitkeringspercentage na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        229.73,
+        98.4,
+        274.02,
+        106.44
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        110.48,
+        251.73,
+        119.48
+      ],
+      "text": "maatregel<%perc_na_mtr (getal)>%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        123.32,
+        521.97,
+        132.32
+      ],
+      "text": "Dit betekent dat uw uitkering in deze periode bruto per dag is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        279.79,
+        124.08,
+        435.35,
+        132.12
+      ],
+      "text": "<e> <bedr_verlaging_pd (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        136.04,
+        474.33,
+        145.04
+      ],
+      "text": "plaats van bedrag: bruto uitkering per dag<bedr_bruto_uitk_pd (getal)>. Dat is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        120.86,
+        136.8,
+        140.19,
+        144.84
+      ],
+      "text": "<e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        214.73,
+        148.88,
+        294.16,
+        157.88
+      ],
+      "text": "bruto per maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        149.64,
+        211.62,
+        157.68
+      ],
+      "text": "<e> <bedr_bruto_pm (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        174.44,
+        459.71,
+        183.44
+      ],
+      "text": "In totaal verlagen wij uw uitkering over deze periode met bedrag: totaal bruto",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        335.59,
+        175.2,
+        354.8,
+        183.24
+      ],
+      "text": "<e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        187.28,
+        284.1,
+        196.28
+      ],
+      "text": "verlaagd<bedr_totaal_br_verl bruto.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        215.33,
+        188.04,
+        253.62,
+        196.08
+      ],
+      "text": "(getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        213.6,
+        299.72,
+        221.64
+      ],
+      "text": "<einde:1_uitbet_uitk:1:1_uitbet_uitk_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        251.24,
+        516.12,
+        260.24
+      ],
+      "text": "<begin:1_uitbet_uitk:2:1_uitbet_uitk_02>mtr waozj overtred, wisselende inkomsten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        276.95,
+        295.39,
+        285.95
+      ],
+      "text": "Beslissing over de betaling van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        289.67,
+        535.22,
+        298.67
+      ],
+      "text": "Wij verlagen uw uitkering van datum begin maatregel<dat_begin_mtr tot en met datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        404.74,
+        290.43,
+        449.03,
+        298.47
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        302.51,
+        421.25,
+        311.51
+      ],
+      "text": "einde maatregel<dat_einde_mtr met uitkeringspercentage na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        229.73,
+        303.27,
+        274.02,
+        311.31
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        315.35,
+        251.73,
+        324.35
+      ],
+      "text": "maatregel<%perc_na_mtr (getal)>%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        328.07,
+        515.92,
+        337.07
+      ],
+      "text": "Omdat u wisselende inkomsten naast uw uitkering heeft, verschilt de hoogte van uw uitkering per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        340.91,
+        477.47,
+        349.91
+      ],
+      "text": "maand. Hierdoor verschilt ook het bedrag waarmee wij uw uitkering verlagen per maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        367.23,
+        299.72,
+        375.27
+      ],
+      "text": "<einde:1_uitbet_uitk:2:1_uitbet_uitk_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        404.87,
+        373.65,
+        413.87
+      ],
+      "text": "<begin:1_uitbet_uitk:3:1_uitbet_uitk_03>mtr op toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        430.55,
+        286.63,
+        439.55
+      ],
+      "text": "Beslissing over de betaling van uw toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        443.29,
+        527.66,
+        452.29
+      ],
+      "text": "Wij verlagen uw toeslag van datum begin maatregel<dat_begin_mtr tot en met datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        397.18,
+        444.05,
+        441.47,
+        452.09
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        456.13,
+        421.25,
+        465.13
+      ],
+      "text": "einde maatregel<dat_einde_mtr met uitkeringspercentage na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        229.73,
+        456.89,
+        274.02,
+        464.93
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        468.97,
+        251.72,
+        477.97
+      ],
+      "text": "maatregel<%perc_na_mtr (getal)>%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        481.69,
+        514.43,
+        490.69
+      ],
+      "text": "Dit betekent dat uw toeslag in deze periode bruto per dag is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        272.21,
+        482.45,
+        427.91,
+        490.49
+      ],
+      "text": "<e> <bedr_verlaging_pd (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        494.53,
+        509.36,
+        503.53
+      ],
+      "text": "plaats van (getal)>. Dat is bruto per maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        120.86,
+        495.29,
+        426.71,
+        503.33
+      ],
+      "text": "<e> <bedr_toeslag <e> <bedr_bruto_pm (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        520.09,
+        452.15,
+        529.09
+      ],
+      "text": "In totaal verlagen wij uw toeslag over deze periode met bedrag: totaal bruto",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        328.03,
+        520.85,
+        347.24,
+        528.89
+      ],
+      "text": "<e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        532.93,
+        284.1,
+        541.93
+      ],
+      "text": "verlaagd<bedr_totaal_br_verl bruto.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        215.33,
+        533.69,
+        253.62,
+        541.73
+      ],
+      "text": "(getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        559.25,
+        299.72,
+        567.29
+      ],
+      "text": "<einde:1_uitbet_uitk:3:1_uitbet_uitk_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        596.89,
+        492.39,
+        605.89
+      ],
+      "text": "<begin:1_uitbet_uitk:4:1_uitbet_uitk_05>uitkering lager dan € 25,00 of € 37,50",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        622.6,
+        295.39,
+        631.6
+      ],
+      "text": "Beslissing over de betaling van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        635.32,
+        535.22,
+        644.32
+      ],
+      "text": "Wij verlagen uw uitkering van datum begin maatregel<dat_begin_mtr tot en met datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        404.74,
+        636.08,
+        449.03,
+        644.12
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        648.16,
+        457.32,
+        657.16
+      ],
+      "text": "einde maatregel<dat_einde_mtr (datum)>. In totaal verlagen wij uw uitkering met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        460.66,
+        648.92,
+        479.99,
+        656.96
+      ],
+      "text": "<e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        218.09,
+        661.0,
+        497.18,
+        670.0
+      ],
+      "text": "keuzes=(,25,00,37,50)>. Dit bedrag is inclusief vakantiegeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        661.76,
+        215.43,
+        669.8
+      ],
+      "text": "<kl_totaalbedragen (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        687.32,
+        299.72,
+        695.36
+      ],
+      "text": "<einde:1_uitbet_uitk:4:1_uitbet_uitk_05>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        106.34,
+        724.96,
+        483.27,
+        733.96
+      ],
+      "text": "<begin:1_uitbet_uitk:5:1_uitbet_uitk_09>toeslag lager dan € 25,00 of € 37,50",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        750.52,
+        286.63,
+        759.52
+      ],
+      "text": "Beslissing over de betaling van uw toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94,
+        796.98,
+        125.5,
+        805.98
+      ],
+      "text": "Pagina 9/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        72.06,
+        503.38,
+        81.06
+      ],
+      "text": "Wij verlagen uw toeslag van datum begin maatregel datum begin maatregel<dat_begin_mtr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        118.58,
+        84.92,
+        532.49,
+        93.92
+      ],
+      "text": "tot en met datum einde maatregel datum einde maatregel<dat_einde_mtr (datum)>. In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        85.68,
+        115.47,
+        93.72
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        97.64,
+        530.95,
+        106.64
+      ],
+      "text": "totaal verlagen wij uw toeslag met keuzes=(,25,00,37,50)>. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        231.17,
+        98.4,
+        398.0,
+        106.44
+      ],
+      "text": "<e> <kl_totaalbedragen (keuzelijst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        110.48,
+        216.56,
+        119.48
+      ],
+      "text": "bedrag is inclusief vakantiegeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        136.8,
+        299.72,
+        144.84
+      ],
+      "text": "<einde:1_uitbet_uitk:5:1_uitbet_uitk_09>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        174.44,
+        536.26,
+        183.44
+      ],
+      "text": "<begin:1_uitbet_uitk:6:1_uitbet_uitk_06>geen tw > 1 jr na aanvraag, gedeeltel maatreg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        200.12,
+        286.63,
+        209.12
+      ],
+      "text": "Beslissing over de betaling van uw toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        212.84,
+        540.23,
+        221.84
+      ],
+      "text": "U krijgt toeslag vanaf (datum)>. Dat is één jaar voor uw aanvraag. U",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        171.65,
+        213.6,
+        322.41,
+        221.64
+      ],
+      "text": "<dat_1_jr_eerder_dan_aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        225.68,
+        540.33,
+        234.68
+      ],
+      "text": "kunt namelijk geen toeslag krijgen over een periode die verder ligt dan een jaar vóór de datum waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        238.52,
+        217.89,
+        247.52
+      ],
+      "text": "u de toeslag heeft aangevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        264.11,
+        537.16,
+        273.11
+      ],
+      "text": "Omdat u de toeslag te laat heeft aangevraagd, verlagen wij bovendien uw toeslag over de periode van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        276.95,
+        426.98,
+        285.95
+      ],
+      "text": "datum begin maatregel<dat_begin_mtr tot en met datum einde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        265.73,
+        277.71,
+        310.16,
+        285.75
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        289.67,
+        520.66,
+        298.67
+      ],
+      "text": "maatregel<dat_einde_mtr met uitkeringspercentage na maatregel<%perc_na_mtr",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        198.77,
+        290.43,
+        243.3,
+        298.47
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        302.51,
+        122.34,
+        311.51
+      ],
+      "text": "(getal)>%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        315.35,
+        514.43,
+        324.35
+      ],
+      "text": "Dit betekent dat uw toeslag in deze periode bruto per dag is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        272.21,
+        316.11,
+        427.91,
+        324.15
+      ],
+      "text": "<e> <bedr_verlaging_pd (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        328.07,
+        509.36,
+        337.07
+      ],
+      "text": "plaats van (getal)>. Dat is bruto per maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        120.86,
+        328.83,
+        426.71,
+        336.87
+      ],
+      "text": "<e> <bedr_toeslag <e> <bedr_bruto_pm (getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        353.75,
+        442.31,
+        362.75
+      ],
+      "text": "In totaal verlagen wij uw toeslag over de periode met bedrag: totaal bruto",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        317.95,
+        354.51,
+        337.28,
+        362.55
+      ],
+      "text": "<e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        366.47,
+        284.1,
+        375.47
+      ],
+      "text": "verlaagd<bedr_totaal_br_verl bruto.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        215.33,
+        367.23,
+        253.62,
+        375.27
+      ],
+      "text": "(getal)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        392.15,
+        502.29,
+        401.15
+      ],
+      "text": "Als u zich binnen twee jaar nog een keer niet aan deze regel houdt, zullen wij uw toeslag extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        404.87,
+        113.43,
+        413.87
+      ],
+      "text": "verlagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        431.31,
+        299.72,
+        439.35
+      ],
+      "text": "<einde:1_uitbet_uitk:6:1_uitbet_uitk_06>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        468.97,
+        513.97,
+        477.97
+      ],
+      "text": "<begin:1_uitbet_uitk:7:1_uitbet_uitk_07>geen tw > 1 jr na aanvraag, geen maatreg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        494.53,
+        286.63,
+        503.53
+      ],
+      "text": "Beslissing over de betaling van uw toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        507.37,
+        532.94,
+        516.37
+      ],
+      "text": "U krijgt geen toeslag over de periode van datum te laat<dat_tw_vanaf tot en met datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        402.46,
+        508.13,
+        446.75,
+        516.17
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        520.09,
+        531.84,
+        529.09
+      ],
+      "text": "te laat<dat_tw_tem (datum)>. U kunt namelijk geen toeslag krijgen over een periode die verder ligt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        532.93,
+        384.0,
+        541.93
+      ],
+      "text": "dan een jaar vóór de datum waarop u de toeslag heeft aangevraagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        558.49,
+        520.27,
+        567.49
+      ],
+      "text": "U heeft de toeslag te laat aangevraagd. Als u toeslag had gekregen, hadden wij daarom de toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        571.33,
+        113.32,
+        580.33
+      ],
+      "text": "verlaagd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        596.89,
+        502.29,
+        605.89
+      ],
+      "text": "Als u zich binnen twee jaar nog een keer niet aan deze regel houdt, zullen wij uw toeslag extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        609.76,
+        113.43,
+        618.76
+      ],
+      "text": "verlagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        636.08,
+        299.72,
+        644.12
+      ],
+      "text": "<einde:1_uitbet_uitk:7:1_uitbet_uitk_07>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        106.34,
+        673.72,
+        370.93,
+        682.72
+      ],
+      "text": "<begin:1_uitbet_uitk:8:1_uitbet_uitk_08>uitkering nihil",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        699.4,
+        295.39,
+        708.4
+      ],
+      "text": "Beslissing over de betaling van uw uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        712.12,
+        531.99,
+        721.12
+      ],
+      "text": "Wij verlagen uw uitkering van datum begin maatregel<dat_begin_mtr tot en met datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        404.74,
+        712.88,
+        449.03,
+        720.92
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        724.96,
+        456.87,
+        733.96
+      ],
+      "text": "datum einde maatregel<dat_einde_mtr met uitkeringspercentage na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        265.13,
+        725.72,
+        309.56,
+        733.76
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        737.8,
+        251.72,
+        746.8
+      ],
+      "text": "maatregel<%perc_na_mtr (getal)>%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 10/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        72.06,
+        512.98,
+        81.06
+      ],
+      "text": "De verlaging heeft nu geen financiële gevolgen, omdat u op dit moment geen uitkering ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        84.92,
+        540.7,
+        93.92
+      ],
+      "text": "Verandert uw situatie in deze periode en krijgt u weer recht op betaling van de uitkering? Dan verlagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        97.64,
+        472.69,
+        106.64
+      ],
+      "text": "wij de uitkering met uitkeringspercentage na maatregel<%perc_na_mtr (getal)>%.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        124.08,
+        299.72,
+        132.12
+      ],
+      "text": "<einde:1_uitbet_uitk:8:1_uitbet_uitk_08>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        149.64,
+        173.91,
+        157.68
+      ],
+      "text": "<1_uitbet_uitk:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        162.48,
+        285.12,
+        170.52
+      ],
+      "text": "<begin:1_twk_verlaagd> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        174.44,
+        352.63,
+        183.44
+      ],
+      "text": "als uitkering met terugwerkende kracht wordt verlaagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        188.04,
+        312.92,
+        196.08
+      ],
+      "text": "<1_twk_verlaagd (bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        212.84,
+        514.92,
+        221.84
+      ],
+      "text": "<begin:1_twk_verlaagd:1:1_twk_verlaagd>als uitk met terugwerkende kracht wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        225.68,
+        114.9,
+        234.68
+      ],
+      "text": "verlaagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        251.24,
+        448.42,
+        260.24
+      ],
+      "text": "Over de periode van datum vanaf<dat_vanaf tot en met datum tot en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        284.95,
+        252.0,
+        329.24,
+        260.04
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        264.11,
+        520.5,
+        273.11
+      ],
+      "text": "met<dat_tot_en_met heeft u uw normale uitkering al ontvangen. Het bedrag dat u over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        173.21,
+        264.87,
+        217.62,
+        272.91
+      ],
+      "text": "(datum)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        276.95,
+        514.62,
+        285.95
+      ],
+      "text": "deze periode te veel heeft ontvangen, moet u terugbetalen. Hierover ontvangt u een aparte brief.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        303.27,
+        306.44,
+        311.31
+      ],
+      "text": "<einde:1_twk_verlaagd:1:1_twk_verlaagd>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        251.31,
+        340.91,
+        342.27,
+        349.91
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        341.67,
+        248.65,
+        349.71
+      ],
+      "text": "<begin:1_twk_verlaagd:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        367.23,
+        284.58,
+        375.27
+      ],
+      "text": "<einde:1_twk_verlaagd:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        392.91,
+        185.79,
+        400.95
+      ],
+      "text": "<1_twk_verlaagd:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        405.63,
+        257.3,
+        413.67
+      ],
+      "text": "<begin:1_ri_bs_a> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        417.71,
+        210.59,
+        426.71
+      ],
+      "text": "Re-integratieboodschappen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        431.31,
+        285.06,
+        439.35
+      ],
+      "text": "<1_ri_bs_a (bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        456.13,
+        401.64,
+        465.13
+      ],
+      "text": "<begin:1_ri_bs_a:1:1_ri_bs_d>klant verdient naar vermogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        481.69,
+        247.18,
+        490.69
+      ],
+      "text": "Als u problemen krijgt met werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        494.53,
+        542.84,
+        503.53
+      ],
+      "text": "Op dit moment werkt u zoveel u kunt. Krijgt u problemen met uw werk of met uw gezondheid? Laat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        507.37,
+        494.66,
+        516.37
+      ],
+      "text": "ons dan weten. Op kunt u lezen wat wij voor u kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        159.5,
+        508.13,
+        331.4,
+        516.17
+      ],
+      "text": "<uwv_nl (resultaat) waarde=uwv.nl>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        520.09,
+        121.58,
+        529.09
+      ],
+      "text": "betekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        546.53,
+        250.86,
+        554.57
+      ],
+      "text": "<einde:1_ri_bs_a:1:1_ri_bs_d>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        584.17,
+        484.64,
+        593.17
+      ],
+      "text": "<begin:1_ri_bs_a:2:1_ri_bs_e>klant verdient bij wgr nog niet naar vermogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        609.76,
+        181.94,
+        618.76
+      ],
+      "text": "Geschikt werk zoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        622.6,
+        541.81,
+        631.6
+      ],
+      "text": "Op dit moment verdient u nog niet zoveel als u kunt verdienen volgens de arbeidsdeskundige. Wij gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        635.32,
+        532.13,
+        644.32
+      ],
+      "text": "ervan uit dat u samen met uw werkgever probeert om geschikt werk te vinden waarmee u meer kunt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        648.16,
+        443.06,
+        657.16
+      ],
+      "text": "verdienen. Bij uw eigen werkgever, of als dat niet lukt, bij een nieuwe werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        674.48,
+        250.62,
+        682.52
+      ],
+      "text": "<einde:1_ri_bs_a:2:1_ri_bs_e>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        106.34,
+        712.12,
+        355.49,
+        721.12
+      ],
+      "text": "<begin:1_ri_bs_a:3:1_ri_bs_f>klant zoekt nog werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        737.8,
+        162.18,
+        746.8
+      ],
+      "text": "Zoeken naar werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        750.52,
+        510.65,
+        759.52
+      ],
+      "text": "Op dit moment bent u nog op zoek naar een baan. Wij gaan ervan uit dat u er alles aan doet om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        763.36,
+        539.11,
+        772.36
+      ],
+      "text": "geschikt werk te vinden. Onze arbeidsdeskundige helpt u graag daarbij. Met hem bespreekt u wat voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 11/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        72.06,
+        498.47,
+        81.06
+      ],
+      "text": "soort werk u kunt en wilt gaan doen. En hij bekijkt welke begeleiding u hierbij nodig heeft. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        84.92,
+        522.28,
+        93.92
+      ],
+      "text": "arbeidsdeskundige geeft u ook advies over het volgen van een re-integratietraject. Meer informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        97.64,
+        293.87,
+        106.64
+      ],
+      "text": "leest u op waarde=uwv.nl>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        118.7,
+        98.4,
+        210.4,
+        106.44
+      ],
+      "text": "<uwv_nl (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        124.08,
+        248.7,
+        132.12
+      ],
+      "text": "<einde:1_ri_bs_a:3:1_ri_bs_f>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        161.72,
+        415.17,
+        170.72
+      ],
+      "text": "<begin:1_ri_bs_a:4:1_ri_bs_a>80-100% ao (restcap aanwezig)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        187.28,
+        195.02,
+        196.28
+      ],
+      "text": "Misschien weer werken?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        200.12,
+        526.84,
+        209.12
+      ],
+      "text": "Mocht u in de toekomst kansen zien om te werken, laat het ons dan weten. Onze arbeidsdeskundige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        212.84,
+        530.1,
+        221.84
+      ],
+      "text": "helpt u dan graag. Met hem bespreekt u wat voor soort werk u kunt en wilt gaan doen. En hij bekijkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        225.68,
+        532.53,
+        234.68
+      ],
+      "text": "welke begeleiding u hierbij nodig heeft. De arbeidsdeskundige geeft u ook advies over het volgen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        238.52,
+        480.5,
+        247.52
+      ],
+      "text": "een re-integratietraject. Meer informatie leest u op waarde=uwv.nl>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        305.47,
+        239.28,
+        397.16,
+        247.32
+      ],
+      "text": "<uwv_nl (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        264.87,
+        250.62,
+        272.91
+      ],
+      "text": "<einde:1_ri_bs_a:4:1_ri_bs_a>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        302.51,
+        495.79,
+        311.51
+      ],
+      "text": "<begin:1_ri_bs_a:5:1_ri_bs_b>re-integratietaak (eigenrisicodrager) werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        328.07,
+        194.8,
+        337.07
+      ],
+      "text": "Hoe zit het met werken?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        340.91,
+        541.58,
+        349.91
+      ],
+      "text": "Op dit moment verdient u nog niet zoveel als u kunt verdienen volgens de arbeidsdeskundige. We gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        353.75,
+        532.13,
+        362.75
+      ],
+      "text": "ervan uit dat u samen met uw werkgever probeert om geschikt werk te vinden waarmee u meer kunt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        366.47,
+        541.57,
+        375.47
+      ],
+      "text": "verdienen. Bij uw eigen werkgever, of als dat niet lukt, bij een nieuwe werkgever. Voor vragen over re-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        379.31,
+        386.71,
+        388.31
+      ],
+      "text": "integratie kunt u bij hem terecht, of bij de arbodienst die u begeleidt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        405.63,
+        250.86,
+        413.67
+      ],
+      "text": "<einde:1_ri_bs_a:5:1_ri_bs_b>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        443.29,
+        491.37,
+        452.29
+      ],
+      "text": "<begin:1_ri_bs_a:6:1_ri_bs_c>80-100% ao (restcap aanwezig) erd werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        468.97,
+        195.02,
+        477.97
+      ],
+      "text": "Misschien weer werken?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        481.69,
+        535.46,
+        490.69
+      ],
+      "text": "Mocht u in de toekomst kansen zien om te werken, bespreek dat dan met uw (ex‒)werkgever. Hij kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        494.53,
+        272.54,
+        503.53
+      ],
+      "text": "u hierbij helpen, samen met een arbodienst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        520.85,
+        250.02,
+        528.89
+      ],
+      "text": "<einde:1_ri_bs_a:6:1_ri_bs_c>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        558.49,
+        395.43,
+        567.49
+      ],
+      "text": "<begin:1_ri_bs_a:7:1_ri_bs_g>vrije tekst over re-integratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        584.93,
+        276.18,
+        592.97
+      ],
+      "text": "<vrije_tekst (tekst)><vrije_tekst_1 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        610.52,
+        250.86,
+        618.56
+      ],
+      "text": "<einde:1_ri_bs_a:7:1_ri_bs_g>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        223.47,
+        648.16,
+        314.41,
+        657.16
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        648.92,
+        220.7,
+        656.96
+      ],
+      "text": "<begin:1_ri_bs_a:8:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        106.34,
+        674.48,
+        256.74,
+        682.52
+      ],
+      "text": "<einde:1_ri_bs_a:8:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        700.16,
+        157.93,
+        708.2
+      ],
+      "text": "<1_ri_bs_a:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 12/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        85.68,
+        285.2,
+        93.72
+      ],
+      "text": "<begin:0_plichten_02> waarde=0_plichten_04",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        97.64,
+        192.82,
+        106.64
+      ],
+      "text": "Kies uit de bouwstenen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        110.48,
+        111.89,
+        119.48
+      ],
+      "text": "Plichten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        123.32,
+        240.66,
+        132.32
+      ],
+      "text": "Plichten en regels voor afspraken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        136.04,
+        231.34,
+        145.04
+      ],
+      "text": "Plichten voor cliënt met toeslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        148.88,
+        197.67,
+        157.88
+      ],
+      "text": "Plichten voor cliënt in btl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        161.72,
+        326.47,
+        170.72
+      ],
+      "text": "Plichten en regels voor afspraken voor cliënt in btl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        174.44,
+        333.77,
+        183.44
+      ],
+      "text": "Plichten voor cliënt die uitkering heeft aangevraagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        226.44,
+        539.04,
+        234.48
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301> waarde=0_uitl_bsl_wn_01 <0_uitl_bsl_wn_11020301 (bouwsteen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        239.28,
+        199.5,
+        247.32
+      ],
+      "text": "waarde=0_uitl_bsl_wn_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        106.34,
+        264.11,
+        541.13,
+        273.11
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:1:0_uitl_bsl_wn_11>eerst bellen, werknemer, buitenland",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        276.95,
+        243.92,
+        285.95
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        289.67,
+        520.64,
+        298.67
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        335.83,
+        290.43,
+        388.4,
+        298.47
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        302.51,
+        444.5,
+        311.51
+      ],
+      "text": "hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        447.94,
+        303.27,
+        511.94,
+        311.31
+      ],
+      "text": "<url_mijnuwv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        122.9,
+        315.35,
+        248.01,
+        324.35
+      ],
+      "text": "waarde=uwv.nl/mijnuwv>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        316.11,
+        120.16,
+        324.15
+      ],
+      "text": "(resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        340.91,
+        171.38,
+        349.91
+      ],
+      "text": "U kunt ook bellen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        174.65,
+        341.67,
+        515.78,
+        349.71
+      ],
+      "text": "<tel_uwvtelefoon_btl (resultaat) waarde=+31 88 898 20 01 (lokaal tarief -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        224.93,
+        353.75,
+        541.21,
+        362.75
+      ],
+      "text": "telefoonaanbieder)>. Bellen kan van maandag tot en met vrijdag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        354.51,
+        222.26,
+        362.55
+      ],
+      "text": "belkosten zijn afhankelijk van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        366.47,
+        415.87,
+        375.47
+      ],
+      "text": "8.00 tot 17.00 uur (Nederlandse tijd). Als u belt, houd dan deze brief en uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        419.26,
+        367.23,
+        510.71,
+        375.27
+      ],
+      "text": "<bsn_kll (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        221.33,
+        379.31,
+        427.98,
+        388.31
+      ],
+      "text": "bij de hand. Wij kunnen u dan sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        380.07,
+        218.22,
+        388.11
+      ],
+      "text": "waarde=burgerservicenummer>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        106.34,
+        392.91,
+        356.84,
+        400.95
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:1:0_uitl_bsl_wn_11>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        106.34,
+        430.55,
+        489.25,
+        439.55
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:2:0_uitl_bsl_wg_02>eerst bellen bij beslissing,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        443.29,
+        181.98,
+        452.29
+      ],
+      "text": "werkgever, standaard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        456.13,
+        243.92,
+        465.13
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        468.97,
+        520.64,
+        477.97
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        335.83,
+        469.73,
+        388.4,
+        477.77
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        481.69,
+        525.27,
+        490.69
+      ],
+      "text": "hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via ‘uw berichten’ op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        162.62,
+        494.53,
+        331.23,
+        503.53
+      ],
+      "text": "waarde=uwv.nl>/werkgeversportaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        495.29,
+        159.88,
+        503.33
+      ],
+      "text": "<uwv.nl (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        520.09,
+        171.38,
+        529.09
+      ],
+      "text": "U kunt ook bellen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        174.65,
+        520.85,
+        508.34,
+        528.89
+      ],
+      "text": "<tel_uwvtelefoon_wg (resultaat) waarde=088 - 898 92 95 (lokaal tarief -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        224.93,
+        532.93,
+        541.21,
+        541.93
+      ],
+      "text": "telefoonaanbieder)>. Bellen kan van maandag tot en met vrijdag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        533.69,
+        222.26,
+        541.73
+      ],
+      "text": "belkosten zijn afhankelijk van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        545.77,
+        509.97,
+        554.77
+      ],
+      "text": "8.00 tot 17.00 uur. Als u belt, houd dan deze brief bij de hand. Wij kunnen u dan sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 13/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        72.82,
+        356.72,
+        80.86
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:2:0_uitl_bsl_wg_02>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        110.48,
+        532.08,
+        119.48
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:3:0_uitl_bsl_wn_03>eerst bellen, werknemer, specifiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        123.32,
+        154.81,
+        132.32
+      ],
+      "text": "telefoonnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        136.04,
+        243.92,
+        145.04
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        148.88,
+        520.64,
+        157.88
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        335.83,
+        149.64,
+        388.4,
+        157.68
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        161.72,
+        444.5,
+        170.72
+      ],
+      "text": "hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        447.94,
+        162.48,
+        523.48,
+        170.52
+      ],
+      "text": "<mijn_berichten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        188.64,
+        174.44,
+        244.41,
+        183.44
+      ],
+      "text": "berichten'>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        175.2,
+        185.98,
+        183.24
+      ],
+      "text": "(resultaat) waarde='mijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        200.12,
+        542.13,
+        209.12
+      ],
+      "text": "U kunt ook bellen met via (tekst)>. Als u belt, houd dan deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        174.65,
+        200.88,
+        379.33,
+        208.92
+      ],
+      "text": "<_p_presentatienaam (tekst)> <telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        212.84,
+        539.6,
+        221.84
+      ],
+      "text": "brief en uw bij de hand. Wij kunnen u dan sneller",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        125.06,
+        213.6,
+        366.32,
+        221.64
+      ],
+      "text": "<bsn_kll (resultaat) waarde=burgerservicenummer>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        225.68,
+        104.54,
+        234.68
+      ],
+      "text": "helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        239.28,
+        356.84,
+        247.32
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:3:0_uitl_bsl_wn_03>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        276.95,
+        538.02,
+        285.95
+      ],
+      "text": "<begin:0_uitl_bsl_wn_11020301:4:0_uitl_bsl_wn_01>eerst bellen, werknemer, standaard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        289.67,
+        243.92,
+        298.67
+      ],
+      "text": "Wilt u uitleg over deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        302.51,
+        520.64,
+        311.51
+      ],
+      "text": "Dan geven we u graag een toelichting. Een beslissing van kan namelijk grote gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        335.83,
+        303.27,
+        388.4,
+        311.31
+      ],
+      "text": "<uwv_afk>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        315.35,
+        444.5,
+        324.35
+      ],
+      "text": "hebben. Uitleg kan dan veel verduidelijken. Neem hiervoor contact met ons op via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        447.94,
+        316.11,
+        523.48,
+        324.15
+      ],
+      "text": "<mijn_berichten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        244.25,
+        328.07,
+        501.98,
+        337.07
+      ],
+      "text": "op waarde=uwv.nl/mijnuwv>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        328.83,
+        374.24,
+        336.87
+      ],
+      "text": "(resultaat) waarde='mijn berichten'> <url_mijnuwv (resultaat)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        353.75,
+        171.38,
+        362.75
+      ],
+      "text": "U kunt ook bellen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        174.65,
+        354.51,
+        535.85,
+        362.55
+      ],
+      "text": "<tel_uwvtelefoon (resultaat) waarde=088 - 898 92 94 (lokaal tarief - belkosten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        178.29,
+        366.47,
+        533.83,
+        375.47
+      ],
+      "text": "telefoonaanbieder)>. Bellen kan van maandag tot en met vrijdag van 8.00 tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        367.23,
+        175.62,
+        375.27
+      ],
+      "text": "zijn afhankelijk van uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        379.31,
+        291.38,
+        388.31
+      ],
+      "text": "17.00 uur. Als u belt, houd dan deze brief en uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        294.67,
+        380.07,
+        535.93,
+        388.11
+      ],
+      "text": "<bsn_kll (resultaat) waarde=burgerservicenummer>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        392.15,
+        277.81,
+        401.15
+      ],
+      "text": "bij de hand. Wij kunnen u dan sneller helpen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        405.63,
+        356.84,
+        413.67
+      ],
+      "text": "<einde:0_uitl_bsl_wn_11020301:4:0_uitl_bsl_wn_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        431.31,
+        228.16,
+        439.35
+      ],
+      "text": "<0_uitl_bsl_wn_11020301:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        469.73,
+        369.68,
+        477.77
+      ],
+      "text": "<0_bezw_wn_6w_01 (bouwsteen) waarde=0_bezw_wn_6w_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        106.34,
+        494.53,
+        536.06,
+        503.53
+      ],
+      "text": "<begin:0_bezw_wn_6w_01:1:0_bezw_wn_6w_01>6 weken, werknemer, online en papier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        507.37,
+        226.63,
+        516.37
+      ],
+      "text": "Niet eens met deze beslissing?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        520.09,
+        478.1,
+        529.09
+      ],
+      "text": "Dan kunt u bezwaar maken. U heeft hiervoor 6 weken de tijd. In uw geval dus tot en met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        165.26,
+        532.93,
+        523.92,
+        541.93
+      ],
+      "text": "(datum)>. Na ontvangst krijgt u binnen 5 werkdagen een bevestiging van ons.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        533.69,
+        162.6,
+        541.73
+      ],
+      "text": "<dat_bezwaar_42_f",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        558.49,
+        235.48,
+        567.49
+      ],
+      "text": "Bezwaar maken kan op 2 manieren:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.94,
+        571.33,
+        525.61,
+        580.33
+      ],
+      "text": "Online via waarde=uwv.nl/bezwaarmaken>. Daar vindt u ook alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        571.41,
+        75.44,
+        580.41
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        137.3,
+        572.09,
+        270.69,
+        580.13
+      ],
+      "text": "<url_bezwaar_maken (tekst)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.82,
+        584.17,
+        138.38,
+        593.17
+      ],
+      "text": "informatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.94,
+        596.89,
+        531.45,
+        605.89
+      ],
+      "text": "Via de post. Zet in uw brief altijd uw naam, adres, burgerservicenummer (BSN), telefoonnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        596.97,
+        75.44,
+        605.97
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.82,
+        609.76,
+        533.58,
+        618.76
+      ],
+      "text": "en handtekening. Vermeld ook het onderwerp en de datum van de brief waar u het niet mee eens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.82,
+        622.6,
+        528.16,
+        631.6
+      ],
+      "text": "bent. En geef aan waarom u het niet met onze beslissing eens bent. Met deze informatie kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        88.82,
+        635.32,
+        345.95,
+        644.32
+      ],
+      "text": "wij uw bezwaar sneller behandelen. Stuur uw brief naar:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        336.67,
+        673.72,
+        537.03,
+        682.72
+      ],
+      "text": "bezwaaradres volgens postcodetabel of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        674.48,
+        333.55,
+        682.52
+      ],
+      "text": "<begin:0_bb_adres_pc_kl> waarde=0_bb_adres_pc_kl_1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        686.56,
+        326.26,
+        695.56
+      ],
+      "text": "medewerker kiest bezwaaradres<0_bb_adres_pc_kl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        329.11,
+        687.32,
+        531.49,
+        695.36
+      ],
+      "text": "(bouwsteen) waarde=0_bb_adres_pc_kl_1>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        141.86,
+        712.12,
+        486.7,
+        721.12
+      ],
+      "text": "<begin:0_bb_adres_pc_kl:1:0_bb_adres_pc_kl_1>bezwaaradres volgens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        724.96,
+        142.0,
+        733.96
+      ],
+      "text": "postcodetabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        737.8,
+        375.47,
+        746.8
+      ],
+      "text": "<uwv_afk>, afdeling Bezwaar en Beroep, (tekst)>,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        262.73,
+        738.56,
+        538.48,
+        746.6
+      ],
+      "text": "<postadres_bb <postcode_bb (tekst)> <plaats_bb",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        750.52,
+        112.74,
+        759.52
+      ],
+      "text": "(tekst)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        141.86,
+        764.12,
+        373.4,
+        772.16
+      ],
+      "text": "<einde:0_bb_adres_pc_kl:1:0_bb_adres_pc_kl_1>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 14/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        43.5,
+        470.83,
+        52.5
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        141.86,
+        97.64,
+        496.71,
+        106.64
+      ],
+      "text": "<begin:0_bb_adres_pc_kl:2:0_bb_adres_pc_kl_2>bezwaaradres keuzelijst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        110.48,
+        116.79,
+        119.48
+      ],
+      "text": "adressen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        123.32,
+        221.2,
+        132.32
+      ],
+      "text": "<uwv_afk>, afdeling Bezwaar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        224.45,
+        124.08,
+        525.77,
+        132.12
+      ],
+      "text": "<kl_postbusadressen_bb (keuzelijst) keuzes=(,<N>Beroep (Eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        136.8,
+        507.54,
+        144.84
+      ],
+      "text": "Personeel), Postbus 8071, 1005 AB Amsterdam,Beroep, Postbus 10021, 1301 AA Almere,Beroep,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        149.64,
+        539.72,
+        157.68
+      ],
+      "text": "Postbus 110, 5900 AC Venlo,Beroep, Postbus 111, 8000 AC Zwolle,Beroep, Postbus 16140, 2500 BC Den",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        162.48,
+        509.94,
+        170.52
+      ],
+      "text": "Haag,Beroep, Postbus 2064, 3500 GB Utrecht,Beroep, Postbus 286, 8901 BB Leeuwarden,Beroep,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        175.2,
+        520.99,
+        183.24
+      ],
+      "text": "Postbus 3276, 4800 MH Breda,Beroep, Postbus 35, 6800 LG Arnhem,Beroep, Postbus 4895, 6401 JR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        188.04,
+        541.94,
+        196.08
+      ],
+      "text": "Heerlen,Beroep, Postbus 51010, 9702 JA Groningen,Beroep, Postbus 52010, 3007 LA Rotterdam,Beroep,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        200.88,
+        538.32,
+        208.92
+      ],
+      "text": "Postbus 71, 1800 BD Alkmaar,Beroep, Postbus 724, 5600 AS Eindhoven,Beroep, Postbus 8071, 1005 AB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        442.73,
+        212.84,
+        487.46,
+        221.84
+      ],
+      "text": "Leiden)>.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        213.6,
+        440.05,
+        221.64
+      ],
+      "text": "Amsterdam,Beroep, Postbus 86, 7550 AB Hengelo,Beroep, Postbus 9103, 2300 PC",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        141.86,
+        226.44,
+        373.4,
+        234.48
+      ],
+      "text": "<einde:0_bb_adres_pc_kl:2:0_bb_adres_pc_kl_2>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        252.0,
+        195.75,
+        260.04
+      ],
+      "text": "<0_bb_adres_pc_kl:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        289.67,
+        517.79,
+        298.67
+      ],
+      "text": "Let op: Als u contact met ons opneemt, blijft de uiterlijke datum om bezwaar te maken hetzelfde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        303.27,
+        341.24,
+        311.31
+      ],
+      "text": "<einde:0_bezw_wn_6w_01:1:0_bezw_wn_6w_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        328.83,
+        203.2,
+        336.87
+      ],
+      "text": "<0_bezw_wn_6w_01:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        307.15,
+        379.31,
+        517.19,
+        388.31
+      ],
+      "text": "Kopie naar werkgever<5_kopie_beslis_wgv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        380.07,
+        303.96,
+        388.11
+      ],
+      "text": "<begin:5_kopie_beslis_wgv> waarde=GEEN KEUZE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        392.91,
+        230.34,
+        400.95
+      ],
+      "text": "(bouwsteen) waarde=geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        417.71,
+        531.39,
+        426.71
+      ],
+      "text": "<begin:5_kopie_beslis_wgv:1:5_kopie_beslis_wgv>kopie beslissing aan werkgever, mag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        430.55,
+        150.86,
+        439.55
+      ],
+      "text": "bezwaar maken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        443.29,
+        229.95,
+        452.29
+      ],
+      "text": "Bericht aan uw (ex-)werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        456.13,
+        539.28,
+        465.13
+      ],
+      "text": "Wij hebben een kopie van deze beslissing aan uw (ex-)werkgever gestuurd. Deze heeft belang bij deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        468.97,
+        286.61,
+        477.97
+      ],
+      "text": "beslissing en mag daarom ook bezwaar maken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        495.29,
+        343.88,
+        503.33
+      ],
+      "text": "<einde:5_kopie_beslis_wgv:1:5_kopie_beslis_wgv>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        270.15,
+        532.93,
+        360.99,
+        541.93
+      ],
+      "text": "keuze>geen keuze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        533.69,
+        267.38,
+        541.73
+      ],
+      "text": "<begin:5_kopie_beslis_wgv:2:geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        559.25,
+        303.2,
+        567.29
+      ],
+      "text": "<einde:5_kopie_beslis_wgv:2:geen keuze>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        584.93,
+        204.54,
+        592.97
+      ],
+      "text": "<5_kopie_beslis_wgv:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        610.52,
+        331.28,
+        618.56
+      ],
+      "text": "<0_afsluit_beslis (bouwsteen) waarde=0_afsluit_beslis>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        635.32,
+        403.99,
+        644.32
+      ],
+      "text": "<begin:0_afsluit_beslis:1:0_afsluit_beslis>afsluiting beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        648.16,
+        133.58,
+        657.16
+      ],
+      "text": "Hoogachtend,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        661.0,
+        205.4,
+        670.0
+      ],
+      "text": "Namens de Raad van Bestuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        673.72,
+        105.19,
+        682.72
+      ],
+      "text": "van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        108.38,
+        674.48,
+        486.35,
+        682.52
+      ],
+      "text": "<uwvinstituut (resultaat) waarde=uitvoeringsinstituut werknemersverzekeringen>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        106.34,
+        687.32,
+        302.84,
+        695.36
+      ],
+      "text": "<einde:0_afsluit_beslis:1:0_afsluit_beslis>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        712.88,
+        183.99,
+        720.92
+      ],
+      "text": "<0_afsluit_beslis:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 15/16",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        38.58,
+        470.83,
+        47.58
+      ],
+      "text": "Brief: UWGIN20-02 - Opleggen maatregel (meer/minder verwijtbaar, recidive)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        124.08,
+        473.03,
+        132.12
+      ],
+      "text": "<begin:5_ot_012021> waarde=5_ot_01 <5_ot_012021 (bouwsteen) waarde=5_ot_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        106.34,
+        148.88,
+        420.78,
+        157.88
+      ],
+      "text": "<begin:5_ot_012021:1:5_ot_01>ondertekening presentatienaam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        162.48,
+        212.22,
+        170.52
+      ],
+      "text": "<_p_presentatienaam (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        175.2,
+        167.19,
+        183.24
+      ],
+      "text": "<_p_functie (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        106.34,
+        200.88,
+        258.3,
+        208.92
+      ],
+      "text": "<einde:5_ot_012021:1:5_ot_01>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        106.34,
+        238.52,
+        406.95,
+        247.52
+      ],
+      "text": "<begin:5_ot_012021:2:5_ot_20>ondertekening adviseur werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        252.0,
+        216.54,
+        260.04
+      ],
+      "text": "<naam_adviseur_werk (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        264.87,
+        304.4,
+        272.91
+      ],
+      "text": "<werkbedrijf_afk (resultaat) waarde=werkbedrijf>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        106.34,
+        290.43,
+        258.3,
+        298.47
+      ],
+      "text": "<einde:5_ot_012021:2:5_ot_20>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        106.34,
+        328.07,
+        441.69,
+        337.07
+      ],
+      "text": "<begin:5_ot_012021:3:5_ot_21>ondertekening manager werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        341.67,
+        184.98,
+        349.71
+      ],
+      "text": "<vrije_tekst_99 (tekst)>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        353.75,
+        109.93,
+        362.75
+      ],
+      "text": "Manager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        367.23,
+        304.4,
+        375.27
+      ],
+      "text": "<werkbedrijf_afk (resultaat) waarde=werkbedrijf>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        106.34,
+        392.91,
+        258.3,
+        400.95
+      ],
+      "text": "<einde:5_ot_012021:3:5_ot_21>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        418.47,
+        173.19,
+        426.51
+      ],
+      "text": "<5_ot_012021:einde>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94,
+        796.98,
+        131.14,
+        805.98
+      ],
+      "text": "Pagina 16/16",
+      "source": "text"
+    }
+  ]
+}

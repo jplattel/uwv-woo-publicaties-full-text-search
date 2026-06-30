@@ -1,0 +1,1421 @@
+{
+  "source_id": "2024-08-01-woo-besluit-mogelijk-datalek-mei-2024/2024-08-01-bijlage-7-antwoorden-vragen-fg",
+  "publication_slug": "2024-08-01-woo-besluit-mogelijk-datalek-mei-2024",
+  "pdf_slug": "2024-08-01-bijlage-7-antwoorden-vragen-fg",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2024/woo-besluit-mogelijk-datalek-mei-2024",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0265a4d8-3bbc-4e89-8ba0-41feeb6d88d4/bijlage-7-antwoorden-vragen-fg.pdf",
+  "publication_title": "Woo-besluit mogelijk datalek mei 2024",
+  "publication_date": "2024-08-01T00:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage 7. Antwoorden op vragen FG (PDF, 102 kB)",
+  "retrieved_at": "2026-06-30T12:57:58+00:00",
+  "sha256": "38ddf7958d4346eb6eca9211d12598465a406e052c3890a7345dbeb739e41a7d",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        426.72,
+        32.25,
+        456.9,
+        41.25
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        426.24,
+        76.94,
+        448.67,
+        82.94
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        426.24,
+        88.24,
+        472.4,
+        96.28
+      ],
+      "text": "4 juni 2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        110.42,
+        439.03,
+        116.42
+      ],
+      "text": "Aan Van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        425.24,
+        119.85,
+        476.35,
+        125.6
+      ],
+      "text": "Artikel 5.1 lid 2 Woo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        121.72,
+        87.29,
+        129.76
+      ],
+      "text": "[Naam]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        143.9,
+        94.31,
+        149.9
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        477.48,
+        147.28,
+        512.08,
+        155.32
+      ],
+      "text": "@uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        155.2,
+        161.15,
+        163.24
+      ],
+      "text": "Beantwoording vragen FG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        211.65,
+        521.31,
+        220.65
+      ],
+      "text": "De Functionaris Gegevensbescherming (FG) heeft een aantal vragen gesteld over de opzet en werking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.64,
+        222.69,
+        485.52,
+        231.69
+      ],
+      "text": "van de risico-mitigerende maatregelen naar aanleiding van het incident op 4 mei waarbij via 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.65,
+        233.61,
+        354.54,
+        242.61
+      ],
+      "text": "werkgeversaccount 150.000 CV’s zijn ingezien en/of gedownload.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.65,
+        255.7,
+        334.05,
+        264.7
+      ],
+      "text": "In deze memo worden deze vragen puntsgewijs beantwoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.65,
+        277.66,
+        369.39,
+        286.66
+      ],
+      "text": "1. Welke in 2019 benoemde maatregelen zijn doorgevoerd?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        109.93,
+        288.7,
+        495.39,
+        297.7
+      ],
+      "text": "Hadden deze het beoogde effect en zoniet waarom niet en zijn daar nog aanvullende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        109.93,
+        299.62,
+        231.13,
+        308.62
+      ],
+      "text": "maatregelen op genomen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        109.93,
+        310.66,
+        375.75,
+        319.66
+      ],
+      "text": "Welke maatregelen zijn niet doorgevoerd en waarom niet?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.65,
+        332.62,
+        244.24,
+        341.62
+      ],
+      "text": "De volgende maatregelen zijn ingevoerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.65,
+        353.96,
+        78.79,
+        362.96
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.65,
+        354.71,
+        281.18,
+        363.71
+      ],
+      "text": "Resetten wachtwoorden werkgevers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.65,
+        365.62,
+        532.61,
+        374.62
+      ],
+      "text": "In 2019 was e-herkenning nog niet ingevoerd en hadden werkgevers een eigen werk.nl-account.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.65,
+        376.67,
+        413.69,
+        385.67
+      ],
+      "text": "Na het incident zijn de wachtwoorden van alle accounts direct gereset.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.65,
+        386.96,
+        78.79,
+        395.96
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.65,
+        387.71,
+        214.01,
+        396.71
+      ],
+      "text": "Invoeren e-Herkenning.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.65,
+        398.63,
+        496.68,
+        407.63
+      ],
+      "text": "Het werkgeversdeel van werk.nl is daarna beter afgeschermd doordat het gebruik van e-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.66,
+        409.67,
+        520.14,
+        418.67
+      ],
+      "text": "herkenning niveau 3 (substantieel), dat een screening kent door 1 van de 6 geautoriseerde e-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.66,
+        420.71,
+        526.16,
+        429.71
+      ],
+      "text": "herkenningsorganisaties. (Uittreksel KVK, persoonsgegevens en legitimatie teken bevoegde, en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.66,
+        431.63,
+        335.36,
+        440.63
+      ],
+      "text": "evt. persoonsgegevens en legitimatie van gebruiker).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.66,
+        441.92,
+        78.8,
+        450.92
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.66,
+        442.67,
+        470.32,
+        451.67
+      ],
+      "text": "Mogelijkheid om NAW-gegevens en persoonlijke gegevens af te schermen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        453.71,
+        515.28,
+        462.71
+      ],
+      "text": "Werkzoekenden hebben de mogelijkheid om hun NAW en andere persoonlijke gegevens af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        464.63,
+        496.48,
+        473.63
+      ],
+      "text": "schermen bij het publiceren van hun CV in de cv-database die alleen toegankelijk is voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        475.67,
+        492.46,
+        484.67
+      ],
+      "text": "werkgevers. Daarmee kunnen werkgevers alleen via werk.nl contact met hen opnemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        486.72,
+        404.27,
+        495.72
+      ],
+      "text": "Ongeveer één derde van de werkzoekenden maakt hier gebruik van.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.67,
+        496.89,
+        78.81,
+        505.89
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        497.63,
+        375.88,
+        506.63
+      ],
+      "text": "Er is een logging-monitoring (LOMO) systeem ingericht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        508.68,
+        530.0,
+        517.68
+      ],
+      "text": "Iedere dag wordt een LOMO-rapportage gegenereerd en iedere werkdag wordt deze bekeken en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        519.72,
+        502.68,
+        528.72
+      ],
+      "text": "beoordeeld door een coördinator Informatie Beveiliging & Privacy (IB&P) en bij afwijkende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.67,
+        530.64,
+        538.44,
+        539.64
+      ],
+      "text": "aantallen opgevraagde Cv’s, patronen of geografische oorsprong van de inlog wordt dit besproken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.68,
+        541.68,
+        525.24,
+        550.68
+      ],
+      "text": "in het IB&P team in de dagelijkse stand-up. Daarnaast wordt er bij het opvragen van meer dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.68,
+        552.72,
+        434.77,
+        561.72
+      ],
+      "text": "2000 CV’s binnen 24 uur een melding verzonden naar de coördinator IB&P.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        95.81,
+        563.64,
+        510.08,
+        572.64
+      ],
+      "text": "Bij afwijkende patronen wordt nader onderzocht of dit om regulier gebruik gaat (met name",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.68,
+        574.68,
+        522.22,
+        583.68
+      ],
+      "text": "uitzendbureaus hebben soms bulk vacatures waarbij ze in 1 keer heel veel mensen werven) of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.69,
+        585.73,
+        194.02,
+        594.73
+      ],
+      "text": "om mogelijk misbruik.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.7,
+        596.64,
+        516.17,
+        605.64
+      ],
+      "text": "Er zijn geen normen voor het onderkennen van misbruik, de professionele inschatting van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.71,
+        607.69,
+        522.31,
+        616.69
+      ],
+      "text": "coördinator IB&P en het team is leidend voor onderzoek en maatregelen bij mogelijk misbruik.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.71,
+        629.65,
+        343.8,
+        638.65
+      ],
+      "text": "De volgende maatregelen zijn overwogen maar niet ingevoerd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.71,
+        650.99,
+        78.85,
+        659.99
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.71,
+        651.73,
+        415.21,
+        660.73
+      ],
+      "text": "Het aanbrengen van een limiet voor het aantal te bekijken Cv’s.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.71,
+        662.65,
+        522.24,
+        671.65
+      ],
+      "text": "De onlinedienstverlening van UWV is beschikbaar voor alle werkgevers in Nederland. Wat voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.71,
+        673.69,
+        423.47,
+        682.69
+      ],
+      "text": "uitzendbureaus normaal gedrag is, is voor de lokale Mkb’er uitzonderlijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.72,
+        684.74,
+        521.52,
+        693.74
+      ],
+      "text": "Er is geen objectieve maatstaf beschikbaar voor wat “normaal” gebruik van de cv-database is,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.72,
+        695.65,
+        522.69,
+        704.65
+      ],
+      "text": "daarmee is het complex om een grens te stellen aan het aantal in te zien Cv’s. Tevens kan het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.72,
+        706.7,
+        502.68,
+        715.7
+      ],
+      "text": "inzien van kleine aantal Cv’s, dat niet relevant is voor een vacature ook gezien worden als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.72,
+        717.74,
+        307.34,
+        726.74
+      ],
+      "text": "misbruik en dit voorkom je met een limiet niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        426.36,
+        768.62,
+        469.28,
+        774.62
+      ],
+      "text": "Bezoekadres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        426.36,
+        779.92,
+        504.31,
+        787.96
+      ],
+      "text": "La Guardiaweg 116",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        426.36,
+        792.76,
+        509.43,
+        800.8
+      ],
+      "text": "1043 DL Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        426.72,
+        32.25,
+        456.9,
+        41.25
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        426.36,
+        78.38,
+        449.33,
+        84.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        426.36,
+        87.57,
+        460.52,
+        96.57
+      ],
+      "text": "2 van 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.64,
+        143.34,
+        78.78,
+        152.34
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.64,
+        144.09,
+        486.98,
+        153.09
+      ],
+      "text": "De NAW en persoonlijke -gegevens afschermen van de complete cv-database.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.65,
+        155.13,
+        533.8,
+        164.13
+      ],
+      "text": "Op werk.nl staan zowel Cv’s met als zonder NAW-gegevens, de client maakt hierin zelf de keuze.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.65,
+        166.05,
+        522.21,
+        175.05
+      ],
+      "text": "Op een CV met NAW-gegevens staat de volgende informatie: naam, geslacht, geboortedatum,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.65,
+        177.09,
+        510.21,
+        186.09
+      ],
+      "text": "adres, postcode, woonplaats, e-mail (telefoonnummer indien client dit aangeeft). Op een cv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.65,
+        188.13,
+        531.38,
+        197.13
+      ],
+      "text": "waarbij de NAW-gegevens zijn afgeschermd kan de cliënt ervoor kiezen om het telefoonnummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        199.05,
+        228.3,
+        208.05
+      ],
+      "text": "zichtbaar te maken op het cv.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        210.09,
+        523.19,
+        219.09
+      ],
+      "text": "Na het incident in 2019 is overwogen om de NAW en persoonlijke gegevens van alle CV’s in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        221.14,
+        529.57,
+        230.14
+      ],
+      "text": "cv-databank af te schermen, er is besloten dit niet te doen. UWV heeft de wettelijke taak om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        232.05,
+        530.56,
+        241.05
+      ],
+      "text": "arbeidsmarkt transparant te maken voor werkzoekenden en werkgevers (Wet SUWI). In 2019 is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        243.1,
+        522.48,
+        252.1
+      ],
+      "text": "de afweging gemaakt dat het afschermen van alle NAW-gegevens grote impact zou hebben op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        254.14,
+        537.13,
+        263.14
+      ],
+      "text": "het dienstverleningsaanbod aan werkgevers, en daarmee zouden we de eigen keuze van de client",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        265.06,
+        309.44,
+        274.06
+      ],
+      "text": "om de gegevens te publiceren niet respecteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        276.1,
+        528.14,
+        285.1
+      ],
+      "text": "In 2024 is deze afweging anders uitgevallen en heeft UWV wel besloten om voorlopig alle NAW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        287.14,
+        533.88,
+        296.14
+      ],
+      "text": "gegevens af te schermen. Onderzocht zal worden wat hiervan de impact is op werkzoekenden en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.66,
+        298.06,
+        148.02,
+        307.06
+      ],
+      "text": "werkgevers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.67,
+        319.4,
+        78.81,
+        328.4
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        320.15,
+        202.62,
+        329.15
+      ],
+      "text": "Real time monitoring.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        331.06,
+        519.71,
+        340.06
+      ],
+      "text": "Er is gekozen voor het logging en monitoringsysteem zoals eerder beschreven. Voor real-time",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        342.11,
+        502.54,
+        351.11
+      ],
+      "text": "monitoring is destijds de inschatting gemaakt dat dit technisch moeilijk realiseerbaar was,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        353.15,
+        491.56,
+        362.15
+      ],
+      "text": "doorlooptijd van deze wijziging zou langdurig zijn. Het idee was dat de bovengenoemde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        364.07,
+        374.48,
+        373.07
+      ],
+      "text": "maatregelen sneller tot het gewenste resultaat zouden leiden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        375.11,
+        534.51,
+        384.11
+      ],
+      "text": "Daarnaast zou om dit effectief te laten zijn een UWV-medewerker en een medewerker van de IT-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.67,
+        386.15,
+        508.91,
+        395.15
+      ],
+      "text": "leverancier 24/7, 365 dagen per jaar beschikbaar en bereikbaar moeten zijn. Een vorm van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.68,
+        397.07,
+        528.28,
+        406.07
+      ],
+      "text": "redundantie zou ingebouwd moeten worden zodat als deze medewerker om wat voor reden dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.68,
+        408.11,
+        345.45,
+        417.11
+      ],
+      "text": "ook niet beschikbaar is, de monitoring alsnog doorgaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.68,
+        441.11,
+        422.35,
+        450.11
+      ],
+      "text": "2. Hoe was de monitoring precies ingeregeld ten tijde van het incident?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.96,
+        452.16,
+        275.09,
+        461.16
+      ],
+      "text": "Wat was de trigger/drempelwaarde?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.96,
+        463.07,
+        402.56,
+        472.07
+      ],
+      "text": "Was het een procesmatige afspraak om iedere dag in te loggen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.96,
+        474.12,
+        448.03,
+        483.12
+      ],
+      "text": "Of kreeg iemand een alert of een automatisch bericht vanuit het systeem?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.96,
+        485.16,
+        325.73,
+        494.16
+      ],
+      "text": "Wat was de afgesproken actie bij een exceptie?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        507.12,
+        531.76,
+        516.12
+      ],
+      "text": "Dagelijks wordt een rapportage gegenereerd en deze wordt iedere werkdag ingezien en beoordeeld door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        518.16,
+        534.04,
+        527.16
+      ],
+      "text": "de coördinator IB&P. Hierin staan het aantal opgevraagde Cv’s per gebruikersaccount en de geografische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        529.08,
+        537.03,
+        538.08
+      ],
+      "text": "locatie van de inlog. Indien via een account meer dan 2000 Cv’s worden opgevraagd binnen 24 uur wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        540.12,
+        538.62,
+        549.12
+      ],
+      "text": "er een melding verstuurd naar de coördinator IB&P en de afdeling databeheer. Zij kunnen dan beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        551.17,
+        264.08,
+        560.17
+      ],
+      "text": "of dit regulier gebruik is of mogelijk misbruik.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        573.13,
+        491.57,
+        582.13
+      ],
+      "text": "Op zaterdag 4 mei is 2 keer een melding verzonden dat de grens van 2000 opgevraagde Cv’s is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        584.17,
+        523.89,
+        593.17
+      ],
+      "text": "overschreden. (Hiervan zijn screenshots beschikbaar) Deze zijn op maandagmorgen 6 mei gezien door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        595.09,
+        180.09,
+        604.09
+      ],
+      "text": "een medewerker van UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.68,
+        617.17,
+        517.22,
+        626.17
+      ],
+      "text": "Op maandagmorgen 6 mei, de eerste werkdag na 4 mei is de ontdekt dat er een groot aantal Cv’s op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.69,
+        628.09,
+        533.97,
+        637.09
+      ],
+      "text": "werk.nl is opgevraagd door het account van 1 werkgever, dit is besproken in de stand-up van team IB&P",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.69,
+        639.13,
+        538.07,
+        648.13
+      ],
+      "text": "en is direct actie ondernomen. Het werkgeversaccount is geblokkeerd en er is een onderzoek gestart naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.69,
+        650.18,
+        524.76,
+        659.18
+      ],
+      "text": "het incident. Na de eerste bevindingen in dit onderzoek is op 8 mei besloten om hier een UWV-incident",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.69,
+        661.09,
+        452.54,
+        670.09
+      ],
+      "text": "van te maken en is een voorlopige melding bij de Autoriteit Persoonsgegevens gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        56.69,
+        683.18,
+        110.9,
+        692.18
+      ],
+      "text": "CONCLUSIES",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        694.04,
+        506.96,
+        703.04
+      ],
+      "text": "Geconcludeerd kan worden dat het systeem heeft gewerkt zoals beoogd. Het account waarmee het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.64,
+        705.09,
+        529.45,
+        714.09
+      ],
+      "text": "misbruik heeft plaatsgevonden heeft ingelogd via e-herkenning, op de eerste werkdag na het incident is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.65,
+        716.13,
+        508.66,
+        725.13
+      ],
+      "text": "het misbruik direct onderkend, is het account geblokkeerd en is een onderzoek gestart. Tevens kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.65,
+        727.05,
+        470.92,
+        736.05
+      ],
+      "text": "geconcludeerd worden dat deze maatregelen het misbruik niet hebben kunnen voorkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        426.72,
+        32.25,
+        456.9,
+        41.25
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        426.36,
+        78.38,
+        449.33,
+        84.38
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        426.36,
+        87.57,
+        460.52,
+        96.57
+      ],
+      "text": "3 van 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.64,
+        155.13,
+        504.92,
+        164.13
+      ],
+      "text": "Real time monitoring had dit mogelijk gedeeltelijk voorkomen, maar nooit helemaal. Er is prioriteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.65,
+        166.05,
+        532.41,
+        175.05
+      ],
+      "text": "gegeven aan het implementeren van e-Herkenning. Het blijft mogelijk om meer Cv’s in te zien dan strikt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        177.09,
+        536.48,
+        186.09
+      ],
+      "text": "noodzakelijk, dit is inherent aan de functionaliteit cv-databank. UWV heeft in 2019 besloten dit rest-risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.66,
+        188.13,
+        534.21,
+        197.13
+      ],
+      "text": "te accepteren, de huidige situatie laat zien dat UWV opnieuw moet kijken naar aanvullende maatregelen.",
+      "source": "text"
+    }
+  ]
+}
