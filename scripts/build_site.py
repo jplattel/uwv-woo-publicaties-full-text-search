@@ -463,6 +463,7 @@ def render_publications_page(publications: list[dict], base_path: str) -> str:
       </p>
       {"".join(sections)}
     </main>
+    {render_site_footer(base_path)}
   </body>
 </html>
 """
@@ -710,6 +711,7 @@ def render_statistics_page(stats: dict, base_path: str) -> str:
         Totaal {format_number(stats["total_characters"])} tekens geïndexeerd voor zoeken.
       </p>
     </main>
+    {render_site_footer(base_path)}
   </body>
 </html>
 """
@@ -732,9 +734,23 @@ def render_site_header(title: str, subtitle: str, base_path: str, active: str) -
           <a class="site-nav-link{publications_active}" href="{html.escape(base_path)}publications.html">Publicaties</a>
           <a class="site-nav-link{stats_active}" href="{html.escape(base_path)}statistics.html">Statistieken</a>
           <a class="site-nav-link{about_active}" href="{html.escape(base_path)}about.html">Over</a>
+          <a class="site-nav-link site-nav-link--github" href="https://github.com/jplattel/uwv-woo-publicaties-full-text-search" target="_blank" rel="noopener noreferrer">GitHub</a>
         </nav>
       </div>
     </header>
+    """
+
+
+def render_site_footer(base_path: str) -> str:
+    return """
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <p>
+          Deze site draait op GitHub Pages en wordt automatisch bijgewerkt. Bekijk de broncode en de dagelijkse
+          crawl op <a href="https://github.com/jplattel/uwv-woo-publicaties-full-text-search/actions" target="_blank" rel="noopener noreferrer">GitHub</a>.
+        </p>
+      </div>
+    </footer>
     """
 
 
@@ -880,6 +896,7 @@ def render_doc_page(payload: dict, body_html: str, base_path: str) -> str:
         </section>
       </div>
     </main>
+    {render_site_footer(base_path)}
   </body>
 </html>
 """

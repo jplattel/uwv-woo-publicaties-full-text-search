@@ -99,6 +99,18 @@ header.site-header p {
   background: var(--surface);
 }
 
+.site-nav-link--github {
+  color: #fff;
+  background: #24292f;
+  border-color: #24292f;
+}
+
+.site-nav-link--github:hover {
+  color: #fff;
+  background: #3a4149;
+  border-color: #3a4149;
+}
+
 main {
   max-width: 920px;
   margin: 0 auto;
@@ -774,4 +786,26 @@ mark {
   .pdf-frame {
     min-height: 55vh;
   }
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  margin-top: 2.5rem;
+  padding: 1.25rem 1.5rem;
+}
+
+.site-footer-inner {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.site-footer p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.site-footer a {
+  color: var(--accent);
 }

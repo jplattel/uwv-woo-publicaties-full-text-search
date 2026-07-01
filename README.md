@@ -1,6 +1,6 @@
 # UWV Woo PDF crawler
 
-Daily pipeline that crawls [UWV Woo-publicaties](https://www.uwv.nl/nl/wet-open-overheid/publicaties/woo-publicaties), downloads new PDFs, extracts text (with OCR fallback), and commits structured Markdown + JSON back to this repository.
+Daily pipeline that crawls [UWV Woo-publicaties](https://www.uwv.nl/nl/wet-open-overheid/publicaties/woo-publicaties), downloads new PDFs, extracts text (with OCR fallback), and commits structured Markdown + JSON back to this repository (and publishes a [Github Pages website](https://jplattel.github.io/uwv-woo-publicaties-full-text-search/)).
 
 > 🚨 OCR might not be perfect so please always refer to the source! ⚠️
 
