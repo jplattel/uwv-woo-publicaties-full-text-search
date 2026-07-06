@@ -1,0 +1,3113 @@
+{
+  "source_id": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen/2026-01-04-proces-automatisch-toekennen-ziek-uit-dienst-zud-handboek-omgeving-uwv",
+  "publication_slug": "2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_slug": "2026-01-04-proces-automatisch-toekennen-ziek-uit-dienst-zud-handboek-omgeving-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0fdee76b-3291-45fe-9a76-df4b07aaf9a3/proces-automatisch-toekennen-ziek-uit-dienst-(zud)---handboek-omgeving---uwv.pdf",
+  "publication_title": "Woo-besluit beleidsrichtlijnen samenloop van uitkeringen",
+  "publication_date": "2026-01-04T23:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Proces automatisch toekennen Ziek uit dienst (ZUD) - Handboek omgeving - UWV (PDF, 424 kB)",
+  "retrieved_at": "2026-07-06T10:07:30+00:00",
+  "sha256": "e1df939e1845adaade259b1caf03b2c49042c17b8a27e18ca55723d61d0f86b7",
+  "page_count": 6,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        141.75,
+        557.29,
+        150.75
+      ],
+      "text": "Home » Handboeken » Proces Backoffice ZW » UD » Automatisch proces » Proces automatisch toekennen Ziek uit dienst (ZUD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        185.25,
+        258.18,
+        195.0
+      ],
+      "text": "Doorzoek handboek Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        213.75,
+        776.99,
+        223.5
+      ],
+      "text": "Toon meer velden Wis filters",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        354.0,
+        316.73,
+        379.5
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        407.25,
+        554.99,
+        428.25
+      ],
+      "text": "Proces automatisch toekennen Ziek uit dienst (ZUD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        458.43,
+        768.74,
+        469.68
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        476.25,
+        213.74,
+        487.5
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        496.5,
+        643.68,
+        507.75
+      ],
+      "text": "Er is een automatisch proces waarmee UZS de claimfase van ZW-aanvragen Ziek uit dienst (ZUD) volledig uitvoert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        527.25,
+        726.72,
+        538.5
+      ],
+      "text": "Aanvragen die van IDC naar Claim zijn overgedragen, worden aangeboden aan het proces ‘Automatisch toekennen’. Dit heet ook het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        546.75,
+        204.05,
+        558.0
+      ],
+      "text": "automatisch claimproces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        566.25,
+        752.23,
+        577.5
+      ],
+      "text": "In dit proces voert UZS (met uitzondering van het controleren van de gegevens in Suwinet) de volgende handelingen van de claimfase uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        585.75,
+        205.71,
+        597.0
+      ],
+      "text": "zonder jouw tussenkomst:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        76.5,
+        612.75,
+        82.57,
+        630.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.25,
+        616.5,
+        279.05,
+        627.75
+      ],
+      "text": "Bepalen of het een gladde aanvraag is",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        76.5,
+        632.25,
+        82.57,
+        650.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.25,
+        636.0,
+        258.61,
+        647.25
+      ],
+      "text": "Bepalen van recht, hoogte en duur",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        76.5,
+        651.75,
+        82.57,
+        669.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.25,
+        655.5,
+        228.39,
+        666.75
+      ],
+      "text": "Toekennen van de aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        76.5,
+        671.25,
+        82.57,
+        689.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.25,
+        675.0,
+        259.65,
+        686.25
+      ],
+      "text": "Versturen van de toekenningsbrief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        695.25,
+        562.36,
+        706.5
+      ],
+      "text": "Wie Uitkeringsdeskundige (UD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        715.5,
+        532.38,
+        726.75
+      ],
+      "text": "Divisie Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        735.75,
+        757.1,
+        747.0
+      ],
+      "text": "Samenvatting Beschrijving van het automatisch proces in UZS van een aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.37,
+        755.25,
+        534.4,
+        766.5
+      ],
+      "text": "Ziek uit dienst (ZUD).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        775.5,
+        100.28,
+        786.75
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        795.75,
+        581.5,
+        807.0
+      ],
+      "text": "Cliënt Aanvraag Ziek uit dienst (ZUD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        816.0,
+        208.09,
+        827.25
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        836.25,
+        140.98,
+        847.5
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        856.5,
+        136.43,
+        867.75
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.25,
+        876.75,
+        106.31,
+        888.0
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        42.75,
+        637.54,
+        63.75
+      ],
+      "text": "Processchema automatisch toekennen Ziek uit dienst (ZUD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        276.75,
+        432.32,
+        288.0
+      ],
+      "text": "Je kunt ook een uitvergrote versie van het processchema (pdf) bekijken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        307.5,
+        677.14,
+        328.5
+      ],
+      "text": "Procesbeschrijving automatisch toekennen Ziek uit dienst (ZUD)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        348.75,
+        318.35,
+        367.5
+      ],
+      "text": "Aanvraag ZUD met status ‘IB’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        381.75,
+        494.55,
+        393.0
+      ],
+      "text": "UZS selecteert de aanvragen die in aanmerking komen voor het automatisch proces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        401.25,
+        464.62,
+        412.5
+      ],
+      "text": "De voorwaarden om een aanvraag in het automatisch proces op te nemen zijn:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        428.25,
+        82.57,
+        446.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        432.0,
+        154.16,
+        443.25
+      ],
+      "text": "De aanvraag:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        447.75,
+        97.57,
+        465.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        451.5,
+        282.64,
+        462.75
+      ],
+      "text": "heeft de status ‘In behandeling’ (IB);",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        467.25,
+        97.57,
+        485.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        471.0,
+        228.17,
+        482.25
+      ],
+      "text": "is niet eerder afgewezen;",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        486.75,
+        97.57,
+        504.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        490.5,
+        267.51,
+        501.75
+      ],
+      "text": "is niet van een eigenrisicodrager;",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        506.25,
+        97.57,
+        524.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        510.0,
+        357.64,
+        521.25
+      ],
+      "text": "is niet eerder door het automatisch proces gegaan;",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        91.5,
+        525.75,
+        97.57,
+        543.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.25,
+        529.5,
+        300.71,
+        540.75
+      ],
+      "text": "is geen administratief voortgezet geval.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        545.25,
+        82.57,
+        563.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        549.0,
+        371.38,
+        560.25
+      ],
+      "text": "Er moet een rechtsgrond zijn die recht op uitkering geeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        583.5,
+        732.82,
+        594.75
+      ],
+      "text": "Als de aanvraag aan de voorwaarden voldoet, selecteert UZS de vangnetcategorie waarin de aanvraag thuishoort en de filters die het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        603.0,
+        587.22,
+        614.25
+      ],
+      "text": "automatisch proces voor de aanvraag moet doorlopen. Voor de vangnetcategorie ZUD zijn dit de filters:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        630.0,
+        82.57,
+        648.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        633.75,
+        172.36,
+        645.0
+      ],
+      "text": "ZUD Controle 4A",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        649.5,
+        82.57,
+        667.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        653.25,
+        158.69,
+        664.5
+      ],
+      "text": "ZUD Claim 2A",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        669.0,
+        82.57,
+        687.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        672.75,
+        158.36,
+        684.0
+      ],
+      "text": "ZUD Claim 2B",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        707.25,
+        736.25,
+        718.5
+      ],
+      "text": "Let op: Als je tijdens het automatisch proces de vangnetcategorie wijzigt, heeft UZS in de meeste gevallen niet alle filters die bij de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        726.75,
+        755.86,
+        738.0
+      ],
+      "text": "gewijzigde categorie horen doorlopen. Daarom haal je de aanvraag altijd uit het automatisch proces en handel je die verder handmatig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        746.25,
+        102.25,
+        757.5
+      ],
+      "text": "af.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        777.0,
+        750.74,
+        788.25
+      ],
+      "text": "Na het selecteren van de vangnetcategorie en de filters controleert UZS of het automatisch proces voor de aanvraag mag doorgaan. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        796.5,
+        593.22,
+        807.75
+      ],
+      "text": "automatisch proces mag niet doorgaan als de ‘Datum ingang claim’ niet bekend is of in de toekomst ligt:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        823.5,
+        82.57,
+        841.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        827.25,
+        757.74,
+        838.5
+      ],
+      "text": "Als het automatisch proces mag doorgaan, vult UZS in het scherm Beheren automatisch proces in het blok “Historie statusovergangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        846.75,
+        430.68,
+        858.0
+      ],
+      "text": "automatisch proces RHD” het veld <Status> met ‘Claim fase gestart’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        76.5,
+        862.5,
+        82.57,
+        880.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        866.25,
+        754.94,
+        877.5
+      ],
+      "text": "Als het automatisch proces niet mag doorgaan, vult UZS het veld <Status> met ‘Claimcontroles afgerond’ en zet signaal UZZ0438 Nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.25,
+        885.75,
+        449.17,
+        897.0
+      ],
+      "text": "niet toe- of afgewezen aanvraag: uitval automatisch proces voor je klaar.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.25,
+        917.25,
+        226.87,
+        936.0
+      ],
+      "text": "Opvragen dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        950.25,
+        755.36,
+        961.5
+      ],
+      "text": "Voor de vangnetcategorie ZUD stelt het automatisch proces het dagloon vast. UZS verstuurt hiervoor een verzoek aan de dagloonmodule",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        969.75,
+        258.12,
+        981.0
+      ],
+      "text": "(DMO) om het dagloon te berekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1000.5,
+        755.82,
+        1011.75
+      ],
+      "text": "UZS controleert gedurende 10 seconden of het resultaat van de dagloonberekening is ontvangen. Als UZS geen resultaat ontvangt, wacht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1020.0,
+        751.41,
+        1031.25
+      ],
+      "text": "UZS 1 dag en controleert dan opnieuw of het resultaat is ontvangen. Is het resultaat na de wachtdag nog steeds niet ontvangen, dan vult",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1039.5,
+        653.95,
+        1050.75
+      ],
+      "text": "UZS in het scherm Beheren automatisch proces het veld <Reden uitval DMO> en gaat het automatisch proces verder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1070.25,
+        760.56,
+        1081.5
+      ],
+      "text": "Als UZS het resultaat van DMO ontvangt, dan verwerkt UZS het dagloon dat DMO heeft berekend. Als DMO met de gegevens uit Polis geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.25,
+        1089.75,
+        707.12,
+        1101.0
+      ],
+      "text": "dagloon kan berekenen, dan vult UZS het veld <Reden uitval DMO>. Ongeacht het resultaat, gaat het automatisch proces verder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        30.75,
+        755.63,
+        42.0
+      ],
+      "text": "Alleen als DMO het dagloon niet kan berekenen omdat de koppeling tussen DMO en andere systemen niet werkt, zet UZS de aanvraag als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        50.25,
+        749.63,
+        61.5
+      ],
+      "text": "het kan 1 dag in de wacht (Wachttijd B). De volgende dag stuurt UZS opnieuw het verzoek aan DMO om het dagloon te berekenen. Heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        69.75,
+        655.9,
+        81.0
+      ],
+      "text": "UZS geen tijd meer om te wachten, dan vult UZS het veld <Reden uitval DMO> en gaat het automatisch proces verder.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        101.25,
+        286.11,
+        120.0
+      ],
+      "text": "Controleren voorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        134.25,
+        733.66,
+        145.5
+      ],
+      "text": "Voordat het controleren van de gegevens van de aanvraag begint, controleert UZS of de aanvraag ZUD aan de volgende voorwaarden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        153.75,
+        113.9,
+        165.0
+      ],
+      "text": "voldoet:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        180.75,
+        82.57,
+        198.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        184.5,
+        296.71,
+        195.75
+      ],
+      "text": "De soort aanvraag is ‘Ziek uit dienst (ZW)’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        200.25,
+        82.57,
+        218.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        204.0,
+        314.99,
+        215.25
+      ],
+      "text": "De soort verzekeringsbasis is ‘Dienstverband’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        76.5,
+        219.75,
+        82.57,
+        237.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.25,
+        223.5,
+        249.12,
+        234.75
+      ],
+      "text": "De status is ‘In behandeling’ (IB)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        258.0,
+        721.43,
+        269.25
+      ],
+      "text": "Als de aanvraag voldoet aan deze voorwaarden, voegt UZS de <Status> ‘Geval automatisch afhandelen’ toe in het scherm ‘Beheren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        277.5,
+        178.96,
+        288.75
+      ],
+      "text": "automatisch proces’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        297.0,
+        753.0,
+        308.25
+      ],
+      "text": "Als de aanvraag niet voldoet aan de voorwaarden, dan valt de aanvraag uit het automatisch proces en zet UZS signaal UZZ0438 Nog niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        316.5,
+        764.85,
+        327.75
+      ],
+      "text": "toe- of afgewezen aanvraag: uitval automatisch proces voor je klaar. UZS voegt in het scherm Beheren automatisch proces de regels ‘Geval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        336.0,
+        355.45,
+        347.25
+      ],
+      "text": "handmatig afhandelen’ en ‘Claimcontroles afgerond’ toe.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.25,
+        367.5,
+        213.89,
+        386.25
+      ],
+      "text": "ZUD Controle 4A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        400.5,
+        759.1,
+        411.75
+      ],
+      "text": "Met dit filter controleert UZS of de gegevens aanwezig zijn die het automatisch proces nodig heeft om de aanvraag af te handelen. Omdat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        420.0,
+        751.59,
+        431.25
+      ],
+      "text": "UZS geen controle in Suwinet kan uitvoeren, zet UZS bij iedere aanvraag ZUD signaal UZZ0563 Beoordelen resultaat controlefilter voor je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        439.5,
+        101.03,
+        450.75
+      ],
+      "text": "klaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        459.0,
+        748.89,
+        470.25
+      ],
+      "text": "Je handelt filterregel 193 dus altijd handmatig af. De aanvragen ZUD gaan toch wel allemaal het automatisch proces in omdat er andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        478.5,
+        767.25,
+        489.75
+      ],
+      "text": "voordelen zijn: UZS berekent het dagloon automatisch en als na het afhandelen van het controlefilter alle andere filters akkoord zijn, handelt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        498.0,
+        370.07,
+        509.25
+      ],
+      "text": "het automatisch proces de rest van de claimbeoordeling af.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        528.75,
+        741.09,
+        540.0
+      ],
+      "text": "In het scherm Raadplegen filterresultaat kun je zien welke gegevens ontbreken als je het roodgekleurde filter selecteert. Als achter een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        548.25,
+        751.61,
+        559.5
+      ],
+      "text": "filterregel het veld <Akkoord> is gevuld met ‘Nee’, dan vul je de gegevens aan met behulp van de werkinstructie Afhandelen filterresultaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        567.75,
+        718.33,
+        579.0
+      ],
+      "text": "claim. Door het aanvullen van de gegevens voorkom je uitval uit het automatisch proces en kan het automatisch proces gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        587.25,
+        723.38,
+        598.5
+      ],
+      "text": "controleren, het dagloon berekenen en daardoor meer aanvragen afhandelen. Als je de gegevens niet (tijdig) kunt aanvullen, valt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        606.75,
+        397.36,
+        618.0
+      ],
+      "text": "aanvraag pas uit het automatisch proces na filter ‘ZUD Claim 2B’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.25,
+        637.5,
+        218.86,
+        648.75
+      ],
+      "text": "Filterregels ZUD Controle 4A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        680.25,
+        456.76,
+        691.5
+      ],
+      "text": "Nummer Filterregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        700.5,
+        582.17,
+        711.75
+      ],
+      "text": "4 Er is een geldige arbeidsverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        720.75,
+        699.64,
+        732.0
+      ],
+      "text": "5 Rekeningnummer werknemer is bekend bij directe uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        741.0,
+        561.35,
+        752.25
+      ],
+      "text": "8 Adresgegevens komen overeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        761.25,
+        695.36,
+        772.5
+      ],
+      "text": "10 Er is een voorkeur correspondentieadres of domicilieadres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        405.06,
+        780.75,
+        441.46,
+        792.0
+      ],
+      "text": "bekend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        801.0,
+        678.15,
+        812.25
+      ],
+      "text": "11 Buitenlandse werknemer heeft een geldige verblijfstitel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        821.25,
+        563.89,
+        832.5
+      ],
+      "text": "16 Artikel 46 is niet van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        841.5,
+        562.81,
+        852.75
+      ],
+      "text": "40 Het betreft een directe uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        861.75,
+        596.65,
+        873.0
+      ],
+      "text": "55 Er is geen andere lopende ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        882.0,
+        685.85,
+        893.25
+      ],
+      "text": "56 Er is geen sprake van een verwijtbare te late ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        902.25,
+        709.62,
+        913.5
+      ],
+      "text": "88 De eerste ziektedag valt op een dag waarop verzekerde werkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        922.5,
+        565.68,
+        933.75
+      ],
+      "text": "105 Er is geen lopende MLA melding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        942.75,
+        647.3,
+        954.0
+      ],
+      "text": "170 De machtiging is verwerkt of niet van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        963.0,
+        589.76,
+        974.25
+      ],
+      "text": "171 Loonheffingskorting wordt toegepast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        983.25,
+        602.77,
+        994.5
+      ],
+      "text": "172 DMO heeft het dagloon bepaald of n.v.t.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1003.5,
+        617.43,
+        1014.75
+      ],
+      "text": "187 Arbeidsovereenkomst is voor bepaalde tijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1023.75,
+        685.92,
+        1035.0
+      ],
+      "text": "188 Het aantal opvolgende arbeidsovereenkomsten binnen 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        405.06,
+        1043.25,
+        524.28,
+        1054.5
+      ],
+      "text": "maanden is maximaal 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1063.5,
+        611.59,
+        1074.75
+      ],
+      "text": "189 Er is geen sprake van eerdere beëindiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1083.75,
+        670.88,
+        1095.0
+      ],
+      "text": "190 Totale duur van opvolgende AOK is niet langer dan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        405.06,
+        1103.25,
+        501.43,
+        1114.5
+      ],
+      "text": "toegestane periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1123.5,
+        577.59,
+        1134.75
+      ],
+      "text": "192 Er is geen sprake van faillissement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.5,
+        1143.75,
+        598.56,
+        1155.0
+      ],
+      "text": "193 Gegevens komen overeen met Suwinet",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        27.75,
+        238.18,
+        46.5
+      ],
+      "text": "Filter ZUD Claim 2A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        60.75,
+        767.72,
+        72.0
+      ],
+      "text": "Na filter ZUD Controle 4A volgt filter ZUD Claim 2A. Anders dan bij het controlefilter bevat dit filter controles op gegevens waardoor UZS een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        80.25,
+        293.71,
+        91.5
+      ],
+      "text": "aanvraag niet automatisch mag afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        111.0,
+        204.77,
+        122.25
+      ],
+      "text": "Filterregels ZUD Claim 2A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        153.75,
+        456.76,
+        165.0
+      ],
+      "text": "Nummer Filterregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        174.0,
+        562.81,
+        185.25
+      ],
+      "text": "40 Het betreft een directe uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        194.25,
+        562.16,
+        205.5
+      ],
+      "text": "96 Er is geen sprake van AOW plus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        214.5,
+        615.1,
+        225.75
+      ],
+      "text": "191 Er is sprake van een arbeidsovereenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        234.75,
+        655.7,
+        246.0
+      ],
+      "text": "221 Er is geen sprake van een ingetrokken ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        266.25,
+        753.96,
+        277.5
+      ],
+      "text": "Als in filter ZUD Claim 2A achter alle filterregels het veld <Akkoord> is gevuld met ‘Ja’, dan voegt UZS in het scherm Beheren automatisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        285.75,
+        720.13,
+        297.0
+      ],
+      "text": "proces de <Status> ‘UZS gecontroleerd, wachttijd’ toe. Als achter een filterregel het veld <Akkoord> is gevuld met ‘Nee’, dan valt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        305.25,
+        757.41,
+        316.5
+      ],
+      "text": "aanvraag uit het automatisch proces en zet UZS signaal UZZ0438 Nog niet toe- of afgewezen aanvraag: uitval automatisch proces voor je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        324.75,
+        737.04,
+        336.0
+      ],
+      "text": "klaar. In het scherm ‘Beheren automatisch proces’ voegt UZS de regels ‘UZS, handmatig afhandelen’ en ‘Claimcontroles afgerond’ toe.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        355.5,
+        762.77,
+        366.75
+      ],
+      "text": "Als UZS eerder bij ‘Opvragen dagloon’ DMO een dagloon heeft berekend, bereken je bij uitval van de aanvraag niet opnieuw het dagloon. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        375.0,
+        326.14,
+        386.25
+      ],
+      "text": "is dan al door het automatisch proces vastgesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        406.5,
+        177.57,
+        421.5
+      ],
+      "text": "Vaste wachttijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        435.0,
+        495.33,
+        446.25
+      ],
+      "text": "Na deze controles door UZS gaat de aanvraag direct door in het automatisch proces.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.25,
+        466.5,
+        237.58,
+        485.25
+      ],
+      "text": "Filter ZUD Claim 2B",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        499.5,
+        728.68,
+        510.75
+      ],
+      "text": "Met dit filter controleert UZS nogmaals of alle gegevens aanwezig zijn die het automatisch proces nodig heeft om de aanvraag af te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        519.0,
+        122.97,
+        530.25
+      ],
+      "text": "handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        549.75,
+        204.39,
+        561.0
+      ],
+      "text": "Filterregels ZUD Claim 2B",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        592.5,
+        456.76,
+        603.75
+      ],
+      "text": "Nummer Filterregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        612.75,
+        582.17,
+        624.0
+      ],
+      "text": "4 Er is een geldige arbeidsverhouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        633.0,
+        699.64,
+        644.25
+      ],
+      "text": "5 Rekeningnummer werknemer is bekend bij directe uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        653.25,
+        561.35,
+        664.5
+      ],
+      "text": "8 Adresgegevens komen overeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        673.5,
+        695.36,
+        684.75
+      ],
+      "text": "10 Er is een voorkeur correspondentieadres of domicilieadres",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        405.06,
+        693.0,
+        441.46,
+        704.25
+      ],
+      "text": "bekend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        713.25,
+        678.15,
+        724.5
+      ],
+      "text": "11 Buitenlandse werknemer heeft een geldige verblijfstitel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        733.5,
+        563.89,
+        744.75
+      ],
+      "text": "16 Artikel 46 is niet van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        753.75,
+        562.81,
+        765.0
+      ],
+      "text": "40 Het betreft een directe uitkering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        774.0,
+        596.65,
+        785.25
+      ],
+      "text": "55 Er is geen andere lopende ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        794.25,
+        685.85,
+        805.5
+      ],
+      "text": "56 Er is geen sprake van een verwijtbare te late ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        814.5,
+        540.64,
+        825.75
+      ],
+      "text": "83 Het ziektegeval is plausibel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        834.75,
+        709.62,
+        846.0
+      ],
+      "text": "88 De eerste ziektedag valt op een dag waarop verzekerde werkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        855.0,
+        565.68,
+        866.25
+      ],
+      "text": "105 Er is geen lopende MLA melding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        875.25,
+        647.3,
+        886.5
+      ],
+      "text": "170 De machtiging is verwerkt of niet van toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        895.5,
+        589.76,
+        906.75
+      ],
+      "text": "171 Loonheffingskorting wordt toegepast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        915.75,
+        617.43,
+        927.0
+      ],
+      "text": "187 Arbeidsovereenkomst is voor bepaalde tijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        936.0,
+        685.92,
+        947.25
+      ],
+      "text": "188 Het aantal opvolgende arbeidsovereenkomsten binnen 6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        405.06,
+        955.5,
+        524.28,
+        966.75
+      ],
+      "text": "maanden is maximaal 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        975.75,
+        611.59,
+        987.0
+      ],
+      "text": "189 Er is geen sprake van eerdere beëindiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        996.0,
+        600.36,
+        1007.25
+      ],
+      "text": "190 Totale duur van opvolgende AOK is niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        1016.25,
+        577.59,
+        1027.5
+      ],
+      "text": "192 Er is geen sprake van faillissement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        1036.5,
+        598.56,
+        1047.75
+      ],
+      "text": "193 Gegevens komen overeen met Suwinet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        82.5,
+        1056.75,
+        655.7,
+        1068.0
+      ],
+      "text": "221 Er is geen sprake van een ingetrokken ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1088.25,
+        743.32,
+        1099.5
+      ],
+      "text": "Als achter alle filterregels het veld <Akkoord> is gevuld met ‘Ja’, dan voegt UZS in het scherm Beheren automatisch proces de <Status>",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.25,
+        1107.75,
+        446.7,
+        1119.0
+      ],
+      "text": "‘Toekenbaarheid gecontroleerd’ toe en het automatisch proces gaat verder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        30.75,
+        752.88,
+        42.0
+      ],
+      "text": "Als nog niet achter alle filterregels het veld <Akkoord> is gevuld met ‘Ja’, dan voegt UZS de <Status> ‘Toekenbaarheid, wachttijd’ toe. UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        50.25,
+        461.02,
+        61.5
+      ],
+      "text": "wacht vervolgens maximaal 7 dagen voor het automatisch proces verdergaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        81.0,
+        764.02,
+        92.25
+      ],
+      "text": "Iedere dag controleert UZS of alle filterregels akkoord zijn. Zodra alle filterregels akkoord zijn, gaat het automatisch proces verder. Dit geeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        100.5,
+        762.49,
+        111.75
+      ],
+      "text": "de MVB de tijd om de plausibiliteit te verwerken. Het geeft jou ook de tijd om gegevens te verwerken waarvoor je eventueel informatie hebt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        120.0,
+        294.42,
+        131.25
+      ],
+      "text": "opgevraagd vanwege filter ZUD Controle 4A.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        150.75,
+        755.12,
+        162.0
+      ],
+      "text": "Als na deze periode nog steeds niet alle filterregels akkoord zijn, dan valt de aanvraag uit het automatisch proces. Als op het geval eerder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        170.25,
+        748.84,
+        181.5
+      ],
+      "text": "signaal ‘UZZ0563 Beoordelen resultaat controlefilter’ is gezet, dan zet UZS signaal UZZ0605 Nog niet toe- of afgewezen aanvraag: uitval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        189.75,
+        719.35,
+        201.0
+      ],
+      "text": "automatisch proces voor je klaar. Is eerder signaal ‘UZZ0563’ niet gezet, dan zet UZS signaal UZZ0438 Nog niet toe- of afgewezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        209.25,
+        751.63,
+        220.5
+      ],
+      "text": "aanvraag: uitval automatisch proces voor je klaar. In het scherm ‘Beheren automatisch proces’ voegt UZS dan <Status> ‘Toekenbaarheid,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        228.75,
+        739.24,
+        240.0
+      ],
+      "text": "handmatig afhandelen’ en <Status> ‘Claimcontroles afgerond’ toe. Als eerder bij ‘Opvragen dagloon’ DMO een dagloon heeft berekend,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        248.25,
+        466.99,
+        259.5
+      ],
+      "text": "bereken je bij het verder afhandelen van de aanvraag niet opnieuw het dagloon.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        279.75,
+        226.87,
+        298.5
+      ],
+      "text": "Opvragen dagloon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        312.75,
+        759.92,
+        324.0
+      ],
+      "text": "Nu het automatisch proces alle gegevens heeft om toe te kennen, controleert UZS of er eerder al een dagloon is vastgesteld (door DMO of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        332.25,
+        134.48,
+        343.5
+      ],
+      "text": "handmatig):",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        359.25,
+        82.57,
+        377.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        363.0,
+        405.16,
+        374.25
+      ],
+      "text": "Is het dagloon bekend, dan gaat het automatisch proces verder.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        378.75,
+        82.57,
+        396.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        382.5,
+        741.99,
+        393.75
+      ],
+      "text": "Is er geen dagloon bekend, dan verstuurt UZS opnieuw een verzoek aan DMO om het dagloon te berekenen. Geeft DMO ditmaal een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        402.0,
+        299.06,
+        413.25
+      ],
+      "text": "dagloon terug, dan gaat het proces verder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        436.5,
+        737.9,
+        447.75
+      ],
+      "text": "Als DMO het dagloon nog steeds niet kan berekenen, dan valt de aanvraag uit het automatisch proces. Als op het geval eerder signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        456.0,
+        710.0,
+        467.25
+      ],
+      "text": "‘UZZ0563 Beoordelen resultaat controlefilter’ is gezet, dan zet UZS signaal UZZ0605 Nog niet toe- of afgewezen aanvraag: uitval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        475.5,
+        719.35,
+        486.75
+      ],
+      "text": "automatisch proces voor je klaar. Is eerder signaal ‘UZZ0563’ niet gezet, dan zet UZS signaal UZZ0438 Nog niet toe- of afgewezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        495.0,
+        320.76,
+        506.25
+      ],
+      "text": "aanvraag: uitval automatisch proces voor je klaar.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        526.5,
+        257.49,
+        545.25
+      ],
+      "text": "Bepalen recht en duur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        559.5,
+        749.23,
+        570.75
+      ],
+      "text": "Na het vaststellen van de hoogte legt het automatisch claimproces het recht en de duur vast. UZS controleert ook of UZS rekening moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        579.0,
+        718.5,
+        590.25
+      ],
+      "text": "houden met vangnetcategorie specifieke zaken. Voor de vangnetcategorie ZUD onderzoekt UZS of er een hersteldatum bekend is:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        606.0,
+        82.57,
+        624.0
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        609.75,
+        479.23,
+        621.0
+      ],
+      "text": "Hersteldatum bekend: UZS houdt de hersteldatum aan als ‘Datum einde recht’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        76.5,
+        625.5,
+        82.57,
+        643.5
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.25,
+        629.25,
+        469.3,
+        640.5
+      ],
+      "text": "Hersteldatum niet bekend: UZS zet de ‘Datum einde recht’ op de Max-datum.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        663.75,
+        757.44,
+        675.0
+      ],
+      "text": "Als het recht en de duur zijn vastgesteld, voegt UZS in het scherm Beheren automatisch proces de <Status> ‘RHD bepaald’ toe en gaat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        683.25,
+        768.53,
+        694.5
+      ],
+      "text": "automatisch proces verder. Kan UZS recht en duur alsnog niet vaststellen, dan valt de aanvraag uit het automatisch proces. Als op het geval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        702.75,
+        753.76,
+        714.0
+      ],
+      "text": "eerder signaal ‘UZZ0563 Beoordelen resultaat controlefilter’ is gezet, dan zet UZS signaal UZZ0605 Nog niet toe- of afgewezen aanvraag:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        722.25,
+        748.98,
+        733.5
+      ],
+      "text": "uitval automatisch proces voor je klaar. Is eerder signaal ‘UZZ0563’ niet gezet, dan zet UZS signaal UZZ0438 Nog niet toe- of afgewezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        741.75,
+        758.18,
+        753.0
+      ],
+      "text": "aanvraag: uitval automatisch proces voor je klaar. In het scherm ‘Beheren automatisch proces’ voegt UZS dan <Status> ‘RHD niet bepaald’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        761.25,
+        238.68,
+        772.5
+      ],
+      "text": "en ‘Claimcontroles afgerond’ toe.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.25,
+        792.75,
+        166.08,
+        811.5
+      ],
+      "text": "Toekennen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        825.75,
+        745.39,
+        837.0
+      ],
+      "text": "Na het definitief vaststellen van recht, hoogte en duur kent UZS de aanvraag toe. Doordat de status van het geval naar ‘Toegewezen’ (T)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        845.25,
+        756.89,
+        856.5
+      ],
+      "text": "wijzigt, selecteert UZS de toekenningsbrief en fiatteert die. In het scherm Beheren automatisch proces voegt UZS de <Status> ‘Toekennen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        864.75,
+        589.96,
+        876.0
+      ],
+      "text": "geslaagd, automatisch proces afgerond’ toe en gaat het automatisch proces verder met de laatste stap.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        895.5,
+        760.83,
+        906.75
+      ],
+      "text": "Als UZS alsnog niet kan toekennen, dan valt de aanvraag uit het automatisch proces. Als op het geval eerder signaal ‘UZZ0563 Beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        915.0,
+        767.46,
+        926.25
+      ],
+      "text": "resultaat controlefilter’ is gezet, dan zet UZS signaal UZZ0605 Nog niet toe- of afgewezen aanvraag: uitval automatisch proces voor je klaar.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        934.5,
+        759.52,
+        945.75
+      ],
+      "text": "Is eerder signaal ‘UZZ0563’ niet gezet, dan zet UZS signaal UZZ0438 Nog niet toe- of afgewezen aanvraag: uitval automatisch proces voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        954.0,
+        755.29,
+        965.25
+      ],
+      "text": "je klaar. In het scherm ‘Beheren automatisch proces’ voegt UZS dan <Status> ‘Toekennen niet geslaagd’ en ‘Claimcontroles afgerond’ toe.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        984.75,
+        752.69,
+        996.0
+      ],
+      "text": "Als de aanvraag op dit moment in het proces uitvalt, dan komt dat vaak omdat er na de controles van het laatste filter een gegeven in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1004.25,
+        762.78,
+        1015.5
+      ],
+      "text": "dossier is gewijzigd. Om de exacte reden te achterhalen waarom UZS de aanvraag niet kan toekennen, klik je op de knop “Toekennen”. UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1023.75,
+        748.63,
+        1035.0
+      ],
+      "text": "geeft dan een foutmelding die vermeldt waarom UZS niet kan toekennen. Je beoordeelt of wijzigt dan alleen dat gegeven. Soms volgt er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.25,
+        1043.25,
+        741.35,
+        1054.5
+      ],
+      "text": "geen foutmelding. Het probleem is dan inmiddels al opgelost (omdat bijvoorbeeld een rekeningnummer na het wijzigen is gefiatteerd).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        27.75,
+        219.7,
+        46.5
+      ],
+      "text": "Toekenningsbrief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        60.75,
+        759.41,
+        72.0
+      ],
+      "text": "Als laatste stap in het automatisch claimproces controleert UZS of de toekenningsbrief automatisch is klaargezet en gefiatteerd. Is dit het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        80.25,
+        725.63,
+        91.5
+      ],
+      "text": "geval, dan is dit het einde van het automatisch claimproces. UZS rondt het automatisch claimproces af door in het scherm Beheren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        99.75,
+        653.55,
+        111.0
+      ],
+      "text": "automatisch proces de <Status> ‘Brief automatisch gefiatteerd’ en <Status> ‘Claimcontroles afgerond’ toe te voegen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        130.5,
+        765.87,
+        141.75
+      ],
+      "text": "Als UZS de toekenningsbrief niet heeft gefiatteerd, dan zet UZS signaal UZZ0334 Afhandelen uitgaande brief voor je klaar. Je controleert en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        150.0,
+        768.73,
+        161.25
+      ],
+      "text": "verstuurt de brief dan handmatig. In het scherm ‘Beheren automatisch proces’ voegt UZS in deze situatie <Status> ‘Brief niet aangemaakt of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        169.5,
+        297.71,
+        180.75
+      ],
+      "text": "gefiatteerd’ en ‘Claimcontroles afgerond’ toe.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        201.0,
+        176.43,
+        219.75
+      ],
+      "text": "Continueren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        234.0,
+        714.51,
+        245.25
+      ],
+      "text": "De handelingen die voor het continueren en beëindigen van de uitkering nodig zijn, behoren niet tot het automatisch claimproces.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.25,
+        265.5,
+        150.73,
+        284.25
+      ],
+      "text": "Tellingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        298.5,
+        566.66,
+        309.75
+      ],
+      "text": "Aanvragen die automatisch verwerkt zijn, worden apart geteld in de werkverdeling en de OSI-lijsten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        330.0,
+        108.55,
+        341.25
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        350.25,
+        498.03,
+        361.5
+      ],
+      "text": "Intern UZS-signalen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        431.62,
+        377.25,
+        437.7,
+        395.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.37,
+        381.0,
+        628.25,
+        392.25
+      ],
+      "text": "UZZ0334 Afhandelen uitgaande brief",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        431.62,
+        396.75,
+        437.7,
+        414.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.37,
+        400.5,
+        708.6,
+        411.75
+      ],
+      "text": "UZZ0438 Nog niet toe- of afgewezen aanvraag: uitval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.37,
+        420.0,
+        543.86,
+        431.25
+      ],
+      "text": "automatisch proces",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        431.62,
+        435.75,
+        437.7,
+        453.75
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.37,
+        439.5,
+        663.01,
+        450.75
+      ],
+      "text": "UZZ0563 Beoordelen resultaat controlefilter",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        431.62,
+        455.25,
+        437.7,
+        473.25
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.37,
+        459.0,
+        708.6,
+        470.25
+      ],
+      "text": "UZZ0605 Nog niet toe- of afgewezen aanvraag: uitval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.37,
+        478.5,
+        543.86,
+        489.75
+      ],
+      "text": "automatisch proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        498.75,
+        148.84,
+        510.0
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        519.0,
+        130.71,
+        530.25
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        550.5,
+        144.62,
+        561.75
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        570.75,
+        506.1,
+        582.0
+      ],
+      "text": "Overzicht Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        429.37,
+        590.25,
+        517.73,
+        601.5
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        610.5,
+        276.08,
+        621.75
+      ],
+      "text": "Wettelijke basis, aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        630.75,
+        130.33,
+        642.0
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        651.0,
+        144.12,
+        662.25
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.25,
+        673.68,
+        768.74,
+        684.93
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    }
+  ]
+}
