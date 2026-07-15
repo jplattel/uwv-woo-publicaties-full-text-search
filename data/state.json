@@ -14648,5 +14648,25 @@
       "md": "data/2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen/2026-01-04-proces-automatisch-toekennen-ziek-uit-dienst-zud-handboek-omgeving-uwv.md",
       "json": "data/2026-01-04-woo-besluit-beleidsrichtlijnen-samenloop-van-uitkeringen/2026-01-04-proces-automatisch-toekennen-ziek-uit-dienst-zud-handboek-omgeving-uwv.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/6d37f07f-3aa2-465f-aaee-120dbd3b6ac9/woo-besluit-2026055.pdf": {
+    "publication_slug": "2026-07-08-woo-besluit-corrigeren-arbeidsverleden-bij-toepassen-turkse-socialezekerheidsverdrag",
+    "pdf_slug": "2026-07-08-woo-besluit-2026055",
+    "sha256": "ece6e321010cf790a0b2fb96b7536c858909f04b21592102c8c975928f3a80ad",
+    "retrieved_at": "2026-07-15T07:57:40+00:00",
+    "paths": {
+      "md": "data/2026-07-08-woo-besluit-corrigeren-arbeidsverleden-bij-toepassen-turkse-socialezekerheidsverdrag/2026-07-08-woo-besluit-2026055.md",
+      "json": "data/2026-07-08-woo-besluit-corrigeren-arbeidsverleden-bij-toepassen-turkse-socialezekerheidsverdrag/2026-07-08-woo-besluit-2026055.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/27b6c2dd-28f9-48ec-98fc-672a54dd8f1f/woo-besluit-2026049B.pdf": {
+    "publication_slug": "2026-07-08-woo-besluit-onderzoek-bms",
+    "pdf_slug": "2026-07-08-woo-besluit-2026049b",
+    "sha256": "46ee04b6ca18a58fae302cd26fe828accccd94186ce258d73e9ee1d4fecaa22e",
+    "retrieved_at": "2026-07-15T07:57:42+00:00",
+    "paths": {
+      "md": "data/2026-07-08-woo-besluit-onderzoek-bms/2026-07-08-woo-besluit-2026049b.md",
+      "json": "data/2026-07-08-woo-besluit-onderzoek-bms/2026-07-08-woo-besluit-2026049b.json"
+    }
   }
 }
