@@ -14,6 +14,7 @@ class Settings:
     ocr_lang: str
     min_chars_per_page: int
     request_delay: float
+    verify_ssl: bool
     data_dir: Path
     config_path: Path
 
@@ -33,6 +34,7 @@ def load_settings(config_path: Path, data_dir: Path | None = None) -> Settings:
         ocr_lang=raw.get("ocr_lang", "nld"),
         min_chars_per_page=int(raw.get("min_chars_per_page", 40)),
         request_delay=float(raw.get("request_delay", 0.5)),
+        verify_ssl=bool(raw.get("verify_ssl", True)),
         data_dir=data_dir or Path("data"),
         config_path=config_path,
     )

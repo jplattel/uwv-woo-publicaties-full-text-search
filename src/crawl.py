@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Iterator
 
 import requests
+import urllib3
 from bs4 import BeautifulSoup
 
 from src.config import Settings
@@ -55,6 +56,9 @@ class DownloadedPdf:
 
 def create_session(settings: Settings) -> requests.Session:
     session = requests.Session()
+    session.verify = settings.verify_ssl
+    if not settings.verify_ssl:
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     session.headers.update(
         {
             "User-Agent": USER_AGENT,
