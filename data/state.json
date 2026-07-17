@@ -14660,13 +14660,173 @@
     }
   },
   "https://www.uwv.nl/assets-kai/files/27b6c2dd-28f9-48ec-98fc-672a54dd8f1f/woo-besluit-2026049B.pdf": {
-    "publication_slug": "2026-07-08-woo-besluit-onderzoek-bms",
-    "pdf_slug": "2026-07-08-woo-besluit-2026049b",
-    "sha256": "46ee04b6ca18a58fae302cd26fe828accccd94186ce258d73e9ee1d4fecaa22e",
-    "retrieved_at": "2026-07-15T07:57:42+00:00",
+    "publication_slug": "2026-07-09-woo-besluit-onderzoek-bms",
+    "pdf_slug": "2026-07-09-woo-besluit-2026049b",
+    "sha256": "f106f3a63acfd08ed2a5187156043e1cc49a344a6f64106b99f7ad69786e0fd8",
+    "retrieved_at": "2026-07-17T08:13:55+00:00",
     "paths": {
-      "md": "data/2026-07-08-woo-besluit-onderzoek-bms/2026-07-08-woo-besluit-2026049b.md",
-      "json": "data/2026-07-08-woo-besluit-onderzoek-bms/2026-07-08-woo-besluit-2026049b.json"
+      "md": "data/2026-07-09-woo-besluit-onderzoek-bms/2026-07-09-woo-besluit-2026049b.md",
+      "json": "data/2026-07-09-woo-besluit-onderzoek-bms/2026-07-09-woo-besluit-2026049b.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/364ad202-4d02-4320-8b6c-30e9eb2b8faf/woo-besluit-2026041-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-woo-besluit-2026041-geanonimiseerd",
+    "sha256": "03d77a30d0e730b57d785e636cdc1fe099c3d91ecc15ee9b6a0b7d9e461baa36",
+    "retrieved_at": "2026-07-17T08:13:59+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-woo-besluit-2026041-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-woo-besluit-2026041-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f2aca1b7-0717-404b-9b44-0b5a3f6e8989/doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd",
+    "sha256": "75aec5b3d0adac95ecf5c0184f047cfabb8ce835d851e9436b80564a586e3f2b",
+    "retrieved_at": "2026-07-17T08:14:00+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/48dc91f4-1332-4bc6-bd49-42bb7bc5f6a8/doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd",
+    "sha256": "0f05348ae8eb7b74fc036080b0d9c36c3f930b6e6c7ef598d983990940d16938",
+    "retrieved_at": "2026-07-17T08:14:01+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/85c80b55-4be4-4b72-a1f7-2f2866ea976c/doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd",
+    "sha256": "0d0af3f169104c9dbe454ba15c46d7e8f09225267180bf99405abd4062244c49",
+    "retrieved_at": "2026-07-17T08:14:02+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6d24e27a-cc66-4512-a54f-7d90156c1451/doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd",
+    "sha256": "b7e8c54189c939d0ac4c27fd42ac7e920a08953250a94ca4146cd2a2dcc857d2",
+    "retrieved_at": "2026-07-17T08:14:03+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b7268eb9-d17a-48e8-806e-edafab580f27/doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd",
+    "sha256": "9708a25505797e40d200b281bbb9c56b38284e82ca1f39248376f32909af6ab9",
+    "retrieved_at": "2026-07-17T08:14:05+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5943f1ac-3b15-4bff-9a7d-7308ea1e83a1/doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd",
+    "sha256": "a7b62384a21d64a307a169e33446cb24eb4e2bb928339c718d6bc7018b112768",
+    "retrieved_at": "2026-07-17T08:14:10+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/dc1da8c5-4798-49da-af17-9c35e06fee4b/doc-08-positieve-adviezen-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-08-positieve-adviezen-geanonimiseerd",
+    "sha256": "214ab3b370cd69ccc9c54f38c4be103268a19fca487bcc6e64624b9da2b99025",
+    "retrieved_at": "2026-07-17T08:14:11+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-08-positieve-adviezen-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-08-positieve-adviezen-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a79d1ba5-784f-4c55-8a7e-6aae18b36125/doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd",
+    "sha256": "97c70b3e47e1ab4c4a87f74ed4249c68b42da9986020ceec40027c2dd40d20e1",
+    "retrieved_at": "2026-07-17T08:14:12+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a72e300b-4b08-4a12-9644-a6ac4a7ad244/doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd",
+    "sha256": "7bfc3b7bdcd15bf6f064fc30015671b5519b11046f0add8961c3480a8c872cd6",
+    "retrieved_at": "2026-07-17T08:14:15+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/bb6dfeaf-ece1-4982-be9b-ae509cb7f9f9/doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd",
+    "sha256": "9b14e6b646062a3b27e493e71d19a2a61ee21ffe1b3ce351caa26364cafe29bf",
+    "retrieved_at": "2026-07-17T08:14:16+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cc7b36dd-a44a-4866-992e-7d50e50b50eb/doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd",
+    "sha256": "1ab3ff6dc8e5ff2d67dd4d5da8072ec0c384b2343db3b23ca16b1aa21b94ec13",
+    "retrieved_at": "2026-07-17T08:14:18+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1cec772a-8ae7-4f56-89b9-cf308eae4d00/doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd",
+    "sha256": "bb5400bec96a85ba0bf301467dd83c5d760cdb6a6d12741b85e0f31d41dadcc7",
+    "retrieved_at": "2026-07-17T08:14:19+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d170446a-0ea6-449e-a255-b7de3b73683a/doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd",
+    "sha256": "c972dd8da527b70078bed0f72e8d6edfbd98c3deca43d052c5b6695c5c6ed15a",
+    "retrieved_at": "2026-07-17T08:14:20+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/efeb1364-bbdd-4e29-b5f1-7e9a358c1d0b/doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd",
+    "sha256": "5b3a697ef2b36acc0160e5f86b673d25f69f31397875e5a378d17d2a0867a83f",
+    "retrieved_at": "2026-07-17T08:14:27+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/56bea39c-09c0-492d-9a18-4c7b7c87cef8/woo-besluit-2026059.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-betrokken-verzekeringsarts-bij-een-gevalsdossier",
+    "pdf_slug": "2026-07-06-woo-besluit-2026059",
+    "sha256": "6802093481633ec7b52502b69a8306de1a597ba19291a93a604e34e988a81dce",
+    "retrieved_at": "2026-07-17T08:14:29+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-betrokken-verzekeringsarts-bij-een-gevalsdossier/2026-07-06-woo-besluit-2026059.md",
+      "json": "data/2026-07-06-woo-besluit-over-betrokken-verzekeringsarts-bij-een-gevalsdossier/2026-07-06-woo-besluit-2026059.json"
     }
   }
 }
