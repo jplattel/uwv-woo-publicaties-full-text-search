@@ -14928,5 +14928,55 @@
       "md": "data/2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid/2026-06-23-standaard-duurbelastbaarheid-in-arbeid-geanonimiseerd.md",
       "json": "data/2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid/2026-06-23-standaard-duurbelastbaarheid-in-arbeid-geanonimiseerd.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/31899fb7-c391-46d1-b027-ad31b317cb7c/beslissing-op-bezwaar-woo-2024119-bezwaar.pdf": {
+    "publication_slug": "2026-07-15-woo-besluit-op-bezwaar-over-kwaliteit-en-uitvoering-wia-beoordelingen",
+    "pdf_slug": "2026-07-15-beslissing-op-bezwaar-woo-2024119-bezwaar",
+    "sha256": "b27f7a0dc930c11a731c1481532bad10705b9a7ad660fe27d96d292d7294df1c",
+    "retrieved_at": "2026-07-25T07:58:22+00:00",
+    "paths": {
+      "md": "data/2026-07-15-woo-besluit-op-bezwaar-over-kwaliteit-en-uitvoering-wia-beoordelingen/2026-07-15-beslissing-op-bezwaar-woo-2024119-bezwaar.md",
+      "json": "data/2026-07-15-woo-besluit-op-bezwaar-over-kwaliteit-en-uitvoering-wia-beoordelingen/2026-07-15-beslissing-op-bezwaar-woo-2024119-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d439be69-1985-4c7a-bf09-87992614bc68/woo-besluit-2026057.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-zoekslag-ander-woo-verzoek",
+    "pdf_slug": "2026-07-14-woo-besluit-2026057",
+    "sha256": "008021ab8aaf86c3cf63329337fcac62e0ad2e7aed99ae8b67ed2ac09ac95e95",
+    "retrieved_at": "2026-07-25T07:58:45+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-zoekslag-ander-woo-verzoek/2026-07-14-woo-besluit-2026057.md",
+      "json": "data/2026-07-14-woo-besluit-over-zoekslag-ander-woo-verzoek/2026-07-14-woo-besluit-2026057.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8574053a-7967-4945-a7f9-d09686240382/woo-besluit-2026050.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-ai-visie-strategie-uwv",
+    "pdf_slug": "2026-07-14-woo-besluit-2026050",
+    "sha256": "79f0b3e706cd7c713261c6de22c9f2524f75e859da995bc7480a00057d548031",
+    "retrieved_at": "2026-07-25T07:58:47+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-woo-besluit-2026050.md",
+      "json": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-woo-besluit-2026050.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9c4d25aa-3996-4832-b9c0-a36893ea12e0/26-024a-beslisnotitie-visie-en-strategie-ai.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-ai-visie-strategie-uwv",
+    "pdf_slug": "2026-07-14-26-024a-beslisnotitie-visie-en-strategie-ai",
+    "sha256": "73daed79f4a92e50492c05a427627d90d5f51dc795dedef241da5fb6bcc20177",
+    "retrieved_at": "2026-07-25T07:58:49+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-beslisnotitie-visie-en-strategie-ai.md",
+      "json": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-beslisnotitie-visie-en-strategie-ai.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b1c3c071-0d3e-45c6-a1a4-d3148ffbde00/26-024a-visie-en-strategie-ai-uwv.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-ai-visie-strategie-uwv",
+    "pdf_slug": "2026-07-14-26-024a-visie-en-strategie-ai-uwv",
+    "sha256": "196eab2494ab12fd26e796d6bd1116c971712dee873ebd9876108d3aac2bd7b0",
+    "retrieved_at": "2026-07-25T07:58:55+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-visie-en-strategie-ai-uwv.md",
+      "json": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-visie-en-strategie-ai-uwv.json"
+    }
   }
 }
