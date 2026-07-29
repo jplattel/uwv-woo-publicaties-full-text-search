@@ -14988,5 +14988,45 @@
       "md": "data/2026-07-17-woo-besluit-over-inzage-eigen-dossier/2026-07-17-woo-besluit-2026056.md",
       "json": "data/2026-07-17-woo-besluit-over-inzage-eigen-dossier/2026-07-17-woo-besluit-2026056.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/ab09cd34-6ce6-4745-850c-c1f6003ee3b1/woo-besluit-2026052.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-woo-besluit-2026052",
+    "sha256": "d1e92b26f33b9684e9b1c5260d1d5eee3eb4881053c34e8f7aac31a9c5fceacc",
+    "retrieved_at": "2026-07-29T08:30:15+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-woo-besluit-2026052.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-woo-besluit-2026052.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8bdfe164-a8a7-4bf8-baa9-61580d227e4c/cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie",
+    "sha256": "70dba929d5bab5677f4e71ccc8717916e7f232dbad00a0306e73a873c5baf9e3",
+    "retrieved_at": "2026-07-29T08:30:22+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cae96ec9-f60d-4925-9f8c-1f6acc52cbc8/lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte",
+    "sha256": "a3453336e20390915b1bde4ab56e7d21c45eb62a3ee9df31bed1d94c02971b79",
+    "retrieved_at": "2026-07-29T08:30:25+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/725e0cc1-0e6f-4598-93f3-ff37c384b22b/crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval",
+    "sha256": "b28e9ea3b64b778d62e72b7b5f80dad24b3a7a79f6d5bc10ac7199fb90791d9a",
+    "retrieved_at": "2026-07-29T08:30:29+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval.json"
+    }
   }
 }
