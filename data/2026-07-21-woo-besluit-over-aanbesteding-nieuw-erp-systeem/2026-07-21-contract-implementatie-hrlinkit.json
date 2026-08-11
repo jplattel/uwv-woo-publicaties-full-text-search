@@ -1,0 +1,6245 @@
+{
+  "source_id": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-contract-implementatie-hrlinkit",
+  "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+  "pdf_slug": "2026-07-21-contract-implementatie-hrlinkit",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/1528250b-bd66-495b-9a28-632f849c9b2a/contract-implementatie-hrlinkit.pdf",
+  "publication_title": "Woo-besluit over aanbesteding nieuw ERP-systeem",
+  "publication_date": "2026-07-21T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Contract implementatie HRLinkit (PDF, 2 MB)",
+  "retrieved_at": "2026-08-11T06:58:40+00:00",
+  "sha256": "a35e77fe1bd2ee64a5e460ca3cd8efcdaaa7973e0929b839045298d693767d52",
+  "page_count": 11,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        204.0,
+        829.0,
+        844.0,
+        886.0
+      ],
+      "text": "Statement Of Work",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        212.0,
+        969.0,
+        503.0,
+        1062.0
+      ],
+      "text": "UWV",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        208.0,
+        1130.0,
+        899.0,
+        1201.0
+      ],
+      "text": "BH4SF Implementatie",
+      "source": "ocr"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        447.0,
+        1938.0,
+        1123.0,
+        2088.0
+      ],
+      "text": "@HRlLinkiT",
+      "source": "ocr"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        502.0,
+        171.01,
+        518.8,
+        178.01
+      ],
+      "text": "Date",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        471.0,
+        186.01,
+        516.46,
+        194.01
+      ],
+      "text": "06/08/2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        484.0,
+        210.01,
+        515.5,
+        218.01
+      ],
+      "text": "Contrac",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        241.0,
+        226.01,
+        518.33,
+        234.01
+      ],
+      "text": "MASTER CONTRACT FOR SUPPLY OF SOFTWARE AND SERVICES",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        485.0,
+        250.01,
+        517.57,
+        258.01
+      ],
+      "text": "Number",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        488.0,
+        290.01,
+        518.63,
+        298.01
+      ],
+      "text": "Version",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        510.0,
+        306.01,
+        514.0,
+        314.01
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        491.0,
+        329.01,
+        518.43,
+        337.01
+      ],
+      "text": "Author",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        456.0,
+        344.01,
+        523.0,
+        355.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        791.01,
+        520.5,
+        798.01
+      ],
+      "text": "HRlinklT BV www.hrlinkit.com 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        211.0,
+        801.01,
+        361.0,
+        813.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        72.0,
+        805.01,
+        197.83,
+        812.01
+      ],
+      "text": "Wiedauwkaai 23G 9000 Ghent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        148.0,
+        805.01,
+        206.5,
+        815.01
+      ],
+      "text": "| |",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        72.0,
+        77.02,
+        129.5,
+        97.02
+      ],
+      "text": "Table",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        150.0,
+        77.02,
+        167.33,
+        98.02
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        183.0,
+        79.02,
+        283.45,
+        97.02
+      ],
+      "text": "contents",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        516.0,
+        153.01,
+        521.0,
+        161.01
+      ],
+      "text": "A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        154.01,
+        134.42,
+        162.01
+      ],
+      "text": "1. Introductie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        517.0,
+        154.1,
+        521.5,
+        252.1
+      ],
+      "text": "DAW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        516.0,
+        168.02,
+        522.67,
+        192.02
+      ],
+      "text": "UR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        169.01,
+        124.89,
+        177.01
+      ],
+      "text": "2. Minimale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        133.0,
+        169.01,
+        195.77,
+        179.01
+      ],
+      "text": "requirements",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        184.01,
+        77.33,
+        192.01
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        84.0,
+        184.01,
+        161.89,
+        194.01
+      ],
+      "text": "Project approach",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        91.0,
+        199.01,
+        126.56,
+        209.01
+      ],
+      "text": "Planning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        91.0,
+        214.01,
+        154.47,
+        224.01
+      ],
+      "text": "Projectbestuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        136.0,
+        229.01,
+        139.5,
+        237.01
+      ],
+      "text": "&",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        83.0,
+        229.01,
+        176.75,
+        239.01
+      ],
+      "text": "Capaciteit Pricing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        230.01,
+        77.33,
+        237.01
+      ],
+      "text": "4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        244.01,
+        133.64,
+        255.01
+      ],
+      "text": "Capaciteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        261.01,
+        229.44,
+        269.01
+      ],
+      "text": "Team HRlinklT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        120.0,
+        261.01,
+        183.14,
+        272.01
+      ],
+      "text": "Samenstelling",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        517.0,
+        261.02,
+        520.33,
+        284.02
+      ],
+      "text": "NN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        277.01,
+        118.88,
+        288.01
+      ],
+      "text": "Pricing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        83.0,
+        293.01,
+        151.31,
+        301.01
+      ],
+      "text": "Overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        294.01,
+        520.5,
+        302.01
+      ],
+      "text": "5. 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        791.01,
+        191.0,
+        798.01
+      ],
+      "text": "HRlinklT BV www.hrlinkit.com",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        211.0,
+        804.01,
+        366.0,
+        814.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        127.0,
+        805.01,
+        170.0,
+        812.01
+      ],
+      "text": "23G 9000",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        72.0,
+        805.01,
+        197.83,
+        813.01
+      ],
+      "text": "Wiedauwkaai Ghent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        148.0,
+        805.01,
+        206.5,
+        815.01
+      ],
+      "text": "| |",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        128.0,
+        76.02,
+        249.0,
+        95.02
+      ],
+      "text": "Introductie",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.0,
+        78.02,
+        103.0,
+        96.02
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.0,
+        135.01,
+        441.4,
+        143.01
+      ],
+      "text": "UWV heeft Bullhorn4Salesforce als hun nieuwe standaard",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        223.0,
+        135.01,
+        254.5,
+        144.01
+      ],
+      "text": "(BH4SF)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        262.0,
+        135.01,
+        510.43,
+        145.01
+      ],
+      "text": "geselecteerd ATS/platform.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.0,
+        150.01,
+        511.33,
+        158.01
+      ],
+      "text": "UWV heeft HRlinklT het uit Dit document is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        169.0,
+        150.01,
+        348.1,
+        160.01
+      ],
+      "text": "gevraagd implementatieproces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        374.0,
+        151.01,
+        380.0,
+        158.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        216.0,
+        152.01,
+        416.75,
+        158.01
+      ],
+      "text": "om voeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        72.0,
+        165.01,
+        464.33,
+        173.01
+      ],
+      "text": "offerte het waarin overzicht niveau de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        153.0,
+        165.01,
+        510.8,
+        175.01
+      ],
+      "text": "implementatieproces, hoog planning,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        107.0,
+        167.01,
+        449.0,
+        173.01
+      ],
+      "text": "voor een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        361.0,
+        167.01,
+        368.33,
+        175.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        162.0,
+        180.01,
+        511.25,
+        188.01
+      ],
+      "text": "verwachte kosten wordt Alle verschillende het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        72.0,
+        180.01,
+        137.2,
+        190.01
+      ],
+      "text": "benodigde tijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        437.0,
+        181.01,
+        469.38,
+        190.01
+      ],
+      "text": "stappen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        146.0,
+        182.01,
+        491.0,
+        188.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        282.0,
+        182.01,
+        341.08,
+        190.01
+      ],
+      "text": "weergegeven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        206.0,
+        195.01,
+        440.78,
+        203.01
+      ],
+      "text": "in detail beschreven in document",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        455.0,
+        195.01,
+        510.29,
+        204.01
+      ],
+      "text": "(UWV _BH4SF",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        72.0,
+        195.01,
+        193.0,
+        205.01
+      ],
+      "text": "implementatieproces zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        366.0,
+        196.01,
+        386.0,
+        205.01
+      ],
+      "text": "apart",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        340.0,
+        197.01,
+        352.0,
+        203.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.0,
+        210.01,
+        161.35,
+        220.01
+      ],
+      "text": "Implementatieplan).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        128.0,
+        249.02,
+        225.77,
+        268.02
+      ],
+      "text": "Minimale",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        247.0,
+        249.02,
+        396.54,
+        273.02
+      ],
+      "text": "requirements",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        91.0,
+        250.02,
+        103.0,
+        268.02
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.0,
+        290.01,
+        228.0,
+        298.01
+      ],
+      "text": "De zal het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.0,
+        290.01,
+        275.0,
+        300.01
+      ],
+      "text": "BH4SF-implementatie volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        283.0,
+        291.01,
+        328.9,
+        298.01
+      ],
+      "text": "omvatten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        312.01,
+        388.17,
+        320.01
+      ],
+      "text": "Het de binnen BH4SF",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        205.0,
+        312.01,
+        320.2,
+        322.01
+      ],
+      "text": "UWV-organisatiestructuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        127.0,
+        313.01,
+        162.56,
+        322.01
+      ],
+      "text": "opzetten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        171.0,
+        314.01,
+        183.0,
+        320.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        327.01,
+        431.17,
+        335.01
+      ],
+      "text": "Het één uniform UWV binnen BH4SF",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        251.0,
+        327.01,
+        312.6,
+        337.01
+      ],
+      "text": "bedrijfsproces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        127.0,
+        328.01,
+        162.56,
+        337.01
+      ],
+      "text": "opzetten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        171.0,
+        329.01,
+        335.8,
+        335.01
+      ],
+      "text": "van voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        342.01,
+        310.17,
+        350.01
+      ],
+      "text": "Kandidaat basis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        173.0,
+        342.01,
+        433.29,
+        352.01
+      ],
+      "text": "hiring portal integratie Minggo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        384.0,
+        343.01,
+        397.5,
+        350.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        158.0,
+        344.01,
+        329.0,
+        350.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        202.0,
+        344.01,
+        284.33,
+        352.01
+      ],
+      "text": "manager op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        357.01,
+        409.8,
+        365.01
+      ],
+      "text": "Custom basis bestaande have",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        147.0,
+        357.01,
+        462.92,
+        367.01
+      ],
+      "text": "integraties (endpoints) integraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        366.0,
+        358.01,
+        384.4,
+        365.01
+      ],
+      "text": "must",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        295.0,
+        359.01,
+        307.0,
+        365.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        254.0,
+        359.01,
+        261.33,
+        367.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        372.01,
+        432.33,
+        380.01
+      ],
+      "text": "End-to-end testsessies documentatie de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        215.0,
+        372.01,
+        475.9,
+        382.01
+      ],
+      "text": "Training, ondersteuning bij live-gang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        326.0,
+        374.01,
+        333.33,
+        380.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        72.0,
+        415.01,
+        148.88,
+        425.01
+      ],
+      "text": "Uitgangspunten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        185.0,
+        437.01,
+        505.75,
+        445.01
+      ],
+      "text": "enkel standaard functionaliteit functie horizon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        134.0,
+        437.01,
+        416.25,
+        446.01
+      ],
+      "text": "maatwerk, (in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        213.0,
+        437.01,
+        263.77,
+        447.01
+      ],
+      "text": "configuratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        271.0,
+        439.01,
+        468.0,
+        445.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        439.01,
+        125.6,
+        447.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        440.0,
+        93.5,
+        445.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        452.01,
+        117.75,
+        460.01
+      ],
+      "text": "2á3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        125.0,
+        453.01,
+        148.33,
+        463.01
+      ],
+      "text": "jaar)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        467.01,
+        404.89,
+        475.01
+      ],
+      "text": "data het end-to-end het verlaten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        154.0,
+        467.01,
+        199.9,
+        477.01
+      ],
+      "text": "gedurende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        332.0,
+        468.01,
+        365.6,
+        476.01
+      ],
+      "text": "ATS niet",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        413.0,
+        468.01,
+        440.43,
+        477.01
+      ],
+      "text": "(GDPR)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        470.0,
+        93.5,
+        475.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        132.0,
+        470.01,
+        306.57,
+        478.01
+      ],
+      "text": "mag proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        314.0,
+        482.01,
+        429.2,
+        490.01
+      ],
+      "text": "functie het bestaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        482.01,
+        264.4,
+        492.01
+      ],
+      "text": "configuratie endpoints",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        186.0,
+        483.01,
+        214.28,
+        490.01
+      ],
+      "text": "custom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        303.0,
+        483.01,
+        307.67,
+        491.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        272.0,
+        483.01,
+        490.25,
+        492.01
+      ],
+      "text": "(API's) eco-systeem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        485.0,
+        93.5,
+        490.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        166.0,
+        485.01,
+        361.0,
+        491.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        132.0,
+        497.01,
+        425.38,
+        505.01
+      ],
+      "text": "uitsluitend de have functie haalbaarheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        249.0,
+        497.01,
+        293.92,
+        507.01
+      ],
+      "text": "applicaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        199.0,
+        498.01,
+        217.4,
+        505.01
+      ],
+      "text": "must",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        302.0,
+        498.01,
+        469.56,
+        507.01
+      ],
+      "text": "(in 01/2025)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        500.01,
+        362.0,
+        506.01
+      ],
+      "text": "voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        150.0,
+        512.01,
+        411.43,
+        520.01
+      ],
+      "text": "wordt dit bevordert standaardisatie binnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        181.0,
+        512.01,
+        238.23,
+        521.01
+      ],
+      "text": "ondersteund,",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        109.0,
+        513.01,
+        436.5,
+        521.01
+      ],
+      "text": "1 UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        515.0,
+        93.5,
+        520.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        117.0,
+        515.01,
+        143.57,
+        523.01
+      ],
+      "text": "proces",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        527.01,
+        502.33,
+        535.01
+      ],
+      "text": "Mandaten enkel de bv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        374.0,
+        527.01,
+        463.89,
+        537.01
+      ],
+      "text": "gekoppelde afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        471.0,
+        528.01,
+        488.5,
+        537.01
+      ],
+      "text": "(niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        227.0,
+        528.01,
+        338.37,
+        538.01
+      ],
+      "text": "zijn toepassing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        530.0,
+        93.5,
+        535.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        158.0,
+        530.01,
+        284.0,
+        536.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        178.0,
+        530.01,
+        352.33,
+        538.01
+      ],
+      "text": "managers op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        542.01,
+        120.75,
+        550.01
+      ],
+      "text": "ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.0,
+        542.01,
+        244.75,
+        552.01
+      ],
+      "text": "onderliggende afdelingen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        355.0,
+        557.01,
+        404.5,
+        566.01
+      ],
+      "text": "kandidaten,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        184.0,
+        557.01,
+        461.85,
+        567.01
+      ],
+      "text": "out-of-scope (manueel talentpools,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        470.0,
+        558.01,
+        510.5,
+        565.01
+      ],
+      "text": "vacatures",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        175.0,
+        558.01,
+        327.56,
+        566.01
+      ],
+      "text": "is invoeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        558.01,
+        166.87,
+        568.01
+      ],
+      "text": "_Data-migratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        560.0,
+        93.5,
+        565.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        335.0,
+        560.01,
+        347.0,
+        566.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.0,
+        572.01,
+        171.0,
+        582.01
+      ],
+      "text": "publicaties)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        575.01,
+        115.33,
+        581.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        587.01,
+        498.25,
+        595.01
+      ],
+      "text": "Tridion wordt door Getnoticed. dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        123.0,
+        587.01,
+        186.75,
+        597.01
+      ],
+      "text": "werken-bij-site",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        588.01,
+        481.67,
+        596.01
+      ],
+      "text": "De is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        412.0,
+        588.01,
+        469.23,
+        598.01
+      ],
+      "text": "Uitgangspunt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        590.0,
+        93.5,
+        595.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        194.0,
+        590.01,
+        206.0,
+        596.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        279.0,
+        590.01,
+        322.2,
+        598.01
+      ],
+      "text": "vervangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        602.01,
+        329.37,
+        610.01
+      ],
+      "text": "alle dezelfde hebben.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        127.0,
+        602.01,
+        195.7,
+        612.01
+      ],
+      "text": "werken-bij-sites",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        245.0,
+        603.01,
+        289.92,
+        613.01
+      ],
+      "text": "integraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        617.01,
+        486.1,
+        625.01
+      ],
+      "text": "Ontsluiten data fase dashboard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        238.0,
+        617.01,
+        297.08,
+        627.01
+      ],
+      "text": "Datagedreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        372.0,
+        618.01,
+        396.86,
+        625.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        182.0,
+        618.01,
+        434.75,
+        626.01
+      ],
+      "text": "ATS in HRM is in via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        620.0,
+        93.5,
+        625.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        214.0,
+        620.01,
+        364.0,
+        626.01
+      ],
+      "text": "voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        632.01,
+        283.67,
+        640.01
+      ],
+      "text": "binnen of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        166.0,
+        632.01,
+        354.33,
+        642.01
+      ],
+      "text": "Mogelijkheid (fase",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        227.0,
+        633.01,
+        236.75,
+        640.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        143.0,
+        633.01,
+        158.2,
+        641.01
+      ],
+      "text": "ATS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        244.0,
+        633.01,
+        368.5,
+        642.01
+      ],
+      "text": "export 2).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        289.0,
+        633.01,
+        329.0,
+        643.01
+      ],
+      "text": "integratie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        209.0,
+        647.01,
+        407.0,
+        655.01
+      ],
+      "text": "documenten Dashboard",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        127.0,
+        647.01,
+        354.71,
+        657.01
+      ],
+      "text": "configureren (excl.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        109.0,
+        648.01,
+        492.67,
+        656.01
+      ],
+      "text": "Het is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        286.0,
+        648.01,
+        480.0,
+        657.01
+      ],
+      "text": "rapporten Recruiter)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        650.0,
+        93.5,
+        655.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        189.0,
+        650.01,
+        431.8,
+        656.01
+      ],
+      "text": "van en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        108.0,
+        662.01,
+        163.71,
+        672.01
+      ],
+      "text": "out-of-scope.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        73.0,
+        791.01,
+        191.0,
+        798.01
+      ],
+      "text": "HRIinkIT BV www.hrlinkit.com",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        208.0,
+        796.02,
+        362.0,
+        820.02
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        354.0,
+        814.0,
+        356.0,
+        819.0
+      ],
+      "text": "J",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        109.0,
+        74.01,
+        493.71,
+        82.01
+      ],
+      "text": "Het houdt 10 dashboard KPI's.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        128.0,
+        74.01,
+        398.27,
+        84.01
+      ],
+      "text": "huidige budget rekening emailtemplates",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        274.0,
+        75.01,
+        287.5,
+        82.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        76.0,
+        93.5,
+        81.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        295.0,
+        76.01,
+        413.33,
+        82.01
+      ],
+      "text": "max en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        342.0,
+        89.01,
+        483.2,
+        97.01
+      ],
+      "text": "interne is deel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        89.01,
+        172.07,
+        98.01
+      ],
+      "text": "Communicatie,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        181.0,
+        89.01,
+        424.75,
+        99.01
+      ],
+      "text": "change opleiding organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        217.0,
+        90.01,
+        273.36,
+        99.01
+      ],
+      "text": "management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        91.0,
+        93.5,
+        96.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        282.0,
+        91.01,
+        502.0,
+        97.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        442.0,
+        91.01,
+        459.6,
+        99.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        104.01,
+        272.6,
+        112.01
+      ],
+      "text": "dit voorstel door",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        280.0,
+        104.01,
+        302.5,
+        113.01
+      ],
+      "text": "UWV).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.0,
+        104.01,
+        188.71,
+        114.01
+      ],
+      "text": "(wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        196.0,
+        106.01,
+        245.5,
+        114.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        128.0,
+        143.02,
+        316.67,
+        167.02
+      ],
+      "text": "Project approach",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        91.0,
+        144.02,
+        103.0,
+        162.02
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        109.0,
+        196.02,
+        168.55,
+        213.02
+      ],
+      "text": "Planning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        233.01,
+        421.0,
+        241.01
+      ],
+      "text": "Voorbereidende Kick-off week datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        429.0,
+        233.01,
+        447.33,
+        243.01
+      ],
+      "text": "tbd))",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        335.0,
+        234.01,
+        353.4,
+        242.01
+      ],
+      "text": "2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        224.0,
+        234.01,
+        388.88,
+        243.01
+      ],
+      "text": "(Laatste augustus (exacte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        248.01,
+        449.8,
+        258.01
+      ],
+      "text": "Werkpakket profielen week‘september",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        167.0,
+        249.01,
+        309.5,
+        257.01
+      ],
+      "text": "1: &",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        360.0,
+        249.01,
+        478.83,
+        258.01
+      ],
+      "text": "(le 2024)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.0,
+        249.01,
+        298.43,
+        259.01
+      ],
+      "text": "Setup Organisatiestructuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        210.0,
+        263.01,
+        256.36,
+        271.01
+      ],
+      "text": "kandidaten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        263.01,
+        158.0,
+        273.01
+      ],
+      "text": "Werkpakket",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        169.0,
+        264.01,
+        294.8,
+        272.01
+      ],
+      "text": "2: & GDPR",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        180.0,
+        264.01,
+        201.67,
+        274.01
+      ],
+      "text": "Setup",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        180.0,
+        278.01,
+        344.92,
+        286.01
+      ],
+      "text": "Workflow Publicaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        278.01,
+        158.0,
+        288.01
+      ],
+      "text": "Werkpakket",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        169.0,
+        279.01,
+        174.33,
+        287.01
+      ],
+      "text": "3:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        227.0,
+        279.01,
+        282.45,
+        289.01
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        291.0,
+        280.0,
+        293.5,
+        285.0
+      ],
+      "text": "+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        353.0,
+        293.01,
+        403.0,
+        301.01
+      ],
+      "text": "Dashboards",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        293.01,
+        295.45,
+        303.01
+      ],
+      "text": "Werkpakket Templates,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        169.0,
+        294.01,
+        346.5,
+        302.01
+      ],
+      "text": "4: &",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        179.0,
+        294.01,
+        241.53,
+        303.01
+      ],
+      "text": "Automatisatie,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        304.0,
+        294.01,
+        334.62,
+        304.01
+      ],
+      "text": "Reports",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        308.01,
+        320.75,
+        318.01
+      ],
+      "text": "Werkpakket Tooling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        232.0,
+        309.01,
+        245.5,
+        316.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        169.0,
+        309.01,
+        283.63,
+        317.01
+      ],
+      "text": "5: Externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        180.0,
+        309.01,
+        224.92,
+        319.01
+      ],
+      "text": "Integraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        323.01,
+        158.0,
+        333.01
+      ],
+      "text": "Werkpakket",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        169.0,
+        324.01,
+        173.67,
+        332.01
+      ],
+      "text": "6:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        180.0,
+        324.01,
+        208.29,
+        334.01
+      ],
+      "text": "Minggo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        338.01,
+        158.0,
+        348.01
+      ],
+      "text": "Werkpakket",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        169.0,
+        339.01,
+        209.75,
+        347.01
+      ],
+      "text": "7: Go-Live",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        217.0,
+        339.01,
+        265.83,
+        348.01
+      ],
+      "text": "(1 2025)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        227.0,
+        339.01,
+        238.25,
+        349.01
+      ],
+      "text": "jan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        365.01,
+        329.87,
+        372.01
+      ],
+      "text": "*Exacte data worden de voorbereidende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        125.0,
+        365.01,
+        148.62,
+        374.01
+      ],
+      "text": "sprints",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        187.0,
+        365.01,
+        363.67,
+        375.01
+      ],
+      "text": "vastgelegd tijdens kick-off",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        109.0,
+        404.02,
+        217.27,
+        421.02
+      ],
+      "text": "Projectbestuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        72.0,
+        453.01,
+        105.25,
+        461.01
+      ],
+      "text": "General",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        348.0,
+        475.01,
+        366.33,
+        485.01
+      ],
+      "text": "Agile",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        373.0,
+        477.01,
+        397.0,
+        483.01
+      ],
+      "text": "scrrum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        481.01,
+        131.15,
+        491.01
+      ],
+      "text": "Methodologie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        356.0,
+        501.01,
+        380.17,
+        509.01
+      ],
+      "text": "weeks",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.0,
+        501.01,
+        128.0,
+        511.01
+      ],
+      "text": "lengte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        348.0,
+        502.01,
+        350.5,
+        510.01
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        502.01,
+        97.0,
+        512.01
+      ],
+      "text": "Sprint",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.0,
+        523.01,
+        151.6,
+        531.01
+      ],
+      "text": "tool",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        523.01,
+        359.0,
+        533.01
+      ],
+      "text": "Project Mgmt Jira",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.0,
+        543.01,
+        395.27,
+        551.01
+      ],
+      "text": "documentatie tool Confluence",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        543.01,
+        130.23,
+        553.01
+      ],
+      "text": "Gezamenlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        568.01,
+        382.78,
+        576.01
+      ],
+      "text": "BH4SF Admin het HRIinkIT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        138.0,
+        568.01,
+        270.0,
+        578.01
+      ],
+      "text": "training project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        277.0,
+        569.01,
+        295.4,
+        576.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        177.0,
+        570.01,
+        235.0,
+        576.01
+      ],
+      "text": "voor core",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        349.0,
+        594.01,
+        428.0,
+        602.01
+      ],
+      "text": "UWV Team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        374.0,
+        594.01,
+        402.0,
+        604.01
+      ],
+      "text": "Project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        269.0,
+        606.01,
+        382.78,
+        614.01
+      ],
+      "text": "interactie & HRlinklT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        606.01,
+        262.0,
+        616.01
+      ],
+      "text": "Fysieke project dag; optimaliseren project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        618.01,
+        426.57,
+        626.01
+      ],
+      "text": "communicatie other: demand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        435.0,
+        618.01,
+        475.62,
+        628.01
+      ],
+      "text": "(by digital",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        379.0,
+        620.01,
+        386.33,
+        626.01
+      ],
+      "text": "on",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        348.0,
+        630.01,
+        363.0,
+        640.01
+      ],
+      "text": "call)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        371.0,
+        698.01,
+        383.75,
+        706.01
+      ],
+      "text": "wie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        698.01,
+        310.4,
+        708.01
+      ],
+      "text": "Meeting Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        116.0,
+        699.01,
+        133.6,
+        708.01
+      ],
+      "text": "type",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        451.0,
+        700.01,
+        489.5,
+        706.01
+      ],
+      "text": "wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        259.0,
+        722.01,
+        317.15,
+        730.01
+      ],
+      "text": "Voorbereiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        326.0,
+        724.01,
+        333.33,
+        730.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        728.01,
+        514.85,
+        738.01
+      ],
+      "text": "Planning Sprint(0.5d)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        406.0,
+        729.01,
+        424.4,
+        736.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        452.0,
+        729.01,
+        458.67,
+        737.01
+      ],
+      "text": "1x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        372.0,
+        729.01,
+        400.0,
+        739.01
+      ],
+      "text": "project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        320.0,
+        735.01,
+        327.33,
+        743.01
+      ],
+      "text": "de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        260.0,
+        735.01,
+        353.17,
+        745.01
+      ],
+      "text": "plannen sprin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        357.0,
+        736.01,
+        359.0,
+        743.01
+      ],
+      "text": "„",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        300.0,
+        737.01,
+        312.0,
+        743.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        73.0,
+        791.01,
+        191.0,
+        798.01
+      ],
+      "text": "HRIinkIT BV www.hrlinkit.com",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        208.0,
+        803.02,
+        361.0,
+        820.02
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        353.0,
+        814.0,
+        355.0,
+        819.0
+      ],
+      "text": "J",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        75.01,
+        322.6,
+        83.01
+      ],
+      "text": "Delen info",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        289.0,
+        77.01,
+        345.0,
+        83.01
+      ],
+      "text": "van over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        452.0,
+        89.01,
+        484.2,
+        97.01
+      ],
+      "text": "2x week",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.0,
+        89.01,
+        400.0,
+        99.01
+      ],
+      "text": "Standups project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        324.0,
+        90.01,
+        425.2,
+        97.01
+      ],
+      "text": "evt team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        259.0,
+        90.01,
+        301.3,
+        99.01
+      ],
+      "text": "voortgang",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        309.0,
+        91.01,
+        316.33,
+        97.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        102.01,
+        299.6,
+        110.01
+      ],
+      "text": "obstakels",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        122.01,
+        308.18,
+        130.01
+      ],
+      "text": "Beoordelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        316.0,
+        123.01,
+        327.25,
+        130.01
+      ],
+      "text": "ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        136.01,
+        294.67,
+        146.01
+      ],
+      "text": "opzichte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        301.0,
+        138.01,
+        313.0,
+        144.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        452.0,
+        143.01,
+        507.33,
+        151.01
+      ],
+      "text": "Einde de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        480.0,
+        145.01,
+        492.0,
+        151.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        149.01,
+        313.54,
+        159.01
+      ],
+      "text": "sprintdoelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        406.0,
+        150.01,
+        425.2,
+        157.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.0,
+        150.01,
+        100.43,
+        158.01
+      ],
+      "text": "Review",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        372.0,
+        150.01,
+        400.0,
+        160.01
+      ],
+      "text": "project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        322.0,
+        151.01,
+        329.33,
+        157.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        452.0,
+        156.01,
+        475.14,
+        166.01
+      ],
+      "text": "sprint",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        163.01,
+        357.36,
+        171.01
+      ],
+      "text": "demofunctionaliteiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        176.01,
+        315.0,
+        186.01
+      ],
+      "text": "Goedkeuring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        197.01,
+        507.33,
+        205.01
+      ],
+      "text": "Manieren identificeren Einde de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        480.0,
+        199.01,
+        492.0,
+        205.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        406.0,
+        204.01,
+        425.2,
+        211.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.0,
+        204.01,
+        400.0,
+        214.01
+      ],
+      "text": "Retrospective project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        289.0,
+        210.01,
+        335.36,
+        218.01
+      ],
+      "text": "verbeteren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        452.0,
+        210.01,
+        475.14,
+        220.01
+      ],
+      "text": "sprint",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        277.0,
+        211.01,
+        283.0,
+        218.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        212.01,
+        269.33,
+        218.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        232.01,
+        357.83,
+        240.01
+      ],
+      "text": "Product items",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        299.0,
+        232.01,
+        400.0,
+        242.01
+      ],
+      "text": "backlog project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        406.0,
+        233.01,
+        425.2,
+        240.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        259.0,
+        245.01,
+        319.67,
+        255.01
+      ],
+      "text": "verduidelijken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        328.0,
+        246.01,
+        337.75,
+        253.01
+      ],
+      "text": "ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        451.0,
+        246.01,
+        468.6,
+        254.01
+      ],
+      "text": "Voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        476.0,
+        246.01,
+        499.14,
+        256.01
+      ],
+      "text": "sprint",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        112.0,
+        252.01,
+        160.18,
+        260.01
+      ],
+      "text": "Refinement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.0,
+        252.01,
+        103.62,
+        262.01
+      ],
+      "text": "Backlog",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        372.0,
+        259.01,
+        388.5,
+        267.01
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        259.0,
+        259.01,
+        487.56,
+        269.01
+      ],
+      "text": "voorbereiding project planning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        327.0,
+        261.01,
+        335.0,
+        269.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        272.01,
+        322.53,
+        282.01
+      ],
+      "text": "sprintplanning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        371.0,
+        273.01,
+        390.2,
+        280.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        259.0,
+        294.01,
+        299.89,
+        304.01
+      ],
+      "text": "Algemene",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        372.0,
+        300.01,
+        388.5,
+        308.01
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        397.0,
+        300.01,
+        425.0,
+        310.01
+      ],
+      "text": "project",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        308.01,
+        339.33,
+        318.01
+      ],
+      "text": "Projectmonitoring",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        347.0,
+        310.01,
+        354.33,
+        316.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        371.0,
+        315.01,
+        390.2,
+        322.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        452.0,
+        320.01,
+        499.67,
+        330.01
+      ],
+      "text": "Maandelijks",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        73.0,
+        321.01,
+        295.1,
+        329.01
+      ],
+      "text": "Steerco Escalatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        372.0,
+        327.01,
+        436.83,
+        335.01
+      ],
+      "text": "Product Owner",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        372.0,
+        341.01,
+        404.89,
+        349.01
+      ],
+      "text": "HRlinklT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        413.0,
+        341.01,
+        434.6,
+        351.01
+      ],
+      "text": "Mgmt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        109.0,
+        444.02,
+        179.0,
+        461.02
+      ],
+      "text": "Capaciteit",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        66.0,
+        481.3,
+        479.0,
+        776.29
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        211.0,
+        800.02,
+        360.0,
+        816.02
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        60.0,
+        59.07,
+        478.03,
+        126.07
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        109.0,
+        188.02,
+        154.5,
+        205.02
+      ],
+      "text": "Pricing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.0,
+        206.02,
+        257.0,
+        231.02
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        73.0,
+        791.01,
+        191.0,
+        798.01
+      ],
+      "text": "HRlinklT BV www.hrlinkit.com",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        210.0,
+        802.01,
+        365.0,
+        812.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        72.0,
+        805.01,
+        197.83,
+        812.01
+      ],
+      "text": "Wiedauwkaai 236 9000 Ghent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        148.0,
+        805.01,
+        148.5,
+        815.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        133.0,
+        101.02,
+        301.92,
+        121.02
+      ],
+      "text": "Overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        91.0,
+        102.02,
+        103.67,
+        121.02
+      ],
+      "text": "5.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        161.01,
+        104.37,
+        169.01
+      ],
+      "text": "Tussen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.0,
+        185.01,
+        148.21,
+        193.01
+      ],
+      "text": "Hoofdaannemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        314.0,
+        185.01,
+        382.71,
+        195.01
+      ],
+      "text": "Opdrachtgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.0,
+        206.01,
+        330.5,
+        214.01
+      ],
+      "text": "HRlinkiT BV UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        177.0,
+        221.01,
+        194.5,
+        229.01
+      ],
+      "text": "zetel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        93.0,
+        221.01,
+        377.91,
+        231.01
+      ],
+      "text": "maatschappelijke Guardiaweg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        222.01,
+        85.5,
+        229.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        202.0,
+        222.01,
+        412.57,
+        230.01
+      ],
+      "text": "in La 94-114",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        237.01,
+        402.6,
+        245.01
+      ],
+      "text": "Goudfazantenlaan 3001 Heverlee 1043 DL Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        161.0,
+        237.01,
+        170.75,
+        246.01
+      ],
+      "text": "5a,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        280.01,
+        243.46,
+        288.01
+      ],
+      "text": "wordt onderstaande overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        251.0,
+        280.01,
+        313.77,
+        290.01
+      ],
+      "text": "goedgekeurd:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        233.0,
+        309.01,
+        364.79,
+        322.01
+      ],
+      "text": "AANTAL EENHEIDSPRIJS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        413.0,
+        310.01,
+        446.43,
+        318.01
+      ],
+      "text": "TOTAAL",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        238.0,
+        322.01,
+        266.33,
+        330.01
+      ],
+      "text": "DAGEN",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        317.0,
+        322.01,
+        443.57,
+        332.01
+      ],
+      "text": "(EUR)* (EUR)*",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        223.0,
+        339.03,
+        480.0,
+        365.03
+      ],
+      "text": "| |",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        236.0,
+        343.01,
+        474.0,
+        356.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        465.0,
+        346.01,
+        469.0,
+        359.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        79.0,
+        348.01,
+        103.17,
+        356.01
+      ],
+      "text": "BH4SF",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        112.0,
+        348.01,
+        174.21,
+        358.01
+      ],
+      "text": "implementatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        288.0,
+        356.01,
+        348.67,
+        365.01
+      ],
+      "text": "Le",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.0,
+        392.01,
+        139.26,
+        400.01
+      ],
+      "text": "Deelfacturatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.0,
+        407.01,
+        232.5,
+        415.01
+      ],
+      "text": "Bovenstaand wordt voldaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        136.0,
+        407.01,
+        163.43,
+        417.01
+      ],
+      "text": "bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        241.0,
+        408.01,
+        254.5,
+        416.01
+      ],
+      "text": "in 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        260.0,
+        408.01,
+        303.63,
+        418.01
+      ],
+      "text": "termijnen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        131.0,
+        431.01,
+        309.92,
+        439.01
+      ],
+      "text": "offerte overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        165.0,
+        431.01,
+        242.14,
+        441.01
+      ],
+      "text": "bij ondertekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        108.0,
+        432.01,
+        122.25,
+        440.01
+      ],
+      "text": "30%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        434.0,
+        92.5,
+        439.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        108.0,
+        447.01,
+        285.5,
+        455.01
+      ],
+      "text": "40% offerte 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        179.0,
+        447.01,
+        275.09,
+        457.01
+      ],
+      "text": "afronding werkpakket",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        165.0,
+        449.01,
+        171.67,
+        455.01
+      ],
+      "text": "na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        450.0,
+        92.5,
+        455.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        108.0,
+        463.01,
+        122.25,
+        471.01
+      ],
+      "text": "30%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        144.0,
+        463.01,
+        170.25,
+        473.01
+      ],
+      "text": "go-live",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        131.0,
+        465.01,
+        138.33,
+        471.01
+      ],
+      "text": "na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        90.0,
+        466.0,
+        92.5,
+        471.0
+      ],
+      "text": "e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        494.01,
+        129.23,
+        504.01
+      ],
+      "text": "Marge-budget",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        86.0,
+        508.01,
+        323.71,
+        515.01
+      ],
+      "text": "wordt de totale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        132.0,
+        508.01,
+        521.0,
+        518.01
+      ],
+      "text": "marge-budget gerekend kostprijs of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        418.0,
+        509.01,
+        506.67,
+        515.01
+      ],
+      "text": "te extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        509.01,
+        459.33,
+        516.01
+      ],
+      "text": "Er 20% ruimte voorzien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.0,
+        510.0,
+        482.4,
+        515.0
+      ],
+      "text": "een van om voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        275.0,
+        510.01,
+        281.67,
+        518.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        523.01,
+        519.29,
+        530.01
+      ],
+      "text": "onvoorziene Dit kan worden mits de Deze kosten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        124.0,
+        523.01,
+        176.0,
+        532.01
+      ],
+      "text": "aanpassingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        218.0,
+        523.01,
+        463.07,
+        533.01
+      ],
+      "text": "geactiveerd goedkeuring opdrachtgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        376.0,
+        525.0,
+        386.5,
+        530.0
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        537.01,
+        251.0,
+        544.01
+      ],
+      "text": "worden “time & material” de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        174.0,
+        537.01,
+        312.07,
+        547.01
+      ],
+      "text": "gefactureerd opdrachtgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        228.0,
+        539.0,
+        239.25,
+        544.0
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        559.01,
+        122.42,
+        569.01
+      ],
+      "text": "Consultancy",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        299.0,
+        570.01,
+        344.0,
+        584.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.0,
+        574.01,
+        491.0,
+        581.01
+      ],
+      "text": "Voor taken wordt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        405.0,
+        574.01,
+        412.5,
+        583.01
+      ],
+      "text": "Bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        95.0,
+        574.01,
+        459.25,
+        584.01
+      ],
+      "text": "optionele consultancy tarief aangerekend. afwijkingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        188.0,
+        576.0,
+        477.25,
+        581.0
+      ],
+      "text": "een van aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        497.0,
+        576.01,
+        517.57,
+        584.01
+      ],
+      "text": "scope,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        588.01,
+        418.0,
+        595.01
+      ],
+      "text": "wordt de het bekeken. zal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        111.0,
+        588.01,
+        361.0,
+        597.01
+      ],
+      "text": "impact Bij impact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        171.0,
+        588.01,
+        501.75,
+        598.01
+      ],
+      "text": "budget voorafgaandelijk budget offerte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        450.0,
+        589.01,
+        472.29,
+        598.01
+      ],
+      "text": "aparte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        321.0,
+        590.0,
+        519.25,
+        595.0
+      ],
+      "text": "een er een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        142.0,
+        590.01,
+        373.67,
+        598.01
+      ],
+      "text": "op op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        602.01,
+        206.12,
+        609.01
+      ],
+      "text": "de worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        84.0,
+        602.01,
+        172.0,
+        612.01
+      ],
+      "text": "opdrachtgever bezorgd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        625.01,
+        168.89,
+        632.01
+      ],
+      "text": "Garantie maatwerk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        114.0,
+        627.01,
+        121.33,
+        635.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        639.01,
+        342.67,
+        646.01
+      ],
+      "text": "De maatwerk 1 maand in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        84.0,
+        639.01,
+        384.37,
+        649.01
+      ],
+      "text": "garantieperiode bedraagt oplevering productie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        282.0,
+        641.0,
+        288.67,
+        646.0
+      ],
+      "text": "na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        151.0,
+        641.01,
+        157.67,
+        649.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        126.0,
+        653.01,
+        430.0,
+        660.01
+      ],
+      "text": "binnen deze zullen kosteloos behandeld worden als onderdeel de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        93.0,
+        653.01,
+        497.12,
+        663.01
+      ],
+      "text": "gemeld periode garantieperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        654.01,
+        519.2,
+        663.01
+      ],
+      "text": "Bugs Bugs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        407.0,
+        655.0,
+        417.5,
+        660.0
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        105.0,
+        667.01,
+        469.25,
+        674.01
+      ],
+      "text": "later dan één maand worden beschouwd als zullen dus als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.0,
+        667.01,
+        518.0,
+        677.01
+      ],
+      "text": "gemeld change change",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        216.0,
+        668.01,
+        228.0,
+        675.01
+      ],
+      "text": "UAT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        364.0,
+        668.01,
+        394.22,
+        677.01
+      ],
+      "text": "requests",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        200.0,
+        669.0,
+        486.5,
+        674.0
+      ],
+      "text": "na en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        107.0,
+        682.01,
+        517.9,
+        689.01
+      ],
+      "text": "behandeld worden. Indien nieuw maatwerk normale bestaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        169.0,
+        682.01,
+        454.12,
+        692.01
+      ],
+      "text": "gefactureerd werking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        683.01,
+        98.25,
+        692.01
+      ],
+      "text": "request",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        155.0,
+        684.0,
+        472.5,
+        689.0
+      ],
+      "text": "en een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        121.0,
+        696.01,
+        377.0,
+        703.01
+      ],
+      "text": "in het vallen hieraan ook onder de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        238.0,
+        696.01,
+        414.5,
+        705.01
+      ],
+      "text": "aanpassingen garantie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        696.01,
+        204.62,
+        706.01
+      ],
+      "text": "oplossingen gedrang brengt,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        95.0,
+        710.01,
+        519.4,
+        717.01
+      ],
+      "text": "die derde de klant vallen niet onder deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        215.0,
+        710.01,
+        343.55,
+        719.01
+      ],
+      "text": "aanpassingen partijen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        164.0,
+        710.01,
+        426.5,
+        720.01
+      ],
+      "text": "gevolge of zelf,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        110.0,
+        711.01,
+        158.0,
+        717.01
+      ],
+      "text": "ontstaan ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        711.01,
+        87.2,
+        720.01
+      ],
+      "text": "Bugs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        197.0,
+        712.0,
+        372.5,
+        717.0
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        71.0,
+        725.01,
+        102.5,
+        734.01
+      ],
+      "text": "garantie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        73.0,
+        791.01,
+        520.5,
+        798.01
+      ],
+      "text": "HRIinkIT BV www.hrlinkit.com 8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        210.0,
+        803.01,
+        365.0,
+        813.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        72.0,
+        805.01,
+        197.83,
+        812.01
+      ],
+      "text": "Wiedauwkaai 23G 9000 Ghent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        148.0,
+        805.01,
+        206.5,
+        815.01
+      ],
+      "text": "| |",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        73.0,
+        791.01,
+        191.0,
+        798.01
+      ],
+      "text": "HRlinklT BV www.hrlinkit.com",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        208.0,
+        803.01,
+        363.0,
+        813.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        72.0,
+        805.01,
+        197.83,
+        812.01
+      ],
+      "text": "Wiedauwkaai 23G 9000 Ghent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        148.0,
+        805.01,
+        148.5,
+        815.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        73.0,
+        87.02,
+        192.46,
+        104.02
+      ],
+      "text": "Handtekeningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        91.0,
+        124.01,
+        96.0,
+        135.01
+      ],
+      "text": "0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        109.0,
+        126.01,
+        280.46,
+        134.01
+      ],
+      "text": "Ik heb de General Terms & Conditions",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        287.0,
+        126.01,
+        399.36,
+        136.01
+      ],
+      "text": "gelezen geaccepteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        326.0,
+        128.01,
+        333.33,
+        134.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        91.0,
+        140.01,
+        96.0,
+        151.01
+      ],
+      "text": "0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        109.0,
+        141.01,
+        146.33,
+        149.01
+      ],
+      "text": "Ik heb de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        285.0,
+        141.01,
+        397.36,
+        151.01
+      ],
+      "text": "gelezen geaccepteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        154.0,
+        142.01,
+        170.8,
+        150.01
+      ],
+      "text": "Data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        179.0,
+        142.01,
+        276.8,
+        152.01
+      ],
+      "text": "Processing Agreement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        323.0,
+        144.01,
+        330.33,
+        150.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.0,
+        164.01,
+        206.75,
+        172.01
+      ],
+      "text": "De hier vinden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        88.0,
+        164.01,
+        385.51,
+        174.01
+      ],
+      "text": "bijlagen zijn https://hrlinkit.com/en/privacy-terms/",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        166.0,
+        165.01,
+        172.0,
+        172.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        79.0,
+        216.01,
+        95.5,
+        228.01
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        290.0,
+        217.01,
+        325.56,
+        225.01
+      ],
+      "text": "HRlinkIT",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        333.0,
+        218.01,
+        341.0,
+        225.01
+      ],
+      "text": "BV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        78.0,
+        279.01,
+        146.71,
+        289.01
+      ],
+      "text": "Opdrachtgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        112.0,
+        294.01,
+        229.0,
+        308.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        78.0,
+        295.01,
+        368.21,
+        303.01
+      ],
+      "text": "Naam: Directeur Hoofdaannemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        222.0,
+        300.01,
+        227.5,
+        308.01
+      ],
+      "text": "a",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        324.0,
+        309.01,
+        392.67,
+        323.01
+      ],
+      "text": "ES",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        324.0,
+        310.01,
+        426.0,
+        322.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        77.0,
+        311.01,
+        444.25,
+        319.01
+      ],
+      "text": "facilitair Naam: ceo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        117.0,
+        311.01,
+        143.25,
+        321.01
+      ],
+      "text": "bedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        116.0,
+        325.01,
+        170.54,
+        334.01
+      ],
+      "text": "26-08-2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        78.0,
+        327.01,
+        376.36,
+        335.01
+      ],
+      "text": "Datum: Datum: 06.08.2024",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        299.0,
+        354.01,
+        455.0,
+        369.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        137.0,
+        355.01,
+        228.0,
+        364.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        447.0,
+        365.0,
+        449.0,
+        370.0
+      ],
+      "text": "J",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        135.0,
+        368.01,
+        173.18,
+        374.01
+      ],
+      "text": "26-08-2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        123.0,
+        370.01,
+        129.0,
+        376.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        105.0,
+        371.01,
+        111.67,
+        380.01
+      ],
+      "text": "cj",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        230.0,
+        438.02,
+        339.57,
+        455.02
+      ],
+      "text": "Opdrachtgever",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        73.0,
+        439.02,
+        216.06,
+        456.02
+      ],
+      "text": "Facturatiegegevens",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        73.0,
+        474.01,
+        133.0,
+        487.01
+      ],
+      "text": "Bedrijfsnaam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        398.0,
+        475.01,
+        443.46,
+        483.01
+      ],
+      "text": "facturatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        316.0,
+        475.01,
+        389.73,
+        485.01
+      ],
+      "text": "Contactpersoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.0,
+        491.01,
+        89.5,
+        499.01
+      ],
+      "text": "Uwv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        72.0,
+        539.01,
+        450.46,
+        547.01
+      ],
+      "text": "Adres Telefoonnummer facturatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        86.0,
+        554.01,
+        136.91,
+        564.01
+      ],
+      "text": "Guardiaweg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.0,
+        555.01,
+        171.43,
+        563.01
+      ],
+      "text": "La 94-114",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.0,
+        570.01,
+        160.6,
+        578.01
+      ],
+      "text": "1043 DL Amsterdam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        316.0,
+        602.01,
+        509.46,
+        610.01
+      ],
+      "text": "Mailadres elektronische facturatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        367.0,
+        604.01,
+        385.4,
+        610.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        73.0,
+        618.01,
+        88.75,
+        626.01
+      ],
+      "text": "BTW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        97.0,
+        620.01,
+        133.86,
+        626.01
+      ],
+      "text": "nummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.0,
+        682.01,
+        141.67,
+        690.01
+      ],
+      "text": "PO of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        147.0,
+        682.01,
+        349.38,
+        692.01
+      ],
+      "text": "vermelding specifieke facturatieregel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        89.0,
+        684.01,
+        219.5,
+        690.01
+      ],
+      "text": "nummer van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        73.0,
+        791.01,
+        520.0,
+        798.01
+      ],
+      "text": "HRIinkIT BV www.hrlinkit.com 10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        122.0,
+        791.01,
+        122.5,
+        800.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        210.0,
+        803.01,
+        365.0,
+        813.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        72.0,
+        805.01,
+        197.83,
+        812.01
+      ],
+      "text": "Wiedauwkaai 23G 9000 Ghent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        148.0,
+        805.01,
+        206.5,
+        815.01
+      ],
+      "text": "| |",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 11,
+      "bbox": [
+        90.0,
+        81.0,
+        299.0,
+        99.0
+      ],
+      "text": "Toelichting grondslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        113.0,
+        467.43,
+        123.0
+      ],
+      "text": "In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        123.0,
+        504.11,
+        133.0
+      ],
+      "text": "achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        133.0,
+        412.43,
+        143.0
+      ],
+      "text": "correspondeert met de bijbehorende grondslag in onderstaand overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        93.33,
+        155.0,
+        202.72,
+        167.0
+      ],
+      "text": "J Art. 5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        171.0,
+        496.95,
+        181.0
+      ],
+      "text": "Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        181.0,
+        377.97,
+        191.0
+      ],
+      "text": "de eerbiediging van de persoonlijke levenssfeer van betrokkenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        93.33,
+        210.0,
+        146.69,
+        222.0
+      ],
+      "text": "X Art. 8.8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        226.0,
+        498.06,
+        236.0
+      ],
+      "text": "Deze gegevens kunnen niet openbaar gemaakt worden vanwege de verhouding met andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        90.0,
+        236.0,
+        449.65,
+        246.0
+      ],
+      "text": "wetten. Deze wetten zijn opgenomen als bijlage bij artikel 8.8 Wet open overheid.",
+      "source": "text"
+    }
+  ]
+}

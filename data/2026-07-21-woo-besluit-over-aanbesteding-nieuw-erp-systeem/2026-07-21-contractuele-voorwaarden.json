@@ -1,0 +1,3233 @@
+{
+  "source_id": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-contractuele-voorwaarden",
+  "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+  "pdf_slug": "2026-07-21-contractuele-voorwaarden",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/88b55b0b-2ee0-4df9-8ffe-2f85683d6d10/contractuele-voorwaarden.pdf",
+  "publication_title": "Woo-besluit over aanbesteding nieuw ERP-systeem",
+  "publication_date": "2026-07-21T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Contractuele Voorwaarden (PDF, 2 MB)",
+  "retrieved_at": "2026-08-11T06:57:49+00:00",
+  "sha256": "60cac481b56106c054d6bb74ab271834c49a029b480600b7045b27a4d15f4916",
+  "page_count": 4,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        93.0,
+        232.03,
+        481.54,
+        259.03
+      ],
+      "text": "BIJLAGE CONTRACTUELE",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        223.0,
+        233.03,
+        232.5,
+        260.03
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        170.0,
+        276.03,
+        403.75,
+        303.03
+      ],
+      "text": "VOORWAARDEN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        254.0,
+        735.01,
+        327.86,
+        746.01
+      ],
+      "text": "april versie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        245.0,
+        736.01,
+        345.0,
+        746.01
+      ],
+      "text": "4 2025 1. 0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        258.0,
+        755.01,
+        346.4,
+        766.01
+      ],
+      "text": "UWV ERP oplossing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        71.01,
+        456.33,
+        81.01
+      ],
+      "text": "UWV is zich grotendeels te sluiten bij de standaardvoorwaarden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.0,
+        73.01,
+        443.0,
+        81.01
+      ],
+      "text": "voornemens om aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        83.01,
+        491.25,
+        93.01
+      ],
+      "text": "softwareleverancier. Onder standaard voorwaarden verstaat UWV de leveringsvoorwaarden (ook wel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        95.01,
+        514.33,
+        105.01
+      ],
+      "text": "General Terms and Conditions ( GTC’s)) de SLA DAP de Data Processing Agreement (DPA) de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        278.0,
+        97.01,
+        501.0,
+        105.01
+      ],
+      "text": "en en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        240.0,
+        101.0,
+        241.5,
+        105.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        107.01,
+        150.95,
+        117.01
+      ],
+      "text": "softwareleverancier.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        126.01,
+        337.5,
+        136.01
+      ],
+      "text": "1. Om field creëren heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        124.0,
+        127.01,
+        470.23,
+        137.01
+      ],
+      "text": "level playing te Inschrijvers UWV reeks minimumeisen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        128.01,
+        380.0,
+        136.01
+      ],
+      "text": "een voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        314.0,
+        132.0,
+        315.5,
+        136.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        137.01,
+        497.5,
+        147.01
+      ],
+      "text": "geformuleerd de uitvoering de Opdracht minimaal voldoen. De Inschrijver dient",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        357.0,
+        138.01,
+        373.8,
+        148.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.0,
+        139.01,
+        255.0,
+        147.01
+      ],
+      "text": "waaraan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        148.01,
+        513.67,
+        158.01
+      ],
+      "text": "onvoorwaardelijk akkoord elk deze eisen deze enige andersluidende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        199.0,
+        149.01,
+        245.0,
+        159.01
+      ],
+      "text": "te met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        209.0,
+        150.01,
+        421.33,
+        158.01
+      ],
+      "text": "gaan van en gaan voor op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        159.01,
+        496.31,
+        169.01
+      ],
+      "text": "bepaling in de eigen voorwaarden de softwareleverancier. Indien niet deze minimumeisen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        233.0,
+        161.01,
+        410.0,
+        169.01
+      ],
+      "text": "van aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        170.01,
+        341.18,
+        180.01
+      ],
+      "text": "wordt voldaan zal de Inschrijving ongeldig worden verklaard.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.0,
+        176.0,
+        148.5,
+        180.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        192.01,
+        498.67,
+        202.01
+      ],
+      "text": "2. Toepasselijk recht. Op de Overeenkomsten is Nederlands recht toepassing bij geschillen is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        357.0,
+        194.01,
+        515.0,
+        202.01
+      ],
+      "text": "van en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        203.01,
+        223.67,
+        213.01
+      ],
+      "text": "Nederlandse rechtbank bevoegd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        225.01,
+        268.54,
+        235.01
+      ],
+      "text": "3. De leveringsvoorwaarden zijn marktconform",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        247.01,
+        411.63,
+        257.01
+      ],
+      "text": "SLA: Opdrachtnemer SLA formuleren (waaronder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        248.01,
+        484.5,
+        258.01
+      ],
+      "text": "4. dient in haar kengetallen te responstijden bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        258.01,
+        429.36,
+        268.01
+      ],
+      "text": "calamiteiten) Overeenkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        184.0,
+        259.01,
+        510.33,
+        269.01
+      ],
+      "text": "hij gaat voldoen bij de uitvoering iedere Daarbij worden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        145.0,
+        260.01,
+        334.0,
+        268.01
+      ],
+      "text": "waaraan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        269.01,
+        494.33,
+        279.01
+      ],
+      "text": "geformuleerde eisen uit het eisen verwerkt. De SLA onderdeel de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        379.0,
+        270.01,
+        399.0,
+        280.01
+      ],
+      "text": "vormt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        206.0,
+        271.01,
+        481.0,
+        279.01
+      ],
+      "text": "programma van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        280.01,
+        389.36,
+        290.01
+      ],
+      "text": "Overeenkomst is 1 de leveren producten bij de Inschrijving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        228.0,
+        281.01,
+        233.33,
+        291.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        153.0,
+        282.01,
+        221.33,
+        290.01
+      ],
+      "text": "en van op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        302.01,
+        492.0,
+        312.01
+      ],
+      "text": "5. SLA: Opdrachtnemer moet welke beheersmaatregel(en) hij treft als blijkt dat niet wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        204.0,
+        304.01,
+        241.33,
+        312.01
+      ],
+      "text": "aangeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        313.01,
+        499.38,
+        323.01
+      ],
+      "text": "voldaan bepaalde kengetallen hoe zal worden met eventuele schade die daaruit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        124.0,
+        315.01,
+        356.0,
+        323.01
+      ],
+      "text": "aan en omgegaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        324.01,
+        228.67,
+        334.01
+      ],
+      "text": "voortvloeit de Opdrachtgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        134.0,
+        326.01,
+        149.2,
+        334.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        352.01,
+        500.33,
+        362.01
+      ],
+      "text": "6. Leveringsvoorwaarden De bij de Offerte toegevoegde versies de leveringsvoorwaarden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        352.0,
+        354.01,
+        487.33,
+        362.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        363.01,
+        499.83,
+        373.01
+      ],
+      "text": "Data Processing Agreement (DPA) zijn toepassing de Nadere Overeenkomst. Wijzigingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        258.0,
+        365.01,
+        513.33,
+        373.01
+      ],
+      "text": "van op op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        236.0,
+        369.0,
+        237.5,
+        373.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        374.01,
+        519.4,
+        384.01
+      ],
+      "text": "deze documenten kunnen alleen wederzijdse ondertekening overeengekomen worden. Bij redelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        230.0,
+        376.01,
+        237.33,
+        384.01
+      ],
+      "text": "na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        385.01,
+        519.4,
+        395.01
+      ],
+      "text": "wijzigingen passende compensatie zal UWV instemmen. Indien sprake is redelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        138.0,
+        386.01,
+        480.0,
+        394.01
+      ],
+      "text": "en er geen van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.0,
+        395.01,
+        145.33,
+        405.01
+      ],
+      "text": "en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        396.01,
+        498.0,
+        406.01
+      ],
+      "text": "wijziging passende compensatie blijven de licentievoorwaarden kracht zoals initieel met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        384.0,
+        397.01,
+        396.0,
+        405.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        407.01,
+        185.19,
+        417.01
+      ],
+      "text": "UWV overeengekomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        423.01,
+        515.5,
+        433.01
+      ],
+      "text": "Gebruiksrecht. Onder het gebruiksrecht Opdrachtgever het UWV dat UWV het recht heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        424.01,
+        370.22,
+        434.01
+      ],
+      "text": "7. verstaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        257.0,
+        425.01,
+        269.0,
+        433.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        434.01,
+        511.67,
+        444.01
+      ],
+      "text": "de licentie gebruiken al haar huidige bedrijfsonderdelen waaronder het BKWI toekomstige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        134.0,
+        435.01,
+        139.33,
+        445.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        189.0,
+        436.01,
+        458.33,
+        444.01
+      ],
+      "text": "voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        353.0,
+        440.0,
+        447.5,
+        444.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        445.01,
+        164.95,
+        455.01
+      ],
+      "text": "bedrijfsonderdelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        467.01,
+        517.73,
+        477.01
+      ],
+      "text": "8. DPA. Opdrachtnemer zal DPA hanteren welke niet in strijd is met toepassing zijnde (Europese)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        196.0,
+        469.01,
+        393.0,
+        477.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        478.01,
+        457.0,
+        488.01
+      ],
+      "text": "wet regelgeving waaronder de Algemene Verordening Gegevensbescherming (AVG).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        480.01,
+        113.33,
+        488.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.0,
+        484.0,
+        169.5,
+        488.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        495.01,
+        496.0,
+        505.01
+      ],
+      "text": "9. Aansprakelijkheid. Opdrachtnemer zal UWV vrijwaren aanspraken derden die zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        319.0,
+        497.01,
+        478.33,
+        505.01
+      ],
+      "text": "voor van er op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        506.01,
+        506.17,
+        516.01
+      ],
+      "text": "gebaseerd dat het gebruik door de Opdrachtgever de SaaS-dienstverlening inbreuk maken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        304.0,
+        508.01,
+        476.0,
+        516.01
+      ],
+      "text": "van zou",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        101.0,
+        517.01,
+        357.0,
+        527.01
+      ],
+      "text": "de intellectuele eigendomsrechten de betreffende derde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        519.01,
+        262.0,
+        527.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        539.01,
+        138.11,
+        549.01
+      ],
+      "text": "10. Exit clausule",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        550.01,
+        513.14,
+        560.01
+      ],
+      "text": "1) Indien de Overeenkomst welke reden ook (tussentijds) eindigt doet Opdrachtnemer eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        212.0,
+        551.01,
+        484.33,
+        559.01
+      ],
+      "text": "om op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        382.0,
+        556.0,
+        383.5,
+        560.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        561.01,
+        471.5,
+        571.01
+      ],
+      "text": "verzoek UWV al datgene wat redelijkerwijs noodzakelijk is te dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        142.0,
+        562.01,
+        489.0,
+        570.01
+      ],
+      "text": "van om er voor zorgen een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        139.0,
+        571.01,
+        505.23,
+        581.01
+      ],
+      "text": "Opdrachtnemer of zelf Overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        572.01,
+        442.33,
+        582.01
+      ],
+      "text": "nieuwe UWV zonder belemmeringen de uitvoering de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        417.0,
+        573.01,
+        429.0,
+        581.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        582.01,
+        499.33,
+        592.01
+      ],
+      "text": "kan en/of soortgelijke Prestatie behoeve UWV kan verrichten. Partijen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        307.0,
+        583.01,
+        317.5,
+        593.01
+      ],
+      "text": "ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        124.0,
+        584.01,
+        374.0,
+        592.01
+      ],
+      "text": "overnemen een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        593.01,
+        493.25,
+        603.01
+      ],
+      "text": "zullen daartoe redelijk exit-regime overeenkomen elkaar alle benodigde medewerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        169.0,
+        595.01,
+        342.33,
+        603.01
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        604.01,
+        515.2,
+        614.01
+      ],
+      "text": "verlenen. Tevens stelt Opdrachtnemer UWV in staat alle UWV waaronder data",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        330.0,
+        606.01,
+        422.0,
+        614.01
+      ],
+      "text": "om gegevens van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        518.0,
+        610.0,
+        519.5,
+        614.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        615.01,
+        489.33,
+        625.01
+      ],
+      "text": "informatie(dragers) documenten boeken bescheiden kosteloos te exporteren of terug te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        283.0,
+        617.01,
+        290.33,
+        625.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        186.0,
+        621.0,
+        245.5,
+        625.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        140.0,
+        626.01,
+        493.67,
+        636.01
+      ],
+      "text": "De dienen in UWV leesbaar bewerkbaar bestand beschikbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        628.01,
+        351.33,
+        636.01
+      ],
+      "text": "nemen. gegevens een voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        637.01,
+        179.75,
+        647.01
+      ],
+      "text": "gesteld te worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        648.01,
+        457.0,
+        658.01
+      ],
+      "text": "2) Verplichtingen welke hun aard bestemd zijn ook opzegging of ontbinding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        195.0,
+        649.01,
+        494.0,
+        657.01
+      ],
+      "text": "naar om na van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        658.01,
+        474.23,
+        668.01
+      ],
+      "text": "Overeenkomst of Overeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        171.0,
+        659.01,
+        515.0,
+        669.01
+      ],
+      "text": "voort te duren blijven opzegging ontbinding hun",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        264.0,
+        660.01,
+        496.2,
+        668.01
+      ],
+      "text": "na van een naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        229.0,
+        664.0,
+        230.5,
+        668.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        670.01,
+        501.36,
+        680.01
+      ],
+      "text": "strekking kracht. Tot deze verplichtingen behoren onder die ter zake intellectuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.0,
+        671.01,
+        448.0,
+        679.01
+      ],
+      "text": "van meer van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        680.01,
+        467.89,
+        690.01
+      ],
+      "text": "eigendom geheimhouding publiciteitsverbod aansprakelijkheid verzekering verlenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        474.0,
+        682.01,
+        486.0,
+        690.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        148.0,
+        686.0,
+        431.5,
+        690.0
+      ],
+      "text": ", , , , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        691.01,
+        460.09,
+        701.01
+      ],
+      "text": "medewerking overdracht de dienstverlening toepasselijk recht geschillen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        165.0,
+        693.01,
+        473.33,
+        701.01
+      ],
+      "text": "aan van en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        326.0,
+        697.0,
+        327.5,
+        701.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        702.01,
+        166.94,
+        712.01
+      ],
+      "text": "domiciliekeuze.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        724.01,
+        489.18,
+        734.01
+      ],
+      "text": "11. Ontkoppelen. Zowel het HR deel als ook de delen Financiën Inkoop de aangeboden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        300.0,
+        726.01,
+        421.0,
+        734.01
+      ],
+      "text": "voor en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        735.01,
+        506.0,
+        745.01
+      ],
+      "text": "dienstverlening dienen in geval aflopen de initiële contractstermijn ontkoppelbaar te zijn. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        221.0,
+        737.01,
+        285.0,
+        745.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        746.01,
+        468.44,
+        756.01
+      ],
+      "text": "betekent dat zowel functioneel als contractueel de mogelijkheid bestaat tegen passende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        390.0,
+        748.01,
+        399.33,
+        756.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        757.01,
+        511.33,
+        767.01
+      ],
+      "text": "voorwaarden met deel de SaaS dienstverlening te stoppen met de andere delen verder te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        164.0,
+        759.01,
+        381.33,
+        767.01
+      ],
+      "text": "een van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        518.0,
+        781.01,
+        521.0,
+        791.01
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        115.0,
+        71.01,
+        199.5,
+        81.01
+      ],
+      "text": "Zie tevens artikel 16.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        73.01,
+        108.0,
+        81.01
+      ],
+      "text": "gaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        93.01,
+        516.0,
+        103.01
+      ],
+      "text": "12. Looptijd overeenkomst. De overeenkomst kent initiële looptijd 5 jaar. Na de initiële looptijd kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        287.0,
+        95.01,
+        380.0,
+        103.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        104.01,
+        505.5,
+        114.01
+      ],
+      "text": "de overeenkomst 10 maal met 1 jaar verlengd worden De verlenging gaat automatisch in tenzij UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        115.01,
+        457.33,
+        125.01
+      ],
+      "text": "uiterlijk 6 maanden tevoren schriftelijk aangeeft gebruik te willen maken de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        171.0,
+        117.01,
+        445.0,
+        125.01
+      ],
+      "text": "van geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        126.01,
+        511.3,
+        136.01
+      ],
+      "text": "verlengingsoptie. Op deze overeenkomst zijn de Licentievoorwaarden Data Processing Agreement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        384.0,
+        128.01,
+        391.33,
+        136.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        137.01,
+        255.92,
+        147.01
+      ],
+      "text": "Softwareleverancier toepassing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        139.01,
+        205.0,
+        147.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        159.01,
+        474.67,
+        169.01
+      ],
+      "text": "13. Inschrijfkostenvergoeding. Voor de implementatie de software oplossing die als beste is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        298.0,
+        161.01,
+        310.0,
+        169.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        408.0,
+        165.0,
+        409.5,
+        169.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        170.01,
+        514.29,
+        180.01
+      ],
+      "text": "beoordeeld zet UWV het verstrijken de stand still termijn teamuitvraag in de markt. Indien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        181.0,
+        171.01,
+        373.0,
+        179.01
+      ],
+      "text": "na van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        136.0,
+        176.0,
+        137.5,
+        180.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        181.01,
+        467.28,
+        191.01
+      ],
+      "text": "blijkt dat uiterlijk 6 maanden versturen de teamuitvraag geschikte capaciteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.0,
+        182.01,
+        379.8,
+        190.01
+      ],
+      "text": "er na van geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        257.0,
+        191.01,
+        465.0,
+        201.01
+      ],
+      "text": "Opdracht definitief betreffende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        192.01,
+        414.33,
+        202.01
+      ],
+      "text": "beschikbaar is in de markt zal UWV de niet de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        354.0,
+        193.01,
+        401.0,
+        201.01
+      ],
+      "text": "gunnen aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        199.0,
+        197.0,
+        200.5,
+        201.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        202.01,
+        443.33,
+        212.01
+      ],
+      "text": "softwareleverancier. In plaats daarvan zal UWV de Opdracht definitief de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        383.0,
+        204.01,
+        430.0,
+        212.01
+      ],
+      "text": "gunnen aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        213.01,
+        473.0,
+        223.01
+      ],
+      "text": "softwareleverancier die als eerstvolgende de ranglijst beoordeelde Offertes De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        439.0,
+        214.01,
+        459.57,
+        224.01
+      ],
+      "text": "staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        268.0,
+        215.01,
+        342.0,
+        223.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        170.0,
+        219.0,
+        171.5,
+        223.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        224.01,
+        505.72,
+        234.01
+      ],
+      "text": "softwareleverancier die de bovenstaande omstandigheden toch niet de Opdracht definitief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        191.0,
+        226.01,
+        224.25,
+        234.01
+      ],
+      "text": "vanwege",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        170.0,
+        230.0,
+        171.5,
+        234.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        235.01,
+        518.5,
+        245.01
+      ],
+      "text": "gegund krijgt ontvangt in dat geval vast bedrag 200. 000 inclusief btw. In overige situaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        238.0,
+        237.01,
+        379.2,
+        245.01
+      ],
+      "text": "een van euro",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        143.0,
+        241.0,
+        144.5,
+        245.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        246.01,
+        353.3,
+        256.01
+      ],
+      "text": "ontvangen Inschrijvers vergoeding de inschrijfkosten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        186.0,
+        248.01,
+        274.2,
+        256.01
+      ],
+      "text": "geen voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        280.01,
+        490.29,
+        290.01
+      ],
+      "text": "14. Indexatie. Het is Opdrachtnemer toegestaan indexatie toe te De Opdrachtnemer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        276.0,
+        282.01,
+        407.75,
+        290.01
+      ],
+      "text": "om een passen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        291.01,
+        481.94,
+        301.01
+      ],
+      "text": "verwerkt de indexatie in het prijzenblad door deze indexatie in de jaarprijzen te verdisconteren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        302.01,
+        291.2,
+        312.01
+      ],
+      "text": "Daarnaast is aanvullende indexatie niet mogelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        483.0,
+        318.01,
+        513.62,
+        328.01
+      ],
+      "text": "conform",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        319.01,
+        476.4,
+        329.01
+      ],
+      "text": "15. Herzieningsclausule. De overeenkomst kan zonder gezien te worden als wezenlijke wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        271.0,
+        324.0,
+        272.5,
+        328.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        329.01,
+        504.33,
+        339.01
+      ],
+      "text": "de Aanbestedingswet verzoek de Opdrachtgever bij aantoonbaar gewijzigde behoefte en/of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        184.0,
+        331.01,
+        245.0,
+        339.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        179.0,
+        335.0,
+        327.5,
+        339.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        340.01,
+        519.1,
+        350.01
+      ],
+      "text": "beleid gewijzigde regelgeving dan wel noodzaak uitgebreid worden de volgende diensten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        166.0,
+        341.01,
+        423.0,
+        351.01
+      ],
+      "text": "wet- met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        186.0,
+        342.01,
+        193.33,
+        350.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        114.0,
+        346.0,
+        329.5,
+        350.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        357.01,
+        417.08,
+        367.01
+      ],
+      "text": "Uitbreiding gebruikers als gevolg krimp of groei de organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        359.01,
+        355.0,
+        367.01
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        361.01,
+        89.5,
+        367.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        374.01,
+        403.08,
+        384.01
+      ],
+      "text": "Uitbreiding hosting als gevolg krimp of groei de organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        376.01,
+        341.0,
+        384.01
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        378.01,
+        89.5,
+        384.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        391.01,
+        400.08,
+        401.01
+      ],
+      "text": "Uitbreiding opslag als gevolg krimp of groei de organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        393.01,
+        338.0,
+        401.01
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        395.01,
+        89.5,
+        401.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        408.01,
+        487.0,
+        418.01
+      ],
+      "text": "Uitbreiding andere kostencomponenten (zoals aantal transacties) het licentiemodel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        154.0,
+        410.01,
+        505.0,
+        418.01
+      ],
+      "text": "van van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        412.01,
+        89.5,
+        418.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        419.01,
+        450.08,
+        429.01
+      ],
+      "text": "leverancier anders dan gebruikers als gevolg krimp of groei de organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        298.0,
+        421.01,
+        388.0,
+        429.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        436.01,
+        449.0,
+        446.01
+      ],
+      "text": "De initiële prijsstelling die is afgegeven de prijs gebruiker hosting opslag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        254.0,
+        438.01,
+        463.33,
+        446.01
+      ],
+      "text": "voor van een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        384.0,
+        442.0,
+        421.5,
+        446.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        447.01,
+        494.5,
+        457.01
+      ],
+      "text": "kostencomponenten dient als uitgangspunt de prijsstelling de uitbreiding. Opdrachtgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        271.0,
+        449.01,
+        508.33,
+        457.01
+      ],
+      "text": "voor van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        458.01,
+        510.67,
+        468.01
+      ],
+      "text": "Opdrachtnemer treden met elkaar in overleg met elkaar vast te stellen welke prijs proportioneel is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        277.0,
+        460.01,
+        286.33,
+        468.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        513.0,
+        464.0,
+        514.5,
+        468.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        469.01,
+        459.33,
+        479.01
+      ],
+      "text": "daarbij rekening houdend met de toename het volume de prijsontwikkeling de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        269.0,
+        471.01,
+        447.0,
+        479.01
+      ],
+      "text": "van en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        480.01,
+        325.5,
+        490.01
+      ],
+      "text": "kostencomponenten sinds de start de overeenkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        235.0,
+        481.01,
+        247.0,
+        489.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        497.01,
+        511.33,
+        507.01
+      ],
+      "text": "Opdrachtgever heeft het recht de uitbreidingen te kopen te laten implementeren onderhouden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        287.0,
+        498.01,
+        352.33,
+        506.01
+      ],
+      "text": "aan en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        454.0,
+        502.0,
+        455.5,
+        506.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        182.0,
+        507.01,
+        384.33,
+        517.01
+      ],
+      "text": "Opdrachtgever of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        101.0,
+        508.01,
+        500.33,
+        518.01
+      ],
+      "text": "beheren. Het staat altijd vrij desgewenst deels beroep te doen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        509.01,
+        487.33,
+        517.01
+      ],
+      "text": "en om geen op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        518.01,
+        471.0,
+        528.01
+      ],
+      "text": "herzieningsclausule. UWV kan beslissen bepaalde uitbreidingen afzonderlijk in de markt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        477.0,
+        519.01,
+        513.38,
+        529.01
+      ],
+      "text": "te zetten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        262.0,
+        520.01,
+        271.33,
+        528.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        535.01,
+        503.86,
+        545.01
+      ],
+      "text": "Inhoudelijke mutaties de Overeenkomst geschieden telkens slechts door schriftelijk door beiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        180.0,
+        537.01,
+        192.0,
+        545.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        546.01,
+        510.0,
+        556.01
+      ],
+      "text": "Partijen Addendum deze Overeenkomst. Mutaties die wijziging de ICT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        123.0,
+        548.01,
+        479.0,
+        556.01
+      ],
+      "text": "aangaan van een op geen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        557.01,
+        512.0,
+        567.01
+      ],
+      "text": "Prestatie betreffen hun aard thuishoren in nieuwe verzie bijlage zoals SLA DAP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        168.0,
+        559.01,
+        410.0,
+        567.01
+      ],
+      "text": "en naar een van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        444.0,
+        563.0,
+        493.5,
+        567.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        568.01,
+        468.5,
+        578.01
+      ],
+      "text": "of DFA worden steeds in bijgewerkte versie het betreffende document.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        184.0,
+        570.01,
+        356.0,
+        578.01
+      ],
+      "text": "opgenomen een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        579.01,
+        503.0,
+        589.01
+      ],
+      "text": "Ondertekening de betreffende gewijzigde documenten geschiedt door de in het DAP benoemde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.0,
+        581.01,
+        165.0,
+        589.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        590.01,
+        151.06,
+        600.01
+      ],
+      "text": "functionarissen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        617.01,
+        484.0,
+        627.01
+      ],
+      "text": "16. software",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        618.01,
+        511.33,
+        628.01
+      ],
+      "text": "Wijzigingen aantallen licenties. Ieder jaar vindt toets plaats het verbruik de de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        286.0,
+        619.01,
+        498.33,
+        627.01
+      ],
+      "text": "een op van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        628.01,
+        510.0,
+        638.01
+      ],
+      "text": "daarmee samenhangende prijs. Indien afwijking is opzichte het voorafgaande jaar dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        331.0,
+        629.01,
+        341.5,
+        639.01
+      ],
+      "text": "ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        253.0,
+        630.01,
+        397.0,
+        638.01
+      ],
+      "text": "er een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        639.01,
+        508.0,
+        649.01
+      ],
+      "text": "treden opdrachtgever Opdrachtnemer elkaar in gesprek proportionele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        263.0,
+        640.01,
+        449.45,
+        650.01
+      ],
+      "text": "met tot aangepaste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        181.0,
+        641.01,
+        398.0,
+        649.01
+      ],
+      "text": "en om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        650.01,
+        486.33,
+        660.01
+      ],
+      "text": "prijs te komen. De initiële prijsstelling dient hiervoor als uitgangspunt rekening houdend met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        376.0,
+        656.0,
+        377.5,
+        660.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        661.01,
+        495.33,
+        671.01
+      ],
+      "text": "wijziging het volume de prijsontwikkeling de kostencomponenten sinds de start de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        127.0,
+        663.01,
+        482.0,
+        671.01
+      ],
+      "text": "van en van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        672.01,
+        146.5,
+        682.01
+      ],
+      "text": "overeenkomst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        689.01,
+        508.5,
+        699.01
+      ],
+      "text": "17. Lifecyclemanagement. UWV kan binnen de looptijd de overeenkomst te allen tijde volledig of ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        306.0,
+        691.01,
+        318.0,
+        699.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        700.01,
+        500.5,
+        710.01
+      ],
+      "text": "delen nieuwe dienst product systeem de Opdrachtnemer overstappen indien zij dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        114.0,
+        702.01,
+        304.0,
+        710.01
+      ],
+      "text": "naar een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        212.0,
+        706.0,
+        446.5,
+        710.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        711.01,
+        499.14,
+        721.01
+      ],
+      "text": "wenselijk acht. De éénmalige kosten de eventuele impact de jaarlijkse kosten worden vooraf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        245.0,
+        713.01,
+        352.33,
+        721.01
+      ],
+      "text": "en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        722.01,
+        424.78,
+        732.01
+      ],
+      "text": "inzichtelijk gemaakt door Opdrachtnemer goedkeuring door UWV vergoed.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        263.0,
+        724.01,
+        284.33,
+        732.01
+      ],
+      "text": "en na",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        744.01,
+        175.16,
+        754.01
+      ],
+      "text": "18. Contractmanagement",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.0,
+        755.01,
+        489.0,
+        765.01
+      ],
+      "text": "De Opdrachtnemer voert met UWV 2x jaar Strategisch Leveranciers Overleg (SLO).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        287.0,
+        756.01,
+        297.5,
+        764.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        106.0,
+        757.01,
+        109.0,
+        764.01
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        518.0,
+        781.01,
+        521.0,
+        791.01
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        124.0,
+        71.01,
+        434.0,
+        81.01
+      ],
+      "text": "Onderwerpen gesprek is de Strategische fit tussen beider organisaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        184.0,
+        73.01,
+        447.33,
+        81.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        124.0,
+        82.01,
+        207.04,
+        92.01
+      ],
+      "text": "innovatievoorstellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        124.0,
+        93.01,
+        476.0,
+        103.01
+      ],
+      "text": "De Opdrachtnemer voert met UWV 4x jaar Tactisch Leveranciers Overleg (TLO).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        287.0,
+        95.01,
+        297.5,
+        103.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        96.01,
+        109.0,
+        103.01
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        124.0,
+        104.01,
+        486.06,
+        114.01
+      ],
+      "text": "Onderwerp gesprek is de uitvoeringswijze de gecontracteerde dienstverlening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        174.0,
+        106.01,
+        332.0,
+        114.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        126.01,
+        459.33,
+        136.01
+      ],
+      "text": "19. Subprocessors. Inschrijver levert bij het indienen de offerte overzicht met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        295.0,
+        128.01,
+        427.0,
+        136.01
+      ],
+      "text": "van een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.0,
+        137.01,
+        464.8,
+        147.01
+      ],
+      "text": "subprocessors in de dataverwerkingsketen beschrijving welke activiteiten deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        271.0,
+        139.01,
+        367.0,
+        147.01
+      ],
+      "text": "en een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        88.0,
+        148.01,
+        345.4,
+        158.01
+      ],
+      "text": "subprocessors uitvoeren. De wijze aanleveren is vormvrij.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        236.0,
+        150.01,
+        248.0,
+        158.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        518.0,
+        781.01,
+        521.0,
+        791.01
+      ],
+      "text": "3",
+      "source": "text"
+    }
+  ]
+}

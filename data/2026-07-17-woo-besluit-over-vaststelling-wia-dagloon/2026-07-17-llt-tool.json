@@ -1,0 +1,2741 @@
+{
+  "source_id": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-llt-tool",
+  "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+  "pdf_slug": "2026-07-17-llt-tool",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-over-vaststelling-wia-dagloon",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/65dc3eb5-f4ae-4d84-bb4f-d2284036da5d/llt-tool.pdf",
+  "publication_title": "Woo-besluit over vaststelling WIA-dagloon",
+  "publication_date": "2026-07-17T13:24:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "LLT Tool (PDF, 1 MB)",
+  "retrieved_at": "2026-08-11T06:59:14+00:00",
+  "sha256": "0ad23a17b999e9887f5006aefa60877b9bbc797ac9590337cb6e339c2a1fb391",
+  "page_count": 7,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        57.01,
+        664.09,
+        71.01
+      ],
+      "text": "Rekenmodule aantal dagloondagen in referteperiode Loonloze Tijdvakken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        475.0,
+        58.01,
+        498.25,
+        71.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        172.0,
+        90.01,
+        361.5,
+        102.01
+      ],
+      "text": "het gebruik de rekentool",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.0,
+        90.01,
+        132.75,
+        103.01
+      ],
+      "text": "Voorafgaand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        143.0,
+        93.01,
+        272.75,
+        103.01
+      ],
+      "text": "aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        107.01,
+        385.55,
+        117.01
+      ],
+      "text": "Je slaat de tool via ‘Opslaan als’ eerst voordat je deze gaat gebruiken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        227.0,
+        109.01,
+        235.0,
+        117.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        238.0,
+        112.0,
+        240.0,
+        117.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        65.0,
+        120.01,
+        782.11,
+        130.01
+      ],
+      "text": "kiest locatie het bestand wilt opslaan zoals bureaublad of documenten. Als de rekentool direct gebruiken vanaf de Digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        121.01,
+        654.0,
+        131.01
+      ],
+      "text": "Je je je mijn Let je gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        90.0,
+        122.01,
+        514.0,
+        130.01
+      ],
+      "text": "een waar op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        290.0,
+        126.0,
+        292.0,
+        131.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        132.01,
+        396.33,
+        142.01
+      ],
+      "text": "Werkplek (en dus lokaal opslaat) verschijnt foutboodschap.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        135.0,
+        133.01,
+        175.17,
+        143.01
+      ],
+      "text": "niet eerst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        299.0,
+        134.01,
+        323.75,
+        142.01
+      ],
+      "text": "er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.0,
+        161.01,
+        112.55,
+        173.01
+      ],
+      "text": "Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        53.0,
+        177.01,
+        87.5,
+        187.01
+      ],
+      "text": "LET OP:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        191.01,
+        735.8,
+        201.01
+      ],
+      "text": "Wanneer Loonloze perioden in de referteperiode voorkomen is sprake alleen maandbetaling in de referteperiode dan moet deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        96.0,
+        193.01,
+        498.75,
+        201.01
+      ],
+      "text": "er geen en er van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        666.0,
+        196.0,
+        668.0,
+        201.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        203.01,
+        366.8,
+        213.01
+      ],
+      "text": "rekenmodule NIET worden gebruikt. Het aantal loondagen is dan 261.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        215.01,
+        769.33,
+        225.01
+      ],
+      "text": "Wanneer sprake is \" startersregeling \" of \" herintreder \" dan deze rekenmodule NIET worden gebruikt bij deze situaties maak je gebruik de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        368.0,
+        216.01,
+        387.2,
+        226.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        96.0,
+        217.01,
+        754.75,
+        225.01
+      ],
+      "text": "er van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        579.0,
+        221.0,
+        581.0,
+        226.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        227.01,
+        784.5,
+        237.01
+      ],
+      "text": "gebruikelijke werkwijze indien ook sprake is loonloze tijdvakken tel je de hele maanden waarin sprake is SV-loon zoals beschreven in het UBSMZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        196.0,
+        229.01,
+        601.75,
+        237.01
+      ],
+      "text": "er van mee van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        159.0,
+        233.0,
+        161.0,
+        238.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        67.0,
+        239.01,
+        767.8,
+        249.01
+      ],
+      "text": "de handreiking. Als niet alle dagen de maand worden dan tel je de dagen die maand die wel meetellen alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        261.0,
+        240.01,
+        616.86,
+        250.01
+      ],
+      "text": "eerste moeten eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        241.01,
+        748.33,
+        249.01
+      ],
+      "text": "en van meegenomen van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        251.01,
+        327.63,
+        261.01
+      ],
+      "text": "maanden die verder in de referteperiode vallen meetellen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        270.0,
+        253.01,
+        277.33,
+        261.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        265.01,
+        511.14,
+        275.01
+      ],
+      "text": "Het is steeds nodig dat wordt vastgesteld welk loon toegerekend moet worden welke maand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        82.0,
+        267.01,
+        445.75,
+        275.01
+      ],
+      "text": "nog aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        295.01,
+        768.09,
+        305.01
+      ],
+      "text": "rekenmodule berekent het aantal loondagen volledige referteperiode de referteperiode of Loonloze Tijdvakken voorkomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        565.0,
+        295.01,
+        577.75,
+        306.01
+      ],
+      "text": "één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        296.01,
+        478.0,
+        306.01
+      ],
+      "text": "De in in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        284.0,
+        297.01,
+        616.2,
+        305.01
+      ],
+      "text": "een wanneer er meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        412.0,
+        301.0,
+        414.0,
+        306.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        311.01,
+        750.69,
+        321.01
+      ],
+      "text": "Daarnaast rekent de module ook uit hoeveel dagloondagen je fictief in DMO moet registreren in het vak \" Meerdere fictieve opzegtermijnen in refertejaar. \"",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        326.01,
+        684.25,
+        336.01
+      ],
+      "text": "Het aantal dagloondagen fictief registreren in DMO is nodig het dagloon de juiste wijze te berekenen dit is tijdelijke workaround.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        325.0,
+        328.01,
+        582.75,
+        336.01
+      ],
+      "text": "om op een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        53.0,
+        355.01,
+        146.75,
+        367.01
+      ],
+      "text": "Invulinstructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        372.01,
+        287.75,
+        382.01
+      ],
+      "text": "1. Je begint het invullen de referteperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        113.0,
+        373.01,
+        126.5,
+        383.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        190.0,
+        374.01,
+        202.75,
+        382.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        65.0,
+        387.01,
+        365.58,
+        397.01
+      ],
+      "text": "vult ‘Begin Referteperiode’ in vak A2. schrijfwijze is dd-mm-jjjj.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        388.01,
+        245.67,
+        398.01
+      ],
+      "text": "Je De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        65.0,
+        402.01,
+        397.58,
+        412.01
+      ],
+      "text": "vult daarna ‘Einde referteperiode’ vak schrijfwijze dd-mm-jjjj.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        403.01,
+        343.33,
+        413.01
+      ],
+      "text": "Je in B2. De is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        433.01,
+        647.62,
+        443.01
+      ],
+      "text": "2. Na het invullen deze twee velden (A2 B2) zijnde de ‘referteperiode’ worden de volgende automatisch gevuld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        140.0,
+        435.01,
+        550.22,
+        443.01
+      ],
+      "text": "van en gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        291.0,
+        439.0,
+        413.0,
+        444.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        448.01,
+        467.43,
+        458.01
+      ],
+      "text": "Berekenperiode (vak A4 A17) bij aangifte tijdvakken werkblad ‘4 weken’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        185.0,
+        449.01,
+        228.5,
+        459.01
+      ],
+      "text": "tot met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        201.0,
+        450.01,
+        377.75,
+        458.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        463.01,
+        476.78,
+        473.01
+      ],
+      "text": "Berekenperiode (vak A16) bij de aangifte tijdvakken werkblad ‘Maand’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        170.0,
+        464.01,
+        228.5,
+        474.01
+      ],
+      "text": "A4 tot met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        201.0,
+        465.01,
+        392.75,
+        473.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        52.0,
+        494.01,
+        656.0,
+        504.01
+      ],
+      "text": "3. Je vult of verwijdert de ‘x’ onder ‘Meetellen’ de keuze hierin moet zelf gemaakt worden de tool voorziet hier niet automatisch in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        267.0,
+        500.0,
+        469.0,
+        505.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        509.01,
+        131.5,
+        519.01
+      ],
+      "text": "meetellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        511.01,
+        76.0,
+        519.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        512.01,
+        85.0,
+        519.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        524.01,
+        165.5,
+        534.01
+      ],
+      "text": "leeg meetellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        105.0,
+        525.01,
+        118.6,
+        535.01
+      ],
+      "text": "niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        95.0,
+        527.01,
+        99.0,
+        534.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        57.01,
+        443.37,
+        67.01
+      ],
+      "text": "Vakken standaard gevuld \" \" betekent dat dagen worden meegeteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        58.01,
+        262.0,
+        68.01
+      ],
+      "text": "zijn met Dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        211.0,
+        59.01,
+        242.67,
+        67.01
+      ],
+      "text": "een x.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        88.01,
+        541.38,
+        98.01
+      ],
+      "text": "4. De resultaten het de Loonloze Tijdvakken zijn direct zichtbaar in de volgende vakken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        133.0,
+        90.01,
+        229.75,
+        98.01
+      ],
+      "text": "van aangeven van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        103.01,
+        295.17,
+        113.01
+      ],
+      "text": "F18 F19 bij aangifte tijdvakken vier weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.0,
+        105.01,
+        243.75,
+        113.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        126.0,
+        118.01,
+        295.83,
+        128.01
+      ],
+      "text": "bij aangifte tijdvakken maand",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        73.0,
+        119.01,
+        119.75,
+        129.01
+      ],
+      "text": "F17 F18",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.0,
+        120.01,
+        263.75,
+        128.01
+      ],
+      "text": "en van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        149.01,
+        121.88,
+        159.01
+      ],
+      "text": "Uitleg werking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        164.01,
+        524.58,
+        174.01
+      ],
+      "text": "Naast het \" aantal dagen \" wordt het totaal het aantal dagen vermeld zonder de Loonloze Tijdvakken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        245.0,
+        166.01,
+        257.75,
+        174.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        79.0,
+        179.01,
+        407.67,
+        189.01
+      ],
+      "text": "het aantal dagen waardoor gedeeld worden bij vaststellen dagloon.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        180.01,
+        262.2,
+        190.01
+      ],
+      "text": "Dit is moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        210.01,
+        360.0,
+        220.01
+      ],
+      "text": "Is het totaal aantal dagen groter dan 261 dan wordt het getal rood.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        241.0,
+        215.0,
+        243.0,
+        220.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        225.01,
+        223.8,
+        235.01
+      ],
+      "text": "De deler niet zijn dan 261!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        137.0,
+        226.01,
+        161.0,
+        236.01
+      ],
+      "text": "groter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        227.01,
+        109.0,
+        235.01
+      ],
+      "text": "mag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        256.01,
+        771.29,
+        266.01
+      ],
+      "text": "Naast \" Meerdere fictieve opzegtermijnen in refertejaar \" wordt het aantal dagen vermeld dat gebruikt moet worden in de Dagloonmodule (DMO) (workaround).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        286.01,
+        658.67,
+        296.01
+      ],
+      "text": "In DMO \" Meerdere fictieve opzegtermijnen in refertejaar \" worden aangevinkt het aantal dagloondagen worden geregistreerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        90.0,
+        287.01,
+        108.4,
+        297.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        432.0,
+        288.01,
+        439.33,
+        296.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        301.01,
+        120.42,
+        311.01
+      ],
+      "text": "schermprint",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        302.01,
+        63.5,
+        312.01
+      ],
+      "text": "Zie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        386.01,
+        598.3,
+        396.01
+      ],
+      "text": "Het totaal aantal dagloondagen \" aantal dagen \" \" Meerdere fictieve opzegtermijnen in refertejaar \" 261 loondagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        288.0,
+        387.01,
+        292.0,
+        396.01
+      ],
+      "text": "+",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        199.0,
+        388.01,
+        211.75,
+        396.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        525.0,
+        389.01,
+        529.0,
+        396.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        415.01,
+        725.25,
+        425.01
+      ],
+      "text": "Omdat dit totaal 261 moet zijn kan het aantal dagen dat gevuld moet worden bij \" Meerdere fictieve opzegtermijnen in refertejaar \" afwijken het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        694.0,
+        417.01,
+        706.75,
+        425.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        193.0,
+        420.0,
+        195.0,
+        425.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        427.01,
+        316.25,
+        437.01
+      ],
+      "text": "daadwerkelijk aantal dagen de maand die Loonloos is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        180.0,
+        429.01,
+        192.75,
+        437.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        456.01,
+        140.0,
+        466.01
+      ],
+      "text": "5. Archiveren in EA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        53.0,
+        471.01,
+        687.4,
+        481.01
+      ],
+      "text": "Na dat je de berekening hebt afgerond archiveer je deze in EA door gebruik maken het invoersjabloon ‘Resultaat dagloonberekening’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        400.0,
+        472.01,
+        406.0,
+        482.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        446.0,
+        473.01,
+        458.75,
+        481.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        52.0,
+        57.01,
+        255.53,
+        68.01
+      ],
+      "text": "Begin referteperiode Einde referteperiode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        309.0,
+        103.01,
+        322.5,
+        113.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        52.0,
+        103.01,
+        511.4,
+        114.01
+      ],
+      "text": "Berekenperiode Van Tot Aantal dagen Meetellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        295.0,
+        104.01,
+        303.0,
+        113.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        118.01,
+        158.0,
+        128.01
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        120.01,
+        497.5,
+        129.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        134.01,
+        158.0,
+        144.01
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        135.01,
+        497.5,
+        144.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        149.01,
+        158.0,
+        159.01
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        151.01,
+        497.5,
+        160.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        164.01,
+        158.0,
+        174.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        166.01,
+        497.5,
+        175.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        180.01,
+        158.0,
+        190.01
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        181.01,
+        497.5,
+        190.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        195.01,
+        158.0,
+        205.01
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        197.01,
+        497.5,
+        206.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        210.01,
+        158.0,
+        220.01
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        212.01,
+        497.5,
+        221.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        226.01,
+        158.0,
+        236.01
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        228.01,
+        497.5,
+        237.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        241.01,
+        158.0,
+        251.01
+      ],
+      "text": "9",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        243.01,
+        497.5,
+        252.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        150.0,
+        257.01,
+        158.0,
+        267.01
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        258.01,
+        497.5,
+        267.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        150.0,
+        272.01,
+        158.0,
+        282.01
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        273.01,
+        497.5,
+        282.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        150.0,
+        287.01,
+        158.0,
+        297.01
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        289.01,
+        497.5,
+        298.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        150.0,
+        302.01,
+        158.0,
+        312.01
+      ],
+      "text": "13",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        495.0,
+        304.01,
+        497.5,
+        313.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        336.0,
+        317.01,
+        390.33,
+        328.01
+      ],
+      "text": "Aantal dagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        460.0,
+        318.01,
+        463.0,
+        328.01
+      ],
+      "text": "0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        180.0,
+        333.01,
+        390.92,
+        344.01
+      ],
+      "text": "Meerdere fictieve opzegtermijnen in refertejaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        431.0,
+        337.01,
+        433.0,
+        344.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        133.0,
+        102.01,
+        154.43,
+        113.01
+      ],
+      "text": "cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.0,
+        103.01,
+        125.6,
+        114.01
+      ],
+      "text": "Naam",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        104.0,
+        118.01,
+        118.25,
+        129.01
+      ],
+      "text": "BSN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.0,
+        134.01,
+        129.0,
+        145.01
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        118.0,
+        226.01,
+        292.25,
+        237.01
+      ],
+      "text": "meetellen Uitleg:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.0,
+        228.01,
+        113.0,
+        236.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.0,
+        228.01,
+        106.5,
+        237.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        372.0,
+        241.01,
+        375.0,
+        251.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        104.0,
+        241.01,
+        405.0,
+        252.01
+      ],
+      "text": "leeg niet meetellen Aangifte tijdvakken weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        355.0,
+        243.01,
+        366.25,
+        252.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        124.0,
+        244.01,
+        127.0,
+        252.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        487.0,
+        257.01,
+        504.5,
+        267.01
+      ],
+      "text": "start",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        266.0,
+        257.01,
+        558.33,
+        268.01
+      ],
+      "text": "Vul de datum specifieke datum de periode in A2 vul de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        404.0,
+        259.01,
+        432.29,
+        268.01
+      ],
+      "text": "waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        531.0,
+        263.0,
+        532.5,
+        268.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        266.0,
+        272.01,
+        397.25,
+        283.01
+      ],
+      "text": "specifieke laatste dag in bij B2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        266.0,
+        287.01,
+        443.08,
+        298.01
+      ],
+      "text": "Voorbeeld A2=7-11-2015 B2=6-11-2016",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        379.0,
+        291.01,
+        381.0,
+        298.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        481.0,
+        318.01,
+        493.75,
+        328.01
+      ],
+      "text": "261",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        266.0,
+        318.01,
+        525.71,
+        329.01
+      ],
+      "text": "Indien Aantal dagen rood wordt zit deze boven de dagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        15.0,
+        257.01,
+        32.5,
+        267.01
+      ],
+      "text": "start",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -205.0,
+        257.01,
+        86.33,
+        268.01
+      ],
+      "text": "Vul de datum specifieke datum de periode in A2 vul de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -68.0,
+        259.01,
+        -39.71,
+        268.01
+      ],
+      "text": "waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        59.0,
+        263.0,
+        60.5,
+        268.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        9.0,
+        318.01,
+        21.75,
+        328.01
+      ],
+      "text": "261",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -205.0,
+        318.01,
+        53.71,
+        329.01
+      ],
+      "text": "Indien Aantal dagen rood wordt zit deze boven de dagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        52.0,
+        57.01,
+        255.53,
+        68.01
+      ],
+      "text": "Begin referteperiode Einde referteperiode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        309.0,
+        103.01,
+        322.5,
+        113.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        52.0,
+        103.01,
+        627.43,
+        114.01
+      ],
+      "text": "Berekenperiode Van Tot Aantal dagen Meetellen Naam cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        295.0,
+        105.01,
+        303.0,
+        114.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        118.01,
+        159.0,
+        128.01
+      ],
+      "text": "1",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        578.0,
+        118.01,
+        592.25,
+        129.01
+      ],
+      "text": "BSN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        120.01,
+        491.5,
+        129.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        134.01,
+        159.0,
+        144.01
+      ],
+      "text": "2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        578.0,
+        134.01,
+        603.0,
+        145.01
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        136.01,
+        491.5,
+        145.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        149.01,
+        159.0,
+        159.01
+      ],
+      "text": "3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        151.01,
+        491.5,
+        160.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        165.01,
+        159.0,
+        175.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        166.01,
+        491.5,
+        175.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        180.01,
+        159.0,
+        190.01
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        181.01,
+        491.5,
+        190.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        195.01,
+        159.0,
+        205.01
+      ],
+      "text": "6",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        197.01,
+        491.5,
+        206.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        211.01,
+        159.0,
+        221.01
+      ],
+      "text": "7",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        212.01,
+        491.5,
+        221.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        226.01,
+        159.0,
+        236.01
+      ],
+      "text": "8",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        592.0,
+        226.01,
+        759.25,
+        237.01
+      ],
+      "text": "meetellen Uitleg:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        228.01,
+        580.5,
+        237.01
+      ],
+      "text": "x x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        584.0,
+        229.01,
+        587.0,
+        237.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        606.0,
+        241.01,
+        815.64,
+        252.01
+      ],
+      "text": "niet Aangifte tijdvakken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        242.01,
+        842.0,
+        252.01
+      ],
+      "text": "9 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        578.0,
+        242.01,
+        872.0,
+        253.01
+      ],
+      "text": "leeg meetellen weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        243.01,
+        833.25,
+        252.01
+      ],
+      "text": "x per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        598.0,
+        244.01,
+        601.0,
+        252.01
+      ],
+      "text": "=",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        150.0,
+        257.01,
+        158.0,
+        267.01
+      ],
+      "text": "10",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        733.0,
+        257.01,
+        1019.12,
+        268.01
+      ],
+      "text": "Vul de dag de maand in veld A2 vul in veld B2 de laatste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        762.0,
+        258.01,
+        786.0,
+        268.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        259.01,
+        822.0,
+        268.01
+      ],
+      "text": "x van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        915.0,
+        263.0,
+        916.5,
+        268.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        150.0,
+        272.01,
+        158.0,
+        282.01
+      ],
+      "text": "11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        733.0,
+        272.01,
+        822.25,
+        283.01
+      ],
+      "text": "dag de maand in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        274.01,
+        762.0,
+        283.01
+      ],
+      "text": "x van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        150.0,
+        287.01,
+        158.0,
+        297.01
+      ],
+      "text": "12",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        733.0,
+        288.01,
+        910.0,
+        299.01
+      ],
+      "text": "Voorbeeld A2=1-9-2021 B2=31-08-2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        489.0,
+        289.01,
+        491.5,
+        298.01
+      ],
+      "text": "x",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        840.0,
+        292.01,
+        842.0,
+        299.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        330.0,
+        302.01,
+        384.33,
+        313.01
+      ],
+      "text": "Aantal dagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        454.0,
+        303.01,
+        457.0,
+        313.01
+      ],
+      "text": "0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        948.0,
+        318.01,
+        960.75,
+        328.01
+      ],
+      "text": "261",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        174.0,
+        318.01,
+        992.71,
+        329.01
+      ],
+      "text": "Meerdere fictieve opzegtermijnen in refertejaar Indien Aantal dagen rood wordt zit deze boven de dagen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        425.0,
+        322.01,
+        427.0,
+        329.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        3.0,
+        241.01,
+        86.64,
+        252.01
+      ],
+      "text": "Aangifte tijdvakken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.0,
+        242.01,
+        113.0,
+        252.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        117.0,
+        242.01,
+        142.0,
+        253.01
+      ],
+      "text": "weken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        92.0,
+        243.01,
+        103.25,
+        252.01
+      ],
+      "text": "per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        3.0,
+        257.01,
+        290.12,
+        268.01
+      ],
+      "text": "Vul de dag de maand in veld A2 vul in veld B2 de laatste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        33.0,
+        258.01,
+        57.0,
+        268.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        80.0,
+        259.01,
+        92.0,
+        268.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        186.0,
+        263.0,
+        187.5,
+        268.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        3.0,
+        272.01,
+        93.25,
+        283.01
+      ],
+      "text": "dag de maand in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        21.0,
+        274.01,
+        33.0,
+        283.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        3.0,
+        288.01,
+        181.0,
+        299.01
+      ],
+      "text": "Voorbeeld A2=1-9-2021 B2=31-08-2022",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        110.0,
+        292.01,
+        112.0,
+        299.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        218.0,
+        318.01,
+        230.75,
+        328.01
+      ],
+      "text": "261",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        3.0,
+        318.01,
+        262.71,
+        329.01
+      ],
+      "text": "Indien Aantal dagen rood wordt zit deze boven de dagen.",
+      "source": "text"
+    }
+  ]
+}
