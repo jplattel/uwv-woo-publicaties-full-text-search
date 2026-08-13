@@ -1,0 +1,3941 @@
+{
+  "source_id": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+  "pdf_slug": "2026-08-04-doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/ea03d5f9-2d34-4845-8651-eb852a59c030/doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over Risicobeoordelingen externe IT-hosting en data-soevereiniteit",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Visie op digitale soevereiniteit V210526 (PDF, 1 MB)",
+  "retrieved_at": "2026-08-13T07:19:10+00:00",
+  "sha256": "2bb01021d26d870171743caae5f9cf8eba2a2a571018d1c72c87049db5f0bfc6",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        482.0,
+        40.01,
+        515.6,
+        52.01
+      ],
+      "text": "Memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        37.0,
+        42.0,
+        49.75,
+        47.0
+      ],
+      "text": "uwv",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        449.0,
+        93.01,
+        457.67,
+        107.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        71.0,
+        93.01,
+        437.0,
+        108.01
+      ],
+      "text": "Versterken Autonomie & Soevereiniteit:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        160.0,
+        93.02,
+        212.44,
+        111.02
+      ],
+      "text": "digitale",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        467.0,
+        97.01,
+        487.25,
+        108.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        70.0,
+        113.01,
+        302.75,
+        128.01
+      ],
+      "text": "verbonden wereld zelf het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        313.0,
+        114.01,
+        347.17,
+        128.01
+      ],
+      "text": "stuur",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        249.0,
+        117.01,
+        270.75,
+        128.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        173.01,
+        430.0,
+        179.01
+      ],
+      "text": "Datum 21 mei 2026 Versie 0.99",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        189.01,
+        446.31,
+        195.01
+      ],
+      "text": "Aan Raad Bestuur René Steenvoorden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        203.0,
+        191.0,
+        212.0,
+        195.0
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        383.0,
+        204.01,
+        445.0,
+        213.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        205.01,
+        257.77,
+        211.01
+      ],
+      "text": "Van Directeur ICT-Services",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        383.0,
+        220.01,
+        418.0,
+        229.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        113.0,
+        221.01,
+        311.8,
+        227.01
+      ],
+      "text": "door Transformatielead & Soevereiniteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        221.01,
+        106.3,
+        229.01
+      ],
+      "text": "Opgesteld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        250.0,
+        222.01,
+        254.67,
+        228.01
+      ],
+      "text": "Al",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        73.0,
+        236.01,
+        157.34,
+        247.01
+      ],
+      "text": "Vertrouwelijkheidslabel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        184.0,
+        237.01,
+        206.75,
+        243.01
+      ],
+      "text": "Publiek",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        74.0,
+        252.01,
+        106.72,
+        263.01
+      ],
+      "text": "Bijlage(n)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        184.0,
+        256.0,
+        185.5,
+        257.0
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        270.01,
+        193.0,
+        276.01
+      ],
+      "text": "Doel Ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        197.0,
+        270.01,
+        245.54,
+        278.01
+      ],
+      "text": "besluitvorming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.0,
+        271.0,
+        110.4,
+        276.0
+      ],
+      "text": "memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        296.01,
+        496.0,
+        304.01
+      ],
+      "text": "Versterken Autonomie Soevereiniteit: in verbonden wereld zelf het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        129.0,
+        296.01,
+        161.89,
+        307.01
+      ],
+      "text": "digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        228.0,
+        297.01,
+        232.0,
+        305.01
+      ],
+      "text": "&",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        327.0,
+        299.01,
+        475.75,
+        305.01
+      ],
+      "text": "een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        310.01,
+        93.5,
+        318.01
+      ],
+      "text": "stuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        135.0,
+        333.01,
+        503.75,
+        340.01
+      ],
+      "text": "cruciale schakel in de Onze dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        296.0,
+        333.01,
+        325.7,
+        341.01
+      ],
+      "text": "cliënten,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        220.0,
+        333.01,
+        420.6,
+        342.01
+      ],
+      "text": "samenleving. werkgevers collega’s",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        334.01,
+        466.91,
+        340.01
+      ],
+      "text": "UWV vormt vertrouwen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        118.0,
+        335.0,
+        385.0,
+        340.0
+      ],
+      "text": "een en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        474.0,
+        335.01,
+        487.6,
+        342.01
+      ],
+      "text": "erop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        318.0,
+        344.01,
+        322.0,
+        350.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        307.0,
+        344.01,
+        410.0,
+        351.01
+      ],
+      "text": "is. het is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.0,
+        344.01,
+        222.23,
+        352.01
+      ],
+      "text": "beschikbaar,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        92.0,
+        344.01,
+        492.19,
+        353.01
+      ],
+      "text": "dienstverlening altijd veilig rechtmatig huidige tijdperk dienstverlening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        346.0,
+        428.4,
+        351.0
+      ],
+      "text": "onze en onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        243.0,
+        355.01,
+        489.43,
+        362.01
+      ],
+      "text": "Die biedt kansen efficiëntie betere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        355.01,
+        304.66,
+        364.01
+      ],
+      "text": "volledig digitale technologie. digitalisering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        144.0,
+        356.01,
+        155.25,
+        362.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.0,
+        357.0,
+        462.0,
+        362.0
+      ],
+      "text": "verweven enorme voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        152.0,
+        365.01,
+        333.0,
+        372.01
+      ],
+      "text": "ook fundamentele kwetsbaarheid zich",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        125.0,
+        365.01,
+        475.19,
+        374.01
+      ],
+      "text": "brengt groeiende afhankelijkheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        304.0,
+        366.01,
+        315.25,
+        372.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        366.01,
+        96.78,
+        374.01
+      ],
+      "text": "service,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        102.0,
+        367.0,
+        491.5,
+        372.0
+      ],
+      "text": "maar een mee: een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        376.01,
+        503.67,
+        383.01
+      ],
+      "text": "vaak datastromen. is weerbaarheid als breed thema",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        125.0,
+        376.01,
+        178.44,
+        384.01
+      ],
+      "text": "internationale,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        185.0,
+        376.01,
+        274.12,
+        385.01
+      ],
+      "text": "technologieleveranciers",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        347.0,
+        377.01,
+        373.57,
+        383.01
+      ],
+      "text": "Daarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        377.01,
+        99.45,
+        384.01
+      ],
+      "text": "externe,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        281.0,
+        378.0,
+        287.0,
+        383.0
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        189.0,
+        387.01,
+        506.67,
+        394.01
+      ],
+      "text": "binnen orde hebben Business is cruciaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        87.0,
+        387.01,
+        410.36,
+        396.01
+      ],
+      "text": "belangrijk aandachtspunt Continuity",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        219.0,
+        388.01,
+        252.5,
+        394.01
+      ],
+      "text": "UWV. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        417.0,
+        388.01,
+        464.27,
+        396.01
+      ],
+      "text": "Management",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        389.0,
+        331.75,
+        394.0
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        258.0,
+        389.01,
+        264.67,
+        396.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        191.0,
+        398.01,
+        278.12,
+        405.01
+      ],
+      "text": "beschikbaar houden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        107.0,
+        398.01,
+        186.14,
+        407.01
+      ],
+      "text": "dienstverlening altijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        240.0,
+        399.01,
+        245.33,
+        405.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        400.0,
+        100.4,
+        405.0
+      ],
+      "text": "om onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.0,
+        419.01,
+        494.0,
+        426.01
+      ],
+      "text": "wendbaarheid dat daarbinnen steeds aandacht de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        419.01,
+        471.85,
+        428.01
+      ],
+      "text": "Digitale onderwerp verhoudingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        420.01,
+        416.67,
+        426.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        161.0,
+        420.01,
+        482.67,
+        427.01
+      ],
+      "text": "is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        381.0,
+        420.01,
+        403.75,
+        428.01
+      ],
+      "text": "vraagt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        169.0,
+        421.0,
+        336.0,
+        426.0
+      ],
+      "text": "een meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        430.01,
+        471.9,
+        437.01
+      ],
+      "text": "wereld veel discussie de Die discussies waardevol",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        419.0,
+        430.01,
+        429.4,
+        438.01
+      ],
+      "text": "zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        234.0,
+        430.01,
+        357.31,
+        439.01
+      ],
+      "text": "afhankelijkheid technologie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.0,
+        432.0,
+        484.0,
+        437.0
+      ],
+      "text": "voor over van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        100.0,
+        432.01,
+        512.29,
+        439.01
+      ],
+      "text": "zorgen zorgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        441.01,
+        460.86,
+        448.01
+      ],
+      "text": "dat bewuster soevereiniteit. Om taak ook in de toekomst kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        293.0,
+        441.01,
+        489.87,
+        450.01
+      ],
+      "text": "publieke blijven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        159.0,
+        442.01,
+        431.33,
+        448.01
+      ],
+      "text": "sturen te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        85.0,
+        443.0,
+        286.4,
+        448.0
+      ],
+      "text": "we onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        138.0,
+        443.01,
+        192.67,
+        450.01
+      ],
+      "text": "gaan op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        452.01,
+        486.86,
+        459.01
+      ],
+      "text": "uitvoeren keuzes houden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        208.0,
+        452.01,
+        386.86,
+        460.01
+      ],
+      "text": "autonomie, maken,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.0,
+        452.01,
+        456.0,
+        461.01
+      ],
+      "text": "digitale vrijheid grip",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        111.0,
+        453.01,
+        356.33,
+        459.01
+      ],
+      "text": "moeten te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        393.0,
+        453.01,
+        426.3,
+        461.01
+      ],
+      "text": "vergroten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        143.0,
+        454.0,
+        439.0,
+        459.0
+      ],
+      "text": "we onze onze om en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        494.0,
+        454.01,
+        500.0,
+        461.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        149.0,
+        463.01,
+        164.2,
+        469.01
+      ],
+      "text": "Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        463.01,
+        428.56,
+        470.01
+      ],
+      "text": "fundamenten. autonomie de basis soevereiniteit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        171.0,
+        463.01,
+        371.78,
+        472.01
+      ],
+      "text": "digitale digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        246.0,
+        464.01,
+        266.0,
+        470.01
+      ],
+      "text": "vormt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        465.0,
+        339.4,
+        470.0
+      ],
+      "text": "onze voor onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        118.0,
+        484.01,
+        157.12,
+        491.01
+      ],
+      "text": "de horizon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        84.0,
+        484.01,
+        96.0,
+        493.01
+      ],
+      "text": "stip",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        485.01,
+        77.67,
+        491.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        101.0,
+        486.0,
+        111.5,
+        491.0
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        495.01,
+        459.25,
+        502.01
+      ],
+      "text": "Onze ambitie is helder: binnen afzienbare verantwoorde manier als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        235.0,
+        495.01,
+        504.42,
+        504.01
+      ],
+      "text": "tijd bestuurlijk zijn organisatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        251.0,
+        497.0,
+        445.33,
+        502.0
+      ],
+      "text": "en een we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        262.0,
+        497.01,
+        268.67,
+        504.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.0,
+        506.01,
+        276.5,
+        512.01
+      ],
+      "text": "Dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        224.0,
+        506.01,
+        384.8,
+        513.01
+      ],
+      "text": "soeverein. betekent dat toewerken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        180.0,
+        506.01,
+        217.58,
+        514.01
+      ],
+      "text": "essentieel,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        506.01,
+        504.0,
+        515.01
+      ],
+      "text": "digitaal digitale huishouding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        102.0,
+        507.01,
+        137.56,
+        513.01
+      ],
+      "text": "autonoom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        158.0,
+        508.0,
+        422.5,
+        513.0
+      ],
+      "text": "waar we naar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        145.0,
+        508.01,
+        153.25,
+        514.01
+      ],
+      "text": "en,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        270.0,
+        517.01,
+        279.75,
+        523.01
+      ],
+      "text": "Dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        517.01,
+        514.0,
+        524.01
+      ],
+      "text": "waarin cruciale die inzet als bewust",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        361.0,
+        517.01,
+        371.4,
+        525.01
+      ],
+      "text": "zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        517.01,
+        433.17,
+        526.01
+      ],
+      "text": "afhankelijkheden zijn gemitigeerd. organisatie technologie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        286.0,
+        519.0,
+        484.5,
+        524.0
+      ],
+      "text": "we een een",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        398.0,
+        526.01,
+        446.54,
+        538.01
+      ],
+      "text": "internationaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.0,
+        527.01,
+        357.75,
+        534.01
+      ],
+      "text": "middel. kunnen dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        527.01,
+        505.14,
+        536.01
+      ],
+      "text": "gekozen afhankelijkheden volledig vermijden, technologisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        137.0,
+        528.01,
+        145.67,
+        534.01
+      ],
+      "text": "We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        255.0,
+        528.01,
+        376.67,
+        535.01
+      ],
+      "text": "niet is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        381.0,
+        529.0,
+        391.5,
+        534.0
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        538.01,
+        497.28,
+        545.01
+      ],
+      "text": "niet realistisch. wel kunnen doen is bewust alternatieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        413.0,
+        538.01,
+        443.22,
+        546.01
+      ],
+      "text": "beheren,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        311.0,
+        538.01,
+        375.0,
+        547.01
+      ],
+      "text": "afhankelijkheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        180.0,
+        539.01,
+        192.0,
+        545.01
+      ],
+      "text": "Wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        539.01,
+        112.82,
+        547.01
+      ],
+      "text": "ecosysteem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        199.0,
+        540.0,
+        304.4,
+        545.0
+      ],
+      "text": "we onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        107.0,
+        549.01,
+        501.78,
+        556.01
+      ],
+      "text": "houden kritieke behouden. bouwen toekomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        549.01,
+        326.07,
+        558.01
+      ],
+      "text": "mogelijk regie digitale voorzieningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        376.0,
+        550.01,
+        382.0,
+        556.01
+      ],
+      "text": "Zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        139.0,
+        551.0,
+        462.5,
+        556.0
+      ],
+      "text": "en onze over we aan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        560.01,
+        443.0,
+        567.01
+      ],
+      "text": "waarin de zodat belofte de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        168.0,
+        560.01,
+        493.92,
+        569.01
+      ],
+      "text": "regie digitale omgeving, samenleving",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        113.0,
+        561.01,
+        149.44,
+        567.01
+      ],
+      "text": "autonoom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        99.0,
+        562.0,
+        430.5,
+        567.0
+      ],
+      "text": "we voeren over onze we onze aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        501.0,
+        563.0,
+        503.5,
+        564.0
+      ],
+      "text": "—",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        158.0,
+        571.01,
+        260.64,
+        578.01
+      ],
+      "text": "kunnen waarmaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        571.01,
+        211.75,
+        580.01
+      ],
+      "text": "vandaag blijven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.0,
+        573.0,
+        112.0,
+        578.0
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        573.01,
+        142.71,
+        580.01
+      ],
+      "text": "morgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        150.0,
+        574.0,
+        152.5,
+        575.0
+      ],
+      "text": "—",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        159.0,
+        592.01,
+        495.0,
+        599.01
+      ],
+      "text": "voldoende soeverein in de komende maanden in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        328.0,
+        592.01,
+        338.4,
+        600.01
+      ],
+      "text": "zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        83.0,
+        592.01,
+        371.12,
+        601.01
+      ],
+      "text": "termijn digitaal bepalen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        593.01,
+        269.56,
+        599.01
+      ],
+      "text": "De autonoom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        146.0,
+        594.0,
+        385.33,
+        599.0
+      ],
+      "text": "we en we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        114.0,
+        594.01,
+        138.86,
+        601.01
+      ],
+      "text": "waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        120.0,
+        603.01,
+        321.14,
+        610.01
+      ],
+      "text": "SZW basis andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        260.0,
+        603.01,
+        276.67,
+        611.01
+      ],
+      "text": "input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        603.01,
+        470.91,
+        612.01
+      ],
+      "text": "overleg analyses, organisaties marktontwikkelingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        102.0,
+        604.01,
+        113.25,
+        610.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        173.0,
+        605.0,
+        383.0,
+        610.0
+      ],
+      "text": "van onze en van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        140.0,
+        605.01,
+        146.0,
+        612.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        90.0,
+        624.01,
+        152.25,
+        631.01
+      ],
+      "text": "doen dan als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        625.01,
+        173.75,
+        631.01
+      ],
+      "text": "Wat UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        112.0,
+        626.0,
+        120.0,
+        631.0
+      ],
+      "text": "we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        107.0,
+        635.01,
+        511.33,
+        642.01
+      ],
+      "text": "als het autonomie iedereen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        402.0,
+        635.01,
+        453.56,
+        643.01
+      ],
+      "text": "soevereiniteit,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        142.0,
+        635.01,
+        339.78,
+        644.01
+      ],
+      "text": "duidelijke gebied digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        636.01,
+        476.0,
+        642.01
+      ],
+      "text": "We UWV zetten want",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        183.0,
+        636.01,
+        210.13,
+        644.01
+      ],
+      "text": "stappen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        298.0,
+        637.0,
+        396.0,
+        642.0
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        86.0,
+        637.01,
+        249.0,
+        644.01
+      ],
+      "text": "gaan op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        234.0,
+        646.01,
+        255.5,
+        652.01
+      ],
+      "text": "IT. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        94.0,
+        646.01,
+        278.14,
+        653.01
+      ],
+      "text": "kunnen én risico",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        349.0,
+        646.01,
+        405.25,
+        655.01
+      ],
+      "text": "afhankelijkheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        647.01,
+        454.25,
+        653.01
+      ],
+      "text": "moet vertrouwen te externe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        326.0,
+        647.01,
+        488.44,
+        655.01
+      ],
+      "text": "grote partners",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        185.0,
+        648.0,
+        517.5,
+        653.0
+      ],
+      "text": "ons onze van een van nemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        173.0,
+        648.01,
+        179.67,
+        655.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        82.0,
+        655.01,
+        87.33,
+        667.01
+      ],
+      "text": "al",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        135.0,
+        657.01,
+        498.63,
+        664.01
+      ],
+      "text": "in beleid. de dat zoals kritischer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        189.0,
+        657.01,
+        457.8,
+        665.01
+      ],
+      "text": "Echter, UWV,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        93.0,
+        657.01,
+        412.5,
+        666.01
+      ],
+      "text": "jaren huidige ontwikkelingen organisaties,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        659.0,
+        154.5,
+        664.0
+      ],
+      "text": "we mee ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        323.0,
+        659.01,
+        345.29,
+        666.01
+      ],
+      "text": "zorgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        116.0,
+        667.01,
+        330.0,
+        674.01
+      ],
+      "text": "onder andere de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        180.0,
+        667.01,
+        225.5,
+        675.01
+      ],
+      "text": "architectuur,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        667.01,
+        505.2,
+        676.01
+      ],
+      "text": "kijken lopende afhankelijkheid technologieleveranciers.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        171.0,
+        668.01,
+        175.67,
+        674.01
+      ],
+      "text": "IT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.0,
+        668.01,
+        305.69,
+        675.01
+      ],
+      "text": "initiatieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        97.0,
+        669.0,
+        408.75,
+        674.0
+      ],
+      "text": "naar en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        233.0,
+        678.01,
+        446.8,
+        685.01
+      ],
+      "text": "kunnen binnen het domein cruciaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        143.0,
+        678.01,
+        371.78,
+        687.01
+      ],
+      "text": "zelfstandig digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        679.01,
+        227.33,
+        685.01
+      ],
+      "text": "Het te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        679.01,
+        414.0,
+        686.01
+      ],
+      "text": "is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        200.0,
+        679.01,
+        218.0,
+        688.01
+      ],
+      "text": "veilig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.0,
+        680.0,
+        194.0,
+        685.0
+      ],
+      "text": "om en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        87.0,
+        680.01,
+        295.11,
+        687.01
+      ],
+      "text": "vermogen opereren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        146.0,
+        700.01,
+        439.54,
+        707.01
+      ],
+      "text": "de balans vinden het behouden de kwaliteit continuïteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        700.01,
+        175.0,
+        709.01
+      ],
+      "text": "hierbij juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        701.01,
+        259.29,
+        707.01
+      ],
+      "text": "We moeten tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        321.0,
+        702.0,
+        475.4,
+        707.0
+      ],
+      "text": "van en van onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        246.0,
+        711.01,
+        518.5,
+        718.01
+      ],
+      "text": "het versterken weerbaarheid. Dit realisme:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        711.01,
+        367.78,
+        720.01
+      ],
+      "text": "dienstverlening burgers bedrijven, digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        444.0,
+        712.01,
+        465.43,
+        720.01
+      ],
+      "text": "vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        133.0,
+        713.0,
+        479.0,
+        718.0
+      ],
+      "text": "aan en en van onze om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        196.0,
+        721.01,
+        513.18,
+        728.01
+      ],
+      "text": "onzekerheid. Ook het het versterken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        373.0,
+        721.01,
+        393.57,
+        730.01
+      ],
+      "text": "legacy",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        148.0,
+        722.01,
+        174.25,
+        728.01
+      ],
+      "text": "context",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        122.0,
+        722.01,
+        348.91,
+        729.01
+      ],
+      "text": "in vernieuwen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.0,
+        722.01,
+        287.43,
+        730.01
+      ],
+      "text": "vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        399.0,
+        722.01,
+        441.73,
+        731.01
+      ],
+      "text": "omgevingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        723.0,
+        455.0,
+        728.0
+      ],
+      "text": "we een van van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        84.0,
+        723.01,
+        115.11,
+        730.01
+      ],
+      "text": "opereren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        190.0,
+        732.01,
+        445.86,
+        739.01
+      ],
+      "text": "aandacht. combinatie de die worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        87.0,
+        732.01,
+        498.43,
+        741.01
+      ],
+      "text": "informatiebeveiliging taakstellingen gerealiseerd,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        231.0,
+        733.01,
+        413.71,
+        739.01
+      ],
+      "text": "In met moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        172.0,
+        733.01,
+        184.8,
+        740.01
+      ],
+      "text": "veel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        734.0,
+        80.5,
+        739.0
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        743.01,
+        476.0,
+        750.01
+      ],
+      "text": "zullen keuzes maken. de beste kost als het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.0,
+        743.01,
+        518.27,
+        752.01
+      ],
+      "text": "duidelijke uitwerking aanpak tijd verstandig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        181.0,
+        744.01,
+        250.67,
+        750.01
+      ],
+      "text": "moeten De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        96.0,
+        745.0,
+        460.33,
+        750.0
+      ],
+      "text": "we van maar we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        116.0,
+        754.01,
+        305.5,
+        761.01
+      ],
+      "text": "kan soevereiniteit ook leveren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        754.01,
+        491.24,
+        763.01
+      ],
+      "text": "aanpakken goede bijdrage bijvoorbeeld veiligheid kostenverlaging.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        205.0,
+        756.0,
+        425.0,
+        761.0
+      ],
+      "text": "een aan en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        812.01,
+        519.33,
+        819.01
+      ],
+      "text": "Versterken Autonomie & Soevereiniteit: in verbonden wereld zelf het 1van2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        116.0,
+        812.01,
+        141.78,
+        821.01
+      ],
+      "text": "digitale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        406.0,
+        813.01,
+        422.67,
+        819.01
+      ],
+      "text": "stuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        269.0,
+        814.0,
+        385.5,
+        819.0
+      ],
+      "text": "een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        91.0,
+        72.01,
+        386.75,
+        82.01
+      ],
+      "text": "de duiding digitale sluiten het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        73.01,
+        425.78,
+        82.01
+      ],
+      "text": "Voor European",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.0,
+        73.01,
+        473.17,
+        83.01
+      ],
+      "text": "concretisering soevereiniteit Sovereignty",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        134.0,
+        74.01,
+        371.67,
+        82.01
+      ],
+      "text": "en van we aan op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        83.01,
+        517.5,
+        93.01
+      ],
+      "text": "Framework hierbij maken gebruik de acht Sovereignty Objectives het SEAL-level Dit geeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        429.0,
+        84.01,
+        480.69,
+        93.01
+      ],
+      "text": "meetsysteem.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        175.0,
+        85.01,
+        364.67,
+        93.01
+      ],
+      "text": "we van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        115.0,
+        89.0,
+        116.0,
+        93.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        94.01,
+        486.43,
+        104.01
+      ],
+      "text": "richting bij het maken bewuste keuzes regie afhankelijkheden waarborgen in de digitale keten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        158.0,
+        96.01,
+        358.67,
+        104.01
+      ],
+      "text": "van over en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        278.0,
+        99.0,
+        279.0,
+        103.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        90.0,
+        115.01,
+        143.2,
+        125.01
+      ],
+      "text": "soevereiniteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        116.01,
+        83.5,
+        125.01
+      ],
+      "text": "Wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        186.0,
+        116.01,
+        219.78,
+        126.01
+      ],
+      "text": "betekent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        148.0,
+        117.01,
+        180.25,
+        125.01
+      ],
+      "text": "voor ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        137.0,
+        126.01,
+        519.07,
+        136.01
+      ],
+      "text": "digitale betekent dat alles zelf bouwen of afsluiten de buitenwereld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        127.01,
+        112.25,
+        136.01
+      ],
+      "text": "Het streven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.0,
+        127.01,
+        273.8,
+        137.01
+      ],
+      "text": "soevereiniteit niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        118.0,
+        128.01,
+        450.5,
+        136.01
+      ],
+      "text": "naar we ons van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        137.01,
+        515.3,
+        147.01
+      ],
+      "text": "zijn publieke dienstverlener proeftuin experimentele technologie. innovatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        138.01,
+        435.33,
+        147.01
+      ],
+      "text": "We grote We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        101.0,
+        139.01,
+        475.13,
+        147.01
+      ],
+      "text": "een geen voor omarmen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        233.0,
+        143.0,
+        234.0,
+        147.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        417.0,
+        148.01,
+        426.33,
+        157.01
+      ],
+      "text": "We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.0,
+        148.01,
+        516.75,
+        158.01
+      ],
+      "text": "het doelen dient nooit koste stabiliteit dienstverlening. wel dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        226.0,
+        149.01,
+        235.75,
+        158.01
+      ],
+      "text": "ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        150.01,
+        501.4,
+        158.01
+      ],
+      "text": "waar onze maar van onze en zorgen er voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        177.0,
+        153.0,
+        178.0,
+        157.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        84.0,
+        159.01,
+        474.93,
+        169.01
+      ],
+      "text": "de formele controle zeggenschap versterken data applicaties de onderliggende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        161.01,
+        405.67,
+        169.01
+      ],
+      "text": "we en over onze onze en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        329.0,
+        164.0,
+        330.0,
+        168.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        169.01,
+        123.44,
+        179.01
+      ],
+      "text": "infrastructuur.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        168.0,
+        191.01,
+        468.75,
+        201.01
+      ],
+      "text": "digitale autonomie. betekent keuzevrijheid. Oftewel dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        192.01,
+        256.5,
+        201.01
+      ],
+      "text": "Daarom streven Dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        135.0,
+        193.01,
+        509.56,
+        201.01
+      ],
+      "text": "we naar voor ons: we vermogen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        426.0,
+        197.0,
+        427.0,
+        201.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        364.0,
+        202.01,
+        374.5,
+        211.01
+      ],
+      "text": "Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        202.01,
+        521.2,
+        212.01
+      ],
+      "text": "hebben zelfstandig beslissingen digitale toekomst. betekent dat niet afhankelijk zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        212.0,
+        203.01,
+        217.33,
+        212.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        102.0,
+        204.01,
+        441.0,
+        212.01
+      ],
+      "text": "om nemen over onze we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        213.01,
+        510.2,
+        223.01
+      ],
+      "text": "één leverancier cruciale mogelijk diversifiëren de wendbaarheid verhogen door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        215.01,
+        381.67,
+        223.01
+      ],
+      "text": "van voor processen maar waar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        240.0,
+        218.0,
+        241.0,
+        222.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        257.0,
+        223.01,
+        308.33,
+        233.01
+      ],
+      "text": "of af",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        91.0,
+        224.01,
+        511.33,
+        233.01
+      ],
+      "text": "systemen te systemen te te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        131.0,
+        224.01,
+        500.5,
+        234.01
+      ],
+      "text": "portabel maken diensten die vervangbaar zijn. Belangrijk daarbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        225.01,
+        346.33,
+        233.01
+      ],
+      "text": "onze en nemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.0,
+        234.01,
+        516.75,
+        244.01
+      ],
+      "text": "dat (internationale) leveranciers steeds als waardevolle blijven ook dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        384.0,
+        235.01,
+        413.33,
+        244.01
+      ],
+      "text": "partners",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        105.0,
+        235.01,
+        460.8,
+        245.01
+      ],
+      "text": "is wij zien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        236.01,
+        484.8,
+        244.01
+      ],
+      "text": "noemen onze nog maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        464.0,
+        240.0,
+        465.0,
+        244.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        245.01,
+        477.78,
+        255.01
+      ],
+      "text": "wij het noodzakelijk vinden de vrijheid hebben eigen keuzes maken. Op deze wijze beperken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        238.0,
+        246.01,
+        352.33,
+        255.01
+      ],
+      "text": "te te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        180.0,
+        247.01,
+        491.0,
+        255.01
+      ],
+      "text": "om om we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        256.01,
+        484.56,
+        266.01
+      ],
+      "text": "vendor lock-in kunnen laten draaien kerntaak vervullen in overeenstemming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        207.0,
+        257.01,
+        503.0,
+        266.01
+      ],
+      "text": "systemen met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        129.0,
+        258.01,
+        327.2,
+        266.01
+      ],
+      "text": "en we onze en onze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        267.01,
+        102.89,
+        276.01
+      ],
+      "text": "Europese",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        109.0,
+        267.01,
+        349.06,
+        277.01
+      ],
+      "text": "waarden wetgeving ongeacht geopolitieke ontwikkelingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        145.0,
+        269.01,
+        151.67,
+        277.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        197.0,
+        272.0,
+        198.0,
+        276.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        111.0,
+        288.01,
+        227.57,
+        298.01
+      ],
+      "text": "niet alleen leren al doende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        289.01,
+        105.17,
+        298.01
+      ],
+      "text": "We staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        156.0,
+        290.01,
+        162.67,
+        298.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        299.01,
+        484.67,
+        309.01
+      ],
+      "text": "Wij niet alleen dit dilemma kunnen het ook niet alleen oplossen. werken de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        300.01,
+        407.43,
+        309.01
+      ],
+      "text": "staan Daarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        153.0,
+        301.01,
+        472.4,
+        309.01
+      ],
+      "text": "voor en we voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        505.0,
+        310.01,
+        510.33,
+        319.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        310.01,
+        469.75,
+        320.01
+      ],
+      "text": "uitwerking de andere overheidspartijen de organisaties in de commerciële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        166.0,
+        311.01,
+        500.62,
+        320.01
+      ],
+      "text": "met experts sector.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        114.0,
+        312.01,
+        335.67,
+        320.01
+      ],
+      "text": "nauw samen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        294.0,
+        315.0,
+        295.0,
+        319.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        321.01,
+        511.5,
+        331.01
+      ],
+      "text": "het bijzonder werken ketenpartners het maken de keten die verbindt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        169.0,
+        322.01,
+        361.44,
+        331.01
+      ],
+      "text": "met autonoom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        156.0,
+        323.01,
+        474.5,
+        331.01
+      ],
+      "text": "we onze samen aan van ons",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        332.01,
+        499.0,
+        341.01
+      ],
+      "text": "Daarnaast met UWV gaat UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.0,
+        332.01,
+        479.75,
+        342.01
+      ],
+      "text": "is SBK bezig de herijking het Rijksbreed Cloudbeleid ook onder vallen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        226.0,
+        333.01,
+        368.0,
+        341.01
+      ],
+      "text": "van waar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        348.0,
+        337.0,
+        349.0,
+        341.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        93.0,
+        342.01,
+        512.53,
+        352.01
+      ],
+      "text": "daarom impactanalyse dit cloudbeleid. dragen bij de Nederlandse Digitalisering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        343.01,
+        324.9,
+        352.01
+      ],
+      "text": "voert Daarnaast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        201.0,
+        343.01,
+        209.25,
+        353.01
+      ],
+      "text": "uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        125.0,
+        344.01,
+        396.25,
+        352.01
+      ],
+      "text": "een op we aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        353.01,
+        505.75,
+        363.01
+      ],
+      "text": "Strategie (NDS). Interbestuurlijke samenwerking is essentieel omdat betrouwbare gezamenlijk belang is.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        396.0,
+        354.01,
+        400.67,
+        363.01
+      ],
+      "text": "IT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        405.0,
+        355.01,
+        416.25,
+        363.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        311.0,
+        359.0,
+        312.0,
+        363.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        375.01,
+        79.33,
+        384.01
+      ],
+      "text": "We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        86.0,
+        375.01,
+        508.8,
+        385.01
+      ],
+      "text": "leren elkaar bouwen toekomst waarin het zitten in verbonden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        108.0,
+        376.01,
+        415.5,
+        385.01
+      ],
+      "text": "met autonoom stuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        152.0,
+        377.01,
+        466.25,
+        385.01
+      ],
+      "text": "en zo aan een we aan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        161.0,
+        385.01,
+        186.38,
+        395.01
+      ],
+      "text": "belofte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        386.01,
+        409.88,
+        396.01
+      ],
+      "text": "wereld. Zodat de samenleving kunnen blijven waarmaken vandaag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        126.0,
+        387.01,
+        456.87,
+        395.01
+      ],
+      "text": "we onze aan en morgen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        377.0,
+        391.0,
+        378.0,
+        395.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        811.01,
+        400.75,
+        821.01
+      ],
+      "text": "Versterken digitale Autonomie Soevereiniteit: in verbonden wereld zelf het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        406.0,
+        812.01,
+        423.5,
+        821.01
+      ],
+      "text": "stuur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        192.0,
+        812.01,
+        522.0,
+        822.01
+      ],
+      "text": "& 2 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        269.0,
+        813.01,
+        513.5,
+        821.01
+      ],
+      "text": "een aan van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        90.0,
+        81.0,
+        299.0,
+        99.0
+      ],
+      "text": "Toelichting grondslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        113.0,
+        467.43,
+        123.0
+      ],
+      "text": "In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        123.0,
+        504.11,
+        133.0
+      ],
+      "text": "achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        133.0,
+        412.43,
+        143.0
+      ],
+      "text": "correspondeert met de bijbehorende grondslag in onderstaand overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        93.33,
+        155.0,
+        202.72,
+        167.0
+      ],
+      "text": "J Art. 5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        171.0,
+        496.95,
+        181.0
+      ],
+      "text": "Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        181.0,
+        377.97,
+        191.0
+      ],
+      "text": "de eerbiediging van de persoonlijke levenssfeer van betrokkenen",
+      "source": "text"
+    }
+  ]
+}
