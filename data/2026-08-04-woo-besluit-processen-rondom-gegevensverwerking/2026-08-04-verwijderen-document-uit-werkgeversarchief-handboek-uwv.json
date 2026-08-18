@@ -1,0 +1,641 @@
+{
+  "source_id": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwijderen-document-uit-werkgeversarchief-handboek-uwv",
+  "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_slug": "2026-08-04-verwijderen-document-uit-werkgeversarchief-handboek-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/e38de6dd-356c-4440-a34b-9dc90f2df13a/verwijderen-document-uit-werkgeversarchief-handboek-uwv.pdf",
+  "publication_title": "Woo-besluit over processen rondom gegevensverwerking",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handboek Verwijderen document uit werkgeversarchief (PDF, 780 kB)",
+  "retrieved_at": "2026-08-18T06:34:49+00:00",
+  "sha256": "d4298ba848303c1e0bd5a085fb7c3ad20e8934535314fd6b5f446cd47c3b4f59",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        417.89,
+        170.01
+      ],
+      "text": "Home » Proces Backoffice ZW » EA/Verkenner » Verwijderen document uit werkgeversarchief",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        332.02,
+        304.33,
+        355.02
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        474.38,
+        406.02
+      ],
+      "text": "Verwijderen document uit werkgeversarchief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        410.01,
+        115.09,
+        424.01
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        430.01,
+        612.0,
+        445.01
+      ],
+      "text": "Een document is in EA niet aan de juiste werkgever gekoppeld of is ten onrechte aan een werkgever gekoppeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        460.01,
+        84.4,
+        474.01
+      ],
+      "text": "Doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        480.01,
+        593.0,
+        495.01
+      ],
+      "text": "Een document dat in EA gekoppeld is aan een (verkeerde) werkgever verwijderen uit het werkgeversarchief.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        511.01,
+        141.94,
+        525.01
+      ],
+      "text": "Functionarissen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        531.01,
+        151.0,
+        546.01
+      ],
+      "text": "AM , MVB , UD , MU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        561.01,
+        108.67,
+        575.01
+      ],
+      "text": "Gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        581.01,
+        260.3,
+        596.01
+      ],
+      "text": "Documenten uit het archief verwijderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        611.01,
+        110.55,
+        625.01
+      ],
+      "text": "Instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        654.01,
+        266.33,
+        668.01
+      ],
+      "text": "1. Verkeerd gekoppeld document",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        117.0,
+        674.01,
+        198.33,
+        689.01
+      ],
+      "text": "AM , MVB , UD , MU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        705.01,
+        329.0,
+        720.01
+      ],
+      "text": "Beoordeel welke situatie van toepassing is:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        735.01,
+        730.0,
+        750.01
+      ],
+      "text": "Het document is gekoppeld aan de verkeerde werkgever en het document hoeft niet gekoppeld te worden aan een andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        740.02,
+        122.0,
+        756.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        755.01,
+        181.09,
+        770.01
+      ],
+      "text": "werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        774.01,
+        204.67,
+        789.01
+      ],
+      "text": "Ga naar stap 2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        794.01,
+        689.09,
+        809.01
+      ],
+      "text": "Het document is gekoppeld aan de verkeerde werkgever en moet nog gekoppeld worden aan de juiste werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        798.02,
+        122.0,
+        814.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        813.01,
+        204.67,
+        828.01
+      ],
+      "text": "Ga naar stap 3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        833.01,
+        286.33,
+        847.01
+      ],
+      "text": "2 Document laten verwijderen uit EA",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        117.0,
+        853.01,
+        198.33,
+        868.01
+      ],
+      "text": "AM , MVB , UD , MU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        884.01,
+        748.6,
+        899.01
+      ],
+      "text": "Open EA. Geef vervolgens het loonheffingennummer op bij ‘Alle documenten LHN’. Zoek vervolgens het document waar het over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        903.01,
+        138.67,
+        918.01
+      ],
+      "text": "gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        923.01,
+        694.5,
+        938.01
+      ],
+      "text": "Laat het document door DIV verwijderen. Volg hiervoor de handleiding van DIV voor het herindexeren/verwijderen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        942.01,
+        380.0,
+        957.01
+      ],
+      "text": "gearchiveerde documenten in EA (Handleiding EAED).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        972.01,
+        162.0,
+        986.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        169.0,
+        973.01,
+        656.2,
+        988.01
+      ],
+      "text": "Voordat je de e-mail verstuurt , voeg je bovenaan in de e-mail die wordt klaargezet het volgende toe:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        992.01,
+        695.16,
+        1006.01
+      ],
+      "text": "‘Dit document is ten onrechte gekoppeld aan een werkgever en moet verwijderd worden uit het werkgeversarchief’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        1023.01,
+        223.75,
+        1038.01
+      ],
+      "text": "Je verstuurt de e-mail.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        1054.01,
+        338.42,
+        1069.02
+      ],
+      "text": "DIV zorgt dat het document wordt verwijderd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        1085.02,
+        192.84,
+        1100.02
+      ],
+      "text": "Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        52.01,
+        441.34,
+        66.01
+      ],
+      "text": "3. Het document om laten hangen naar juiste loonheffingennummer",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        117.0,
+        72.02,
+        198.33,
+        87.02
+      ],
+      "text": "AM , MVB , UD , MU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        103.02,
+        748.6,
+        118.02
+      ],
+      "text": "Open EA. Geef vervolgens het loonheffingennummer op bij ‘Alle documenten LHN’. Zoek vervolgens het document waar het over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        123.02,
+        138.67,
+        138.02
+      ],
+      "text": "gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        153.02,
+        557.0,
+        168.01
+      ],
+      "text": "Je bepaalt aan welk loonheffingennummer het document wel gekoppeld moet worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.0,
+        158.02,
+        122.0,
+        174.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        173.01,
+        742.0,
+        188.01
+      ],
+      "text": "Laat het document door DIV omhangen naar het juiste loonheffingennummer. Volg hiervoor de handleiding van DIV voor het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.0,
+        177.02,
+        122.0,
+        193.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        192.01,
+        545.0,
+        207.01
+      ],
+      "text": "herindexeren/verwijderen van gearchiveerde documenten in EA (Handleiding EAED).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        226.01,
+        162.0,
+        240.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        169.0,
+        227.01,
+        656.2,
+        242.01
+      ],
+      "text": "Voordat je de e-mail verstuurt , voeg je bovenaan in de e-mail die wordt klaargezet het volgende toe:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        246.01,
+        755.2,
+        260.01
+      ],
+      "text": "‘Dit document is gekoppeld aan een verkeerde werkgever en moet worden omgehangen naar loonheffingennummer:’geef < hier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        265.01,
+        317.5,
+        279.01
+      ],
+      "text": "het nieuwe loonheffingennummer op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        314.0,
+        266.01,
+        317.0,
+        281.01
+      ],
+      "text": ">",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        297.01,
+        223.75,
+        312.01
+      ],
+      "text": "Je verstuurt de e-mail.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        327.01,
+        475.09,
+        342.01
+      ],
+      "text": "DIV zorgt dat het document wordt omgehangen naar de juiste werkgever.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        358.01,
+        192.84,
+        373.01
+      ],
+      "text": "Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        401.01,
+        150.32,
+        416.01
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    }
+  ]
+}

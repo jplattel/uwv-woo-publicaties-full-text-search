@@ -1,0 +1,2981 @@
+{
+  "source_id": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-acties-met-documenten-uitvoeren-handboek-uwv",
+  "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_slug": "2026-08-04-acties-met-documenten-uitvoeren-handboek-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/6298a3af-e0ea-438e-b8a4-3180d9c55f55/acties-met-documenten-uitvoeren-handboek-uwv.pdf",
+  "publication_title": "Woo-besluit over processen rondom gegevensverwerking",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handboek Acties met documenten uitvoeren (PDF, 4 MB)",
+  "retrieved_at": "2026-08-18T06:34:17+00:00",
+  "sha256": "d1ef7080d7baace0a3c099cbf900c3fc1ed5e49bebbfab87e059fb4e05146c08",
+  "page_count": 6,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        284.3,
+        170.01
+      ],
+      "text": "Home » Handleiding EA » Acties met documenten uitvoeren",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        336.03,
+        230.33,
+        364.03
+      ],
+      "text": "Handleiding EA",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        383.02,
+        117.43,
+        408.02
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        400.01,
+        746.0,
+        415.01
+      ],
+      "text": "Met de documenten in het zoekresultaat kun je verschillende acties uitvoeren. Welke acties beschikbaar zijn , hangt af van je selectie en je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        419.01,
+        589.1,
+        434.01
+      ],
+      "text": "rechten. Sommige acties zijn alleen beschikbaar voor 1 document , andere voor meer documenten tegelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        735.01,
+        587.0,
+        750.01
+      ],
+      "text": "Van 1 document kun je de informatie mailen. Een groep documenten kun je als 1 document doorbladeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        754.01,
+        769.5,
+        769.01
+      ],
+      "text": "Als je voor bepaalde documenten geen rechten hebt , kan de actie niet worden uitgevoerd. Je mag de actie met die documenten niet uitvoeren ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        774.01,
+        280.43,
+        789.01
+      ],
+      "text": "medische verslagen afdrukken bijvoorbeeld.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        824.02,
+        127.72,
+        849.02
+      ],
+      "text": "Openen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        841.01,
+        768.0,
+        856.01
+      ],
+      "text": "Met ‘Openen’ bekijk je de selectie van een of meer documenten met Adobe Acrobat Reader in afzonderlijke vensters. Documenten waarvoor je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        220.0,
+        859.01,
+        235.2,
+        873.01
+      ],
+      "text": "niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        860.01,
+        762.0,
+        875.01
+      ],
+      "text": "geen rechten hebt , verschijnen in een afzonderlijk venster. De actie ‘Openen’ is in dat geval uitgegrijsd. In de afzonderlijke vensters kun je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        880.01,
+        261.27,
+        895.01
+      ],
+      "text": "de functies van Adobe verder gebruiken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        925.02,
+        132.67,
+        946.02
+      ],
+      "text": "Vensters",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        944.01,
+        271.5,
+        959.01
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        948.02,
+        71.0,
+        964.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        964.01,
+        229.4,
+        979.01
+      ],
+      "text": "Je klikt op ‘Acties’ en ‘Openen’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        968.02,
+        71.0,
+        984.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        240.0,
+        982.01,
+        251.25,
+        996.01
+      ],
+      "text": "(B)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        983.01,
+        502.0,
+        998.01
+      ],
+      "text": "Je schuift het bovenste venster opzij om het volgende venster in de stapel te zien.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        190.0,
+        1002.01,
+        202.0,
+        1016.01
+      ],
+      "text": "(A)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1003.01,
+        530.09,
+        1018.01
+      ],
+      "text": "Het volgende scherm kun je ook verschuiven voor het document daaronder , enzovoorts.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.0,
+        258.02,
+        294.12,
+        279.02
+      ],
+      "text": "Knoppenbalk Adobe venster",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        277.01,
+        710.7,
+        292.01
+      ],
+      "text": "Als je de muis over het venster beweegt , verschijnt de knoppenbalk van Adobe in het venster. Deze balk biedt de volgende functies:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        308.01,
+        281.4,
+        323.01
+      ],
+      "text": "Je klikt in een van de geopende vensters.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        312.02,
+        71.0,
+        328.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        328.01,
+        258.09,
+        343.01
+      ],
+      "text": "Het venster komt naar de voorgrond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        347.01,
+        270.67,
+        362.01
+      ],
+      "text": "Je beweegt met de muis in het venster.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        351.02,
+        71.0,
+        367.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        367.01,
+        227.85,
+        382.01
+      ],
+      "text": "Er verschijnt een knoppenbalk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        401.01,
+        297.94,
+        416.01
+      ],
+      "text": "De knoppen bieden je de nodige mogelijkheden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        431.01,
+        368.25,
+        445.01
+      ],
+      "text": "1. Opslaan (1)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        432.01,
+        670.9,
+        447.01
+      ],
+      "text": "Met ‘Een kopie opslaan’ bewaar je een kopie van het document op je eigen computer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        450.01,
+        327.25,
+        464.01
+      ],
+      "text": "2. Afdrukken (2)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        451.01,
+        704.1,
+        466.01
+      ],
+      "text": "Met ‘Afdrukken’ druk je het document af , net als met de Afdrukken document onder ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        470.01,
+        332.25,
+        484.01
+      ],
+      "text": "3. Bladeren (3)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        471.01,
+        640.38,
+        486.01
+      ],
+      "text": "Met deze pijltjes spring je naar de bovenkant van de vorige of volgende pagina.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        489.01,
+        318.25,
+        503.01
+      ],
+      "text": "4. Pagina (4)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        490.01,
+        736.86,
+        505.01
+      ],
+      "text": "Deze getallen tonen waar je bent in het document. Links staathet paginanummer , rechts het totale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        510.01,
+        715.3,
+        525.01
+      ],
+      "text": "aantal pagina’s. Je kunt het paginanummer veranderen om direct naar die pagina toe te springen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        528.01,
+        373.25,
+        542.01
+      ],
+      "text": "5. Zoomen (5)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        529.01,
+        719.5,
+        544.01
+      ],
+      "text": "Met de plus- en minknop zoom je in en uit. Dat kan handig zijn bijvoorbeeld bij slecht leesbare ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        549.01,
+        396.3,
+        564.01
+      ],
+      "text": "geschreven tekst op formulieren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        73.0,
+        567.01,
+        324.25,
+        581.01
+      ],
+      "text": "6. Bewerken (6)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        237.0,
+        568.01,
+        654.46,
+        583.01
+      ],
+      "text": "Met deze knop open je de werkbalken van Adobe. Zie echter de ‘Let op’ hieronder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        599.01,
+        751.0,
+        614.01
+      ],
+      "text": "Let op: Je verandert alleen de weergave op je scherm , het document zelf verandert niet ; de inhoud en opmaak blijven altijd gelijk aan het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        619.01,
+        766.33,
+        634.01
+      ],
+      "text": "gearchiveerde document. Omdat je archiefstukken niet mag wijzigen , werken de knoppen voor ‘Bewerken’ in deze werkbalken dan ook niet!",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.0,
+        680.02,
+        704.72,
+        705.02
+      ],
+      "text": "E-mailen van documentinformatie (voor verwijderen en herindexeren)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        697.01,
+        389.57,
+        712.01
+      ],
+      "text": "Een document kan op de volgende manieren verkeerd in EA staan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        728.01,
+        215.57,
+        743.01
+      ],
+      "text": "Het hoort er niet in te staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        732.02,
+        71.0,
+        748.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        256.0,
+        747.01,
+        508.41,
+        761.01
+      ],
+      "text": "(klasse[1] BSN of loonheffingennummer[2])",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        748.01,
+        338.5,
+        763.01
+      ],
+      "text": "Het heeft een onjuiste classificatie , AOS ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        752.02,
+        71.0,
+        768.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        767.01,
+        397.89,
+        782.01
+      ],
+      "text": "Het is samen met een ander document als 1 document gescand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        771.02,
+        71.0,
+        787.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        787.01,
+        315.18,
+        802.01
+      ],
+      "text": "Het is verkeerd in afzonderlijke delen opgeknipt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        791.02,
+        71.0,
+        807.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        821.01,
+        674.0,
+        836.01
+      ],
+      "text": "Als dat zo is , laat je het document verwijderen of herindexeren door iemand die daar rechten voor heeft. Dit doe je als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        852.01,
+        197.6,
+        867.01
+      ],
+      "text": "Selecteer het document.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        856.02,
+        71.0,
+        872.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        871.01,
+        321.61,
+        886.01
+      ],
+      "text": "Klik op ‘Acties’ en ‘Emailen document informatie’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        875.02,
+        71.0,
+        891.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.0,
+        891.01,
+        325.62,
+        906.01
+      ],
+      "text": "Klik op ‘Toestaan’ , als Windows daarom vraagt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        83.0,
+        895.02,
+        86.0,
+        911.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.0,
+        910.01,
+        486.2,
+        925.01
+      ],
+      "text": "Als je deze vraag niet meer wilt krijgen , haal je het vinkje bij ‘Altijd vragen…’ weg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        83.0,
+        914.02,
+        86.0,
+        930.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        324.0,
+        942.01,
+        331.33,
+        954.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        945.01,
+        622.08,
+        960.01
+      ],
+      "text": "Beantwoord de vragen onder ‘Verwijderen uit EA’ ‘Herindexeren (kenmerken van het document aanpassen)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        949.02,
+        71.0,
+        965.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        978.01,
+        111.0,
+        992.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        118.0,
+        979.01,
+        761.54,
+        994.01
+      ],
+      "text": "Beantwoord alleen de vragen. Verander niets aan de andere informatie die ICN voor je in de e-mail heeft gezet. Extra mededelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        320.0,
+        998.01,
+        590.0,
+        1012.01
+      ],
+      "text": "Wil je aanvullende informatie kwijt , vul het hieronder in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        999.01,
+        313.71,
+        1014.01
+      ],
+      "text": "vul je onderaan het formulier in onder het kopje:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        1018.01,
+        172.39,
+        1033.01
+      ],
+      "text": "Klik op ‘Verzenden’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        68.0,
+        1022.02,
+        71.0,
+        1038.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        1053.01,
+        757.0,
+        1068.02
+      ],
+      "text": "Een WIA-herclassificeerder of medewerker van Archiefbeheer verwijdert of herindexeert het document de volgende werkdag. Je krijgt een e-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        1072.02,
+        284.92,
+        1087.02
+      ],
+      "text": "mail met een bevestiging van de aanpassing.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        66.0,
+        1122.03,
+        266.44,
+        1147.03
+      ],
+      "text": "Verwijderen document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        1139.02,
+        429.25,
+        1154.02
+      ],
+      "text": "Kies je voor de actie ‘Verwijderen document’ , dan verschijnt er een pop-up.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        1159.02,
+        519.38,
+        1174.02
+      ],
+      "text": "Beantwoord in de pop-up de vragen onder ‘Verwijderen uit EA’. Beantwoord alleen de vragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        52.02,
+        598.5,
+        67.02
+      ],
+      "text": "Je kunt aanvullende informatie geven onder de kop ‘Wil je aanvullende informatie kwijt , vul het hieronder in. ’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        72.02,
+        159.17,
+        87.02
+      ],
+      "text": "Klik daarna op ‘OK’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        91.02,
+        643.3,
+        106.02
+      ],
+      "text": "Hierna wordt automatisch een e-mail verzonden aan Archiefbeheer met het verzoek om het document te verwijderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.0,
+        121.01,
+        111.0,
+        135.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        118.0,
+        122.02,
+        728.06,
+        137.02
+      ],
+      "text": "Deze e-mail komt niet in je verzonden items. Het veld ‘Status van document’ wordt bij het indienen van een verwijderverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.0,
+        142.02,
+        371.5,
+        157.02
+      ],
+      "text": "gewijzigd van: ‘Definitief’ naar ‘Verwijderverzoek ingediend’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        172.01,
+        770.8,
+        187.01
+      ],
+      "text": "Archiefbeheer pakt het verwijderverzoek binnen 1 dag op enzet de status op ‘Verwijderen’. Dan is het document in ieder geval niet meer te zien",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        192.01,
+        741.92,
+        207.01
+      ],
+      "text": "in het cliëntportaal. Binnen 4 weken wordt het document echt verwijderd. Je ontvangt een e-mail met een bevestiging van de aanpassing.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.0,
+        242.02,
+        280.44,
+        267.02
+      ],
+      "text": "Herindexeren document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        259.01,
+        437.25,
+        274.01
+      ],
+      "text": "Kies je voor de actie ‘Herindexeren document’ , dan verschijnt er een pop-up.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        279.01,
+        711.38,
+        294.01
+      ],
+      "text": "Beantwoord in de pop-up de vragen onder ‘Herindexeren (kenmerken van het document aanpassen)’. Beantwoord alleen de vragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        298.01,
+        598.5,
+        313.01
+      ],
+      "text": "Je kunt aanvullende informatie geven onder de kop ‘Wil je aanvullende informatie kwijt , vul het hieronder in. ’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        318.01,
+        159.17,
+        333.01
+      ],
+      "text": "Klik daarna op ‘OK’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        337.01,
+        650.14,
+        352.01
+      ],
+      "text": "Hierna wordt automatisch een e-mail verzonden aan Archiefbeheer met het verzoek om het document te herindexeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.0,
+        367.01,
+        111.0,
+        381.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        118.0,
+        368.01,
+        333.57,
+        383.01
+      ],
+      "text": "Deze e-mail komt niet in je verzonden items.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        399.01,
+        697.92,
+        414.01
+      ],
+      "text": "Archiefbeheer herindexeert het document de volgende werkdag. Je ontvangt een e-mail met een bevestiging van de aanpassing.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.0,
+        449.02,
+        131.62,
+        474.02
+      ],
+      "text": "Preview",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        466.01,
+        768.67,
+        481.01
+      ],
+      "text": "Met ‘Preview’ bekijk je 1 of meer documenten in 1 venster , de EA Viewer. Je zet de geselecteerde documenten op afzonderlijke tabbladen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        485.01,
+        732.0,
+        500.01
+      ],
+      "text": "EA Viewer. Het venster van de EA Viewer kun je splitsen. Dat schept extra mogelijkheden bij het raadplegen van documenten , die je met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        505.01,
+        631.0,
+        520.01
+      ],
+      "text": "Openen niet hebt. In de EA Viewer kun je makkelijk documenten vergelijken en de lijst met resultaten doorbladeren.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        66.0,
+        550.02,
+        142.71,
+        571.02
+      ],
+      "text": "EA Viewer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.0,
+        580.01,
+        271.5,
+        595.01
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        68.0,
+        584.02,
+        71.0,
+        600.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.0,
+        600.01,
+        230.73,
+        615.01
+      ],
+      "text": "Je klikt op ‘Acties’ en ‘Preview’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        68.0,
+        604.02,
+        71.0,
+        620.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        81.0,
+        619.01,
+        501.18,
+        634.01
+      ],
+      "text": "De EA Viewer verschijnt in je browser met de documenten op afzonderlijke tabbladen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        878.01,
+        591.25,
+        892.01
+      ],
+      "text": "1. Tabbladen (1)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        879.01,
+        726.2,
+        894.01
+      ],
+      "text": "De geselecteerde documenten verschijnen in 1 venster op tabbladen met de namen van de twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        898.01,
+        408.11,
+        913.01
+      ],
+      "text": "zichtbare tabbladen in vette letters.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        917.01,
+        550.4,
+        931.01
+      ],
+      "text": "2. Adobebalk (2).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        918.01,
+        528.0,
+        933.01
+      ],
+      "text": "De EA Viewer heeft dezelfde functies als de Acrobat Reader",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        936.01,
+        554.4,
+        950.01
+      ],
+      "text": "3. Pagina (3).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        937.01,
+        532.0,
+        952.01
+      ],
+      "text": "Je splitst het venster in twee helften met dezelfde tabbladen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        956.01,
+        543.25,
+        970.01
+      ],
+      "text": "4. Scrollen (4)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        957.01,
+        755.67,
+        972.01
+      ],
+      "text": "Je kunt de tekst in beide schermdelen afzonderlijk scrollen , zodat je verschillende stukken tekst op de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        976.01,
+        402.6,
+        991.01
+      ],
+      "text": "zichtbare tabbladen kunt bekijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        995.01,
+        596.4,
+        1009.01
+      ],
+      "text": "5. Document 2 (5).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        996.01,
+        574.34,
+        1011.01
+      ],
+      "text": "Je ziet in de andere helft een ander tabblad met een ander document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        1015.01,
+        602.75,
+        1030.01
+      ],
+      "text": "Je kunt ook het tabblad met hetzelfde document in die andere helft zetten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        73.0,
+        1034.01,
+        394.25,
+        1048.01
+      ],
+      "text": "6. Weergavebalk (6)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        1035.01,
+        546.38,
+        1050.01
+      ],
+      "text": "Je kiest met de knoppenbalk een weergave in de EA Viewer.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        66.0,
+        245.02,
+        173.45,
+        266.02
+      ],
+      "text": "Extra functies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        681.0,
+        264.01,
+        692.25,
+        278.01
+      ],
+      "text": "(1)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        265.01,
+        769.67,
+        280.01
+      ],
+      "text": "Met de actie ‘Preview’ open je de selectie in de EA Viewer. Alle geselecteerde documenten staan op afzonderlijke tabbladen in 1 venster. Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        284.01,
+        759.0,
+        299.01
+      ],
+      "text": "kunt dat venster splitsen. Een gesplitst venster biedt je extra mogelijkheden bij het raadplegen van documenten. Het splitsen kun je opheffen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        183.0,
+        303.01,
+        197.4,
+        317.01
+      ],
+      "text": "(2).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        304.01,
+        176.0,
+        319.01
+      ],
+      "text": "met de knop tabbladen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        353.02,
+        172.91,
+        371.02
+      ],
+      "text": "Tekst vergelijken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        375.01,
+        226.7,
+        390.01
+      ],
+      "text": "Je kunt stukken tekst vergelijken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        406.01,
+        271.5,
+        421.01
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        410.02,
+        71.0,
+        426.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        429.02,
+        71.0,
+        445.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        431.01,
+        206.5,
+        446.01
+      ],
+      "text": "Klik op .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        457.01,
+        299.0,
+        472.01
+      ],
+      "text": "Klik op ‘Preview’ om de EA Viewer te openen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        461.02,
+        71.0,
+        477.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        427.0,
+        476.01,
+        463.5,
+        490.01
+      ],
+      "text": "(3 4).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        477.01,
+        447.33,
+        492.01
+      ],
+      "text": "Je kiest met de knoppenbalk een weergave met een gesplitst venster of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        481.02,
+        71.0,
+        497.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        496.01,
+        511.61,
+        511.01
+      ],
+      "text": "Je kiest in beide helften een tabblad met een van de documenten , die je wilt vergelijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        500.02,
+        71.0,
+        516.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        515.01,
+        111.0,
+        529.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        118.0,
+        516.01,
+        562.6,
+        531.01
+      ],
+      "text": "Als je in beide helften hetzelfde tabblad kiest , vergelijk je tekst binnen hetzelfde document.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        535.01,
+        370.0,
+        550.01
+      ],
+      "text": "Je scrolt in beide helften naar stukken tekst die je wilt zien.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        539.02,
+        71.0,
+        555.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        298.0,
+        554.01,
+        309.25,
+        568.01
+      ],
+      "text": "(2)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        555.01,
+        666.12,
+        570.01
+      ],
+      "text": "Je kunt het splitsen met de knop tabbladen opheffen na het vergelijken en met 1 gewenst document verder werken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        559.02,
+        71.0,
+        575.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        593.02,
+        240.18,
+        611.02
+      ],
+      "text": "Eigenschappen raadplegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        615.01,
+        421.09,
+        630.01
+      ],
+      "text": "Je kunt op elk tabblad de eigenschappen van een document raadplegen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        646.01,
+        271.5,
+        661.01
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        650.02,
+        71.0,
+        666.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        669.02,
+        71.0,
+        685.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        671.01,
+        206.5,
+        686.01
+      ],
+      "text": "Klik op .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        697.01,
+        299.0,
+        712.01
+      ],
+      "text": "Klik op ‘Preview’ om de EA Viewer te openen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        701.02,
+        71.0,
+        717.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        427.0,
+        716.01,
+        463.5,
+        730.01
+      ],
+      "text": "(3 4).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        717.01,
+        447.33,
+        732.01
+      ],
+      "text": "Je kiest met de knoppenbalk een weergave met een gesplitst venster of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        721.02,
+        71.0,
+        737.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        736.01,
+        348.6,
+        751.01
+      ],
+      "text": "Je kiest in de ene helft een tabblad met een document.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        740.02,
+        71.0,
+        756.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        201.0,
+        755.01,
+        215.4,
+        769.01
+      ],
+      "text": "(5).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        756.01,
+        192.94,
+        771.01
+      ],
+      "text": "Klik op ‘Eigenschappen’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        760.02,
+        71.0,
+        776.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        775.01,
+        527.28,
+        790.01
+      ],
+      "text": "De eigenschappen van het document op het actieve tabblad verschijnen in de andere helft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        813.02,
+        171.78,
+        831.02
+      ],
+      "text": "Notities bekijken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        835.01,
+        288.6,
+        850.01
+      ],
+      "text": "Je kunt de notities bij een document bekijken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        866.01,
+        271.5,
+        881.01
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        870.02,
+        71.0,
+        886.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        890.02,
+        71.0,
+        906.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        891.01,
+        206.5,
+        906.01
+      ],
+      "text": "Klik op .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        918.01,
+        299.0,
+        933.01
+      ],
+      "text": "Klik op ‘Preview’ om de EA Viewer te openen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        922.02,
+        71.0,
+        938.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        427.0,
+        936.01,
+        463.5,
+        950.01
+      ],
+      "text": "(3 4).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        937.01,
+        447.33,
+        952.01
+      ],
+      "text": "Je kiest met de knoppenbalk een weergave met een gesplitst venster of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        941.02,
+        71.0,
+        957.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        957.01,
+        348.6,
+        972.01
+      ],
+      "text": "Je kiest in de ene helft een tabblad met een document.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        961.02,
+        71.0,
+        977.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        159.0,
+        975.01,
+        173.4,
+        989.01
+      ],
+      "text": "(6).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        976.01,
+        151.67,
+        991.01
+      ],
+      "text": "Klik op Notities",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        980.02,
+        71.0,
+        996.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        996.01,
+        371.28,
+        1011.01
+      ],
+      "text": "De Notities bij het document verschijnen in de andere helft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        1034.02,
+        223.16,
+        1052.02
+      ],
+      "text": "Resultaten doorbladeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        66.0,
+        1056.01,
+        658.0,
+        1071.02
+      ],
+      "text": "Je kunt met de knoppenbalk in de EA Viewer de geopende tabbladen langslopen en de lijst met resultaten doorbladeren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        1087.02,
+        271.5,
+        1102.02
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        1091.02,
+        71.0,
+        1107.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        1110.02,
+        71.0,
+        1126.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        1112.02,
+        206.5,
+        1127.02
+      ],
+      "text": "Klik op .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        81.0,
+        1138.02,
+        299.0,
+        1153.02
+      ],
+      "text": "Klik op ‘Preview’ om de EA Viewer te openen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        68.0,
+        1142.02,
+        71.0,
+        1158.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        52.02,
+        307.38,
+        67.02
+      ],
+      "text": "Je kiest een van de tabbladen in de EA Viewer.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        56.02,
+        71.0,
+        72.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        168.0,
+        71.01,
+        182.4,
+        85.01
+      ],
+      "text": "(7).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        72.02,
+        160.63,
+        87.02
+      ],
+      "text": "Klik op ‘Bladeren’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        76.02,
+        71.0,
+        92.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        91.02,
+        761.4,
+        106.02
+      ],
+      "text": "Met het pijltje naar links ga je een tabblad naar links en omhoog in de lijst met resultaten ; met het pijltje naar rechts ga je een tabblad naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        111.02,
+        215.0,
+        126.02
+      ],
+      "text": "rechts en omlaag in de lijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        145.02,
+        757.67,
+        160.02
+      ],
+      "text": "Als je buiten de selectie komt , dus vanaf het linker- of rechtertabblad , blader je verder in de lijst met resultaten. De tabbladen met de selectie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        165.02,
+        250.4,
+        180.01
+      ],
+      "text": "worden daarbij een voor een gesloten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        66.0,
+        215.02,
+        331.44,
+        240.02
+      ],
+      "text": "Doorbladeren als 1 document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        232.01,
+        766.27,
+        247.01
+      ],
+      "text": "Met ‘Doorbladeren als 1 document’ zie je alle geselecteerde documenten als voorbeeld (preview) in 1 Acrobat Readervenster. Om documenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        252.01,
+        763.0,
+        267.01
+      ],
+      "text": "op afzonderlijke tabbladen in de EA Viewer te bekijken gebruik je Preview , met Openen zie je de documenten in afzonderlijke Acrobatvensters.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        283.01,
+        258.5,
+        298.01
+      ],
+      "text": "Je selecteert meerdere documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        287.02,
+        71.0,
+        303.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        306.02,
+        71.0,
+        322.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        308.01,
+        223.5,
+        323.01
+      ],
+      "text": "Je klikt op .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        334.01,
+        271.91,
+        349.01
+      ],
+      "text": "Je kiest ‘Doorbladeren als 1 document’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        338.02,
+        71.0,
+        354.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        354.01,
+        411.0,
+        369.01
+      ],
+      "text": "De documenten verschijnen onder elkaar in Acrobat Readervenster.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        567.0,
+        387.01,
+        753.3,
+        401.01
+      ],
+      "text": "echte tekst in het document staat[3].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        388.01,
+        770.5,
+        403.01
+      ],
+      "text": "Ook met ‘Doorbladeren als 1 document’ kun je de geopende documenten doorzoeken op tekst , als er Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        408.01,
+        365.75,
+        423.01
+      ],
+      "text": "werkt hetzelfde als zoeken naar woorden bij de actie Openen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        66.0,
+        458.02,
+        254.22,
+        483.02
+      ],
+      "text": "Afdrukken Document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        475.01,
+        568.18,
+        490.01
+      ],
+      "text": "Je kunt documenten afdrukken , als je daarvoor de vereiste rechten hebt , dus voor inzien en afdrukken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        505.01,
+        271.5,
+        520.01
+      ],
+      "text": "Je selecteert een of meer documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        509.02,
+        71.0,
+        525.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        529.02,
+        71.0,
+        545.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        530.01,
+        206.5,
+        545.01
+      ],
+      "text": "Klik op .",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        572.01,
+        228.72,
+        587.01
+      ],
+      "text": "Kies ‘Afdrukken document[4]’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        592.01,
+        310.0,
+        607.01
+      ],
+      "text": "De EA Viewer verschijnt met een afdrukvoorbeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        611.01,
+        240.43,
+        626.01
+      ],
+      "text": "Let op: Dit kan enige minuten duren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        631.01,
+        290.67,
+        646.01
+      ],
+      "text": "Het afdrukscherm van Windows verschijnt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        635.02,
+        71.0,
+        651.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        650.01,
+        373.5,
+        665.01
+      ],
+      "text": "Je kunt de instellingen voor de afdruk aanpassen als je wilt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        670.01,
+        552.75,
+        685.01
+      ],
+      "text": "Je klikt in het afdrukscherm op `Afdrukken’. Klik daarna nog een keer op de knop ‘Afdrukken’. [5]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        674.02,
+        71.0,
+        690.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        689.01,
+        397.29,
+        704.01
+      ],
+      "text": "De documenten worden geprint met als watermerk ‘Kopie EAED’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        723.01,
+        111.0,
+        737.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        118.0,
+        724.01,
+        531.92,
+        739.01
+      ],
+      "text": "Krijg je bij het openen , afdrukken of doorbladeren als 1 document deze foutmelding?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        957.01,
+        635.5,
+        972.01
+      ],
+      "text": "Dan gaat het mogelijk om een geblokkeerd document. Zie de werkinstructie Blokkeren en deblokkeren documenten.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        66.0,
+        1007.02,
+        159.64,
+        1032.03
+      ],
+      "text": "Exporteren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        1024.01,
+        754.0,
+        1039.01
+      ],
+      "text": "Je slaat met de actie ‘Exporteren’ de eigenschappen van je selectie op in een bestand , dat je daarna kunt openen met Excel , Wordpad of het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        66.0,
+        1043.01,
+        527.84,
+        1058.01
+      ],
+      "text": "kladblok. Hiermee kun je de eigenschappen opslaan van documenten die je gedownload hebt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        1074.02,
+        398.58,
+        1089.02
+      ],
+      "text": "Je selecteert de gewenste documenten in de lijst met resultaten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        1078.02,
+        71.0,
+        1094.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        1093.02,
+        286.57,
+        1108.02
+      ],
+      "text": "Kies in het menu ‘Acties’ voor ‘Exporteren’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        68.0,
+        1097.02,
+        71.0,
+        1113.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        55.02,
+        752.0,
+        70.02
+      ],
+      "text": "Kies de eigenschappen om in de export op te slaan. Dat werkt zoals waarmee je de kolommen kiest voor de lijst met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        68.0,
+        56.02,
+        71.0,
+        72.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        78.02,
+        129.58,
+        93.02
+      ],
+      "text": "resultaten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        97.02,
+        758.16,
+        112.02
+      ],
+      "text": "Met een vinkje bij ‘Onbewerkte waarden exporteren’ exporteer je de letterlijke waarde. Dit beïnvloedt de datum en tijd. Zonder vinkje wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        117.02,
+        156.3,
+        132.02
+      ],
+      "text": "de tijd 00:00:00.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        136.02,
+        191.57,
+        151.02
+      ],
+      "text": "Je klikt op ‘Exporteren’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        68.0,
+        140.02,
+        71.0,
+        156.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        156.02,
+        494.18,
+        171.01
+      ],
+      "text": "Het bestand met de export wordt opgeslagen in de map Downloads in de Verkenner.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        68.0,
+        160.02,
+        71.0,
+        176.02
+      ],
+      "text": "•",
+      "source": "text"
+    }
+  ]
+}

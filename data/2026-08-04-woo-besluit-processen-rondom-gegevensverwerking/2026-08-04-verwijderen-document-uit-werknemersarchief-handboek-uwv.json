@@ -1,0 +1,341 @@
+{
+  "source_id": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwijderen-document-uit-werknemersarchief-handboek-uwv",
+  "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_slug": "2026-08-04-verwijderen-document-uit-werknemersarchief-handboek-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/fbd8e655-8f9c-4dcd-8764-d17774eb6301/verwijderen-document-uit-werknemersarchief-handboek-uwv.pdf",
+  "publication_title": "Woo-besluit over processen rondom gegevensverwerking",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handboek Verwijderen document uit werknemersarchief (PDF, 496 kB)",
+  "retrieved_at": "2026-08-18T06:34:51+00:00",
+  "sha256": "f459754de7bf000a566e36784f75505794b1b5b96e4fa5a0c22837326071a1f3",
+  "page_count": 2,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        420.73,
+        170.01
+      ],
+      "text": "Home » Proces Backoffice ZW » EA/Verkenner » Verwijderen document uit werknemersarchief",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        332.02,
+        304.33,
+        355.02
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        481.95,
+        406.02
+      ],
+      "text": "Verwijderen document uit werknemersarchief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        410.01,
+        115.09,
+        424.01
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        430.01,
+        622.0,
+        445.01
+      ],
+      "text": "Een document is in EA niet aan de juiste werknemer gekoppeld of is ten onrechte aan een werknemer gekoppeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        460.01,
+        84.4,
+        474.01
+      ],
+      "text": "Doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        480.01,
+        601.78,
+        495.01
+      ],
+      "text": "Een document dat in EA gekoppeld is aan een (verkeerde) werknemer verwijderen uit het werknemersarchief.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        510.01,
+        141.94,
+        524.01
+      ],
+      "text": "Functionarissen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        531.01,
+        151.0,
+        546.01
+      ],
+      "text": "AM , MVB , UD , MU.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        561.01,
+        108.67,
+        575.01
+      ],
+      "text": "Gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        581.01,
+        260.3,
+        596.01
+      ],
+      "text": "Documenten uit het archief verwijderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        611.01,
+        110.55,
+        625.01
+      ],
+      "text": "Instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        654.01,
+        286.33,
+        668.01
+      ],
+      "text": "1. Document laten verwijderen uit EA",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        117.0,
+        674.01,
+        198.33,
+        689.01
+      ],
+      "text": "AM , MVB , UD , MU",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        705.01,
+        704.67,
+        720.01
+      ],
+      "text": "Open EA. Geef vervolgens het BSN en als Aandachtsgebied ‘ZW’ op. Zoek vervolgens het document waar het over gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        735.01,
+        694.5,
+        750.01
+      ],
+      "text": "Laat het document door DIV verwijderen. Volg hiervoor de handleiding van DIV voor het herindexeren/verwijderen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        755.01,
+        380.0,
+        770.01
+      ],
+      "text": "gearchiveerde documenten in EA (Handleiding EAED).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        785.01,
+        162.0,
+        799.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        169.0,
+        786.01,
+        656.2,
+        801.01
+      ],
+      "text": "Voordat je de e-mail verstuurt , voeg je bovenaan in de e-mail die wordt klaargezet het volgende toe:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        805.01,
+        704.9,
+        819.01
+      ],
+      "text": "‘Dit document is ten onrechte gekoppeld aan een werknemer en moet verwijderd worden uit het werknemersarchief’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        836.01,
+        223.75,
+        851.01
+      ],
+      "text": "Je verstuurt de e-mail.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        867.01,
+        338.42,
+        882.01
+      ],
+      "text": "DIV zorgt dat het document wordt verwijderd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        897.01,
+        80.67,
+        911.01
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        898.01,
+        753.0,
+        913.01
+      ],
+      "text": "Maak vervolgens een memo aan in UZS bij het BSN en het volgnummer waar het document verwijderd is. Geef hierbij aan dat het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        918.01,
+        452.0,
+        933.01
+      ],
+      "text": "document verwijderd is omdat het document onjuist was gekoppeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        948.01,
+        192.84,
+        963.01
+      ],
+      "text": "Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        991.01,
+        150.32,
+        1006.01
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    }
+  ]
+}

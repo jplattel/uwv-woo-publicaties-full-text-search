@@ -1,0 +1,893 @@
+{
+  "source_id": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+  "pdf_slug": "2026-08-04-doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/24ff1992-ce7c-41d5-9d6e-4fdc25a9c60d/doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over vergoeding werkgeverslasten bij WAZO-uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Rekenvoorbeeld wg-betaling (PDF, 391 kB)",
+  "retrieved_at": "2026-08-18T06:34:08+00:00",
+  "sha256": "3834f6699bff5c5be1af12d93e9376b6591414cc622135ef5c66b3544473ba44",
+  "page_count": 2,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        72.01,
+        437.12,
+        83.01
+      ],
+      "text": "BIJLAGE 2: REKENVOORBEELD WG-BETALING BIJ ACTUELE METHODE",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        84.01,
+        305.75,
+        94.01
+      ],
+      "text": "1. Vertraagde WG-betaling met dus naijleffect",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        238.0,
+        86.01,
+        252.25,
+        94.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        285.0,
+        95.01,
+        337.25,
+        105.01
+      ],
+      "text": "betaaldatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        204.0,
+        106.01,
+        435.18,
+        116.01
+      ],
+      "text": "01/27/2006 02/27/2006 03/27/2006",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        186.0,
+        118.01,
+        407.5,
+        128.01
+      ],
+      "text": "wg-betaling wg-betaling wg-betaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        186.0,
+        129.01,
+        415.4,
+        139.01
+      ],
+      "text": "november 2005 januari 2006 februari 2006",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        139.01,
+        437.0,
+        149.01
+      ],
+      "text": "Bruto 1300 1300. 00 1300. 00",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        149.01,
+        438.0,
+        159.01
+      ],
+      "text": "(Awf )",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        151.0,
+        150.01,
+        161.67,
+        160.01
+      ],
+      "text": "WN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        160.01,
+        67.75,
+        170.01
+      ],
+      "text": "Awf",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        151.0,
+        161.01,
+        435.67,
+        171.01
+      ],
+      "text": "WG 46. 18 1. 33",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        171.01,
+        425.25,
+        181.01
+      ],
+      "text": "Wgf WG 50 22.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        328.0,
+        172.01,
+        437.0,
+        182.01
+      ],
+      "text": "45. 75",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        182.01,
+        438.0,
+        192.01
+      ],
+      "text": "(Zvw-bijd. )",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        151.0,
+        183.01,
+        161.67,
+        193.01
+      ],
+      "text": "WN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        193.01,
+        438.0,
+        203.01
+      ],
+      "text": "(Loonheffing WN )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        204.01,
+        437.0,
+        214.01
+      ],
+      "text": "Zvw-verg. WG 162. 58 90. 92",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        215.01,
+        437.0,
+        225.01
+      ],
+      "text": "Basispremie WG 140. 40 70. 20",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        226.01,
+        437.0,
+        236.01
+      ],
+      "text": "Gedifferentieerd WG 43. 42 21. 71",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        237.01,
+        437.0,
+        247.01
+      ],
+      "text": "Netto 1300 1738. 08 1506. 91",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        249.01,
+        163.75,
+        259.01
+      ],
+      "text": "2. Tijdige WG-betaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        285.0,
+        260.01,
+        337.25,
+        270.01
+      ],
+      "text": "betaaldatum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        204.0,
+        272.01,
+        435.18,
+        282.01
+      ],
+      "text": "01/27/2006 02/27/2006 03/27/2006",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        186.0,
+        285.01,
+        407.5,
+        295.01
+      ],
+      "text": "wg-betaling wg-betaling wg-betaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        186.0,
+        296.01,
+        406.4,
+        306.01
+      ],
+      "text": "januari 2006 februari 2006 maart 2006",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        306.01,
+        437.0,
+        316.01
+      ],
+      "text": "Bruto 1300. 00 1300. 00 1300. 00",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        317.01,
+        438.0,
+        327.01
+      ],
+      "text": "(Awf WN )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        328.01,
+        437.0,
+        338.01
+      ],
+      "text": "Awf WG 1. 33 1. 33 1. 33",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        339.01,
+        437.0,
+        349.01
+      ],
+      "text": "Wgf WG 22. 75 22. 75 22. 75",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        350.01,
+        438.0,
+        360.01
+      ],
+      "text": "(Zvw-bijd. WN )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        361.01,
+        438.0,
+        371.01
+      ],
+      "text": "(Loonheffing WN )",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        372.01,
+        437.0,
+        382.01
+      ],
+      "text": "Zvw-verg. WG 84. 50 84. 50 84. 50",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        383.01,
+        437.0,
+        393.01
+      ],
+      "text": "Basispremie WG 70. 20 70. 20 70. 20",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        393.01,
+        124.65,
+        403.01
+      ],
+      "text": "Gedifferentieerd",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        151.0,
+        394.01,
+        437.0,
+        404.01
+      ],
+      "text": "WG 21. 71 21. 71 21. 71",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        230.0,
+        404.01,
+        437.0,
+        414.01
+      ],
+      "text": "1500. 49 1500. 49 1500. 49",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        55.0,
+        405.01,
+        75.83,
+        415.01
+      ],
+      "text": "Netto",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        167.0,
+        414.01,
+        396.0,
+        424.01
+      ],
+      "text": "voorbeeld laat dat naijleffecten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        415.01,
+        335.09,
+        425.01
+      ],
+      "text": "Dit zien ongewenste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        274.0,
+        416.01,
+        280.67,
+        424.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        94.0,
+        417.01,
+        142.92,
+        427.01
+      ],
+      "text": "Toelichting:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        425.01,
+        412.0,
+        435.01
+      ],
+      "text": "optreden als werkgeversbetalingen bij de actuele methode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        420.0,
+        426.01,
+        425.33,
+        436.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        171.0,
+        436.01,
+        421.63,
+        446.01
+      ],
+      "text": "ander worden uitbetaald dan betrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        200.0,
+        437.01,
+        373.25,
+        447.01
+      ],
+      "text": "jaar zij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        438.01,
+        356.29,
+        446.01
+      ],
+      "text": "een waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        302.0,
+        442.0,
+        304.0,
+        447.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        447.01,
+        407.25,
+        457.01
+      ],
+      "text": "hebben. effecten blijken vooral uit de premie Awf WG.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        191.0,
+        448.01,
+        199.67,
+        458.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.0,
+        460.01,
+        360.14,
+        470.01
+      ],
+      "text": "1 Doordat eenmaal minder franchise kan worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        367.0,
+        461.01,
+        407.5,
+        471.01
+      ],
+      "text": "toegepast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        471.01,
+        425.33,
+        481.01
+      ],
+      "text": "wordt premie berekend vergoed dan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        180.0,
+        473.01,
+        410.13,
+        481.01
+      ],
+      "text": "er meer en wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        350.0,
+        477.0,
+        352.0,
+        482.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        482.01,
+        286.38,
+        492.01
+      ],
+      "text": "betaling tijdig zijn gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        216.0,
+        484.01,
+        228.0,
+        492.01
+      ],
+      "text": "zou",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        166.0,
+        493.01,
+        350.11,
+        503.01
+      ],
+      "text": "vergoeding wordt bepaald maximaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        141.0,
+        494.01,
+        399.57,
+        504.01
+      ],
+      "text": "2 De € 250125",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        288.0,
+        495.01,
+        419.25,
+        503.01
+      ],
+      "text": "over per",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        390.0,
+        499.0,
+        392.0,
+        504.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        504.01,
+        428.12,
+        514.01
+      ],
+      "text": "maand. Daardoor wordt februari € 169- slechts",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        262.0,
+        505.01,
+        267.33,
+        515.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        312.0,
+        506.01,
+        393.2,
+        514.01
+      ],
+      "text": "geen maar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        364.0,
+        510.0,
+        366.0,
+        515.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        515.01,
+        407.2,
+        525.01
+      ],
+      "text": "€ 16258 vergoed. Door het naijleffect in is eind",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        339.0,
+        516.01,
+        361.5,
+        526.01
+      ],
+      "text": "maart",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        380.0,
+        517.01,
+        386.67,
+        525.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        177.0,
+        521.0,
+        179.0,
+        526.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        195.0,
+        526.01,
+        414.43,
+        536.01
+      ],
+      "text": "totaalniveau bij beide methodes evenveel premie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        527.01,
+        173.5,
+        537.01
+      ],
+      "text": "maart",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        181.0,
+        528.01,
+        188.33,
+        536.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        537.01,
+        208.56,
+        547.01
+      ],
+      "text": "Zvw vergoed.",
+      "source": "text"
+    }
+  ]
+}

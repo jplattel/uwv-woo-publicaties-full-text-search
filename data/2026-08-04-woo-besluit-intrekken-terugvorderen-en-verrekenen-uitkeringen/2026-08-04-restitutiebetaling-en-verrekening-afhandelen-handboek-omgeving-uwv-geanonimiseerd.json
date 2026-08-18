@@ -1,0 +1,5849 @@
+{
+  "source_id": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_slug": "2026-08-04-restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/66be76d4-097a-4313-8d78-309f57d3f2c5/restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over het intrekken, terugvorderen en verrekenen van uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Restitutiebetaling en verrekening afhandelen (PDF, 9 MB)",
+  "retrieved_at": "2026-08-18T06:35:35+00:00",
+  "sha256": "8774d0290a95536215055da50d2efe047378c239842053a5e0adb8d8b39e363c",
+  "page_count": 10,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        347.91,
+        170.01
+      ],
+      "text": "Home » Proces WW Ontslag » Restitutiebetaling en -verrekening afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        336.03,
+        280.0,
+        364.03
+      ],
+      "text": "Proces WW Ontslag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        383.02,
+        482.45,
+        408.02
+      ],
+      "text": "Restitutiebetaling en -verrekening afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        412.01,
+        208.34,
+        427.01
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        432.01,
+        750.5,
+        447.01
+      ],
+      "text": "Wanneer een WW-uitkering wordt toegekend , maar een andere afdeling of instantie heeft over dezelfde periode al een uitkering verstrekt ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        451.01,
+        752.67,
+        466.01
+      ],
+      "text": "kunnen zij dit bedrag declareren bij de afdeling WW. Wanneer een andere afdeling of instantie al uitkering heeft verstrekt , declareren zij nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        471.01,
+        409.6,
+        486.01
+      ],
+      "text": "het bedrag bij de afdeling WW. We noemen dit een restitutiebetaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        502.01,
+        748.25,
+        517.01
+      ],
+      "text": "Het kan ook gebeuren dat de cliënt met terugwerkende kracht een andere uitkering toegekend krijgt en over de verstreken periode is WW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        521.01,
+        729.5,
+        536.01
+      ],
+      "text": "uitkering overgemaakt. Je hebt nu een vordering op de andere wet. Je declareert nu het bedrag bij de andere wet. We noemen dit een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        541.01,
+        163.52,
+        556.01
+      ],
+      "text": "restitutievordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        571.01,
+        466.18,
+        586.01
+      ],
+      "text": "Bij verrekening op restitutiebasis zijn dus altijd 2 wetten of instanties betrokken:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        602.01,
+        384.91,
+        617.01
+      ],
+      "text": "de overnemende instantie (die een uitkering gaat toekennen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        606.02,
+        79.0,
+        622.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        622.01,
+        437.33,
+        637.01
+      ],
+      "text": "de declarerende instantie (die een uitkering ten onrechte heeft betaald)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        626.02,
+        79.0,
+        642.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        656.01,
+        507.82,
+        671.01
+      ],
+      "text": "Afhankelijk van de situatie is de afdeling WW de declarerende of overnemende instantie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        687.01,
+        750.07,
+        702.01
+      ],
+      "text": "Voor intern verrekenen is een overkoepelende werkinstructie geschreven die , naast de werkzaamheden voor WW , ook de werkzaamheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        706.01,
+        217.84,
+        721.01
+      ],
+      "text": "voor de andere wet beschrijft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        737.01,
+        765.0,
+        752.01
+      ],
+      "text": "Let op: De situatie Betalen en vorderen tussen AW/ZW/IOW of Betalingsonmacht geldt vanaf januari 2020 ook voor de WW. Hierin vind je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        757.01,
+        199.13,
+        772.01
+      ],
+      "text": "o. a. een contactmatrix.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        787.01,
+        692.27,
+        802.01
+      ],
+      "text": "De applicatie GINA bevat de inkomsten die we bij de cliënt opvragen. Hoe je e. e. a. afwikkelt in GINA staat in de werkinstructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        807.01,
+        216.0,
+        822.01
+      ],
+      "text": "Inkomstenopgave verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        838.01,
+        544.33,
+        853.01
+      ],
+      "text": "Wie Uitkeringsconsulent WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        858.01,
+        103.75,
+        873.01
+      ],
+      "text": "Divisie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        859.01,
+        465.44,
+        874.01
+      ],
+      "text": "Uitkeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        878.01,
+        138.61,
+        893.01
+      ],
+      "text": "Samenvatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        879.01,
+        721.67,
+        894.01
+      ],
+      "text": "Je beoordeelt (samen met de andere wet/instantie) of je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        898.01,
+        751.5,
+        913.01
+      ],
+      "text": "restitutiebetaling- of vordering kunt uitvoeren. Als dat mogelijk is ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        918.01,
+        761.5,
+        933.01
+      ],
+      "text": "zorg je voor correcte verwerking. Vooral bij een verrekening met een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        937.01,
+        668.38,
+        952.01
+      ],
+      "text": "andere wet is afstemming van essentieel belang.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        957.01,
+        95.67,
+        972.01
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        977.01,
+        99.71,
+        992.01
+      ],
+      "text": "Cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        978.01,
+        748.0,
+        993.01
+      ],
+      "text": "Verschillende mogelijkheden , waaronder melding van een andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        997.01,
+        573.58,
+        1012.01
+      ],
+      "text": "wet of een eigen waarneming.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        1018.01,
+        671.75,
+        1033.01
+      ],
+      "text": "Intern WWO actie 5-32 Afh. Afgekeurde toekenning mdw",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        84.03,
+        586.67,
+        109.03
+      ],
+      "text": "Afdeling WW overnemende instantie (restitutiebetaling)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        100.02,
+        756.33,
+        115.02
+      ],
+      "text": "Een cliënt heeft met terugwerkende kracht een WW-uitkering toegekend gekregen. Over de verstreken periode heeft een andere afdeling of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        120.02,
+        489.25,
+        135.02
+      ],
+      "text": "instantie een uitkering verstrekt en deze declareert het bedrag nu bij de afdeling WW.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        166.02,
+        346.38,
+        188.02
+      ],
+      "text": "Ontvangen en beoordelen signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        184.01,
+        450.82,
+        199.01
+      ],
+      "text": "Je ontvangt een signaal van de afdeling ZW , AW of van een externe instantie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        204.01,
+        550.5,
+        219.01
+      ],
+      "text": "Dit signaal kan op verschillende wijzen binnenkomen , denk o. a. aan een Winter-signaal in MAWW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        223.01,
+        542.77,
+        238.01
+      ],
+      "text": "Je bekijkt alvast de mogelijkheden om te verrekenen. Je beoordeelt of de periode overeenkomt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        243.01,
+        296.33,
+        258.01
+      ],
+      "text": "Het moet namelijk om dezelfde periode gaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        262.01,
+        458.8,
+        277.01
+      ],
+      "text": "Bij een verrekening met andere wetten , ga je naar Afstemmen met andere wet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        77.0,
+        293.01,
+        220.57,
+        308.01
+      ],
+      "text": "a. Verrekenen WIA-voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        328.01,
+        760.43,
+        343.01
+      ],
+      "text": "Soms krijg je een aanvraag WW van een cliënt die eerder een WIA-voorschot ontving omdat SMZ de sociaal-medische boordeling niet tijdig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        347.01,
+        757.0,
+        362.01
+      ],
+      "text": "kon doen. Voor medewerkers van samenloopteams en reguliere WW-teams geldt dan een specifieke instructie over de verrekening van het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        367.01,
+        145.86,
+        382.01
+      ],
+      "text": "WIA-voorschot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        397.01,
+        204.72,
+        412.01
+      ],
+      "text": "Verrekening WIA-voorschot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        428.01,
+        735.2,
+        443.01
+      ],
+      "text": "Na ontvangst van de digitale WW-aanvraag in MAWW , geeft MAWW het kenmerk ‘samenloop’ mee bij samenloop met een lopend WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        448.01,
+        414.78,
+        463.01
+      ],
+      "text": "voorschot. Deze aanvragen komen zo bij het samenloopteam terecht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        467.01,
+        728.89,
+        482.01
+      ],
+      "text": "Als er géén lopend WIA-voorschot aanwezig is , geeft MAWW dit kenmerk niet mee en komt deze aanvraag bij de reguliere WW-teams",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        487.01,
+        726.0,
+        502.01
+      ],
+      "text": "terecht. Je hebt het recht op WW-uitkering volgens de werkinstructie Recht beoordelen beoordeeld en hierbij rekening gehouden met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        506.01,
+        519.24,
+        521.01
+      ],
+      "text": "eventuele uitsluitingsgronden zoals omschreven in de Wetsuitleg: 309 Uitsluitingsgronden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        537.01,
+        754.25,
+        552.01
+      ],
+      "text": "Je controleert in EA of er een (afgewezen of lopend) WIA-voorschot is dat verrekend moet worden. Als de WIA-uitkering is afgewezen , dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        556.01,
+        709.09,
+        571.01
+      ],
+      "text": "ga je na in EA of Invorderen of Uitkeren AW al een terugvordering van het WIA-voorschot heeft ingesteld en of dat al is afgeboekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        576.01,
+        461.16,
+        591.01
+      ],
+      "text": "Als je een WW-uitkering toekent , moet je alsnog het WIA-voorschot verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        606.01,
+        120.0,
+        621.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        126.0,
+        607.01,
+        753.25,
+        622.01
+      ],
+      "text": "Heeft SMZ in de beschikking aangegeven dat de cliënt het WIA-voorschot niet terug hoeft te betalen (start voorschot in periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        626.01,
+        747.64,
+        641.01
+      ],
+      "text": "31 augustus 2021 tot en met 30 november 2021)? Dan wordt de cliënt niet telefonisch verzocht om WW aan te vragen als voorwaarde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        646.01,
+        756.5,
+        661.01
+      ],
+      "text": "voor kwijtschelding. In deze situatie mag het kwijtgescholden WIA-voorschot niet alsnog verrekend worden met de toegekende WW. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        665.01,
+        276.0,
+        680.01
+      ],
+      "text": "moet in andere gevallen wel gebeuren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        695.01,
+        288.0,
+        710.01
+      ],
+      "text": "Betalen zonder IKO bij toekenning met TWK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        715.01,
+        737.67,
+        730.01
+      ],
+      "text": "Voor de afhandeling van een verrekening met het WIA-voorschot , is een workaround opgesteld waarmee je betaalt zonder IKO’s van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        735.01,
+        166.91,
+        750.01
+      ],
+      "text": "cliënt te ontvangen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        765.01,
+        351.0,
+        780.01
+      ],
+      "text": "Workaround betalen zonder IKO bij toekenning met TWK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        785.01,
+        744.25,
+        800.01
+      ],
+      "text": "Over de periode van de verrekening hoeft de cliënt geen IKO´s in te dienen als je de inkomsten of uren zelf kunt vullen. Over perioden die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        805.01,
+        763.5,
+        820.01
+      ],
+      "text": "buiten de verrekeningsperiode vallen moet cliënt wél IKO’s indienen. Als de periode van verrekening halverwege de maand begint of eindigt ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        824.01,
+        380.38,
+        839.01
+      ],
+      "text": "dan hoeft cliënt voor die maand(en) ook geen IKO in te dienen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        854.01,
+        120.0,
+        869.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        126.0,
+        855.01,
+        751.22,
+        870.01
+      ],
+      "text": "Als je ook een periode hebt die buiten de verrekeningsperiode valt , handel je altijd eerst de verrekening met de WIA af. Hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        874.01,
+        752.57,
+        889.01
+      ],
+      "text": "zet je eerst alleen de IKO’s klaar over de verrekeningsperiode. Pas nadat je de verrekening hebt afgerond zet je de IKO’s klaar die buiten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        894.01,
+        742.67,
+        909.01
+      ],
+      "text": "de verrekeningsperiode vallen. Als je alle IKO’s tegelijk klaarzet , bel je met de cliënt en leg je uit dat de cliënt alléén de IKO’s buiten de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        913.01,
+        415.57,
+        928.01
+      ],
+      "text": "verrekeningsperiode invult. Zie hiervoor “IKO’s tegelijk klaarzetten”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        944.01,
+        225.8,
+        959.01
+      ],
+      "text": "Binnen de verrekeningsperiode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        964.01,
+        754.6,
+        979.01
+      ],
+      "text": "Je zet in WWO in T2121 ‘Aanmaken IKO’ op Ja. Daarmee zorg je er voor dat de IKO’s een werkdag later in Gina staan en zichtbaar zijn voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        983.01,
+        507.4,
+        998.01
+      ],
+      "text": "jou en voor de cliënt. Deze kunnen nu gevuld worden. en Zet tevens in T1022 AB op Nee.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1003.01,
+        571.0,
+        1018.01
+      ],
+      "text": "Voor de IKO’s die binnen de verrekeningsperiode vallen en die je zelf kunt invullen , handel je als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        1033.01,
+        585.89,
+        1048.01
+      ],
+      "text": "Ga in GINA naar het scherm ‘Onderhouden inkomstenopgaven’ en open het panel ‘Inkomstenopgave’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        1037.02,
+        79.0,
+        1053.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        1053.01,
+        745.0,
+        1068.02
+      ],
+      "text": "Vul de velden ‘herkomst’ , ‘alle inkomstenbronnen’ , ‘inkomstenbron volledig’ , ‘ondertekend door klant’ en ‘ondertekend door partner’ in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        1057.02,
+        79.0,
+        1073.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        1072.02,
+        315.63,
+        1087.02
+      ],
+      "text": "Als er geen inkomsten zijn , klik je op ‘Opslaan’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        1076.02,
+        79.0,
+        1092.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        1092.02,
+        761.61,
+        1107.02
+      ],
+      "text": "Als er wel inkomsten zijn , klik je op ‘Toevoegen’ en registreer je de door jou overgenomen inkomsten of uren in het scherm ‘Onderhouden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        1096.02,
+        79.0,
+        1112.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        1111.02,
+        409.63,
+        1126.02
+      ],
+      "text": "inkomstenopgaven’ onder ‘Medewerker’. Klik daarna op ‘Opslaan’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        52.02,
+        742.5,
+        67.02
+      ],
+      "text": "Voor de in te vullen inkomsten of uren raadpleeg je Polis. Indien er sprake is van inkomsten of uren die (nog) niet in Polis zichtbaar zijn ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        72.02,
+        752.67,
+        87.02
+      ],
+      "text": "raadpleeg je de beschikbare documenten in EA of je collega van AW. Ook neem je contact op met de cliënt om ontbrekende inkomsten op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        91.02,
+        189.46,
+        106.02
+      ],
+      "text": "te vragen. Zie hieronder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        122.02,
+        223.8,
+        137.02
+      ],
+      "text": "Buiten de verrekeningsperiode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        142.02,
+        759.0,
+        157.02
+      ],
+      "text": "Nadat je de verrekening hebt afgerond , ga je op reguliere wijze verder met de IKO’s die buiten de verrekeningsperiode vallen. Ook hier zet je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        161.02,
+        632.62,
+        176.01
+      ],
+      "text": "in WWO in T2121 ‘Aanmaken IKO’ op Ja en in T1022 AB op Nee. Wacht de IKO’s af die de cliënt dient op te sturen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        192.01,
+        191.33,
+        207.01
+      ],
+      "text": "IKO’s tegelijk klaarzetten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        222.01,
+        169.25,
+        237.01
+      ],
+      "text": "Telefonisch contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        242.01,
+        743.67,
+        257.01
+      ],
+      "text": "Je probeert altijd telefonisch contact op te nemen met de cliënt. Hierin geef je aan welke IKO’s de cliënt niet hoeft op te sturen (als je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        262.01,
+        748.67,
+        277.01
+      ],
+      "text": "IKO’s zelf invult) , en welke IKO’s de cliënt wel zelf dient in te vullen (als deze buiten de verrekeningsperiode vallen). Als je de IKO’s over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        281.01,
+        711.0,
+        296.01
+      ],
+      "text": "gehele periode tegelijk klaarzet en er vallen ook IKO’s buiten de verrekeningsperiode , handel je zoals aangegeven in “IKO’s tegelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        301.01,
+        131.57,
+        316.01
+      ],
+      "text": "klaarzetten”.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        320.01,
+        629.3,
+        335.01
+      ],
+      "text": "Bespreek ook dat je eerst de verrekening met de WIA afhandelt , en daarna de (eventuele) periode na verrekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        351.01,
+        763.0,
+        366.01
+      ],
+      "text": "Als je niet alle inkomsten of uren compleet hebt om zelf de IKO’s te vullen die binnen de verrekeningsperiode vallen , vraag je deze ook op bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        370.01,
+        748.26,
+        385.01
+      ],
+      "text": "de cliënt. Denk hierbij aan inkomsten over een zeer recente periode of aan inkomsten uit zelfstandige of overig niet-verzekeringsplichtige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        390.01,
+        104.62,
+        405.01
+      ],
+      "text": "arbeid.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        409.01,
+        734.22,
+        424.01
+      ],
+      "text": "Let daarbij ook op een eventueel recht op toeslag en inkomsten die daarop van invloed zijn (van de cliënt of van de partner van cliënt).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        440.01,
+        633.3,
+        455.01
+      ],
+      "text": "Neem in dit telefoongesprek verder alle aspecten mee die van belang zijn voor de afhandeling van de verrekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        460.01,
+        734.0,
+        475.01
+      ],
+      "text": "Indien je voor de cliënt de IKO’s al hebt klaargezet , bespreek je de situatie met de cliënt en handel je naar professioneel inzicht. Heb je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        479.01,
+        715.67,
+        494.01
+      ],
+      "text": "vanuit je professionaliteit het idee dat je de cliënt vaker moet bellen om hem mee te nemen gedurende dit proces (tijdens en na de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        499.01,
+        311.8,
+        514.01
+      ],
+      "text": "verrekeningsperiode met de WIA) , dan doe je dit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        529.01,
+        705.67,
+        544.01
+      ],
+      "text": "Let op: Is de cliënt niet bereikbaar maar heb je wel alle informatie compleet om de IKO’s zelf te kunnen vullen , dan rondt je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        549.01,
+        372.44,
+        564.01
+      ],
+      "text": "restitutieverrekening verder af zonder telefonisch contact.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        580.01,
+        706.17,
+        595.01
+      ],
+      "text": "Als de cliënt telefonisch niet bereikbaar is en heb je nog wel informatie nodig , vraag je de ontbrekende gegevens op met de brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        599.01,
+        322.18,
+        614.01
+      ],
+      "text": "‘UWWAU01-023: Opvragen ontbrekende gegevens’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        630.01,
+        246.59,
+        645.01
+      ],
+      "text": "Handmatig wijzigen UWWAU01-023",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        660.01,
+        120.0,
+        675.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        126.0,
+        661.01,
+        761.67,
+        676.01
+      ],
+      "text": "Telefonisch contact met cliënt heeft altijd de voorkeur boven schriftelijk contact. Zeker in dit geval. Zorg er dan ook voor dat je er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        680.01,
+        723.2,
+        695.01
+      ],
+      "text": "altijd alles aan doet om de inkomsten en andere benodigde gegevens te ontvangen van cliënt , zodat de verrekening met het WIA-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        700.01,
+        273.2,
+        715.01
+      ],
+      "text": "voorschot altijd kan worden afgerond.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        730.01,
+        571.09,
+        745.01
+      ],
+      "text": "Nadat je alle benodigde IKO’s hebt ingevuld kun je de verrekening met het WIA-voorschot afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        750.01,
+        471.38,
+        765.01
+      ],
+      "text": "Voor de IKO’s die buiten de verrekeningsperiode vallen geldt het reguliere proces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        781.01,
+        570.44,
+        796.01
+      ],
+      "text": "Je vermeldt in een interne overweging dat je deze workaround hebt toegepast en over welke periode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        77.0,
+        811.01,
+        187.75,
+        826.01
+      ],
+      "text": "b. Verrekenen met WIA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        846.01,
+        711.0,
+        861.01
+      ],
+      "text": "Als je een verstrekt WIA-voorschot gaat verrekenen (al dan niet na terugvordering en afboeking) , vul je het Vragenformulier WW –",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        865.01,
+        325.0,
+        880.01
+      ],
+      "text": "Herstelactie WIA voorschotten in voor Uitkeren AW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        885.01,
+        739.0,
+        900.01
+      ],
+      "text": "Als je constateert dat Uitkeren AW een afboeking heeft gedaan die alsnog verrekend moet worden met WW , geef je dat onderaan in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        904.01,
+        173.6,
+        919.01
+      ],
+      "text": "vragenformulier aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        935.01,
+        716.67,
+        950.01
+      ],
+      "text": "Je slaat het vragenformulier met AOS-code ‘WW/interne correspondentie/ communicatieformulieren AW/WW’ op in EA volgens de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        955.01,
+        263.5,
+        970.01
+      ],
+      "text": "werkinstructie Archiveren documenten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        985.01,
+        704.56,
+        1000.01
+      ],
+      "text": "Je maakt een Winter-signaal aan voor Uitkeren AW onder: ‘Bedrijfsproces: WIA , Organisatie Eenheid: Uitkeren-WIA , Type Signaal:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1005.01,
+        306.0,
+        1020.01
+      ],
+      "text": "Samenloop WW wijziging (Uitkeren-WIA) (Wia)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1036.01,
+        754.5,
+        1051.01
+      ],
+      "text": "Het samenloopteam ontvangt van Uitkeren AW een declaratieformulier waarmee het de verrekening kan afronden. AW maakt hiervoor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1055.01,
+        761.29,
+        1070.02
+      ],
+      "text": "interne toelichting (UWGII07-01: Interne memo: communicatie met andere afdelingen) in GCU en het signaal ‘Verrekeningsopgave’ in Winter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1075.02,
+        91.6,
+        1090.02
+      ],
+      "text": "aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        77.0,
+        1105.02,
+        387.17,
+        1120.02
+      ],
+      "text": "c. Verrekenen met WIA-voorschot van eigenrisicodrager (ERD)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1140.02,
+        735.0,
+        1155.02
+      ],
+      "text": "Als een cliënt een WIA-voorschot heeft ontvangen en het gaat om een zelfbetalende eigenrisicodrager (ERD)[1] , dan heeft de ERD het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1159.02,
+        237.13,
+        1174.02
+      ],
+      "text": "voorschot verstrekt aan de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        52.02,
+        324.18,
+        67.02
+      ],
+      "text": "Om dit te corrigeren geldt onderstaande werkwijze.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        82.01,
+        223.0,
+        96.01
+      ],
+      "text": "Controleren betaling aan cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        103.02,
+        755.75,
+        118.02
+      ],
+      "text": "Als je een WW-aanvraag hebt ontvangen en de cliënt geeft aan dat er een eerdere WIA-aanvraag was die werd afgewezen (minder dan 35%",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        122.02,
+        412.13,
+        137.02
+      ],
+      "text": "arbeidsongeschikt) , dan betaal je nooit zomaar de WW uit aan cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        142.02,
+        641.4,
+        157.02
+      ],
+      "text": "Ga eerst na of er al betaald is door de WIA , en of dit verrekend moet worden. Ga ook na of er sprake is van een ERD.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        161.02,
+        760.41,
+        176.01
+      ],
+      "text": "Gebruik hiervoor de bestaande systemen als EA , Invorderen en UZS. Twijfel je , neem dan contact op met je collega van AW. In Onderkennen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        181.01,
+        743.0,
+        196.01
+      ],
+      "text": "mogelijke samenloop en in Verwerken samenloop van uitkeringen binnen Uitkeren lees je hoe je de systemen kunt raadplegen en hoe je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        200.01,
+        250.09,
+        215.01
+      ],
+      "text": "contact opneemt met je AW-collega.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        231.01,
+        745.5,
+        246.01
+      ],
+      "text": "Het kan ook zijn dat je de WW-aanvraag al eerder hebt ontvangen en op basis daarvan al hebt toegekend en betaald. Als er sprake is van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        250.01,
+        554.21,
+        265.01
+      ],
+      "text": "een WIA-voorschot dat door de ERD is betaald , moet de WW-betaling hierop worden gecorrigeerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        281.01,
+        660.07,
+        296.01
+      ],
+      "text": "Hieronder wordt onderscheid gemaakt tussen een reeds betaalde WW-uitkering en een nog niet betaalde WW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        311.01,
+        185.25,
+        326.01
+      ],
+      "text": "WW is nog niet betaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        331.01,
+        744.33,
+        346.01
+      ],
+      "text": "De ERD heeft een voorschot WIA verstrekt aan de (ex-)werknemer. Achteraf blijkt dat er geen recht bestaat op WIA , maar wel op WW. De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        351.01,
+        286.5,
+        366.01
+      ],
+      "text": "WW moet uitbetaald worden aan cliënt zelf.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        382.01,
+        742.73,
+        397.01
+      ],
+      "text": "In dit geval wordt door AW de ERD via een werkgeversbetaling gecompenseerd ter hoogte van het voorschot dat de ERD heeft verstrekt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        412.01,
+        734.0,
+        427.01
+      ],
+      "text": "Daarnaast herziet AW de werkgeversbetaling naar nul , waarbij de herziening de betaalrichting ‘werknemer’ krijgt. Zo ontstaat er na het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        432.01,
+        432.13,
+        447.01
+      ],
+      "text": "aanbieden van de vordering aan Excasso een WIA-vordering op de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        462.01,
+        130.33,
+        476.01
+      ],
+      "text": "Betaling WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        482.01,
+        170.0,
+        497.01
+      ],
+      "text": "Je handelt als volgt:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        513.01,
+        753.86,
+        528.01
+      ],
+      "text": "Wacht met betalen van de WW totdat AW de werkgeversbetaling heeft herzien en er een WIA-vordering op de cliënt in Invorderen staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        517.02,
+        79.0,
+        533.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        532.01,
+        759.4,
+        547.01
+      ],
+      "text": "Let er op dat de vordering op ‘Verrekenen’ staat en dat ind. restitutie’ op ‘J staat. Stem indien nodig met je collega van AW af dat dit door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        552.01,
+        206.0,
+        567.01
+      ],
+      "text": "je collega wordt gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        571.01,
+        751.5,
+        586.01
+      ],
+      "text": "Betaal daarna de WW-uitkering aan cliënt uit. Er wordt nu op reguliere wijze verrekend met de in Invorderen openstaande vordering van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        575.02,
+        79.0,
+        591.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        591.01,
+        588.58,
+        606.01
+      ],
+      "text": "de WIA. Indien er na verrekening met de WIA een restbedrag overblijft , wordt dat aan cliënt uitbetaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        610.01,
+        750.0,
+        625.01
+      ],
+      "text": "Mocht de WW-betaling gelijk zijn aan het WIA-voorschot , dan zal er geen betaling aan cliënt plaats vinden. Als de WW-betaling lager is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        614.02,
+        79.0,
+        630.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        630.01,
+        580.2,
+        645.01
+      ],
+      "text": "dan het WIA-voorschot , blijft er een restvordering van de WIA over die wordt afgeboekt door de WIA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        664.01,
+        153.25,
+        679.01
+      ],
+      "text": "WW is al betaald",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        684.01,
+        455.93,
+        699.01
+      ],
+      "text": "Als je de WW al hebt uitbetaald aan cliënt , geldt een afwijkende werkwijze[2].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        715.01,
+        712.2,
+        730.01
+      ],
+      "text": "Je ontvangt van je collega van AW een berekening van het door WW terug te vorderen bedrag. Zie voor een voorbeeld van deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        719.02,
+        79.0,
+        735.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        734.01,
+        760.36,
+        749.01
+      ],
+      "text": "berekening de WIA-instructie ‘Afhandeling voorschot na definitieve beslissing door SMZ – Geen recht op WIA’ onder stap 11b: Financiële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        754.01,
+        747.67,
+        769.01
+      ],
+      "text": "afhandeling zelfbetalende ERD (voorschot op basis van LAU1). Dit voorbeeld staat onder ‘Dag 3: De WW-uitkering is uitbetaald aan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        773.01,
+        119.5,
+        788.01
+      ],
+      "text": "cliënt. ’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        793.01,
+        745.83,
+        808.01
+      ],
+      "text": "De collega van AW legt deze berekening vast in een interne memo ‘UWGII07-01’ en slaat het op in EA onder de AOS-code ‘WW/interne",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        797.02,
+        79.0,
+        813.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        812.01,
+        686.5,
+        827.01
+      ],
+      "text": "correspondentie/communicatieformulieren AW/WW’ voor de WW. AW maakt hierbij Wintersignaal WW – Uitkeren-WWO -",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        832.01,
+        397.6,
+        847.01
+      ],
+      "text": "Communicatieformulieren AW/WW (Uitkeren-WWO) (WW) aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        851.01,
+        747.0,
+        866.01
+      ],
+      "text": "Je voert nu een handmatige claimvordering op. In Handmatig registreren Interne Vordering (en claimvordering) (INVAG) lees je hoe je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        855.02,
+        79.0,
+        871.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        871.01,
+        129.67,
+        886.01
+      ],
+      "text": "dat doet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        890.01,
+        370.8,
+        905.01
+      ],
+      "text": "In dit scherm moet je ook het ‘Volgnummer UKV’ invullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        910.01,
+        734.0,
+        925.01
+      ],
+      "text": "Voor een WW-uitkering zijn de eerste 2 cijfers altijd ‘90’ , dit vul je aan met het getal dat staat bij ‘Volgnummer aanvraag’ in T1014 in",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        89.0,
+        929.01,
+        113.0,
+        944.01
+      ],
+      "text": "WWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        948.01,
+        139.0,
+        963.01
+      ],
+      "text": "Voorbeeld:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        146.0,
+        949.01,
+        619.0,
+        964.01
+      ],
+      "text": "In WWO zie je bij ‘Volgnummer aanvraag’ 241 staan. In Excasso vul je nu het volgende in: 90241.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        968.01,
+        753.0,
+        983.01
+      ],
+      "text": "Als je een handmatige vordering moet registreren in INVAG en er is ook een TW-vordering , dan registreer je de WW-vordering én de TW-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        988.01,
+        740.29,
+        1003.01
+      ],
+      "text": "vordering. Dit betekent dat je 2 keer een vordering opvoert (voor WW en TW). Dit zorgt voor correcte verwerking van de loonaangifte.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        1007.01,
+        760.25,
+        1022.01
+      ],
+      "text": "Bij de WW-vordering registreer je het ‘Volgnummer UWV’ van de WW. Bij de TW-vordering registreer je het ‘Volgnummer UWV’ van de TW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        1027.01,
+        759.0,
+        1042.01
+      ],
+      "text": "Voor een TW-uitkering zijn de eerste 2 cijfers altijd ‘91’ , dit vul je aan met het getal dat staat bij ‘Volgnummer aanvraag’ in T1064 in WWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        1046.01,
+        618.0,
+        1061.01
+      ],
+      "text": "Voorbeeld: In WWO zie je bij ‘Volgnummer aanvraag’ 241 staan. In Excasso vul je nu het volgende in: 91241.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        1066.02,
+        642.13,
+        1081.02
+      ],
+      "text": "Na registratie van de claimvordering stel je op basis van de ontvangen berekening de terugvordering in bij cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        1070.02,
+        79.0,
+        1086.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        89.0,
+        1085.02,
+        758.12,
+        1100.02
+      ],
+      "text": "AW zal de WIA-uitkering herzien , een negatieve TWK instellen en deze RCV daarna afboeken voor correcte registratie en fondsbelasting.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        76.0,
+        1089.02,
+        79.0,
+        1105.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1135.03,
+        725.57,
+        1160.03
+      ],
+      "text": "Beoordelen declaratieformulier (alleen bij externe vordering van buiten",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1161.03,
+        117.2,
+        1186.03
+      ],
+      "text": "UWV)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        52.02,
+        726.33,
+        67.02
+      ],
+      "text": "Het gaat hier meestal om een verrekening met een gemeente. Mogelijk ontvang je direct het declaratieformulier maar meestal niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        72.02,
+        748.14,
+        87.02
+      ],
+      "text": "Wanneer je het formulier nog niet hebt ontvangen , neem je contact op met de externe instantie en vraag je het declaratieformulier binnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        91.02,
+        652.2,
+        106.02
+      ],
+      "text": "een week op te sturen. Mocht je het na 1 week nog niet hebben ontvangen , vraag je het op met brief ‘UWWCM05-001’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        111.02,
+        481.5,
+        126.02
+      ],
+      "text": "Wanneer je het declaratieformulier (uiteindelijk) hebt ontvangen , beoordeel je deze.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        142.02,
+        627.23,
+        157.02
+      ],
+      "text": "Wanneer je alle informatie beschikbaar hebt en je kunt verrekenen , ga je naar Registreren in Externe vorderingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        172.01,
+        734.5,
+        187.01
+      ],
+      "text": "Let op: Het kan zijn dat een gemeente een recht op toeslag , wat (deels) in de plaats komt voor de verstrekte aanvullende uitkering ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        192.01,
+        718.67,
+        207.01
+      ],
+      "text": "declareert nadat er over de betreffende periode al WW is uitbetaald[3]. Je betaalt dan de TW aan de cliënt en laat de gemeente de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        211.01,
+        761.67,
+        226.01
+      ],
+      "text": "onterecht betaalde aanvulling bij de cliënt terug halen. Het nabetaalde TW-bedrag blijft zo op de jaaropgave van UWV staan. Je verstuurt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        231.01,
+        746.75,
+        246.01
+      ],
+      "text": "brief ‘UWTCM54-03: ‘Declaratie van andere instantie , wel/geen bedrag overmaken’ en gebruikt de bouwsteen ‘onv. beschikbaar of verrek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        250.01,
+        713.7,
+        265.01
+      ],
+      "text": "niet mogelijk’. Geef met de bouwsteen ‘wel/geen tel. contact instantie’ aan of je telefonisch contact hebt gehad met de gemeente.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        285.02,
+        236.5,
+        302.02
+      ],
+      "text": "Afstemmen met andere wet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        301.01,
+        246.25,
+        316.01
+      ],
+      "text": "Je bespreekt onderstaande punten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        332.01,
+        752.86,
+        347.01
+      ],
+      "text": "Je stemt met de collega van de andere wet af of er verrekening kan plaatsvinden. Hoe je elkaar vindt , lees je in de Contactmatrix intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        336.02,
+        79.0,
+        352.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        352.01,
+        142.16,
+        367.01
+      ],
+      "text": "verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        371.01,
+        757.0,
+        386.01
+      ],
+      "text": "Wanneer je daadwerkelijk kunt verrekenen maak je concrete afspraken (inclusief planning) hoe je dat gaat doen. Zorg er ook voor dat je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        391.01,
+        483.9,
+        406.01
+      ],
+      "text": "een e-mail (declaratieformulier hoeft niet meer) hebt met de volgende gegevens:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        104.0,
+        410.01,
+        120.5,
+        425.01
+      ],
+      "text": "BSN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        414.02,
+        94.0,
+        430.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.0,
+        430.01,
+        209.25,
+        445.01
+      ],
+      "text": "Te verrekenen periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        434.02,
+        94.0,
+        450.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.0,
+        449.01,
+        375.67,
+        464.01
+      ],
+      "text": "Brutobedrag van de vordering (geen werkgeverspremie)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        453.02,
+        94.0,
+        469.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        104.0,
+        469.01,
+        226.86,
+        484.01
+      ],
+      "text": "Eventuele bijzonderheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        91.0,
+        473.02,
+        94.0,
+        489.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        503.01,
+        626.08,
+        518.01
+      ],
+      "text": "Wanneer de vordering afkomstig is van een andere wet , zorgt die wet er voor dat de e-mail in EA terechtkomt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        523.01,
+        740.16,
+        538.01
+      ],
+      "text": "Wanneer je in het huidige VT-jaar zit , geef je aan dat je ook de VT gebruikt als de vordering van de andere wet daarmee (deels) wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        527.02,
+        79.0,
+        543.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        542.01,
+        727.33,
+        557.01
+      ],
+      "text": "vereffend. Je mag alleen de VT gebruiken van de exacte restitutieperiode. Als er sprake is van een afgesloten VT-jaar , wordt de VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        562.01,
+        752.0,
+        577.01
+      ],
+      "text": "tegelijkertijd met de reguliere uitkering toegekend. Er volgt gelijk verrekening met de claimvordering(en) van de andere wet. Hier heb je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        581.01,
+        634.75,
+        596.01
+      ],
+      "text": "geen invloed op en het kan zijn dat Excasso de VT gebruikt van maanden die buiten de restitutieperiode liggen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        601.01,
+        744.38,
+        616.01
+      ],
+      "text": "Je vraagt de collega om je te informeren als de vordering daadwerkelijk in Invorderen staat. Het is namelijk van belang dat de collega",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        605.02,
+        79.0,
+        621.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        620.01,
+        748.67,
+        635.01
+      ],
+      "text": "van de andere wet de vordering in Invorderen zet , voordat jij de betaling uitvoert omdat de restitutietoekenning wordt afgekeurd als de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        640.01,
+        301.71,
+        655.01
+      ],
+      "text": "restitutievordering nog niet aanwezig is[4].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        674.01,
+        744.67,
+        689.01
+      ],
+      "text": "Wanneer je alle gegevens beschikbaar hebt en je ontvangt een signaal van de andere wet dat de vordering in Invorderen staat , voer je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        694.01,
+        353.8,
+        709.01
+      ],
+      "text": "betaling (als de cliënt zijn IKO heeft ingediend) z. s. m. uit.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        713.01,
+        300.0,
+        728.01
+      ],
+      "text": "Hoe je dat doet , lees je bij Registreren in WWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        748.02,
+        425.0,
+        765.02
+      ],
+      "text": "Andere wet heeft vordering al overgeboekt naar Invorderen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        763.01,
+        718.42,
+        778.01
+      ],
+      "text": "Als de andere wet de vordering(en) inmiddels al heeft overgeboekt naar Invorderen , geldt de werkwijze in onderstaande verdieping.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        794.01,
+        448.83,
+        809.01
+      ],
+      "text": "Werkwijze als de andere wet de vordering naar Invorderen heeft overgeboekt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        833.02,
+        494.73,
+        852.02
+      ],
+      "text": "Registreren in Externe vorderingen (alleen bij externe vordering)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        854.01,
+        724.67,
+        869.01
+      ],
+      "text": "Je registreert de verrekening met de externe instantie in Externe vorderingen. Na deze handeling registreer je de vaststelling over de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        874.01,
+        759.0,
+        889.01
+      ],
+      "text": "restitutieperiode , hoe je dat doet , staat beschreven bij Registreren in WWO. Het is van belang om deze volgorde aan te houden want anders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        893.01,
+        246.18,
+        908.01
+      ],
+      "text": "wordt de toekenning(en) afgekeurd.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.0,
+        939.02,
+        384.78,
+        961.02
+      ],
+      "text": "Registreren in WWO (alle vorderingen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        958.01,
+        347.16,
+        973.01
+      ],
+      "text": "Je registreert nu de periode waarover je wilt verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        977.01,
+        392.46,
+        992.01
+      ],
+      "text": "Je registreert de ‘Code Restitutie’ in scherm T1221 , zie hieronder:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        1008.01,
+        728.5,
+        1023.01
+      ],
+      "text": "Versie 1: De begindatum is de eerste dag van de verrekenperiode. Zet ‘Code Restitutie’ op ‘J’ per deze begindatum. De ‘Code soort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        1012.02,
+        79.0,
+        1028.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        1027.01,
+        226.6,
+        1042.01
+      ],
+      "text": "begunstigde’ pas je niet aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        1047.01,
+        568.53,
+        1062.02
+      ],
+      "text": "Versie 2: Zet ‘Code Restitutie’ op ‘N’ per de dag volgend op de einddatum van de restitutieperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        1051.02,
+        79.0,
+        1067.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1081.02,
+        542.57,
+        1096.02
+      ],
+      "text": "De job ‘Serie Vaststellen’ in WWO splitst zelf het bedrag. Handmatig splitsen is niet meer nodig!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1112.02,
+        687.8,
+        1127.02
+      ],
+      "text": "Vervolgens kun je de restitutieperiode in WWO vaststellen en worden er toekenningen geleverd aan Excasso (regulier en VT).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1143.02,
+        745.31,
+        1158.02
+      ],
+      "text": "De code restitutie kan in combinatie met alle soorten codes begunstigde. Deze pas je dus niet aan in geval van een restitutietoekenning.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1162.02,
+        396.0,
+        1177.02
+      ],
+      "text": "M. a. w. de code restitutie gaat voor op de code soort begunstigde.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        59.02,
+        458.43,
+        74.02
+      ],
+      "text": "Nabetaling over gebroken maand (code restitutie in T1221 blijft op ‘N’ staan)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        79.02,
+        751.5,
+        94.02
+      ],
+      "text": "Als je constateert dat er een nabetaling over een gebroken maand is waarvoor al eerder een vaststelling (betaling) heeft plaatsgevonden ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        98.02,
+        718.67,
+        113.02
+      ],
+      "text": "moet je altijd controleren of de claimvordering van de andere wet juist is gevuld. Het is namelijk niet mogelijk om een nabetaling te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        118.02,
+        763.6,
+        133.02
+      ],
+      "text": "verrekenen met een vordering van een andere wet waarbij de code restitutie op ‘J’ staat (er heeft dan over die maand al een toekenning fase",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        137.02,
+        760.25,
+        152.02
+      ],
+      "text": "30 plaatsgevonden). Je kunt in dit geval geen ‘restitutie’ meegeven aan een TWK in WWO. In dit geval pas je de code restitutie in T1221 dus",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        157.02,
+        231.57,
+        172.01
+      ],
+      "text": "niet aan en blijft die op ‘N’ staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        187.01,
+        729.33,
+        202.01
+      ],
+      "text": "De declarerende partij moet in dit geval anders omgaan met de claimvordering , zie de werkinstructie Uitzondering bij ZW/IOW/AW of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        207.01,
+        239.25,
+        222.01
+      ],
+      "text": "Betalingsonmacht vordert op WW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        226.01,
+        757.67,
+        241.01
+      ],
+      "text": "Als de claimvordering anders is gevuld , neem je contact op met de declarerende partij en handel je de vaststelling nog niet af. Je vraagt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        246.01,
+        740.5,
+        261.01
+      ],
+      "text": "declarerende partij de claimvordering te wijzigingen zoals hierboven beschreven. Als WW dan de nabetaling (TWK) aan Excasso levert ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        265.01,
+        743.8,
+        280.01
+      ],
+      "text": "wordt het hele bedrag van de WW (TWK) nabetaling binnen de verrekeningsperiode verrekend met de claimvordering van de andere wet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        296.01,
+        740.16,
+        311.01
+      ],
+      "text": "Zorg ervoor dat je de hele restitutieperiode in 1 keer (op 1 dag) afhandelt , om te zorgen dat de vordering zoveel mogelijk in 1 keer wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        316.01,
+        637.3,
+        331.01
+      ],
+      "text": "afgedaan. Er mogen op dat moment geen andere betalingen worden aangeleverd die los staan van de verrekening.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        346.01,
+        119.9,
+        361.01
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        377.01,
+        757.0,
+        392.01
+      ],
+      "text": "Soms staat de vordering van de andere wet nog niet in Invorderen en kan je de restitutieverrekening dus nog niet uitvoeren , terwijl de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        397.01,
+        727.67,
+        412.01
+      ],
+      "text": "al een IKO heeft ingediend over een maand gelegen na de restitutieperiode. In de volgende uitklapper lees je hoe je dan te werk gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        427.01,
+        527.44,
+        442.01
+      ],
+      "text": "Werkwijze ‘Vaststellen WW-uitkering na periode restitutie bij ontbreken restitutieverrekening’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        458.01,
+        760.21,
+        473.01
+      ],
+      "text": "Als de vordering van de andere wet wel in Invorderen staat maar de betaling niet is gelukt is , dan controleer je of alles goed is geregistreerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        478.01,
+        755.67,
+        493.01
+      ],
+      "text": "in zowel WWO als Invorderen. Waarschijnlijk heb je nu ook actie 5-32 ‘Afh. Afgekeurde toekenning mdw’ ontvangen . Je stemt eventueel af",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        497.01,
+        354.57,
+        512.01
+      ],
+      "text": "met je collega van de andere wet en past aan waar nodig.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        528.01,
+        528.73,
+        543.01
+      ],
+      "text": "Actie 5-32 Afh. Afgekeurde toekenning mdw “Geen restitutievordering aanwezig” ontvangen?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        547.01,
+        282.18,
+        562.01
+      ],
+      "text": "Volg dan het stappenplan in het voorbeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        578.01,
+        119.9,
+        593.01
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        617.02,
+        168.75,
+        636.02
+      ],
+      "text": "Hoe nu verder?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        638.01,
+        759.67,
+        653.01
+      ],
+      "text": "Wanneer je in het huidige VT-jaar zit en je na de registratie in WWO al weet dat je de VT over de restitutieperiode ook moet gebruiken om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        658.01,
+        732.67,
+        673.01
+      ],
+      "text": "vordering (deels) te vereffenen , maak je voor jezelf een opvolgtaak ‘VT over restitutieperiode vereffenen’ aan om een werkdag later de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        677.01,
+        348.53,
+        692.01
+      ],
+      "text": "vakantietoeslag over te maken over de restitutieperiode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        697.01,
+        756.25,
+        712.01
+      ],
+      "text": "Je moet er wel op letten dat de vakantietoeslag die bestemd is voor de cliënt , blijft staan. In T2414 zie je de week- en dagtoekenningen die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        716.01,
+        730.0,
+        731.01
+      ],
+      "text": "in deze periode zijn aangemaakt. Je moet nu de begindatum van de verschillende week- en dagtoekenningen invoeren in Excasso , bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        736.01,
+        706.67,
+        751.01
+      ],
+      "text": "‘Uitbetalen VT Handmatig’ (EXCAF). In dit scherm vul je bij ‘Datum begin toekenning’ de verschillende begindata van de week- en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        755.01,
+        203.03,
+        770.01
+      ],
+      "text": "dagrestitutietoekenningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        775.01,
+        737.6,
+        790.01
+      ],
+      "text": "Je ziet nu de toekenning(en) klaar staan vanaf deze datum waaronder de restitutietoekenning. Hoe je vervolgens deze toekenning (VT)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        794.01,
+        281.0,
+        809.01
+      ],
+      "text": "uitkeert , lees je in de Handleiding Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        825.01,
+        734.88,
+        840.01
+      ],
+      "text": "Wanneer na de verrekening nog een restant van de toekenning over is maar er is geen restant aan restitutievordering meer , dan wijzigt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        844.01,
+        756.5,
+        859.01
+      ],
+      "text": "automatisch de code restitutie in ‘N’ , dit is in Invorderen (dit zie je niet). Dit betekent dat de nabetaling mogelijk wordt ingehouden voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        864.01,
+        302.03,
+        879.01
+      ],
+      "text": "al bestaande interne vordering/claimvordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        883.01,
+        757.16,
+        898.01
+      ],
+      "text": "Wanneer er een vordering overblijft , wordt deze afgehandeld door de andere partij. Als er geen andere openstaande vordering is , dan wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        903.01,
+        454.0,
+        918.01
+      ],
+      "text": "het restant automatisch betaald aan de in T1221 geregistreerde begunstigde.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        949.02,
+        271.71,
+        971.02
+      ],
+      "text": "Informeren andere partij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        967.01,
+        473.0,
+        982.01
+      ],
+      "text": "De externe instantie wordt geïnformeerd met een automatische brief uit Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        998.01,
+        691.2,
+        1013.01
+      ],
+      "text": "Naar de andere wet verstuur je geen brief. Je informeert de andere wet wel dat je hebt verrekend. Hierin geef je ook eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1018.01,
+        170.6,
+        1033.01
+      ],
+      "text": "bijzonderheden aan.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1064.02,
+        211.43,
+        1086.02
+      ],
+      "text": "Informeren cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1082.02,
+        711.0,
+        1097.02
+      ],
+      "text": "Nadat de verrekening is uitgevoerd , verstuur je brief ‘UWWCM04-001’ naar de cliënt. Hierin vermeld je ook of de cliënt wel of geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1102.02,
+        171.3,
+        1117.02
+      ],
+      "text": "nabetaling ontvangt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1152.03,
+        615.44,
+        1177.03
+      ],
+      "text": "Afdeling WW is declarerende instantie (restitutievordering)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        52.02,
+        677.5,
+        67.02
+      ],
+      "text": "Een cliënt krijgt met terugwerkende kracht een andere uitkering toegekend of heeft mogelijk recht op een uitkering van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        72.02,
+        709.0,
+        87.02
+      ],
+      "text": "eigenrisicodrager. Over de verstreken periode is onterecht WW- en eventueel TW-uitkering betaald. Je declareert dit bedrag nu bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        91.02,
+        174.6,
+        106.02
+      ],
+      "text": "betreffende afdeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        122.02,
+        558.13,
+        137.02
+      ],
+      "text": "Let op: Je vordert niet terug van een externe instantie. In dat geval vorder je terug van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.0,
+        168.02,
+        222.38,
+        190.02
+      ],
+      "text": "Ontvangen signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        187.01,
+        751.0,
+        202.01
+      ],
+      "text": "Je kunt op verschillende manieren geattendeerd worden dat met terugwerkende kracht een uitkering is toegekend. Bijvoorbeeld omdat je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        206.01,
+        755.0,
+        221.01
+      ],
+      "text": "van een andere afdeling het signaal ontvangt dat de cliënt recht blijkt te hebben op een andere uitkering. Mogelijk kom je er zelf achter dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        226.01,
+        569.16,
+        241.01
+      ],
+      "text": "de cliënt geen recht heeft op een WW-uitkering , bijvoorbeeld door signaal 5-03 ‘Persoon ziekgemeld’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        245.01,
+        546.84,
+        260.01
+      ],
+      "text": "Je controleert vervolgens welke gegevens je beschikbaar hebt en of er gegevens zijn die je mist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        276.01,
+        753.75,
+        291.01
+      ],
+      "text": "Gaat het om het terugleggen van de eerste arbeidsongeschiktheidsdag door de Ziektewet (ZW) , ga dan verder met ‘Signaal (vanuit ZW)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        280.02,
+        79.0,
+        296.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        295.01,
+        692.84,
+        310.01
+      ],
+      "text": "over terugleggen (eerste) ao-dag’. Er kán dan namelijk een vaststellingsovereenkomst (VSO) zijn. Daar is apart beleid voor.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        315.01,
+        750.8,
+        330.01
+      ],
+      "text": "Het kan ook zijn dat de cliënt met een VSO uit dienst is gegaan en de eerste ao-dag is teruggelegd , maar dat de betreffende werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        334.01,
+        606.56,
+        349.01
+      ],
+      "text": "een eigenrisicodrager is. Ook dan ga je verder met ‘Signaal (vanuit ZW) over terugleggen (eerste) ao-dag’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        354.01,
+        520.8,
+        369.01
+      ],
+      "text": "Is er géén teruggelegde (eerste) ao-dag , ga dan verder met Afstemmen met andere wet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        358.02,
+        79.0,
+        374.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        393.02,
+        422.29,
+        412.02
+      ],
+      "text": "Signaal (vanuit ZW) over terugleggen (eerste) ao-dag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        414.01,
+        760.0,
+        429.01
+      ],
+      "text": "Je ontvangt per e-mail bericht vanuit de ZW dat de eerste arbeidsongeschiktheidsdag (ao-dag) is teruggelegd naar een eerdere datum. Dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        433.01,
+        713.64,
+        448.01
+      ],
+      "text": "is er mogelijk benadeling van fondsen (het onterecht doen van beroep op een uitkering) en kan de ZW een maatregel[5]opleggen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        464.01,
+        745.38,
+        479.01
+      ],
+      "text": "Omdat er een eerdere ao-dag is dan oorspronkelijk opgegeven en dus mogelijk benadeling van fondsen , kan de ZW besluiten het dossier",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        484.01,
+        756.5,
+        499.01
+      ],
+      "text": "voor te leggen aan de VA van SMZ om te beoordelen of het om verwijtbaar ontslag gaat. De ZW registreert een melding ‘Ziek uit dienst’ ter",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        503.01,
+        247.63,
+        518.01
+      ],
+      "text": "vervanging van de WW-ziekmelding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        534.01,
+        720.67,
+        549.01
+      ],
+      "text": "Signaal 5-03 ‘Persoon ziekgemeld’ is ook een signaal dat je (mogelijk) wijst op het terugleggen van de eerste ao-dag. Mogelijk is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        553.01,
+        737.8,
+        568.01
+      ],
+      "text": "werkgever waaruit de cliënt werkloos is geworden een ERD voor de ZW en heeft de cliënt bij die werkgever een VSO ondertekend. Meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        573.01,
+        641.62,
+        588.01
+      ],
+      "text": "informatie over de werkwijze bij een VSO (ook bij de ERD voor de ZW) lees je bij ‘Vaststellingsovereenkomst (VSO)’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        608.02,
+        273.0,
+        625.02
+      ],
+      "text": "Vaststellingsovereenkomst (VSO)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        624.01,
+        760.0,
+        639.01
+      ],
+      "text": "Als de ao-dag is teruggelegd , kan er mogelijk een VSO zijn voorafgaand aan de WW. Als de VA vaststelt dat de cliënt al ziek was vóórdat hij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        643.01,
+        720.67,
+        658.01
+      ],
+      "text": "de VSO ondertekende en daarna wegens dezelfde oorzaak ziek is gebleven , vervalt het recht op WW en is er direct na afloop van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        663.01,
+        409.25,
+        678.01
+      ],
+      "text": "dienstbetrekking recht op ZW of een betaling van de ERD van de ZW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        682.01,
+        750.91,
+        697.01
+      ],
+      "text": "Je zoekt eerst in WWO-scherm T1014 het loonheffingennummer op van de werkgever waarna de cliënt werkloos is geworden. Vervolgens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        702.01,
+        664.33,
+        717.01
+      ],
+      "text": "zoek je (mogelijk via een collega) in UZS of die werkgever een ERD is voor de ZW. [6]Verrekening met de ERD van de ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        74.0,
+        748.02,
+        235.67,
+        770.02
+      ],
+      "text": "Verrekening met ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        766.01,
+        669.7,
+        781.01
+      ],
+      "text": "Als de VA constateert dat er een benadelingshandeling is , dan komt de ZW echter niet of slechts gedeeltelijk tot betaling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        786.01,
+        746.25,
+        801.01
+      ],
+      "text": "De WW-uitkering is onverschuldigd betaald en zou in principe moeten worden herzien of ingetrokken en teruggevorderd. De cliënt zit dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        805.01,
+        314.6,
+        820.01
+      ],
+      "text": "zonder inkomen en heeft ook een schuld bij UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        836.01,
+        735.43,
+        851.01
+      ],
+      "text": "In dit geval toets je op redelijkerwijs duidelijk en dringende reden om af te zien van terugvordering. Zie hiervoor de Wetsuitleg WW/IOW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        856.01,
+        690.86,
+        871.01
+      ],
+      "text": "338. 01 Herziening en intrekking: 3. 3 Redelijkerwijs duidelijk onder ‘Voorbeelden WW: Voorbeelden: ziek tijdens ondertekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        875.01,
+        760.33,
+        890.01
+      ],
+      "text": "vaststellingsovereenkomst’ en (indien van toepassing) de werkinstructie Toetsen dringende reden (handboek Processen Uitkeren breed) of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        895.01,
+        181.33,
+        910.01
+      ],
+      "text": "je terugvordert of niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        925.01,
+        746.67,
+        940.01
+      ],
+      "text": "Meer informatie over het beleid over herzien en terugvorderen bij een VSO en het terugleggen van de eerste ao-dag door ZW lees je in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        945.01,
+        642.38,
+        960.01
+      ],
+      "text": "verdieping hieronder. Lees deze goed door voordat je verder gaat met de acties voor het afhandelen van het proces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        976.01,
+        298.71,
+        991.01
+      ],
+      "text": "Beleid herzien en terugvorderen VSO bij ziekte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        1006.01,
+        373.1,
+        1021.01
+      ],
+      "text": "Je voert de volgende acties uit om het proces af te handelen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1037.01,
+        710.0,
+        1052.01
+      ],
+      "text": "Na ontvangst van de e-mail (in de vakcoördinatorenmailbox van je district) vanuit de ZW weet je alleen dat de eerste ao-dag is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        1041.02,
+        79.0,
+        1057.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1057.01,
+        720.5,
+        1072.02
+      ],
+      "text": "teruggelegd , maar weet je mogelijk nog niet of de cliënt ook verwijtbaar wordt geacht voor het ontslag en of er sprake is van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1076.02,
+        430.25,
+        1091.02
+      ],
+      "text": "toekenning ZW met terugwerkende kracht. Dit achterhaal je bij de ZW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1096.02,
+        747.33,
+        1111.02
+      ],
+      "text": "Neem contact op met de ZW (de contactpersoon of indiener van de e-mail die je hebt ontvangen) voor nadere informatie. Vraag na of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        1100.02,
+        79.0,
+        1116.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1115.02,
+        587.92,
+        1130.02
+      ],
+      "text": "het dossier is voorgelegd aan de VA voor de verwijtbaarheidstoets (en dus de benadelingshandeling).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1135.02,
+        760.25,
+        1150.02
+      ],
+      "text": "Registreer in het kladblok dat je het bericht van de ZW hebt ontvangen en dat je , als je uitvraag hebt gedaan bij de ZW en het dossier nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        76.0,
+        1139.02,
+        79.0,
+        1155.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        89.0,
+        1154.02,
+        655.67,
+        1169.02
+      ],
+      "text": "voorgelegd is aan de VA , nader bericht van de ZW afwacht. Maak een opvolgtaak aan in MAWW om dit te bewaken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        52.02,
+        744.91,
+        67.02
+      ],
+      "text": "Wacht met herzien of intrekken en eventueel verrekenen totdat je bericht ontvangt van de ZW. Beëindig de WW nog niet in afwachting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        56.02,
+        79.0,
+        72.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        72.02,
+        174.78,
+        87.02
+      ],
+      "text": "van nader bericht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        91.02,
+        241.8,
+        106.02
+      ],
+      "text": "Zet automatisch betalen op ‘N’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        95.02,
+        79.0,
+        111.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        111.02,
+        743.5,
+        126.02
+      ],
+      "text": "Beoordeel de situatie om te betalen en stem dit waar nodig af met de ZW. Als de ZW nog geen benadelingshandeling heeft getoetst ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        115.02,
+        79.0,
+        131.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        130.02,
+        166.25,
+        145.02
+      ],
+      "text": "betaal je de WW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        150.02,
+        749.5,
+        165.02
+      ],
+      "text": "Zodra je (opnieuw) bericht ontvangt vanuit de ZW en bekend is of er naast het terugleggen van de eerste ao-dag ook sprake is van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        154.02,
+        79.0,
+        170.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        169.01,
+        740.0,
+        184.01
+      ],
+      "text": "benadelingshandeling bij de ZW , herzie je de WW. Volg hiervoor het beleid dat staat in de verdieping ‘Beleid herzien en terugvorderen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        189.01,
+        159.11,
+        204.01
+      ],
+      "text": "VSO bij ziekte’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        223.01,
+        754.91,
+        238.01
+      ],
+      "text": "Je gebruikt voor deze beoordeling de 5 richtlijnen van de Wetsuitleg WW/IOW 338. 01 Herziening en intrekking: 3. 3 Redelijkerwijs duidelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        243.01,
+        715.13,
+        258.01
+      ],
+      "text": "Je toetst dus onder andere op communicatie , complexiteit van wet- en regelgeving en persoonlijke omstandigheden van de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        262.01,
+        650.71,
+        277.01
+      ],
+      "text": "Om deze toetsing zo goed mogelijk uit te voeren , gebruik je alle daarvoor relevante en aanwezige documenten , zoals:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        293.01,
+        637.57,
+        308.01
+      ],
+      "text": "De VSO en eventuele ontslagdocumentatie (indien aanwezig) en de feiten en omstandigheden die daarin staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        297.02,
+        79.0,
+        313.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        312.01,
+        120.0,
+        327.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        126.0,
+        313.01,
+        739.67,
+        328.01
+      ],
+      "text": "Als de cliënt op de digitale aanvraag aangeeft zélf het initiatief te hebben genomen tot beëindigen van het contract , dan is er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        332.01,
+        431.2,
+        347.01
+      ],
+      "text": "sprake geweest van uitworpreden ’27 Onderzoek reden werkloosheid’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        352.01,
+        308.25,
+        367.01
+      ],
+      "text": "De beschikbaarheid voor werk bij Werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        356.02,
+        79.0,
+        372.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        371.01,
+        380.0,
+        386.01
+      ],
+      "text": "Gespreksregistraties die Werkbedrijf heeft gevoerd in Sonar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        375.02,
+        79.0,
+        391.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        391.01,
+        352.25,
+        406.01
+      ],
+      "text": "Documenten in EA zoals werkplannen van Werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        395.02,
+        79.0,
+        411.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        410.01,
+        389.25,
+        425.01
+      ],
+      "text": "Contacten met de adviseur werk (of anderen) van Werkbedrijf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        414.02,
+        79.0,
+        430.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        430.01,
+        168.06,
+        445.01
+      ],
+      "text": "CMP-registraties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        434.02,
+        79.0,
+        450.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        449.01,
+        696.67,
+        464.01
+      ],
+      "text": "Lekenrapportages (schriftelijke rapportage met niet-medische informatie die voor iedereen toegankelijk is) waarin feiten en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        453.02,
+        79.0,
+        469.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        469.01,
+        199.33,
+        484.01
+      ],
+      "text": "omstandigheden staan",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.0,
+        515.02,
+        299.25,
+        537.02
+      ],
+      "text": "Afstemmen met andere wet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        533.01,
+        765.5,
+        548.01
+      ],
+      "text": "Ga na of er verrekening met de andere afdeling kan plaatsvinden. Als de andere wet al betaald heeft over de volledig gedeclareerde periode ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        553.01,
+        322.4,
+        568.01
+      ],
+      "text": "dan is verrekening bijvoorbeeld niet meer mogelijk.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        572.01,
+        748.86,
+        587.01
+      ],
+      "text": "Stem met de medewerker van de andere afdeling de mogelijkheden tot verrekening. Hoe je elkaar vindt , lees je in de Contactmatrix intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        592.01,
+        127.16,
+        607.01
+      ],
+      "text": "verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        611.01,
+        759.6,
+        626.01
+      ],
+      "text": "Je stemt ook de mogelijke overnamedatum af (de datum vanaf wanneer de andere afdeling de andere uitkering aan de cliënt gaat betalen).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        424.0,
+        630.01,
+        546.33,
+        645.01
+      ],
+      "text": "Je moet het samen doen!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        631.01,
+        747.0,
+        646.01
+      ],
+      "text": "Wees ook duidelijk wat je van elkaar verwacht in de komende periode. Wanneer je gaat verrekenen , verstuur je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        650.01,
+        560.9,
+        665.01
+      ],
+      "text": "een e-mail (geen officieel declaratieformulier meer) naar de andere wet met de volgende gegevens:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        681.01,
+        103.25,
+        696.01
+      ],
+      "text": "bsn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        685.02,
+        79.0,
+        701.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        700.01,
+        192.25,
+        715.01
+      ],
+      "text": "te verrekenen periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        704.02,
+        79.0,
+        720.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        720.01,
+        365.63,
+        735.01
+      ],
+      "text": "brutobedrag van de vordering (geen werkgeverspremies)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        724.02,
+        79.0,
+        740.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        89.0,
+        739.01,
+        211.86,
+        754.01
+      ],
+      "text": "eventuele bijzonderheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        76.0,
+        743.02,
+        79.0,
+        759.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        774.01,
+        739.08,
+        789.01
+      ],
+      "text": "Wanneer de vordering van de WW wordt verrekend met een betaling van de AW , moet je er voor zorgen dat de e-mail in EA terechtkomt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        793.01,
+        652.16,
+        808.01
+      ],
+      "text": "Wanneer de vordering van de WW wordt verrekend met een betaling van de ZW , zorgt de ZW dat de e-mail in EA komt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        824.01,
+        752.67,
+        839.01
+      ],
+      "text": "Daarbij is het van belang dat jij eerst de vordering doorvoert over deze periode en dat daarna pas de andere wet gaat betalen. Wanneer de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        844.01,
+        750.67,
+        859.01
+      ],
+      "text": "vordering nog niet helemaal zal zijn vereffend na verrekening , dan bespreek je met de collega van de andere wet de mogelijkheden om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        863.01,
+        758.6,
+        878.01
+      ],
+      "text": "vakantietoeslag (van die andere wet) te gebruiken voor het (deels) aflossen van de vordering[7]. In een enkele situatie kan er voor jou (van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        330.0,
+        882.01,
+        440.95,
+        897.01
+      ],
+      "text": "de vakantietoeslag[8].",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        883.01,
+        321.38,
+        898.01
+      ],
+      "text": "de WW) nog een claimvordering ontstaan vanwege",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.0,
+        929.02,
+        229.5,
+        951.02
+      ],
+      "text": "Registreren in WWO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        947.01,
+        762.67,
+        962.01
+      ],
+      "text": "De code restitutie in de rechtbetaalaanwijzing is bij het aanmaken van een restitutievordering niet relevant , die wordt alleen gebruikt voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        967.01,
+        723.33,
+        982.01
+      ],
+      "text": "restitutiebetalingen. Je laat ‘Code restitutie’ op ‘N’ staan. Nu is er sprake van een restitutievordering en dat geef je aan in Invorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        997.01,
+        754.5,
+        1012.01
+      ],
+      "text": "Je registreert de gewijzigde gegevens in T1141. Dit leidt een dag later tot TWK’s in T2311. Je handelt deze TWK’s af zoals gewone TWK’s ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        274.0,
+        1016.01,
+        600.86,
+        1031.01
+      ],
+      "text": "Zorg dat in elke TWK de indicatie “Direct verrekenen” op ‘N’ staat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        1017.01,
+        267.08,
+        1032.01
+      ],
+      "text": "zonder verdere registratie van restitutie.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        74.0,
+        1063.02,
+        276.82,
+        1085.02
+      ],
+      "text": "Registreren in Invorderen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        1081.02,
+        759.57,
+        1096.02
+      ],
+      "text": "Een dag later staat de claimvordering in Invorderen. Je gaat naar het scherm Raadplegen en muteren vordering (INVMV) en kiest in scherm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        1101.02,
+        762.16,
+        1116.02
+      ],
+      "text": "3 ‘Detailinformatie vordering’ voor de knop ‘Wijzigen IV’. Je komt in het scherm Wijzigen interne vordering/claimvordering (INVAZ). Je houdt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        1120.02,
+        203.2,
+        1135.02
+      ],
+      "text": "rekening met het volgende:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        52.02,
+        248.2,
+        67.02
+      ],
+      "text": "Je zet ‘Indicatie Restitutie’ op ‘J’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        56.02,
+        79.0,
+        72.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        72.02,
+        230.0,
+        87.02
+      ],
+      "text": "Je laat het veld ‘Ind. VT’ leeg.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        76.02,
+        79.0,
+        92.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        91.02,
+        450.12,
+        106.02
+      ],
+      "text": "Je registreert geen inhoudingsregeling (INVAC) over deze claimvordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        95.02,
+        79.0,
+        111.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        74.0,
+        138.02,
+        271.71,
+        160.02
+      ],
+      "text": "Informeren andere partij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        156.02,
+        757.8,
+        171.01
+      ],
+      "text": "Je informeert de andere partij dat je de vordering hebt doorgevoerd benoemt eventuele zaken die je zijn opgevallen en verzoekt om zo snel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        175.01,
+        755.14,
+        190.01
+      ],
+      "text": "mogelijk de betaling in orde te maken. De andere wet moet nu een toekenning met restitutie aanleveren aan Excasso. Om ervoor te zorgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        195.01,
+        719.67,
+        210.01
+      ],
+      "text": "dat het allemaal niet te lang gaat duren , voer je in MAWW een opvolgtaak ‘Verrekening andere wet’ op met een vervaldatum over 20",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        214.01,
+        673.3,
+        229.01
+      ],
+      "text": "werkdagen. Deze actie is om te controleren of je een terugkoppeling hebt ontvangen over de uitkomst van de verrekening.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        74.0,
+        261.02,
+        264.75,
+        283.02
+      ],
+      "text": "Afhandelen verrekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        279.01,
+        731.0,
+        294.01
+      ],
+      "text": "Je ontvangt van de andere wet een terugkoppeling nadat de vordering is verrekend. Heb je na 20 werkdagen nog geen terugkoppeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        298.01,
+        753.17,
+        313.01
+      ],
+      "text": "ontvangen over de uitkomst van de verrekening , kijk je of er mogelijk al verrekening heeft plaatsgevonden. Zo niet , laat je de teammanager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        318.01,
+        579.78,
+        333.01
+      ],
+      "text": "samenloop rappelleren. Hij neemt contact op met de teammanager ZW/AW/IOW of betalingsonmacht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        349.01,
+        439.09,
+        364.01
+      ],
+      "text": "Zodra je de terugkoppeling hebt ontvangen , zijn er 3 mogelijke uitkomsten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        379.01,
+        656.0,
+        394.01
+      ],
+      "text": "Er blijft geen restantvordering over. Een eventueel positief bedrag leidt tot een automatische uitbetaling in Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        383.02,
+        79.0,
+        399.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        399.01,
+        321.46,
+        414.01
+      ],
+      "text": "Er is geen verschil tussen betaling en vordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        403.02,
+        79.0,
+        419.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        418.01,
+        764.0,
+        433.01
+      ],
+      "text": "Er blijft een restantvordering. Deze handel je af als ‘gewone’ claimvordering. Je beoordeelt nu of je het resterende bedrag terugvordert bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        422.02,
+        79.0,
+        438.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        438.01,
+        757.4,
+        453.01
+      ],
+      "text": "de cliënt of (in incidentele gevallen) afboekt. Je houdt in geval van afboeking rekening met de hiervoor geldende regels. Je gaat nu naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        89.0,
+        457.01,
+        285.09,
+        472.01
+      ],
+      "text": "de werkinstructie Afboeking afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        74.0,
+        504.02,
+        211.43,
+        526.02
+      ],
+      "text": "Informeren cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        522.01,
+        754.2,
+        537.01
+      ],
+      "text": "Je informeert de cliënt met brief ‘UWWRH03-021’. Deze brief gebruik je zowel als de verrekening nog niet helemaal is voldaan als dat deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        541.01,
+        185.22,
+        556.01
+      ],
+      "text": "wel volledig is voldaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        572.01,
+        629.34,
+        587.01
+      ],
+      "text": "Bij ziekengeld en DWBZ voorafgaand aan de Ziektewet-uitkering informeer je de cliënt met brief ‘UWWRH02-022’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        603.01,
+        104.0,
+        618.01
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        623.01,
+        466.33,
+        638.01
+      ],
+      "text": "Cliënt Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        655.01,
+        721.0,
+        670.01
+      ],
+      "text": "UWWCM04-001: Brief aan verz: verrekenen uitkering met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        659.02,
+        434.0,
+        675.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        674.01,
+        568.25,
+        689.01
+      ],
+      "text": "instantie (met nabetaling)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        694.01,
+        759.33,
+        709.01
+      ],
+      "text": "UWWRH03-021: Recht op (ged) andere uitkering , verrekenen WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        698.02,
+        434.0,
+        714.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        713.01,
+        750.33,
+        728.01
+      ],
+      "text": "UWWRH02-022: Recht op een andere uitkering , verrekenen WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        717.02,
+        434.0,
+        733.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        733.01,
+        466.33,
+        748.01
+      ],
+      "text": "Derde extern Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        764.01,
+        730.6,
+        779.01
+      ],
+      "text": "UWWCM05-001: Brief aan instantie: opvragen opgave voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        768.02,
+        434.0,
+        784.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        784.01,
+        494.0,
+        799.01
+      ],
+      "text": "verrekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        803.01,
+        747.92,
+        818.01
+      ],
+      "text": "UWWCM05-002: Brief aan instantie: onvoldoende beschikbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        807.02,
+        434.0,
+        823.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        823.01,
+        519.0,
+        838.01
+      ],
+      "text": "voor verrekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        842.01,
+        757.0,
+        857.01
+      ],
+      "text": "UWTCM54-03: Declaratie van andere instantie , wel/geen bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        846.02,
+        434.0,
+        862.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        862.01,
+        494.4,
+        877.01
+      ],
+      "text": "overmaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        881.01,
+        99.71,
+        896.01
+      ],
+      "text": "Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        882.01,
+        539.0,
+        897.01
+      ],
+      "text": "Registraties in WWO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        886.02,
+        434.0,
+        902.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        901.01,
+        576.44,
+        916.01
+      ],
+      "text": "E-mail naar andere afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        905.02,
+        434.0,
+        921.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        921.01,
+        711.0,
+        936.01
+      ],
+      "text": "UWGII07-01: Interne memo: communicatie met andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        431.0,
+        925.02,
+        434.0,
+        941.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        444.0,
+        940.01,
+        492.18,
+        955.01
+      ],
+      "text": "afdelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        960.01,
+        143.64,
+        975.01
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        74.0,
+        980.01,
+        98.8,
+        995.01
+      ],
+      "text": "WWO:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        89.0,
+        1012.01,
+        115.67,
+        1027.01
+      ],
+      "text": "T1221",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        1016.02,
+        79.0,
+        1032.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        89.0,
+        1031.01,
+        115.67,
+        1046.01
+      ],
+      "text": "T1141",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        1035.02,
+        79.0,
+        1051.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        89.0,
+        1051.01,
+        115.67,
+        1066.02
+      ],
+      "text": "T2311",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        1055.02,
+        79.0,
+        1071.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        1070.02,
+        139.54,
+        1085.02
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        1091.02,
+        585.17,
+        1106.02
+      ],
+      "text": "Overzicht Documentatie per UWV-systeem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        1111.02,
+        271.18,
+        1126.02
+      ],
+      "text": "Wettelijke basis , aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        1131.02,
+        125.33,
+        1146.02
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.0,
+        1132.02,
+        708.5,
+        1147.02
+      ],
+      "text": "Wetsuitleg WW/IOW 338. 01 Herziening en intrekking: 3. 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        429.0,
+        1151.02,
+        537.8,
+        1166.02
+      ],
+      "text": "Redelijkerwijs duidelijk",
+      "source": "text"
+    }
+  ]
+}

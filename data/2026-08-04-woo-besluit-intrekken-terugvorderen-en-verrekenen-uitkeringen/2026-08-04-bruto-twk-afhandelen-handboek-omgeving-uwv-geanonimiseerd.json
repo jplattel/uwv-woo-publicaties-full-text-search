@@ -1,0 +1,3641 @@
+{
+  "source_id": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_slug": "2026-08-04-bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/8b501ca6-7884-4225-88eb-ca58e8dd86fd/bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over het intrekken, terugvorderen en verrekenen van uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bruto TWK afhandelen (PDF, 6 MB)",
+  "retrieved_at": "2026-08-18T06:35:12+00:00",
+  "sha256": "9a83293209109fd87d6ec16f536f3310f240fe2f402054ab763180daf9bcc94c",
+  "page_count": 7,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        256.91,
+        170.01
+      ],
+      "text": "Home » Proces WW Ontslag » Bruto TWK afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        336.03,
+        280.0,
+        364.03
+      ],
+      "text": "Proces WW Ontslag",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        266.46,
+        406.02
+      ],
+      "text": "Bruto TWK afhandelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        392.01,
+        762.5,
+        403.01
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.0,
+        412.01,
+        750.08,
+        427.01
+      ],
+      "text": "vorig(e) proces(stap) volgend(e) proces(stap)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        432.01,
+        208.34,
+        447.01
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        452.01,
+        747.67,
+        467.01
+      ],
+      "text": "Een TWK is een mutatie in WWO over een eerder gedane vaststelling. Een bruto TWK leidt mogelijk tot een herziening van de uitkering en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        472.01,
+        369.33,
+        487.01
+      ],
+      "text": "misschien tot een claimvordering in het systeem Invorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        502.01,
+        693.78,
+        517.01
+      ],
+      "text": "In de Handleiding WWO hoofdstuk 80351. 02 (paragraaf 5) vind je een overzicht van alle mogelijke bruto TWK-veroorzakers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        506.02,
+        79.0,
+        522.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        522.01,
+        534.92,
+        537.01
+      ],
+      "text": "In de Handleiding WWO hoofdstuk 80146. 05 staat de afhandeling van de TWK beschreven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        526.02,
+        79.0,
+        542.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        556.01,
+        728.67,
+        571.01
+      ],
+      "text": "In deze werkinstructie behandelen we de TWK’s die voortkomen uit de overige herzieningen (wijziging dagloon , toeslag enz. ). In de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        575.01,
+        400.6,
+        590.01
+      ],
+      "text": "gevallen dat we daar van afwijken , geven we dat nadrukkelijk aan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        595.01,
+        751.67,
+        610.01
+      ],
+      "text": "Wanneer de TWK voortkomt uit een herziening die te maken heeft met de controlemaand en er is een vervolg IKO ingediend , ga je voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        615.01,
+        749.5,
+        630.01
+      ],
+      "text": "verrekenprocedure van opgave- en controlemaand naar de werkinstructie Directe verrekening bij controlemaand. Is het een TWK over een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        634.01,
+        740.38,
+        649.01
+      ],
+      "text": "controlemaand terwijl er geen lopend recht (meer) is (bijv. er is geen vervolg-IKO meer ontvangen) , volg je onderstaande werkinstructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        665.01,
+        749.89,
+        680.01
+      ],
+      "text": "Zijn er negatieve TWK's? Dan gaan we in deze werkinstructie ervan uit dat je bij het beoordelen van de herziening/intrekking alle aspecten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        685.01,
+        556.5,
+        700.01
+      ],
+      "text": "rondom redelijkerwijs duidelijk , maatwerk en hoge vorderingen hebt meegenomen in je beslissing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        716.01,
+        544.33,
+        731.01
+      ],
+      "text": "Wie Uitkeringsconsulent WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        736.01,
+        465.44,
+        751.01
+      ],
+      "text": "Divisie Uitkeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        756.01,
+        138.61,
+        771.01
+      ],
+      "text": "Samenvatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        757.01,
+        591.75,
+        772.01
+      ],
+      "text": "Je handelt de bruto TWK tijdig af.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        776.01,
+        95.67,
+        791.01
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        797.01,
+        632.67,
+        812.01
+      ],
+      "text": "Intern Signaal 5-10: Claimvordering aanwezig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.0,
+        801.02,
+        434.0,
+        817.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        444.0,
+        817.01,
+        683.67,
+        832.01
+      ],
+      "text": "Signaal 5-39: Openstaande vaststelling aanwezig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.0,
+        821.02,
+        434.0,
+        837.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        444.0,
+        836.01,
+        666.67,
+        851.01
+      ],
+      "text": "Signaal 5-70: Niet vastgesteld , TWK aanwezig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.0,
+        840.02,
+        434.0,
+        856.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        444.0,
+        856.01,
+        692.0,
+        871.01
+      ],
+      "text": "Signaal 3-52: Bruto twk’s niet verw. ; ind afh in WWO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.0,
+        860.02,
+        434.0,
+        876.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        444.0,
+        875.01,
+        632.33,
+        890.01
+      ],
+      "text": "Eigen initiatief uitkeringsconsulent WW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        431.0,
+        879.02,
+        434.0,
+        895.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        444.0,
+        895.01,
+        636.18,
+        910.01
+      ],
+      "text": "(opgevoerde actie Vordering verrekend)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        914.01,
+        203.0,
+        929.01
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        935.01,
+        136.21,
+        950.01
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        955.01,
+        132.16,
+        970.01
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        975.01,
+        101.43,
+        990.01
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        83.02,
+        273.75,
+        107.02
+      ],
+      "text": "Beoordelen soort TWK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        100.02,
+        745.0,
+        115.02
+      ],
+      "text": "Je controleert eerst of de TWK juist is. Eventuele nul TWK’s (geen verschil met de vorige vaststelling) handel je in ieder geval alvast af in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        120.02,
+        402.57,
+        135.02
+      ],
+      "text": "T2311. Bij positieve TWK’s[1]ga je naar Afhandelen positief saldo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        150.02,
+        120.0,
+        165.02
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        126.0,
+        151.02,
+        738.0,
+        166.01
+      ],
+      "text": "Bij verrekening van een negatieve TWK in de controlemaand gelden aparte regels. Zie hiervoor Ook inkomstenverrekening in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        170.01,
+        678.3,
+        185.01
+      ],
+      "text": "controlemaand valt onder regeling (negatieve TWK) van de werkinstructie ‘Herziening/intrekking beslissing afhandelen’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        219.02,
+        306.33,
+        243.02
+      ],
+      "text": "Afhandelen positief saldo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        238.01,
+        758.57,
+        253.01
+      ],
+      "text": "Je keert de positieve TWK uit aan de cliënt. Wanneer je zowel positieve als negatieve TWK(’s) hebt , is het van belang dat je deze met elkaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        257.01,
+        746.0,
+        272.01
+      ],
+      "text": "laat verrekenen. Dat doe je door bij de negatieve TWK’s de indicatie ‘Direct verrekenen’ in T2311 op ‘J’ te zetten. Bij de positieve TWK’s is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        277.01,
+        364.0,
+        292.01
+      ],
+      "text": "‘Direct verrekenen’ niet zichtbaar. Je handelt ze af in T2311.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        307.01,
+        748.25,
+        322.01
+      ],
+      "text": "Wanneer de oorspronkelijke betaling (opgavemaand) plaatsvond voor de collectieve uitbetaling van de vakantietoeslag , ontstaat ook nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        327.01,
+        749.67,
+        342.01
+      ],
+      "text": "een positief bedrag aan vakantietoeslag , dat door Excasso automatisch wordt uitbetaald. Dit kan spelen bij een TWK n. a. v. de opgave- en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        346.01,
+        473.42,
+        361.01
+      ],
+      "text": "controlemaand rond mei/juni maar ook bij een TWK n. a. v. een overige herziening.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        395.02,
+        382.1,
+        419.02
+      ],
+      "text": "Beoordelen afhandeling vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        413.01,
+        749.75,
+        428.01
+      ],
+      "text": "Je bepaalt de hoogte van de vordering[2]en vervolgens of je de vordering zelf moet verrekenen (zachte vordering) of dat de afdeling VFV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        433.01,
+        320.5,
+        448.01
+      ],
+      "text": "Invorderen het moet afhandelen (harde vordering).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        452.01,
+        421.33,
+        467.01
+      ],
+      "text": "In de volgende gevallen draag je de vordering over aan VFV Invorderen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        104.0,
+        482.01,
+        167.87,
+        497.01
+      ],
+      "text": "geen lopende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        483.01,
+        239.07,
+        498.01
+      ],
+      "text": "Bij WW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        487.02,
+        79.0,
+        503.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        502.01,
+        729.46,
+        517.01
+      ],
+      "text": "Als de afdeling Handhaving een harde vordering instelt of een boete oplegt , zet je een zachte vordering om in een harde vordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        506.02,
+        79.0,
+        522.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        522.01,
+        500.57,
+        537.01
+      ],
+      "text": "Wanneer er een harde vordering (ongeacht het domein) aanwezig is. Zie het scherm",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        526.02,
+        79.0,
+        542.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        541.01,
+        750.0,
+        556.01
+      ],
+      "text": "Raadplegen en muteren (INVMV). Je zet ‘Soort debiteur’ op 'V' en vult bij 'Debiteurnummer' het BSN van de cliënt in. Kies voor ‘Alle’ bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        561.01,
+        168.67,
+        576.01
+      ],
+      "text": "‘Soort vordering’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        580.01,
+        763.71,
+        595.01
+      ],
+      "text": "Wanneer er een claimvordering van een ander domein in Invorderen staat. Zie het scherm Raadplegen en muteren (INVMV). Je zet ‘Soort",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        584.02,
+        79.0,
+        600.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        600.01,
+        666.67,
+        615.01
+      ],
+      "text": "debiteur’ op 'V' en vult bij 'Debiteurnummer' het BSN van de cliënt in. Vervolgens kies je voor ‘Alle’ bij ‘Soort vordering’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        619.01,
+        358.5,
+        634.01
+      ],
+      "text": "Als de cliënt naast zijn WW-uitkering ook een TW krijgt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        623.02,
+        79.0,
+        639.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        639.01,
+        664.0,
+        654.01
+      ],
+      "text": "Wanneer er sprake is van een werkgeversbetaling (code soort begunstigde ‘02’ en ‘03’). Voor meer informatie , kijk bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        643.02,
+        79.0,
+        659.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        658.01,
+        356.38,
+        673.01
+      ],
+      "text": "Werkgeversbetalingen verderop in deze werkinstructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        678.01,
+        492.63,
+        693.01
+      ],
+      "text": "Wanneer er sprake is van Wettelijke Schuldsanering Natuurlijke Personen (WSNP).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        682.02,
+        79.0,
+        698.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        712.01,
+        729.33,
+        727.01
+      ],
+      "text": "Wanneer sprake is van een zachte of harde vordering van € 52 of hoger , ga je naar ‘Bellen met cliënt’. In dat geval neem je telefonisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        732.01,
+        746.33,
+        747.01
+      ],
+      "text": "contact op met de cliënt. Is de vordering lager dan € 52 , dan beslis je vanuit je vakmanschap of je contact opneemt met de cliënt of niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        751.01,
+        556.09,
+        766.01
+      ],
+      "text": "Harde vorderingen onder € 11 boek je af. Je gaat nu naar de werkinstructie Afboeking afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        782.01,
+        566.0,
+        797.01
+      ],
+      "text": "Als het geen harde vordering wordt , verreken je met iedere lopende uitkering (ongeacht het domein).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        664.0,
+        801.01,
+        678.4,
+        816.01
+      ],
+      "text": "alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        802.01,
+        762.5,
+        817.01
+      ],
+      "text": "Er kunnen meerdere zachte vorderingen naast elkaar lopen van de eigen wet. In geval van zachte vorderingen vorder je bedragen terug ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        821.01,
+        217.0,
+        836.01
+      ],
+      "text": "hoe klein de vordering ook is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        860.02,
+        570.43,
+        879.02
+      ],
+      "text": "Automatische controle: signaal 3. 02 Vastgesteld verschilt met Polis (GINA)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        881.01,
+        755.67,
+        896.01
+      ],
+      "text": "Wanneer de TWK ontstaat uit het 3. 02 signaal dat je kort geleden hebt afgehandeld , zal het meestal verstandig zijn om de volgende IKO af",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        901.01,
+        757.8,
+        916.01
+      ],
+      "text": "te wachten. In dat geval kun je namelijk gebruik maken van de indicator ‘Direct verrekenen’ in T2311. Wanneer je vervolgens actie 5-70 Niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        920.01,
+        592.73,
+        935.01
+      ],
+      "text": "vastgesteld: TWK aanwezig’ ontvangt , ga je naar de werkinstructie Directe verrekening bij controlemaand.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        966.02,
+        207.43,
+        988.02
+      ],
+      "text": "Bellen met cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        416.0,
+        984.01,
+        440.17,
+        999.01
+      ],
+      "text": "harde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        985.01,
+        735.33,
+        1000.01
+      ],
+      "text": "Je neemt telefonisch contact op met de cliënt. Als sprake is van een of zachte vordering , lees je in de werkinstructie ingrijpende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1004.01,
+        740.5,
+        1019.01
+      ],
+      "text": "beslissingof je moet bellen met de cliënt of niet. Bij een harde vordering geef je aan dat de cliënt 2 brieven ontvangt: 1 van ons en 1 van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1024.01,
+        409.29,
+        1039.01
+      ],
+      "text": "Invorderen (met daadwerkelijke bedrag dat cliënt moet terugbetalen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1043.01,
+        314.57,
+        1058.01
+      ],
+      "text": "Vervolgens ga je naar Afhandelen negatief saldo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1074.02,
+        761.8,
+        1089.02
+      ],
+      "text": "De werkwijze hieronder geldt niet bij een vordering die voortkomt uit de controlemaand. Je verrekent dan in principe altijd direct en volledig.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1093.02,
+        727.73,
+        1108.02
+      ],
+      "text": "Soms stem je met de cliënt een termijnregeling af. Zie voor meer informatie de werkinstructie Directe verrekening bij controlemaand.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1124.02,
+        663.46,
+        1139.02
+      ],
+      "text": "Bij een zachtevordering vertel je in het gesprek met de cliënt de inhoud van verdieping ‘Gesprek met de cliënt’ hieronder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1155.02,
+        179.0,
+        1170.02
+      ],
+      "text": "Gesprek met de cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        52.02,
+        149.27,
+        67.02
+      ],
+      "text": "Meer informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        83.02,
+        245.57,
+        98.02
+      ],
+      "text": "Ga naar Afhandelen negatief saldo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        122.02,
+        306.71,
+        141.02
+      ],
+      "text": "Geen telefonisch contact met cliënt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        143.02,
+        753.67,
+        158.02
+      ],
+      "text": "Als de cliënt telefonisch niet bereikbaar is , dan stuur je de cliënt een beschikking over de herziening van de uitkering , de terugvordering en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        163.02,
+        481.16,
+        178.01
+      ],
+      "text": "een terugbetalingsvoorstel om in 1 keer of in maximaal 12 termijnen te verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        193.01,
+        757.67,
+        208.01
+      ],
+      "text": "Je kijkt hierbij naar de hoogte van de uitkering , vergelijkt dit met het geldende minimumloon van de cliënt en bepaalt wat redelijk is voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        213.01,
+        753.6,
+        228.01
+      ],
+      "text": "cliënt. Wanneer je constateert dat er onvoldoende ruimte is om de vordering binnen 12 maanden[3]te voldoen , draag je de vordering over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        232.01,
+        282.1,
+        247.01
+      ],
+      "text": "aan VFV. Daar wordt dan de BVV berekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        263.01,
+        747.11,
+        278.01
+      ],
+      "text": "Als de cliënt het niet eens is met de voorgestelde terugbetalingsregeling , dan kan hij binnen 1 week contact opnemen met UWV Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        283.01,
+        134.5,
+        298.01
+      ],
+      "text": "Werknemers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        302.01,
+        535.13,
+        317.01
+      ],
+      "text": "Je kunt dan alsnog een betalingsregeling afspreken zoals beschreven bij Bellen met de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        333.01,
+        750.67,
+        348.01
+      ],
+      "text": "Je laat de TWK en het signaal staan , zodat er geen verrekening kan plaatsvinden met de lopende uitkering. Neemt de cliënt gedurende de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        352.01,
+        742.44,
+        367.01
+      ],
+      "text": "reactietermijn van 1 week geen contact op , dan start je met de verrekening en kun je het signaal afmelden. Ga naar Afhandelen negatief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        372.01,
+        100.57,
+        387.01
+      ],
+      "text": "saldo.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        411.02,
+        272.71,
+        430.02
+      ],
+      "text": "Verrekening bij controlemaand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        432.01,
+        761.57,
+        447.01
+      ],
+      "text": "Bij verrekening van een negatieve TWK in de controlemaand gelden aparte regels. Zie hiervoor Ook inkomstenverrekening in controlemaand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        451.01,
+        585.3,
+        466.01
+      ],
+      "text": "valt onder regeling (negatieve TWK) van de werkinstructie ‘Herziening/intrekking beslissing afhandelen’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        482.01,
+        646.2,
+        497.01
+      ],
+      "text": "Wanneer er geen lopend recht meer is en je hebt nog niet eerder gebeld met de cliënt , meld je de cliënt het volgende:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        513.01,
+        219.27,
+        528.01
+      ],
+      "text": "De reden van de herziening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        76.0,
+        517.02,
+        79.0,
+        533.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        532.01,
+        229.27,
+        547.01
+      ],
+      "text": "Het bedrag van de herziening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        76.0,
+        536.02,
+        79.0,
+        552.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        89.0,
+        552.01,
+        329.33,
+        567.01
+      ],
+      "text": "Indien beschikbaar: verreken je (deels) met de VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        76.0,
+        556.02,
+        79.0,
+        572.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        586.01,
+        628.38,
+        601.01
+      ],
+      "text": "Wanneer er geen lopende uitkering meer is , is het niet zinvol om de verdere procedure aan de cliënt uit te leggen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.0,
+        635.02,
+        385.44,
+        659.02
+      ],
+      "text": "Werkwijze bij een hedenbeslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        654.01,
+        751.0,
+        669.01
+      ],
+      "text": "Vanaf 15 september 2025 verwerk je hedenbeslissingen met terugwerkende kracht in WWO. [4]Je vordert het bedrag dat de cliënt te veel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        673.01,
+        707.67,
+        688.01
+      ],
+      "text": "ontvangen heeft niet terug. Dit bedrag boek je af met de afboekcode ‘Redelijkerwijs duidelijk’. Hoe je dit doet , is beschreven in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        693.01,
+        431.01,
+        708.01
+      ],
+      "text": "werkinstructie Afboeken (claim)vordering (INVAJ Uitkeringsdeskundige).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.0,
+        742.02,
+        312.33,
+        766.02
+      ],
+      "text": "Afhandelen negatief saldo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        760.01,
+        642.0,
+        775.01
+      ],
+      "text": "Bij enkel negatieve TWK(’s) zet je de indicatie ‘Direct verrekenen’ op ‘N’ en druk je de TWK’s door in T2311 van WWO.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        790.01,
+        504.25,
+        805.01
+      ],
+      "text": "Voorbeeld: overige herziening (niet-zijnde controlemaand) en gebruik ‘direct verrekenen’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        821.01,
+        326.33,
+        836.01
+      ],
+      "text": "Zowel positieve als negatieve TWK’s , negatief saldo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        852.01,
+        732.75,
+        867.01
+      ],
+      "text": "Actie 5-10 ‘Claimvordering aanwezig’ , attendeert je er 2 werkdagen later op dat je de claimvordering moet aanvullen voor toekomstige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        871.01,
+        139.93,
+        886.01
+      ],
+      "text": "toekenningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        902.01,
+        530.3,
+        917.01
+      ],
+      "text": "Wanneer je deze actie ontvangt , ga je naar de volgende processtap ‘Beheren claimvordering’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.0,
+        951.02,
+        287.67,
+        975.02
+      ],
+      "text": "Beheren claimvordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        970.01,
+        336.33,
+        985.01
+      ],
+      "text": "Deze informatie gaat over de registratie in Invorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1000.01,
+        743.5,
+        1015.01
+      ],
+      "text": "Dit is een generiek gedeelte , zowel voor herzieningen die voortkomen uit de controlemaand als de overige herzieningen. Wanneer er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1020.01,
+        756.4,
+        1035.01
+      ],
+      "text": "vordering[5]overblijft die niet (volledig) in WWO is verrekend , moet je werkzaamheden uitvoeren in Invorderen[6]. De vordering staat daar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1039.01,
+        557.0,
+        1054.01
+      ],
+      "text": "als claimvordering in de status ‘Wacht’. Actie 5-10 ‘Claimvordering aanwezig’ attendeert je hier op.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1086.02,
+        208.0,
+        1108.02
+      ],
+      "text": "Zachte vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        1104.02,
+        763.3,
+        1119.02
+      ],
+      "text": "In het scherm Raadplegen en muteren (INVMV) kies je in scherm 3 'Detailinformatie vordering' voor de functieknop ‘Terugbetalingsregeling’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        52.02,
+        761.4,
+        67.02
+      ],
+      "text": "Als er geen lopende inhoudingsregeling geregistreerd staat in Invorderen of als je het termijnbedrag van de lopende inhoudingsregeling wilt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        72.02,
+        667.25,
+        87.02
+      ],
+      "text": "aanpassen , kies je in dit scherm voor de functieknop ‘Registreren Inhoudings TR’. Je komt dan in het scherm Registreren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        91.02,
+        227.22,
+        106.02
+      ],
+      "text": "terugbetalingsregeling (INVAC).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        111.02,
+        497.0,
+        126.02
+      ],
+      "text": "Als je bij ‘Soort uitkering’ bij ‘Uitkering’ kiest voor ‘Maximaal’ of ‘Geen inhouding’ , vul je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        130.02,
+        751.86,
+        145.02
+      ],
+      "text": "bij ‘Datum ingang regeling’ de datum van morgen in[7]. Als je bij ‘Soort uitkering’ bij ‘Uitkering’ kiest voor ‘Termijnbedrag’ , vul je bij ‘Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        150.02,
+        552.57,
+        165.02
+      ],
+      "text": "ingang regeling’ de eerste van de volgende maand in[8]. De termijn moet altijd op ‘Maand’ staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        169.01,
+        747.6,
+        184.01
+      ],
+      "text": "Je laat het veld 'Te verrekenen wet' op 'alle wetten' staan omdat je over alle wetten heen verrekent. In de uitzonderlijke situatie dat je toch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        189.01,
+        763.67,
+        204.01
+      ],
+      "text": "alleen op de WW-uitkering wilt inhouden , vul je 'WWO' in. Je registreert de juiste gegevens bij zowel 'Uitkering' als 'vakantietoeslag'. Let er op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        208.01,
+        488.42,
+        223.01
+      ],
+      "text": "dat je beide bewust invult. Zo staat ‘Vakantietoeslag’ standaard op ‘Geen inhouding’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        228.01,
+        748.0,
+        243.01
+      ],
+      "text": "Als er wel een inhoudingsregeling geregistreerd staat in Invorderen en het termijnbedrag wijzigt niet , dan voeg je de nieuwe vordering toe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        247.01,
+        730.82,
+        262.01
+      ],
+      "text": "aan de bestaande regeling. Je kiest in scherm 5 ‘Terugbetaling’ van Raadplegen en muteren (INVMV) voor de functieknop ‘Toevoegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        267.01,
+        465.89,
+        282.01
+      ],
+      "text": "vordering aan TR’. Je komt in het scherm Toevoegen vordering aan TR (INVWT).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        298.01,
+        761.0,
+        313.01
+      ],
+      "text": "Ga terug naar het scherm Raadplegen en muteren (INVMV) en kies in scherm 3 ‘Detailinformatie vordering’ voor ‘Wijzigen IV’. Je komt nu in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        317.01,
+        665.84,
+        332.01
+      ],
+      "text": "het scherm Wijzigen interne vordering/claimvordering (INVAZ). Je registreert de juiste datum bij ‘Datum instellingsbrief’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        363.02,
+        356.0,
+        385.02
+      ],
+      "text": "Gebruik van ‘Indicatie VT’ in INVAZ",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        382.01,
+        763.33,
+        397.01
+      ],
+      "text": "Je gebruikt ‘Indicatie VT’ in ‘Wijzigen vordering (INVAZ)’ als er een vordering ontstaat en je alleen nog de vakantietoeslag kunt gebruiken om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        401.01,
+        751.67,
+        416.01
+      ],
+      "text": "te verrekenen (er is geen reguliere uitkering meer). Dit mag alleen als er geen lopende inhoudingsregeling staat. Na het verrekenen van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        421.01,
+        493.38,
+        436.01
+      ],
+      "text": "VT draag je de vordering over aan VFV of je boekt deze af volgens het huidige proces.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        459.02,
+        143.67,
+        478.02
+      ],
+      "text": "Signalering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        481.01,
+        746.67,
+        496.01
+      ],
+      "text": "Wanneer de vordering niet in 1 keer te verrekenen is , bewaak je de vordering door zelf een opvolgtaak ‘Claimvordering verrekenen?’ op te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        500.01,
+        106.38,
+        515.01
+      ],
+      "text": "voeren.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        546.02,
+        201.0,
+        568.02
+      ],
+      "text": "Harde vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        565.01,
+        749.5,
+        580.01
+      ],
+      "text": "Wanneer sprake is van een harde vordering of een claimvordering van een andere wet , dan moet je de claimvordering overboeken. Bij een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        584.01,
+        642.4,
+        599.01
+      ],
+      "text": "vordering die niet voortkomt uit de controlemaand maar een overige herziening , laat je de BVV berekenen door VFV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        615.01,
+        751.0,
+        630.01
+      ],
+      "text": "In het scherm Raadplegen en muteren vordering (INVMV) kies je in scherm 3 ‘Detailinformatie vordering’ voor de functieknop ‘Overdragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        634.01,
+        384.11,
+        649.01
+      ],
+      "text": "aan VFV'. Je komt nu in het veld Overdragen vordering (INVOV).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        665.01,
+        741.5,
+        680.01
+      ],
+      "text": "Wanneer VFV de BVV moet berekenen , kies je in het veld Overdragen vordering (INVOV) voor de bijzonderheid ‘Verrekenen tot aan BVV’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        696.01,
+        754.5,
+        711.01
+      ],
+      "text": "Wanneer je de claimvordering overboekt omdat er al een claimvordering van een andere wet staat , is het belangrijk dat je jouw collega van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        715.01,
+        496.0,
+        730.01
+      ],
+      "text": "de andere wet informeert. Die claimvordering moet namelijk ook worden overgeboekt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        764.02,
+        255.36,
+        788.02
+      ],
+      "text": "Opmaken beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        783.01,
+        763.27,
+        798.01
+      ],
+      "text": "Nadat je de resultaten van de afgehandelde TWK’s hebt doorgevoerd , neem je deze op in de beslissing die je de cliënt stuurt naar aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        802.01,
+        764.5,
+        817.01
+      ],
+      "text": "waarvan de TWK is ontstaan. Welke brief je stuurt bij een herziening die voortkomt uit de controlemaand , lees je in de werkinstructie Directe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        822.01,
+        681.13,
+        837.01
+      ],
+      "text": "verrekening bij controlemaand. Bij een overige herziening (niet-zijnde controlemaand) stuur je altijd een brief naar de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        841.01,
+        316.8,
+        856.01
+      ],
+      "text": "Welke brief dat is , lees je hieronder en bij ‘Output’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        888.02,
+        208.0,
+        910.02
+      ],
+      "text": "Zachte vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        906.01,
+        521.23,
+        921.01
+      ],
+      "text": "Wanneer er een zachte vordering is , dan is de herzieningsbrief ook de terugvorderingsbrief.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        925.01,
+        718.8,
+        940.01
+      ],
+      "text": "Een herzieningsbeslissing met financiële consequenties is een ingrijpende beslissing. Dit betekent dat je de cliënt telefonisch moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        945.01,
+        716.67,
+        960.01
+      ],
+      "text": "benaderen als het terug te vorderen bedrag minimaal € 52 bedraagt. Dit gesprek combineer je met de vordering (uitzondering is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        964.01,
+        763.0,
+        979.01
+      ],
+      "text": "vervolgvordering n. a. v. de controlemaand). Als de cliënt telefonisch niet bereikbaar is , dan geef je dit in de beslissingsbrief aan. Het gesprek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        984.01,
+        168.8,
+        999.01
+      ],
+      "text": "registreer je in CMP.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1015.01,
+        724.67,
+        1030.01
+      ],
+      "text": "In brief ‘UWTCM56-02: Herziening en bevestiging betalingsregeling’ geef je aan waar de herziening betrekking op heeft en geef je de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1034.01,
+        256.67,
+        1049.01
+      ],
+      "text": "(afgesproken) betalingsregeling door.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1054.01,
+        651.0,
+        1069.02
+      ],
+      "text": "Brief ‘UWTCM56-04: Verrekening in termijnen of ineens’ gebruik je als de cliënt niet akkoord was met de voorgestelde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1073.02,
+        605.0,
+        1088.02
+      ],
+      "text": "terugbetalingsregeling en je nu alsnog een regeling met elkaar afspreekt waardoor ook de cliënt akkoord is.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1119.02,
+        488.3,
+        1141.02
+      ],
+      "text": "O&O-beschikking: kopie beslissing naar werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        74.0,
+        1138.02,
+        401.14,
+        1153.02
+      ],
+      "text": "Zie voor informatie de werkinstructie Eigenrisicodrager WW (O&O).",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.0,
+        64.02,
+        201.0,
+        86.02
+      ],
+      "text": "Harde vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        82.02,
+        694.13,
+        97.02
+      ],
+      "text": "Je verstuurt een brief over de herziening naar de cliënt en vermeldt dat de afdeling Invorderen contact opneemt met de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        102.02,
+        760.4,
+        117.02
+      ],
+      "text": "Je verstuurt nu brief ‘UWWRH02-071: Herziening met TWK + Terugvordering , fout UWV’ of ‘UWWRH02-001: Met terugwerkende kracht , door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        121.02,
+        115.4,
+        136.02
+      ],
+      "text": "toedoen’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.0,
+        170.02,
+        264.1,
+        194.02
+      ],
+      "text": "Beëindigen vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        189.01,
+        722.67,
+        204.01
+      ],
+      "text": "Wanneer de brief is verstuurd en de verrekening in werking is gesteld , beëindig je na verloop van tijd de vordering. Er kunnen zich de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        208.01,
+        213.0,
+        223.01
+      ],
+      "text": "volgende situaties voordoen:",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.0,
+        255.02,
+        298.7,
+        277.02
+      ],
+      "text": "Recht tussentijds beëindigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        273.01,
+        751.5,
+        288.01
+      ],
+      "text": "Wanneer het recht op uitkering is beëindigd voordat het bedrag volledig is verrekend , gebruik je (eventueel) de VT voor het verrekenen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        292.01,
+        134.46,
+        307.01
+      ],
+      "text": "de vordering.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.0,
+        339.02,
+        285.43,
+        361.02
+      ],
+      "text": "Beoordelen VFV-vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        357.01,
+        537.0,
+        372.01
+      ],
+      "text": "Je kijkt in Raadplegen en muteren vordering (INVMV) of er een openstaande VFV-vordering is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        388.01,
+        449.0,
+        403.01
+      ],
+      "text": "Is er geen openstaande VFV-vordering , dan betaal je de VT uit in Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        392.02,
+        79.0,
+        408.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        407.01,
+        721.09,
+        422.01
+      ],
+      "text": "Is er wel een openstaande vordering , dan kijk je in Raadplegen en muteren vordering (INVMV) of Raadplegen interne vorderingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        411.02,
+        79.0,
+        427.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        427.01,
+        720.07,
+        442.01
+      ],
+      "text": "inclusief claimvorderingen (INVBK) of de volledige VT (‘Verrekenen VT’ staat nu op ‘J’) wordt ingehouden voor de VFV-vordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        461.01,
+        571.5,
+        476.01
+      ],
+      "text": "Wordt de volledige VT ingehouden en/of gaat het om bewindvoering , WSNP en/of een lopend beslag:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        492.01,
+        395.0,
+        507.01
+      ],
+      "text": "Ja , dan betaal je de VT zonder verdere beoordeling in Excasso.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        496.02,
+        79.0,
+        512.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        511.01,
+        364.46,
+        526.01
+      ],
+      "text": "Nee , dan volg je de werkwijze in de verdieping hieronder.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        515.02,
+        79.0,
+        531.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        546.01,
+        276.33,
+        561.01
+      ],
+      "text": "Werkwijze VFV-vordering bij uitbetalen VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        576.01,
+        162.0,
+        591.01
+      ],
+      "text": "Na betalen van VT",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        596.01,
+        762.0,
+        611.01
+      ],
+      "text": "Als er na betaling van de VT nog een openstaande VFV-vordering is , stopt hier het proces voor de WW. VFV informeert de cliënt verder en is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        616.01,
+        384.07,
+        631.01
+      ],
+      "text": "verantwoordelijk voor het verdere beheer van de VFV-vordering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        635.01,
+        760.0,
+        650.01
+      ],
+      "text": "Als er na betaling van de VT nog een openstaande claimvordering is , beoordeel je of het openstaande bedrag is in te houden op een andere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        655.01,
+        740.78,
+        670.01
+      ],
+      "text": "lopende uitkering. Het bedrag moet dan wel met 1 betaling verrekend kunnen worden. Het is vooral bedoeld om relatief kleine bedragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        674.01,
+        389.33,
+        689.01
+      ],
+      "text": "toch nog even in te houden i. p. v. over te boeken naar Invorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        705.01,
+        751.0,
+        720.01
+      ],
+      "text": "Wanneer de vordering te groot is of bij twijfel , draag je de vordering over aan de afdeling VFV Invorderen. Je boekt de vordering nu over in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        724.01,
+        125.33,
+        739.01
+      ],
+      "text": "Invorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        755.01,
+        751.0,
+        770.01
+      ],
+      "text": "In het scherm Raadplegen en muteren vordering (INVMV) kies je in scherm 3 ‘Detailinformatie vordering’ voor de functieknop ‘Overdragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        775.01,
+        762.38,
+        790.01
+      ],
+      "text": "aan VFV'. Je komt nu in het veld Overdragen vordering (INVOV). Bij een vordering die niet voortkomt uit de controlemaand maar een overige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        794.01,
+        754.09,
+        809.01
+      ],
+      "text": "herziening , laat je de BVV berekenen door VFV. Binnen het veld Overdragen vordering (INVOV) kies je nu voor de bijzonderheid ‘Verrekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        814.01,
+        134.5,
+        829.01
+      ],
+      "text": "tot aan BVV’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        844.01,
+        558.54,
+        859.01
+      ],
+      "text": "Je informeert de cliënt hierover met brief ‘UWTCM56-03: Overdracht restvordering aan Invorderen’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        875.01,
+        730.9,
+        890.01
+      ],
+      "text": "Let op: Als de restantvordering lager is dan € 11 , boek je het bedrag altijd af. Hoe je dat doet , lees je in de werkinstructie Afboeking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        89.0,
+        895.01,
+        143.09,
+        910.01
+      ],
+      "text": "afhandelen.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        74.0,
+        941.02,
+        319.0,
+        963.02
+      ],
+      "text": "Signaal ‘Vordering verrekend?’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        959.01,
+        763.0,
+        974.01
+      ],
+      "text": "Als je het (zelf opgevoerde) signaal ‘Vordering verrekend’ ontvangt , beoordeel je of de vordering volledig is verrekend. Dit controleer je in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        979.01,
+        333.89,
+        994.01
+      ],
+      "text": "scherm (Raadplegen en) Muteren vordering (INVMV).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1009.01,
+        541.5,
+        1024.01
+      ],
+      "text": "Als de vordering volledig is voldaan , verstuur je brief ‘UWTCM56-01: Bedrag volledig verrekend’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1029.01,
+        762.6,
+        1044.01
+      ],
+      "text": "Het kan voorkomen dat de vordering nog niet volledig is verrekend. In dit geval meld je de opvolgtaak ‘Claimvordering verrekend?’ af en voer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1048.01,
+        762.67,
+        1063.02
+      ],
+      "text": "je een nieuwe opvolgtaak op , met de datum waarop je verwacht dat de vordering volledig is voldaan. Een vordering die niet voortkomt uit de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1068.02,
+        740.8,
+        1083.02
+      ],
+      "text": "controlemaand maar een overige herziening en waarbij 12 maanden is verrekend , boek je over naar VFV. Je laat daar de BVV berekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        74.0,
+        1087.02,
+        623.5,
+        1102.02
+      ],
+      "text": "door VFV. Binnen het veld Overdragen vordering (INVOV) kies je voor de bijzonderheid ‘Verrekenen tot aan BVV’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        64.02,
+        282.0,
+        86.02
+      ],
+      "text": "Signaal van ander domein",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        82.02,
+        706.33,
+        97.02
+      ],
+      "text": "Wanneer bij de WW een claimvordering open staat en er ontstaat bij een andere wet ook een claimvordering open , moeten beide",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        102.02,
+        739.67,
+        117.02
+      ],
+      "text": "claimvorderingen worden overgedragen aan Invorderen. Je kunt dus een signaal ontvangen van een andere wet met het verzoek om de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        121.02,
+        357.33,
+        136.02
+      ],
+      "text": "claimvordering van de WW over te boeken aan Invorderen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        152.02,
+        751.0,
+        167.01
+      ],
+      "text": "In het scherm Raadplegen en muteren vordering (INVMV) kies je in scherm 3 ‘Detailinformatie vordering’ voor de functieknop ‘Overdragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        172.01,
+        384.11,
+        187.01
+      ],
+      "text": "aan VFV'. Je komt nu in het veld Overdragen vordering (INVOV).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        191.01,
+        757.8,
+        206.01
+      ],
+      "text": "Bij een vordering die niet voortkomt uit de controlemaand maar een overige herziening , laat je de BVV berekenen door VFV. Binnen het veld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        211.01,
+        508.5,
+        226.01
+      ],
+      "text": "Overdragen vordering (INVOV) kies je nu voor de bijzonderheid ‘Verrekenen tot aan BVV’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        260.02,
+        210.26,
+        284.02
+      ],
+      "text": "Bijzonderheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        289.01,
+        368.13,
+        304.01
+      ],
+      "text": "Mogelijkheid tot schuldhulpverlening (op verzoek van cliënt)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        320.01,
+        191.4,
+        335.01
+      ],
+      "text": "Ondersteuning BIA-recht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        351.01,
+        211.53,
+        366.01
+      ],
+      "text": "TWK i. c. m. restitutiebetaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        382.01,
+        179.72,
+        397.01
+      ],
+      "text": "Werkgeversbetalingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        412.01,
+        227.6,
+        427.01
+      ],
+      "text": "Eenmalige (negatieve) uitkering",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        470.02,
+        745.0,
+        492.02
+      ],
+      "text": "Na verschuiving max in gebroken maand door inkomsten > 875% , toch nabetaling",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        74.0,
+        492.02,
+        443.67,
+        514.02
+      ],
+      "text": "(ten onrechte). Zet bedrag handmatig op € 0.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        511.01,
+        197.8,
+        526.01
+      ],
+      "text": "Wanneer er sprake is van:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        541.01,
+        443.67,
+        556.01
+      ],
+      "text": "het bereiken maxdatum van een recht in de te betalen maandperiode , en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.0,
+        545.02,
+        79.0,
+        561.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        561.01,
+        474.5,
+        576.01
+      ],
+      "text": "dit recht wordt geheel beëindigd i. v. m. inkomsten > 875% , van het maandloon ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        76.0,
+        565.02,
+        79.0,
+        581.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        595.01,
+        707.83,
+        610.01
+      ],
+      "text": "dan kan het voorkomen dat door het handmatig verschuiven van de maxdatum er een nabetaling ontstaat (positieve bruto TWK).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        626.01,
+        119.9,
+        641.01
+      ],
+      "text": "Voorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        656.01,
+        119.9,
+        671.01
+      ],
+      "text": "Oplossing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        676.01,
+        709.0,
+        691.01
+      ],
+      "text": "Er is geen recht op nabetaling omdat de beoordeling van de oorspronkelijke situatie als leidend geldt. De oplossing is om de TWK",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        696.01,
+        752.88,
+        711.01
+      ],
+      "text": "handmatig op nul te zetten via T2311 ‘Individueel vaststellen’. Dit doe je door bij ‘Gehele Beëindiging’ het bedrag aan maandloon te vullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        727.01,
+        264.0,
+        742.01
+      ],
+      "text": "Behorend bij proces: WW05/06 , WW30.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        746.01,
+        104.0,
+        761.01
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        767.01,
+        466.33,
+        782.01
+      ],
+      "text": "Cliënt Brieven:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        798.01,
+        751.3,
+        813.01
+      ],
+      "text": "UWTCM55-001: Herziening na controlemaand , harde vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        802.02,
+        434.0,
+        818.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        817.01,
+        643.1,
+        832.01
+      ],
+      "text": "UWTCM56-01: Bedrag volledig verrekend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        821.02,
+        434.0,
+        837.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        837.01,
+        731.22,
+        852.01
+      ],
+      "text": "UWTCM56-02: Herziening en bevestiging betalingsregeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        841.02,
+        434.0,
+        857.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        856.01,
+        714.18,
+        871.01
+      ],
+      "text": "UWTCM56-03: Overdracht restvordering aan Invorderen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        860.02,
+        434.0,
+        876.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        876.01,
+        684.29,
+        891.01
+      ],
+      "text": "UWTCM56-04: Verrekening in termijnen of ineens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        880.02,
+        434.0,
+        896.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        895.01,
+        741.14,
+        910.01
+      ],
+      "text": "UWTCM56-05: Herz. en verr. Na controlemaand , klant gebeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        899.02,
+        434.0,
+        915.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        915.01,
+        762.14,
+        930.01
+      ],
+      "text": "UWTCM56-06: Herz. en verr. Na controlemaand , klant niet gebeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        919.02,
+        434.0,
+        935.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        934.01,
+        723.87,
+        949.01
+      ],
+      "text": "UWWRH02-001: Met terugwerkende kracht , door toedoen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        938.02,
+        434.0,
+        954.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        954.01,
+        762.75,
+        969.01
+      ],
+      "text": "UWWRH02-071: Herziening met TWK + Terugvordering , fout UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        958.02,
+        434.0,
+        974.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        973.01,
+        756.25,
+        988.01
+      ],
+      "text": "UWWRH02-81: Herziening met TWK + verzoek terugbetalen aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        977.02,
+        434.0,
+        993.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        993.01,
+        505.75,
+        1008.01
+      ],
+      "text": "wg , fout UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        429.0,
+        1027.01,
+        469.0,
+        1042.01
+      ],
+      "text": "Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        429.0,
+        1047.01,
+        607.01,
+        1062.02
+      ],
+      "text": "Gesprek over herziening/verrekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1067.02,
+        626.17,
+        1082.02
+      ],
+      "text": "Werkgever Kopie beschikking en begeleidende brief",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1087.02,
+        539.0,
+        1102.02
+      ],
+      "text": "Intern Registraties in WWO",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        1091.02,
+        434.0,
+        1107.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        1107.02,
+        554.75,
+        1122.02
+      ],
+      "text": "Registraties in Excasso",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        1111.02,
+        434.0,
+        1127.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        1126.02,
+        603.75,
+        1141.02
+      ],
+      "text": "Registratie gesprek cliënt in CMP",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        1130.02,
+        434.0,
+        1146.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        444.0,
+        1146.02,
+        665.75,
+        1161.02
+      ],
+      "text": "Eventueel overdracht aan Handhaving en VFV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        431.0,
+        1150.02,
+        434.0,
+        1166.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        74.0,
+        1166.02,
+        143.64,
+        1181.02
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        53.02,
+        127.1,
+        68.02
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        84.02,
+        139.54,
+        99.02
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        104.02,
+        118.1,
+        119.02
+      ],
+      "text": "Overzicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        429.0,
+        105.02,
+        499.75,
+        120.02
+      ],
+      "text": "Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        125.02,
+        271.18,
+        140.02
+      ],
+      "text": "Wettelijke basis , aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        145.02,
+        616.67,
+        160.02
+      ],
+      "text": "Toelichting Wetsuitleg WW/IOW hoofdstuk 341. 02",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        165.02,
+        139.0,
+        180.01
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        74.0,
+        166.01,
+        762.5,
+        177.01
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        88.0,
+        186.01,
+        750.08,
+        201.01
+      ],
+      "text": "vorig(e) proces(stap) volgend(e) proces(stap)",
+      "source": "text"
+    }
+  ]
+}

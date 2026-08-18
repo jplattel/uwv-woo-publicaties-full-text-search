@@ -1,0 +1,5909 @@
+{
+  "source_id": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-correctieverzoeken-avg-2024-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_slug": "2026-08-04-handreiking-correctieverzoeken-avg-2024-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/b7fb0508-9fed-4d26-8fe9-6b2355925ae3/handreiking-correctieverzoeken-avg-2024-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over processen rondom gegevensverwerking",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handreiking Correctieverzoeken AVG 2024 (PDF, 2 MB)",
+  "retrieved_at": "2026-08-18T06:34:21+00:00",
+  "sha256": "d1c349c6168fa21560f6985b563c84acd75752aa59f363d95b625e37ed47e59e",
+  "page_count": 7,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        54.0,
+        86.02,
+        108.0,
+        110.02
+      ],
+      "text": "UWV",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        136.0,
+        142.01,
+        257.0,
+        154.01
+      ],
+      "text": "Correctierecht AVG",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        50.0,
+        143.01,
+        123.33,
+        158.01
+      ],
+      "text": "Handreiking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        237.0,
+        663.01,
+        300.75,
+        670.01
+      ],
+      "text": "Correctierecht AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        664.01,
+        187.11,
+        670.01
+      ],
+      "text": "Bestandsnaam: 20240712",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        194.0,
+        664.01,
+        231.58,
+        672.01
+      ],
+      "text": "Handreiking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        674.01,
+        97.0,
+        685.01
+      ],
+      "text": "Versie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        156.0,
+        676.01,
+        163.5,
+        682.01
+      ],
+      "text": "1.0",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        688.01,
+        183.55,
+        694.01
+      ],
+      "text": "Datum: 1-9-2024",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        732.01,
+        210.95,
+        740.01
+      ],
+      "text": "Afdeling: Gegevensbescherming",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        107.0,
+        733.01,
+        261.5,
+        739.01
+      ],
+      "text": "Bureau als onderdeel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        267.0,
+        734.0,
+        276.75,
+        739.0
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        151.0,
+        742.01,
+        194.0,
+        751.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        743.01,
+        235.67,
+        749.01
+      ],
+      "text": "Bestuurszaken Door: adviseur",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        196.0,
+        743.01,
+        258.67,
+        751.01
+      ],
+      "text": "(sr. IB&P)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        55.0,
+        65.02,
+        192.43,
+        83.02
+      ],
+      "text": "Inhoudsopgave",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        133.01,
+        521.0,
+        144.01
+      ],
+      "text": "Inleiding 2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        156.01,
+        519.56,
+        167.01
+      ],
+      "text": "Toepassingsbereik Error! Bookmark not defined.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        179.01,
+        519.56,
+        190.01
+      ],
+      "text": "Kaders afhandeling correctieverzoek Error! Bookmark defined.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        465.0,
+        180.01,
+        477.75,
+        191.01
+      ],
+      "text": "not",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        72.0,
+        75.02,
+        134.1,
+        94.02
+      ],
+      "text": "Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        117.01,
+        489.25,
+        125.01
+      ],
+      "text": "De AVG kent in hoofdstuk 3 aantal rechten aanzien hun",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        189.0,
+        117.01,
+        227.5,
+        127.01
+      ],
+      "text": "natuurlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        321.0,
+        118.01,
+        418.75,
+        125.01
+      ],
+      "text": "concrete toe ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        275.0,
+        119.01,
+        471.25,
+        125.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        234.0,
+        119.01,
+        268.67,
+        127.01
+      ],
+      "text": "personen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        276.0,
+        129.01,
+        308.0,
+        136.01
+      ],
+      "text": "concrete",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        170.0,
+        129.01,
+        518.25,
+        137.01
+      ],
+      "text": "15-22 Eén die rechten is het recht correctie 16 Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        153.0,
+        129.01,
+        498.83,
+        139.01
+      ],
+      "text": "(art AVG). (art. AVG).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        243.0,
+        131.01,
+        254.25,
+        137.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        131.01,
+        402.67,
+        139.01
+      ],
+      "text": "persoonsgegevens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        140.01,
+        519.75,
+        148.01
+      ],
+      "text": "recht correctie/rectificatie houdt in dat betrokkene het recht heeft de die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        253.0,
+        142.01,
+        400.67,
+        148.01
+      ],
+      "text": "een om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        95.0,
+        142.01,
+        502.06,
+        150.01
+      ],
+      "text": "op persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        182.0,
+        152.01,
+        187.33,
+        159.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        142.0,
+        152.01,
+        504.33,
+        160.01
+      ],
+      "text": "verwerkt laten Dit betekent dat UWV kan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        152.01,
+        375.86,
+        162.01
+      ],
+      "text": "organisatie wijzigen. burger",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        154.01,
+        489.67,
+        160.01
+      ],
+      "text": "een een aan om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        447.0,
+        154.01,
+        472.71,
+        162.01
+      ],
+      "text": "vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        117.0,
+        163.01,
+        428.87,
+        171.01
+      ],
+      "text": "die deze hem/haar verwerkt laten Wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        157.0,
+        163.01,
+        497.92,
+        173.01
+      ],
+      "text": "organisatie wijzigen. bijvoorbeeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        317.0,
+        164.01,
+        322.33,
+        171.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        209.0,
+        165.01,
+        443.0,
+        171.01
+      ],
+      "text": "over er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        165.01,
+        108.22,
+        173.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        104.0,
+        175.01,
+        498.8,
+        183.01
+      ],
+      "text": "is in de dan heeft de betrokkene het recht deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        175.01,
+        305.3,
+        185.01
+      ],
+      "text": "sprake onjuistheden gegevensverwerking,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        113.0,
+        177.01,
+        474.67,
+        183.01
+      ],
+      "text": "van om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        186.01,
+        346.5,
+        194.01
+      ],
+      "text": "incorrecte rectificeren vullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        265.0,
+        186.01,
+        285.0,
+        196.01
+      ],
+      "text": "nodig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        163.0,
+        187.01,
+        316.33,
+        194.01
+      ],
+      "text": "te te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        226.0,
+        188.01,
+        304.0,
+        194.01
+      ],
+      "text": "en waar aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        117.0,
+        188.01,
+        155.22,
+        196.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        209.01,
+        488.0,
+        217.01
+      ],
+      "text": "De Correctierecht directeur de UWV-medewerker kaders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        85.0,
+        209.01,
+        456.9,
+        219.01
+      ],
+      "text": "handreiking (eigenaar BZ) beoogt generieke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        494.0,
+        210.01,
+        499.33,
+        217.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        189.0,
+        221.01,
+        236.0,
+        228.01
+      ],
+      "text": "te met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        221.01,
+        479.5,
+        229.01
+      ],
+      "text": "bieden hoe in de correctieverzoek klant. De maakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        142.0,
+        221.01,
+        450.0,
+        231.01
+      ],
+      "text": "praktijk handreiking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        174.0,
+        223.01,
+        360.25,
+        229.01
+      ],
+      "text": "om een van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        200.0,
+        223.01,
+        216.8,
+        231.01
+      ],
+      "text": "gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        119.0,
+        232.01,
+        501.63,
+        240.01
+      ],
+      "text": "welke in hoeverre UWV kan voldoen verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        232.01,
+        289.62,
+        242.01
+      ],
+      "text": "inzichtelijk nodig zijn bepalen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        247.0,
+        233.01,
+        517.25,
+        240.01
+      ],
+      "text": "te tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        147.0,
+        233.01,
+        177.62,
+        242.01
+      ],
+      "text": "stappen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        231.0,
+        234.01,
+        464.0,
+        240.01
+      ],
+      "text": "om aan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        148.0,
+        244.01,
+        219.25,
+        251.01
+      ],
+      "text": "moet tot tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        244.01,
+        437.8,
+        252.01
+      ],
+      "text": "correctie deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        225.0,
+        244.01,
+        490.0,
+        254.01
+      ],
+      "text": "wijzigen onjuiste nodig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        112.0,
+        246.01,
+        510.0,
+        252.01
+      ],
+      "text": "en over van en waar aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        187.0,
+        246.01,
+        399.06,
+        254.01
+      ],
+      "text": "gaan persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        82.0,
+        255.01,
+        106.5,
+        263.01
+      ],
+      "text": "vullen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        256.01,
+        75.33,
+        263.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        86.0,
+        278.01,
+        395.67,
+        286.01
+      ],
+      "text": "de website UWV onder het ‘UWV wordt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        278.01,
+        498.2,
+        288.01
+      ],
+      "text": "Op kopje privacy’ richting burger gecommuniceerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        133.0,
+        280.01,
+        291.0,
+        286.01
+      ],
+      "text": "van en uw",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        506.0,
+        280.01,
+        513.33,
+        288.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        290.01,
+        519.0,
+        298.01
+      ],
+      "text": "welke de AVG-verzoek UWV kan indienen: of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        443.0,
+        290.01,
+        467.5,
+        299.01
+      ],
+      "text": "inzien,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        97.0,
+        290.01,
+        505.11,
+        300.01
+      ],
+      "text": "wijze burger bij Mijn wijzigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        163.0,
+        292.01,
+        174.25,
+        298.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        356.0,
+        292.01,
+        435.06,
+        300.01
+      ],
+      "text": "persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        130.0,
+        301.01,
+        150.0,
+        309.01
+      ],
+      "text": "UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        125.0,
+        301.01,
+        125.5,
+        311.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        302.01,
+        116.75,
+        311.01
+      ],
+      "text": "verwijderen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        83.0,
+        324.01,
+        450.5,
+        332.01
+      ],
+      "text": "verdere kan de medewerker zich richten het emailadres K&S",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        324.01,
+        169.69,
+        334.01
+      ],
+      "text": "Bij procesmatige",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        342.0,
+        325.01,
+        350.25,
+        332.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        419.0,
+        326.01,
+        430.25,
+        332.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        176.0,
+        326.01,
+        200.0,
+        334.01
+      ],
+      "text": "vragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        336.01,
+        449.33,
+        344.01
+      ],
+      "text": "Klachtenservice de het AVG-verzoeken de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        139.0,
+        336.01,
+        435.63,
+        346.01
+      ],
+      "text": "(Almere) uitvoering (waaronder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        180.0,
+        338.01,
+        270.25,
+        344.01
+      ],
+      "text": "waar van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        292.0,
+        338.01,
+        316.0,
+        346.01
+      ],
+      "text": "proces",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        200.0,
+        345.01,
+        262.22,
+        358.01
+      ],
+      "text": "M@uvv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        200.0,
+        346.01,
+        232.0,
+        357.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        155.0,
+        347.01,
+        159.0,
+        355.01
+      ],
+      "text": "is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        347.01,
+        190.25,
+        357.01
+      ],
+      "text": "correctieverzoeken) belegd:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        370.01,
+        474.36,
+        378.01
+      ],
+      "text": "Waar de uitsluitsel kan advies worden Bestuurszaken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        112.0,
+        370.01,
+        490.5,
+        380.01
+      ],
+      "text": "Handreiking geeft, gevraagd (in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        395.0,
+        372.01,
+        407.0,
+        378.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        167.0,
+        372.01,
+        184.6,
+        380.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        409.0,
+        381.01,
+        442.3,
+        393.01
+      ],
+      "text": "specifiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        383.01,
+        94.14,
+        390.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        101.0,
+        383.01,
+        514.0,
+        391.01
+      ],
+      "text": "instantie de adviseurs Bureau advies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        255.0,
+        383.01,
+        482.4,
+        393.01
+      ],
+      "text": "Gegevensbescherming (BG), juridisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        201.0,
+        385.01,
+        403.0,
+        391.01
+      ],
+      "text": "van voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        71.0,
+        395.01,
+        286.43,
+        403.01
+      ],
+      "text": "kunnen de Juridische Zaken worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        120.0,
+        395.01,
+        356.53,
+        405.01
+      ],
+      "text": "collega’s geraadpleegd).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        162.0,
+        397.01,
+        174.0,
+        403.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        70.0,
+        74.02,
+        223.95,
+        92.02
+      ],
+      "text": "Toepassingsbereik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        118.01,
+        507.78,
+        128.01
+      ],
+      "text": "Deze handreiking is toepassing verzoeken correctie die verwerkt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.0,
+        120.01,
+        450.0,
+        129.01
+      ],
+      "text": "van op om van persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.0,
+        130.01,
+        387.8,
+        140.01
+      ],
+      "text": "worden in het kader de uitvoering de wettelijke taken door UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.0,
+        131.01,
+        252.0,
+        140.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        196.0,
+        152.01,
+        501.17,
+        162.01
+      ],
+      "text": "alle natuurlijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        215.0,
+        152.01,
+        452.94,
+        163.01
+      ],
+      "text": "informatie geïdentificeerde of identificeerbare",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        154.01,
+        296.75,
+        163.01
+      ],
+      "text": "persoonsgegevens: over een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        148.0,
+        164.01,
+        512.5,
+        174.01
+      ],
+      "text": "\" \" als wordt beschouwd natuurlijke die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        145.0,
+        164.01,
+        307.94,
+        175.01
+      ],
+      "text": "(de betrokkene) identificeerbaar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        166.01,
+        494.5,
+        175.01
+      ],
+      "text": "persoon ; een persoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        175.01,
+        226.29,
+        185.01
+      ],
+      "text": "direct indirect kan worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        133.0,
+        175.01,
+        295.88,
+        186.01
+      ],
+      "text": "of geïdentificeerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        300.0,
+        177.01,
+        301.5,
+        186.01
+      ],
+      "text": ";",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        93.31,
+        187.01,
+        446.25,
+        197.01
+      ],
+      "text": "verwerking: bewerking geheel bewerkingen met betrekking tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        228.0,
+        187.01,
+        234.0,
+        198.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        160.0,
+        189.01,
+        303.0,
+        198.01
+      ],
+      "text": "een een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        224.0,
+        198.01,
+        473.75,
+        208.01
+      ],
+      "text": "geheel al dan niet uitgevoerd via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        193.0,
+        198.01,
+        199.0,
+        209.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        200.01,
+        356.0,
+        209.01
+      ],
+      "text": "persoonsgegevens een van persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        360.0,
+        205.0,
+        361.5,
+        209.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        210.01,
+        481.85,
+        220.01
+      ],
+      "text": "geautomatiseerde zoals het verzamelen vastleggen ordenen structureren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        189.0,
+        210.01,
+        225.45,
+        221.01
+      ],
+      "text": "procedés",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        230.0,
+        216.0,
+        486.5,
+        220.0
+      ],
+      "text": ", , , , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        221.01,
+        499.71,
+        231.01
+      ],
+      "text": "opslaan bijwerken wijzigen raadplegen gebruiken verstrekken door middel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        192.0,
+        221.01,
+        198.0,
+        232.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        244.0,
+        223.01,
+        518.0,
+        232.01
+      ],
+      "text": "opvragen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.0,
+        228.0,
+        392.5,
+        232.0
+      ],
+      "text": ", , , , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        233.01,
+        513.18,
+        243.01
+      ],
+      "text": "doorzending verspreiden andere wijze ter beschikking stellen aligneren combineren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        222.0,
+        233.01,
+        460.0,
+        244.01
+      ],
+      "text": "of of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        233.0,
+        235.01,
+        240.33,
+        244.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.0,
+        239.0,
+        518.5,
+        243.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        164.0,
+        244.01,
+        252.92,
+        254.01
+      ],
+      "text": "wissen vernietigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        244.01,
+        203.0,
+        255.01
+      ],
+      "text": "afschermen of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        260.0,
+        246.01,
+        323.5,
+        255.01
+      ],
+      "text": "van gegevens ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        158.0,
+        251.0,
+        159.5,
+        255.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        256.01,
+        425.82,
+        266.01
+      ],
+      "text": "betrokkene: Natuurlijke wie betrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        433.0,
+        256.01,
+        452.17,
+        267.01
+      ],
+      "text": "heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        211.0,
+        258.01,
+        456.5,
+        267.01
+      ],
+      "text": "persoon op een persoonsgegeven ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.9,
+        267.01,
+        420.43,
+        277.01
+      ],
+      "text": "verwerkingsverantwoordelijke: natuurlijke rechtspersoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        350.0,
+        267.01,
+        356.0,
+        278.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        243.0,
+        269.01,
+        442.75,
+        278.01
+      ],
+      "text": "een persoon een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        424.0,
+        274.0,
+        425.5,
+        278.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        279.01,
+        515.5,
+        289.01
+      ],
+      "text": "overheidsinstantie dienst ander alleen met anderen het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        241.0,
+        279.01,
+        405.0,
+        290.01
+      ],
+      "text": "of die/dat of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        192.0,
+        281.01,
+        435.0,
+        290.01
+      ],
+      "text": "een een orgaan samen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        187.0,
+        285.0,
+        500.5,
+        289.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        290.01,
+        502.33,
+        300.01
+      ],
+      "text": "doel de middelen de verwerking vaststelt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        128.0,
+        292.01,
+        488.12,
+        301.01
+      ],
+      "text": "van en voor van persoonsgegevens ; wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        302.01,
+        504.5,
+        312.01
+      ],
+      "text": "doelstellingen de middelen deze verwerking in het Unierecht het lidstatelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        431.0,
+        302.01,
+        437.0,
+        313.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        170.0,
+        304.01,
+        276.0,
+        313.01
+      ],
+      "text": "van en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        313.01,
+        517.33,
+        323.01
+      ],
+      "text": "recht worden vastgesteld kan daarin worden bepaald wie de verwerkingsverantwoordelijke is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        217.0,
+        320.0,
+        218.5,
+        324.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        117.0,
+        325.01,
+        260.83,
+        335.01
+      ],
+      "text": "volgens welke criteria deze wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        325.01,
+        112.0,
+        336.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        267.0,
+        327.01,
+        325.5,
+        336.01
+      ],
+      "text": "aangewezen ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        94.0,
+        336.01,
+        464.62,
+        346.01
+      ],
+      "text": "verzoek correctie: verzoek betrokkene artikel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        281.0,
+        336.01,
+        499.75,
+        347.01
+      ],
+      "text": "of conform 16 AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        144.0,
+        338.01,
+        391.33,
+        347.01
+      ],
+      "text": "om een van namens om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        396.0,
+        343.0,
+        506.5,
+        347.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        212.0,
+        348.01,
+        472.29,
+        358.01
+      ],
+      "text": "betrokkene te corrigeren de te laten vullen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        324.0,
+        348.01,
+        330.0,
+        359.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        350.01,
+        513.12,
+        359.01
+      ],
+      "text": "persoonsgegevens van gegevens aan wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        359.01,
+        462.67,
+        369.01
+      ],
+      "text": "deze incompleet zijn bijvoorbeeld door aanvullende verklaring verstrekken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        404.0,
+        360.01,
+        410.0,
+        370.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        282.0,
+        361.01,
+        468.5,
+        370.01
+      ],
+      "text": "een ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        197.0,
+        366.0,
+        198.5,
+        370.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        93.42,
+        371.01,
+        386.0,
+        381.01
+      ],
+      "text": "verzoeker: degene die verzoek correctie indient bij UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        208.0,
+        373.01,
+        392.5,
+        382.01
+      ],
+      "text": "een om ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        156.0,
+        382.01,
+        239.79,
+        392.01
+      ],
+      "text": "niet in elektronische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        92.33,
+        382.01,
+        148.67,
+        393.01
+      ],
+      "text": "schriftelijk:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        247.0,
+        384.01,
+        270.5,
+        393.01
+      ],
+      "text": "vorm ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        394.01,
+        427.33,
+        404.01
+      ],
+      "text": "legitimatiebewijs: document als bedoeld in artikel de Wet de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        345.0,
+        394.01,
+        504.3,
+        405.01
+      ],
+      "text": "1 identificatieplicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        185.0,
+        396.01,
+        509.5,
+        405.01
+      ],
+      "text": "een van op ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        405.01,
+        472.14,
+        415.01
+      ],
+      "text": "derde: natuurlijke rechtspersoon overheidsinstantie dienst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        244.0,
+        405.01,
+        485.0,
+        416.01
+      ],
+      "text": "of of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        137.0,
+        407.01,
+        502.75,
+        416.01
+      ],
+      "text": "een persoon een een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        319.0,
+        412.0,
+        425.5,
+        416.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        417.01,
+        495.33,
+        427.01
+      ],
+      "text": "ander niet zijnde de betrokkene noch de verwerkingsverantwoordelijke noch de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        135.0,
+        419.01,
+        161.57,
+        428.01
+      ],
+      "text": "orgaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        166.0,
+        423.0,
+        459.5,
+        427.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        428.01,
+        396.33,
+        438.01
+      ],
+      "text": "verwerker noch de die onder rechtstreeks de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        194.0,
+        430.01,
+        382.0,
+        439.01
+      ],
+      "text": "personen gezag van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        150.0,
+        435.0,
+        151.5,
+        439.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        440.01,
+        508.0,
+        450.01
+      ],
+      "text": "verwerkingsverantwoordelijke de verwerker gemachtigd zijn de te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        240.0,
+        440.01,
+        246.0,
+        451.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        384.0,
+        442.01,
+        495.0,
+        451.01
+      ],
+      "text": "om persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        106.0,
+        451.01,
+        150.55,
+        461.01
+      ],
+      "text": "verwerken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        137.0,
+        73.02,
+        229.58,
+        91.02
+      ],
+      "text": "afhandeling",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        70.0,
+        74.02,
+        376.58,
+        92.02
+      ],
+      "text": "Kaders correctieverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        125.01,
+        267.8,
+        135.01
+      ],
+      "text": "Procedurele aspecten correctierecht art.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        273.0,
+        125.01,
+        317.5,
+        136.01
+      ],
+      "text": "12/15 AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        246.0,
+        129.01,
+        249.0,
+        135.01
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        220.0,
+        145.01,
+        494.62,
+        155.01
+      ],
+      "text": "in ieder geval binnen maand ontvangst het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        145.01,
+        516.0,
+        156.01
+      ],
+      "text": "Onverwijld één (art.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        194.0,
+        147.01,
+        440.0,
+        156.01
+      ],
+      "text": "maar na van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        189.0,
+        151.0,
+        190.5,
+        155.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        177.0,
+        155.01,
+        197.0,
+        166.01
+      ],
+      "text": "AVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        156.0,
+        156.01,
+        163.5,
+        166.01
+      ],
+      "text": "lid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        156.01,
+        172.0,
+        167.01
+      ],
+      "text": "12 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        212.0,
+        166.01,
+        512.5,
+        176.01
+      ],
+      "text": "de complexiteit het verzoek het aantal verzoeken kan die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        166.01,
+        186.92,
+        177.01
+      ],
+      "text": "Afhankelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        193.0,
+        168.01,
+        381.0,
+        177.01
+      ],
+      "text": "van van en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        176.01,
+        482.5,
+        186.01
+      ],
+      "text": "termijn indien nodig met twee maanden worden verlengd lid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        440.0,
+        176.01,
+        516.0,
+        187.01
+      ],
+      "text": "(art. 12 3 AVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        251.0,
+        178.01,
+        288.6,
+        187.01
+      ],
+      "text": "nog eens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        187.01,
+        480.5,
+        197.01
+      ],
+      "text": "Verwerkingsverantwoordelijke dient het correctierecht te lid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        393.0,
+        187.01,
+        515.0,
+        198.01
+      ],
+      "text": "faciliteren (art. 12 2 AVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        186.0,
+        197.01,
+        491.0,
+        207.01
+      ],
+      "text": "is kosteloos tenzij verzoeken kennelijk ongegrond buitensporig zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        197.01,
+        512.0,
+        208.01
+      ],
+      "text": "Correctie of (art.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        238.0,
+        203.0,
+        239.5,
+        207.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        156.0,
+        207.01,
+        172.0,
+        217.01
+      ],
+      "text": "lid 5",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        142.0,
+        207.01,
+        197.0,
+        218.01
+      ],
+      "text": "12 AVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        218.01,
+        519.17,
+        228.01
+      ],
+      "text": "Is de betrokkene jonger dan jaren onder curatele onder bewind- mentorschap",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        269.0,
+        218.01,
+        461.0,
+        229.01
+      ],
+      "text": "16 of of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        305.0,
+        224.0,
+        306.5,
+        228.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        228.01,
+        496.73,
+        238.01
+      ],
+      "text": "gesteld dan moet het verzoek grond artikel 5 lid 4 de uitvoeringswet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        282.0,
+        230.01,
+        417.0,
+        239.01
+      ],
+      "text": "op van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        174.0,
+        234.0,
+        379.5,
+        238.0
+      ],
+      "text": ", , ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        169.0,
+        238.01,
+        520.5,
+        248.01
+      ],
+      "text": "door de wettelijke vertegenwoordiger worden gedaan. Het antwoord wordt in dat",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        142.0,
+        238.01,
+        157.75,
+        249.01
+      ],
+      "text": "AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        163.0,
+        245.0,
+        164.5,
+        249.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        249.01,
+        439.4,
+        259.01
+      ],
+      "text": "geval ook gericht de wettelijke vertegenwoordiger. Een wettelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        221.0,
+        251.01,
+        233.75,
+        260.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        259.01,
+        517.29,
+        269.01
+      ],
+      "text": "vertegenwoordiger die verzoek indient dient zich te legitimeren te kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        244.0,
+        261.01,
+        470.75,
+        270.01
+      ],
+      "text": "een en aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        331.0,
+        265.0,
+        332.5,
+        269.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        170.0,
+        269.01,
+        499.88,
+        279.01
+      ],
+      "text": "dat hij als zodanig bevoegd is het verzoek betrokkene in dienen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        270.01,
+        466.0,
+        280.01
+      ],
+      "text": "tonen te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        358.0,
+        271.01,
+        388.86,
+        280.01
+      ],
+      "text": "namens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        280.01,
+        493.45,
+        290.01
+      ],
+      "text": "Indien betrokkene zich laat vertegenwoordigen dient hierbij door betrokkene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        406.0,
+        282.01,
+        418.75,
+        291.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        290.01,
+        501.0,
+        300.01
+      ],
+      "text": "ondertekende machtiging kopie zijn legitimatiebewijs alsmede kopie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        260.0,
+        292.01,
+        474.75,
+        301.01
+      ],
+      "text": "een van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        255.0,
+        296.0,
+        417.5,
+        300.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        161.0,
+        300.01,
+        500.62,
+        310.01
+      ],
+      "text": "het legitimatiebewijs de gemachtigde worden overlegd. Als het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        346.0,
+        301.01,
+        352.0,
+        311.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        302.01,
+        265.0,
+        311.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        311.01,
+        496.89,
+        321.01
+      ],
+      "text": "wordt ingediend door advocaat die als gemachtigde betrokkene optreedt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        238.0,
+        313.01,
+        405.0,
+        322.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        321.01,
+        447.0,
+        331.01
+      ],
+      "text": "geldt de voorwaarde het overleggen machtiging kopie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.0,
+        323.01,
+        484.75,
+        332.01
+      ],
+      "text": "van van een en van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        332.01,
+        312.83,
+        342.01
+      ],
+      "text": "legitimatiebewijs gemachtigde niet.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        218.0,
+        333.01,
+        230.0,
+        342.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        362.01,
+        267.8,
+        372.01
+      ],
+      "text": "Inhoudelijke aspecten correctierecht art.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        274.0,
+        362.01,
+        303.5,
+        373.01
+      ],
+      "text": "16 AVG",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        247.0,
+        366.01,
+        250.0,
+        372.01
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        385.01,
+        368.75,
+        395.01
+      ],
+      "text": "Een correctieverzoek is besluit in de zin de Awb",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.0,
+        385.01,
+        94.0,
+        396.01
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        221.0,
+        387.01,
+        331.5,
+        396.01
+      ],
+      "text": "een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        397.01,
+        489.62,
+        407.01
+      ],
+      "text": "Zodra beoordeeld het verzoek betrekking wordt door het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        99.0,
+        397.01,
+        434.0,
+        408.01
+      ],
+      "text": "K&S heeft heeft K&S",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        200.0,
+        399.01,
+        335.33,
+        408.01
+      ],
+      "text": "waar op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        364.0,
+        403.0,
+        365.5,
+        407.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        408.01,
+        513.38,
+        418.01
+      ],
+      "text": "uitgezet het relevante organisatieonderdeel. Het organisatieonderdeel neemt het besluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        452.0,
+        408.01,
+        481.75,
+        419.01
+      ],
+      "text": "formele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        410.01,
+        124.0,
+        419.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        87.0,
+        420.01,
+        509.33,
+        430.01
+      ],
+      "text": "al dan niet te voldoen het correctieverzoek betrokkene. Het besluit in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        409.0,
+        420.01,
+        434.38,
+        431.01
+      ],
+      "text": "betreft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        422.01,
+        452.75,
+        431.01
+      ],
+      "text": "om aan van een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        431.01,
+        497.38,
+        441.01
+      ],
+      "text": "zin de Awb art. staat daarom bezwaar. De kopie het besluit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        141.0,
+        431.01,
+        217.67,
+        442.01
+      ],
+      "text": "(zie 34 UAVG)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.0,
+        433.01,
+        448.0,
+        442.01
+      ],
+      "text": "van en open voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        222.0,
+        437.0,
+        223.5,
+        441.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        443.01,
+        454.0,
+        453.01
+      ],
+      "text": "dient te worden opgeslagen in EA. De zijn te vinden de DWU-pagina.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        241.0,
+        443.01,
+        302.6,
+        454.01
+      ],
+      "text": "brievenformats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        371.0,
+        445.01,
+        378.33,
+        454.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        466.01,
+        512.82,
+        476.01
+      ],
+      "text": "De verantwoordelijke het organisatieonderdeel het verzoek betrekking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        166.0,
+        466.01,
+        241.79,
+        477.01
+      ],
+      "text": "(districts)manager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        249.0,
+        468.01,
+        409.29,
+        477.01
+      ],
+      "text": "van waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        95.0,
+        477.01,
+        335.77,
+        487.01
+      ],
+      "text": "draagt correctieverzoek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        477.01,
+        218.67,
+        488.01
+      ],
+      "text": "heeft afhandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        126.0,
+        479.01,
+        256.75,
+        488.01
+      ],
+      "text": "zorg voor van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        500.01,
+        299.5,
+        510.01
+      ],
+      "text": "De het correctieverzoek is belegd bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        86.0,
+        500.01,
+        323.4,
+        511.01
+      ],
+      "text": "coördinatie K&S.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        137.0,
+        502.01,
+        149.0,
+        511.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        523.01,
+        260.3,
+        533.01
+      ],
+      "text": "Uitgangspunten correctieverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.0,
+        523.01,
+        94.0,
+        534.01
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        154.0,
+        535.01,
+        184.62,
+        545.01
+      ],
+      "text": "verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        535.01,
+        104.13,
+        546.01
+      ],
+      "text": "Gronden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        112.0,
+        537.01,
+        146.75,
+        546.01
+      ],
+      "text": "voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        546.01,
+        377.8,
+        556.01
+      ],
+      "text": "Een betrokkene kan verzoek indienen als:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        236.0,
+        546.01,
+        318.26,
+        557.01
+      ],
+      "text": "correctie/rectificatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        162.0,
+        548.01,
+        228.33,
+        557.01
+      ],
+      "text": "een om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        567.01,
+        289.62,
+        577.01
+      ],
+      "text": "de niet kloppen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.0,
+        567.01,
+        251.71,
+        578.01
+      ],
+      "text": "1. (meer)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        120.0,
+        569.01,
+        295.5,
+        578.01
+      ],
+      "text": "persoonsgegevens ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        578.01,
+        307.0,
+        588.01
+      ],
+      "text": "de niet volledig zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        88.0,
+        578.01,
+        251.71,
+        589.01
+      ],
+      "text": "2. (meer)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        120.0,
+        580.01,
+        311.5,
+        589.01
+      ],
+      "text": "persoonsgegevens ;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        601.01,
+        475.38,
+        611.01
+      ],
+      "text": "Een verzoek tot moet in principe worden opgevolgd indien beide gronden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        142.0,
+        601.01,
+        390.75,
+        612.01
+      ],
+      "text": "rectificatie één",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        397.0,
+        603.01,
+        495.0,
+        612.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        613.01,
+        128.5,
+        623.01
+      ],
+      "text": "toepassing is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        634.01,
+        191.27,
+        645.01
+      ],
+      "text": "Gronden afwijzing:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        112.0,
+        636.01,
+        146.75,
+        645.01
+      ],
+      "text": "voor een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        645.01,
+        507.0,
+        655.01
+      ],
+      "text": "Een beroep geldt niet als de betrokkene het niet is met indruk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        139.0,
+        645.01,
+        475.71,
+        656.01
+      ],
+      "text": "rectificatie professionele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        125.0,
+        647.01,
+        413.75,
+        656.01
+      ],
+      "text": "op eens een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        510.0,
+        651.0,
+        511.5,
+        655.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        657.01,
+        478.0,
+        667.01
+      ],
+      "text": "mening conclusie. De betrokkene kan wel de organisatie in ieder geval zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        106.0,
+        657.01,
+        112.0,
+        668.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        269.0,
+        659.01,
+        396.33,
+        668.01
+      ],
+      "text": "aan vragen om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        122.0,
+        668.01,
+        311.45,
+        678.01
+      ],
+      "text": "mening zijn dossier te laten toevoegen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        668.01,
+        116.43,
+        679.01
+      ],
+      "text": "schriftelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        158.0,
+        670.01,
+        170.75,
+        679.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        705.01,
+        134.0,
+        717.01
+      ],
+      "text": "Positie UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        718.01,
+        512.75,
+        728.01
+      ],
+      "text": "Voor het wijzigen sommige kan klant wijzigingsverzoek via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        380.0,
+        718.01,
+        415.1,
+        729.01
+      ],
+      "text": "specifiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        149.0,
+        720.01,
+        373.75,
+        729.01
+      ],
+      "text": "van persoonsgegevens een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        730.01,
+        508.0,
+        740.01
+      ],
+      "text": "de website indienen. Hierbij kan je denken verhuizing ook wijziging bijv.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        260.0,
+        732.01,
+        486.0,
+        741.01
+      ],
+      "text": "aan een maar aan een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        345.0,
+        736.0,
+        346.5,
+        740.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        176.0,
+        741.01,
+        485.29,
+        751.01
+      ],
+      "text": "rekeningnummer. nl hoe wijzigingen kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        90.0,
+        741.01,
+        265.33,
+        752.01
+      ],
+      "text": "telefoonnummer of Op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        304.0,
+        742.01,
+        322.33,
+        752.01
+      ],
+      "text": "staat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.0,
+        743.01,
+        378.0,
+        752.01
+      ],
+      "text": "een uwv. aangegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        72.01,
+        497.4,
+        80.01
+      ],
+      "text": "worden zie de link Hoe ik door UWV?",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        187.0,
+        72.01,
+        207.0,
+        81.01
+      ],
+      "text": "UWV,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        72.01,
+        507.0,
+        82.01
+      ],
+      "text": "doorgegeven bijv. volgende geef wijzigingen |",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        167.0,
+        74.01,
+        467.0,
+        80.01
+      ],
+      "text": "aan aan",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        95.0,
+        82.01,
+        97.0,
+        94.01
+      ],
+      "text": "|",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        84.01,
+        153.07,
+        92.01
+      ],
+      "text": "UWV Particulieren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        107.01,
+        504.43,
+        115.01
+      ],
+      "text": "Voor het laten andere UWV kan correctieverzoek worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        136.0,
+        107.01,
+        330.75,
+        117.01
+      ],
+      "text": "corrigeren bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        183.0,
+        109.01,
+        393.0,
+        115.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        236.0,
+        109.01,
+        315.06,
+        117.01
+      ],
+      "text": "persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        123.0,
+        118.01,
+        511.25,
+        126.01
+      ],
+      "text": "UWV kan niet elk verzoek laten kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        118.01,
+        492.62,
+        128.01
+      ],
+      "text": "ingediend. corrigeren volledig inwilligen. Hierbij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        302.0,
+        119.01,
+        307.33,
+        126.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        239.0,
+        120.01,
+        247.67,
+        126.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        256.0,
+        120.01,
+        294.22,
+        128.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        81.0,
+        130.01,
+        508.89,
+        138.01
+      ],
+      "text": "denken het in Polis achternaam Hiervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.0,
+        130.01,
+        467.15,
+        140.01
+      ],
+      "text": "je corrigeren (bijv. corrigeren).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        117.0,
+        132.01,
+        212.25,
+        138.01
+      ],
+      "text": "aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        220.0,
+        132.01,
+        299.06,
+        140.01
+      ],
+      "text": "persoonsgegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        96.0,
+        141.01,
+        467.33,
+        149.01
+      ],
+      "text": "de klant worden doorverwezen de De kan in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        142.01,
+        88.6,
+        149.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        271.0,
+        142.01,
+        376.11,
+        151.01
+      ],
+      "text": "gemeente. gemeente",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        235.0,
+        143.01,
+        251.0,
+        149.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        403.0,
+        143.01,
+        441.22,
+        151.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        401.0,
+        153.01,
+        445.54,
+        160.01
+      ],
+      "text": "overneemt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.0,
+        153.01,
+        293.33,
+        161.01
+      ],
+      "text": "Personen Polis de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        300.0,
+        153.01,
+        347.27,
+        162.01
+      ],
+      "text": "aangepaste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        153.01,
+        218.11,
+        163.01
+      ],
+      "text": "Basisregistratie wijzigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        225.0,
+        155.01,
+        253.29,
+        161.01
+      ],
+      "text": "waarna",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        354.0,
+        155.01,
+        392.22,
+        163.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        176.01,
+        93.67,
+        184.01
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        176.01,
+        221.17,
+        186.01
+      ],
+      "text": "Inhoudelijke behandeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        187.01,
+        437.63,
+        195.01
+      ],
+      "text": "De medewerker beoordeelt de hand de informatie of het verzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        285.0,
+        187.01,
+        496.33,
+        197.01
+      ],
+      "text": "verkregen gehonoreerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        194.0,
+        189.01,
+        263.25,
+        195.01
+      ],
+      "text": "aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        95.0,
+        199.01,
+        100.33,
+        206.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        199.01,
+        136.63,
+        207.01
+      ],
+      "text": "dient worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        239.0,
+        222.01,
+        244.33,
+        229.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        222.01,
+        394.5,
+        230.01
+      ],
+      "text": "Indien het verzoek dient wordt het in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        250.0,
+        222.01,
+        485.55,
+        231.01
+      ],
+      "text": "worden, systeem aangepast.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        155.0,
+        222.01,
+        206.33,
+        232.01
+      ],
+      "text": "gehonoreerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        332.0,
+        224.01,
+        365.25,
+        232.01
+      ],
+      "text": "gegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        245.01,
+        444.0,
+        253.01
+      ],
+      "text": "3.1 Extra indien het document in EA.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        250.0,
+        245.01,
+        266.8,
+        254.01
+      ],
+      "text": "gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        151.0,
+        245.01,
+        412.0,
+        255.01
+      ],
+      "text": "handeling opgeslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        274.0,
+        247.01,
+        303.75,
+        253.01
+      ],
+      "text": "om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        280.0,
+        268.01,
+        297.6,
+        275.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        268.01,
+        518.67,
+        276.01
+      ],
+      "text": "Indien het foutieve document uit EA worden het nieuwe document in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        231.0,
+        268.01,
+        458.54,
+        278.01
+      ],
+      "text": "verwijderd (aangepaste)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        340.0,
+        270.01,
+        346.67,
+        276.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        279.01,
+        233.33,
+        287.01
+      ],
+      "text": "EA worden de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        147.0,
+        279.01,
+        323.91,
+        289.01
+      ],
+      "text": "opgeslagen geldt volgende werkwijze:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        87.0,
+        280.01,
+        104.6,
+        287.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        302.01,
+        516.75,
+        310.01
+      ],
+      "text": "De medewerker de informatie uit het correctieverzoek de medewerker DIV via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        303.0,
+        93.5,
+        308.0
+      ],
+      "text": "*",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        180.0,
+        303.01,
+        201.43,
+        310.01
+      ],
+      "text": "stuurt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        375.0,
+        304.01,
+        481.0,
+        310.01
+      ],
+      "text": "naar van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        174.0,
+        311.01,
+        282.5,
+        326.01
+      ],
+      "text": "B @uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        169.0,
+        313.01,
+        248.0,
+        324.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        314.01,
+        484.0,
+        322.01
+      ],
+      "text": "het mailadres In het kader het correctierecht DIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        450.0,
+        314.01,
+        465.2,
+        323.01
+      ],
+      "text": "gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        351.0,
+        316.01,
+        506.2,
+        322.01
+      ],
+      "text": "van over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        290.0,
+        320.0,
+        290.5,
+        321.0
+      ],
+      "text": ".",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        395.0,
+        324.01,
+        400.33,
+        336.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        198.0,
+        325.01,
+        448.14,
+        333.01
+      ],
+      "text": "de Het is aantal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        120.0,
+        325.01,
+        396.0,
+        335.01
+      ],
+      "text": "verwijdering onjuiste belang dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        326.01,
+        114.25,
+        333.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        176.0,
+        327.01,
+        418.0,
+        333.01
+      ],
+      "text": "van van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        249.0,
+        327.01,
+        493.22,
+        335.01
+      ],
+      "text": "gegevens. gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        342.0,
+        337.01,
+        358.8,
+        344.01
+      ],
+      "text": "twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        337.01,
+        292.33,
+        345.01
+      ],
+      "text": "hiervoor aanlevert. FB DIV heeft de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        252.0,
+        337.01,
+        435.29,
+        347.01
+      ],
+      "text": "daarbij volgende nodig:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        366.0,
+        339.01,
+        404.22,
+        347.01
+      ],
+      "text": "gegevens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        143.0,
+        348.01,
+        234.5,
+        356.01
+      ],
+      "text": "het F-doc uit",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        241.0,
+        348.01,
+        252.25,
+        357.01
+      ],
+      "text": "EA;",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        188.0,
+        350.01,
+        219.71,
+        356.01
+      ],
+      "text": "nummer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        125.0,
+        351.0,
+        127.5,
+        356.0
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.0,
+        360.01,
+        514.17,
+        368.01
+      ],
+      "text": "de dat het correctieverzoek betreft de AVG basis",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        156.0,
+        360.01,
+        402.83,
+        370.01
+      ],
+      "text": "vermelding grond",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        242.0,
+        362.01,
+        473.67,
+        368.01
+      ],
+      "text": "een van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        368.0,
+        362.01,
+        488.33,
+        370.01
+      ],
+      "text": "op op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        125.0,
+        363.0,
+        127.5,
+        368.0
+      ],
+      "text": "o",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        162.0,
+        371.01,
+        497.7,
+        379.01
+      ],
+      "text": "het datum de reden het correctieverzoek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        178.0,
+        371.01,
+        515.5,
+        381.01
+      ],
+      "text": "registratiesjabloon (op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        142.0,
+        373.01,
+        405.0,
+        379.01
+      ],
+      "text": "van en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        293.0,
+        373.01,
+        329.44,
+        381.01
+      ],
+      "text": "aanvraag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        143.0,
+        383.01,
+        192.21,
+        393.01
+      ],
+      "text": "hoofdlijnen).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        384.0,
+        406.01,
+        476.0,
+        413.01
+      ],
+      "text": "contact met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        406.01,
+        377.53,
+        414.01
+      ],
+      "text": "Indien het verzoek zal de archiefbeheerder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        181.0,
+        406.01,
+        511.29,
+        416.01
+      ],
+      "text": "zijn degene",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        407.0,
+        93.5,
+        412.0
+      ],
+      "text": "“",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        137.0,
+        408.01,
+        215.0,
+        414.01
+      ],
+      "text": "er over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        148.0,
+        408.01,
+        454.87,
+        416.01
+      ],
+      "text": "vragen opnemen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        417.01,
+        291.4,
+        425.01
+      ],
+      "text": "die het verzoek heeft FB DIV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        202.0,
+        417.01,
+        255.75,
+        427.01
+      ],
+      "text": "ingediend bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        181.0,
+        440.01,
+        506.67,
+        448.01
+      ],
+      "text": "weten! DIV kan niet zelf De is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        440.01,
+        494.85,
+        450.01
+      ],
+      "text": "Belangrijk corrigeren. uitvoeringsafdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        441.0,
+        93.5,
+        446.0
+      ],
+      "text": "“",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        170.0,
+        441.01,
+        175.33,
+        448.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        153.0,
+        442.01,
+        301.0,
+        448.01
+      ],
+      "text": "om een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        308.0,
+        442.01,
+        341.25,
+        450.01
+      ],
+      "text": "gegeven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        452.01,
+        518.67,
+        460.01
+      ],
+      "text": "zelf het versie het document onder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        125.0,
+        452.01,
+        377.64,
+        462.01
+      ],
+      "text": "verantwoordelijk uploaden gecorrigeerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        200.0,
+        454.01,
+        427.0,
+        460.01
+      ],
+      "text": "voor van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        463.01,
+        429.25,
+        471.01
+      ],
+      "text": "dezelfde AOS-code in EA. Indien dit niet kan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        396.0,
+        463.01,
+        410.4,
+        472.01
+      ],
+      "text": "kan,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        278.0,
+        463.01,
+        355.9,
+        473.01
+      ],
+      "text": "uitvoeringsafdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        448.0,
+        464.01,
+        476.0,
+        471.01
+      ],
+      "text": "contact",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        258.0,
+        465.01,
+        443.0,
+        471.01
+      ],
+      "text": "een er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        198.0,
+        475.01,
+        210.0,
+        482.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        162.0,
+        475.01,
+        507.0,
+        483.01
+      ],
+      "text": "worden de medewerker archiefbeheer FB DIV. In dat zal FB DIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        437.0,
+        475.01,
+        457.0,
+        485.01
+      ],
+      "text": "geval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        353.0,
+        477.01,
+        365.0,
+        483.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        477.01,
+        152.8,
+        485.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        159.0,
+        486.01,
+        286.43,
+        494.01
+      ],
+      "text": "de zoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        173.0,
+        486.01,
+        376.0,
+        496.01
+      ],
+      "text": "uitvoeringsafdeling oplossing.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        140.0,
+        487.01,
+        152.0,
+        494.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        488.01,
+        329.0,
+        494.01
+      ],
+      "text": "samen naar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        509.01,
+        482.33,
+        517.01
+      ],
+      "text": "DIV de de dat datum “X” de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        126.0,
+        509.01,
+        389.37,
+        519.01
+      ],
+      "text": "geeft signaal mededeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        90.0,
+        510.0,
+        93.5,
+        515.0
+      ],
+      "text": "*",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        310.0,
+        510.01,
+        322.0,
+        517.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        238.0,
+        510.01,
+        301.47,
+        519.01
+      ],
+      "text": "contactpersoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        151.0,
+        511.01,
+        217.0,
+        517.01
+      ],
+      "text": "een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        414.0,
+        511.01,
+        421.33,
+        519.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        521.01,
+        166.33,
+        529.01
+      ],
+      "text": "correctie heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        173.0,
+        521.01,
+        240.5,
+        531.01
+      ],
+      "text": "plaatsgevonden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        553.01,
+        98.75,
+        561.01
+      ],
+      "text": "3.2",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        106.0,
+        553.01,
+        148.3,
+        563.01
+      ],
+      "text": "Afronding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        232.0,
+        573.01,
+        416.8,
+        580.01
+      ],
+      "text": "stuurt met twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        573.01,
+        373.6,
+        581.01
+      ],
+      "text": "Het betrokken brief de verzoeker",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        135.0,
+        573.01,
+        461.9,
+        583.01
+      ],
+      "text": "organisatieonderdeel mogelijke",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        260.0,
+        575.01,
+        313.0,
+        581.01
+      ],
+      "text": "een aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        585.01,
+        120.5,
+        593.01
+      ],
+      "text": "antwoorden:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.0,
+        605.01,
+        182.83,
+        613.01
+      ],
+      "text": "A. Het verzoek wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        190.0,
+        605.01,
+        241.33,
+        615.01
+      ],
+      "text": "gehonoreerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        188.0,
+        618.01,
+        200.75,
+        625.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        618.01,
+        279.53,
+        628.01
+      ],
+      "text": "[Standaardreactie bezwaarclausule]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        630.01,
+        182.83,
+        638.01
+      ],
+      "text": "B. Het verzoek wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        190.0,
+        630.01,
+        233.2,
+        640.01
+      ],
+      "text": "afgewezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        107.0,
+        642.01,
+        279.53,
+        652.01
+      ],
+      "text": "[Standaardreactie bezwaarclausule]",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        188.0,
+        643.01,
+        200.75,
+        650.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        675.01,
+        514.67,
+        683.01
+      ],
+      "text": "De brieven worden verstuurd door het betrokken in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        288.0,
+        675.01,
+        501.61,
+        685.01
+      ],
+      "text": "organisatieonderdeel vervolgens gearchiveerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        384.0,
+        677.01,
+        391.33,
+        683.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        687.01,
+        468.33,
+        695.01
+      ],
+      "text": "EA onder de daarvoor AOS-code. De deze stukken de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        171.0,
+        687.01,
+        453.71,
+        697.01
+      ],
+      "text": "ingerichte bewaartermijn (lees:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        350.0,
+        689.01,
+        366.0,
+        695.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        700.01,
+        479.33,
+        708.01
+      ],
+      "text": "documenten die en/of t.b.v. het is in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        162.0,
+        700.01,
+        203.4,
+        709.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        144.0,
+        700.01,
+        453.63,
+        710.01
+      ],
+      "text": "zijn gecreëerd correctieproces) vastgelegd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        712.01,
+        119.53,
+        722.01
+      ],
+      "text": "Selectielijst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        71.0,
+        733.01,
+        402.67,
+        741.01
+      ],
+      "text": "Het K&S dat het correctieverzoek is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        262.0,
+        733.01,
+        280.33,
+        742.01
+      ],
+      "text": "terug",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        89.0,
+        733.01,
+        459.61,
+        743.01
+      ],
+      "text": "organisatieonderdeel koppelt afgehandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        220.0,
+        735.01,
+        232.0,
+        741.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        90.0,
+        81.0,
+        299.0,
+        99.0
+      ],
+      "text": "Toelichting grondslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        90.0,
+        113.0,
+        467.43,
+        123.0
+      ],
+      "text": "In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        90.0,
+        123.0,
+        504.11,
+        133.0
+      ],
+      "text": "achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        90.0,
+        133.0,
+        412.43,
+        143.0
+      ],
+      "text": "correspondeert met de bijbehorende grondslag in onderstaand overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        93.33,
+        155.0,
+        202.72,
+        167.0
+      ],
+      "text": "J Art. 5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        90.0,
+        171.0,
+        496.95,
+        181.0
+      ],
+      "text": "Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        90.0,
+        181.0,
+        377.97,
+        191.0
+      ],
+      "text": "de eerbiediging van de persoonlijke levenssfeer van betrokkenen",
+      "source": "text"
+    }
+  ]
+}
