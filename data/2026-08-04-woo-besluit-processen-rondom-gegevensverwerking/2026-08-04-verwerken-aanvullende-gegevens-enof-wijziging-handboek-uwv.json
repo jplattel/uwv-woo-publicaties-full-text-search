@@ -1,0 +1,929 @@
+{
+  "source_id": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv",
+  "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_slug": "2026-08-04-verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-processen-rondom-gegevensverwerking",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/4cfa08d6-8035-46b9-9664-87476766298f/verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv.pdf",
+  "publication_title": "Woo-besluit over processen rondom gegevensverwerking",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Handboek Verwerken aanvullende gegevens en/of wijziging (PDF, 1 MB)",
+  "retrieved_at": "2026-08-18T06:34:48+00:00",
+  "sha256": "5582495691281ec96151bbb5bbf942d28255501d00c25d5028d1f7f1f11f4055",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        548.5,
+        170.01
+      ],
+      "text": "Home » Proces Backoffice ZW » AM » Afhandelen documenten voorportaal » Verwerken aanvullende gegevens en/of wijziging",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        332.02,
+        304.33,
+        355.02
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        514.7,
+        406.02
+      ],
+      "text": "Verwerken aanvullende gegevens en/of wijziging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        392.01,
+        762.5,
+        403.01
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        432.01,
+        208.34,
+        447.01
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        471.01,
+        88.25,
+        485.01
+      ],
+      "text": "Wie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        472.01,
+        587.0,
+        487.01
+      ],
+      "text": "Administratief medewerker (AM)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        491.01,
+        103.75,
+        505.01
+      ],
+      "text": "Divisie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        492.01,
+        527.1,
+        507.01
+      ],
+      "text": "Uitkeren – Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        511.01,
+        138.61,
+        525.01
+      ],
+      "text": "Samenvatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        512.01,
+        719.0,
+        527.01
+      ],
+      "text": "Je verwerkt de aanvullende gegevens en/of wijziging in het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        532.01,
+        509.71,
+        547.01
+      ],
+      "text": "bestaande geval.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        551.01,
+        95.66,
+        565.01
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        571.01,
+        99.71,
+        585.01
+      ],
+      "text": "Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        572.01,
+        727.2,
+        587.01
+      ],
+      "text": "Melding ‘Wijziging of aanvulling op een eerder geregistreerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        592.01,
+        655.16,
+        607.01
+      ],
+      "text": "ziekmelding of WAZO-aanvraag’ in voorportaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        611.01,
+        203.0,
+        625.01
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        631.01,
+        136.22,
+        645.01
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        652.01,
+        132.15,
+        666.01
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        672.01,
+        101.43,
+        686.01
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        53.02,
+        738.0,
+        68.02
+      ],
+      "text": "Je hebt in het voorportaal een melding ‘Wijziging of aanvulling op een eerder geregistreerde ziekmelding of WAZO-aanvraag’ opgepakt.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        102.02,
+        440.66,
+        126.02
+      ],
+      "text": "Koppelen document aan bestaand geval",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        120.02,
+        752.67,
+        135.02
+      ],
+      "text": "Om een document aan een bestaand geval te koppelen , vul je in het scherm ‘Verwerk Voorportaal meldingen’ de velden < volgnummer > en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        139.02,
+        148.11,
+        154.02
+      ],
+      "text": "< soort bericht: >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        169.01,
+        191.0,
+        183.01
+      ],
+      "text": "Het veld < volgnummer >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        190.01,
+        738.33,
+        205.01
+      ],
+      "text": "Je vult in het veld < volgnummer > het volgnummer dat op het document staat. Of je gebruikt in het veld < volgnummer > de knop “F9”. Er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        209.01,
+        733.16,
+        224.01
+      ],
+      "text": "wordt een ‘lijst met waarden’ getoond waarin je het juiste volgnummer selecteert. Klik op de knop “OK”. Het veld < volgnummer > wordt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        229.01,
+        473.2,
+        244.01
+      ],
+      "text": "automatisch gevuld met het geselecteerde volgnummer uit de ‘lijst met waarden’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        267.01,
+        192.0,
+        281.01
+      ],
+      "text": "Het veld < soort bericht >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        287.01,
+        495.16,
+        302.01
+      ],
+      "text": "Het veld < soort bericht > is gevuld met een documentcode of met de tekst ‘Onbekend’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        307.01,
+        735.67,
+        322.01
+      ],
+      "text": "Is het veld < soort bericht > gevuld met een documentcode , dan controleer je of de documentcode in het veld < soort bericht > juist is. Je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        326.01,
+        540.2,
+        341.01
+      ],
+      "text": "bekijkt daarvoor het document inhoudelijk en gebruikt het Overzicht Inkomende Berichten UZS:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        357.01,
+        319.57,
+        372.01
+      ],
+      "text": "Als de documentcode goed is , laat je die staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        361.02,
+        79.0,
+        377.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        89.0,
+        376.01,
+        584.43,
+        391.01
+      ],
+      "text": "Als de documentcode fout of ‘onbekend’ is , wijzig je de documentcode naar de juiste documentcode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        76.0,
+        380.02,
+        79.0,
+        396.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        410.01,
+        172.0,
+        424.01
+      ],
+      "text": "Let op het volgende:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        442.01,
+        465.43,
+        457.01
+      ],
+      "text": "Juiste code meegeven Documentcode 999999 Juiste volgnummer kiezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        472.01,
+        293.82,
+        487.01
+      ],
+      "text": "ERD formulier/document Betaalverzoeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        503.01,
+        712.0,
+        518.01
+      ],
+      "text": "Je slaat het scherm ‘Verwerk melding voorportaal’ op met de diskette in de werkbalk of drukt op de knop “F10”. Als de verwerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        523.01,
+        427.0,
+        538.01
+      ],
+      "text": "succesvol is , sluit het pop-upscherm en verdwijnt de melding uit de lijst.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        572.02,
+        455.67,
+        596.02
+      ],
+      "text": "Afhandelen document dat niet voor ZW is",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        608.02,
+        329.45,
+        629.02
+      ],
+      "text": "Document voor andere afdeling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        628.01,
+        755.6,
+        643.01
+      ],
+      "text": "Je hebt in het voorportaal een melding opgepakt en het document bij de melding is niet voor de Ziektewet , maar voor een andere afdeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        647.01,
+        728.0,
+        662.01
+      ],
+      "text": "Je vermeldt in de memo van het scherm: ‘Retour DIV , document is niet voor ZW maar voor [naam afdeling]’. Daarna klik je op de knop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        667.01,
+        749.6,
+        682.01
+      ],
+      "text": "“Retour”. Het document wordt dan verwijderd uit het voorportaal en gaat retour naar DIV. DIV stuurt het document naar de juiste afdeling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        697.01,
+        413.71,
+        712.01
+      ],
+      "text": "Voor de volgende documenten gelden de volgende aandachtspunten:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        728.01,
+        155.22,
+        743.01
+      ],
+      "text": "Ingebrekestelling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        759.01,
+        437.87,
+        774.01
+      ],
+      "text": "42e-weekmelding (MLA) of een hersteldmelding bij een 42e-week melding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        790.01,
+        216.27,
+        805.01
+      ],
+      "text": "Alleen medische documenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        820.01,
+        205.27,
+        835.01
+      ],
+      "text": "Ook medische documenten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        851.01,
+        114.89,
+        866.01
+      ],
+      "text": "Beslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        882.01,
+        270.16,
+        897.01
+      ],
+      "text": "AUB en andere buitenlandse formulieren",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        74.0,
+        927.02,
+        311.44,
+        948.02
+      ],
+      "text": "Document niet af te handelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        946.01,
+        755.5,
+        961.01
+      ],
+      "text": "Je hebt in het voorportaal een melding opgepakt en je kunt het document niet in behandeling nemen (bijvoorbeeld een document bestemd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        966.01,
+        717.0,
+        981.01
+      ],
+      "text": "voor een ander instantie of een document waarbij geen dossier gevonden wordt). Je vermeldt in de memo van het scherm: ‘Niet in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        985.01,
+        747.75,
+        1000.01
+      ],
+      "text": "behandeling nemen omdat [uitleg reden]’. Daarna klik je op de knop “Niet in behandeling nemen”. Het document wordt dan verwijderd uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1005.01,
+        149.3,
+        1020.01
+      ],
+      "text": "het voorportaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1035.01,
+        104.0,
+        1049.01
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1056.01,
+        99.71,
+        1070.01
+      ],
+      "text": "Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        444.0,
+        1057.01,
+        545.34,
+        1072.02
+      ],
+      "text": "Gekoppeld document",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        1061.02,
+        434.0,
+        1077.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        444.0,
+        1076.02,
+        589.5,
+        1091.02
+      ],
+      "text": "Document(en) retour naar DIV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        1080.02,
+        434.0,
+        1096.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        444.0,
+        1096.02,
+        533.75,
+        1111.02
+      ],
+      "text": "Registraties in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        1100.02,
+        434.0,
+        1116.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1115.01,
+        143.64,
+        1129.01
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1136.02,
+        127.1,
+        1151.02
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        1155.01,
+        139.54,
+        1169.01
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        52.01,
+        118.1,
+        66.01
+      ],
+      "text": "Overzicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        429.0,
+        53.02,
+        499.75,
+        68.02
+      ],
+      "text": "Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        429.0,
+        73.02,
+        513.32,
+        88.02
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        92.01,
+        271.18,
+        106.01
+      ],
+      "text": "Wettelijke basis , aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        112.01,
+        125.34,
+        126.01
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        133.01,
+        139.0,
+        147.01
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        74.0,
+        134.01,
+        762.5,
+        145.01
+      ],
+      "text": "◄ ►",
+      "source": "text"
+    }
+  ]
+}

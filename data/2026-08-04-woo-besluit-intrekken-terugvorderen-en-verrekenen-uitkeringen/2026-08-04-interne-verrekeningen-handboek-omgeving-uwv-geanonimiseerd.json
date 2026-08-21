@@ -1,0 +1,653 @@
+{
+  "source_id": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_slug": "2026-08-04-interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/b74a8c1b-ecbd-4b5f-89a3-55359412a744/interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over het intrekken, terugvorderen en verrekenen van uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Interne verrekeningen (PDF, 955 kB)",
+  "retrieved_at": "2026-08-18T06:35:29+00:00",
+  "sha256": "1d52513dd12d5fcf1fc9055a252c2ddc89a978cf01f97d106a83ccab5fd7d744",
+  "page_count": 2,
+  "ocr_used": true,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        501.0,
+        170.01
+      ],
+      "text": "Home » VFV Proces Interne Vorderingen » Afhandelen vordering » Specifiek Invordertraject » Interne verrekeningen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        336.03,
+        420.33,
+        364.03
+      ],
+      "text": "VFV Proces Interne Vorderingen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        393.02,
+        548.67,
+        416.02
+      ],
+      "text": "Intern verrekenen tussen uitkeringswetten algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        441.01,
+        746.14,
+        456.01
+      ],
+      "text": "Een interne verrekening is een verrekening die ontstaat nadat een uitkeringsrecht met terugwerkende kracht wijzigt en er tussen de wetten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        461.01,
+        752.25,
+        476.01
+      ],
+      "text": "onderling verrekening plaatsvindt. Bijvoorbeeld: in eerste instantie is een ZW-uitkering toegekend en achteraf blijkt dat het AW-uitkering had",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        480.01,
+        764.5,
+        495.01
+      ],
+      "text": "moeten zijn. Om deze correctie met zo min mogelijk impact voor de cliënt , loonaangifte en Polis uit te voeren , is intern verrekenen in het leven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        500.01,
+        534.16,
+        515.01
+      ],
+      "text": "geroepen die de mogelijkheid geeft om de uitkeringswetten onderling met elkaar te verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        343.0,
+        538.01,
+        413.12,
+        552.01
+      ],
+      "text": "gelijke periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        539.01,
+        742.75,
+        554.01
+      ],
+      "text": "Bij het afhandelen van een interne verrekening over een zijn er een aantal zaken van belang voor de medewerkers van VFV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        558.01,
+        256.95,
+        573.01
+      ],
+      "text": "Invorderen en de Uitkeringsdeskundige.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        589.01,
+        570.58,
+        604.01
+      ],
+      "text": "In de instructie in dit handboek wordt uitgelegd welke medewerker welke handelingen moet verrichten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        635.02,
+        255.82,
+        651.02
+      ],
+      "text": "Aandachtspunten bij verrekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        663.01,
+        303.5,
+        678.01
+      ],
+      "text": "Verrekenen vindt altijd plaats op bruto niveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        667.02,
+        71.0,
+        683.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        682.01,
+        540.0,
+        697.01
+      ],
+      "text": "Een aangeboden Toekenning of een vergoeding wordt per periode door Excasso afgehandeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        686.02,
+        71.0,
+        702.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        702.01,
+        767.57,
+        717.01
+      ],
+      "text": "WW betaalt de uitkering na ontvangst van de inkomstenopgave die de cliënt na afloop van de maand kan insturen. Betalingen vinden plaats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        706.02,
+        71.0,
+        722.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        721.01,
+        771.85,
+        736.01
+      ],
+      "text": "per kalendermaand , ook wanneer er niet de gehele maand sprake is van recht op een WW-uitkering (bijvoorbeeld bij een eerste werkloosheid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        741.01,
+        300.43,
+        756.01
+      ],
+      "text": "dag die niet op de eerste van de maand valt).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        760.01,
+        685.21,
+        775.01
+      ],
+      "text": "AW betaalt per iedere 23e van de maand. Daarnaast komen tussentijdse vaststellingen voor bij o. a. restitutietoekenningen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        764.02,
+        71.0,
+        780.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        780.01,
+        287.71,
+        795.01
+      ],
+      "text": "ZW kent zowel week als maandbetalingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        784.02,
+        71.0,
+        800.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        799.01,
+        537.57,
+        814.01
+      ],
+      "text": "Een te verrekenen Claimvordering moet in de fase ‘Aanhouden’ (CA) of ‘Wachten’ (CW) staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        803.02,
+        71.0,
+        819.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        819.01,
+        412.57,
+        834.01
+      ],
+      "text": "Bij een te verrekenen vordering moet indicatie restitutie op 'J' staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        823.02,
+        71.0,
+        839.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        838.01,
+        226.82,
+        853.01
+      ],
+      "text": "Te verrekenen wet is verplicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        842.02,
+        71.0,
+        858.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        858.01,
+        737.67,
+        873.01
+      ],
+      "text": "Bij een Claimvordering is het mogelijk om een code afdeling/wet in te voeren in het scherm wijzigen Claimvordering (INVAZ). Voor de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        862.02,
+        71.0,
+        878.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        213.0,
+        877.01,
+        642.0,
+        891.01
+      ],
+      "text": "AW WWO ZW.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        877.01,
+        761.43,
+        892.01
+      ],
+      "text": "afdeling AW is dit de code , voor de afdeling WW is dit de code en voor de afdeling ZW is dit de code Daarmee zorg je ervoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        897.01,
+        745.27,
+        912.01
+      ],
+      "text": "dat de claimvordering alleen met de betreffende wet wordt verrekend. Als het veld leeg wordt gelaten , wordt met alle wetten verrekend.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        916.01,
+        709.5,
+        931.01
+      ],
+      "text": "Verrekening tussen ZW en AW/WW: Anders dan bij de ZW , reserveren AW en WW de vakantietoeslag. Om na het verrekenen een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        920.02,
+        71.0,
+        936.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        936.01,
+        762.0,
+        951.01
+      ],
+      "text": "restantvordering te voorkomen of om een lagere restantvordering over te houden , moet de AW/WW de vakantietoeslag ook meenemen bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        955.01,
+        548.16,
+        970.01
+      ],
+      "text": "de interne verrekening. Attendeer je collega van de AW/WW hierop wanneer je gaat verrekenen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        312.0,
+        974.01,
+        740.6,
+        988.01
+      ],
+      "text": "minimaal 1 dag overlap indicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        975.01,
+        694.67,
+        990.01
+      ],
+      "text": "De verrekening wordt correct uitgevoerd als er zit in de periodes en de aangeboden toekenningen op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        979.02,
+        71.0,
+        995.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        994.01,
+        138.0,
+        1008.01
+      ],
+      "text": "restitutie ‘J’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        143.0,
+        994.01,
+        169.57,
+        1009.01
+      ],
+      "text": "staan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1014.01,
+        768.0,
+        1029.01
+      ],
+      "text": "Een toekenning kan een periode van 1 dag , 1 week of 1 kalendermaand hebben. Een correcte restitutie-verrekening is afhankelijk van wat je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        1018.02,
+        71.0,
+        1034.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1033.01,
+        714.4,
+        1048.01
+      ],
+      "text": "aanlevert als periode. Als je een periode wilt verrekenen en je levert bijvoorbeeld dag- en weektoekenningen aan , waarbij niet alle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1053.01,
+        743.2,
+        1068.02
+      ],
+      "text": "toekenningen een minimale overlap van een dag hebben met de verrekenperiode van de vordering , dan zullen de toekenningen die niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1072.02,
+        766.77,
+        1087.02
+      ],
+      "text": "overlappen , afgekeurd worden. Als één of meerdere toekenningen van de aanlevering afgekeurd worden , zullen alle geleverde toekenningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1092.02,
+        237.0,
+        1107.02
+      ],
+      "text": "voor dat BSN afgekeurd worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        213.0,
+        1110.01,
+        346.2,
+        1124.01
+      ],
+      "text": "wettelijke rente niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        1111.02,
+        631.58,
+        1126.02
+      ],
+      "text": "Betalingen in verband met kunnen verrekend worden. Deze worden altijd volledig uitbetaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        1115.02,
+        71.0,
+        1131.02
+      ],
+      "text": "•",
+      "source": "text"
+    }
+  ]
+}

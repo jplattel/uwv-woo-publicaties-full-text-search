@@ -1,0 +1,737 @@
+{
+  "source_id": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_slug": "2026-08-04-intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/1145acbd-f0b3-4412-9ce5-74b1312c4712/intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over het intrekken, terugvorderen en verrekenen van uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Intern verrekenen Wet vordert op ZW (PDF, 822 kB)",
+  "retrieved_at": "2026-08-18T06:35:25+00:00",
+  "sha256": "8964cee293967597c38663f7e908fda69164636e828b8afec6c436d8a073f279",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        36.0,
+        67.02,
+        102.33,
+        82.02
+      ],
+      "text": "Zoeken naar:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        36.0,
+        84.01,
+        122.59,
+        98.01
+      ],
+      "text": "internverrekenen ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        77.0,
+        111.01,
+        104.33,
+        125.01
+      ],
+      "text": "1 / 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        520.0,
+        170.01
+      ],
+      "text": "Home » Proces Backoffice ZW » UC » Afhandelen terugvordering of verrekening » Intern verrekenen ‘Wet vordert op ZW’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        332.02,
+        304.33,
+        355.02
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        410.0,
+        406.02
+      ],
+      "text": "Internverrekenen ‘Wet vordert op ZW’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        397.01,
+        118.72,
+        412.01
+      ],
+      "text": "Aanleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        414.01,
+        447.82,
+        429.01
+      ],
+      "text": "Je hebt een verrekenverzoek ontvangen vanwege 1 van de volgende situaties:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        445.01,
+        693.29,
+        460.01
+      ],
+      "text": "De cliënt heeft over een bepaalde periode een WW-/AW- of IOW-uitkering ontvangen terwijl hij recht had op een ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        449.02,
+        71.0,
+        465.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        81.0,
+        465.01,
+        522.29,
+        480.01
+      ],
+      "text": "De WW-/AW- of IOW-uitkering is te lang doorbetaald terwijl recht bestond op ZW-uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        68.0,
+        469.02,
+        71.0,
+        485.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        497.01,
+        86.0,
+        512.01
+      ],
+      "text": "Doel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        513.01,
+        348.73,
+        528.01
+      ],
+      "text": "Verrekenen van de ZW-uitkering met een andere uitkering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        531.01,
+        127.85,
+        546.01
+      ],
+      "text": "Functionaris",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        547.01,
+        79.5,
+        562.01
+      ],
+      "text": "UC.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        564.01,
+        111.34,
+        579.01
+      ],
+      "text": "Gevolgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        581.01,
+        580.54,
+        596.01
+      ],
+      "text": "De uitkering wordt (gedeeltelijk) betaald aan het UWV-onderdeel dat de interne vordering heeft ingesteld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        66.0,
+        598.01,
+        113.27,
+        613.01
+      ],
+      "text": "Instructie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        638.01,
+        755.7,
+        653.01
+      ],
+      "text": "1. In het handboek Interne Vorderingen staan de domeinoverstijgende instructies. Specifieke ZW-handelingen staan in dit handboek.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        669.01,
+        758.0,
+        684.01
+      ],
+      "text": "Ga eerst naar het handboek Proces Interne Vorderingen > Afhandelen vordering > Specifiek Invordertraject > Interne verrekeningen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        688.01,
+        411.83,
+        703.01
+      ],
+      "text": "en bepaal daar om welke van de volgende situaties het gaat:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        719.01,
+        377.78,
+        734.01
+      ],
+      "text": "‘WW vordert op ZW , AW , IOW of Betalingsonmacht’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        723.02,
+        122.0,
+        739.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        738.01,
+        623.33,
+        753.01
+      ],
+      "text": "‘Betalen en vorderen tussen AW/ZW/IOW of Betalingsonmacht’ Internverrekenen wet vordert op ZW",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        743.02,
+        122.0,
+        759.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        773.01,
+        734.38,
+        788.01
+      ],
+      "text": "Ga naar het betreffende hoofdstuk en voer daar stap 1 uit. Na het uitvoeren van die stap ga je verder met deze werkinstructie:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        804.01,
+        401.67,
+        819.01
+      ],
+      "text": "Als er verrekend kan worden , ga dan verder met stap 2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        808.02,
+        122.0,
+        824.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        823.01,
+        713.7,
+        838.01
+      ],
+      "text": "Als er niet verrekend kan worden: informeer de medewerker Uitkeren die het verrekenverzoek heeft ingediend hierover.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        119.0,
+        827.02,
+        122.0,
+        843.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        843.01,
+        207.84,
+        858.01
+      ],
+      "text": "Einde instructie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        862.01,
+        223.0,
+        876.01
+      ],
+      "text": "Registreren weigering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        863.01,
+        80.67,
+        878.01
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        882.01,
+        562.5,
+        897.01
+      ],
+      "text": "Registreer de periode van verrekening als ‘weigering’ in het scherm ‘Registreren weigering’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        902.01,
+        449.5,
+        917.01
+      ],
+      "text": "Kies bij < weigeringsgrond: > ‘Voorlopige weigering voor verrekening’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        921.01,
+        562.44,
+        936.01
+      ],
+      "text": "Hiermee voorkom je dat deze periode nog voor het verrekenen aan de cliënt wordt betaald.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        951.01,
+        162.0,
+        965.01
+      ],
+      "text": "Let op:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        169.0,
+        952.01,
+        685.0,
+        967.01
+      ],
+      "text": "Als TW van toepassing is over de verrekenperiode , dan voer je voor de TW een aparte weigeringsregel in.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        52.01,
+        228.08,
+        66.01
+      ],
+      "text": "Afwachten bevestiging",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        53.02,
+        80.67,
+        68.02
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        36.0,
+        67.02,
+        102.33,
+        82.02
+      ],
+      "text": "Zoeken naar:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        72.02,
+        753.16,
+        87.02
+      ],
+      "text": "De uitkeringsconsulent (UC) AW/WW verstuurt ter bevestiging een e-mail naar de mailbox ‘Wet vordert op ZW’ van de betreffende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        36.0,
+        84.01,
+        122.59,
+        98.01
+      ],
+      "text": "internverrekenen ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        92.02,
+        169.25,
+        107.02
+      ],
+      "text": "BackOffice.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        77.0,
+        111.01,
+        104.33,
+        125.01
+      ],
+      "text": "1 / 17",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        111.02,
+        236.0,
+        126.02
+      ],
+      "text": "In de e-mail vermeldt hij:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        142.02,
+        166.5,
+        157.02
+      ],
+      "text": "het BSN",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.0,
+        146.02,
+        122.0,
+        162.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        162.02,
+        250.25,
+        177.01
+      ],
+      "text": "de te verrekenen periode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.0,
+        166.02,
+        122.0,
+        182.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        181.01,
+        292.3,
+        196.01
+      ],
+      "text": "het brutobedrag van de vordering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.0,
+        185.02,
+        122.0,
+        201.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        132.0,
+        201.01,
+        253.86,
+        216.01
+      ],
+      "text": "eventuele bijzonderheden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        119.0,
+        205.02,
+        122.0,
+        221.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        235.01,
+        700.0,
+        250.01
+      ],
+      "text": "Als de e-mail ontvangen is , slaat de beheerder van de mailbox die op in UZS Print met de documentcode 108826. Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        255.01,
+        750.43,
+        270.01
+      ],
+      "text": "documentcode genereert signaal UZZ0530 ‘Ontvangen: Intern verrekenverzoek’ voor je. De instructie is vanaf dat moment verder",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        274.01,
+        312.29,
+        289.01
+      ],
+      "text": "beschreven bij deze signaalbeschrijving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        117.0,
+        305.01,
+        643.1,
+        320.01
+      ],
+      "text": "Vanaf het moment dat dit signaal ontstaat , heb je 20 werkdagen om de verrekening volledig af te handelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        66.0,
+        348.01,
+        150.32,
+        363.01
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    }
+  ]
+}

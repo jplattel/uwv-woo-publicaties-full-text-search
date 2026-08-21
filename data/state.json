@@ -14660,13 +14660,1583 @@
     }
   },
   "https://www.uwv.nl/assets-kai/files/27b6c2dd-28f9-48ec-98fc-672a54dd8f1f/woo-besluit-2026049B.pdf": {
-    "publication_slug": "2026-07-08-woo-besluit-onderzoek-bms",
-    "pdf_slug": "2026-07-08-woo-besluit-2026049b",
-    "sha256": "46ee04b6ca18a58fae302cd26fe828accccd94186ce258d73e9ee1d4fecaa22e",
-    "retrieved_at": "2026-07-15T07:57:42+00:00",
+    "publication_slug": "2026-07-09-woo-besluit-onderzoek-bms",
+    "pdf_slug": "2026-07-09-woo-besluit-2026049b",
+    "sha256": "f106f3a63acfd08ed2a5187156043e1cc49a344a6f64106b99f7ad69786e0fd8",
+    "retrieved_at": "2026-07-17T08:13:55+00:00",
     "paths": {
-      "md": "data/2026-07-08-woo-besluit-onderzoek-bms/2026-07-08-woo-besluit-2026049b.md",
-      "json": "data/2026-07-08-woo-besluit-onderzoek-bms/2026-07-08-woo-besluit-2026049b.json"
+      "md": "data/2026-07-09-woo-besluit-onderzoek-bms/2026-07-09-woo-besluit-2026049b.md",
+      "json": "data/2026-07-09-woo-besluit-onderzoek-bms/2026-07-09-woo-besluit-2026049b.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/364ad202-4d02-4320-8b6c-30e9eb2b8faf/woo-besluit-2026041-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-woo-besluit-2026041-geanonimiseerd",
+    "sha256": "03d77a30d0e730b57d785e636cdc1fe099c3d91ecc15ee9b6a0b7d9e461baa36",
+    "retrieved_at": "2026-07-17T08:13:59+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-woo-besluit-2026041-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-woo-besluit-2026041-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f2aca1b7-0717-404b-9b44-0b5a3f6e8989/doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd",
+    "sha256": "75aec5b3d0adac95ecf5c0184f047cfabb8ce835d851e9436b80564a586e3f2b",
+    "retrieved_at": "2026-07-17T08:14:00+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-01-cijfers-derde-quotumjaar-ah-definitief-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/48dc91f4-1332-4bc6-bd49-42bb7bc5f6a8/doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd",
+    "sha256": "0f05348ae8eb7b74fc036080b0d9c36c3f930b6e6c7ef598d983990940d16938",
+    "retrieved_at": "2026-07-17T08:14:01+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-02-cijfers-eerste-jaar-structurele-regeling-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/85c80b55-4be4-4b72-a1f7-2f2866ea976c/doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd",
+    "sha256": "0d0af3f169104c9dbe454ba15c46d7e8f09225267180bf99405abd4062244c49",
+    "retrieved_at": "2026-07-17T08:14:02+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-03-rapportage-uitvoering-structurele-regeling-aziatische-horeca-cijfers-2020-tm-4e-kwartaal-2021-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6d24e27a-cc66-4512-a54f-7d90156c1451/doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd",
+    "sha256": "b7e8c54189c939d0ac4c27fd42ac7e920a08953250a94ca4146cd2a2dcc857d2",
+    "retrieved_at": "2026-07-17T08:14:03+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-04-rapportage-uitvoering-aziatische-horeca-2022-tm-vierde-kwartaal-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b7268eb9-d17a-48e8-806e-edafab580f27/doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd",
+    "sha256": "9708a25505797e40d200b281bbb9c56b38284e82ca1f39248376f32909af6ab9",
+    "retrieved_at": "2026-07-17T08:14:05+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-05-rapportage-uitvoering-aziatische-horeca-cijfers-derde-en-vierde-kwartaal-2023-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5943f1ac-3b15-4bff-9a7d-7308ea1e83a1/doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd",
+    "sha256": "a7b62384a21d64a307a169e33446cb24eb4e2bb928339c718d6bc7018b112768",
+    "retrieved_at": "2026-07-17T08:14:10+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-07-vragen-zelfstandig-werkend-koks-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/dc1da8c5-4798-49da-af17-9c35e06fee4b/doc-08-positieve-adviezen-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-08-positieve-adviezen-geanonimiseerd",
+    "sha256": "214ab3b370cd69ccc9c54f38c4be103268a19fca487bcc6e64624b9da2b99025",
+    "retrieved_at": "2026-07-17T08:14:11+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-08-positieve-adviezen-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-08-positieve-adviezen-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a79d1ba5-784f-4c55-8a7e-6aae18b36125/doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd",
+    "sha256": "97c70b3e47e1ab4c4a87f74ed4249c68b42da9986020ceec40027c2dd40d20e1",
+    "retrieved_at": "2026-07-17T08:14:12+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-09-stroomschema-ah-tm-april-2014-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a72e300b-4b08-4a12-9644-a6ac4a7ad244/doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd",
+    "sha256": "7bfc3b7bdcd15bf6f064fc30015671b5519b11046f0add8961c3480a8c872cd6",
+    "retrieved_at": "2026-07-17T08:14:15+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-10-rapportage-project-aziatische-horeca-1e-tertaal-2014-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/bb6dfeaf-ece1-4982-be9b-ae509cb7f9f9/doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd",
+    "sha256": "9b14e6b646062a3b27e493e71d19a2a61ee21ffe1b3ce351caa26364cafe29bf",
+    "retrieved_at": "2026-07-17T08:14:16+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-11-2013-03-01-brief-werkgevers-in-chinese-horeca-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cc7b36dd-a44a-4866-992e-7d50e50b50eb/doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd",
+    "sha256": "1ab3ff6dc8e5ff2d67dd4d5da8072ec0c384b2343db3b23ca16b1aa21b94ec13",
+    "retrieved_at": "2026-07-17T08:14:18+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-12-voorlegger-vergadering-rvb-chinese-frituurkoks-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1cec772a-8ae7-4f56-89b9-cf308eae4d00/doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd",
+    "sha256": "bb5400bec96a85ba0bf301467dd83c5d760cdb6a6d12741b85e0f31d41dadcc7",
+    "retrieved_at": "2026-07-17T08:14:19+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-13-oplegger-dt-20-mei-2014-werkbedrijf-aziatische-horeca-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d170446a-0ea6-449e-a255-b7de3b73683a/doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd",
+    "sha256": "c972dd8da527b70078bed0f72e8d6edfbd98c3deca43d052c5b6695c5c6ed15a",
+    "retrieved_at": "2026-07-17T08:14:20+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-14-bijlage-2-stroomschema-ah-tm-april-2013-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/efeb1364-bbdd-4e29-b5f1-7e9a358c1d0b/doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca",
+    "pdf_slug": "2026-07-06-doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd",
+    "sha256": "5b3a697ef2b36acc0160e5f86b673d25f69f31397875e5a378d17d2a0867a83f",
+    "retrieved_at": "2026-07-17T08:14:27+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd.md",
+      "json": "data/2026-07-06-woo-besluit-over-gvva-s-voor-aziatische-horeca/2026-07-06-doc-15-2013-03-01-vervullen-vacatures-aziatische-horeca-februari-2013-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/56bea39c-09c0-492d-9a18-4c7b7c87cef8/woo-besluit-2026059.pdf": {
+    "publication_slug": "2026-07-06-woo-besluit-over-betrokken-verzekeringsarts-bij-een-gevalsdossier",
+    "pdf_slug": "2026-07-06-woo-besluit-2026059",
+    "sha256": "6802093481633ec7b52502b69a8306de1a597ba19291a93a604e34e988a81dce",
+    "retrieved_at": "2026-07-17T08:14:29+00:00",
+    "paths": {
+      "md": "data/2026-07-06-woo-besluit-over-betrokken-verzekeringsarts-bij-een-gevalsdossier/2026-07-06-woo-besluit-2026059.md",
+      "json": "data/2026-07-06-woo-besluit-over-betrokken-verzekeringsarts-bij-een-gevalsdossier/2026-07-06-woo-besluit-2026059.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c07f6bf7-6a76-48bc-9b4c-8a3beaa97dc4/woo-besluit-2025131-bezwaar.pdf": {
+    "publication_slug": "2026-07-15-woo-besluit-op-bezwaar-over-excel-rekentools",
+    "pdf_slug": "2026-07-15-woo-besluit-2025131-bezwaar",
+    "sha256": "98d96ca7072b1aeb2aa03cba574e5756b0243d0256c2e145cfbcd6510f571b42",
+    "retrieved_at": "2026-07-23T08:21:19+00:00",
+    "paths": {
+      "md": "data/2026-07-15-woo-besluit-op-bezwaar-over-excel-rekentools/2026-07-15-woo-besluit-2025131-bezwaar.md",
+      "json": "data/2026-07-15-woo-besluit-op-bezwaar-over-excel-rekentools/2026-07-15-woo-besluit-2025131-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/49a4c3dc-d8c3-4ba6-8708-755b18192f72/woo-besluit-2026074.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-normbrief-van-autoriteit-persoonsgegevens",
+    "pdf_slug": "2026-07-14-woo-besluit-2026074",
+    "sha256": "9341df6773eca561b083c4c64243dc0142b1ada90a0de4e5eadd2e12ae422150",
+    "retrieved_at": "2026-07-23T08:21:21+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-normbrief-van-autoriteit-persoonsgegevens/2026-07-14-woo-besluit-2026074.md",
+      "json": "data/2026-07-14-woo-besluit-over-normbrief-van-autoriteit-persoonsgegevens/2026-07-14-woo-besluit-2026074.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4a051a85-70ad-4250-acf6-7a5238b6db0a/woo-besluit-2026037.pdf": {
+    "publication_slug": "2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles",
+    "pdf_slug": "2026-07-09-woo-besluit-2026037",
+    "sha256": "11e6b7ef7ebdfd6a716ed19301d3906efc42d0c81e9c7e1b8e99a518dd379bc5",
+    "retrieved_at": "2026-07-23T08:21:25+00:00",
+    "paths": {
+      "md": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-woo-besluit-2026037.md",
+      "json": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-woo-besluit-2026037.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3696609e-db8d-4611-8867-196a0540c393/bijlage-1-handboek-wetsuitleg-WIA-WAO-WAZ-o-Wajong-ZW-hoofdstuk-arbeidsongeschiktheid.pdf": {
+    "publication_slug": "2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles",
+    "pdf_slug": "2026-07-09-bijlage-1-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-arbeidsongeschiktheid",
+    "sha256": "ae23449cbfe446731d644da7e0f6640d87c2af828202474a88c0359efce2decf",
+    "retrieved_at": "2026-07-23T08:21:26+00:00",
+    "paths": {
+      "md": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-1-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-arbeidsongeschiktheid.md",
+      "json": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-1-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-arbeidsongeschiktheid.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1089d17d-1acc-4e6c-87fb-61dce6027dfb/bijlage-2-handboek-wetsuitleg-WIA-WAO-WAZ-o-Wajong-ZW-hoofdstuk-herzien.pdf": {
+    "publication_slug": "2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles",
+    "pdf_slug": "2026-07-09-bijlage-2-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-herzien",
+    "sha256": "f95e29bad62b421017c5aa4506c03cfcbbd3b3645ccada99a0a3d460f59875bb",
+    "retrieved_at": "2026-07-23T08:21:34+00:00",
+    "paths": {
+      "md": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-2-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-herzien.md",
+      "json": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-2-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-herzien.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/98706e4b-e107-48e4-b4e2-1e78756c5756/bijlage-3-handboek-wetsuitleg-WIA-WAO-WAZ-o-Wajong-ZW-hoofdstuk-samenloop-met-inkomen.pdf": {
+    "publication_slug": "2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles",
+    "pdf_slug": "2026-07-09-bijlage-3-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-samenloop-met-inkomen",
+    "sha256": "d68d3380702fa7bc44fb6d442e12095a0ea24359627b66e74c4a1988ac5ae4f8",
+    "retrieved_at": "2026-07-23T08:21:42+00:00",
+    "paths": {
+      "md": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-3-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-samenloop-met-inkomen.md",
+      "json": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-3-handboek-wetsuitleg-wia-wao-waz-o-wajong-zw-hoofdstuk-samenloop-met-inkomen.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d938deab-e41b-4530-8449-b79aca6fa95e/bijlage-4-proces-continueren-en-muteren-WIA-WAO-WAZ-Wajong-hoofdstuk-wijziging-inkomen-WAO-WAZ.pdf": {
+    "publication_slug": "2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles",
+    "pdf_slug": "2026-07-09-bijlage-4-proces-continueren-en-muteren-wia-wao-waz-wajong-hoofdstuk-wijziging-inkomen-wao-waz",
+    "sha256": "3719d9e306f853b38c869528a1e4bbf1a4f2a04a255156517fe7dae5245f520e",
+    "retrieved_at": "2026-07-23T08:21:44+00:00",
+    "paths": {
+      "md": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-4-proces-continueren-en-muteren-wia-wao-waz-wajong-hoofdstuk-wijziging-inkomen-wao-waz.md",
+      "json": "data/2026-07-09-woo-besluit-over-informatiebeperking-gedragssturing-en-controles/2026-07-09-bijlage-4-proces-continueren-en-muteren-wia-wao-waz-wajong-hoofdstuk-wijziging-inkomen-wao-waz.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4c368f5b-7a36-4115-ae94-dd8b1dd0bf0a/woo-besluit-2026049a.pdf": {
+    "publication_slug": "2026-07-09-woo-besluit-over-vergelijking-matchresultaten-wbs-en-bms",
+    "pdf_slug": "2026-07-09-woo-besluit-2026049a",
+    "sha256": "d4bbc1a8b5433059edff91fda6ba67542f52b96252f48d088b8ddbf8f6a8a9cf",
+    "retrieved_at": "2026-07-23T08:21:52+00:00",
+    "paths": {
+      "md": "data/2026-07-09-woo-besluit-over-vergelijking-matchresultaten-wbs-en-bms/2026-07-09-woo-besluit-2026049a.md",
+      "json": "data/2026-07-09-woo-besluit-over-vergelijking-matchresultaten-wbs-en-bms/2026-07-09-woo-besluit-2026049a.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c5203027-46a4-4d82-9716-b11106ba31ac/woo-besluit-2026045.pdf": {
+    "publication_slug": "2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid",
+    "pdf_slug": "2026-06-23-woo-besluit-2026045",
+    "sha256": "65041d0c08ea2b137eca19d02f9876bb0150a7e437eb554f901769aab7e47366",
+    "retrieved_at": "2026-07-23T08:22:02+00:00",
+    "paths": {
+      "md": "data/2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid/2026-06-23-woo-besluit-2026045.md",
+      "json": "data/2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid/2026-06-23-woo-besluit-2026045.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/46640453-3902-4122-bf78-a2ac535fa113/standaard-duurbelastbaarheid-in arbeid-geanonimiseerd.pdf": {
+    "publication_slug": "2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid",
+    "pdf_slug": "2026-06-23-standaard-duurbelastbaarheid-in-arbeid-geanonimiseerd",
+    "sha256": "3b3249b695c5a93104292f093a0f0a5b1d82fcb6534f9775678d8c46f956949a",
+    "retrieved_at": "2026-07-23T08:22:10+00:00",
+    "paths": {
+      "md": "data/2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid/2026-06-23-standaard-duurbelastbaarheid-in-arbeid-geanonimiseerd.md",
+      "json": "data/2026-06-23-woo-besluit-over-standaard-duurbelastbaarheid-in-arbeid/2026-06-23-standaard-duurbelastbaarheid-in-arbeid-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/31899fb7-c391-46d1-b027-ad31b317cb7c/beslissing-op-bezwaar-woo-2024119-bezwaar.pdf": {
+    "publication_slug": "2026-07-15-woo-besluit-op-bezwaar-over-kwaliteit-en-uitvoering-wia-beoordelingen",
+    "pdf_slug": "2026-07-15-beslissing-op-bezwaar-woo-2024119-bezwaar",
+    "sha256": "b27f7a0dc930c11a731c1481532bad10705b9a7ad660fe27d96d292d7294df1c",
+    "retrieved_at": "2026-07-25T07:58:22+00:00",
+    "paths": {
+      "md": "data/2026-07-15-woo-besluit-op-bezwaar-over-kwaliteit-en-uitvoering-wia-beoordelingen/2026-07-15-beslissing-op-bezwaar-woo-2024119-bezwaar.md",
+      "json": "data/2026-07-15-woo-besluit-op-bezwaar-over-kwaliteit-en-uitvoering-wia-beoordelingen/2026-07-15-beslissing-op-bezwaar-woo-2024119-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d439be69-1985-4c7a-bf09-87992614bc68/woo-besluit-2026057.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-zoekslag-ander-woo-verzoek",
+    "pdf_slug": "2026-07-14-woo-besluit-2026057",
+    "sha256": "008021ab8aaf86c3cf63329337fcac62e0ad2e7aed99ae8b67ed2ac09ac95e95",
+    "retrieved_at": "2026-07-25T07:58:45+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-zoekslag-ander-woo-verzoek/2026-07-14-woo-besluit-2026057.md",
+      "json": "data/2026-07-14-woo-besluit-over-zoekslag-ander-woo-verzoek/2026-07-14-woo-besluit-2026057.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8574053a-7967-4945-a7f9-d09686240382/woo-besluit-2026050.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-ai-visie-strategie-uwv",
+    "pdf_slug": "2026-07-14-woo-besluit-2026050",
+    "sha256": "79f0b3e706cd7c713261c6de22c9f2524f75e859da995bc7480a00057d548031",
+    "retrieved_at": "2026-07-25T07:58:47+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-woo-besluit-2026050.md",
+      "json": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-woo-besluit-2026050.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9c4d25aa-3996-4832-b9c0-a36893ea12e0/26-024a-beslisnotitie-visie-en-strategie-ai.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-ai-visie-strategie-uwv",
+    "pdf_slug": "2026-07-14-26-024a-beslisnotitie-visie-en-strategie-ai",
+    "sha256": "73daed79f4a92e50492c05a427627d90d5f51dc795dedef241da5fb6bcc20177",
+    "retrieved_at": "2026-07-25T07:58:49+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-beslisnotitie-visie-en-strategie-ai.md",
+      "json": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-beslisnotitie-visie-en-strategie-ai.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b1c3c071-0d3e-45c6-a1a4-d3148ffbde00/26-024a-visie-en-strategie-ai-uwv.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-ai-visie-strategie-uwv",
+    "pdf_slug": "2026-07-14-26-024a-visie-en-strategie-ai-uwv",
+    "sha256": "196eab2494ab12fd26e796d6bd1116c971712dee873ebd9876108d3aac2bd7b0",
+    "retrieved_at": "2026-07-25T07:58:55+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-visie-en-strategie-ai-uwv.md",
+      "json": "data/2026-07-14-woo-besluit-over-ai-visie-strategie-uwv/2026-07-14-26-024a-visie-en-strategie-ai-uwv.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ce9c0db5-d415-4cd4-90fa-171c12c008a0/woo-besluit-2026056.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-inzage-eigen-dossier",
+    "pdf_slug": "2026-07-17-woo-besluit-2026056",
+    "sha256": "9406a78cbf3eab4f4e62668b5274b2e939a95e4639692ab6e3323b8b13b43e9e",
+    "retrieved_at": "2026-07-27T09:39:50+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-inzage-eigen-dossier/2026-07-17-woo-besluit-2026056.md",
+      "json": "data/2026-07-17-woo-besluit-over-inzage-eigen-dossier/2026-07-17-woo-besluit-2026056.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ab09cd34-6ce6-4745-850c-c1f6003ee3b1/woo-besluit-2026052.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-woo-besluit-2026052",
+    "sha256": "d1e92b26f33b9684e9b1c5260d1d5eee3eb4881053c34e8f7aac31a9c5fceacc",
+    "retrieved_at": "2026-07-29T08:30:15+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-woo-besluit-2026052.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-woo-besluit-2026052.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8bdfe164-a8a7-4bf8-baa9-61580d227e4c/cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie",
+    "sha256": "70dba929d5bab5677f4e71ccc8717916e7f232dbad00a0306e73a873c5baf9e3",
+    "retrieved_at": "2026-07-29T08:30:22+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-cjkc-notitie-tbv-over-hernieuwde-uitval-en-het-recht-op-compensatie.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cae96ec9-f60d-4925-9f8c-1f6acc52cbc8/lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte",
+    "sha256": "a3453336e20390915b1bde4ab56e7d21c45eb62a3ee9df31bed1d94c02971b79",
+    "retrieved_at": "2026-07-29T08:30:25+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-lb-crtv-lao-bij-hernieuwde-uitval-wegens-ziekte.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/725e0cc1-0e6f-4598-93f3-ff37c384b22b/crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval.pdf": {
+    "publication_slug": "2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding",
+    "pdf_slug": "2026-07-14-crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval",
+    "sha256": "b28e9ea3b64b778d62e72b7b5f80dad24b3a7a79f6d5bc10ac7199fb90791d9a",
+    "retrieved_at": "2026-07-29T08:30:29+00:00",
+    "paths": {
+      "md": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval.md",
+      "json": "data/2026-07-14-woo-besluit-over-compensatie-bij-transitievergoeding/2026-07-14-crtv-lao-wanneer-geldt-een-nieuw-opzegverbod-bij-hernieuwde-uitval.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/40dfaf74-f9df-409b-9c6d-a55212713ed0/woo-besluit-2026002-.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-woo-besluit-2026002",
+    "sha256": "c31d8c0d0d5c22c3d3927bd958d13cc06e64d7b3235381896df9526659350654",
+    "retrieved_at": "2026-08-11T06:56:43+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-woo-besluit-2026002.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-woo-besluit-2026002.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/56f52d4f-8e8e-4b5c-81e6-21f0682d85a5/aanvraag-vaststelling-now-1.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-vaststelling-now-1",
+    "sha256": "1a8e3a5818d68c09cb339ed0fcc418c56c2de2b0184c8944a2f09be91fc3bc0e",
+    "retrieved_at": "2026-08-11T06:56:45+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-1.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/24b2bdda-65b4-4cba-855f-5cadd8cbe0ce/aanvraag-vaststelling-now-2.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-vaststelling-now-2",
+    "sha256": "8349a3ee2e164d5be70f6653fec783898b4d1ab123e354eb14ab23d579d402bc",
+    "retrieved_at": "2026-08-11T06:56:46+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-2.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/62a937b2-af23-4cc5-87aa-ce78a880df3e/aanvraag-vaststelling-now-3.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-vaststelling-now-3",
+    "sha256": "503fed6c5f8bc6d5ea2550c60cc6412c1be0851d5f758864a7dd25b34d01840b",
+    "retrieved_at": "2026-08-11T06:56:47+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-3.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0aff4fc8-d10d-4482-8fe8-103ce09048bc/aanvraag-vaststelling-now-3-4e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-vaststelling-now-3-4e-avp",
+    "sha256": "411c036f0549fa68ef0009bfebcdace398f481fb489cc5456d9e80d8cd74050f",
+    "retrieved_at": "2026-08-11T06:56:49+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-3-4e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-3-4e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b9ceb1c9-194c-46f3-ba4c-63c3fb3dee30/aanvraag-vaststelling-now-3-5e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-vaststelling-now-3-5e-avp",
+    "sha256": "916add6ae06fe36cf7599c45a125bbebc616eb472785b15eb5c9fd1620cd79f8",
+    "retrieved_at": "2026-08-11T06:56:50+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-3-5e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-3-5e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6d10d34e-7620-4c62-9b9c-ef5c0af73747/aanvraag-vaststelling-now-4-6e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-vaststelling-now-4-6e-avp",
+    "sha256": "ebebcccebe1225c130fa127490033a0397895989b1a7fb7a63fb2ba86b7e7d7d",
+    "retrieved_at": "2026-08-11T06:56:52+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-4-6e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-vaststelling-now-4-6e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/2086e8bf-aea5-4912-b4ad-50ecd9ee747d/aanvraag-voorschot-now-1.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-voorschot-now-1",
+    "sha256": "63444a594bae9c44e9e107bc8df10be377ee836c62d26118254b80c1d344f922",
+    "retrieved_at": "2026-08-11T06:56:53+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-1.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/38f40b4f-98f6-4c8a-a5aa-919b24397ad2/aanvraag-voorschot-now-2.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-voorschot-now-2",
+    "sha256": "04a259bab2425352e2ef2a1be54040a7e508bb3e00e13e0b2c2623938fe9e55f",
+    "retrieved_at": "2026-08-11T06:56:54+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-2.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cce4d1d6-86ad-4d00-b6bc-bff03cb75083/aanvraag-voorschot-now-3.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-voorschot-now-3",
+    "sha256": "ed20c9217265eb5eb2ad7e696eff687ce78afda6b393fd5a60ce6714f2620df0",
+    "retrieved_at": "2026-08-11T06:56:55+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-3.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/549979e0-9fd7-4714-8569-49d955c05e6e/aanvraag-voorschot-now-3-4e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-voorschot-now-3-4e-avp",
+    "sha256": "d31edc02fd755500eceba57005a178d830c52885e568383864a3959e95a2ddb6",
+    "retrieved_at": "2026-08-11T06:56:56+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-3-4e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-3-4e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/346f7fdb-ee63-4755-8d6f-29cc94fb30b3/aanvraag-voorschot-now-3-5e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-voorschot-now-3-5e-avp",
+    "sha256": "99b2b5d99d24e6a93b5874a244c9bc2fb79da7dc119d55234b8127c9a108203c",
+    "retrieved_at": "2026-08-11T06:56:58+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-3-5e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-3-5e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6562ec56-4066-4eac-9c78-355ed202c7a0/aanvraag-voorschot-now-4-6e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-aanvraag-voorschot-now-4-6e-avp",
+    "sha256": "d005274d39df2138863d216aff7cc0e6145655159bf942ef0912822ae6489d99",
+    "retrieved_at": "2026-08-11T06:56:59+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-4-6e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-aanvraag-voorschot-now-4-6e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b319cd9d-a5aa-43e1-b86b-c14e5ab470a4/definitieve-berekening-now-1.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-definitieve-berekening-now-1",
+    "sha256": "bdeb1d4d0b2c75683d8067e9de591afaca024ee48642b267610888f17201482b",
+    "retrieved_at": "2026-08-11T06:57:01+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-1.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/032e6be1-7f64-4824-b92a-aaf3369601f3/definitieve-berekening-now-2.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-definitieve-berekening-now-2",
+    "sha256": "37c814b0e1c023957702b44002fd6af0405f28c05b68e93876d36481fca8aca4",
+    "retrieved_at": "2026-08-11T06:57:02+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-2.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/73589fe2-0d9e-409f-88bd-497d43a3199e/definitieve-berekening-now-3.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-definitieve-berekening-now-3",
+    "sha256": "6e0a6b4ab45eec7891e467bb46f69e135027a2e7f297caa69bd5c73cf422c63c",
+    "retrieved_at": "2026-08-11T06:57:03+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-3.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3ff09854-7f54-4d18-a929-ffb1d38972bc/definitieve-berekening-now-3-4e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-definitieve-berekening-now-3-4e-avp",
+    "sha256": "f248d42aba2f1bdb63654a96107d431d12ed43f3756d5ec82e0f037b14780584",
+    "retrieved_at": "2026-08-11T06:57:06+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-3-4e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-3-4e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/357a41ca-931a-4a54-a4c7-1c5c356ead41/definitieve-berekening-now-4-6e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-definitieve-berekening-now-4-6e-avp",
+    "sha256": "c968a2ec6cdb5fae3f5676db3bae45874bff0a3a7d382c4b75a1b70dd803c6d1",
+    "retrieved_at": "2026-08-11T06:57:07+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-4-6e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-definitieve-berekening-now-4-6e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cdb73019-fa09-46b1-9f47-6001c03538cd/overzicht-now-gegevens.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-overzicht-now-gegevens",
+    "sha256": "4de136e4fffc8f183018f3e7db448b76b8d0e881e362d200d1a7e8764365f707",
+    "retrieved_at": "2026-08-11T06:57:08+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-overzicht-now-gegevens.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-overzicht-now-gegevens.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a444c206-6292-4505-a57f-4c9fdcae6720/voorschotbeschikking-now-1.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-voorschotbeschikking-now-1",
+    "sha256": "b75d386b91b11e3b8017828146fd3c618f836094ddeaa5c8609bd9c96453bd1b",
+    "retrieved_at": "2026-08-11T06:57:10+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-1.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/828ebc60-8c87-4df3-82a8-4199cec1d425/voorschotbeschikking-now-2.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-voorschotbeschikking-now-2",
+    "sha256": "c3fbafacfaa9e0a5ff1fad8d1c2779d5df4c1efa4c1627304737df70e1f0539a",
+    "retrieved_at": "2026-08-11T06:57:12+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-2.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0e33f98d-6883-4447-96bf-925994cadbcb/voorschotbeschikking-now-3.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-voorschotbeschikking-now-3",
+    "sha256": "be44dec86548856f17a90580816cbdec569ddfa9d848c89e605a9ff90a8af448",
+    "retrieved_at": "2026-08-11T06:57:14+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-3.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a43db266-d1e7-4270-8077-9040b3e3ef2e/voorschotbeschikking-now-3-4e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-voorschotbeschikking-now-3-4e-avp",
+    "sha256": "9e8b3fec12d8a8ae3d478a72da86f9064d0a5f26ae492778d100bb30bd0999b4",
+    "retrieved_at": "2026-08-11T06:57:17+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-3-4e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-3-4e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/75054db9-6c3d-4ac3-819c-907612169814/voorschotbeschikking-now-4-6e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-voorschotbeschikking-now-4-6e-avp",
+    "sha256": "eb2f02bcf8ceffb46554999d2cade4e3eff26d74323d0f1f8d1900806898e8e2",
+    "retrieved_at": "2026-08-11T06:57:19+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-4-6e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-4-6e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4bce3dce-a17a-483b-ab2d-63dc32b046a1/voorschotbeschikking-now-33-5e-avp.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen",
+    "pdf_slug": "2026-07-21-voorschotbeschikking-now-33-5e-avp",
+    "sha256": "da8d02386035030dd41096fa6caac5c8ff79cdf81d816974a506eced3d33c9cf",
+    "retrieved_at": "2026-08-11T06:57:22+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-33-5e-avp.md",
+      "json": "data/2026-07-21-woo-besluit-over-tegemoetkomingen-now-van-2-stichtingen/2026-07-21-voorschotbeschikking-now-33-5e-avp.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/bff0be0e-76c2-48fc-a71a-de57a266f156/woo-besluit-2025151.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-woo-besluit-2025151",
+    "sha256": "489de34097fcc109979733702ca643ac8d20aeaf0641c601344b38ae1b4a35cb",
+    "retrieved_at": "2026-08-11T06:57:25+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-woo-besluit-2025151.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-woo-besluit-2025151.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/12f45ca0-fe4f-470a-8b78-79e6951afed6/uitvraag-erp-oplossing.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-uitvraag-erp-oplossing",
+    "sha256": "d0d90dc5df4d03db1c1bc85cace06148929172e2bc8a4097b6e78023f55d31a4",
+    "retrieved_at": "2026-08-11T06:57:31+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-uitvraag-erp-oplossing.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-uitvraag-erp-oplossing.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4f398060-1659-4f60-9ed3-a6a38e7075a8/programma-van-eisen.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-programma-van-eisen",
+    "sha256": "56391ebe6161efc1d1fc5b5550ac0fe241b19092aeda75222df2114db6f68180",
+    "retrieved_at": "2026-08-11T06:57:47+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-programma-van-eisen.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-programma-van-eisen.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/88b55b0b-2ee0-4df9-8ffe-2f85683d6d10/contractuele-voorwaarden.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-contractuele-voorwaarden",
+    "sha256": "60cac481b56106c054d6bb74ab271834c49a029b480600b7045b27a4d15f4916",
+    "retrieved_at": "2026-08-11T06:57:49+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-contractuele-voorwaarden.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-contractuele-voorwaarden.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/2a1bee5c-aa0e-4452-beda-4d47b98b8c4e/huidige-en-gewenste-situatie.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-huidige-en-gewenste-situatie",
+    "sha256": "0ae43ec69ed304d0d1522646e109a838c24b237fb4efce9295feb6a00e8815be",
+    "retrieved_at": "2026-08-11T06:58:10+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-huidige-en-gewenste-situatie.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-huidige-en-gewenste-situatie.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f0b0a764-a57a-4247-b3d4-8dc6ae2f541c/concept-nadere-overeenkomst.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-concept-nadere-overeenkomst",
+    "sha256": "b24e9f4718e7a6225e02bd5d6707a558ba011e8e69be5350250f5b6fa2cf57e1",
+    "retrieved_at": "2026-08-11T06:58:19+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-concept-nadere-overeenkomst.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-concept-nadere-overeenkomst.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5e5c1ef8-8d1a-4058-a62b-a0ba26c208de/casussen-demo-en-gebruikerstest.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-casussen-demo-en-gebruikerstest",
+    "sha256": "53fe211aace069f99f1317d315be8d042c7578820a3bbd2418995f513e07063e",
+    "retrieved_at": "2026-08-11T06:58:23+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-casussen-demo-en-gebruikerstest.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-casussen-demo-en-gebruikerstest.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b0536391-4f64-444c-b007-1683d34b4b03/format-programma-van-wensen-aangepast.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-format-programma-van-wensen-aangepast",
+    "sha256": "e988d78e992ace5031af58ef8f06f0f3f766f813c699fdec3bdebc205bba343b",
+    "retrieved_at": "2026-08-11T06:58:25+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-format-programma-van-wensen-aangepast.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-format-programma-van-wensen-aangepast.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/85c5f4a8-3d6f-4b9c-8d12-b7f2d735d19e/referentie-architectuur.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-referentie-architectuur",
+    "sha256": "851fd0d41c33c1d0f56f146b79a8ad508c67bff80b4c898ef05a63320dbfa778",
+    "retrieved_at": "2026-08-11T06:58:29+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-referentie-architectuur.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-referentie-architectuur.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/94a97d7c-3992-46fd-ba20-e9ce1472a07e/complete-with-docusign-uwv-amendment-8272.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-complete-with-docusign-uwv-amendment-8272",
+    "sha256": "b74088aad3f912968217be490aecc63effa8f56d55e76b6d9d3ea5a3ecb012b3",
+    "retrieved_at": "2026-08-11T06:58:32+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-complete-with-docusign-uwv-amendment-8272.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-complete-with-docusign-uwv-amendment-8272.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1528250b-bd66-495b-9a28-632f849c9b2a/contract-implementatie-hrlinkit.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-contract-implementatie-hrlinkit",
+    "sha256": "a35e77fe1bd2ee64a5e460ca3cd8efcdaaa7973e0929b839045298d693767d52",
+    "retrieved_at": "2026-08-11T06:58:40+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-contract-implementatie-hrlinkit.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-contract-implementatie-hrlinkit.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f7a1478c-f5a6-4e98-b632-5df02565cd4d/uwv-msa-draft-bullhorn-april-2024.pdf": {
+    "publication_slug": "2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem",
+    "pdf_slug": "2026-07-21-uwv-msa-draft-bullhorn-april-2024",
+    "sha256": "36a78c4bf67e064820c868d5dde2a4ce778e4123d3c08767e5db1e421c422ea6",
+    "retrieved_at": "2026-08-11T06:58:49+00:00",
+    "paths": {
+      "md": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-uwv-msa-draft-bullhorn-april-2024.md",
+      "json": "data/2026-07-21-woo-besluit-over-aanbesteding-nieuw-erp-systeem/2026-07-21-uwv-msa-draft-bullhorn-april-2024.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e3c581be-f40a-4273-832a-609f71da09d4/woo-besluit-2026064.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-openbaarmaken-gevalsdossier",
+    "pdf_slug": "2026-07-17-woo-besluit-2026064",
+    "sha256": "7658b15d76532efe521c45e58192ae91e053c6e775a9a2f7ec73ceb226360e98",
+    "retrieved_at": "2026-08-11T06:58:51+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-openbaarmaken-gevalsdossier/2026-07-17-woo-besluit-2026064.md",
+      "json": "data/2026-07-17-woo-besluit-over-openbaarmaken-gevalsdossier/2026-07-17-woo-besluit-2026064.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/853d10ee-718e-4a98-8dbe-224905bbf02d/woo-besluit-2026046.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim",
+    "pdf_slug": "2026-07-17-woo-besluit-2026046",
+    "sha256": "af1444e5792ae2f1570f30621cee8f745569e2ca9ebc360d14870745407ade60",
+    "retrieved_at": "2026-08-11T06:58:54+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim/2026-07-17-woo-besluit-2026046.md",
+      "json": "data/2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim/2026-07-17-woo-besluit-2026046.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/af7582ee-34d9-4df2-917a-f19dd3a076b5/interne-richtlijn-amber-bepaling.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim",
+    "pdf_slug": "2026-07-17-interne-richtlijn-amber-bepaling",
+    "sha256": "5063183fea2154c76e2eefd979e0e5818224955e6a0fd0e6c3b3485278528631",
+    "retrieved_at": "2026-08-11T06:58:55+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim/2026-07-17-interne-richtlijn-amber-bepaling.md",
+      "json": "data/2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim/2026-07-17-interne-richtlijn-amber-bepaling.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6187ecb2-8806-44ff-abee-bbecae86262a/richtlijn-bmg-van-de-verzekeringsarts.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim",
+    "pdf_slug": "2026-07-17-richtlijn-bmg-van-de-verzekeringsarts",
+    "sha256": "f88ecc3b79b43115da187a6fefbb3a8ec67faa87926298eac7f5bbb25cf2c1fc",
+    "retrieved_at": "2026-08-11T06:59:02+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim/2026-07-17-richtlijn-bmg-van-de-verzekeringsarts.md",
+      "json": "data/2026-07-17-woo-besluit-over-amber-bepaling-en-medisch-beroepsgeheim/2026-07-17-richtlijn-bmg-van-de-verzekeringsarts.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/7f3e9115-a210-4031-83e7-3928f634ef42/woo-besluit-2026063.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+    "pdf_slug": "2026-07-17-woo-besluit-2026063",
+    "sha256": "6d9be46aa17417752cb39b1708ae65a8ea58c5169bf2d2c5cfa345d0c60b4c92",
+    "retrieved_at": "2026-08-11T06:59:05+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-woo-besluit-2026063.md",
+      "json": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-woo-besluit-2026063.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cc50fdc4-0c27-4369-9ebd-dc9dc76163a6/berekening-wia-dagloon-nav-uitspraak-crvb-30-07-24.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+    "pdf_slug": "2026-07-17-berekening-wia-dagloon-nav-uitspraak-crvb-30-07-24",
+    "sha256": "d89a1135edff2f65e5f5dbc67964fa2aa7afc3f8426a157fec611cb00f1a9400",
+    "retrieved_at": "2026-08-11T06:59:07+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-berekening-wia-dagloon-nav-uitspraak-crvb-30-07-24.md",
+      "json": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-berekening-wia-dagloon-nav-uitspraak-crvb-30-07-24.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f30ab7ac-d80b-4b40-9db3-4c5ac3329ff3/ubsmz2501-005-bijlage-handreiking-omgaan-met-loonloze-tijdvakken-1-0.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+    "pdf_slug": "2026-07-17-ubsmz2501-005-bijlage-handreiking-omgaan-met-loonloze-tijdvakken-1-0",
+    "sha256": "74db4d247ce50ff024bd68d8e0e999ee7859023250f31fbdf90a734abbc8f372",
+    "retrieved_at": "2026-08-11T06:59:12+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-ubsmz2501-005-bijlage-handreiking-omgaan-met-loonloze-tijdvakken-1-0.md",
+      "json": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-ubsmz2501-005-bijlage-handreiking-omgaan-met-loonloze-tijdvakken-1-0.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/65dc3eb5-f4ae-4d84-bb4f-d2284036da5d/llt-tool.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+    "pdf_slug": "2026-07-17-llt-tool",
+    "sha256": "0ad23a17b999e9887f5006aefa60877b9bbc797ac9590337cb6e339c2a1fb391",
+    "retrieved_at": "2026-08-11T06:59:14+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-llt-tool.md",
+      "json": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-llt-tool.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5b7465f2-390e-44f3-ba3b-df2f1d67419b/instructie-llt.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+    "pdf_slug": "2026-07-17-instructie-llt",
+    "sha256": "4a761ba3e5d6da861a08a39f1f027afbb8e520d630d51ec33e42db7cf9d84288",
+    "retrieved_at": "2026-08-11T06:59:15+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-instructie-llt.md",
+      "json": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-instructie-llt.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/52c79804-c009-4178-84c7-f19cb73600d0/berekenen-wia-dagloon.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-vaststelling-wia-dagloon",
+    "pdf_slug": "2026-07-17-berekenen-wia-dagloon",
+    "sha256": "51acea04badede978a23d58027d85559f35ecfd11d43f6378de15d91c994c44b",
+    "retrieved_at": "2026-08-11T06:59:18+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-berekenen-wia-dagloon.md",
+      "json": "data/2026-07-17-woo-besluit-over-vaststelling-wia-dagloon/2026-07-17-berekenen-wia-dagloon.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3bf1a1b6-ce55-443c-b3b8-6a9dec58d54e/woo-besluit-2026060.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-informatie-van-mensen-met-wia-uitkering",
+    "pdf_slug": "2026-07-17-woo-besluit-2026060",
+    "sha256": "caa73da585018c88efb9baeba22496b20e7852045e2ef6365be53de4b4d801d6",
+    "retrieved_at": "2026-08-11T06:59:20+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-informatie-van-mensen-met-wia-uitkering/2026-07-17-woo-besluit-2026060.md",
+      "json": "data/2026-07-17-woo-besluit-over-informatie-van-mensen-met-wia-uitkering/2026-07-17-woo-besluit-2026060.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/77c65b26-eb24-4562-bc15-e882535e6c9a/woo-besluit-2026061.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-woo-besluit-2026061",
+    "sha256": "81cd210fcfb09dfd197197828401e10c52241bfef93d65fa8738997161d073d2",
+    "retrieved_at": "2026-08-11T06:59:23+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-woo-besluit-2026061.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-woo-besluit-2026061.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c810017e-cf62-4894-861e-9ca8650f8e9f/pa-consultating-10032026-rapportage-evaluatie-governance-en-besluitvorming-v-1-0-concept.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-pa-consultating-10032026-rapportage-evaluatie-governance-en-besluitvorming-v-1-0-concept",
+    "sha256": "7caecae4a6d5562b8159976ccfc463c9301cebd486a2a71069af68436199fc96",
+    "retrieved_at": "2026-08-11T06:59:29+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-pa-consultating-10032026-rapportage-evaluatie-governance-en-besluitvorming-v-1-0-concept.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-pa-consultating-10032026-rapportage-evaluatie-governance-en-besluitvorming-v-1-0-concept.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/7de4d576-d93d-46ab-a387-2a1975398bd7/rgs-20240703-instellingsopleidingsplan-uwv-juli-2024-concept.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-rgs-20240703-instellingsopleidingsplan-uwv-juli-2024-concept",
+    "sha256": "d31e7df1b08d89056f1dafa36621857b9b836c829299f5d2368bc2ce6a60b7ad",
+    "retrieved_at": "2026-08-11T06:59:55+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20240703-instellingsopleidingsplan-uwv-juli-2024-concept.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20240703-instellingsopleidingsplan-uwv-juli-2024-concept.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/843e4a89-b4b5-416c-a3d8-beba5fdee5df/rgs-20240712-kwaliteitsrapportage-opleidingsinstelling-sociale-geneeskunde-2024-uwv-landelijk-definitief-concept.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-rgs-20240712-kwaliteitsrapportage-opleidingsinstelling-sociale-geneeskunde-2024-uwv-landelijk-definitief-concept",
+    "sha256": "bf7cd9ea59ea7c549063256de2a499a1af03ab403f0c3f68b65800b0817c6113",
+    "retrieved_at": "2026-08-11T07:00:05+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20240712-kwaliteitsrapportage-opleidingsinstelling-sociale-geneeskunde-2024-uwv-landelijk-definitief-concept.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20240712-kwaliteitsrapportage-opleidingsinstelling-sociale-geneeskunde-2024-uwv-landelijk-definitief-concept.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/06d5382f-66f8-410d-8df3-ec058be4546d/rgs-20250424-plan-van-aanpak-voorwaarden-rgs-concept.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-rgs-20250424-plan-van-aanpak-voorwaarden-rgs-concept",
+    "sha256": "e81ea6902c54e10d5e3810cf11a05cec17ae520ac7946b63cb00dca042da20fc",
+    "retrieved_at": "2026-08-11T07:00:08+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20250424-plan-van-aanpak-voorwaarden-rgs-concept.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20250424-plan-van-aanpak-voorwaarden-rgs-concept.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8df6109a-51ad-4885-87b2-45a385431347/rgs-20250630-vs1-0-rapportage-rapportage-borging-vrijelijke-uiting-kwaliteit-en-mate-veiligheid-van-opleidingsklimaat-concept.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-rgs-20250630-vs1-0-rapportage-rapportage-borging-vrijelijke-uiting-kwaliteit-en-mate-veiligheid-van-opleidingsklimaat-co",
+    "sha256": "112c544410c4df0ecacd0d93df40305273b2474bce7b38f8f0533627b1fee45e",
+    "retrieved_at": "2026-08-11T07:00:11+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20250630-vs1-0-rapportage-rapportage-borging-vrijelijke-uiting-kwaliteit-en-mate-veiligheid-van-opleidingsklimaat-co.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20250630-vs1-0-rapportage-rapportage-borging-vrijelijke-uiting-kwaliteit-en-mate-veiligheid-van-opleidingsklimaat-co.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/31d003f3-915a-4bd2-a025-0e6b2b6cd0f8/rgs-20251230-rapportage-2-voorwaarden-erkenning-uwv-als-opleidingsinstelling-voor-het-specialisme-verzekeringsgeneeskunde-concept-.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-rgs-20251230-rapportage-2-voorwaarden-erkenning-uwv-als-opleidingsinstelling-voor-het-specialisme-verzekeringsgeneeskund",
+    "sha256": "bca87ea9f0a94e364156730317e6953afe0aae28c4f45ed07733ebc381d7d114",
+    "retrieved_at": "2026-08-11T07:00:21+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20251230-rapportage-2-voorwaarden-erkenning-uwv-als-opleidingsinstelling-voor-het-specialisme-verzekeringsgeneeskund.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-rgs-20251230-rapportage-2-voorwaarden-erkenning-uwv-als-opleidingsinstelling-voor-het-specialisme-verzekeringsgeneeskund.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/785afc69-3f13-41f2-8113-02a14a3585d9/bezemerschubad-rapportage-uwv-8mrt2024-concept.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen",
+    "pdf_slug": "2026-07-17-bezemerschubad-rapportage-uwv-8mrt2024-concept",
+    "sha256": "554d3d13dfd61cb5bc4784663e9ca5f5f47618d2f69e7a5a2742c4ac5a2d155d",
+    "retrieved_at": "2026-08-11T07:00:29+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-bezemerschubad-rapportage-uwv-8mrt2024-concept.md",
+      "json": "data/2026-07-17-woo-besluit-over-werkcultuur-en-opleidingssituatie-verzekeringsartsen/2026-07-17-bezemerschubad-rapportage-uwv-8mrt2024-concept.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6ea5fbe4-a665-4e29-a040-e3c2e6461ad3/woo-besluit-2026067.pdf": {
+    "publication_slug": "2026-07-17-woo-besluit-over-cbbs-functies",
+    "pdf_slug": "2026-07-17-woo-besluit-2026067",
+    "sha256": "7cccfe9ccee7fd8c1e1bd61e438c0eab7650965d067af1c5185f0120fae69f02",
+    "retrieved_at": "2026-08-11T07:00:31+00:00",
+    "paths": {
+      "md": "data/2026-07-17-woo-besluit-over-cbbs-functies/2026-07-17-woo-besluit-2026067.md",
+      "json": "data/2026-07-17-woo-besluit-over-cbbs-functies/2026-07-17-woo-besluit-2026067.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ec753e8a-b278-44fe-b1ce-fd01a83fd00a/woo-besluit-2026073.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-gebruik-parkeergarage-uwv",
+    "pdf_slug": "2026-08-04-woo-besluit-2026073",
+    "sha256": "d5e23e1babff059e50e13575c6e3984703ad344c8ebee60fb7aaff49d21c8cfb",
+    "retrieved_at": "2026-08-13T07:18:34+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-gebruik-parkeergarage-uwv/2026-08-04-woo-besluit-2026073.md",
+      "json": "data/2026-08-04-woo-besluit-gebruik-parkeergarage-uwv/2026-08-04-woo-besluit-2026073.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/2347b250-c76c-490e-a8b3-b2a930d38d22/woo-besluit-2026072.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-woo-besluit-2026072",
+    "sha256": "e67a899324c37d0ba947bff2bb88925a747e5f59d2b38e70649a4810f4646c64",
+    "retrieved_at": "2026-08-13T07:18:37+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-woo-besluit-2026072.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-woo-besluit-2026072.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4809b211-76d4-4766-a5e8-7ab4c777fb82/doc-01-uwv-cloudbeleid-20-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-doc-01-uwv-cloudbeleid-20-geanonimiseerd",
+    "sha256": "164ba64d2569599ef02e73e313f30bdfce1a4b89b021a691a5e9d70d1a5f5f6e",
+    "retrieved_at": "2026-08-13T07:18:42+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-01-uwv-cloudbeleid-20-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-01-uwv-cloudbeleid-20-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9a22ad87-631b-48ad-b059-7ebb0cc9f242/doc-02-handleiding-geb-proces-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-doc-02-handleiding-geb-proces-geanonimiseerd",
+    "sha256": "1d4606e4f9143bc4ea1d86813c37fdd557a67a3da057ed62eb0f9a678e125847",
+    "retrieved_at": "2026-08-13T07:18:53+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-02-handleiding-geb-proces-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-02-handleiding-geb-proces-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3b57a6ad-259f-43f8-840f-d6fa34339908/doc-03-thematisch-beleid-doorgifte-van-persoonsgegevens-10-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-doc-03-thematisch-beleid-doorgifte-van-persoonsgegevens-10-geanonimiseerd",
+    "sha256": "51c2ad3cbd2084753f1415fb452c3663f14dfb36f1a5aaacfe6ecec4218c9848",
+    "retrieved_at": "2026-08-13T07:18:58+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-03-thematisch-beleid-doorgifte-van-persoonsgegevens-10-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-03-thematisch-beleid-doorgifte-van-persoonsgegevens-10-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3299325c-132c-43bb-9b6d-9a7561112eb2/doc-04-actieplan-soevereiniteit-v210526-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-doc-04-actieplan-soevereiniteit-v210526-geanonimiseerd",
+    "sha256": "caeebf2011402c99b9eed36a015f055ecd591af140e564fece1e5a1420e94ffc",
+    "retrieved_at": "2026-08-13T07:19:04+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-04-actieplan-soevereiniteit-v210526-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-04-actieplan-soevereiniteit-v210526-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/725066e3-fff2-464b-89c4-6e998734a160/doc-05-geb-rapport-template-v10-2025-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-doc-05-geb-rapport-template-v10-2025-geanonimiseerd",
+    "sha256": "f7cf0c8a16e7896bda423f21b82480d222bb10928d57b63ef7277786a524b70a",
+    "retrieved_at": "2026-08-13T07:19:08+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-05-geb-rapport-template-v10-2025-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-05-geb-rapport-template-v10-2025-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ea03d5f9-2d34-4845-8651-eb852a59c030/doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit",
+    "pdf_slug": "2026-08-04-doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd",
+    "sha256": "2bb01021d26d870171743caae5f9cf8eba2a2a571018d1c72c87049db5f0bfc6",
+    "retrieved_at": "2026-08-13T07:19:10+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-risicobeoordelingen-externe-it-hosting-en-data-soevereiniteit/2026-08-04-doc-06-visie-op-digitale-soevereiniteit-v210526-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/fc74c4f0-8be2-4611-9be4-af8abc4591fd/woo-besluit-2026069.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers",
+    "pdf_slug": "2026-08-04-woo-besluit-2026069",
+    "sha256": "f7dd5b302500c401f6ff0d9e51d908d3f9332826929d5771cdcf73b1822b72b5",
+    "retrieved_at": "2026-08-13T07:19:13+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-woo-besluit-2026069.md",
+      "json": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-woo-besluit-2026069.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e1de4c1d-fe5d-4177-a5be-73026e0b53e2/gedragscode.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers",
+    "pdf_slug": "2026-08-04-gedragscode",
+    "sha256": "60e5c05f8efca4dd1994ae7b0dd15dbc64abd8f78caff56baeb84ac60024b769",
+    "retrieved_at": "2026-08-13T07:19:22+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-gedragscode.md",
+      "json": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-gedragscode.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c2766dc2-d1d4-43cb-8002-7c4553086972/richtlijn-mobiele-apparatuur-en-elektronische-gegevensdragers-v20-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers",
+    "pdf_slug": "2026-08-04-richtlijn-mobiele-apparatuur-en-elektronische-gegevensdragers-v20-geanonimiseerd",
+    "sha256": "a44e9e3946a35e5378df09038ff5aa1140fc232df5455902f5ca20ced9f995b0",
+    "retrieved_at": "2026-08-13T07:19:26+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-richtlijn-mobiele-apparatuur-en-elektronische-gegevensdragers-v20-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-richtlijn-mobiele-apparatuur-en-elektronische-gegevensdragers-v20-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f4df4d68-22bd-491f-be0e-b645ee1eb41b/woo-besluit-2026071.pdf": {
+    "publication_slug": "2026-07-30-woo-besluit-beleid-bevoegdheden-met-betrekking-tot-ziektewet",
+    "pdf_slug": "2026-07-30-woo-besluit-2026071",
+    "sha256": "f06fae898c8bb16a5cd67880e6961458771c30306b381c34f793f31f954ac83d",
+    "retrieved_at": "2026-08-13T07:19:29+00:00",
+    "paths": {
+      "md": "data/2026-07-30-woo-besluit-beleid-bevoegdheden-met-betrekking-tot-ziektewet/2026-07-30-woo-besluit-2026071.md",
+      "json": "data/2026-07-30-woo-besluit-beleid-bevoegdheden-met-betrekking-tot-ziektewet/2026-07-30-woo-besluit-2026071.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/123a8685-ddc1-4060-a861-5de54027ce07/doc-01-handboek-handhaving-onderdeel-bevoegdheden-en-informatie-opvragen.pdf": {
+    "publication_slug": "2026-07-30-woo-besluit-beleid-bevoegdheden-met-betrekking-tot-ziektewet",
+    "pdf_slug": "2026-07-30-doc-01-handboek-handhaving-onderdeel-bevoegdheden-en-informatie-opvragen",
+    "sha256": "f5cef266aa51316fd7b455b671adb723621aa74246fe0801131c300d5843c1e0",
+    "retrieved_at": "2026-08-13T07:19:31+00:00",
+    "paths": {
+      "md": "data/2026-07-30-woo-besluit-beleid-bevoegdheden-met-betrekking-tot-ziektewet/2026-07-30-doc-01-handboek-handhaving-onderdeel-bevoegdheden-en-informatie-opvragen.md",
+      "json": "data/2026-07-30-woo-besluit-beleid-bevoegdheden-met-betrekking-tot-ziektewet/2026-07-30-doc-01-handboek-handhaving-onderdeel-bevoegdheden-en-informatie-opvragen.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/df6448c1-6cc7-4247-88d9-1a14c15b5e86/woo-besluit-2026078.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-rapport-adviesbureau-evz-2012",
+    "pdf_slug": "2026-08-04-woo-besluit-2026078",
+    "sha256": "41bd508de96d504875de37a32dc643fb41ff39d02dc2cb359e8e45833c29d325",
+    "retrieved_at": "2026-08-18T06:33:02+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-rapport-adviesbureau-evz-2012/2026-08-04-woo-besluit-2026078.md",
+      "json": "data/2026-08-04-woo-besluit-rapport-adviesbureau-evz-2012/2026-08-04-woo-besluit-2026078.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/871ec916-c398-4881-b937-f0fb10a7a95b/rapport-evz-dd-21-december-2012.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-rapport-adviesbureau-evz-2012",
+    "pdf_slug": "2026-08-04-rapport-evz-dd-21-december-2012",
+    "sha256": "8b6cdea91fa0cfdfc4d2d989c113351217ab6a449d13681fae0956ef64c812b5",
+    "retrieved_at": "2026-08-18T06:33:05+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-rapport-adviesbureau-evz-2012/2026-08-04-rapport-evz-dd-21-december-2012.md",
+      "json": "data/2026-08-04-woo-besluit-rapport-adviesbureau-evz-2012/2026-08-04-rapport-evz-dd-21-december-2012.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/35713cac-f51c-493c-a602-fdb7c49a6a57/woo-besluit-2026077.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-woo-besluit-2026077",
+    "sha256": "6e4b4934cd647a9fc93c9a554ad48c319079a9a34b5c35003a68bf38bde5a231",
+    "retrieved_at": "2026-08-18T06:33:09+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-woo-besluit-2026077.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-woo-besluit-2026077.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4e0234b1-e2a9-4146-a88b-637dcec8268f/doc-02-2023-implementatieplan-bemiddelingsservice-versie-10-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-02-2023-implementatieplan-bemiddelingsservice-versie-10-concept-geanonimiseerd",
+    "sha256": "ec796a20c95cff61946dc8630d5aa11429b9cc47d24fd475be15b6cac99c28c8",
+    "retrieved_at": "2026-08-18T06:33:17+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-02-2023-implementatieplan-bemiddelingsservice-versie-10-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-02-2023-implementatieplan-bemiddelingsservice-versie-10-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f81f8f05-8270-408c-af32-fdd96bbbd8a1/doc-03-20250116-voorlegger-gefaseerde-ingebruikname-bms-fase-1-v10-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-03-20250116-voorlegger-gefaseerde-ingebruikname-bms-fase-1-v10-concept-geanonimiseerd",
+    "sha256": "9ba5309e30df43f02e8f42054361bd44fafaedc478dc11673cec9019159b4e68",
+    "retrieved_at": "2026-08-18T06:33:19+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-03-20250116-voorlegger-gefaseerde-ingebruikname-bms-fase-1-v10-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-03-20250116-voorlegger-gefaseerde-ingebruikname-bms-fase-1-v10-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b17084b8-a519-4592-abb9-f35299eee89e/doc-04-20250716-presentatie-leertraject-bms-v09-bijlage-voorlegger-ai-geletterdheid-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-04-20250716-presentatie-leertraject-bms-v09-bijlage-voorlegger-ai-geletterdheid-geanonimiseerd",
+    "sha256": "1bb89f42a3ee2e4fcc799834fde39b004df85830a628c26e03d98af88b8d58b9",
+    "retrieved_at": "2026-08-18T06:33:20+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-04-20250716-presentatie-leertraject-bms-v09-bijlage-voorlegger-ai-geletterdheid-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-04-20250716-presentatie-leertraject-bms-v09-bijlage-voorlegger-ai-geletterdheid-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/934ace9b-b968-4410-9f8c-89a10ac0bb6c/doc-06-herijkt-projectplan-bemiddelingsservice-bms-fase-1-v10-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-06-herijkt-projectplan-bemiddelingsservice-bms-fase-1-v10-concept-geanonimiseerd",
+    "sha256": "5f9deb52ec677504f493b3781361d9eebbb2a8b270d3922f67c2cb5d35e5092e",
+    "retrieved_at": "2026-08-18T06:33:36+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-06-herijkt-projectplan-bemiddelingsservice-bms-fase-1-v10-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-06-herijkt-projectplan-bemiddelingsservice-bms-fase-1-v10-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c122a836-13cd-4466-8aeb-b4d0f00b5058/doc-07-plan-van-aanpak-implementatie-bms-voor-medewerkers-v20-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-07-plan-van-aanpak-implementatie-bms-voor-medewerkers-v20-concept-geanonimiseerd",
+    "sha256": "11ac47b843cc8c586b94f9340547a82414092703e45a2057a74d7d364adc08d6",
+    "retrieved_at": "2026-08-18T06:33:45+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-07-plan-van-aanpak-implementatie-bms-voor-medewerkers-v20-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-07-plan-van-aanpak-implementatie-bms-voor-medewerkers-v20-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1c2cfeca-95bf-488f-bcdd-6d1a7e7c3d92/doc-08-voorlegger-rvb-8-juli-2025-herijkt-projectplan-bms-fase-1-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-08-voorlegger-rvb-8-juli-2025-herijkt-projectplan-bms-fase-1-concept-geanonimiseerd",
+    "sha256": "8939965e71540f86cdf20db5e42a66731007ac91937ed87354eeea01857409d1",
+    "retrieved_at": "2026-08-18T06:33:48+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-08-voorlegger-rvb-8-juli-2025-herijkt-projectplan-bms-fase-1-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-08-voorlegger-rvb-8-juli-2025-herijkt-projectplan-bms-fase-1-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5bd01c0c-c027-4c95-9791-091dea2c0d3e/doc-09-voorlegger-rvb-afwijkingsrapportage-bms-fase-1-rvb-9-december-2025-20251201-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-09-voorlegger-rvb-afwijkingsrapportage-bms-fase-1-rvb-9-december-2025-20251201-concept-geanonimiseerd",
+    "sha256": "89f46d72d796ded399a012b50d97cb4bd14ca3327bd0d9f4e99c33861c0e1b53",
+    "retrieved_at": "2026-08-18T06:33:51+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-09-voorlegger-rvb-afwijkingsrapportage-bms-fase-1-rvb-9-december-2025-20251201-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-09-voorlegger-rvb-afwijkingsrapportage-bms-fase-1-rvb-9-december-2025-20251201-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cd95fbec-e204-4e2c-82c3-eb9a521af61c/doc-10-voorlegger-vervolgpilots-bms-10-concept-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten",
+    "pdf_slug": "2026-08-04-doc-10-voorlegger-vervolgpilots-bms-10-concept-geanonimiseerd",
+    "sha256": "3e52f8d255a87aac4d2d6a3009e51a3eb5691da0a7cc4f7843a5b6d442e86e3f",
+    "retrieved_at": "2026-08-18T06:33:53+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-10-voorlegger-vervolgpilots-bms-10-concept-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-beoordeling-matchingtool-en-samenhangende-documenten/2026-08-04-doc-10-voorlegger-vervolgpilots-bms-10-concept-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d0df2336-a947-45ad-b443-c83d6892586f/woo-besluit-2026080.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-aantal-iva-uitkeringen-per-horeca-onderdeel",
+    "pdf_slug": "2026-08-04-woo-besluit-2026080",
+    "sha256": "db4db27bd7aac07b4e4fd7107f6cb8e23c7ff3b16dd83573be18faa78beba6c0",
+    "retrieved_at": "2026-08-18T06:33:55+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-aantal-iva-uitkeringen-per-horeca-onderdeel/2026-08-04-woo-besluit-2026080.md",
+      "json": "data/2026-08-04-woo-besluit-aantal-iva-uitkeringen-per-horeca-onderdeel/2026-08-04-woo-besluit-2026080.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f1b43b84-9278-41b3-8238-f4bacf59d3c0/woo-besluit-2026082.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-woo-besluit-2026082",
+    "sha256": "f4bd002f9602e2a54950e2c331631cca3ce907dd302eff1d7b63447a44b5ed7f",
+    "retrieved_at": "2026-08-18T06:33:57+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-woo-besluit-2026082.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-woo-besluit-2026082.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/fc37797b-c590-417e-a819-7d017c97c7c4/doc-01-handboek-wetsuitleg-fiscale-aspecten-werkgeversbetaling-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-01-handboek-wetsuitleg-fiscale-aspecten-werkgeversbetaling-geanonimiseerd",
+    "sha256": "ffe6d64255ffaa0afb937df4774d2f9d4f8fbffbfd22833292cc85ddf1b2f8f4",
+    "retrieved_at": "2026-08-18T06:33:59+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-01-handboek-wetsuitleg-fiscale-aspecten-werkgeversbetaling-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-01-handboek-wetsuitleg-fiscale-aspecten-werkgeversbetaling-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1d142e07-e2d6-4ba3-b461-2a48a990afe2/doc-02-overstap-van-historisch-naar-actueel-vergoeden-premies-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-02-overstap-van-historisch-naar-actueel-vergoeden-premies-geanonimiseerd",
+    "sha256": "73b59edc1d31c2caeab7e9d72863bf576c4af93302817152835c26d888121443",
+    "retrieved_at": "2026-08-18T06:34:02+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-02-overstap-van-historisch-naar-actueel-vergoeden-premies-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-02-overstap-van-historisch-naar-actueel-vergoeden-premies-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/08d194a2-de77-40ca-907a-807755b6a02f/doc-03-werkgeversbetaling-17289-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-03-werkgeversbetaling-17289-geanonimiseerd",
+    "sha256": "87a8177546416da7831b6c4743304b58f60f0bf765fb7aba52ccd88adf4b7b2b",
+    "retrieved_at": "2026-08-18T06:34:04+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-03-werkgeversbetaling-17289-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-03-werkgeversbetaling-17289-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a3d88567-774b-47f1-867f-aa5a9135d15b/doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd",
+    "sha256": "47da3ed9bb65ca6fc39f79bacc8d4c096d173b247241a7ed53b541c19f5b90cc",
+    "retrieved_at": "2026-08-18T06:34:06+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d7ec2b2e-5e6b-4681-adae-0b445b55a2cd/doc-05-rekenwijze-wg-betaling-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-05-rekenwijze-wg-betaling-geanonimiseerd",
+    "sha256": "4d5f8291790b2e1b7cb141d7c16c03dd28d63122aab33888a941cb0dbda8d98f",
+    "retrieved_at": "2026-08-18T06:34:07+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-05-rekenwijze-wg-betaling-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-05-rekenwijze-wg-betaling-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/24ff1992-ce7c-41d5-9d6e-4fdc25a9c60d/doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd",
+    "sha256": "3834f6699bff5c5be1af12d93e9376b6591414cc622135ef5c66b3544473ba44",
+    "retrieved_at": "2026-08-18T06:34:08+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-06-rekenvoorbeeld-wg-betaling-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a512ba5d-e87b-4154-b76c-e4a3a5f5ef80/doc-07-soorten-betalingen-bij-uwv-en-de-gevolgen-daarvan-voor-de-loon-en-premieheffing-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+    "pdf_slug": "2026-08-04-doc-07-soorten-betalingen-bij-uwv-en-de-gevolgen-daarvan-voor-de-loon-en-premieheffing-geanonimiseerd",
+    "sha256": "34a9056e4c50ac5e43861c15222dde1d9b0523783edfae874fdb3e6af1806513",
+    "retrieved_at": "2026-08-18T06:34:12+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-07-soorten-betalingen-bij-uwv-en-de-gevolgen-daarvan-voor-de-loon-en-premieheffing-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-07-soorten-betalingen-bij-uwv-en-de-gevolgen-daarvan-voor-de-loon-en-premieheffing-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/97794672-223d-4893-916e-346828feadfb/woo-besluit-2026062.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-woo-besluit-2026062",
+    "sha256": "e9743877e714d2e2bf70f28c9b03c0f0de7f557d361619d6cd6b903ef441dd86",
+    "retrieved_at": "2026-08-18T06:34:15+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-woo-besluit-2026062.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-woo-besluit-2026062.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6298a3af-e0ea-438e-b8a4-3180d9c55f55/acties-met-documenten-uitvoeren-handboek-uwv.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-acties-met-documenten-uitvoeren-handboek-uwv",
+    "sha256": "d1ef7080d7baace0a3c099cbf900c3fc1ed5e49bebbfab87e059fb4e05146c08",
+    "retrieved_at": "2026-08-18T06:34:17+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-acties-met-documenten-uitvoeren-handboek-uwv.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-acties-met-documenten-uitvoeren-handboek-uwv.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/01320576-32fa-4253-81ac-3cc58bc82d11/geheimhouding-handboek-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-geheimhouding-handboek-uwv-geanonimiseerd",
+    "sha256": "b804ac9d216ac003fc95d72b79d5038e6387f9ccf63a198125946c55c9f70916",
+    "retrieved_at": "2026-08-18T06:34:19+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-geheimhouding-handboek-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-geheimhouding-handboek-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b7fb0508-9fed-4d26-8fe9-6b2355925ae3/handreiking-correctieverzoeken-avg-2024-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-handreiking-correctieverzoeken-avg-2024-geanonimiseerd",
+    "sha256": "d1c349c6168fa21560f6985b563c84acd75752aa59f363d95b625e37ed47e59e",
+    "retrieved_at": "2026-08-18T06:34:21+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-correctieverzoeken-avg-2024-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-correctieverzoeken-avg-2024-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e6112268-7049-4118-8dd9-5bac99489409/handreiking-inzagerecht-avg-2024-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-handreiking-inzagerecht-avg-2024-geanonimiseerd",
+    "sha256": "377e82ba3309c0d8a03902a4cd564a94da69db9994b90474ba9d440d3669a9e7",
+    "retrieved_at": "2026-08-18T06:34:23+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-inzagerecht-avg-2024-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-inzagerecht-avg-2024-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0222b9fc-e75e-498e-9a92-9cfa94fde9bc/handreiking-verwijderrecht-avg-2024-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-handreiking-verwijderrecht-avg-2024-geanonimiseerd",
+    "sha256": "a730f35169b759b89573c11c6bfd31acd14a30af2488de8b6e515b551e8edeb0",
+    "retrieved_at": "2026-08-18T06:34:25+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-verwijderrecht-avg-2024-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-handreiking-verwijderrecht-avg-2024-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/bb3b17b7-079c-41b2-880c-388a597cb365/ibp-handleiding-avg-verzoeken-10-2026-woo-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-ibp-handleiding-avg-verzoeken-10-2026-woo-geanonimiseerd",
+    "sha256": "44ff09de40f84302a519aa7ea67c7995c00a87047665742084c095d929850aeb",
+    "retrieved_at": "2026-08-18T06:34:30+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-ibp-handleiding-avg-verzoeken-10-2026-woo-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-ibp-handleiding-avg-verzoeken-10-2026-woo-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0e710ab0-cf0f-461b-8beb-8b23cc0a3c42/inzageverzoek-in-logoverzichten-uitkeren-003-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-inzageverzoek-in-logoverzichten-uitkeren-003-geanonimiseerd",
+    "sha256": "33463ce61ccd46de860650f867830f8143b874c72efda952101639beda630480",
+    "retrieved_at": "2026-08-18T06:34:32+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-inzageverzoek-in-logoverzichten-uitkeren-003-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-inzageverzoek-in-logoverzichten-uitkeren-003-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9fb571c6-31c6-4091-86bc-09acc0f9363d/medische-documenten-handboek-uwv.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-medische-documenten-handboek-uwv",
+    "sha256": "bef506c1c3530b19765365da8fd809e50a8885aedd8cb44e4a208b688c465c07",
+    "retrieved_at": "2026-08-18T06:34:33+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-medische-documenten-handboek-uwv.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-medische-documenten-handboek-uwv.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d27fad95-1c66-4b06-aa15-95d4c9ac802b/richtlijn-bmg-versie-maart-2010.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-richtlijn-bmg-versie-maart-2010",
+    "sha256": "a2d0097b138d37022c7be5fc2658f9f53e7b031c09402926673165b2b394a4b0",
+    "retrieved_at": "2026-08-18T06:34:44+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-richtlijn-bmg-versie-maart-2010.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-richtlijn-bmg-versie-maart-2010.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4cfa08d6-8035-46b9-9664-87476766298f/verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv",
+    "sha256": "5582495691281ec96151bbb5bbf942d28255501d00c25d5028d1f7f1f11f4055",
+    "retrieved_at": "2026-08-18T06:34:48+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwerken-aanvullende-gegevens-enof-wijziging-handboek-uwv.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e38de6dd-356c-4440-a34b-9dc90f2df13a/verwijderen-document-uit-werkgeversarchief-handboek-uwv.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-verwijderen-document-uit-werkgeversarchief-handboek-uwv",
+    "sha256": "d4298ba848303c1e0bd5a085fb7c3ad20e8934535314fd6b5f446cd47c3b4f59",
+    "retrieved_at": "2026-08-18T06:34:49+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwijderen-document-uit-werkgeversarchief-handboek-uwv.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwijderen-document-uit-werkgeversarchief-handboek-uwv.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/fbd8e655-8f9c-4dcd-8764-d17774eb6301/verwijderen-document-uit-werknemersarchief-handboek-uwv.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-verwijderen-document-uit-werknemersarchief-handboek-uwv",
+    "sha256": "f459754de7bf000a566e36784f75505794b1b5b96e4fa5a0c22837326071a1f3",
+    "retrieved_at": "2026-08-18T06:34:51+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwijderen-document-uit-werknemersarchief-handboek-uwv.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-verwijderen-document-uit-werknemersarchief-handboek-uwv.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/fab7bb33-20cc-4377-b7be-515f47c150b7/woo-besluit-2026068.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-woo-besluit-2026068",
+    "sha256": "c9ce60d8cc3a7083a1dc53b907d401fa3c7535bd31238f93dd055aac6df160ab",
+    "retrieved_at": "2026-08-18T06:34:53+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-woo-besluit-2026068.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-woo-besluit-2026068.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a15e2d2f-2fdb-4dcb-a541-975926dd985e/afhandelen-terugvordering-of-verrekening-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-afhandelen-terugvordering-of-verrekening-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "b2c588bd4531e9da8bfe9224a22aef92c4d0a29e53308b4949c5cbd543f3f07d",
+    "retrieved_at": "2026-08-18T06:34:55+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-afhandelen-terugvordering-of-verrekening-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-afhandelen-terugvordering-of-verrekening-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/76db4a26-486c-4be1-9995-3e3cf34b444e/bijlage-1-handboek-wetsuitleg-ww-tw-iow-hoofdstuk-3-van-uitkeringshoogte-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-bijlage-1-handboek-wetsuitleg-ww-tw-iow-hoofdstuk-3-van-uitkeringshoogte-geanonimiseerd",
+    "sha256": "c2f3bde187cb712f79d9f6228c23714c34c3ac0456e31d3754c56711d49ced31",
+    "retrieved_at": "2026-08-18T06:35:09+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-bijlage-1-handboek-wetsuitleg-ww-tw-iow-hoofdstuk-3-van-uitkeringshoogte-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-bijlage-1-handboek-wetsuitleg-ww-tw-iow-hoofdstuk-3-van-uitkeringshoogte-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8b501ca6-7884-4225-88eb-ca58e8dd86fd/bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "9a83293209109fd87d6ec16f536f3310f240fe2f402054ab763180daf9bcc94c",
+    "retrieved_at": "2026-08-18T06:35:12+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-bruto-twk-afhandelen-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5d430bbc-a65a-4e5b-90d3-742c6ebd99ef/directe-verrekening-bij-controlemaand-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-directe-verrekening-bij-controlemaand-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "d7e9c68e9abda6c8f8e13bdd92833b53dd77dd3bc09083a862f4e67fba577b7e",
+    "retrieved_at": "2026-08-18T06:35:14+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-directe-verrekening-bij-controlemaand-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-directe-verrekening-bij-controlemaand-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/44da37ad-12e1-4ace-8c9b-751c11fc8bef/handleiding-handboekenwebsite-uwv-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-handleiding-handboekenwebsite-uwv-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "2734dada4054350a44e5039959016da911af349a57afb533da916d8cb7f92879",
+    "retrieved_at": "2026-08-18T06:35:16+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-handleiding-handboekenwebsite-uwv-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-handleiding-handboekenwebsite-uwv-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/052aa30c-c72e-429f-b8e4-ae403b4ab301/herzien-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-herzien-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "ed48498c0f5fa6494a6d35d0d47598c77a3b8451bd2b53da5ea834e2e22ac93d",
+    "retrieved_at": "2026-08-18T06:35:21+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-herzien-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-herzien-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1cee9d15-6691-45ac-91a8-af5de0226605/herziening-intrekking-beslissing-afhandelen-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-herziening-intrekking-beslissing-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "fd116d60464220a89ffcb4a1749e79863fc7e493b1a4045ff555fb95f6c712b6",
+    "retrieved_at": "2026-08-18T06:35:24+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-herziening-intrekking-beslissing-afhandelen-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-herziening-intrekking-beslissing-afhandelen-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1145acbd-f0b3-4412-9ce5-74b1312c4712/intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "8964cee293967597c38663f7e908fda69164636e828b8afec6c436d8a073f279",
+    "retrieved_at": "2026-08-18T06:35:25+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-intern-verrekenen-wet-vordert-op-zw-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0244bc4a-e332-43a7-aeff-af95fbe36a94/intern-verrekenen-zw-vordert-op-andere-wet-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-intern-verrekenen-zw-vordert-op-andere-wet-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "2dd3bf6d0cde16347b26c2d638062f75083ca52ac40e4d17527bd330a21e8bd8",
+    "retrieved_at": "2026-08-18T06:35:26+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-intern-verrekenen-zw-vordert-op-andere-wet-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-intern-verrekenen-zw-vordert-op-andere-wet-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b74a8c1b-ecbd-4b5f-89a3-55359412a744/interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "1d52513dd12d5fcf1fc9055a252c2ddc89a978cf01f97d106a83ccab5fd7d744",
+    "retrieved_at": "2026-08-18T06:35:29+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-interne-verrekeningen-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/66be76d4-097a-4313-8d78-309f57d3f2c5/restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "8774d0290a95536215055da50d2efe047378c239842053a5e0adb8d8b39e363c",
+    "retrieved_at": "2026-08-18T06:35:35+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-restitutiebetaling-en-verrekening-afhandelen-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8f1b4647-0388-4573-998c-c51f0071d2e6/toetsen-dringende-reden-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-toetsen-dringende-reden-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "bf53b81243d9ed99055b1078b6b0f033c804a1332929b2be556e067a142ff4f1",
+    "retrieved_at": "2026-08-18T06:35:37+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-toetsen-dringende-reden-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-toetsen-dringende-reden-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4d5771c3-a40c-4a0f-843a-d1e272b933a0/uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "788403e4f7e74014ed7631b536b0c6a231e4b776fe03e029b2386862e6380b50",
+    "retrieved_at": "2026-08-18T06:35:38+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b50742b8-d4cb-45ae-bdb7-1e72bfa550f1/uzz5522-beoordelen-ingetrokken-wazo-melding-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-uzz5522-beoordelen-ingetrokken-wazo-melding-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "a2bfec9104083c436e369cca5fced94f78eafb0cc28555f7bbe0f46a4cf585ca",
+    "retrieved_at": "2026-08-18T06:35:39+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-uzz5522-beoordelen-ingetrokken-wazo-melding-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-uzz5522-beoordelen-ingetrokken-wazo-melding-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/adf1471f-ea87-4d34-a0ee-70f82856aa69/verjaring-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-verjaring-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "fbb111d5199263cef4114f3974e9b395be2e438a3c148f25e4fdef6a9dcb7a83",
+    "retrieved_at": "2026-08-18T06:35:41+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-verjaring-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-verjaring-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9afc8fef-f25f-449e-b37e-c8845ff26814/verrekenen-met-interne-vordering-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+    "pdf_slug": "2026-08-04-verrekenen-met-interne-vordering-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "e6de94c338a6e9c49dab6a2cbfc5f73c75dd540180e971be39ccfa5b63b108a9",
+    "retrieved_at": "2026-08-18T06:35:43+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-verrekenen-met-interne-vordering-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-verrekenen-met-interne-vordering-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1d2c6002-1b5b-4d38-9271-bea528ef7b8d/woo-besluit-op-bezwaar-2026041.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-bezwaar-woo-verzoek-aantal-vacatures-functie-zelfstandig-werkend-kok-in-eu-en-eer",
+    "pdf_slug": "2026-08-04-woo-besluit-op-bezwaar-2026041",
+    "sha256": "87f7c50c1472b0aba244b0028364f3dd570ced07cc9d32377c28eea9e9f12a6f",
+    "retrieved_at": "2026-08-18T06:35:45+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-bezwaar-woo-verzoek-aantal-vacatures-functie-zelfstandig-werkend-kok-in-eu-en-eer/2026-08-04-woo-besluit-op-bezwaar-2026041.md",
+      "json": "data/2026-08-04-woo-besluit-bezwaar-woo-verzoek-aantal-vacatures-functie-zelfstandig-werkend-kok-in-eu-en-eer/2026-08-04-woo-besluit-op-bezwaar-2026041.json"
     }
   }
 }

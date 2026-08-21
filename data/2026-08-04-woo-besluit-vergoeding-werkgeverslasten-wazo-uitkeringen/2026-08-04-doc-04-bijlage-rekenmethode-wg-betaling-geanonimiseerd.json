@@ -1,0 +1,3713 @@
+{
+  "source_id": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen/2026-08-04-doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+  "pdf_slug": "2026-08-04-doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-vergoeding-werkgeverslasten-wazo-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/a3d88567-774b-47f1-867f-aa5a9135d15b/doc-04-bijlage-rekenmethode-wg-betaling-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over vergoeding werkgeverslasten bij WAZO-uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Bijlage rekenmethode wg-betaling (PDF, 1 MB)",
+  "retrieved_at": "2026-08-18T06:34:06+00:00",
+  "sha256": "47da3ed9bb65ca6fc39f79bacc8d4c096d173b247241a7ed53b541c19f5b90cc",
+  "page_count": 3,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.0,
+        31.01,
+        440.75,
+        40.01
+      ],
+      "text": "Bijlage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        67.01,
+        94.25,
+        77.01
+      ],
+      "text": "uwv",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.0,
+        84.0,
+        429.33,
+        89.0
+      ],
+      "text": "Datum",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.0,
+        94.01,
+        448.8,
+        100.01
+      ],
+      "text": "19-4-2006",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        109.01,
+        423.0,
+        117.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        67.0,
+        113.01,
+        100.3,
+        119.01
+      ],
+      "text": "Onderwerp",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        119.01,
+        469.0,
+        128.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        67.0,
+        123.01,
+        254.57,
+        130.01
+      ],
+      "text": "Bijl Rek bij k betali",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        149.0,
+        124.0,
+        152.2,
+        125.0
+      ],
+      "text": "ijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        101.0,
+        124.01,
+        105.67,
+        131.01
+      ],
+      "text": "1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        73.0,
+        125.01,
+        275.33,
+        132.01
+      ],
+      "text": "IJlage ekenwijze bij werkgeversbetalingen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        460.0,
+        129.01,
+        486.0,
+        143.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        410.0,
+        131.01,
+        454.5,
+        137.01
+      ],
+      "text": "T 687",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        419.0,
+        131.01,
+        437.33,
+        139.01
+      ],
+      "text": "(020)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        410.0,
+        141.01,
+        481.0,
+        150.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        490.0,
+        142.01,
+        511.43,
+        148.01
+      ],
+      "text": "uwv.nl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.0,
+        160.01,
+        429.86,
+        166.01
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        411.0,
+        170.01,
+        438.0,
+        176.01
+      ],
+      "text": "1 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        418.0,
+        172.0,
+        428.5,
+        177.0
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        197.01,
+        76.33,
+        204.01
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        83.0,
+        197.01,
+        210.92,
+        206.01
+      ],
+      "text": "Achtergrond problematiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.0,
+        209.01,
+        127.17,
+        216.01
+      ],
+      "text": "maart",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        136.0,
+        209.01,
+        439.25,
+        217.01
+      ],
+      "text": "2006 hebben meerdere bezwaar het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        447.0,
+        209.01,
+        467.8,
+        218.01
+      ],
+      "text": "UWV,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        209.01,
+        420.25,
+        219.01
+      ],
+      "text": "Begin werkgevers gemaakt bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        222.01,
+        386.75,
+        230.01
+      ],
+      "text": "omdat hebben de door hen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        249.0,
+        222.01,
+        295.8,
+        231.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.0,
+        222.01,
+        446.91,
+        232.01
+      ],
+      "text": "zij vergoeding afgedragen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        306.0,
+        224.01,
+        323.6,
+        230.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        121.0,
+        224.01,
+        139.4,
+        232.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        204.0,
+        234.01,
+        482.25,
+        242.01
+      ],
+      "text": "wordt veroorzaakt door de berekenen het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        136.0,
+        234.01,
+        196.0,
+        244.01
+      ],
+      "text": "problematiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        118.0,
+        235.01,
+        126.67,
+        243.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        235.01,
+        362.83,
+        245.01
+      ],
+      "text": "premies. wijze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        371.0,
+        236.01,
+        461.75,
+        242.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        117.0,
+        247.01,
+        421.0,
+        255.01
+      ],
+      "text": "Excasso de nieuwe rekenmethodiek als de Wet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        333.0,
+        247.01,
+        484.46,
+        257.01
+      ],
+      "text": "gevolg Financiering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        248.01,
+        106.88,
+        257.01
+      ],
+      "text": "systeem",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        160.0,
+        249.01,
+        381.75,
+        255.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        260.01,
+        421.36,
+        268.01
+      ],
+      "text": "Sociale In dit worden enkele alternatieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        110.0,
+        260.01,
+        476.9,
+        270.01
+      ],
+      "text": "Verzekering (WFSV). besproken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        249.0,
+        262.01,
+        273.8,
+        268.01
+      ],
+      "text": "memo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        273.01,
+        187.86,
+        281.01
+      ],
+      "text": "die dit kunnen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.0,
+        273.01,
+        238.4,
+        283.01
+      ],
+      "text": "probleem oplossen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        126.0,
+        285.01,
+        295.0,
+        293.01
+      ],
+      "text": "kan de leiden dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        163.0,
+        285.01,
+        476.37,
+        295.01
+      ],
+      "text": "werkwijze werkgevers bij volgende betalingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        230.0,
+        286.01,
+        242.0,
+        293.01
+      ],
+      "text": "toe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        286.01,
+        116.9,
+        294.01
+      ],
+      "text": "Daarnaast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        217.0,
+        287.01,
+        223.67,
+        293.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        298.01,
+        353.33,
+        306.01
+      ],
+      "text": "worden Dit wordt in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        111.0,
+        298.01,
+        454.2,
+        308.01
+      ],
+      "text": "geconfronteerd naijleffecten. volgende paragraaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        192.0,
+        299.01,
+        206.25,
+        306.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        311.01,
+        121.91,
+        319.01
+      ],
+      "text": "beschreven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        85.0,
+        336.01,
+        209.31,
+        346.01
+      ],
+      "text": "Gevolgen problematiek",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        337.01,
+        77.0,
+        345.01
+      ],
+      "text": "2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        349.01,
+        463.5,
+        357.01
+      ],
+      "text": "Vanaf 1 2006 is de terreinen veranderd. Dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        112.0,
+        349.01,
+        291.77,
+        359.01
+      ],
+      "text": "januari premieberekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        317.0,
+        350.01,
+        336.2,
+        357.01
+      ],
+      "text": "twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        302.0,
+        351.01,
+        310.0,
+        359.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        133.0,
+        362.01,
+        143.5,
+        369.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        362.01,
+        462.33,
+        370.01
+      ],
+      "text": "heeft Allereerst wordt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        100.0,
+        362.01,
+        447.25,
+        372.01
+      ],
+      "text": "geleid problemen bij werkgeversbetalingen. bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        425.0,
+        364.01,
+        431.67,
+        370.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        256.0,
+        375.01,
+        270.25,
+        382.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        152.0,
+        375.01,
+        400.78,
+        383.01
+      ],
+      "text": "de waardoor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        375.01,
+        481.14,
+        385.01
+      ],
+      "text": "berekening premies gewerkt loontijdvakken, premie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        130.0,
+        377.01,
+        416.67,
+        383.01
+      ],
+      "text": "van er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        424.0,
+        377.01,
+        442.4,
+        385.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        387.01,
+        383.86,
+        395.01
+      ],
+      "text": "wordt die hebben",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.0,
+        387.01,
+        476.8,
+        397.01
+      ],
+      "text": "vergoed bij werkgeversbetalingen betrekking voorgaand",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        409.0,
+        389.01,
+        421.75,
+        395.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        393.0,
+        389.01,
+        401.0,
+        397.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        98.0,
+        400.01,
+        351.63,
+        408.01
+      ],
+      "text": "In de Coördinatiewet Sociale",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        400.01,
+        459.33,
+        410.01
+      ],
+      "text": "jaar. voorgaande jaren Verzekeringen (CSV)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        204.0,
+        402.01,
+        481.75,
+        408.01
+      ],
+      "text": "was van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        132.0,
+        413.01,
+        365.33,
+        421.01
+      ],
+      "text": "die berekende basis ‘te bereiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        413.01,
+        426.33,
+        423.01
+      ],
+      "text": "toepassing, premie loondagen’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        290.0,
+        415.01,
+        302.75,
+        421.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        245.0,
+        415.01,
+        253.0,
+        423.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        161.0,
+        426.01,
+        399.33,
+        434.01
+      ],
+      "text": "dit worden beschreven in 3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        426.01,
+        386.2,
+        436.01
+      ],
+      "text": "Oplossingen probleem paragraaf",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        135.0,
+        428.01,
+        152.6,
+        434.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        451.01,
+        315.9,
+        459.01
+      ],
+      "text": "Ten tweede is nieuwe berekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        218.0,
+        451.01,
+        486.12,
+        461.01
+      ],
+      "text": "wijze voorgeschreven: Voortschrijdend",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        144.0,
+        453.01,
+        259.75,
+        459.01
+      ],
+      "text": "er een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        464.01,
+        365.5,
+        472.01
+      ],
+      "text": "Cumulatief Nu deze onterecht ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        129.0,
+        464.01,
+        382.25,
+        474.01
+      ],
+      "text": "(VCR). berekeningswijze bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        185.0,
+        477.01,
+        484.0,
+        485.01
+      ],
+      "text": "wordt kunnen Dit effect",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        217.0,
+        477.01,
+        261.1,
+        486.01
+      ],
+      "text": "toegepast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        477.01,
+        432.3,
+        487.01
+      ],
+      "text": "werkgeversbetalingen naijleffecten optreden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        311.0,
+        479.01,
+        317.67,
+        485.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        489.01,
+        438.25,
+        497.01
+      ],
+      "text": "treedt als die wel heeft het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        152.0,
+        489.01,
+        480.25,
+        499.01
+      ],
+      "text": "bij volgende betaling, betrekking lopende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        138.0,
+        491.01,
+        180.75,
+        497.01
+      ],
+      "text": "er een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        105.0,
+        491.01,
+        419.0,
+        499.01
+      ],
+      "text": "op op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        148.0,
+        502.01,
+        475.0,
+        510.01
+      ],
+      "text": "wordt het totaal in 2006. In deze situatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        502.01,
+        348.14,
+        512.01
+      ],
+      "text": "jaar, gerekend uitgekeerde bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        181.0,
+        503.01,
+        195.25,
+        510.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        198.0,
+        515.01,
+        223.71,
+        522.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        515.01,
+        377.33,
+        523.01
+      ],
+      "text": "zal het dat de niet is de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        108.0,
+        515.01,
+        469.67,
+        525.01
+      ],
+      "text": "bedrag bij betaling vergoed bij volgende betaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        185.0,
+        528.01,
+        191.0,
+        535.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        528.01,
+        488.33,
+        536.01
+      ],
+      "text": "worden betaald. Dit is zien in het dat is in 2.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        255.0,
+        528.01,
+        474.0,
+        538.01
+      ],
+      "text": "rekenvoorbeeld, bijlage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        371.0,
+        530.01,
+        423.2,
+        538.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        134.0,
+        553.01,
+        208.33,
+        561.01
+      ],
+      "text": "hebben door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        553.01,
+        426.61,
+        563.01
+      ],
+      "text": "Werkgevers problematiek weinig werkgeverspremies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        285.0,
+        554.01,
+        291.0,
+        561.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        436.0,
+        554.01,
+        482.8,
+        563.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        566.01,
+        483.2,
+        574.01
+      ],
+      "text": "als slechts hebben Hun eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        238.0,
+        566.01,
+        284.8,
+        575.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        88.0,
+        566.01,
+        406.86,
+        576.01
+      ],
+      "text": "zij betalingen voorgaande jaren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        295.0,
+        568.01,
+        312.6,
+        574.01
+      ],
+      "text": "over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        417.0,
+        579.01,
+        423.0,
+        586.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        579.01,
+        459.0,
+        587.01
+      ],
+      "text": "claim is terecht. Als wordt besloten de schadeloos stellen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        267.0,
+        579.01,
+        351.29,
+        589.01
+      ],
+      "text": "werkgevers gelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        467.0,
+        581.01,
+        484.6,
+        587.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        591.01,
+        471.0,
+        599.01
+      ],
+      "text": "de onterecht dan wel worden bedacht dat hiermee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        283.0,
+        592.01,
+        303.0,
+        599.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        138.0,
+        592.01,
+        152.4,
+        600.01
+      ],
+      "text": "niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        161.0,
+        592.01,
+        207.8,
+        601.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        217.0,
+        592.01,
+        251.12,
+        602.01
+      ],
+      "text": "premies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        146.0,
+        604.01,
+        152.67,
+        611.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        118.0,
+        604.01,
+        467.5,
+        612.01
+      ],
+      "text": "dient worden in 2006.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        604.01,
+        421.81,
+        614.01
+      ],
+      "text": "rekening gehouden bij volgende werkgeversbetalingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        70.0,
+        616.01,
+        295.33,
+        624.01
+      ],
+      "text": "Anders zullen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        142.0,
+        616.01,
+        447.2,
+        626.01
+      ],
+      "text": "werkgevers gevolge VCR-systematiek hoge",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        203.0,
+        617.01,
+        420.0,
+        624.01
+      ],
+      "text": "ten te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.0,
+        618.01,
+        405.75,
+        624.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        209.0,
+        629.01,
+        220.25,
+        637.01
+      ],
+      "text": "het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        629.01,
+        121.0,
+        639.01
+      ],
+      "text": "vergoeding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        229.0,
+        630.01,
+        249.8,
+        638.01
+      ],
+      "text": "UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        130.0,
+        630.01,
+        176.8,
+        639.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        187.0,
+        631.01,
+        199.75,
+        637.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        655.01,
+        77.67,
+        663.01
+      ],
+      "text": "3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        85.0,
+        655.01,
+        151.46,
+        665.01
+      ],
+      "text": "Oplossingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        154.0,
+        667.01,
+        376.5,
+        675.01
+      ],
+      "text": "de dat hetzelfde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        667.01,
+        415.14,
+        677.01
+      ],
+      "text": "Doelstelling gekozen oplossing bedrag",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        266.0,
+        668.01,
+        286.0,
+        675.01
+      ],
+      "text": "moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        295.0,
+        668.01,
+        480.12,
+        678.01
+      ],
+      "text": "zijn premies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        133.0,
+        669.01,
+        436.75,
+        675.01
+      ],
+      "text": "van aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        680.01,
+        394.33,
+        688.01
+      ],
+      "text": "wordt dat de heeft zal de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        103.0,
+        680.01,
+        466.43,
+        690.01
+      ],
+      "text": "vergoed, werkgever afgedragen. praktijk lastig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        336.0,
+        681.01,
+        379.33,
+        689.01
+      ],
+      "text": "Het in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        474.0,
+        681.01,
+        487.6,
+        691.01
+      ],
+      "text": "zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        90.0,
+        693.01,
+        453.33,
+        701.01
+      ],
+      "text": "dit omdat het niet zal achterhalen de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        120.0,
+        693.01,
+        340.6,
+        703.01
+      ],
+      "text": "realiseren, eenvoudig zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        106.0,
+        694.01,
+        437.5,
+        701.01
+      ],
+      "text": "te te wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        695.01,
+        81.0,
+        701.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        127.0,
+        706.01,
+        147.83,
+        714.01
+      ],
+      "text": "heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        71.0,
+        706.01,
+        190.12,
+        716.01
+      ],
+      "text": "werkgever gedaan.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        410.0,
+        30.01,
+        440.62,
+        40.01
+      ],
+      "text": "Bijlage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        410.0,
+        83.01,
+        429.71,
+        91.01
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        410.0,
+        93.01,
+        438.5,
+        102.01
+      ],
+      "text": "2 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        418.0,
+        94.01,
+        429.25,
+        102.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        157.01,
+        448.57,
+        168.01
+      ],
+      "text": "Procesmatig kan dit doel verschillende manieren worden bereikt. BPO-FA",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        198.0,
+        159.01,
+        206.67,
+        168.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        120.0,
+        170.01,
+        126.67,
+        180.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        170.01,
+        316.9,
+        181.01
+      ],
+      "text": "adviseert kiezen de ‘historische methode’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        169.0,
+        172.01,
+        187.4,
+        181.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        182.01,
+        168.37,
+        193.01
+      ],
+      "text": "Historische methode",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        195.01,
+        449.7,
+        206.01
+      ],
+      "text": "Onder de historische methode wordt dit verband het berekenen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        331.0,
+        196.01,
+        374.2,
+        206.01
+      ],
+      "text": "verstaan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        258.0,
+        196.01,
+        264.0,
+        207.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        459.0,
+        197.01,
+        473.25,
+        206.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        208.01,
+        482.0,
+        219.01
+      ],
+      "text": "sv-premies bij werkgeversbetalingen toepassing de premies die golden in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        259.0,
+        209.01,
+        274.0,
+        219.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        340.0,
+        210.01,
+        354.25,
+        219.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        221.01,
+        309.71,
+        232.01
+      ],
+      "text": "de periode de betaling betrekking heeft.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.0,
+        223.01,
+        158.71,
+        232.01
+      ],
+      "text": "waarop",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        91.0,
+        233.01,
+        415.75,
+        244.01
+      ],
+      "text": "volgen deze werkwijze betekent bijvoorbeeld dat bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        234.01,
+        398.0,
+        245.01
+      ],
+      "text": "Het Excasso",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        128.0,
+        235.01,
+        436.25,
+        244.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        246.01,
+        435.67,
+        257.01
+      ],
+      "text": "werkgeversbetaling 2006 november 2005 rekent de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        404.0,
+        247.01,
+        419.0,
+        257.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        172.0,
+        247.01,
+        477.0,
+        258.01
+      ],
+      "text": "in januari premies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        256.0,
+        248.01,
+        274.4,
+        257.01
+      ],
+      "text": "over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        248.0,
+        252.0,
+        363.0,
+        257.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.0,
+        259.01,
+        170.17,
+        270.01
+      ],
+      "text": "november 2005.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        261.01,
+        84.25,
+        270.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        272.01,
+        453.22,
+        283.01
+      ],
+      "text": "Voordeel: UWV is niet afhankelijk derden (de werkgever) bij de bepaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        242.0,
+        274.01,
+        475.25,
+        283.01
+      ],
+      "text": "van van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        284.01,
+        194.13,
+        295.01
+      ],
+      "text": "het vergoeden bedrag.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        90.0,
+        285.01,
+        96.67,
+        295.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        297.01,
+        451.25,
+        308.01
+      ],
+      "text": "Nadeel: historische methode zal alle gevallen leiden dat die",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        368.0,
+        298.01,
+        380.0,
+        308.01
+      ],
+      "text": "toe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        113.0,
+        298.01,
+        295.0,
+        309.01
+      ],
+      "text": "De niet in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        253.0,
+        299.01,
+        260.33,
+        308.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        310.01,
+        373.91,
+        321.01
+      ],
+      "text": "premies worden vergoed die de werkgever heeft afgedragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        323.01,
+        260.75,
+        334.01
+      ],
+      "text": "Dit kan de volgende oorzaken hebben:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        335.01,
+        476.67,
+        346.01
+      ],
+      "text": "Berekeningssystematiek werkgever: de werkgever werkt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        445.0,
+        336.01,
+        460.0,
+        346.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        293.0,
+        336.01,
+        332.37,
+        347.01
+      ],
+      "text": "Wanneer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        339.01,
+        90.5,
+        346.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        348.01,
+        372.7,
+        359.01
+      ],
+      "text": "VCR-systematiek kan dit betekenen dat de werkgever",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        422.0,
+        349.01,
+        458.0,
+        359.01
+      ],
+      "text": "moment",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        397.0,
+        349.01,
+        414.6,
+        360.01
+      ],
+      "text": "enig",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        381.0,
+        350.01,
+        389.67,
+        359.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        467.0,
+        352.01,
+        470.5,
+        359.01
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        361.01,
+        421.0,
+        372.01
+      ],
+      "text": "bijvoorbeeld als gevolg hoge nabetaling premie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        226.0,
+        363.01,
+        450.8,
+        372.01
+      ],
+      "text": "van een geen meer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        353.0,
+        365.01,
+        356.5,
+        372.01
+      ],
+      "text": "–",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        374.01,
+        465.5,
+        385.01
+      ],
+      "text": "inhoudt omdat het premiemaximum is bereikt. In deze situatie is ook",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        438.0,
+        376.01,
+        445.33,
+        385.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        134.0,
+        386.01,
+        293.65,
+        397.01
+      ],
+      "text": "reden premievergoeding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        302.0,
+        387.01,
+        308.67,
+        397.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        388.01,
+        344.14,
+        397.01
+      ],
+      "text": "geen om een geven.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        399.01,
+        449.75,
+        410.01
+      ],
+      "text": "Tijdstip betalen werkgever: mogelijk dat de werkgever bij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        270.0,
+        400.01,
+        296.33,
+        411.01
+      ],
+      "text": "Het is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        146.0,
+        401.01,
+        470.25,
+        410.01
+      ],
+      "text": "van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        403.01,
+        90.5,
+        410.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        412.01,
+        480.08,
+        423.01
+      ],
+      "text": "jaarovergang betaalt in ander jaar dan het loon verschuldigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.0,
+        414.01,
+        368.78,
+        423.01
+      ],
+      "text": "een waarover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        343.0,
+        425.01,
+        395.72,
+        435.01
+      ],
+      "text": "parameters",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        425.01,
+        467.4,
+        436.01
+      ],
+      "text": "is. De werkgever hanteert dan wellicht andere dan het UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        122.0,
+        437.01,
+        470.64,
+        448.01
+      ],
+      "text": "nadeel verder dat de de vijf voorgaande",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        92.0,
+        438.01,
+        337.75,
+        448.01
+      ],
+      "text": "groot parameters ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        438.01,
+        374.14,
+        449.01
+      ],
+      "text": "Een is minste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        303.0,
+        439.01,
+        317.25,
+        448.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        141.0,
+        450.01,
+        223.78,
+        461.01
+      ],
+      "text": "worden bewaard.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        100.0,
+        451.01,
+        132.57,
+        461.01
+      ],
+      "text": "moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        451.01,
+        91.67,
+        462.01
+      ],
+      "text": "jaren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        476.01,
+        132.21,
+        487.01
+      ],
+      "text": "Alternatieven",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        91.0,
+        488.01,
+        481.75,
+        499.01
+      ],
+      "text": "probleem kan ook andere worden opgelost. Gedacht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        489.01,
+        346.67,
+        500.01
+      ],
+      "text": "Het procesmatig manieren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        250.0,
+        490.01,
+        258.67,
+        499.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        501.01,
+        278.08,
+        512.01
+      ],
+      "text": "kan worden de volgende oplossingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        133.0,
+        503.01,
+        147.25,
+        512.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        514.01,
+        462.25,
+        525.01
+      ],
+      "text": "Eindafrekening het eind het jaar: het eind het jaar via",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        185.0,
+        516.01,
+        483.25,
+        525.01
+      ],
+      "text": "aan van aan van een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        518.01,
+        90.5,
+        525.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        227.0,
+        527.01,
+        240.5,
+        537.01
+      ],
+      "text": "wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        527.01,
+        488.08,
+        538.01
+      ],
+      "text": "eindafrekening bepalen werkgever tegoed heeft of verschuldigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        249.0,
+        529.01,
+        421.25,
+        538.01
+      ],
+      "text": "een nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        540.01,
+        115.0,
+        551.01
+      ],
+      "text": "is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        552.01,
+        394.57,
+        563.01
+      ],
+      "text": "Daadwerkelijk gehanteerde vergoeden: bij iedere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        247.0,
+        553.01,
+        282.0,
+        564.01
+      ],
+      "text": "premies",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        556.01,
+        90.5,
+        563.01
+      ],
+      "text": "-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        565.01,
+        434.67,
+        576.01
+      ],
+      "text": "werkgeversbetaling welke de werkgever heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        280.0,
+        566.01,
+        332.72,
+        576.01
+      ],
+      "text": "parameters",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        208.0,
+        567.01,
+        239.71,
+        576.01
+      ],
+      "text": "nagaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        106.0,
+        578.01,
+        161.91,
+        589.01
+      ],
+      "text": "gehanteerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        102.0,
+        590.01,
+        485.86,
+        601.01
+      ],
+      "text": "bezwaar beide methodes dat de werkgever zal worden geconfronteerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        591.01,
+        258.33,
+        602.01
+      ],
+      "text": "Groot is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        147.0,
+        592.01,
+        161.25,
+        601.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        603.01,
+        85.0,
+        613.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        115.0,
+        603.01,
+        468.6,
+        614.01
+      ],
+      "text": "forse administratieve last. Het voordeel dat de werkgever het eind",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        93.0,
+        605.01,
+        489.25,
+        614.01
+      ],
+      "text": "een aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        232.0,
+        616.01,
+        391.17,
+        626.01
+      ],
+      "text": "ontvangen weegt tegen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        616.01,
+        360.2,
+        627.01
+      ],
+      "text": "het jaar het juiste bedrag heeft hier niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        399.0,
+        618.01,
+        411.0,
+        627.01
+      ],
+      "text": "op.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        641.01,
+        106.45,
+        652.01
+      ],
+      "text": "Voorstel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        654.01,
+        479.67,
+        665.01
+      ],
+      "text": "Meest de hand liggende oplossing is volgens BPO-FA de historische methode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        103.0,
+        656.01,
+        121.4,
+        665.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        286.0,
+        667.01,
+        365.67,
+        677.01
+      ],
+      "text": "tot gewenste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        667.01,
+        465.71,
+        678.01
+      ],
+      "text": "Hoewel deze methode niet in alle gevallen het resultaat zal leiden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        470.0,
+        673.0,
+        472.0,
+        678.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        70.0,
+        679.01,
+        382.0,
+        690.01
+      ],
+      "text": "verdient deze oplossing de volgende redenen de voorkeur:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        192.0,
+        681.01,
+        202.67,
+        690.01
+      ],
+      "text": "om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        692.01,
+        344.83,
+        703.01
+      ],
+      "text": "Geen administratieve lasten werkgevers.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        118.0,
+        693.01,
+        139.67,
+        703.01
+      ],
+      "text": "extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        262.0,
+        694.01,
+        280.4,
+        703.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        88.0,
+        705.01,
+        294.67,
+        716.01
+      ],
+      "text": "UWV1 gebruikt deze historische methode.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        410.0,
+        30.01,
+        440.62,
+        40.01
+      ],
+      "text": "Bijlage",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        410.0,
+        83.01,
+        429.71,
+        91.01
+      ],
+      "text": "Pagina",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        410.0,
+        93.01,
+        438.5,
+        102.01
+      ],
+      "text": "3 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        418.0,
+        94.01,
+        429.25,
+        102.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        157.01,
+        484.67,
+        168.01
+      ],
+      "text": "Slechts in uitzonderingsgevallen zal andere premie worden vergoed dan de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        271.0,
+        159.01,
+        285.25,
+        168.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        88.0,
+        170.01,
+        229.91,
+        181.01
+      ],
+      "text": "werkgever heeft afgedragen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        84.0,
+        195.01,
+        132.6,
+        206.01
+      ],
+      "text": "Conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        196.01,
+        77.33,
+        207.01
+      ],
+      "text": "4.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        208.01,
+        448.67,
+        219.01
+      ],
+      "text": "De huidige actuele methode zal worden door de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        232.0,
+        209.01,
+        264.57,
+        219.01
+      ],
+      "text": "moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        314.0,
+        210.01,
+        433.25,
+        219.01
+      ],
+      "text": "vervangen een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        245.0,
+        221.01,
+        260.0,
+        231.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        221.01,
+        476.2,
+        232.01
+      ],
+      "text": "genoemde oplossingen. Doorgaan de actuele methode heeft immers het niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        233.01,
+        435.0,
+        244.01
+      ],
+      "text": "acceptabele gevolg dat gevallen wordt vergoed.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        190.0,
+        234.01,
+        355.0,
+        245.01
+      ],
+      "text": "in sommige premie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        297.0,
+        235.01,
+        317.0,
+        244.01
+      ],
+      "text": "geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        259.01,
+        473.0,
+        270.01
+      ],
+      "text": "Wanneer wordt gekozen het hanteren de historische methode betekent",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        196.0,
+        261.01,
+        304.25,
+        270.01
+      ],
+      "text": "voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        284.0,
+        272.01,
+        480.83,
+        282.01
+      ],
+      "text": "met parameters.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        272.01,
+        415.5,
+        283.01
+      ],
+      "text": "dat dat de vergoedingen worden bepaald behulp historische",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        345.0,
+        274.01,
+        359.25,
+        283.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        86.0,
+        278.0,
+        88.0,
+        283.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        227.0,
+        284.01,
+        457.71,
+        295.01
+      ],
+      "text": "de afgelopen dienen kunnen worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        87.0,
+        285.01,
+        378.67,
+        295.01
+      ],
+      "text": "parameters ten te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        285.01,
+        326.67,
+        296.01
+      ],
+      "text": "De minste 5 jaren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        148.0,
+        286.01,
+        162.25,
+        295.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        297.01,
+        489.75,
+        308.01
+      ],
+      "text": "gehanteerd. loontijdvak dient worden gerekend de die het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        242.0,
+        298.01,
+        437.72,
+        308.01
+      ],
+      "text": "te met parameters",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        135.0,
+        298.01,
+        471.0,
+        309.01
+      ],
+      "text": "Per in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        310.01,
+        162.25,
+        321.01
+      ],
+      "text": "loontijdvak golden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        90.0,
+        335.01,
+        444.54,
+        346.01
+      ],
+      "text": "slot zal besloten worden wordt gedaan de gedupeerde",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        175.0,
+        336.01,
+        366.0,
+        346.01
+      ],
+      "text": "moeten wat met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        336.01,
+        82.75,
+        347.01
+      ],
+      "text": "Tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        348.01,
+        473.29,
+        359.01
+      ],
+      "text": "werkgevers. eventuele claim terecht. worden gecompenseerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        135.0,
+        349.01,
+        353.0,
+        360.01
+      ],
+      "text": "Hun is Wanneer zij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        96.0,
+        361.01,
+        443.11,
+        372.01
+      ],
+      "text": "de niet vergoeding dan zal hier enigerlei wijze rekening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        134.0,
+        362.01,
+        181.7,
+        372.01
+      ],
+      "text": "ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        363.01,
+        467.5,
+        372.01
+      ],
+      "text": "voor op mee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        374.01,
+        102.57,
+        384.01
+      ],
+      "text": "moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        112.0,
+        374.01,
+        470.0,
+        385.01
+      ],
+      "text": "worden gehouden bij eventuele volgende werkgeversbetalingen. Anders",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        70.0,
+        386.01,
+        278.1,
+        397.01
+      ],
+      "text": "kan naijleffect optreden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        136.0,
+        387.01,
+        172.75,
+        397.01
+      ],
+      "text": "gewenst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        114.0,
+        387.01,
+        129.2,
+        398.01
+      ],
+      "text": "niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        92.0,
+        388.01,
+        106.25,
+        397.01
+      ],
+      "text": "een",
+      "source": "text"
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "source_id": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen/2026-08-04-uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd",
+  "publication_slug": "2026-08-04-woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_slug": "2026-08-04-uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-intrekken-terugvorderen-en-verrekenen-uitkeringen",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/4d5771c3-a40c-4a0f-843a-d1e272b933a0/uzv0462-beoordelen-ingetrokken-ziekmelding-handboek-omgeving-uwv-geanonimiseerd.pdf",
+  "publication_title": "Woo-besluit over het intrekken, terugvorderen en verrekenen van uitkeringen",
+  "publication_date": "2026-08-04T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Beoordelen ingetrokken ziekmelding (PDF, 877 kB)",
+  "retrieved_at": "2026-08-18T06:35:38+00:00",
+  "sha256": "788403e4f7e74014ed7631b536b0c6a231e4b776fe03e029b2386862e6380b50",
+  "page_count": 2,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        51.0,
+        158.01,
+        479.0,
+        170.01
+      ],
+      "text": "Home » Proces Backoffice ZW » UC » Completeren aanvraag » UZZ0426 Beoordelen ingetrokken ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        332.02,
+        304.33,
+        355.02
+      ],
+      "text": "Proces Backoffice ZW",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        66.0,
+        382.02,
+        676.5,
+        406.02
+      ],
+      "text": "Afhandelen signaal UZZ0426 Beoordelen ingetrokken ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        430.01,
+        210.22,
+        444.01
+      ],
+      "text": "Procesinformatie Algemeen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        470.01,
+        88.25,
+        484.01
+      ],
+      "text": "Wie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        471.01,
+        549.4,
+        486.01
+      ],
+      "text": "Uitkeringsconsulent (UC)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        490.01,
+        103.75,
+        504.01
+      ],
+      "text": "Divisie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        491.01,
+        523.1,
+        506.01
+      ],
+      "text": "Uitkeren - Ziektewet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        511.01,
+        138.61,
+        525.01
+      ],
+      "text": "Samenvatting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        511.01,
+        717.67,
+        526.01
+      ],
+      "text": "Je ontvangt het signaal en handelt het af. Je beoordeelt de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        531.01,
+        627.0,
+        546.01
+      ],
+      "text": "ontvangen intrekking van de ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        550.01,
+        95.66,
+        564.01
+      ],
+      "text": "Input",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        571.01,
+        99.71,
+        585.01
+      ],
+      "text": "Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        429.0,
+        571.01,
+        699.16,
+        586.01
+      ],
+      "text": "Signaal ‘UZZ0426 Beoordelen ingetrokken ziekmelding’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        591.01,
+        203.0,
+        605.01
+      ],
+      "text": "Termijnen en procesacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        611.01,
+        136.22,
+        625.01
+      ],
+      "text": "Beslistermijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        631.01,
+        132.15,
+        645.01
+      ],
+      "text": "Doorlooptijd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        652.01,
+        101.43,
+        666.01
+      ],
+      "text": "Acties",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        74.0,
+        702.02,
+        239.5,
+        726.02
+      ],
+      "text": "Ontvangen signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        720.01,
+        413.23,
+        735.01
+      ],
+      "text": "Dit signaal staat in je werklijst omdat een ziekmelding is ingetrokken.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        74.0,
+        770.02,
+        246.5,
+        794.02
+      ],
+      "text": "Afhandelen signaal",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        788.01,
+        761.5,
+        803.01
+      ],
+      "text": "Je opent het scherm Selecteer geval verzekerde en beoordeelt met het scherm Beheren aanvraag ZW/ZW-ERD of het om een intrekking van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        807.01,
+        179.67,
+        822.01
+      ],
+      "text": "een ziekmelding gaat.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        838.01,
+        755.67,
+        853.01
+      ],
+      "text": "Je bepaalt welke ziekmelding de werkgever heeft ingetrokken. Je controleert of de ‘Soort aanvraag’ van de intrekking overeenkomt met de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        858.01,
+        747.25,
+        873.01
+      ],
+      "text": "melding waar UZS het ‘Verzoek tot intrekken’ op heeft geregistreerd. Als er meerdere meldingen openstaan met dezelfde ‘1e ao-dag’ , dan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        877.01,
+        748.23,
+        892.01
+      ],
+      "text": "registreert UZS de intrekking op de melding met het laatste volgnummer. Raadpleeg hiervoor eventueel de informatie uit het Voorportaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        908.01,
+        563.22,
+        923.01
+      ],
+      "text": "Je bepaalt of de ziekmelding mag worden ingetrokken volgens de werkinstructie Intrekken melding.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        927.01,
+        276.08,
+        942.01
+      ],
+      "text": "Mag de ziekmelding worden ingetrokken?",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        958.01,
+        114.0,
+        973.01
+      ],
+      "text": "Zo ja:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        962.02,
+        79.0,
+        978.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        978.01,
+        763.67,
+        993.01
+      ],
+      "text": "Registreer een afwijzing van de ziekmelding. Vraag eventueel eerst een akkoord van de cliënt of verstuur een bevestigingsbrief van de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        982.02,
+        94.0,
+        998.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        997.01,
+        151.67,
+        1012.01
+      ],
+      "text": "intrekking.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        1017.01,
+        726.14,
+        1032.01
+      ],
+      "text": "Registreer in UZS een fictieve hersteldatum. Hiermee voorkom je dat SMZ alsnog een Eerstejaars Ziektewet-beoordeling start.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        1021.02,
+        94.0,
+        1037.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        1036.01,
+        412.0,
+        1051.01
+      ],
+      "text": "Vul in het veld < Memo > dat het een fictieve hersteldmelding is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        1040.02,
+        94.0,
+        1056.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        89.0,
+        1056.01,
+        387.16,
+        1071.02
+      ],
+      "text": "Zo nee: het is een onterechte intrekking van een ziekmelding:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        76.0,
+        1060.02,
+        79.0,
+        1076.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        1075.02,
+        279.0,
+        1090.02
+      ],
+      "text": "Vul je bevinding in het veld < Memo. >",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        1079.02,
+        94.0,
+        1095.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        1095.02,
+        741.67,
+        1110.02
+      ],
+      "text": "Controleer in het scherm ‘Beheren aanvraag ZW/ZW-ERD’ of UZS een vragenlijst heeft klaargezet. Het veld < Vragenlijst? > staat op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        91.0,
+        1099.02,
+        94.0,
+        1115.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        104.0,
+        1114.02,
+        703.46,
+        1129.02
+      ],
+      "text": "‘Nee’. Is er nog geen vragenlijst klaargezet? Vraag met een voorlegger aan de MVB om alsnog een vragenlijst te versturen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        1149.02,
+        184.67,
+        1164.02
+      ],
+      "text": "Je fiatteert het signaal.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        52.01,
+        104.0,
+        66.01
+      ],
+      "text": "Output",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        73.01,
+        469.0,
+        87.01
+      ],
+      "text": "Cliënt Telefoon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        429.0,
+        93.02,
+        691.0,
+        108.02
+      ],
+      "text": "Eventueel akkoord vragen voor intrekking ziekmelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        112.01,
+        99.71,
+        126.01
+      ],
+      "text": "Intern",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        444.0,
+        113.02,
+        533.75,
+        128.02
+      ],
+      "text": "Registraties in UZS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        117.02,
+        434.0,
+        133.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        444.0,
+        132.02,
+        594.0,
+        147.02
+      ],
+      "text": "Eventueel voorlegger naar MVB",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        137.02,
+        434.0,
+        153.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        444.0,
+        152.02,
+        594.9,
+        167.01
+      ],
+      "text": "Afgehandeld signaal ‘UZZ0426’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        431.0,
+        156.02,
+        434.0,
+        172.02
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        172.01,
+        143.64,
+        186.01
+      ],
+      "text": "Systeemacties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        192.01,
+        127.1,
+        207.01
+      ],
+      "text": "Zie ‘Acties’.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        223.01,
+        139.54,
+        237.01
+      ],
+      "text": "Hulpmiddelen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        244.01,
+        118.1,
+        258.01
+      ],
+      "text": "Overzicht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        429.0,
+        244.01,
+        499.75,
+        259.01
+      ],
+      "text": "Systemen UWV",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        429.0,
+        264.01,
+        513.32,
+        279.01
+      ],
+      "text": "Wijzigingshistorie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        283.01,
+        271.18,
+        297.01
+      ],
+      "text": "Wettelijke basis , aanvullende informatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        304.01,
+        125.34,
+        318.01
+      ],
+      "text": "Toelichting",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        74.0,
+        324.01,
+        139.0,
+        338.01
+      ],
+      "text": "Wetsartikelen",
+      "source": "text"
+    }
+  ]
+}
