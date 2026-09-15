@@ -1,9 +1,10 @@
 from __future__ import annotations
 
+import json
 import time
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterator
+from typing import Any, Iterator
 
 import requests
 import urllib3
@@ -17,6 +18,12 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
+JSON_HEADERS = {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+}
 
 
 @dataclass(frozen=True)
@@ -64,9 +71,66 @@ def create_session(settings: Settings) -> requests.Session:
             "User-Agent": USER_AGENT,
             "Referer": settings.referer,
             "Accept-Language": "nl-NL,nl;q=0.9,en;q=0.8",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
         }
     )
     return session
+
+
+def _cache_bust_params() -> dict[str, str]:
+    return {"_": str(int(time.time() * 1000))}
+
+
+def _publication_from_item(item: dict[str, Any], settings: Settings) -> Publication | None:
+    url = (item.get("url") or "").strip()
+    if not url:
+        return None
+    return Publication(
+        title=(item.get("title") or "").strip(),
+        url=absolute_url(settings.host, url),
+        date=(item.get("date") or "").strip(),
+        publication_type=(item.get("type") or "").strip(),
+    )
+
+
+def parse_listing_seed(html: str, settings: Settings) -> tuple[list[Publication], str]:
+    """Parse newest publications from the SSR listing page.
+
+    The UWV site embeds the first overview page in ``first-results``. GitHub
+    Actions runners can otherwise receive a stale cached ``cluster=1`` API
+    response that omits those newest items.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    element = soup.find("mdgs-dynamic-list")
+    if element is None:
+        return [], ""
+
+    entry_id = (element.get("entry-id") or "").strip()
+    raw = element.get("first-results") or ""
+    if not raw:
+        return [], entry_id
+
+    try:
+        payload = json.loads(raw)
+    except json.JSONDecodeError:
+        return [], entry_id
+
+    publications: list[Publication] = []
+    for item in payload.get("results") or []:
+        publication = _publication_from_item(item, settings)
+        if publication is not None:
+            publications.append(publication)
+    return publications, entry_id
+
+
+def _log_overview(publications: list[Publication], seeded: int) -> None:
+    dates = [item.date for item in publications if item.date]
+    date_range = f"{min(dates)} .. {max(dates)}" if dates else "unknown"
+    print(
+        f"Overview: {len(publications)} publication(s) "
+        f"({seeded} from listing page), {date_range}"
+    )
 
 
 def fetch_publications(
@@ -75,39 +139,54 @@ def fetch_publications(
     max_pages: int = 1,
 ) -> list[Publication]:
     publications: list[Publication] = []
-    cluster = 1
+    seen_urls: set[str] = set()
+    entry_id = ""
+    seeded = 0
 
-    while cluster <= max_pages:
+    try:
+        listing_response = session.get(
+            settings.referer,
+            params=_cache_bust_params(),
+            timeout=60,
+        )
+        listing_response.raise_for_status()
+        seed, entry_id = parse_listing_seed(listing_response.text, settings)
+        for publication in seed:
+            if publication.url in seen_urls:
+                continue
+            publications.append(publication)
+            seen_urls.add(publication.url)
+        seeded = len(publications)
+    except requests.RequestException as exc:
+        print(f"Failed to fetch overview listing page {settings.referer}: {exc}")
+
+    for cluster in range(1, max_pages + 1):
+        body: dict[str, Any] = {"cluster": cluster}
+        if entry_id:
+            body["entryId"] = entry_id
         response = session.post(
             settings.overview_url,
-            json={"cluster": cluster},
-            headers={"Accept": "application/json", "Content-Type": "application/json"},
+            params=_cache_bust_params(),
+            json=body,
+            headers=JSON_HEADERS,
             timeout=60,
         )
         response.raise_for_status()
         payload = response.json()
-        results = payload.get("results") or []
 
-        for item in results:
-            url = item.get("url") or ""
-            if not url:
+        for item in payload.get("results") or []:
+            publication = _publication_from_item(item, settings)
+            if publication is None or publication.url in seen_urls:
                 continue
-            publications.append(
-                Publication(
-                    title=(item.get("title") or "").strip(),
-                    url=absolute_url(settings.host, url),
-                    date=(item.get("date") or "").strip(),
-                    publication_type=(item.get("type") or "").strip(),
-                )
-            )
+            publications.append(publication)
+            seen_urls.add(publication.url)
 
         has_more = bool((payload.get("meta") or {}).get("cluster", {}).get("hasmore"))
-        if not has_more or cluster >= max_pages:
+        if not has_more or cluster == max_pages:
             break
-
-        cluster += 1
         time.sleep(settings.request_delay)
 
+    _log_overview(publications, seeded)
     return publications
 
 
@@ -188,6 +267,10 @@ def iter_new_pdfs(
             candidates = fetch_pdf_candidates(session, settings, publication)
         except requests.RequestException as exc:
             print(f"Failed to fetch publication page {publication.page_url}: {exc}")
+            continue
+
+        if not candidates:
+            print(f"No PDFs found on {publication.page_url}")
             continue
 
         for candidate in candidates:
