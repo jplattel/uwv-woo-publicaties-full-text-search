@@ -16628,5 +16628,65 @@
       "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-psa-bemiddelingsservice-plateau-1-overgangssituatie-1-0-20230314.md",
       "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-psa-bemiddelingsservice-plateau-1-overgangssituatie-1-0-20230314.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/a192eab7-c98e-4ce5-b925-566a399a9d3a/woo-besluit-2026095.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-informatieverzoek-bedrijfssamenwerking",
+    "pdf_slug": "2026-09-16-woo-besluit-2026095",
+    "sha256": "0cae12fc2ae881d6ea50e36247673a198a3641d221823219c49d3124f32c0f44",
+    "retrieved_at": "2026-09-23T10:37:20+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-informatieverzoek-bedrijfssamenwerking/2026-09-16-woo-besluit-2026095.md",
+      "json": "data/2026-09-16-woo-besluit-informatieverzoek-bedrijfssamenwerking/2026-09-16-woo-besluit-2026095.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/09d97747-5518-447b-a3cf-2a96631b0021/woo-besluit-2026096.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv",
+    "pdf_slug": "2026-09-16-woo-besluit-2026096",
+    "sha256": "c248ab9ec76d6066a0239409cc3217ffb13dcd55736adb88f334db89b9578c0d",
+    "retrieved_at": "2026-09-23T10:37:22+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-woo-besluit-2026096.md",
+      "json": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-woo-besluit-2026096.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e8c73182-3cb4-48d3-8116-ddbd4f582116/e-mails-over-gebruik -pasfoto.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv",
+    "pdf_slug": "2026-09-16-e-mails-over-gebruik-pasfoto",
+    "sha256": "2ac8587527a7b46e4a2bc3afe84afb4788759f4fd846f352d0b0758187eea108",
+    "retrieved_at": "2026-09-23T10:37:48+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-e-mails-over-gebruik-pasfoto.md",
+      "json": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-e-mails-over-gebruik-pasfoto.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e1e6839c-ae48-43ea-b101-bb134499d3f2/woo-besluit-2026049b-bezwaar.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms",
+    "pdf_slug": "2026-09-16-woo-besluit-2026049b-bezwaar",
+    "sha256": "6756ad8cb50cb6659529484b0e510f8f0e7ed8efe7553ca4aebddaebc2778247",
+    "retrieved_at": "2026-09-23T10:37:51+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-woo-besluit-2026049b-bezwaar.md",
+      "json": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-woo-besluit-2026049b-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0d0b9176-364b-4f9e-b51e-69cc67b9b73d/rapport-evaluatie-pilot-ingebruikname-bms.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms",
+    "pdf_slug": "2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms",
+    "sha256": "11a3ed9f0b1f0af431262617ad211836400ae629fbf5a218929dc2aac1cc7e67",
+    "retrieved_at": "2026-09-23T10:37:53+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms.md",
+      "json": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9e136260-e620-44f5-a12e-15967f382b41/woo-besluit-2026105.pdf": {
+    "publication_slug": "2026-09-11-woo-besluit-samenwerking-met-een-dienstverlener",
+    "pdf_slug": "2026-09-11-woo-besluit-2026105",
+    "sha256": "db4b5f818bab91ec3a1f35341d5e71bd2966d071289c8a345f8e937da76a7251",
+    "retrieved_at": "2026-09-23T10:37:55+00:00",
+    "paths": {
+      "md": "data/2026-09-11-woo-besluit-samenwerking-met-een-dienstverlener/2026-09-11-woo-besluit-2026105.md",
+      "json": "data/2026-09-11-woo-besluit-samenwerking-met-een-dienstverlener/2026-09-11-woo-besluit-2026105.json"
+    }
   }
 }
