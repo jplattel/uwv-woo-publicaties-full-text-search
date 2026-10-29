@@ -17408,5 +17408,15 @@
       "md": "data/2026-08-04-woo-besluit-vrijwillige-verzekering-wia/2026-08-04-woo-besluit-2026075.md",
       "json": "data/2026-08-04-woo-besluit-vrijwillige-verzekering-wia/2026-08-04-woo-besluit-2026075.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/2b42f371-4788-4302-b8e1-b8c73ba790e7/woo-besluit-2026118.pdf": {
+    "publication_slug": "2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes",
+    "pdf_slug": "2026-10-09-woo-besluit-2026118",
+    "sha256": "8cef5cc86b78f529ad967812ec389f5c2a91936e030107823554817d5d39dffc",
+    "retrieved_at": "2026-10-29T12:07:28+00:00",
+    "paths": {
+      "md": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.md",
+      "json": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.json"
+    }
   }
 }
