@@ -17418,5 +17418,15 @@
       "md": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.md",
       "json": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/77243f5b-3f61-42ab-9855-d47f0dd363ce/woo-besluit-2026056-bezwaar.pdf": {
+    "publication_slug": "2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier",
+    "pdf_slug": "2026-10-09-woo-besluit-2026056-bezwaar",
+    "sha256": "3af1cb491da7c2b886a51e98e0477a131ce46d901540f1aef460b404f41802c7",
+    "retrieved_at": "2026-10-30T11:58:51+00:00",
+    "paths": {
+      "md": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.md",
+      "json": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.json"
+    }
   }
 }
