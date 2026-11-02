@@ -220,6 +220,39 @@ def shard_content_hash(sources: list[DocumentSource]) -> str:
     return digest.hexdigest()
 
 
+def search_build_id(shards: list[dict]) -> str:
+    """Short id that changes whenever a deployed search shard changes."""
+    digest = hashlib.sha256()
+    for shard in sorted(shards, key=lambda item: str(item.get("year"))):
+        digest.update(str(shard.get("year")).encode())
+        digest.update(b"\0")
+        digest.update(str(shard.get("hash") or "").encode())
+        digest.update(b"\0")
+    return digest.hexdigest()[:16]
+
+
+def apply_search_build(index_path: Path, build_id: str) -> None:
+    if not index_path.exists():
+        return
+    text = index_path.read_text(encoding="utf-8")
+    if "{{ search_build }}" in text:
+        text = text.replace("{{ search_build }}", build_id)
+    elif 'name="search-build"' in text:
+        text = re.sub(
+            r'(<meta name="search-build" content=")[^"]*(")',
+            rf"\1{build_id}\2",
+            text,
+            count=1,
+        )
+    else:
+        text = text.replace(
+            '<meta name="base-path"',
+            f'<meta name="search-build" content="{build_id}" />\n    <meta name="base-path"',
+            1,
+        )
+    index_path.write_text(text, encoding="utf-8")
+
+
 def load_manifest(path: Path) -> dict | None:
     if not path.exists():
         return None
@@ -1423,6 +1456,7 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
                     "suggestions": SEARCH_SUGGESTIONS,
                     "exampleSearches": example_searches,
                     "filters": filter_options,
+                    "buildId": search_build_id(shard_manifest),
                     "indexBasePath": "search-index/",
                     "indexShards": [
                         {
@@ -1438,6 +1472,7 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
                 ensure_ascii=False,
             )
         log(f"  Wrote search-meta.json ({format_bytes(meta_path.stat().st_size)})")
+        apply_search_build(staging_dir / "index.html", search_build_id(shard_manifest))
 
         log("  Writing statistics.html…")
         (staging_dir / "statistics.html").write_text(

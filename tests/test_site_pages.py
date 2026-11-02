@@ -11,6 +11,7 @@ from scripts.build_site import (
     render_internal_dashboard,
     render_publications_page,
     render_statistics_page,
+    search_build_id,
 )
 
 
@@ -106,6 +107,20 @@ class PublicationOrderTests(unittest.TestCase):
         self.assertTrue(is_besluit_document(documents[2]))
         self.assertFalse(is_besluit_document(documents[0]))
         self.assertFalse(is_besluit_document(documents[1]))
+
+
+class SearchBuildTests(unittest.TestCase):
+    def test_build_id_changes_when_a_shard_hash_changes(self) -> None:
+        shards = [
+            {"year": "2025", "hash": "aaa"},
+            {"year": "2026", "hash": "bbb"},
+        ]
+        self.assertEqual(search_build_id(shards), search_build_id(list(reversed(shards))))
+        self.assertNotEqual(
+            search_build_id(shards),
+            search_build_id([{"year": "2025", "hash": "aaa"}, {"year": "2026", "hash": "ccc"}]),
+        )
+        self.assertEqual(len(search_build_id(shards)), 16)
 
 
 class DocumentPageTests(unittest.TestCase):

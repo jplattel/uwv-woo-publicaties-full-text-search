@@ -53,6 +53,42 @@ async function cacheSet(key, value) {
   }
 }
 
+async function cacheKeys() {
+  try {
+    const db = await openDb();
+    return await new Promise((resolve, reject) => {
+      const request = db.transaction(STORE, "readonly").objectStore(STORE).getAllKeys();
+      request.onsuccess = () => resolve(request.result || []);
+      request.onerror = () => reject(request.error);
+    });
+  } catch {
+    return [];
+  }
+}
+
+async function cacheDelete(key) {
+  try {
+    const db = await openDb();
+    await new Promise((resolve, reject) => {
+      const tx = db.transaction(STORE, "readwrite");
+      tx.objectStore(STORE).delete(key);
+      tx.oncomplete = () => resolve();
+      tx.onerror = () => reject(tx.error);
+    });
+  } catch {
+    // Leaving an old shard behind is harmless; it is no longer addressed.
+  }
+}
+
+async function pruneCache(shardList) {
+  const keep = new Set(shardList.map((shard) => cacheKey(shard)));
+  for (const key of await cacheKeys()) {
+    if (!keep.has(String(key))) {
+      await cacheDelete(key);
+    }
+  }
+}
+
 function cacheKey(shard) {
   return `${shard.year}:${shard.hash || "none"}`;
 }
@@ -71,8 +107,13 @@ function mountShard(shard, payload) {
   }
 }
 
+function shardUrl(baseUrl, shard) {
+  const version = shard.hash ? `?v=${encodeURIComponent(shard.hash)}` : "";
+  return `${baseUrl}${shard.path}${version}`;
+}
+
 async function fetchShard(baseUrl, shard) {
-  const response = await fetch(`${baseUrl}${shard.path}`);
+  const response = await fetch(shardUrl(baseUrl, shard));
   if (!response.ok) {
     throw new Error(`Shard ${shard.year} HTTP ${response.status}`);
   }
@@ -99,7 +140,7 @@ async function loadShard(baseUrl, shard) {
   return { year: String(shard.year), cached: false };
 }
 
-async function ensureShards(baseUrl, shardList) {
+async function ensureShards(baseUrl, shardList, prune = false) {
   const pending = [];
   for (const shard of shardList) {
     const loaded = shards.find(
@@ -118,6 +159,10 @@ async function ensureShards(baseUrl, shardList) {
       year: result.year,
       cached: result.cached,
     });
+  }
+
+  if (prune) {
+    await pruneCache(shardList);
   }
 
   post("ready", { shardCount: shards.length, fetched: pending.length });
@@ -184,7 +229,7 @@ self.onmessage = async (event) => {
       const baseUrl = event.data.baseUrl;
       const shardList = event.data.shards || [];
       queue = queue
-        .then(() => ensureShards(baseUrl, shardList))
+        .then(() => ensureShards(baseUrl, shardList, Boolean(event.data.prune)))
         .catch((error) => {
           post("error", { message: error?.message || String(error) });
         });

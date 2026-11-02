@@ -140,6 +140,7 @@ function createSearchWorker() {
         type: "ensure",
         baseUrl: BASE,
         shards,
+        prune: Boolean(callbacks.prune),
       });
     },
     async search(query, years) {
@@ -370,14 +371,14 @@ async function initSearch() {
     return shardCatalog.filter((shard) => wanted.has(String(shard.year)));
   }
 
-  function ensureIndex(shards) {
+  function ensureIndex(shards, options = {}) {
     const missing = shards.filter((shard) => !loadedShardKeys.has(`${shard.year}:${shard.hash || ""}`));
     if (!missing.length) {
       indexReady = true;
       return Promise.resolve();
     }
     if (ensurePromise) {
-      return ensurePromise.then(() => ensureIndex(shards));
+      return ensurePromise.then(() => ensureIndex(shards, options));
     }
 
     setLoading(true, "Zoekindex laden…");
@@ -386,6 +387,7 @@ async function initSearch() {
     ensurePromise = new Promise((resolve, reject) => {
       let networkLoads = 0;
       searchWorker.ensure(missing, {
+        prune: Boolean(options.prune),
         onShardLoaded({ loaded, total, year, cached }) {
           if (!cached) {
             networkLoads += 1;
@@ -403,6 +405,12 @@ async function initSearch() {
           indexReady = true;
           input.disabled = false;
           setPageLoader(false);
+          if (!input.value.trim()) {
+            setLoading(false);
+            if (countEl) {
+              countEl.textContent = `${documentCount.toLocaleString("nl-NL")} documenten doorzoekbaar`;
+            }
+          }
           resolve();
         },
         onError(error) {
@@ -740,7 +748,11 @@ async function initSearch() {
   setPageLoader(false);
 
   try {
-    const metaResponse = await fetch(`${BASE}search-meta.json`);
+    const searchBuild = document.querySelector('meta[name="search-build"]')?.content || "";
+    const metaUrl = searchBuild
+      ? `${BASE}search-meta.json?v=${encodeURIComponent(searchBuild)}`
+      : `${BASE}search-meta.json`;
+    const metaResponse = await fetch(metaUrl, { cache: "no-cache" });
     if (!metaResponse.ok) {
       throw new Error(`search-meta.json HTTP ${metaResponse.status}`);
     }
@@ -765,6 +777,10 @@ async function initSearch() {
     setLoading(false);
     setPageLoader(false);
     countEl.textContent = `${documentCount.toLocaleString("nl-NL")} documenten doorzoekbaar`;
+
+    ensureIndex(shardCatalog, { prune: true }).catch((error) => {
+      console.error(error);
+    });
 
     if (initialState.query) {
       input.value = initialState.query;
