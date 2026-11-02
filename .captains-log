@@ -7,3 +7,7 @@
 2026-11-02 09:35 [main] #021 Model: Id is the first 16 characters of a hash over the s
 2026-11-02 09:42 [main] #022 User: Text within their invisible boundary boxes so the
 2026-11-02 09:45 [main] #023 Model: Nd broke words such as
+2026-11-02 09:47 [main] #024 User: For the preview, can you insert a page seperator betwene the pages
+2026-11-02 09:48 [main] #025 Model: A horizontal rule now sits between each page in the document preview. The...
+2026-11-02 09:50 [main] #026 User: There is some overlap... see: SCR-20261102-f22.png
+2026-11-02 09:56 [main] #027 Model: To see it. That PDF stores two text runs on the s

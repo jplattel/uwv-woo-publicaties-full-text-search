@@ -555,6 +555,7 @@ mark {
   margin: 0;
   line-height: 1;
   white-space: nowrap;
+  overflow: hidden;
   font-weight: 400;
 }
 
@@ -562,8 +563,16 @@ mark {
   font-weight: 650;
 }
 
+.doc-page-separator {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 1.75rem auto 0.35rem;
+  width: min(100%, 52rem);
+}
+
 .doc-page-label {
-  margin: 1.4rem 0 0.4rem;
+  margin: 0.85rem auto 0.4rem;
+  width: min(100%, 52rem);
   color: var(--muted);
   font-size: 0.78rem;
   font-weight: 600;

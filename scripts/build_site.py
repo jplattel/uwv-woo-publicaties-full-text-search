@@ -1192,10 +1192,45 @@ def _render_flow_block(block: dict) -> str:
     return f"<{tag}>{text}</{tag}>"
 
 
-def _render_layout_page(blocks: list[dict]) -> str | None:
-    """Place each line in its stored box so columns and spacing stay put."""
+def _overlap_ratio(start_a: float, end_a: float, start_b: float, end_b: float) -> float:
+    overlap = min(end_a, end_b) - max(start_a, start_b)
+    if overlap <= 0:
+        return 0.0
+    shorter = min(end_a - start_a, end_b - start_b)
+    if shorter <= 0:
+        return 0.0
+    return overlap / shorter
+
+
+def _boxes_cover_same_text(a: tuple[float, float, float, float], b: tuple[float, float, float, float]) -> bool:
+    """True when a shorter run sits on top of a longer line, not beside it."""
+    return _overlap_ratio(a[1], a[3], b[1], b[3]) >= 0.5 and _overlap_ratio(a[0], a[2], b[0], b[2]) >= 0.45
+
+
+def _without_overlapping_duplicates(blocks: list[dict]) -> list[dict] | None:
     placed: list[tuple[dict, tuple[float, float, float, float]]] = []
     for block in blocks:
+        box = _block_box(block)
+        if box is None:
+            return None
+        placed.append((block, box))
+    placed.sort(key=lambda item: (-len(str(item[0].get("text") or "")), -(item[1][2] - item[1][0]) * (item[1][3] - item[1][1])))
+    kept: list[tuple[dict, tuple[float, float, float, float]]] = []
+    for block, box in placed:
+        if any(_boxes_cover_same_text(box, other) for _, other in kept):
+            continue
+        kept.append((block, box))
+    kept.sort(key=lambda item: (item[1][1], item[1][0]))
+    return [block for block, _box in kept]
+
+
+def _render_layout_page(blocks: list[dict]) -> str | None:
+    """Place each line in its stored box so columns and spacing stay put."""
+    visible = _without_overlapping_duplicates(blocks)
+    if visible is None:
+        return None
+    placed: list[tuple[dict, tuple[float, float, float, float]]] = []
+    for block in visible:
         box = _block_box(block)
         if box is None:
             return None
@@ -1221,14 +1256,13 @@ def _render_layout_page(blocks: list[dict]) -> str | None:
         top = (y0 - origin_y) / page_h * 100
         box_w = (x1 - x0) / page_w * 100
         box_h = (y1 - y0) / page_h * 100
-        # Fit the line to the box: height in page-percent, width divided by characters.
-        char_count = max(len(text), 1)
-        fit_height = max(box_h * 0.92, 0.4)
-        fit_width = max(box_w / (char_count * 0.52), 0.4)
+        # Size from the line height. Stretching a short run to its box width
+        # paints it across the longer line underneath.
+        fit_height = max(box_h * 0.85, 0.4)
         heading = " doc-line-heading" if block.get("type") == "heading" else ""
         lines.append(
             f'<span class="doc-line{heading}" style="left:{left:.2f}%;top:{top:.2f}%;'
-            f'font-size:min({fit_height:.2f}cqh,{fit_width:.2f}cqw)">{html.escape(text)}</span>'
+            f'width:{box_w:.2f}%;font-size:{fit_height:.2f}cqh">{html.escape(text)}</span>'
         )
 
     return (
@@ -1255,7 +1289,9 @@ def render_extracted_text(blocks: list) -> str:
         return '<p class="doc-text-empty">Geen tekst beschikbaar voor dit document.</p>'
 
     parts: list[str] = []
-    for page in order:
+    for index, page in enumerate(order):
+        if index:
+            parts.append('<hr class="doc-page-separator" />')
         page_blocks = pages[page]
         if page:
             parts.append(f'<p class="doc-page-label">Pagina {html.escape(str(page))}</p>')

@@ -175,6 +175,13 @@ class DocumentPageTests(unittest.TestCase):
                     "text": "Rechterkolom",
                     "source": "ocr",
                 },
+                {
+                    "type": "paragraph",
+                    "page": 2,
+                    "bbox": [40, 40, 200, 52],
+                    "text": "Volgende pagina",
+                    "source": "ocr",
+                },
             ]
         )
         self.assertIn('class="doc-sheet"', html)
@@ -183,6 +190,29 @@ class DocumentPageTests(unittest.TestCase):
         self.assertIn("left:", html)
         self.assertIn("top:", html)
         self.assertNotIn("<p>Linkerkolom</p>", html)
+        self.assertEqual(html.count('class="doc-page-separator"'), 1)
+
+    def test_shorter_run_on_the_same_line_is_not_painted_on_top(self) -> None:
+        html = render_extracted_text(
+            [
+                {
+                    "type": "paragraph",
+                    "page": 1,
+                    "bbox": [70, 205, 518, 216],
+                    "text": "Nieuwsuur besteed 15 juli aandacht de risicoscan",
+                    "source": "text",
+                },
+                {
+                    "type": "paragraph",
+                    "page": 1,
+                    "bbox": [167, 207, 456, 216],
+                    "text": "op aan van",
+                    "source": "text",
+                },
+            ]
+        )
+        self.assertIn("Nieuwsuur besteed 15 juli aandacht de risicoscan", html)
+        self.assertNotIn("op aan van", html)
 
 
 class PublicationsPageTests(unittest.TestCase):
