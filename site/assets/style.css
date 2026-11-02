@@ -823,6 +823,33 @@ mark {
   font-size: 1.25rem;
 }
 
+.about-content h3 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1.05rem;
+}
+
+.about-content ul {
+  margin: 0 0 1rem;
+  padding-left: 1.2rem;
+}
+
+.about-content li {
+  margin: 0.25rem 0;
+}
+
+.critic-list {
+  margin: 0 0 1rem;
+}
+
+.critic-list dt {
+  margin-top: 0.9rem;
+  font-weight: 650;
+}
+
+.critic-list dd {
+  margin: 0.2rem 0 0;
+}
+
 .about-content p {
   margin: 0 0 1rem;
 }

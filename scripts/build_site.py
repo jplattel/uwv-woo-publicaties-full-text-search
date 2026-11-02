@@ -984,6 +984,7 @@ def render_site_header(title: str, subtitle: str, base_path: str, active: str) -
     publications_active = " is-active" if active == "publications" else ""
     stats_active = " is-active" if active == "stats" else ""
     about_active = " is-active" if active == "about" else ""
+    waarom_active = " is-active" if active == "waarom" else ""
     return f"""
     <header class="site-header">
       <div class="site-header-inner">
@@ -995,6 +996,7 @@ def render_site_header(title: str, subtitle: str, base_path: str, active: str) -
           <a class="site-nav-link{search_active}" href="{html.escape(base_path)}">Zoeken</a>
           <a class="site-nav-link{publications_active}" href="{html.escape(base_path)}publications.html">Publicaties</a>
           <a class="site-nav-link{stats_active}" href="{html.escape(base_path)}statistics.html">Statistieken</a>
+          <a class="site-nav-link{waarom_active}" href="{html.escape(base_path)}waarom.html">Waarom</a>
           <a class="site-nav-link{about_active}" href="{html.escape(base_path)}about.html">Over</a>
           <a class="site-nav-link site-nav-link--github" href="https://github.com/jplattel/uwv-woo-publicaties-full-text-search" target="_blank" rel="noopener noreferrer">GitHub</a>
         </nav>
@@ -1502,6 +1504,11 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
         about_template = (SITE_SRC / "about.html").read_text(encoding="utf-8")
         about_html = about_template.replace("{{ base_path }}", base_path)
         (staging_dir / "about.html").write_text(about_html, encoding="utf-8")
+
+        log("  Writing waarom.html…")
+        waarom_template = (SITE_SRC / "waarom.html").read_text(encoding="utf-8")
+        waarom_html = waarom_template.replace("{{ base_path }}", base_path)
+        (staging_dir / "waarom.html").write_text(waarom_html, encoding="utf-8")
     else:
         log("  Static assets unchanged")
 
@@ -1703,6 +1710,7 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
     required_paths = [
         staging_dir / "index.html",
         staging_dir / "about.html",
+        staging_dir / "waarom.html",
         staging_dir / "publications.html",
         staging_dir / "statistics.html",
         staging_dir / "internal" / "actueel.html",

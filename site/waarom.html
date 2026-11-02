@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="base-path" content="{{ base_path }}" />
+    <title>Waarom · UWV Woo-publicaties</title>
+    <link rel="stylesheet" href="{{ base_path }}assets/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div>
+          <h1>UWV Woo-publicaties</h1>
+          <p>Waarom deze site zinvol is, en wanneer de tekst klopt</p>
+        </div>
+        <nav class="site-nav" aria-label="Hoofdnavigatie">
+          <a class="site-nav-link" href="{{ base_path }}">Zoeken</a>
+          <a class="site-nav-link" href="{{ base_path }}publications.html">Publicaties</a>
+          <a class="site-nav-link" href="{{ base_path }}statistics.html">Statistieken</a>
+          <a class="site-nav-link is-active" href="{{ base_path }}waarom.html">Waarom</a>
+          <a class="site-nav-link" href="{{ base_path }}about.html">Over</a>
+          <a class="site-nav-link site-nav-link--github" href="https://github.com/jplattel/uwv-woo-publicaties-full-text-search/actions" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </nav>
+      </div>
+    </header>
+    <main class="about-main">
+      <article class="about-content">
+        <h2>Waarom deze site er is</h2>
+        <p>
+          Dit is geen officiële UWV-site en geen vervanging van een Woo-besluit.
+          Het is een zoeklaag over besluiten die UWV zelf al openbaar maakt.
+          De PDF op uwv.nl blijft de bron. Deze pagina legt uit waarom die zoeklaag zinvol is, en waarom de tekst die je hier leest te controleren is.
+        </p>
+
+        <h3>Het probleem</h3>
+        <p>
+          UWV publiceert Woo-besluiten als PDF op
+          <a href="https://www.uwv.nl/nl/wet-open-overheid/publicaties/woo-publicaties">uwv.nl</a>.
+          Dat is een lijst. Je kunt niet in één keer door de tekst van alle besluiten zoeken.
+          Een deel van de PDF’s heeft geen bruikbare tekstlaag: de pagina is een scan of een afbeelding.
+          In een gewone PDF-lezer kun je die pagina niet selecteren of doorzoeken.
+        </p>
+        <p>
+          In de extracten van deze site, geteld op 2 november 2026, staan 418 publicaties en 1.744 documenten.
+          In januari tot en met oktober 2026 zijn 116 besluiten gepubliceerd, tegen 60 in dezelfde maanden van 2025.
+          Elke nieuwe PDF is een extra plek waar een antwoord kan staan, en waar je zonder zoekindex handmatig doorheen moet.
+        </p>
+        <p>De site doet drie dingen die de publicatielijst niet doet:</p>
+        <ul>
+          <li>Zoeken door de tekst van alle gepubliceerde documenten, ook door pagina’s die alleen als scan bestonden.</li>
+          <li>Een leesbare weergave per pagina, met een scheiding tussen de pagina’s van de PDF.</li>
+          <li>Op elke documentpagina een link terug naar de publicatie op uwv.nl en naar de originele PDF.</li>
+        </ul>
+        <p>
+          Iemand die wil weten of een onderwerp al openbaar is, hoeft niet elk besluit te downloaden om dat uit te sluiten.
+          Wie daarna citeert of beslist, opent de PDF. De HTML is de weg ernaartoe, niet het besluit zelf.
+        </p>
+
+        <h3>Waarom de tekst klopt waar een tekstlaag zit</h3>
+        <p>
+          Heeft een pagina een tekstlaag, dan leest
+          <a href="https://github.com/jsvine/pdfplumber">pdfplumber</a>
+          die laag uit. Dat zijn de tekstobjecten die al in de PDF staan: dezelfde tekens die een PDF-lezer toont als je tekst selecteert.
+          De pipeline typt de zin niet over, vat hem niet samen en laat er geen taalmodel een nieuwe versie van maken.
+        </p>
+        <p>
+          pdfplumber geeft per woord een positie op de pagina. Die woorden worden gegroepeerd tot een regel.
+          Elke regel wordt een blok met het paginanummer, de bounding box in de PDF, de tekst, en de bron
+          <code>text</code>.
+          De leesweergave volgt die pagina’s. Een horizontale lijn markeert het einde van een PDF-pagina.
+        </p>
+        <p>
+          Zit er een fout in de tekstlaag van de PDF zelf, dan komt die fout hier ook te staan.
+          De extractie verzint dan niets, maar verbetert het origineel ook niet.
+          Daarom staat bij elk document de oorspronkelijke PDF.
+        </p>
+
+        <h3>OCR alleen als de tekstlaag te leeg is</h3>
+        <p>
+          Bevat een pagina minder dan 40 tekens in de tekstlaag, dan is die laag geen bruikbare bron.
+          Alleen die pagina wordt gescand. Poppler maakt er een afbeelding van en PaddleOCR, met het Nederlandse model, leest die afbeelding.
+          Een herkenning onder een score van 0,5 wordt weggegooid.
+          De blokken van zo’n pagina krijgen de bron <code>ocr</code>.
+          In de metadata van het document staat <em>OCR gebruikt: ja</em> zodra minstens één pagina zo is gelezen.
+        </p>
+        <p>
+          OCR vergist zich. Een naam, een bedrag of een doorhaling kan fout gaan.
+          Die tekst is een hulpmiddel om de juiste pagina te vinden, niet een citaat dat de PDF vervangt.
+          Op de documentpagina en onderaan het Markdown-bestand staat de link naar die PDF.
+        </p>
+
+        <h3>Altijd terug naar de PDF</h3>
+        <p>De PDF wordt niet in deze repository bewaard. Wat hier staat is metadata, de geëxtraheerde tekst en de URL van het origineel. Op een documentpagina staan drie wegen terug:</p>
+        <ul>
+          <li><strong>Open bronpagina</strong> opent de publicatie op uwv.nl.</li>
+          <li><strong>Download PDF</strong> en <strong>Open de PDF</strong> openen het bestand bij UWV.</li>
+          <li>In het Markdown-bestand staat onderaan dezelfde bron: de publicatie én de PDF.</li>
+        </ul>
+        <p>
+          In de leesweergave worden tekstkaders die dezelfde regel dubbel bedekken samengevoegd, zodat een woord niet twee keer onder elkaar verschijnt.
+          De PDF wordt daar niet door gewijzigd.
+        </p>
+
+        <h3>Antwoorden die je zo kunt geven</h3>
+        <dl class="critic-list">
+          <dt>Dit is toch niet officieel?</dt>
+          <dd>
+            Klopt. UWV publiceert het besluit. Deze site maakt die openbare PDF’s doorzoekbaar en linkt terug.
+            Voor een citaat, een bezwaar of een nieuwsbericht gebruik je de PDF op uwv.nl.
+          </dd>
+          <dt>OCR zit vol fouten. Waarom zou ik deze tekst vertrouwen?</dt>
+          <dd>
+            Vertrouw de tekstlaag voor zover de PDF die zelf heeft, en controleer OCR-pagina’s aan de PDF.
+            OCR draait alleen als een pagina minder dan 40 tekens tekst bevat, en die blokken zijn gemarkeerd met bron <code>ocr</code>.
+            De metadata zegt of het document OCR gebruikt.
+          </dd>
+          <dt>Jullie herschrijven de besluiten.</dt>
+          <dd>
+            Nee. Een pagina met een tekstlaag komt uit pdfplumber, uit de tekstobjecten in de PDF.
+            Er is geen samenvatting en geen herschrijving. Een lege of gescande pagina gaat door OCR, en blijft als zodanig herkenbaar.
+          </dd>
+          <dt>De PDF staat er toch al. Waarom deze site?</dt>
+          <dd>
+            Omdat een lijst van PDF’s geen zoekmachine is, en een scan geen tekst heeft waar je op kunt zoeken.
+            De stapel groeit. Zonder index kost elke nieuwe vraag opnieuw downloaden en opendoen, tot je het juiste stuk hebt of weet dat het er niet in staat.
+          </dd>
+          <dt>Maken jullie een tweede, afwijkende waarheid?</dt>
+          <dd>
+            Alleen als iemand de HTML citeert alsof het het besluit is. De site is gebouwd om dat te ontmoedigen:
+            de bronlink staat op de pagina, de PDF blijft bij UWV, en OCR is gelabeld.
+            Twee weergaven, één bron.
+          </dd>
+        </dl>
+
+        <p>
+          De persoonlijke aanleiding staat op <a href="{{ base_path }}about.html">Over</a>.
+          De code van de extractie staat in <code>src/extract.py</code> op
+          <a href="https://github.com/jplattel/uwv-woo-publicaties-full-text-search" target="_blank" rel="noopener noreferrer">GitHub</a>.
+        </p>
+      </article>
+    </main>
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <p>
+          Deze site draait op GitHub Pages en wordt automatisch bijgewerkt. Bekijk de broncode en de dagelijkse
+          crawl op <a href="https://github.com/jplattel/uwv-woo-publicaties-full-text-search/actions" target="_blank" rel="noopener noreferrer">GitHub</a>.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

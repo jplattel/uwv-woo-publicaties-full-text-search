@@ -11,6 +11,7 @@ from scripts.build_site import (
     render_extracted_text,
     render_internal_dashboard,
     render_publications_page,
+    render_site_header,
     render_statistics_page,
     search_build_id,
 )
@@ -344,6 +345,15 @@ class DuplicateTests(unittest.TestCase):
         self.assertIn("doc/a/1.html", html)
         self.assertNotIn("SHA256", html)
         self.assertNotIn("aaa", html)
+
+
+class SiteHeaderTests(unittest.TestCase):
+    def test_public_nav_links_to_the_method_page(self) -> None:
+        html = render_site_header("Titel", "Ondertitel", "/", active="waarom")
+
+        self.assertIn('href="/waarom.html"', html)
+        self.assertIn("Waarom", html)
+        self.assertIn("is-active", html)
 
 
 class InternalDashboardTests(unittest.TestCase):
