@@ -34,6 +34,12 @@ def parse_args() -> argparse.Namespace:
         default=1,
         help="Number of overview pages to fetch (default: 1 for daily runs).",
     )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Process only the newest N publications from the overview.",
+    )
     return parser.parse_args()
 
 
@@ -54,6 +60,7 @@ def main() -> int:
             state=state,
             temp_dir=temp_dir,
             max_pages=args.max_pages,
+            max_publications=args.limit,
         ):
             candidate = downloaded.candidate
             try:

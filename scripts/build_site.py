@@ -37,7 +37,6 @@ FRONTMATTER_LABELS = {
     "retrieved_at": "Opgehaald op",
     "page_count": "Pagina's",
     "ocr_used": "OCR gebruikt",
-    "sha256": "SHA256",
 }
 
 FRONTMATTER_ORDER = [
@@ -50,8 +49,15 @@ FRONTMATTER_ORDER = [
     "retrieved_at",
     "source_page_url",
     "pdf_url",
-    "sha256",
 ]
+
+HIDDEN_FRONTMATTER_KEYS = {
+    "sha256",
+    "blocks",
+    "publication_slug",
+    "pdf_slug",
+    "source_id",
+}
 
 SEARCH_SUGGESTIONS = [
     "WIA beoordeling",
@@ -66,7 +72,7 @@ SEARCH_SUGGESTIONS = [
     "Woo-besluit",
 ]
 
-BUILD_VERSION = 1
+BUILD_VERSION = 2
 MANIFEST_NAME = ".build-manifest.json"
 
 VERBOSE = False
@@ -260,6 +266,8 @@ def load_documents() -> list[dict]:
                 "publication_date": payload.get("publication_date", ""),
                 "publication_type": payload.get("publication_type", ""),
                 "ocr_used": bool(payload.get("ocr_used")),
+                "page_count": int(payload.get("page_count") or 0),
+                "sha256": payload.get("sha256") or "",
                 "source_page_url": payload.get("source_page_url", ""),
                 "pdf_url": payload.get("pdf_url", ""),
                 "url": doc_url,
@@ -286,6 +294,132 @@ def compute_filter_options(documents: list[dict]) -> dict:
     }
 
 
+def document_filename(document: dict) -> str:
+    url = document.get("url") or ""
+    return url.rsplit("/", 1)[-1].lower()
+
+
+_NOT_BESLUIT_RE = re.compile(
+    r"bijlage|inventarislijst|handboek|werkinstructie",
+    re.IGNORECASE,
+)
+_BESLUIT_LABEL_RE = re.compile(
+    r"^(?:aanvullende?\s+|samengevoegde?\s+|formele\s+|eerste\s+|tweede\s+|derde\s+)*"
+    r"(?:woo-besluit|wob-besluit|deelbesluit|beslissing|besluit)\b",
+    re.IGNORECASE,
+)
+_DATE_PREFIX_RE = re.compile(r"^\d{4}-\d{2}-\d{2}-")
+_BESLUIT_STEM_RE = re.compile(
+    r"^(?:\d{2}-)?"
+    r"(?:aanvullende?-|samengevoegde?-|formele-|eerste-|tweede-|derde-)?"
+    r"(?:woo-besluit|wob-besluit|deelbesluit|beslissing|besluit)(?:-|\.|$)",
+    re.IGNORECASE,
+)
+
+
+def is_besluit_document(document: dict) -> bool:
+    """Match the decision letter itself.
+
+    A bijlage, inventarislijst, handboek or werkinstructie stays in source order,
+    even when its title mentions a besluit. The publication folder name is ignored.
+    """
+    label = (document.get("label") or document.get("pdf_label") or "").strip()
+    filename = document_filename(document)
+    stem = filename[:-5] if filename.endswith(".html") else filename
+    stem = _DATE_PREFIX_RE.sub("", stem)
+    if _NOT_BESLUIT_RE.search(label) or _NOT_BESLUIT_RE.search(stem):
+        return False
+    if _BESLUIT_LABEL_RE.search(label):
+        return True
+    return bool(_BESLUIT_STEM_RE.search(stem))
+
+
+def canonical_pdf_url(url: str) -> str:
+    return (url or "").split("?", 1)[0].strip().lower()
+
+
+def find_duplicate_groups(records: list[dict]) -> list[dict]:
+    """Group documents that share a file hash or the same source PDF URL."""
+    parent = list(range(len(records)))
+
+    def find(index: int) -> int:
+        while parent[index] != index:
+            parent[index] = parent[parent[index]]
+            index = parent[index]
+        return index
+
+    def union(left: int, right: int) -> None:
+        left_root = find(left)
+        right_root = find(right)
+        if left_root != right_root:
+            parent[right_root] = left_root
+
+    by_hash: dict[str, list[int]] = defaultdict(list)
+    by_url: dict[str, list[int]] = defaultdict(list)
+    for index, record in enumerate(records):
+        digest = record.get("sha256") or ""
+        if digest:
+            by_hash[digest].append(index)
+        pdf_url = canonical_pdf_url(record.get("pdf_url", ""))
+        if pdf_url:
+            by_url[pdf_url].append(index)
+
+    for indexes in list(by_hash.values()) + list(by_url.values()):
+        for other in indexes[1:]:
+            union(indexes[0], other)
+
+    grouped: dict[int, list[dict]] = defaultdict(list)
+    for index, record in enumerate(records):
+        grouped[find(index)].append(record)
+
+    groups: list[dict] = []
+    for items in grouped.values():
+        if len(items) < 2:
+            continue
+        hashes = {item.get("sha256") or "" for item in items}
+        urls = {canonical_pdf_url(item.get("pdf_url", "")) for item in items}
+        if len(hashes) == 1 and "" not in hashes:
+            reason = "identiek bestand"
+        elif len(urls) == 1 and "" not in urls:
+            reason = "zelfde bron-PDF"
+        else:
+            reason = "zelfde document"
+        groups.append({"reason": reason, "documents": items})
+
+    groups.sort(key=lambda group: len(group["documents"]), reverse=True)
+    return groups
+
+
+def mark_publication_duplicates(publications: list[dict]) -> None:
+    hash_counts: Counter[str] = Counter()
+    url_counts: Counter[str] = Counter()
+    for publication in publications:
+        for document in publication["documents"]:
+            digest = document.get("sha256") or ""
+            pdf_key = canonical_pdf_url(document.get("pdf_url", ""))
+            document["pdf_key"] = pdf_key
+            if digest:
+                hash_counts[digest] += 1
+            if pdf_key:
+                url_counts[pdf_key] += 1
+
+    for publication in publications:
+        duplicate_count = 0
+        for document in publication["documents"]:
+            digest = document.get("sha256") or ""
+            pdf_key = document.get("pdf_key") or ""
+            if (digest and hash_counts[digest] > 1) or (pdf_key and url_counts[pdf_key] > 1):
+                duplicate_count += 1
+        publication["duplicate_count"] = duplicate_count
+
+
+def order_publication_documents(documents: list[dict]) -> list[dict]:
+    """Keep source order, but always place Woo-besluiten first."""
+    indexed = list(enumerate(documents))
+    indexed.sort(key=lambda item: (0 if is_besluit_document(item[1]) else 1, item[0]))
+    return [document for _, document in indexed]
+
+
 def build_publications(documents: list[dict]) -> list[dict]:
     grouped: dict[str, dict] = {}
 
@@ -305,13 +439,19 @@ def build_publications(documents: list[dict]) -> list[dict]:
                 "label": document["pdf_label"],
                 "url": document["url"],
                 "ocr_used": document.get("ocr_used", False),
+                "page_count": int(document.get("page_count") or 0),
+                "sha256": document.get("sha256") or "",
+                "pdf_url": document.get("pdf_url") or "",
             }
         )
 
     publications = list(grouped.values())
     for publication in publications:
-        publication["documents"].sort(key=lambda item: item["label"])
+        publication["documents"] = order_publication_documents(publication["documents"])
+        publication["page_count"] = sum(item["page_count"] for item in publication["documents"])
+        publication["ocr_count"] = sum(1 for item in publication["documents"] if item["ocr_used"])
     publications.sort(key=lambda item: item["date"], reverse=True)
+    mark_publication_duplicates(publications)
     return publications
 
 
@@ -403,6 +543,14 @@ def render_publications_page(publications: list[dict], base_path: str) -> str:
         year = year_from_date(publication["date"]) or "Onbekend"
         by_year[year].append(publication)
 
+    year_links = [
+        f'<a class="year-chip" href="{html.escape(base_path)}publications.html">Alle jaren</a>'
+    ]
+    for year in sorted(by_year.keys(), reverse=True):
+        year_links.append(
+            f'<a class="year-chip" href="{html.escape(base_path)}publications.html?year={html.escape(year)}">{html.escape(year)}</a>'
+        )
+
     sections: list[str] = []
     for year in sorted(by_year.keys(), reverse=True):
         cards: list[str] = []
@@ -428,7 +576,10 @@ def render_publications_page(publications: list[dict], base_path: str) -> str:
                   <h3>{html.escape(publication['title'])}</h3>
                   <div class="publication-meta">
                     {format_date(publication['date'])} · {html.escape(publication['type'])} ·
-                    {format_number(len(publication['documents']))} documenten
+                    {format_number(len(publication['documents']))} documenten ·
+                    {format_number(publication['page_count'])} pagina's ·
+                    {format_number(publication['ocr_count'])} met OCR
+                    {f" · <span class='dup-badge'>{format_number(publication['duplicate_count'])} ook elders</span>" if publication.get('duplicate_count') else ""}
                     {f" · {source_link}" if source_link else ""}
                   </div>
                   <ul class="publication-docs">{doc_links}</ul>
@@ -437,7 +588,7 @@ def render_publications_page(publications: list[dict], base_path: str) -> str:
             )
         sections.append(
             f"""
-            <section class="publications-year">
+            <section class="publications-year" data-year="{html.escape(year)}">
               <h2>{html.escape(year)}</h2>
               <div class="publications-grid">{''.join(cards)}</div>
             </section>
@@ -458,12 +609,27 @@ def render_publications_page(publications: list[dict], base_path: str) -> str:
     <main class="publications-main">
       <p class="publications-intro">
         {format_number(len(publications))} publicaties met
-        {format_number(sum(len(pub['documents']) for pub in publications))} documenten,
-        gegroepeerd op publicatiejaar.
+        {format_number(sum(len(pub['documents']) for pub in publications))} documenten.
+        Kies een jaartal, zonder zoekscherm. Het besluit staat bovenaan, de overige documenten blijven in bronvolgorde.
       </p>
+      <nav class="year-nav" aria-label="Filter op jaartal">{"".join(year_links)}</nav>
       {"".join(sections)}
     </main>
     {render_site_footer(base_path)}
+    <script>
+      const selectedYear = new URLSearchParams(window.location.search).get("year");
+      document.querySelectorAll(".year-chip").forEach((link) => {{
+        const href = new URL(link.href);
+        const linkYear = href.searchParams.get("year") || "";
+        const active = selectedYear ? linkYear === selectedYear : linkYear === "";
+        link.classList.toggle("is-active", active);
+      }});
+      if (selectedYear) {{
+        document.querySelectorAll(".publications-year").forEach((section) => {{
+          section.hidden = section.dataset.year !== selectedYear;
+        }});
+      }}
+    </script>
   </body>
 </html>
 """
@@ -525,6 +691,7 @@ def compute_statistics(documents: list[dict]) -> dict:
     total_blocks = 0
     total_chars = 0
     largest: list[dict] = []
+    duplicate_records: list[dict] = []
 
     for json_path in json_paths:
         with json_path.open(encoding="utf-8") as handle:
@@ -552,16 +719,28 @@ def compute_statistics(documents: list[dict]) -> dict:
         if retrieved_month:
             retrieved_months[retrieved_month] += 1
 
+        doc_url = f"doc/{payload['publication_slug']}/{payload['pdf_slug']}.html"
         largest.append(
             {
                 "title": payload.get("publication_title", ""),
                 "label": payload.get("pdf_label", ""),
                 "pages": page_count,
-                "url": f"doc/{payload['publication_slug']}/{payload['pdf_slug']}.html",
+                "url": doc_url,
+            }
+        )
+        duplicate_records.append(
+            {
+                "title": payload.get("publication_title", ""),
+                "label": payload.get("pdf_label", ""),
+                "url": doc_url,
+                "publication_slug": payload.get("publication_slug", ""),
+                "sha256": payload.get("sha256") or "",
+                "pdf_url": payload.get("pdf_url") or "",
             }
         )
 
     largest.sort(key=lambda item: item["pages"], reverse=True)
+    duplicate_groups = find_duplicate_groups(duplicate_records)
     document_count = len(documents)
     publication_count = len(publication_slugs)
 
@@ -579,6 +758,9 @@ def compute_statistics(documents: list[dict]) -> dict:
         "documents_by_retrieved_month": dict(sorted(retrieved_months.items())[-12:]),
         "largest_documents": largest[:8],
         "example_searches": compute_example_searches(documents),
+        "duplicate_groups": duplicate_groups[:30],
+        "duplicate_group_count": len(duplicate_groups),
+        "duplicate_document_count": sum(len(group["documents"]) for group in duplicate_groups),
     }
 
 
@@ -623,6 +805,51 @@ def render_statistics_page(stats: dict, base_path: str) -> str:
         """
         for item in stats["example_searches"]
     )
+
+    duplicate_groups = stats.get("duplicate_groups") or []
+    if duplicate_groups:
+        duplicate_rows = "".join(
+            f"""
+            <tr>
+              <td>{html.escape(group.get("reason") or "zelfde document")}</td>
+              <td>{"".join(
+                  f'<div><a href="{html.escape(base_path)}{html.escape(item["url"])}">{html.escape(item["label"] or item["title"])}</a>'
+                  f'<span class="dup-pub">{html.escape(item.get("title") or "")}</span></div>'
+                  for item in group["documents"]
+              )}</td>
+            </tr>
+            """
+            for group in duplicate_groups
+        )
+        group_count = int(stats.get("duplicate_group_count", len(duplicate_groups)) or 0)
+        document_count = int(stats.get("duplicate_document_count", 0) or 0)
+        group_label = "groep" if group_count == 1 else "groepen"
+        document_label = "document" if document_count == 1 else "documenten"
+        duplicate_html = f"""
+        <section class="stats-panel" id="dubbele-documenten">
+          <h2>Dubbele documenten</h2>
+          <p class="stats-footnote">
+            {format_number(group_count)} {group_label}
+            ({format_number(document_count)} {document_label})
+            die hetzelfde bestand of dezelfde bron-PDF zijn.
+          </p>
+          <div class="table-scroll">
+            <table class="stats-table">
+              <thead>
+                <tr><th>Overeenkomst</th><th>Documenten</th></tr>
+              </thead>
+              <tbody>{duplicate_rows}</tbody>
+            </table>
+          </div>
+        </section>
+        """
+    else:
+        duplicate_html = """
+        <section class="stats-panel" id="dubbele-documenten">
+          <h2>Dubbele documenten</h2>
+          <p class="stats-empty">Geen documenten gevonden die hetzelfde bestand of dezelfde bron-PDF delen.</p>
+        </section>
+        """
 
     largest_rows = "".join(
         f"""
@@ -705,6 +932,8 @@ def render_statistics_page(stats: dict, base_path: str) -> str:
           </table>
         </section>
       </div>
+
+      {duplicate_html}
 
       <p class="stats-footnote">
         {stats["ocr_percentage"]}% van de documenten is via OCR geëxtraheerd.
@@ -806,6 +1035,73 @@ def markdown_body(md_path: Path) -> tuple[dict, str]:
     return frontmatter, markdown.markdown(body, extensions=["extra", "sane_lists"])
 
 
+def render_internal_dashboard(stats: dict, publications: list[dict], base_path: str) -> str:
+    latest_rows = "".join(
+        f"""
+        <tr>
+          <td>{format_date(publication['date'])}</td>
+          <td>{html.escape(publication['title'])}</td>
+          <td>{format_number(len(publication['documents']))}</td>
+          <td>{format_number(publication.get('page_count') or 0)}</td>
+        </tr>
+        """
+        for publication in publications[:20]
+    )
+    summary_cards = [
+        ("Documenten", stats.get("document_count", 0)),
+        ("Publicaties", stats.get("publication_count", 0)),
+        ("Pagina's", stats.get("total_pages", 0)),
+        ("Dubbele groepen", stats.get("duplicate_group_count", 0)),
+    ]
+    cards_html = "".join(
+        f"""
+        <article class="stats-card">
+          <p class="stats-card-label">{html.escape(label)}</p>
+          <p class="stats-card-value">{html.escape(format_number(value))}</p>
+        </article>
+        """
+        for label, value in summary_cards
+    )
+    return f"""<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="base-path" content="{html.escape(base_path)}" />
+    <title>Actueel overzicht</title>
+    <link rel="stylesheet" href="{html.escape(base_path)}assets/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div>
+          <h1>Actueel overzicht</h1>
+          <p>Intern dashboard, bijgewerkt uit de laatste crawl, niet opgenomen in de publieke navigatie.</p>
+        </div>
+      </div>
+    </header>
+    <main class="stats-main">
+      <section class="stats-summary">{cards_html}</section>
+      <section class="stats-panel">
+        <h2>Nieuwste publicaties</h2>
+        <table class="stats-table">
+          <thead>
+            <tr><th>Datum</th><th>Publicatie</th><th>Documenten</th><th>Pagina's</th></tr>
+          </thead>
+          <tbody>{latest_rows}</tbody>
+        </table>
+      </section>
+      <section class="stats-panel">
+        <h2>Documenten per publicatiejaar</h2>
+        {render_bar_rows(stats.get("documents_by_year") or {}, limit=12)}
+      </section>
+    </main>
+  </body>
+</html>
+"""
+
+
 def format_frontmatter_value(key: str, value) -> str:
     if value is None or value == "":
         return "—"
@@ -815,10 +1111,6 @@ def format_frontmatter_value(key: str, value) -> str:
         return "Ja" if value else "Nee"
     if key == "page_count":
         return str(value)
-    if key == "sha256":
-        text = str(value)
-        short = f"{text[:12]}…{text[-8:]}" if len(text) > 24 else text
-        return f'<code class="hash" title="{html.escape(text)}">{html.escape(short)}</code>'
     if key in {"source_page_url", "pdf_url"}:
         url = html.escape(str(value))
         label = "Open bronpagina" if key == "source_page_url" else "Download PDF"
@@ -831,7 +1123,7 @@ def render_frontmatter(payload: dict) -> str:
     seen: set[str] = set()
 
     for key in FRONTMATTER_ORDER:
-        if key not in payload or key in {"publication_slug", "pdf_slug", "source_id"}:
+        if key not in payload or key in HIDDEN_FRONTMATTER_KEYS:
             continue
         seen.add(key)
         label = FRONTMATTER_LABELS.get(key, key.replace("_", " ").title())
@@ -839,7 +1131,7 @@ def render_frontmatter(payload: dict) -> str:
         rows.append(f"<dt>{html.escape(label)}</dt><dd>{value_html}</dd>")
 
     for key, value in payload.items():
-        if key in seen or key in {"blocks", "publication_slug", "pdf_slug", "source_id"}:
+        if key in seen or key in HIDDEN_FRONTMATTER_KEYS:
             continue
         label = FRONTMATTER_LABELS.get(key, key.replace("_", " ").title())
         value_html = format_frontmatter_value(key, value)
@@ -848,7 +1140,7 @@ def render_frontmatter(payload: dict) -> str:
     return f'<section class="frontmatter-card"><h2>Metadata</h2><dl class="frontmatter-grid">{"".join(rows)}</dl></section>'
 
 
-def render_doc_page(payload: dict, body_html: str, base_path: str) -> str:
+def render_doc_page(payload: dict, base_path: str) -> str:
     title = html.escape(payload.get("publication_title", "Document"))
     pdf_label = html.escape(payload.get("pdf_label", ""))
     pdf_url = html.escape(payload.get("pdf_url", ""))
@@ -869,32 +1161,23 @@ def render_doc_page(payload: dict, body_html: str, base_path: str) -> str:
     <main class="doc-main">
       <a class="back-link" href="{html.escape(base_path)}">← Terug naar zoeken</a>
       {frontmatter_html}
-      <div class="doc-layout">
-        <section class="doc-panel doc-panel-text">
-          <div class="panel-heading">
-            <h2>Geëxtraheerde tekst</h2>
-            <p class="panel-note">Automatisch geëxtraheerd; controleer altijd de originele PDF.</p>
-          </div>
-          <article class="doc-content">{body_html}</article>
-        </section>
-        <section class="doc-panel doc-panel-pdf">
-          <div class="panel-heading">
-            <h2>Originele PDF</h2>
-            <a class="pdf-open-link" href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open in nieuw tabblad</a>
-          </div>
-          <div class="pdf-frame-wrap">
-            <iframe
-              class="pdf-frame"
-              src="{pdf_url}"
-              title="Originele PDF"
-              loading="lazy"
-            ></iframe>
-            <p class="pdf-fallback">
-              PDF niet zichtbaar? <a href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open de PDF op uwv.nl</a>.
-            </p>
-          </div>
-        </section>
-      </div>
+      <section class="doc-panel doc-panel-pdf">
+        <div class="panel-heading">
+          <h2>Originele PDF</h2>
+          <a class="pdf-open-link" href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open in nieuw tabblad</a>
+        </div>
+        <div class="pdf-frame-wrap">
+          <iframe
+            class="pdf-frame"
+            src="{pdf_url}"
+            title="Originele PDF"
+            loading="lazy"
+          ></iframe>
+          <p class="pdf-fallback">
+            PDF niet zichtbaar? <a href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open de PDF op uwv.nl</a>.
+          </p>
+        </div>
+      </section>
     </main>
     {render_site_footer(base_path)}
   </body>
@@ -1055,6 +1338,7 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
                 "year": year,
                 "path": f"{year}.json",
                 "count": len(sources),
+                "hash": shard_content_hash(sources),
             }
         )
     write_search_manifest(index_dir, len(document_sources), shard_manifest)
@@ -1076,6 +1360,7 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
                             "year": shard["year"],
                             "path": f"search-index/{shard['path']}",
                             "count": shard["count"],
+                            "hash": shard["hash"],
                         }
                         for shard in shard_manifest
                     ],
@@ -1094,6 +1379,14 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
         log("  Writing publications.html…")
         (staging_dir / "publications.html").write_text(
             render_publications_page(publications, base_path),
+            encoding="utf-8",
+        )
+
+        log("  Writing internal dashboard…")
+        dashboard_dir = staging_dir / "internal"
+        dashboard_dir.mkdir(parents=True, exist_ok=True)
+        (dashboard_dir / "actueel.html").write_text(
+            render_internal_dashboard(stats, publications, base_path),
             encoding="utf-8",
         )
     else:
@@ -1137,23 +1430,23 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
         with json_path.open(encoding="utf-8") as handle:
             payload = json.load(handle)
 
-        md_path = json_path.with_suffix(".md")
-        if md_path.exists():
-            _, body_html = markdown_body(md_path)
-        else:
-            body_html = ""
+        if not json_path.with_suffix(".md").exists():
             missing_markdown += 1
 
         doc_path = staging_dir / source.output_rel
         doc_path.parent.mkdir(parents=True, exist_ok=True)
         doc_path.write_text(
-            render_doc_page(payload, body_html, base_path),
+            render_doc_page(payload, base_path),
             encoding="utf-8",
         )
         label = payload.get("pdf_label") or payload.get("publication_title") or payload["pdf_slug"]
         log_progress("rendered", render_index, render_total, label)
 
     (staging_dir / ".nojekyll").touch()
+    (staging_dir / "robots.txt").write_text(
+        f"User-agent: *\nDisallow: {base_path}internal/\n",
+        encoding="utf-8",
+    )
 
     manifest_documents = {
         json_rel: {
@@ -1196,6 +1489,7 @@ def build_site(output_dir: Path, base_path: str, force_rebuild: bool = False) ->
         staging_dir / "about.html",
         staging_dir / "publications.html",
         staging_dir / "statistics.html",
+        staging_dir / "internal" / "actueel.html",
         staging_dir / "assets" / "style.css",
         staging_dir / "assets" / "app.js",
         staging_dir / "assets" / "search-worker.js",

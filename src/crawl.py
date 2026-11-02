@@ -258,8 +258,12 @@ def iter_new_pdfs(
     state,
     temp_dir: Path,
     max_pages: int = 1,
+    max_publications: int | None = None,
 ) -> Iterator[DownloadedPdf]:
     publications = fetch_publications(session, settings, max_pages=max_pages)
+    if max_publications is not None:
+        publications = publications[:max_publications]
+        print(f"Limited to the {len(publications)} most recent publication(s).")
 
     for publication in publications:
         time.sleep(settings.request_delay)

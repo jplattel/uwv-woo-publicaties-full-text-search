@@ -75,15 +75,16 @@ header.site-header p {
 
 .site-nav {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
-  flex-shrink: 0;
+  justify-content: flex-end;
 }
 
 .site-nav-link {
   color: var(--muted);
   text-decoration: none;
   font-size: 0.9rem;
-  padding: 0.45rem 0.75rem;
+  padding: 0.55rem 0.85rem;
   border-radius: 999px;
   border: 1px solid transparent;
 }
@@ -129,6 +130,8 @@ body.doc-page main.doc-main {
 
 .search-box input {
   flex: 1;
+  min-width: 0;
+  width: 100%;
   padding: 0.85rem 1rem;
   border: 1px solid var(--border);
   border-radius: 0.6rem;
@@ -176,13 +179,14 @@ body.doc-page main.doc-main {
 }
 
 .filter-field select {
-  min-width: 8rem;
+  min-width: 0;
+  width: 100%;
   padding: 0.45rem 0.6rem;
   border: 1px solid var(--border);
   border-radius: 0.5rem;
   background: var(--surface);
   color: var(--text);
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .filter-checkbox {
@@ -235,7 +239,8 @@ body.doc-page main.doc-main {
   margin-left: 0.35rem;
 }
 
-.ocr-badge {
+.ocr-badge,
+.dup-badge {
   display: inline-block;
   margin-left: 0.35rem;
   padding: 0.1rem 0.45rem;
@@ -245,6 +250,23 @@ body.doc-page main.doc-main {
   font-size: 0.72rem;
   font-weight: 600;
   vertical-align: middle;
+}
+
+.dup-pub {
+  display: block;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.table-scroll {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+img,
+iframe,
+video {
+  max-width: 100%;
 }
 
 .search-status {
@@ -460,10 +482,7 @@ mark {
 }
 
 .doc-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 1rem;
-  align-items: start;
+  display: block;
 }
 
 .doc-panel {
@@ -527,7 +546,8 @@ mark {
 .pdf-frame {
   flex: 1;
   width: 100%;
-  min-height: 65vh;
+  height: 75dvh;
+  min-height: 28rem;
   border: 0;
   background: #525659;
 }
@@ -594,6 +614,7 @@ mark {
   border-radius: 0.75rem;
   padding: 1rem 1.1rem;
   margin-bottom: 1rem;
+  overflow-x: auto;
 }
 
 .stats-panel h2 {
@@ -770,13 +791,77 @@ mark {
   border-radius: 0.35rem;
 }
 
+.year-browse {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 1.25rem;
+}
+
+.year-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.4rem;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.year-chip.is-active,
+.year-chip:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.clear-filters {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 0.5rem;
+  min-height: 2.4rem;
+  padding: 0.45rem 0.8rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.clear-filters:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.no-result-suggestions {
+  justify-content: center;
+  margin-top: 0.75rem;
+}
+
+.empty-state a {
+  color: var(--accent);
+}
+
+body.doc-page header.site-header h1 {
+  font-size: 1.05rem;
+  overflow-wrap: anywhere;
+}
+
 @media (max-width: 980px) {
   .site-header-inner {
     flex-direction: column;
   }
 
-  .doc-layout {
-    grid-template-columns: 1fr;
+  .site-nav {
+    justify-content: flex-start;
+    width: 100%;
   }
 
   .doc-panel {
@@ -784,7 +869,23 @@ mark {
   }
 
   .pdf-frame {
-    min-height: 55vh;
+    height: 70dvh;
+    min-height: 22rem;
+  }
+
+  .search-filters-row,
+  .filter-field,
+  .filter-field select,
+  .clear-filters {
+    width: 100%;
+  }
+
+  .stats-bar-row {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .stats-bar-track {
+    display: none;
   }
 }
 

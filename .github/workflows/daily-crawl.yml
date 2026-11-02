@@ -26,7 +26,7 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y tesseract-ocr tesseract-ocr-nld poppler-utils
+          sudo apt-get install -y poppler-utils libgl1 libglib2.0-0 libgomp1
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
@@ -44,6 +44,7 @@ jobs:
       - name: Run crawler
         env:
           PYTHONUNBUFFERED: "1"
+          PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK: "True"
         run: uv run python -m src.main --max-pages "${{ github.event.inputs.max_pages || '1' }}"
 
       - name: Commit and push changes

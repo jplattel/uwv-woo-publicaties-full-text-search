@@ -9,7 +9,7 @@ Daily pipeline that crawls [UWV Woo-publicaties](https://www.uwv.nl/nl/wet-open-
 1. Fetches the most recent publications from the UWV overview API (first page by default).
 2. Visits each publication page and finds all linked PDFs.
 3. Skips PDFs already recorded in `data/state.json` (matched by URL + SHA256).
-4. Extracts text blocks from each PDF using `pdfplumber`, falling back to Tesseract OCR for scanned pages.
+4. Extracts text blocks from each PDF using `pdfplumber`, falling back to PaddleOCR (Dutch PP-OCR) for scanned pages.
 5. Writes paired output files:
    - `data/<publication-slug>/<pdf-slug>.json`
    - `data/<publication-slug>/<pdf-slug>.md`
@@ -25,10 +25,12 @@ Install [uv](https://docs.astral.sh/uv/), then:
 uv sync
 ```
 
-Install system dependencies:
+Install system dependencies. Poppler rasterizes scanned pages. PaddleOCR also needs the OpenGL and OpenMP libraries used by its runtime:
 
-- macOS: `brew install tesseract tesseract-lang poppler`
-- Ubuntu: `sudo apt-get install tesseract-ocr tesseract-ocr-nld poppler-utils`
+- macOS: `brew install poppler`
+- Ubuntu: `sudo apt-get install poppler-utils libgl1 libglib2.0-0 libgomp1`
+
+Scanned pages are read with PaddleOCR's Dutch model through ONNX Runtime. The first OCR run downloads those models. `ocr_lang` in `config/sources.yml` is a PaddleOCR language code (`nl`). The old Tesseract code `nld` is still accepted.
 
 ## Run locally
 

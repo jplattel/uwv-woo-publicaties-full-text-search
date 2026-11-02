@@ -30,9 +30,12 @@
           type="search"
           placeholder="Zoek op onderwerp, titel, tekst…"
           autofocus
-          disabled
         />
       </div>
+      <p class="year-browse">
+        Alleen op jaartal, zonder zoekscherm:
+        <a href="{{ base_path }}publications.html">blader per jaar</a>
+      </p>
       <div id="search-suggestions" class="search-suggestions" aria-busy="true">
         <span class="search-suggestions-label">Voorbeeldzoekopdrachten:</span>
       </div>
@@ -62,6 +65,7 @@
             <input id="filter-ocr" type="checkbox" />
             Alleen OCR
           </label>
+          <button type="button" id="clear-filters" class="clear-filters" hidden>Filters wissen</button>
         </div>
       </div>
       <div id="search-status" class="search-status is-loading" aria-live="polite">
@@ -72,7 +76,7 @@
       <div id="results"></div>
       <nav id="pagination" class="pagination" aria-label="Paginering" hidden></nav>
     </main>
-    <div id="page-loader" class="page-loader is-visible" aria-live="polite" aria-busy="true">
+    <div id="page-loader" class="page-loader" aria-live="polite" aria-busy="false">
       <div class="page-loader-card">
         <span class="page-loader-spinner" aria-hidden="true"></span>
         <p class="page-loader-title">Zoekindex laden</p>

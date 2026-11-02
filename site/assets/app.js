@@ -102,11 +102,13 @@ function createSearchWorker() {
           onReady?.();
           return;
         }
-        if (type === "search-results") {
+        if (type === "search-results" || type === "suggest-results") {
           const pending = pendingSearches.get(event.data.requestId);
           if (pending) {
             pendingSearches.delete(event.data.requestId);
-            pending.resolve(event.data.results);
+            pending.resolve(
+              type === "search-results" ? event.data.results : event.data.suggestions || [],
+            );
           }
           return;
         }
@@ -128,19 +130,19 @@ function createSearchWorker() {
   let onError = null;
 
   return {
-    load(shards, callbacks) {
+    ensure(shards, callbacks) {
       onShardLoaded = callbacks.onShardLoaded;
       onReady = callbacks.onReady;
       onError = callbacks.onError;
-      ready = false;
       loadError = null;
+      ready = false;
       ensureWorker().postMessage({
-        type: "load",
+        type: "ensure",
         baseUrl: BASE,
         shards,
       });
     },
-    async search(query) {
+    async search(query, years) {
       if (loadError) {
         throw loadError;
       }
@@ -150,7 +152,17 @@ function createSearchWorker() {
       const requestId = nextRequestId++;
       return new Promise((resolve, reject) => {
         pendingSearches.set(requestId, { resolve, reject });
-        ensureWorker().postMessage({ type: "search", query, requestId });
+        ensureWorker().postMessage({ type: "search", query, years, requestId });
+      });
+    },
+    async suggest(query, years) {
+      if (loadError || !ready) {
+        return [];
+      }
+      const requestId = nextRequestId++;
+      return new Promise((resolve, reject) => {
+        pendingSearches.set(requestId, { resolve, reject });
+        ensureWorker().postMessage({ type: "suggest", query, years, requestId });
       });
     },
   };
@@ -241,6 +253,7 @@ async function initSearch() {
   const typeEl = document.querySelector("#filter-type");
   const ocrEl = document.querySelector("#filter-ocr");
   const sortEl = document.querySelector("#sort-by");
+  const clearFiltersEl = document.querySelector("#clear-filters");
   const paginationEl = document.querySelector("#pagination");
   const statusEl = document.querySelector("#search-status");
   const statusTextEl = document.querySelector("#search-status-text");
@@ -255,9 +268,11 @@ async function initSearch() {
   const initialState = readInitialState();
   const searchWorker = createSearchWorker();
   let indexReady = false;
-  let pendingQuery = initialState.query || null;
   let documentCount = 0;
   let suggestions = [];
+  let shardCatalog = [];
+  let loadedShardKeys = new Set();
+  let ensurePromise = null;
   let currentPage = initialState.page;
   let lastQuery = "";
 
@@ -321,6 +336,83 @@ async function initSearch() {
     if (filtersEl) {
       filtersEl.hidden = false;
     }
+  }
+
+  function selectedShardYears() {
+    const yearFrom = yearFromEl?.value ? Number(yearFromEl.value) : null;
+    const yearTo = yearToEl?.value ? Number(yearToEl.value) : null;
+    if (yearFrom === null && yearTo === null) {
+      return null;
+    }
+    return shardCatalog
+      .filter((shard) => {
+        const year = Number(shard.year);
+        if (!Number.isFinite(year)) {
+          return false;
+        }
+        if (yearFrom !== null && year < yearFrom) {
+          return false;
+        }
+        if (yearTo !== null && year > yearTo) {
+          return false;
+        }
+        return true;
+      })
+      .map((shard) => String(shard.year));
+  }
+
+  function shardsForSearch() {
+    const years = selectedShardYears();
+    if (!years) {
+      return shardCatalog;
+    }
+    const wanted = new Set(years);
+    return shardCatalog.filter((shard) => wanted.has(String(shard.year)));
+  }
+
+  function ensureIndex(shards) {
+    const missing = shards.filter((shard) => !loadedShardKeys.has(`${shard.year}:${shard.hash || ""}`));
+    if (!missing.length) {
+      indexReady = true;
+      return Promise.resolve();
+    }
+    if (ensurePromise) {
+      return ensurePromise.then(() => ensureIndex(shards));
+    }
+
+    setLoading(true, "Zoekindex laden…");
+    setPageLoader(false);
+
+    ensurePromise = new Promise((resolve, reject) => {
+      let networkLoads = 0;
+      searchWorker.ensure(missing, {
+        onShardLoaded({ loaded, total, year, cached }) {
+          if (!cached) {
+            networkLoads += 1;
+          }
+          const message = networkLoads
+            ? `Index laden (${loaded}/${total}) — ${year}…`
+            : `Index uit cache (${loaded}/${total})…`;
+          setLoading(true, message);
+          setPageLoader(networkLoads > 0, message);
+        },
+        onReady() {
+          for (const shard of missing) {
+            loadedShardKeys.add(`${shard.year}:${shard.hash || ""}`);
+          }
+          indexReady = true;
+          input.disabled = false;
+          setPageLoader(false);
+          resolve();
+        },
+        onError(error) {
+          reject(error);
+        },
+      });
+    }).finally(() => {
+      ensurePromise = null;
+    });
+    return ensurePromise;
   }
 
   function setPageLoader(isLoading, detail) {
@@ -433,17 +525,36 @@ async function initSearch() {
     `;
   }
 
-  async function renderResults(query) {
-    if (!indexReady) {
-      pendingQuery = query;
-      setLoading(true, "Zoekindex laden…");
-      setPageLoader(true, "Zoekindex laden…");
-      return;
-    }
+  function renderNoResults(query, rawCount) {
+    const exampleButtons = suggestions
+      .filter((item) => item.term && item.term.toLowerCase() !== query.toLowerCase())
+      .slice(0, 6)
+      .map(
+        ({ term, count }) =>
+          `<button type="button" class="suggestion-chip" data-term="${escapeAttr(term)}">${escapeHtml(term)}${
+            typeof count === "number" ? `<span class="suggestion-count">${count}</span>` : ""
+          }</button>`,
+      )
+      .join("");
+    const filterHint =
+      rawCount > 0
+        ? `<p>Er zijn ${rawCount.toLocaleString("nl-NL")} treffers, maar de filters verbergen ze.</p>`
+        : `<p>Geen resultaten voor “${escapeHtml(query)}”.</p>`;
+    resultsEl.innerHTML = `
+      <div class="empty-state">
+        ${filterHint}
+        <p>Probeer een andere term, wis de filters, of blader <a href="${BASE}publications.html">op jaartal</a>.</p>
+        <div class="search-suggestions no-result-suggestions">
+          <span class="search-suggestions-label">Suggesties:</span>
+          <span id="dynamic-suggestions"></span>
+          ${exampleButtons}
+        </div>
+      </div>
+    `;
+    renderPagination(0, 1);
+  }
 
-    pendingQuery = null;
-    setLoading(false);
-    setPageLoader(false);
+  async function renderResults(query) {
     lastQuery = query;
 
     if (!query.trim()) {
@@ -453,10 +564,22 @@ async function initSearch() {
       return;
     }
 
+    const shards = shardsForSearch();
+    const years = selectedShardYears();
+    try {
+      await ensureIndex(shards);
+    } catch (error) {
+      console.error(error);
+      resultsEl.innerHTML = `<p class="empty-state">Kon de zoekindex niet laden.</p>`;
+      setLoading(false);
+      setPageLoader(false);
+      return;
+    }
+
     setLoading(true, "Zoeken…");
     let rawResults;
     try {
-      rawResults = await searchWorker.search(query);
+      rawResults = await searchWorker.search(query, years);
     } catch (error) {
       console.error(error);
       resultsEl.innerHTML = `<p class="empty-state">Zoeken mislukt.</p>`;
@@ -486,8 +609,21 @@ async function initSearch() {
     countEl.textContent = `${totalResults.toLocaleString("nl-NL")} resultaten voor “${query}”${filterNote}`;
 
     if (!totalResults) {
-      resultsEl.innerHTML = `<p class="empty-state">Geen resultaten gevonden.</p>`;
-      renderPagination(0, 1);
+      renderNoResults(query, rawResults.length);
+      try {
+        const dynamic = await searchWorker.suggest(query, years);
+        const slot = document.querySelector("#dynamic-suggestions");
+        if (slot && dynamic.length) {
+          slot.innerHTML = dynamic
+            .map(
+              (term) =>
+                `<button type="button" class="suggestion-chip" data-term="${escapeAttr(term)}">${escapeHtml(term)}</button>`,
+            )
+            .join("");
+        }
+      } catch (error) {
+        console.error(error);
+      }
       return;
     }
 
@@ -513,26 +649,48 @@ async function initSearch() {
     renderPagination(totalResults, currentPage);
   }
 
+  function filtersAreActive() {
+    return Boolean(
+      yearFromEl?.value || yearToEl?.value || typeEl?.value || ocrEl?.checked || (sortEl && sortEl.value !== "relevance"),
+    );
+  }
+
+  function clearFilters() {
+    if (yearFromEl) {
+      yearFromEl.value = "";
+    }
+    if (yearToEl) {
+      yearToEl.value = "";
+    }
+    if (typeEl) {
+      typeEl.value = "";
+    }
+    if (ocrEl) {
+      ocrEl.checked = false;
+    }
+    if (sortEl) {
+      sortEl.value = "relevance";
+    }
+    if (clearFiltersEl) {
+      clearFiltersEl.hidden = true;
+    }
+    runSearch(input.value.trim(), 1);
+  }
+
   function runSearch(query, page = 1) {
     currentPage = page;
-    if (!indexReady) {
-      pendingQuery = query;
-      setLoading(true, "Zoekindex laden…");
-      setPageLoader(true, "Zoekindex laden…");
-      return;
+    if (clearFiltersEl) {
+      clearFiltersEl.hidden = !filtersAreActive();
     }
-
-    if (!query.trim()) {
-      renderResults(query);
-      return;
-    }
-
     renderResults(query);
   }
 
   const debouncedSearch = debounce((query) => runSearch(query, 1), SEARCH_DEBOUNCE_MS);
 
   wireSuggestionClicks(input, suggestionsEl, (term) => {
+    runSearch(term, 1);
+  });
+  wireSuggestionClicks(input, resultsEl, (term) => {
     runSearch(term, 1);
   });
 
@@ -548,11 +706,20 @@ async function initSearch() {
 
   for (const control of [yearFromEl, yearToEl, typeEl, ocrEl, sortEl]) {
     control?.addEventListener("change", () => {
+      if (clearFiltersEl) {
+        clearFiltersEl.hidden = !filtersAreActive();
+      }
       if (lastQuery.trim()) {
         runSearch(lastQuery, 1);
+      } else {
+        updateUrl(getFilterState());
       }
     });
   }
+
+  clearFiltersEl?.addEventListener("click", () => {
+    clearFilters();
+  });
 
   paginationEl?.addEventListener("click", (event) => {
     const button = event.target.closest(".page-button");
@@ -567,30 +734,9 @@ async function initSearch() {
     resultsEl.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 
-  function finishIndexLoad() {
-    indexReady = true;
-    input.disabled = false;
-
-    if (suggestions.length) {
-      renderSuggestionChips(suggestionsEl, suggestions, true);
-    }
-
-    if (pendingQuery) {
-      input.value = pendingQuery;
-      input.focus();
-      runSearch(pendingQuery, initialState.page);
-      return;
-    }
-
-    input.focus();
-    setPageLoader(false);
-    setLoading(false);
-    renderEmptyState();
-  }
-
   renderEmptyState();
   setLoading(true, "Metadata laden…");
-  setPageLoader(true, "Voorbeeldzoekopdrachten laden…");
+  setPageLoader(false);
 
   try {
     const metaResponse = await fetch(`${BASE}search-meta.json`);
@@ -602,37 +748,31 @@ async function initSearch() {
     documentCount = Number(meta.documentCount || 0);
 
     populateFilters(meta);
-
-    if (suggestions.length) {
-      renderSuggestionChips(suggestionsEl, suggestions, false);
-    }
-
-    countEl.textContent = `${documentCount.toLocaleString("nl-NL")} documenten · index laden…`;
-
-    const shards = meta.indexShards || [];
-    if (!shards.length) {
+    shardCatalog = meta.indexShards || [];
+    if (!shardCatalog.length) {
       throw new Error("Geen zoekindex shards gevonden — herbouw de site.");
     }
 
-    searchWorker.load(shards, {
-      onShardLoaded({ loaded, total, year }) {
-        setPageLoader(
-          true,
-          `Index laden (${loaded}/${total}) — ${year}…`,
-        );
-        setLoading(true, `Index laden (${loaded}/${total})…`);
-      },
-      onReady() {
-        finishIndexLoad();
-      },
-      onError(error) {
-        console.error(error);
-        setLoading(false);
-        setPageLoader(false);
-        resultsEl.innerHTML = `<p class="empty-state">Kon de zoekindex niet laden.</p>`;
-        countEl.textContent = "";
-      },
-    });
+    if (suggestions.length) {
+      renderSuggestionChips(suggestionsEl, suggestions, true);
+    }
+    if (clearFiltersEl) {
+      clearFiltersEl.hidden = !filtersAreActive();
+    }
+
+    input.disabled = false;
+    setLoading(false);
+    setPageLoader(false);
+    countEl.textContent = `${documentCount.toLocaleString("nl-NL")} documenten doorzoekbaar`;
+
+    if (initialState.query) {
+      input.value = initialState.query;
+      runSearch(initialState.query, initialState.page);
+      return;
+    }
+
+    input.focus();
+    renderEmptyState();
   } catch (error) {
     console.error(error);
     setLoading(false);
