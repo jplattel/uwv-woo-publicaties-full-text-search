@@ -8,8 +8,8 @@ publication_title: Woo-besluit over de Risicoscan Verblijf Buiten Nederland
 publication_date: '2026-10-08T11:04:00Z'
 publication_type: WOO publicatie
 pdf_label: Q&A Herzien boetes n.a.v. Risicoscan VBN (PDF, 238 kB)
-retrieved_at: '2026-11-02T09:08:37+00:00'
-sha256: 9c4f9231ca649c2b551178f4a7f80e97778e04cff0f786f10736578294c658ce
+retrieved_at: '2026-10-23T10:59:10+00:00'
+sha256: 4058b1f6a69acd2bdfa0645fb3b4701dd3327433d4825e74043f46831076f24d
 page_count: 1
 ocr_used: false
 ---

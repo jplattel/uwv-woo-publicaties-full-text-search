@@ -9,8 +9,8 @@ publication_title: Woo-besluit over de interne behandeling en doorgeleiding van 
 publication_date: '2026-10-04T22:00:00Z'
 publication_type: WOO publicatie
 pdf_label: Werkinstructie B&B (PDF, 774 kB)
-retrieved_at: '2026-11-02T09:08:48+00:00'
-sha256: c719ab06f6555cd1ebb994b12a71f5d29dabc33b9b8308206248f890585c6729
+retrieved_at: '2026-10-28T11:57:56+00:00'
+sha256: 048f62bd56c3471fac4dffa9a68497559afb6296f1364f671733099b2044fc47
 page_count: 2
 ocr_used: false
 ---

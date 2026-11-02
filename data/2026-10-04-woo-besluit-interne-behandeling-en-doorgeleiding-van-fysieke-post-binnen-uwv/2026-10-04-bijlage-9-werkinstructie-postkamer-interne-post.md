@@ -9,8 +9,8 @@ publication_title: Woo-besluit over de interne behandeling en doorgeleiding van 
 publication_date: '2026-10-04T22:00:00Z'
 publication_type: WOO publicatie
 pdf_label: Werkinstructie postkamer interne post (PDF, 1 MB)
-retrieved_at: '2026-11-02T09:08:51+00:00'
-sha256: 8f05c92e43218daa5ed753b3f80760ea477b346b5d249d5646661fb8868e4db0
+retrieved_at: '2026-10-28T11:58:00+00:00'
+sha256: 7ab5b9f4251a0b5dc19cbdafc4e3af14a8abf3c3a1e99d26c3ca667a07528275
 page_count: 5
 ocr_used: false
 ---

@@ -8,13 +8,11 @@ publication_title: Woo-besluit over de Werkwijzer Laattijdige aanvragen Wajong-u
 publication_date: '2026-10-04T22:00:00Z'
 publication_type: WOO publicatie
 pdf_label: Compendium Participatiewet (PDF, 218 kB)
-retrieved_at: '2026-11-02T09:09:21+00:00'
-sha256: adb3bcc13b7e6cda2675a43832de0d5c91b43f80c6dd7f2450fd34aca2c27ab9
+retrieved_at: '2026-10-23T10:59:19+00:00'
+sha256: 0a85e140c3609a7c8d7ff5ba6128fe684cb0d8cafd780db4c7ee45e3f66885ce
 page_count: 18
 ocr_used: true
 ---
-
-## 1
 
 Compendium Participatiewet
 

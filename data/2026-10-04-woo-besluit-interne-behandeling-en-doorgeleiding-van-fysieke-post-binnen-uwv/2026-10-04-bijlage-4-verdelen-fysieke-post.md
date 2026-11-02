@@ -9,8 +9,8 @@ publication_title: Woo-besluit over de interne behandeling en doorgeleiding van 
 publication_date: '2026-10-04T22:00:00Z'
 publication_type: WOO publicatie
 pdf_label: Verdelen fysieke post (PDF, 587 kB)
-retrieved_at: '2026-11-02T09:08:46+00:00'
-sha256: 0f36f38931917d36ce705b51a2a39a65aa38f2b57ea9407686e489692c719ed2
+retrieved_at: '2026-10-28T11:57:54+00:00'
+sha256: 53d557cfcf932b655d879ea8068e9b46cde4056eb411e260514c98fda12ba1ea
 page_count: 1
 ocr_used: false
 ---

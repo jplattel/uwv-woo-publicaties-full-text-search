@@ -8,8 +8,8 @@ publication_title: Woo-besluit over de Risicoscan Verblijf Buiten Nederland
 publication_date: '2026-10-08T11:04:00Z'
 publication_type: WOO publicatie
 pdf_label: Woordvoeringslijn UWV openbaar maken Kenmerken Risicoscans (PDF, 489 kB)
-retrieved_at: '2026-11-02T09:08:38+00:00'
-sha256: 911e367ea010cbe56a561d985dd123baa1af750402ccb85e5ea4a85e6e00427d
+retrieved_at: '2026-10-23T10:59:11+00:00'
+sha256: a28e75b26d35aec50c13bc0b987943b3e9458e822d91a0c5aea4e6dc1a272fa1
 page_count: 1
 ocr_used: false
 ---

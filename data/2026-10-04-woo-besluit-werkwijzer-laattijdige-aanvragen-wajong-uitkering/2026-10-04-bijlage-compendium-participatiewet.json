@@ -8,31 +8,19 @@
   "publication_date": "2026-10-04T22:00:00Z",
   "publication_type": "WOO publicatie",
   "pdf_label": "Compendium Participatiewet (PDF, 218 kB)",
-  "retrieved_at": "2026-11-02T09:09:21+00:00",
-  "sha256": "adb3bcc13b7e6cda2675a43832de0d5c91b43f80c6dd7f2450fd34aca2c27ab9",
+  "retrieved_at": "2026-10-23T10:59:19+00:00",
+  "sha256": "0a85e140c3609a7c8d7ff5ba6128fe684cb0d8cafd780db4c7ee45e3f66885ce",
   "page_count": 18,
   "ocr_used": true,
   "blocks": [
     {
-      "type": "heading",
-      "page": 1,
-      "bbox": [
-        1038.0,
-        105.0,
-        1145.0,
-        324.0
-      ],
-      "text": "1",
-      "source": "ocr"
-    },
-    {
       "type": "paragraph",
       "page": 1,
       "bbox": [
-        263.0,
-        139.0,
-        956.0,
-        196.0
+        269.0,
+        147.0,
+        948.0,
+        193.0
       ],
       "text": "Compendium Participatiewet",
       "source": "ocr"
@@ -425,10 +413,10 @@
       "type": "heading",
       "page": 4,
       "bbox": [
-        228.0,
-        1702.0,
-        272.0,
-        1736.0
+        237.0,
+        1710.0,
+        265.0,
+        1726.0
       ],
       "text": "IV",
       "source": "ocr"

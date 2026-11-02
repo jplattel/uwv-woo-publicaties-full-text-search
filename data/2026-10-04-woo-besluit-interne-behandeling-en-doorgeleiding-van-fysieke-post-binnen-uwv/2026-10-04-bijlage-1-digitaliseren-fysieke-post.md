@@ -9,8 +9,8 @@ publication_title: Woo-besluit over de interne behandeling en doorgeleiding van 
 publication_date: '2026-10-04T22:00:00Z'
 publication_type: WOO publicatie
 pdf_label: Digitaliseren fysieke post (PDF, 142 kB)
-retrieved_at: '2026-11-02T09:08:44+00:00'
-sha256: 3430a6a1c4b5651967c904555bdeecf8747394e8daf67771516cfecc41748f6f
+retrieved_at: '2026-10-28T11:57:51+00:00'
+sha256: 71ec51dde8a0a9c5de098a09942630e629e440c66edc30eb28d2853553fed45c
 page_count: 1
 ocr_used: false
 ---

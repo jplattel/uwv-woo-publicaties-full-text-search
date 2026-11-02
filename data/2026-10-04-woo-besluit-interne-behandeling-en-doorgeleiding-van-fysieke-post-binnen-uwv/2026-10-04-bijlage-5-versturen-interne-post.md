@@ -9,8 +9,8 @@ publication_title: Woo-besluit over de interne behandeling en doorgeleiding van 
 publication_date: '2026-10-04T22:00:00Z'
 publication_type: WOO publicatie
 pdf_label: Versturen interne post (PDF, 91 kB)
-retrieved_at: '2026-11-02T09:08:47+00:00'
-sha256: 381f9678466a042c34513e55b8f3fbbc3da0eade70214dbc6b27c1c13bd40da4
+retrieved_at: '2026-10-28T11:57:55+00:00'
+sha256: 97577d54692ae1c3016b240635af67568f79e363ec44218b50105e04dea8de32
 page_count: 1
 ocr_used: false
 ---
