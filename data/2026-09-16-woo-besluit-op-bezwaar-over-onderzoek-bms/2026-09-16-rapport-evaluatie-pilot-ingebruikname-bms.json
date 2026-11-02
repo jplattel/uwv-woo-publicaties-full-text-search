@@ -1,0 +1,8777 @@
+{
+  "source_id": "2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms",
+  "publication_slug": "2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms",
+  "pdf_slug": "2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms",
+  "source_page_url": "https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2026/woo-besluit-op-bezwaar-over-onderzoek-bms",
+  "pdf_url": "https://www.uwv.nl/assets-kai/files/0d0b9176-364b-4f9e-b51e-69cc67b9b73d/rapport-evaluatie-pilot-ingebruikname-bms.pdf",
+  "publication_title": "Woo-besluit op bezwaar over onderzoek BMS",
+  "publication_date": "2026-09-16T22:00:00Z",
+  "publication_type": "WOO publicatie",
+  "pdf_label": "Rapport evaluatie pilot ingebruikname BMS (PDF, 4 MB)",
+  "retrieved_at": "2026-09-23T10:37:53+00:00",
+  "sha256": "11a3ed9f0b1f0af431262617ad211836400ae629fbf5a218929dc2aac1cc7e67",
+  "page_count": 10,
+  "ocr_used": false,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        74.0,
+        459.01,
+        259.22,
+        470.01
+      ],
+      "text": "multidisciplinair implementatieteam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        45.0,
+        460.01,
+        286.25,
+        469.01
+      ],
+      "text": "Door BMS",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        235.0,
+        473.01,
+        245.0,
+        488.01
+      ],
+      "text": "ij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        128.0,
+        474.01,
+        240.0,
+        486.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        58.0,
+        475.01,
+        99.78,
+        486.01
+      ],
+      "text": "opdracht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        45.0,
+        476.01,
+        51.0,
+        485.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        107.0,
+        478.01,
+        120.5,
+        484.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        45.0,
+        491.01,
+        272.7,
+        503.01
+      ],
+      "text": "implementatiemanager Bemiddelingsservice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -132.0,
+        1.01,
+        -117.0,
+        11.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        1.01,
+        -67.72,
+        12.01
+      ],
+      "text": "Gebruik de UWV bullets de button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        13.01,
+        -195.15,
+        24.01
+      ],
+      "text": "‘Lijstniveau’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        32.0,
+        32.03,
+        210.2,
+        60.03
+      ],
+      "text": "H 1. Inleiding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -236.0,
+        39.01,
+        -107.86,
+        50.01
+      ],
+      "text": "Niveau 1: tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        41.01,
+        -246.5,
+        50.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -236.0,
+        52.01,
+        -88.0,
+        63.01
+      ],
+      "text": "Niveau 2 t/m 5: tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -137.0,
+        53.01,
+        -122.75,
+        63.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        54.01,
+        -246.5,
+        63.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        77.01,
+        -52.5,
+        88.01
+      ],
+      "text": "Typ je tekst de tekstregel. Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -166.0,
+        78.01,
+        -141.14,
+        88.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -194.0,
+        79.01,
+        -39.0,
+        88.01
+      ],
+      "text": "op nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        90.01,
+        -42.75,
+        101.01
+      ],
+      "text": "de standaard button bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -154.0,
+        92.01,
+        -137.2,
+        101.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        102.01,
+        -46.0,
+        113.01
+      ],
+      "text": "Klik het pijltje links verlaagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -108.0,
+        103.01,
+        -102.0,
+        114.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -230.0,
+        105.01,
+        -114.0,
+        114.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        115.01,
+        -37.0,
+        126.01
+      ],
+      "text": "tekstniveau. Klik het pijltje rechts je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -171.0,
+        117.01,
+        -49.0,
+        126.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        -249.0,
+        128.01,
+        -135.38,
+        139.01
+      ],
+      "text": "verhoogt het tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        134.01,
+        558.0,
+        146.01
+      ],
+      "text": "Inleiding Aanpak",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        550.0,
+        161.01,
+        657.05,
+        173.01
+      ],
+      "text": "aanloopbijeenkomst",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        162.01,
+        723.33,
+        173.01
+      ],
+      "text": "In In 11",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        59.0,
+        162.01,
+        831.2,
+        174.01
+      ],
+      "text": "de periode 2 23 2026 is pilot uitgevoerd de BMS december 2025 zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        126.0,
+        163.01,
+        878.89,
+        174.01
+      ],
+      "text": "maart tot maart concrete",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        272.0,
+        164.01,
+        706.25,
+        173.01
+      ],
+      "text": "er een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        348.0,
+        176.01,
+        358.0,
+        187.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        176.01,
+        879.0,
+        188.01
+      ],
+      "text": "conform 2 de gefaseerde ingebruikname BMS. pilot vond afspraken gemaakt het koploperteam BCM’er het volgen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        93.0,
+        177.01,
+        640.75,
+        188.01
+      ],
+      "text": "stap met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        747.0,
+        178.01,
+        901.25,
+        187.01
+      ],
+      "text": "en over van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        129.0,
+        178.01,
+        144.0,
+        188.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        190.01,
+        823.3,
+        202.01
+      ],
+      "text": "plaats Frieslandmet koploperteam acht adviseurs. de het leertraject de planning werkzaamheden (cliënten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        401.0,
+        191.01,
+        407.67,
+        202.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        81.0,
+        191.01,
+        87.67,
+        203.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        93.0,
+        193.01,
+        838.67,
+        202.01
+      ],
+      "text": "rayon een van van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        600.0,
+        198.0,
+        601.5,
+        203.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        205.01,
+        812.36,
+        217.01
+      ],
+      "text": "pilot hebben zij ervaring opgedaan in het werken de Bemiddelings- werkgevers) de ondersteuning monitoring evaluatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        303.0,
+        206.01,
+        318.75,
+        217.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        750.0,
+        207.01,
+        758.67,
+        216.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        587.0,
+        212.0,
+        685.5,
+        217.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        219.01,
+        399.4,
+        231.01
+      ],
+      "text": "service in de dagelijkse praktijk echte praktijksituaties. acht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        211.0,
+        220.01,
+        374.0,
+        231.01
+      ],
+      "text": "met De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        544.0,
+        232.01,
+        896.0,
+        244.01
+      ],
+      "text": "koploperteam heeft het gehele leertraject doorlopen. Vervolgens is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        233.01,
+        536.25,
+        244.01
+      ],
+      "text": "Het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        300.0,
+        234.01,
+        304.0,
+        245.01
+      ],
+      "text": "A",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        234.01,
+        395.5,
+        246.01
+      ],
+      "text": "adviseurs bestaan uit werkgeversadviseurs werkgevers-",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        159.0,
+        235.01,
+        179.8,
+        246.01
+      ],
+      "text": "twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        313.0,
+        236.01,
+        328.0,
+        245.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        307.0,
+        241.0,
+        308.5,
+        246.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        247.01,
+        850.67,
+        259.01
+      ],
+      "text": "het koploperteam werken in de productieomgeving de",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        93.0,
+        248.01,
+        351.67,
+        259.01
+      ],
+      "text": "B A B.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        248.01,
+        337.6,
+        260.01
+      ],
+      "text": "adviseur drie adviseurs werk adviseurs werk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        619.0,
+        249.01,
+        835.25,
+        258.01
+      ],
+      "text": "gaan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        235.0,
+        249.01,
+        255.8,
+        260.01
+      ],
+      "text": "twee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        219.0,
+        250.01,
+        227.67,
+        259.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        100.0,
+        255.0,
+        101.5,
+        260.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        261.01,
+        626.76,
+        273.01
+      ],
+      "text": "Bemiddelingsservice.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        67.0,
+        275.01,
+        410.29,
+        287.01
+      ],
+      "text": "doel deze pilot de Bemiddelingsservice werken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        276.01,
+        370.33,
+        287.01
+      ],
+      "text": "Het met te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        418.0,
+        276.01,
+        424.67,
+        288.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        94.0,
+        278.01,
+        205.0,
+        287.01
+      ],
+      "text": "van was om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        544.0,
+        288.01,
+        828.27,
+        300.01
+      ],
+      "text": "koploperteam ondersteund door het Multidisciplinair",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        289.01,
+        536.25,
+        300.01
+      ],
+      "text": "Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        621.0,
+        289.01,
+        627.0,
+        301.01
+      ],
+      "text": "is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        290.01,
+        365.21,
+        302.01
+      ],
+      "text": "de dagelijkse uitvoering eventuele problemen identificeren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        290.0,
+        291.01,
+        297.33,
+        302.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        372.0,
+        292.01,
+        380.67,
+        301.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        170.0,
+        297.0,
+        171.5,
+        302.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        602.0,
+        303.01,
+        626.0,
+        314.01
+      ],
+      "text": "Team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        303.01,
+        854.72,
+        315.01
+      ],
+      "text": "implementatie (MDIT) BeMiddelaarS door middel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        691.0,
+        304.01,
+        713.4,
+        315.01
+      ],
+      "text": "team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        304.01,
+        376.33,
+        316.01
+      ],
+      "text": "feedback verzamelen zodat aanpassingen (in de applicatie of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        675.0,
+        305.01,
+        876.25,
+        314.01
+      ],
+      "text": "en van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        96.0,
+        305.01,
+        103.33,
+        316.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        171.0,
+        311.0,
+        172.5,
+        316.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        317.01,
+        903.29,
+        329.01
+      ],
+      "text": "dagstart uitvoeringsoverleggen. dagstart de aftrap iedere",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        717.0,
+        318.01,
+        727.0,
+        330.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        319.01,
+        315.67,
+        331.01
+      ],
+      "text": "werkprocessen) gedaan kunnen worden 3.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        780.0,
+        320.01,
+        867.25,
+        329.01
+      ],
+      "text": "was van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        571.0,
+        320.01,
+        580.33,
+        330.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        284.0,
+        320.01,
+        302.4,
+        331.01
+      ],
+      "text": "stap",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        258.0,
+        321.01,
+        277.2,
+        330.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        331.01,
+        596.29,
+        343.01
+      ],
+      "text": "‘BMS-werkdag’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        624.0,
+        332.01,
+        853.8,
+        344.01
+      ],
+      "text": "het verwachte werk die dag eventuele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        604.0,
+        334.01,
+        799.67,
+        343.01
+      ],
+      "text": "om van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        649.0,
+        346.01,
+        655.67,
+        357.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        346.01,
+        845.67,
+        358.01
+      ],
+      "text": "Leeswijzer obstakels bespreken. het logboek werden de bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        575.0,
+        347.01,
+        582.33,
+        358.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        360.01,
+        840.0,
+        372.01
+      ],
+      "text": "vastgelegd bijgehouden. het uitvoeringsoverleg deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        667.0,
+        361.01,
+        673.67,
+        372.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        799.0,
+        361.01,
+        814.2,
+        373.01
+      ],
+      "text": "zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        581.0,
+        363.01,
+        589.67,
+        372.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        59.0,
+        373.01,
+        418.72,
+        385.01
+      ],
+      "text": "dit delen de ervaringen de goed werkte",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        374.01,
+        352.0,
+        385.01
+      ],
+      "text": "In rapport wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        266.0,
+        374.01,
+        328.33,
+        386.01
+      ],
+      "text": "successenin",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        375.01,
+        819.78,
+        387.01
+      ],
+      "text": "bevindingen besproken geanalyseerd en/of geadresseerd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        149.0,
+        376.01,
+        159.67,
+        385.01
+      ],
+      "text": "we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        242.0,
+        381.0,
+        425.5,
+        386.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        644.0,
+        382.0,
+        645.5,
+        387.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        388.01,
+        420.85,
+        400.01
+      ],
+      "text": "de uitdagingen minder goed werkte adviezen verbetering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        133.0,
+        389.01,
+        148.0,
+        400.01
+      ],
+      "text": "wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        264.0,
+        390.01,
+        272.67,
+        399.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        331.0,
+        390.01,
+        351.0,
+        400.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.0,
+        394.0,
+        129.0,
+        399.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        622.0,
+        402.01,
+        841.5,
+        414.01
+      ],
+      "text": "heeft de evaluatie plaatsgevonden het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        557.0,
+        403.01,
+        819.75,
+        414.01
+      ],
+      "text": "maart met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        403.01,
+        613.4,
+        415.01
+      ],
+      "text": "Op 23 2026",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        63.0,
+        415.01,
+        384.0,
+        427.01
+      ],
+      "text": "deze inleiding worden in hoofdstuk de conclusies uit de pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        416.01,
+        663.57,
+        428.01
+      ],
+      "text": "Na 2 BCM’er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        522.0,
+        417.01,
+        771.36,
+        429.01
+      ],
+      "text": "koploperteam de Friesland.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        599.0,
+        419.01,
+        718.0,
+        428.01
+      ],
+      "text": "en van rayon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        430.01,
+        407.0,
+        442.01
+      ],
+      "text": "gedeeld. Vervolgens in hoofdstuk 3 de kernbevindingen analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        153.0,
+        431.01,
+        177.17,
+        442.01
+      ],
+      "text": "staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        414.0,
+        432.01,
+        422.67,
+        441.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        366.0,
+        437.0,
+        367.5,
+        442.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        444.01,
+        406.29,
+        456.01
+      ],
+      "text": "aanbevelingen. hoofdstuk 4 zijn de uitdagingen vanuit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        127.0,
+        445.01,
+        133.67,
+        456.01
+      ],
+      "text": "In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        243.0,
+        447.01,
+        306.67,
+        456.01
+      ],
+      "text": "successen en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        458.01,
+        399.6,
+        470.01
+      ],
+      "text": "het koploperteam daarbij de adviezen. hoofdstuk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        339.0,
+        459.01,
+        411.5,
+        470.01
+      ],
+      "text": "In 5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        208.0,
+        460.01,
+        223.75,
+        471.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        143.0,
+        461.01,
+        199.7,
+        470.01
+      ],
+      "text": "opgenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        46.0,
+        473.01,
+        205.44,
+        485.01
+      ],
+      "text": "sluiten af nawoord.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        115.0,
+        474.01,
+        130.75,
+        485.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        84.0,
+        475.01,
+        154.0,
+        484.01
+      ],
+      "text": "we een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        32.0,
+        512.01,
+        181.0,
+        522.01
+      ],
+      "text": "2 Rapport BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        101.0,
+        512.01,
+        159.67,
+        523.01
+      ],
+      "text": "Evaluatie pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -132.0,
+        1.01,
+        -117.0,
+        11.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        1.01,
+        -67.72,
+        12.01
+      ],
+      "text": "Gebruik de UWV bullets de button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        13.01,
+        -195.15,
+        24.01
+      ],
+      "text": "‘Lijstniveau’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 3,
+      "bbox": [
+        32.0,
+        32.03,
+        215.0,
+        60.03
+      ],
+      "text": "H2. Conclusie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -236.0,
+        39.01,
+        -107.86,
+        50.01
+      ],
+      "text": "Niveau 1: tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        41.01,
+        -246.5,
+        50.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -236.0,
+        52.01,
+        -88.0,
+        63.01
+      ],
+      "text": "Niveau 2 t/m 5: tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -137.0,
+        53.01,
+        -122.75,
+        63.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        54.01,
+        -246.5,
+        63.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        77.01,
+        -52.5,
+        88.01
+      ],
+      "text": "Typ je tekst de tekstregel. Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -166.0,
+        78.01,
+        -141.14,
+        88.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -194.0,
+        79.01,
+        -39.0,
+        88.01
+      ],
+      "text": "op nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        90.01,
+        -42.75,
+        101.01
+      ],
+      "text": "de standaard button bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -154.0,
+        92.01,
+        -137.2,
+        101.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        102.01,
+        -46.0,
+        113.01
+      ],
+      "text": "Klik het pijltje links verlaagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -108.0,
+        103.01,
+        -102.0,
+        114.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -230.0,
+        105.01,
+        -114.0,
+        114.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        115.01,
+        -37.0,
+        126.01
+      ],
+      "text": "tekstniveau. Klik het pijltje rechts je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -171.0,
+        117.01,
+        -49.0,
+        126.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        -249.0,
+        128.01,
+        -135.38,
+        139.01
+      ],
+      "text": "verhoogt het tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        49.0,
+        134.01,
+        526.33,
+        146.01
+      ],
+      "text": "pilot in Friesland is geslaagd. is waardevolle gebruikerservaring opgedaan in de uitvoering.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        135.01,
+        208.33,
+        146.01
+      ],
+      "text": "De Er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        173.01,
+        52.8,
+        184.01
+      ],
+      "text": "Deze",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        61.0,
+        173.01,
+        915.89,
+        185.01
+      ],
+      "text": "pilot is uitgevoerd zonder dat alle functionaliteit gerealiseerd conform besluit de 8 december 2025 advies AcICT snel mogelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        530.0,
+        174.01,
+        582.73,
+        185.01
+      ],
+      "text": "stuurgroep",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        381.0,
+        175.01,
+        844.0,
+        184.01
+      ],
+      "text": "was van van en van om zo",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        402.0,
+        180.0,
+        811.5,
+        185.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        187.01,
+        879.0,
+        199.01
+      ],
+      "text": "gebruikerservaring doen. pilot bracht aantal bevindingen die hadden verwacht aantal aanvullende leerpunten. scherp beeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        149.0,
+        188.01,
+        901.0,
+        199.01
+      ],
+      "text": "te De Daarom wat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        776.0,
+        188.01,
+        847.67,
+        200.01
+      ],
+      "text": "is in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        133.0,
+        190.01,
+        915.33,
+        199.01
+      ],
+      "text": "op een we en een nu er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        54.0,
+        202.01,
+        250.0,
+        214.01
+      ],
+      "text": "nodig is de BMS volledig in gebruik",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        257.0,
+        203.01,
+        264.33,
+        214.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        204.01,
+        304.28,
+        213.01
+      ],
+      "text": "nog om nemen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        263.0,
+        240.01,
+        337.06,
+        252.01
+      ],
+      "text": "functionaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        241.01,
+        57.0,
+        252.01
+      ],
+      "text": "We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        131.0,
+        241.01,
+        878.5,
+        253.01
+      ],
+      "text": "dat verbetering nodig is de BMS optimaal in de adviseurs ondersteunen in de dienstverlening het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        66.0,
+        242.01,
+        655.33,
+        253.01
+      ],
+      "text": "constateren te zetten te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        151.0,
+        243.01,
+        857.67,
+        252.01
+      ],
+      "text": "een om om en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        240.0,
+        243.01,
+        255.75,
+        253.01
+      ],
+      "text": "qua",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        244.01,
+        34.5,
+        253.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        255.01,
+        171.5,
+        267.01
+      ],
+      "text": "skillsgericht bemiddelen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.0,
+        274.01,
+        850.67,
+        286.01
+      ],
+      "text": "autorisatiematrix is in de basis goed. de pilot hebben leerpunten opgedaan toekenning de rol aantal details de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        275.01,
+        541.67,
+        286.01
+      ],
+      "text": "De In t.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        382.0,
+        275.01,
+        686.86,
+        287.01
+      ],
+      "text": "nuttige juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        277.01,
+        834.0,
+        286.01
+      ],
+      "text": "• we a. v. van en een om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        289.01,
+        807.0,
+        301.01
+      ],
+      "text": "autorisatiematrix optimaliseren. Dit biedt goede basis de opschaling de automatische provisioning die GO 4 gerealiseerd wordt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        139.0,
+        290.01,
+        146.33,
+        301.01
+      ],
+      "text": "te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        278.0,
+        291.01,
+        674.2,
+        300.01
+      ],
+      "text": "een voor en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        67.0,
+        308.01,
+        899.6,
+        320.01
+      ],
+      "text": "de matching functionaliteit voldoet is geconstateerd in de beproeving deel (juli 2025) de kwaliteitsonderzoeken matching (2025) de Educatie omgeving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        309.01,
+        919.67,
+        321.01
+      ],
+      "text": "Dat 2 We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        311.01,
+        781.33,
+        320.01
+      ],
+      "text": "• en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        151.0,
+        322.01,
+        745.71,
+        334.01
+      ],
+      "text": "matching niet altijd verwachtingen adviseur Productieomgeving pilot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        323.01,
+        105.5,
+        334.01
+      ],
+      "text": "constateren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        114.0,
+        323.01,
+        905.67,
+        335.01
+      ],
+      "text": "dat de de de voldoet de de Hier is aandacht nodig de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        871.0,
+        325.01,
+        890.2,
+        334.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        205.0,
+        325.01,
+        697.0,
+        335.01
+      ],
+      "text": "nog aan van op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        337.01,
+        706.36,
+        349.01
+      ],
+      "text": "ondersteuning de adviseur de uitlegbaarheid de match wordt gekeken mogelijke bug in de taxonomie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        124.0,
+        340.01,
+        533.0,
+        349.01
+      ],
+      "text": "van van en er naar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        205.0,
+        344.0,
+        206.5,
+        349.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.0,
+        356.01,
+        855.94,
+        368.01
+      ],
+      "text": "pilot bevestigt dat datakwaliteit de bronsystemen Werknl fors verbeterd worden skillsgericht bemiddelen de dienstverlening",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        357.01,
+        55.0,
+        368.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        417.0,
+        357.01,
+        758.67,
+        369.01
+      ],
+      "text": "Sonar in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        528.0,
+        358.01,
+        870.33,
+        369.01
+      ],
+      "text": "moet te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        359.01,
+        613.0,
+        368.01
+      ],
+      "text": "• om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        237.0,
+        359.01,
+        409.33,
+        369.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        371.01,
+        223.33,
+        383.01
+      ],
+      "text": "faciliteren. Hier ligt kans.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        170.0,
+        372.01,
+        193.33,
+        383.01
+      ],
+      "text": "grote",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        148.0,
+        373.01,
+        163.0,
+        382.01
+      ],
+      "text": "een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        62.0,
+        390.01,
+        802.5,
+        402.01
+      ],
+      "text": "pilot bevestigt ook dat aandacht nodig blijft het vakmanschap de adviseurs het skillsgericht bemiddelen in het algemeen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        45.0,
+        391.01,
+        539.67,
+        402.01
+      ],
+      "text": "De t.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        393.01,
+        557.0,
+        402.01
+      ],
+      "text": "• er a. v.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        312.0,
+        393.01,
+        453.0,
+        403.01
+      ],
+      "text": "voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        529.0,
+        397.0,
+        530.5,
+        402.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        32.0,
+        512.01,
+        181.0,
+        522.01
+      ],
+      "text": "3 Rapport BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        101.0,
+        512.01,
+        159.67,
+        523.01
+      ],
+      "text": "Evaluatie pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -132.0,
+        1.01,
+        -117.0,
+        11.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        1.01,
+        -67.72,
+        12.01
+      ],
+      "text": "Gebruik de UWV bullets de button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        13.01,
+        -195.15,
+        24.01
+      ],
+      "text": "‘Lijstniveau’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        32.0,
+        32.03,
+        295.35,
+        60.03
+      ],
+      "text": "H3. 1 Datakwaliteit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -236.0,
+        39.01,
+        -107.86,
+        50.01
+      ],
+      "text": "Niveau 1: tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        41.01,
+        -246.5,
+        50.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -236.0,
+        52.01,
+        -88.0,
+        63.01
+      ],
+      "text": "Niveau 2 t/m 5: tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -137.0,
+        53.01,
+        -122.75,
+        63.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        54.01,
+        -246.5,
+        63.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        77.01,
+        -52.5,
+        88.01
+      ],
+      "text": "Typ je tekst de tekstregel. Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -166.0,
+        78.01,
+        -141.14,
+        88.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -194.0,
+        79.01,
+        -39.0,
+        88.01
+      ],
+      "text": "op nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        90.01,
+        -42.75,
+        101.01
+      ],
+      "text": "de standaard button bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        91.01,
+        118.36,
+        105.01
+      ],
+      "text": "Kernbevinding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -154.0,
+        92.01,
+        -137.2,
+        101.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        102.01,
+        -46.0,
+        113.01
+      ],
+      "text": "Klik het pijltje links verlaagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -108.0,
+        103.01,
+        -102.0,
+        114.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -230.0,
+        105.01,
+        -114.0,
+        114.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        44.0,
+        112.01,
+        821.77,
+        124.01
+      ],
+      "text": "de data overdracht werk. nl de alle informatie de blijkt de volgende bevindingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        113.01,
+        343.4,
+        124.01
+      ],
+      "text": "In gaat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        224.0,
+        113.01,
+        665.5,
+        125.01
+      ],
+      "text": "Sonar BMS niet juiste manier Dit uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        145.0,
+        115.01,
+        688.0,
+        124.01
+      ],
+      "text": "van en naar nog op over. o. a.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        115.01,
+        -37.0,
+        126.01
+      ],
+      "text": "tekstniveau. Klik het pijltje rechts je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -171.0,
+        117.01,
+        -49.0,
+        126.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        -249.0,
+        128.01,
+        -135.38,
+        139.01
+      ],
+      "text": "verhoogt het tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        45.0,
+        132.01,
+        303.0,
+        144.01
+      ],
+      "text": "Indiceringen vanuit Sonar niet in de BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        181.0,
+        133.01,
+        205.17,
+        144.01
+      ],
+      "text": "staan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        212.0,
+        134.01,
+        227.0,
+        143.01
+      ],
+      "text": "nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        135.01,
+        34.5,
+        144.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        75.0,
+        151.01,
+        362.14,
+        163.01
+      ],
+      "text": "automatische verrijking profielen skills",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        273.0,
+        152.01,
+        332.0,
+        163.01
+      ],
+      "text": "met voorzet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        45.0,
+        152.01,
+        67.4,
+        164.01
+      ],
+      "text": "Geen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        154.01,
+        216.25,
+        163.01
+      ],
+      "text": "• van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        45.0,
+        171.01,
+        138.2,
+        183.01
+      ],
+      "text": "Verlopen profielen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        161.0,
+        172.01,
+        206.9,
+        183.01
+      ],
+      "text": "vacatures",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        146.0,
+        173.01,
+        154.67,
+        182.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        174.01,
+        34.5,
+        183.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        45.0,
+        190.01,
+        409.64,
+        202.01
+      ],
+      "text": "Onvolledige in profielen werk. nl(werkervaring/opleiding)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        110.0,
+        192.01,
+        233.33,
+        201.01
+      ],
+      "text": "gegevens op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        193.01,
+        34.5,
+        202.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        229.01,
+        76.63,
+        242.01
+      ],
+      "text": "Analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        251.01,
+        64.0,
+        262.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        71.0,
+        251.01,
+        489.92,
+        263.01
+      ],
+      "text": "indiceringen zijn niet opgeleverd worden korte termijn wel opgeleverd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        159.0,
+        253.01,
+        333.33,
+        262.01
+      ],
+      "text": "nog en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        254.01,
+        34.5,
+        263.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        75.0,
+        270.01,
+        774.22,
+        282.01
+      ],
+      "text": "hadden verwacht dat de automatische verrijking profielen skills werken. Dit behoeft nadere analyse.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        271.01,
+        601.0,
+        282.01
+      ],
+      "text": "We met voorzet punt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        273.01,
+        689.0,
+        282.01
+      ],
+      "text": "• van zou nog een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        75.0,
+        289.01,
+        777.5,
+        301.01
+      ],
+      "text": "hebben de database (ABR) geladen alle profielen de pilot hebben geconstateerd dat dat leidt vervuiling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        290.01,
+        66.0,
+        301.01
+      ],
+      "text": "We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        428.0,
+        290.01,
+        434.67,
+        302.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        261.0,
+        291.01,
+        699.0,
+        302.01
+      ],
+      "text": "met vacatures tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        292.01,
+        720.0,
+        301.01
+      ],
+      "text": "• en we een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        423.0,
+        297.0,
+        424.5,
+        302.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        54.0,
+        309.01,
+        68.25,
+        320.01
+      ],
+      "text": "Dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        75.0,
+        309.01,
+        806.36,
+        321.01
+      ],
+      "text": "de profielen werk. nl niet volledig zijn bekend. Wel hebben door de pilot geconstateerd dat dit de werking de BMS belemmert.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        141.0,
+        311.01,
+        700.25,
+        320.01
+      ],
+      "text": "op was we van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        312.01,
+        34.5,
+        321.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        285.0,
+        316.0,
+        286.5,
+        321.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        348.01,
+        121.14,
+        362.01
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        85.0,
+        369.01,
+        363.46,
+        381.01
+      ],
+      "text": "dat de verrijking profielen skills gegarandeerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        370.01,
+        259.75,
+        381.01
+      ],
+      "text": "1. Zorg met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        372.0,
+        370.01,
+        380.25,
+        382.01
+      ],
+      "text": "is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        172.0,
+        372.01,
+        186.25,
+        381.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        59.0,
+        389.01,
+        78.2,
+        400.01
+      ],
+      "text": "Zorg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        389.01,
+        245.4,
+        401.01
+      ],
+      "text": "2. goede bronvermelding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        275.0,
+        390.01,
+        324.09,
+        401.01
+      ],
+      "text": "vacatures.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        85.0,
+        391.01,
+        268.25,
+        400.01
+      ],
+      "text": "voor een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        85.0,
+        408.01,
+        483.67,
+        420.01
+      ],
+      "text": "dat indiceringen dienstverlening zichtbaar de matchingsresultaten.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        59.0,
+        409.01,
+        78.2,
+        420.01
+      ],
+      "text": "Zorg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        409.01,
+        355.67,
+        421.01
+      ],
+      "text": "3. zijn in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        172.0,
+        411.01,
+        186.25,
+        420.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        282.0,
+        427.01,
+        404.18,
+        439.01
+      ],
+      "text": "(vacatures profielen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        428.01,
+        524.29,
+        440.01
+      ],
+      "text": "4. Maak zorgvuldige keuze in welke data in de matching worden",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        91.0,
+        430.01,
+        605.42,
+        439.01
+      ],
+      "text": "een en meegenomen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        181.0,
+        447.01,
+        568.77,
+        459.01
+      ],
+      "text": "update de data in BMS (bij mutatie vervallen verlopen of verwijderen)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        111.0,
+        448.01,
+        173.33,
+        459.01
+      ],
+      "text": "consequente",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        448.01,
+        78.2,
+        460.01
+      ],
+      "text": "5. Zorg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        85.0,
+        450.01,
+        235.25,
+        459.01
+      ],
+      "text": "voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        384.0,
+        454.0,
+        439.5,
+        459.0
+      ],
+      "text": ", ,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        59.0,
+        467.01,
+        77.4,
+        478.01
+      ],
+      "text": "Laat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        467.01,
+        758.38,
+        479.01
+      ],
+      "text": "6. datakwaliteit integrale opdracht zijn vanuit directie domeinen ontwikkel sturingsmiddelen hierop lijnmanagement.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        156.0,
+        469.01,
+        667.2,
+        478.01
+      ],
+      "text": "een en en voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        32.0,
+        512.01,
+        35.0,
+        522.01
+      ],
+      "text": "4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        101.0,
+        521.01,
+        159.67,
+        532.01
+      ],
+      "text": "Evaluatie pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        64.0,
+        522.01,
+        181.0,
+        532.01
+      ],
+      "text": "Rapport BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -132.0,
+        1.01,
+        -117.0,
+        11.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        1.01,
+        -67.72,
+        12.01
+      ],
+      "text": "Gebruik de UWV bullets de button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        13.01,
+        -195.15,
+        24.01
+      ],
+      "text": "‘Lijstniveau’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 5,
+      "bbox": [
+        32.0,
+        32.03,
+        270.3,
+        60.03
+      ],
+      "text": "H3. 2 Autorisaties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -236.0,
+        39.01,
+        -107.86,
+        50.01
+      ],
+      "text": "Niveau 1: tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        41.01,
+        -246.5,
+        50.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -236.0,
+        52.01,
+        -88.0,
+        63.01
+      ],
+      "text": "Niveau 2 t/m 5: tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -137.0,
+        53.01,
+        -122.75,
+        63.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        54.01,
+        -246.5,
+        63.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        77.01,
+        -52.5,
+        88.01
+      ],
+      "text": "Typ je tekst de tekstregel. Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -166.0,
+        78.01,
+        -141.14,
+        88.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -194.0,
+        79.01,
+        -39.0,
+        88.01
+      ],
+      "text": "op nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        90.01,
+        -42.75,
+        101.01
+      ],
+      "text": "de standaard button bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -154.0,
+        92.01,
+        -137.2,
+        101.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        102.01,
+        -46.0,
+        113.01
+      ],
+      "text": "Klik het pijltje links verlaagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -108.0,
+        103.01,
+        -102.0,
+        114.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        104.01,
+        118.36,
+        118.01
+      ],
+      "text": "Kernbevinding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -230.0,
+        105.01,
+        -114.0,
+        114.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        115.01,
+        -37.0,
+        126.01
+      ],
+      "text": "tekstniveau. Klik het pijltje rechts je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -171.0,
+        117.01,
+        -49.0,
+        126.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        49.0,
+        125.01,
+        811.1,
+        137.01
+      ],
+      "text": "huidige autorisaties zijn gebaseerd de rollen binnen de functieontwikkeling. keuze hiervoor wordt door het koploperteam in twijfel gebracht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        126.01,
+        472.0,
+        137.01
+      ],
+      "text": "De De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        232.0,
+        128.01,
+        241.33,
+        137.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        -249.0,
+        128.01,
+        -135.38,
+        139.01
+      ],
+      "text": "verhoogt het tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        53.0,
+        144.01,
+        248.77,
+        156.01
+      ],
+      "text": "blijkt de volgende bevindingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        34.0,
+        145.01,
+        92.5,
+        157.01
+      ],
+      "text": "Dit uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        99.0,
+        147.01,
+        115.0,
+        156.01
+      ],
+      "text": "o. a.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        45.0,
+        164.01,
+        610.25,
+        175.01
+      ],
+      "text": "De Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        62.0,
+        164.01,
+        836.0,
+        176.01
+      ],
+      "text": "adviseur werk ziet alleen de profielen de client de werkgeversadviseur ziet alleen de koploperteam geeft dat behoefte is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        540.0,
+        165.01,
+        589.09,
+        176.01
+      ],
+      "text": "vacatures.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        261.0,
+        166.01,
+        878.0,
+        175.01
+      ],
+      "text": "van en aan er aan een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        167.01,
+        34.5,
+        176.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        45.0,
+        178.01,
+        244.36,
+        190.01
+      ],
+      "text": "totaalbeeld profielen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        130.0,
+        179.01,
+        175.9,
+        190.01
+      ],
+      "text": "vacatures",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        108.0,
+        181.01,
+        191.67,
+        190.01
+      ],
+      "text": "van en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        45.0,
+        198.01,
+        55.0,
+        209.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        62.0,
+        198.01,
+        597.0,
+        210.01
+      ],
+      "text": "cliënten niet de de adviseur. Via de zoekbalk gezocht worden de cliënt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        107.0,
+        199.01,
+        419.4,
+        210.01
+      ],
+      "text": "staan moet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        162.0,
+        200.01,
+        546.2,
+        209.01
+      ],
+      "text": "op naam van er naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        201.01,
+        34.5,
+        210.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        62.0,
+        217.01,
+        631.43,
+        229.01
+      ],
+      "text": "mogelijkheid specifiek zoeken het eigen wordt gemist door het koploperteam.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        45.0,
+        218.01,
+        327.9,
+        229.01
+      ],
+      "text": "De te vacatures",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        220.01,
+        433.0,
+        229.01
+      ],
+      "text": "• om naar van rayon",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        59.0,
+        236.01,
+        451.56,
+        248.01
+      ],
+      "text": "kan de arbeidsmarktregio'smatches worden gemaakt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        45.0,
+        237.01,
+        52.33,
+        248.01
+      ],
+      "text": "Er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        81.0,
+        237.01,
+        121.89,
+        249.01
+      ],
+      "text": "nietover",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        239.01,
+        204.25,
+        248.01
+      ],
+      "text": "• grenzen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        276.01,
+        76.63,
+        289.01
+      ],
+      "text": "Analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        71.0,
+        297.01,
+        587.0,
+        309.01
+      ],
+      "text": "verwachting dat adviseur ook de kon zien als cliënt daaraan gekoppeld werd.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        54.0,
+        298.01,
+        333.9,
+        309.01
+      ],
+      "text": "De vacatures",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        300.01,
+        420.0,
+        309.01
+      ],
+      "text": "• was een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        54.0,
+        317.01,
+        68.25,
+        328.01
+      ],
+      "text": "Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        76.0,
+        317.01,
+        504.22,
+        329.01
+      ],
+      "text": "zoeken cliënten in het eigen nadere analyse.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        198.0,
+        318.01,
+        375.28,
+        329.01
+      ],
+      "text": "vacatures vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        319.01,
+        420.0,
+        328.01
+      ],
+      "text": "• van en rayon nog een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        54.0,
+        336.01,
+        755.0,
+        348.01
+      ],
+      "text": "Op welke wijze het matchen de de arbeidsmarktregio mogelijk is nadere analyse de autorisatiematrix.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        490.0,
+        337.01,
+        518.28,
+        348.01
+      ],
+      "text": "vraagt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        205.0,
+        338.01,
+        642.25,
+        347.01
+      ],
+      "text": "over grenzen van een van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        339.01,
+        34.5,
+        348.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        484.0,
+        343.0,
+        485.5,
+        348.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        375.01,
+        121.14,
+        389.01
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        59.0,
+        396.01,
+        742.0,
+        408.01
+      ],
+      "text": "Onderzoek of de voldoet het zoeken profielen zicht krijgen caseload.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        397.01,
+        38.67,
+        408.01
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        148.0,
+        397.01,
+        690.17,
+        409.01
+      ],
+      "text": "autorisatiematrix vrij in eigen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        349.0,
+        398.01,
+        604.33,
+        409.01
+      ],
+      "text": "te vacatures te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        283.0,
+        399.01,
+        659.33,
+        408.01
+      ],
+      "text": "voor en en om op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        416.01,
+        896.67,
+        428.01
+      ],
+      "text": "2. Onderzoek welke wijze het matchen arbeidsmarktregio’s mogelijk is cliënten die daarvoor of daarvoor aanpassingen in de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        665.0,
+        417.01,
+        714.5,
+        428.01
+      ],
+      "text": "openstaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        119.0,
+        418.01,
+        731.67,
+        427.01
+      ],
+      "text": "op over grenzen van voor en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        152.0,
+        430.01,
+        214.77,
+        442.01
+      ],
+      "text": "noodzakelijk",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        59.0,
+        431.01,
+        240.33,
+        443.01
+      ],
+      "text": "autorisatiematrix zijn.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        59.0,
+        450.01,
+        83.17,
+        461.01
+      ],
+      "text": "Toets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        450.01,
+        794.53,
+        462.01
+      ],
+      "text": "3. de eventuele aanpassingen in de autorisatiematrix bij de operatie vooruitlopend de volgende de gefaseerde ingebruikname.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        595.0,
+        451.01,
+        613.4,
+        462.01
+      ],
+      "text": "stap",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        513.0,
+        452.01,
+        634.25,
+        461.01
+      ],
+      "text": "op van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        431.0,
+        457.0,
+        432.5,
+        462.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        32.0,
+        512.01,
+        181.0,
+        522.01
+      ],
+      "text": "5 Rapport BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        101.0,
+        512.01,
+        159.67,
+        523.01
+      ],
+      "text": "Evaluatie pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -132.0,
+        1.01,
+        -117.0,
+        11.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        1.01,
+        -67.72,
+        12.01
+      ],
+      "text": "Gebruik de UWV bullets de button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        13.01,
+        -195.15,
+        24.01
+      ],
+      "text": "‘Lijstniveau’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        32.0,
+        34.03,
+        412.33,
+        62.03
+      ],
+      "text": "H3. 3 Uitlegbaarheid match",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -236.0,
+        39.01,
+        -107.86,
+        50.01
+      ],
+      "text": "Niveau 1: tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        41.01,
+        -246.5,
+        50.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -236.0,
+        52.01,
+        -88.0,
+        63.01
+      ],
+      "text": "Niveau 2 t/m 5: tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -137.0,
+        53.01,
+        -122.75,
+        63.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        54.01,
+        -246.5,
+        63.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        77.01,
+        -52.5,
+        88.01
+      ],
+      "text": "Typ je tekst de tekstregel. Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -166.0,
+        78.01,
+        -141.14,
+        88.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -194.0,
+        79.01,
+        -39.0,
+        88.01
+      ],
+      "text": "op nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        90.01,
+        -42.75,
+        101.01
+      ],
+      "text": "de standaard button bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -154.0,
+        92.01,
+        -137.2,
+        101.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        102.01,
+        -46.0,
+        113.01
+      ],
+      "text": "Klik het pijltje links verlaagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -108.0,
+        103.01,
+        -102.0,
+        114.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -230.0,
+        105.01,
+        -114.0,
+        114.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        114.01,
+        130.43,
+        129.01
+      ],
+      "text": "Kernbevinding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        115.01,
+        -37.0,
+        126.01
+      ],
+      "text": "tekstniveau. Klik het pijltje rechts je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -171.0,
+        117.01,
+        -49.0,
+        126.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        -249.0,
+        128.01,
+        -135.38,
+        139.01
+      ],
+      "text": "verhoogt het tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.0,
+        137.01,
+        882.37,
+        149.01
+      ],
+      "text": "adviseur wil het resultaat de Bemiddelingsservice begrijpen zodat die het kan uitleggen de client of werkgever. matches echter (altijd) logisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        138.01,
+        675.0,
+        149.01
+      ],
+      "text": "De De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        184.0,
+        138.01,
+        803.8,
+        150.01
+      ],
+      "text": "uit zijn niet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        522.0,
+        140.01,
+        537.0,
+        149.01
+      ],
+      "text": "aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        886.0,
+        145.0,
+        887.5,
+        150.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        229.0,
+        152.01,
+        884.25,
+        163.01
+      ],
+      "text": "Er Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        152.01,
+        897.0,
+        164.01
+      ],
+      "text": "herkenbaar herleidbaar of werkbaar. is onvoldoende kennis ervaring bij het koploperteam het matchresultaat begrijpen of kunnen uitleggen. is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        680.0,
+        153.01,
+        767.33,
+        164.01
+      ],
+      "text": "te te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        253.0,
+        154.01,
+        921.2,
+        163.01
+      ],
+      "text": "nog en om voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        92.0,
+        159.0,
+        93.5,
+        164.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        166.01,
+        893.13,
+        178.01
+      ],
+      "text": "het koploperteam onduidelijk welke wegingen wel of niet meetellen in de match hoe de filters de match beïnvloeden. Hierdoor is in de pilot de werkwijze matchen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        456.0,
+        169.01,
+        910.33,
+        178.01
+      ],
+      "text": "en op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        181.01,
+        175.25,
+        193.01
+      ],
+      "text": "basis skills onvoldoende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        182.0,
+        182.01,
+        224.3,
+        193.01
+      ],
+      "text": "getoetst.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        61.0,
+        183.01,
+        75.25,
+        192.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        225.01,
+        76.63,
+        238.01
+      ],
+      "text": "Analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        49.0,
+        246.01,
+        878.0,
+        258.01
+      ],
+      "text": "verwachting dat de adviseurs het leertraject voldoende kennis ervaring hadden de slag kunnen de Bemiddelingsservice. de pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        247.01,
+        912.5,
+        258.01
+      ],
+      "text": "De met te met Door weten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        115.0,
+        249.01,
+        560.0,
+        258.01
+      ],
+      "text": "was en om aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        66.0,
+        260.01,
+        870.4,
+        272.01
+      ],
+      "text": "dat extra’s nodig match goed kunnen leggen de cliënt. één één brengt hele",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        347.0,
+        261.01,
+        522.0,
+        272.01
+      ],
+      "text": "te De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        121.0,
+        261.01,
+        910.43,
+        273.01
+      ],
+      "text": "iets is uit BMS is vervanging WBS nieuwe",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        263.01,
+        845.0,
+        272.01
+      ],
+      "text": "we nu er nog om een aan geen op van maar een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        164.0,
+        275.01,
+        178.25,
+        286.01
+      ],
+      "text": "Dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        275.01,
+        799.0,
+        287.01
+      ],
+      "text": "werkwijze zich dat aanpassingen gedaan worden in huidige beschrijvingen het werkproces de adviseurs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        88.0,
+        276.01,
+        916.14,
+        287.01
+      ],
+      "text": "met zorgt moeten moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        135.0,
+        277.01,
+        872.36,
+        286.01
+      ],
+      "text": "mee. ervoor er van en meegenomen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        289.01,
+        226.5,
+        301.01
+      ],
+      "text": "worden in welke andere werkwijze dit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        233.0,
+        290.01,
+        264.5,
+        301.01
+      ],
+      "text": "vraagt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        333.01,
+        121.14,
+        347.01
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        355.01,
+        78.2,
+        366.01
+      ],
+      "text": "1. Zorg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        85.0,
+        355.01,
+        628.75,
+        367.01
+      ],
+      "text": "dat de uitlegbaarheid de bemiddelingsservice door het werkbeschrijvingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        345.0,
+        356.01,
+        391.22,
+        367.01
+      ],
+      "text": "toeneemt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        199.0,
+        357.01,
+        521.25,
+        366.01
+      ],
+      "text": "van aanpassen van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        397.0,
+        362.0,
+        398.5,
+        367.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        374.01,
+        815.33,
+        386.01
+      ],
+      "text": "2. Maak inzichtelijk welke ‘logica’ achter de BMS zit zodat adviseur de match kan uitleggen de cliënt. Dit kan door middel filmpje of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        843.0,
+        375.01,
+        865.5,
+        386.01
+      ],
+      "text": "extra",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        545.0,
+        376.01,
+        738.25,
+        385.01
+      ],
+      "text": "aan van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        352.0,
+        377.01,
+        836.0,
+        386.01
+      ],
+      "text": "een een een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        314.0,
+        381.0,
+        315.5,
+        386.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        59.0,
+        388.01,
+        120.28,
+        400.01
+      ],
+      "text": "beschrijving.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        32.0,
+        512.01,
+        181.0,
+        522.01
+      ],
+      "text": "6 Rapport BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        101.0,
+        512.01,
+        159.67,
+        523.01
+      ],
+      "text": "Evaluatie pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -132.0,
+        1.01,
+        -117.0,
+        11.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        1.01,
+        -67.72,
+        12.01
+      ],
+      "text": "Gebruik de UWV bullets de button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        13.01,
+        -195.15,
+        24.01
+      ],
+      "text": "‘Lijstniveau’",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        108.0,
+        31.03,
+        417.69,
+        60.03
+      ],
+      "text": "Gebruikers(on)gemak",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 7,
+      "bbox": [
+        32.0,
+        32.03,
+        91.0,
+        60.03
+      ],
+      "text": "H3. 4",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -236.0,
+        39.01,
+        -107.86,
+        50.01
+      ],
+      "text": "Niveau 1: tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        41.01,
+        -246.5,
+        50.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -236.0,
+        52.01,
+        -88.0,
+        63.01
+      ],
+      "text": "Niveau 2 t/m 5: tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -137.0,
+        53.01,
+        -122.75,
+        63.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        54.01,
+        -246.5,
+        63.01
+      ],
+      "text": "▪",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        77.01,
+        -52.5,
+        88.01
+      ],
+      "text": "Typ je tekst de tekstregel. Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -166.0,
+        78.01,
+        -141.14,
+        88.01
+      ],
+      "text": "eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -194.0,
+        79.01,
+        -39.0,
+        88.01
+      ],
+      "text": "op nu",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        90.01,
+        -42.75,
+        101.01
+      ],
+      "text": "de standaard button bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        90.01,
+        118.36,
+        104.01
+      ],
+      "text": "Kernbevinding",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -154.0,
+        92.01,
+        -137.2,
+        101.01
+      ],
+      "text": "voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        102.01,
+        -46.0,
+        113.01
+      ],
+      "text": "Klik het pijltje links verlaagt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -108.0,
+        103.01,
+        -102.0,
+        114.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -230.0,
+        105.01,
+        -114.0,
+        114.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        50.0,
+        111.01,
+        870.67,
+        123.01
+      ],
+      "text": "de het koploperteam gekomen dat de Bemiddelingsservice onvoorspelbaar systeemgedrag blijkt de volgende",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        112.01,
+        805.5,
+        124.01
+      ],
+      "text": "Uit ervaringen is Dit uit",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        675.0,
+        113.01,
+        719.1,
+        124.01
+      ],
+      "text": "vertoont.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        124.0,
+        114.01,
+        790.0,
+        123.01
+      ],
+      "text": "van naar voren o. a.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        115.01,
+        -37.0,
+        126.01
+      ],
+      "text": "tekstniveau. Klik het pijltje rechts je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -171.0,
+        117.01,
+        -49.0,
+        126.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        126.01,
+        94.77,
+        138.01
+      ],
+      "text": "bevindingen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        -249.0,
+        128.01,
+        -135.38,
+        139.01
+      ],
+      "text": "verhoogt het tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        45.0,
+        145.01,
+        123.57,
+        157.01
+      ],
+      "text": "Time-out acties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        148.01,
+        34.5,
+        157.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        181.0,
+        164.01,
+        214.25,
+        176.01
+      ],
+      "text": "default",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        45.0,
+        165.01,
+        520.37,
+        177.01
+      ],
+      "text": "Standaard instellingen waarden werden door het koploperteam niet altijd logisch",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        165.0,
+        167.01,
+        563.0,
+        176.01
+      ],
+      "text": "en ervaren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        168.01,
+        34.5,
+        177.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        45.0,
+        184.01,
+        271.7,
+        196.01
+      ],
+      "text": "Functies in beeld die niet gebruiken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        187.01,
+        216.8,
+        196.01
+      ],
+      "text": "• we gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        45.0,
+        203.01,
+        92.11,
+        215.01
+      ],
+      "text": "Schermen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        148.0,
+        204.01,
+        171.33,
+        215.01
+      ],
+      "text": "terug",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        100.0,
+        204.01,
+        140.89,
+        216.01
+      ],
+      "text": "springen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        206.01,
+        34.5,
+        215.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        45.0,
+        223.01,
+        150.62,
+        235.01
+      ],
+      "text": "Taal inconsequenties",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        226.01,
+        34.5,
+        235.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        262.01,
+        76.63,
+        275.01
+      ],
+      "text": "Analyse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        56.0,
+        283.01,
+        879.75,
+        295.01
+      ],
+      "text": "de bemiddelingsservice hebben standaard applicatie aangekocht dat Omdat het verleden altijd maatwerkapplicaties gekocht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        284.01,
+        554.0,
+        295.01
+      ],
+      "text": "Met UWV.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        458.0,
+        284.01,
+        625.67,
+        296.01
+      ],
+      "text": "is nieuw in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        223.0,
+        286.01,
+        611.67,
+        295.01
+      ],
+      "text": "we een voor we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        433.0,
+        291.0,
+        434.5,
+        296.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        298.01,
+        895.27,
+        310.01
+      ],
+      "text": "hebben. Dit in de afstemming de leverancier prioritering welke aanpassingen ook de andere klanten relevant zijn. Als het niet in de applicatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        95.0,
+        299.01,
+        239.75,
+        310.01
+      ],
+      "text": "vraagt met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        324.0,
+        300.01,
+        583.2,
+        309.01
+      ],
+      "text": "een over voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        312.01,
+        360.63,
+        324.01
+      ],
+      "text": "opgelost kan worden dan zal dat de werkbeschrijvingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        187.0,
+        313.01,
+        425.14,
+        324.01
+      ],
+      "text": "UWV moeten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        236.0,
+        313.01,
+        242.67,
+        325.01
+      ],
+      "text": "in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        369.0,
+        315.01,
+        469.0,
+        324.01
+      ],
+      "text": "aan passen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        142.0,
+        320.0,
+        143.5,
+        325.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        351.01,
+        121.14,
+        365.01
+      ],
+      "text": "Aanbevelingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        373.01,
+        38.67,
+        384.01
+      ],
+      "text": "1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        59.0,
+        373.01,
+        578.62,
+        385.01
+      ],
+      "text": "Prioriteer de gebruikersongemakken de leverancier in gesprek kan worden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        283.0,
+        374.01,
+        510.6,
+        385.01
+      ],
+      "text": "met wat aangepast",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        252.0,
+        375.01,
+        276.67,
+        384.01
+      ],
+      "text": "en ga",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        59.0,
+        392.01,
+        665.45,
+        404.01
+      ],
+      "text": "Besteed de procesbeschrijvingen aandacht het feit dat standaardapplicatie ook ongemak meebrengt.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        393.01,
+        109.67,
+        405.01
+      ],
+      "text": "2. in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        295.0,
+        395.01,
+        528.4,
+        404.01
+      ],
+      "text": "aan een soms",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        412.01,
+        387.0,
+        424.01
+      ],
+      "text": "3. Ontwikkel tips & die helpen ongemakken.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        149.0,
+        413.01,
+        312.75,
+        424.01
+      ],
+      "text": "trucs te met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        236.0,
+        414.01,
+        289.8,
+        423.01
+      ],
+      "text": "om gaan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        431.01,
+        298.18,
+        443.01
+      ],
+      "text": "4. Communiceer aanpassingen de adviseurs.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        209.0,
+        434.01,
+        228.2,
+        443.01
+      ],
+      "text": "naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        32.0,
+        512.01,
+        181.0,
+        522.01
+      ],
+      "text": "7 Rapport BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        101.0,
+        512.01,
+        159.67,
+        523.01
+      ],
+      "text": "Evaluatie pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        0.01,
+        -62.0,
+        12.01
+      ],
+      "text": "Gebruik de bullets de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -179.0,
+        1.01,
+        -82.0,
+        12.01
+      ],
+      "text": "UWV met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        14.01,
+        -130.33,
+        26.01
+      ],
+      "text": "button ‘Lijstniveau’.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        325.0,
+        28.03,
+        673.5,
+        57.03
+      ],
+      "text": "uitdagingen vanuit het",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        45.0,
+        30.03,
+        86.25,
+        57.03
+      ],
+      "text": "H4.",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        107.0,
+        30.03,
+        253.7,
+        58.03
+      ],
+      "text": "Successen",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        278.0,
+        35.02,
+        304.67,
+        57.02
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -178.0,
+        40.01,
+        -79.43,
+        52.01
+      ],
+      "text": "tekst zonder bullet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -236.0,
+        41.01,
+        -186.0,
+        52.01
+      ],
+      "text": "Niveau 1:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        44.01,
+        -247.0,
+        53.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -236.0,
+        54.01,
+        -95.5,
+        65.01
+      ],
+      "text": "Niveau 5: met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -194.0,
+        54.01,
+        -54.63,
+        66.01
+      ],
+      "text": "2 t/m tekst bullets",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        57.01,
+        -247.0,
+        66.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        45.0,
+        70.03,
+        255.45,
+        99.03
+      ],
+      "text": "koploperteam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -211.0,
+        80.01,
+        -52.92,
+        92.01
+      ],
+      "text": "tekst de tekstregel.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        81.01,
+        -115.0,
+        92.01
+      ],
+      "text": "Typ je eerste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -180.0,
+        83.01,
+        -170.67,
+        93.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        94.01,
+        -210.5,
+        105.01
+      ],
+      "text": "Vergeet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -185.0,
+        94.01,
+        -77.14,
+        106.01
+      ],
+      "text": "de standaard button",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -203.0,
+        96.01,
+        -48.0,
+        106.01
+      ],
+      "text": "nu voor",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        107.01,
+        -143.5,
+        119.01
+      ],
+      "text": "bullets (rode kruis).",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        119.01,
+        548.42,
+        131.01
+      ],
+      "text": "Successen Uitdagingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        120.01,
+        -101.17,
+        132.01
+      ],
+      "text": "Klik het pijltje links",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -76.0,
+        121.01,
+        -68.67,
+        132.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -225.0,
+        123.01,
+        -83.67,
+        133.01
+      ],
+      "text": "op naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        134.01,
+        -51.5,
+        146.01
+      ],
+      "text": "verlaagt het tekstniveau. Klik het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -83.0,
+        136.01,
+        -73.67,
+        146.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -130.0,
+        147.01,
+        -122.67,
+        158.01
+      ],
+      "text": "je",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        147.01,
+        -49.5,
+        159.01
+      ],
+      "text": "pijltje rechts verhoogt het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        148.01,
+        501.25,
+        159.01
+      ],
+      "text": "Het Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        74.0,
+        148.01,
+        730.83,
+        160.01
+      ],
+      "text": "koploperteam hebben de volgende koploperteam heeft aantal uitdagingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -214.0,
+        149.01,
+        -137.67,
+        159.01
+      ],
+      "text": "naar en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        259.0,
+        150.01,
+        777.11,
+        159.01
+      ],
+      "text": "successen ervaren: een ervaren:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        -249.0,
+        160.01,
+        -186.23,
+        172.01
+      ],
+      "text": "tekstniveau.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        87.0,
+        162.01,
+        852.23,
+        174.01
+      ],
+      "text": "leertraject door het koploperteam goed Fysieke aanwezigheid het door het koploperteam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        163.01,
+        403.4,
+        174.01
+      ],
+      "text": "Het ontvangen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        144.0,
+        163.01,
+        893.25,
+        175.01
+      ],
+      "text": "is BCM projectteam is gemist.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        165.01,
+        630.25,
+        174.01
+      ],
+      "text": "• en en • van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        177.01,
+        856.5,
+        189.01
+      ],
+      "text": "draagt bij succesvolle implementatie. Herhaald uitstel zorgde hogere verwachtingen de applicatie.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        117.0,
+        179.01,
+        784.25,
+        188.01
+      ],
+      "text": "aan voor van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        487.0,
+        180.01,
+        489.5,
+        189.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.0,
+        191.01,
+        868.18,
+        203.01
+      ],
+      "text": "adviseurs in het koploperteam hebben in duo’s samengewerkt in de Doordat de applicatie onvoldoende werkbaar de dagelijkse",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        192.01,
+        75.0,
+        204.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        194.01,
+        796.0,
+        203.01
+      ],
+      "text": "• • nog was om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        830.0,
+        205.01,
+        851.67,
+        217.01
+      ],
+      "text": "alsof",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        206.01,
+        908.5,
+        218.01
+      ],
+      "text": "Bemiddelingsservice. werkzaamheden voelde het het koploperteam het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        591.0,
+        207.01,
+        639.0,
+        218.01
+      ],
+      "text": "te toetsen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        707.0,
+        208.01,
+        888.0,
+        217.01
+      ],
+      "text": "voor ze aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        644.0,
+        213.0,
+        645.5,
+        218.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        220.01,
+        75.0,
+        231.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        82.0,
+        220.01,
+        426.12,
+        232.01
+      ],
+      "text": "samenwerking benadering vanuit aanbodkant leveren",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        500.0,
+        221.01,
+        529.14,
+        232.01
+      ],
+      "text": "testen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        162.0,
+        222.01,
+        566.86,
+        231.01
+      ],
+      "text": "en vraag- en waren.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        223.01,
+        54.5,
+        232.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        234.01,
+        892.0,
+        246.01
+      ],
+      "text": "waardevolle inzichten verwachting dat de gesignaleerde bevindingen direct binnen de pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        500.0,
+        235.01,
+        510.0,
+        246.01
+      ],
+      "text": "De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        183.0,
+        237.01,
+        599.75,
+        246.01
+      ],
+      "text": "op. • was",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        249.01,
+        599.67,
+        260.01
+      ],
+      "text": "Het In",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        87.0,
+        249.01,
+        860.43,
+        261.01
+      ],
+      "text": "koploperteam ziet de pilot als kans in de werden opgelost. de praktijk duurde dit langer ook heeft geleid",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        758.0,
+        250.01,
+        879.0,
+        261.01
+      ],
+      "text": "wat tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        246.0,
+        251.01,
+        307.0,
+        260.01
+      ],
+      "text": "een om",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        252.01,
+        54.5,
+        261.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        263.01,
+        568.44,
+        275.01
+      ],
+      "text": "Bemiddelingsservice de ervaringen doen. teleurstelling.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        191.0,
+        264.01,
+        308.33,
+        275.01
+      ],
+      "text": "eerste te",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        285.0,
+        266.01,
+        294.33,
+        275.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        348.01,
+        97.33,
+        360.01
+      ],
+      "text": "Adviezen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        377.01,
+        458.0,
+        389.01
+      ],
+      "text": "Op basis de uitdagingen komen de volgende adviezen:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        329.0,
+        378.01,
+        341.0,
+        389.01
+      ],
+      "text": "tot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        99.0,
+        379.01,
+        320.67,
+        388.01
+      ],
+      "text": "van successen en we",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        391.01,
+        687.33,
+        403.01
+      ],
+      "text": "Stimuleer samenwerking adviseur werk werkgeversadviseur de gehele implementatieaanpak.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        272.0,
+        392.01,
+        302.0,
+        403.01
+      ],
+      "text": "tussen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        135.0,
+        392.01,
+        514.67,
+        404.01
+      ],
+      "text": "organiseer in",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        394.01,
+        393.67,
+        403.01
+      ],
+      "text": "• en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        68.0,
+        406.01,
+        87.2,
+        417.01
+      ],
+      "text": "Zorg",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        94.0,
+        406.01,
+        476.25,
+        418.01
+      ],
+      "text": "dat tijdens de pilot projectondersteuning regelmatig fysiek aanwezig is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        114.0,
+        408.01,
+        121.33,
+        417.01
+      ],
+      "text": "er",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        409.01,
+        54.5,
+        418.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        68.0,
+        420.01,
+        428.69,
+        432.01
+      ],
+      "text": "Communiceer planning uitdagingen beperkingen.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        144.0,
+        421.01,
+        200.83,
+        432.01
+      ],
+      "text": "transparant",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        423.01,
+        357.67,
+        432.01
+      ],
+      "text": "• over en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        280.0,
+        427.0,
+        281.5,
+        432.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        434.01,
+        108.2,
+        446.01
+      ],
+      "text": "Definieer",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        132.0,
+        435.01,
+        526.0,
+        447.01
+      ],
+      "text": "communiceer duidelijk het doel de de verwachtingen pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        591.0,
+        436.01,
+        610.17,
+        447.01
+      ],
+      "text": "test.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        437.01,
+        584.0,
+        446.01
+      ],
+      "text": "• en scope en van een versus een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        298.0,
+        442.0,
+        299.5,
+        447.0
+      ],
+      "text": ",",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        65.0,
+        449.01,
+        592.2,
+        461.01
+      ],
+      "text": "Spreek realistische verwachtingen uit in welk tijdsbestek bevindingen issues worden opgelost.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        263.0,
+        451.01,
+        464.67,
+        460.01
+      ],
+      "text": "over en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        52.0,
+        452.01,
+        54.5,
+        461.01
+      ],
+      "text": "•",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        67.0,
+        512.01,
+        197.2,
+        523.01
+      ],
+      "text": "Evaluatie beproeving deel",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 8,
+      "bbox": [
+        45.0,
+        513.01,
+        205.0,
+        523.01
+      ],
+      "text": "8 BMS 2",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        34.0,
+        33.02,
+        213.5,
+        58.02
+      ],
+      "text": "H 5. Nawoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        135.01,
+        569.6,
+        144.01
+      ],
+      "text": "Het in de in de kende Met dank",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        323.0,
+        135.01,
+        371.18,
+        146.01
+      ],
+      "text": "uitvoering",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        66.0,
+        135.01,
+        285.7,
+        147.01
+      ],
+      "text": "gebruik Bemiddelingsservice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        109.0,
+        137.01,
+        596.4,
+        144.01
+      ],
+      "text": "nemen van een aan:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        137.0,
+        150.01,
+        436.6,
+        159.01
+      ],
+      "text": "Na in 2023 in 2024 2025",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        88.0,
+        150.01,
+        274.0,
+        161.01
+      ],
+      "text": "aanloop. 2024,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        58.0,
+        150.01,
+        346.61,
+        162.01
+      ],
+      "text": "lange beproevingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        153.0,
+        151.01,
+        181.29,
+        159.01
+      ],
+      "text": "testen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        32.0,
+        152.01,
+        407.0,
+        159.01
+      ],
+      "text": "zeer en en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        163.01,
+        792.75,
+        172.01
+      ],
+      "text": "De kon worden in Friesland door het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        540.0,
+        163.01,
+        867.39,
+        174.01
+      ],
+      "text": "pilot koploperteam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        589.0,
+        163.01,
+        639.0,
+        175.01
+      ],
+      "text": "uitgevoerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        32.0,
+        164.01,
+        437.75,
+        173.01
+      ],
+      "text": "werd door het het in Friesland het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        122.0,
+        164.01,
+        265.39,
+        175.01
+      ],
+      "text": "project koploperteam",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        338.0,
+        164.01,
+        389.82,
+        176.01
+      ],
+      "text": "uitgekeken",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        61.0,
+        166.01,
+        417.4,
+        173.01
+      ],
+      "text": "er en naar",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        602.0,
+        176.01,
+        877.0,
+        188.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        177.01,
+        592.8,
+        186.01
+      ],
+      "text": "bestaande uit:",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        134.0,
+        179.01,
+        149.0,
+        187.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        158.0,
+        179.01,
+        178.0,
+        188.01
+      ],
+      "text": "BMS.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        784.0,
+        184.0,
+        788.67,
+        188.0
+      ],
+      "text": "‚}",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        688.0,
+        185.0,
+        874.5,
+        189.0
+      ],
+      "text": "| }",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        522.0,
+        190.01,
+        868.0,
+        202.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        621.0,
+        191.01,
+        692.0,
+        203.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        871.0,
+        192.01,
+        874.5,
+        200.01
+      ],
+      "text": "&",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        608.0,
+        199.0,
+        863.5,
+        203.0
+      ],
+      "text": "El „| El 3",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        522.0,
+        205.01,
+        840.0,
+        217.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        206.01,
+        622.5,
+        215.01
+      ],
+      "text": "Door diverse oorzaken veranderd als",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        579.0,
+        206.01,
+        603.17,
+        217.01
+      ],
+      "text": "„IMet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        408.0,
+        206.01,
+        752.18,
+        218.01
+      ],
+      "text": "kreeg businesschangemanager",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        384.0,
+        207.01,
+        398.25,
+        215.01
+      ],
+      "text": "ten",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        835.0,
+        214.0,
+        836.5,
+        218.0
+      ],
+      "text": "5",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        220.01,
+        385.67,
+        229.01
+      ],
+      "text": "het de de ‚Terecht dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        440.0,
+        220.01,
+        447.33,
+        230.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        107.0,
+        220.01,
+        126.17,
+        231.01
+      ],
+      "text": "pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        52.0,
+        220.01,
+        82.63,
+        232.01
+      ],
+      "text": "tijdens",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        179.0,
+        221.01,
+        206.43,
+        229.01
+      ],
+      "text": "status",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        326.0,
+        221.01,
+        349.33,
+        231.01
+      ],
+      "text": "roept",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        133.0,
+        222.01,
+        226.5,
+        229.01
+      ],
+      "text": "meer van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        392.0,
+        222.01,
+        432.67,
+        231.01
+      ],
+      "text": "vraag op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        235.0,
+        223.01,
+        236.0,
+        229.01
+      ],
+      "text": "«",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        617.0,
+        233.01,
+        816.75,
+        242.01
+      ],
+      "text": "vond door medewerkers het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        647.0,
+        233.01,
+        673.57,
+        244.01
+      ],
+      "text": "plaats",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        539.0,
+        233.01,
+        609.57,
+        245.01
+      ],
+      "text": "ondersteuning",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        234.01,
+        847.2,
+        243.01
+      ],
+      "text": "De Team",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        54.0,
+        234.01,
+        70.8,
+        244.01
+      ],
+      "text": "‘GO’",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        131.0,
+        235.01,
+        148.0,
+        244.01
+      ],
+      "text": "2 de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        155.0,
+        235.01,
+        179.86,
+        246.01
+      ],
+      "text": "juiste",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        188.0,
+        235.01,
+        233.46,
+        247.01
+      ],
+      "text": "beslissing",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        782.0,
+        236.01,
+        795.5,
+        242.01
+      ],
+      "text": "van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        105.0,
+        236.01,
+        122.6,
+        246.01
+      ],
+      "text": "stap",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        32.0,
+        237.01,
+        259.4,
+        244.01
+      ],
+      "text": "een voor was.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        248.01,
+        760.18,
+        257.01
+      ],
+      "text": "BeMiddelaarS het MDIT BMS in Amsterdam.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        598.0,
+        250.01,
+        606.0,
+        256.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        262.01,
+        380.5,
+        271.01
+      ],
+      "text": "De heeft niet veel issues. Het",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        316.0,
+        262.01,
+        323.33,
+        272.01
+      ],
+      "text": "of",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        50.0,
+        262.01,
+        69.17,
+        273.01
+      ],
+      "text": "pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        129.0,
+        262.01,
+        306.83,
+        274.01
+      ],
+      "text": "geleid bevindingen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        163.0,
+        263.01,
+        409.6,
+        271.01
+      ],
+      "text": "tot team",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        747.0,
+        274.01,
+        903.0,
+        286.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        275.01,
+        739.2,
+        284.01
+      ],
+      "text": "De evaluatie is door",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        662.0,
+        275.01,
+        712.0,
+        287.01
+      ],
+      "text": "uitgevoerd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        276.01,
+        373.88,
+        285.01
+      ],
+      "text": "BeMiddelaarS werd eerder het beeld dat al hadden.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        399.0,
+        276.01,
+        636.87,
+        287.01
+      ],
+      "text": "pilot opgezet",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        174.0,
+        276.01,
+        218.1,
+        288.01
+      ],
+      "text": "bevestigd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        227.0,
+        277.01,
+        390.67,
+        286.01
+      ],
+      "text": "in De",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        310.0,
+        277.01,
+        318.25,
+        288.01
+      ],
+      "text": "zij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        646.0,
+        278.01,
+        654.0,
+        284.01
+      ],
+      "text": "en",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        835.0,
+        283.0,
+        902.33,
+        287.0
+      ],
+      "text": "‚Ì ‚Ï",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        522.0,
+        288.01,
+        735.0,
+        300.01
+      ],
+      "text": "(geanonimiseerd) (geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        610.0,
+        290.01,
+        613.5,
+        298.01
+      ],
+      "text": "&",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        120.0,
+        291.0,
+        248.0,
+        292.0
+      ],
+      "text": "bel 1",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        149.0,
+        291.0,
+        155.75,
+        293.0
+      ],
+      "text": "ijl",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        291.01,
+        427.27,
+        300.01
+      ],
+      "text": "heeft ook bewust essentiële",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        310.0,
+        291.01,
+        350.25,
+        303.01
+      ],
+      "text": "gemaakt",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        63.0,
+        293.01,
+        372.5,
+        300.01
+      ],
+      "text": "ons en van",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        601.0,
+        297.0,
+        731.5,
+        301.0
+      ],
+      "text": "J J",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        305.01,
+        433.75,
+        314.01
+      ],
+      "text": "randvoorwaarden vind ik dat",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        340.0,
+        306.01,
+        375.14,
+        315.01
+      ],
+      "text": "Daarom",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        238.0,
+        308.0,
+        241.0,
+        311.0
+      ],
+      "text": "n",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        128.0,
+        308.01,
+        334.0,
+        315.01
+      ],
+      "text": "waar we 1.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        175.0,
+        308.01,
+        189.25,
+        317.01
+      ],
+      "text": "nog",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        204.0,
+        313.0,
+        206.0,
+        314.0
+      ],
+      "text": "he",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        317.01,
+        880.0,
+        326.01
+      ],
+      "text": "Dank iedereen alle inzet deze We",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        839.0,
+        317.01,
+        860.43,
+        328.01
+      ],
+      "text": "pilot.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        715.0,
+        317.01,
+        780.08,
+        329.01
+      ],
+      "text": "medewerking",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        552.0,
+        319.01,
+        802.5,
+        325.01
+      ],
+      "text": "aan voor en aan",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        32.0,
+        320.01,
+        130.5,
+        329.01
+      ],
+      "text": "de is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        48.0,
+        320.01,
+        67.17,
+        331.01
+      ],
+      "text": "pilot",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        74.0,
+        320.01,
+        114.0,
+        332.01
+      ],
+      "text": "geslaagd",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        331.01,
+        792.67,
+        340.01
+      ],
+      "text": "hebben hard elkaar waardevolle",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        591.0,
+        331.01,
+        895.11,
+        343.01
+      ],
+      "text": "gewerkt opbrengst gedeeld.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        637.0,
+        332.01,
+        652.0,
+        340.01
+      ],
+      "text": "met",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        696.0,
+        334.01,
+        725.5,
+        340.01
+      ],
+      "text": "en een",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        523.0,
+        346.01,
+        665.38,
+        355.01
+      ],
+      "text": "Hier kunnen verder!",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        589.0,
+        346.01,
+        600.25,
+        357.01
+      ],
+      "text": "wij",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        347.01,
+        210.67,
+        356.01
+      ],
+      "text": "De ook laten zien dat de",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        76.0,
+        347.01,
+        98.5,
+        357.01
+      ],
+      "text": "heeft",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        50.0,
+        347.01,
+        420.22,
+        358.01
+      ],
+      "text": "pilot applicatie potentie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        272.0,
+        347.01,
+        372.7,
+        359.01
+      ],
+      "text": "Bemiddelingsservice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        608.0,
+        348.01,
+        624.5,
+        354.01
+      ],
+      "text": "mee",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        95.0,
+        361.01,
+        145.6,
+        370.01
+      ],
+      "text": "dat veel",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        33.0,
+        361.01,
+        378.67,
+        372.01
+      ],
+      "text": "heeft, data,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        153.0,
+        361.01,
+        431.9,
+        373.01
+      ],
+      "text": "verbeteringen nodig gebied matching,",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        260.0,
+        362.01,
+        274.4,
+        373.01
+      ],
+      "text": "zijn",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        66.0,
+        364.01,
+        348.5,
+        371.01
+      ],
+      "text": "maar er van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        282.0,
+        364.01,
+        290.67,
+        373.01
+      ],
+      "text": "op",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        132.0,
+        376.01,
+        345.1,
+        385.01
+      ],
+      "text": "kennis BMS door adviseurs",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        232.0,
+        376.01,
+        266.13,
+        387.01
+      ],
+      "text": "adoptie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        32.0,
+        376.01,
+        437.5,
+        388.01
+      ],
+      "text": "systeemstabiliteit, skillsgericht",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        168.0,
+        378.01,
+        371.4,
+        385.01
+      ],
+      "text": "van en over",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        32.0,
+        390.01,
+        279.41,
+        399.01
+      ],
+      "text": "werken voordat verdere verantwoord",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        160.0,
+        390.01,
+        210.91,
+        402.01
+      ],
+      "text": "opschaling",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        289.0,
+        391.01,
+        296.5,
+        400.01
+      ],
+      "text": "is.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        341.0,
+        417.01,
+        453.0,
+        429.01
+      ],
+      "text": "(geanonimiseerd)",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        219.0,
+        445.01,
+        446.7,
+        457.01
+      ],
+      "text": "Implementatiemanager Bemiddelingsservice",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        399.0,
+        472.01,
+        418.17,
+        483.01
+      ],
+      "text": "april",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        425.0,
+        473.01,
+        446.6,
+        482.01
+      ],
+      "text": "2026",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        102.0,
+        512.01,
+        137.1,
+        520.01
+      ],
+      "text": "Evaluatie",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        144.0,
+        512.01,
+        159.83,
+        522.01
+      ],
+      "text": "pilot",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        167.0,
+        513.01,
+        180.5,
+        520.01
+      ],
+      "text": "BMS",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        65.0,
+        513.01,
+        94.75,
+        522.01
+      ],
+      "text": "Rapport",
+      "source": "text"
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        90.0,
+        81.0,
+        299.0,
+        99.0
+      ],
+      "text": "Toelichting grondslagen",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        90.0,
+        113.0,
+        467.43,
+        123.0
+      ],
+      "text": "In dit document kunt u secties vinden die onleesbaar zijn gemaakt. Deze informatie is",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        90.0,
+        123.0,
+        504.11,
+        133.0
+      ],
+      "text": "achterwege gelaten op basis van de Wet open overheid (Woo). De letter die hierbij is vermeld",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        90.0,
+        133.0,
+        412.43,
+        143.0
+      ],
+      "text": "correspondeert met de bijbehorende grondslag in onderstaand overzicht.",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        93.33,
+        155.0,
+        202.72,
+        167.0
+      ],
+      "text": "J Art. 5.1 lid 2 sub e",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        90.0,
+        171.0,
+        496.95,
+        181.0
+      ],
+      "text": "Het belang van de openbaarmaking van deze informatie weegt niet op tegen het belang van",
+      "source": "text"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        90.0,
+        181.0,
+        377.97,
+        191.0
+      ],
+      "text": "de eerbiediging van de persoonlijke levenssfeer van betrokkenen",
+      "source": "text"
+    }
+  ]
+}

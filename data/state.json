@@ -16249,24 +16249,604 @@
       "json": "data/2026-08-04-woo-besluit-beperkingen-communicatie-en-beleid-digitale-gegevensdragers/2026-08-04-gedragscode-uwv.json"
     }
   },
-  "https://www.uwv.nl/assets-kai/files/77243f5b-3f61-42ab-9855-d47f0dd363ce/woo-besluit-2026056-bezwaar.pdf": {
-    "publication_slug": "2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier",
-    "pdf_slug": "2026-10-09-woo-besluit-2026056-bezwaar",
-    "sha256": "14325e8918559ac8165a14df065d28c1c02754657c67d288508d4b0c98c23ccd",
-    "retrieved_at": "2026-11-02T09:08:28+00:00",
+  "https://www.uwv.nl/assets-kai/files/c1107b10-745b-411b-98c5-863cbfd28ba8/woo-besluit-2026081.pdf": {
+    "publication_slug": "2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv",
+    "pdf_slug": "2026-09-03-woo-besluit-2026081",
+    "sha256": "19712737ad6fbc923f64edc71e173744b10fbbaa9e78a1a720f8a8c8c7895995",
+    "retrieved_at": "2026-09-15T08:07:47+00:00",
     "paths": {
-      "md": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.md",
-      "json": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.json"
+      "md": "data/2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv/2026-09-03-woo-besluit-2026081.md",
+      "json": "data/2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv/2026-09-03-woo-besluit-2026081.json"
     }
   },
-  "https://www.uwv.nl/assets-kai/files/2b42f371-4788-4302-b8e1-b8c73ba790e7/woo-besluit-2026118.pdf": {
-    "publication_slug": "2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes",
-    "pdf_slug": "2026-10-09-woo-besluit-2026118",
-    "sha256": "cb769dc5ac082a0f78639ff2cfe3033f04fda542178c609768f4a43f056448c0",
-    "retrieved_at": "2026-11-02T09:08:30+00:00",
+  "https://www.uwv.nl/assets-kai/files/ac394fed-f135-4cd3-b259-c718710e500c/bijlage-1-spp-va-2026-2030.pdf": {
+    "publication_slug": "2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv",
+    "pdf_slug": "2026-09-03-bijlage-1-spp-va-2026-2030",
+    "sha256": "99dba53083d1da7d4061323fbff0e2c2187c210d41b42756c3fe962688cbc911",
+    "retrieved_at": "2026-09-15T08:07:52+00:00",
     "paths": {
-      "md": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.md",
-      "json": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.json"
+      "md": "data/2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv/2026-09-03-bijlage-1-spp-va-2026-2030.md",
+      "json": "data/2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv/2026-09-03-bijlage-1-spp-va-2026-2030.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/7bdd0223-9539-474b-b877-90b094c330c7/bijlage-2-spp-ad-2026-30.pdf": {
+    "publication_slug": "2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv",
+    "pdf_slug": "2026-09-03-bijlage-2-spp-ad-2026-30",
+    "sha256": "8a18834d92f39d0d77bd68b35a491e88b5e6a6fade6d4850bca0d303832459d1",
+    "retrieved_at": "2026-09-15T08:08:01+00:00",
+    "paths": {
+      "md": "data/2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv/2026-09-03-bijlage-2-spp-ad-2026-30.md",
+      "json": "data/2026-09-03-woo-besluit-wia-ww-achterstanden-kwaliteit-en-integriteit-uwv/2026-09-03-bijlage-2-spp-ad-2026-30.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e7e3c63c-e8a3-41be-a4fa-01eecd50da72/woo-besluit-2026104.pdf": {
+    "publication_slug": "2026-09-03-woo-besluit-fiscale-uitruil-bij-uwv-als-werkgever-en-uitvoerder-wia",
+    "pdf_slug": "2026-09-03-woo-besluit-2026104",
+    "sha256": "b7cc908c1ee48553f6de6186de0e41f33b7ac14b4b10738f6aebd9b739d5737b",
+    "retrieved_at": "2026-09-15T08:08:04+00:00",
+    "paths": {
+      "md": "data/2026-09-03-woo-besluit-fiscale-uitruil-bij-uwv-als-werkgever-en-uitvoerder-wia/2026-09-03-woo-besluit-2026104.md",
+      "json": "data/2026-09-03-woo-besluit-fiscale-uitruil-bij-uwv-als-werkgever-en-uitvoerder-wia/2026-09-03-woo-besluit-2026104.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1b36b8bc-abf7-4836-869b-16a093bc50f5/woo-besluit-2026090.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-vergoeding-juridische-kosten-medewerkers-parkeergarage-kazerneplein",
+    "pdf_slug": "2026-08-16-woo-besluit-2026090",
+    "sha256": "8532d19cc35e2585b2516225a62de0a5ea403b4477d08b48d74f657f7080120d",
+    "retrieved_at": "2026-09-15T08:08:06+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-vergoeding-juridische-kosten-medewerkers-parkeergarage-kazerneplein/2026-08-16-woo-besluit-2026090.md",
+      "json": "data/2026-08-16-woo-besluit-vergoeding-juridische-kosten-medewerkers-parkeergarage-kazerneplein/2026-08-16-woo-besluit-2026090.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f790c219-aa65-4b25-a992-f23fd60f910e/woo-besluit-2026014-bezwaar.pdf": {
+    "publication_slug": "2026-08-14-woo-besluit-op-bezwaar-over-pes-suite-bemiddelingsservice",
+    "pdf_slug": "2026-08-14-woo-besluit-2026014-bezwaar",
+    "sha256": "090392e30b986b1d70bc0d24cb9539d793a5276f01cf1044348557e705166e30",
+    "retrieved_at": "2026-09-15T08:08:09+00:00",
+    "paths": {
+      "md": "data/2026-08-14-woo-besluit-op-bezwaar-over-pes-suite-bemiddelingsservice/2026-08-14-woo-besluit-2026014-bezwaar.md",
+      "json": "data/2026-08-14-woo-besluit-op-bezwaar-over-pes-suite-bemiddelingsservice/2026-08-14-woo-besluit-2026014-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/daff00d9-fbc7-435c-bb99-49be00eb0b8b/woo-besluit-2026088.pdf": {
+    "publication_slug": "2026-08-14-woo-besluit-over-achterstanden-bij-beoordelingen",
+    "pdf_slug": "2026-08-14-woo-besluit-2026088",
+    "sha256": "2601cf389aff85cca7b9258eeeb55224d2d88f7f00533ea319d18e8e0918d21a",
+    "retrieved_at": "2026-09-15T08:08:11+00:00",
+    "paths": {
+      "md": "data/2026-08-14-woo-besluit-over-achterstanden-bij-beoordelingen/2026-08-14-woo-besluit-2026088.md",
+      "json": "data/2026-08-14-woo-besluit-over-achterstanden-bij-beoordelingen/2026-08-14-woo-besluit-2026088.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/822af4c8-3e39-4d6f-8336-366c8dd1947d/woo-besluit-2026022-bezwaar.pdf": {
+    "publication_slug": "2026-08-14-woo-besluit-op-bezwaar-over-beslagleggingsvragen",
+    "pdf_slug": "2026-08-14-woo-besluit-2026022-bezwaar",
+    "sha256": "4bfba8fe9827bb94a147ac9fe84d04c30d73400e67b2f642b1ac9ceb93ebaddc",
+    "retrieved_at": "2026-09-15T08:08:14+00:00",
+    "paths": {
+      "md": "data/2026-08-14-woo-besluit-op-bezwaar-over-beslagleggingsvragen/2026-08-14-woo-besluit-2026022-bezwaar.md",
+      "json": "data/2026-08-14-woo-besluit-op-bezwaar-over-beslagleggingsvragen/2026-08-14-woo-besluit-2026022-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ee0ea35c-8ac8-40f8-b3f3-b0bd56e3acf3/woo-besluit-2026022-bezwaar.pdf": {
+    "publication_slug": "2026-08-14-woo-besluit-op-bezwaar-over-tegemoetkomingen-now",
+    "pdf_slug": "2026-08-14-woo-besluit-2026022-bezwaar",
+    "sha256": "db32e68a81517d299ab27aa89703af49b2a870861d7a2cb93598459c15870118",
+    "retrieved_at": "2026-09-15T08:08:16+00:00",
+    "paths": {
+      "md": "data/2026-08-14-woo-besluit-op-bezwaar-over-tegemoetkomingen-now/2026-08-14-woo-besluit-2026022-bezwaar.md",
+      "json": "data/2026-08-14-woo-besluit-op-bezwaar-over-tegemoetkomingen-now/2026-08-14-woo-besluit-2026022-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/73fdd69a-bbc8-4151-88a9-833eda561031/woo-besluit-2026087.pdf": {
+    "publication_slug": "2026-08-14-woo-besluit-over-claimbeoordelings-en-borgingssysteem-cbbs-bij-wia",
+    "pdf_slug": "2026-08-14-woo-besluit-2026087",
+    "sha256": "519221abdecf3f859b70acbeba335f7ffda748a5885e0b315c03d4e725dce0f3",
+    "retrieved_at": "2026-09-15T08:08:18+00:00",
+    "paths": {
+      "md": "data/2026-08-14-woo-besluit-over-claimbeoordelings-en-borgingssysteem-cbbs-bij-wia/2026-08-14-woo-besluit-2026087.md",
+      "json": "data/2026-08-14-woo-besluit-over-claimbeoordelings-en-borgingssysteem-cbbs-bij-wia/2026-08-14-woo-besluit-2026087.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/69820afb-9800-4837-8287-dfad54e3d8ac/woo-besluit-2026076.pdf": {
+    "publication_slug": "2026-08-14-woo-besluit-over-protocollen-sociaal-medische-beoordelingen",
+    "pdf_slug": "2026-08-14-woo-besluit-2026076",
+    "sha256": "6ba650fcbd36977c75abd99a19a477e18d197008d7653fbe2030d5b2b84f0b23",
+    "retrieved_at": "2026-09-15T08:08:20+00:00",
+    "paths": {
+      "md": "data/2026-08-14-woo-besluit-over-protocollen-sociaal-medische-beoordelingen/2026-08-14-woo-besluit-2026076.md",
+      "json": "data/2026-08-14-woo-besluit-over-protocollen-sociaal-medische-beoordelingen/2026-08-14-woo-besluit-2026076.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4263c36f-130b-481d-a3ff-09921ce582c7/woo-besluit-2026043-bezwaar.pdf": {
+    "publication_slug": "2026-08-13-woo-besluit-op-bezwaar-over-een-persoonlijk-dossier",
+    "pdf_slug": "2026-08-13-woo-besluit-2026043-bezwaar",
+    "sha256": "3e3e9f06dfdcb8da4845e2195838a13dbb010622522f7b20384ea9117ca5a77a",
+    "retrieved_at": "2026-09-15T08:08:22+00:00",
+    "paths": {
+      "md": "data/2026-08-13-woo-besluit-op-bezwaar-over-een-persoonlijk-dossier/2026-08-13-woo-besluit-2026043-bezwaar.md",
+      "json": "data/2026-08-13-woo-besluit-op-bezwaar-over-een-persoonlijk-dossier/2026-08-13-woo-besluit-2026043-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5b6ac7e6-ff8c-4a83-bf56-21e215706637/woo-besluit-2026093.pdf": {
+    "publication_slug": "2026-08-13-woo-besluit-over-de-dpia-en-geb-inzake-bms",
+    "pdf_slug": "2026-08-13-woo-besluit-2026093",
+    "sha256": "868f23c93a07f6bd42a700f5daa1166e8e521d2aaeeb410aa5e2e3bc5ba43cff",
+    "retrieved_at": "2026-09-15T08:08:25+00:00",
+    "paths": {
+      "md": "data/2026-08-13-woo-besluit-over-de-dpia-en-geb-inzake-bms/2026-08-13-woo-besluit-2026093.md",
+      "json": "data/2026-08-13-woo-besluit-over-de-dpia-en-geb-inzake-bms/2026-08-13-woo-besluit-2026093.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c9a47286-b062-4ac8-8674-76e8ce2fe8e0/woo-besluit-2026103.pdf": {
+    "publication_slug": "2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen",
+    "pdf_slug": "2026-07-30-woo-besluit-2026103",
+    "sha256": "cfc7ae202b56b6ea191df52f21fe9d50b96374d62b19f2425129aa6616045481",
+    "retrieved_at": "2026-09-15T08:08:39+00:00",
+    "paths": {
+      "md": "data/2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen/2026-07-30-woo-besluit-2026103.md",
+      "json": "data/2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen/2026-07-30-woo-besluit-2026103.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a2fccfa1-8681-452a-8c7b-8088a66d0219/bijlage-1-instructie.pdf": {
+    "publication_slug": "2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen",
+    "pdf_slug": "2026-07-30-bijlage-1-instructie",
+    "sha256": "54f3b7a4c5281c2c07c4a37d3034c173b4bdf5cde061c2168c4240e25a55879d",
+    "retrieved_at": "2026-09-15T08:08:41+00:00",
+    "paths": {
+      "md": "data/2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen/2026-07-30-bijlage-1-instructie.md",
+      "json": "data/2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen/2026-07-30-bijlage-1-instructie.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e4b72da8-bf88-498d-9908-8debd2c98c9b/bijlage-2-wetsuitleg-ww.pdf": {
+    "publication_slug": "2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen",
+    "pdf_slug": "2026-07-30-bijlage-2-wetsuitleg-ww",
+    "sha256": "49154003c20a82ba4e63cee467f46b306325a69eee17a6ba790028b2ea1ff215",
+    "retrieved_at": "2026-09-15T08:08:48+00:00",
+    "paths": {
+      "md": "data/2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen/2026-07-30-bijlage-2-wetsuitleg-ww.md",
+      "json": "data/2026-07-30-woo-besluit-interne-documenten-over-beoordeling-pensioenvermogen-en-vso-vergoedingen/2026-07-30-bijlage-2-wetsuitleg-ww.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/fcf89cf4-d02d-4782-83f9-a25869dbc2b6/woo-besluit-2026085.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-blokkeren-van-e-mailadressen",
+    "pdf_slug": "2026-09-10-woo-besluit-2026085",
+    "sha256": "397fa4178c19248fd2ab097dadab1790de342dc650db0476059f80f5fd64a47a",
+    "retrieved_at": "2026-09-16T10:40:57+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-blokkeren-van-e-mailadressen/2026-09-10-woo-besluit-2026085.md",
+      "json": "data/2026-09-10-woo-besluit-blokkeren-van-e-mailadressen/2026-09-10-woo-besluit-2026085.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1f3fea6c-2795-4460-a3f4-54f2c0c22625/woo-besluit-2026091.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-over-bezwaar-beroep-en-vergoedingen",
+    "pdf_slug": "2026-09-10-woo-besluit-2026091",
+    "sha256": "c39f1da82fd3479c29bc76405c8fa45bb0e0d8eb21eb4b7726dbca9eb2a10ec2",
+    "retrieved_at": "2026-09-16T10:41:00+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-over-bezwaar-beroep-en-vergoedingen/2026-09-10-woo-besluit-2026091.md",
+      "json": "data/2026-09-10-woo-besluit-over-bezwaar-beroep-en-vergoedingen/2026-09-10-woo-besluit-2026091.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/90eb30fc-6cca-4d4b-bdea-69c92113d3a1/aangetroffen-data.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-over-bezwaar-beroep-en-vergoedingen",
+    "pdf_slug": "2026-09-10-aangetroffen-data",
+    "sha256": "20754222a037ae8498300929b75f3c40967ca22c73120052919799823a3be9f0",
+    "retrieved_at": "2026-09-16T10:41:02+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-over-bezwaar-beroep-en-vergoedingen/2026-09-10-aangetroffen-data.md",
+      "json": "data/2026-09-10-woo-besluit-over-bezwaar-beroep-en-vergoedingen/2026-09-10-aangetroffen-data.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d077acb2-f715-4f0a-8652-8f9b798b2cd8/woo-besluit-2026107.pdf": {
+    "publication_slug": "2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep",
+    "pdf_slug": "2026-08-30-woo-besluit-2026107",
+    "sha256": "576accf113c81c1179b795e330d3ce202c1ac40c085483afea73bc537a6569d3",
+    "retrieved_at": "2026-09-16T10:41:06+00:00",
+    "paths": {
+      "md": "data/2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep/2026-08-30-woo-besluit-2026107.md",
+      "json": "data/2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep/2026-08-30-woo-besluit-2026107.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ca4fbae7-b3ca-4809-a900-71f8561b5848/bijlage-1-verzekeringsarts-taakdelegatie-woo-2026107.pdf": {
+    "publication_slug": "2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep",
+    "pdf_slug": "2026-08-30-bijlage-1-verzekeringsarts-taakdelegatie-woo-2026107",
+    "sha256": "d453415aa457f7aeb137bc499e089ca957b122457801b3af78d231fac2d9d560",
+    "retrieved_at": "2026-09-16T10:41:08+00:00",
+    "paths": {
+      "md": "data/2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep/2026-08-30-bijlage-1-verzekeringsarts-taakdelegatie-woo-2026107.md",
+      "json": "data/2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep/2026-08-30-bijlage-1-verzekeringsarts-taakdelegatie-woo-2026107.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1bacb80c-751d-470e-b4c3-727ce99afaf0/bijlage-2-functieprofiel-verzekeringsarts-bb-woo-2026107.pdf": {
+    "publication_slug": "2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep",
+    "pdf_slug": "2026-08-30-bijlage-2-functieprofiel-verzekeringsarts-bb-woo-2026107",
+    "sha256": "9e3b902a21a8dffef878d2791a9e6f6689b04bf49ad3716db0f741318bb85ca3",
+    "retrieved_at": "2026-09-16T10:41:10+00:00",
+    "paths": {
+      "md": "data/2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep/2026-08-30-bijlage-2-functieprofiel-verzekeringsarts-bb-woo-2026107.md",
+      "json": "data/2026-08-30-woo-besluit-functieprofiel-verzekeringsarts-bezwaar-en-beroep/2026-08-30-bijlage-2-functieprofiel-verzekeringsarts-bb-woo-2026107.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/04569bfa-b3a9-48b2-9cde-71626bba72bf/woo-besluit-2026086.pdf": {
+    "publication_slug": "2026-08-30-woo-besluit-over-koers-uwv-en-werkcultuur-smz",
+    "pdf_slug": "2026-08-30-woo-besluit-2026086",
+    "sha256": "0039d34c481461f304e04d5ad97d5e3bddc50e522bb9e4b67bccc4374f5abcf6",
+    "retrieved_at": "2026-09-16T10:41:13+00:00",
+    "paths": {
+      "md": "data/2026-08-30-woo-besluit-over-koers-uwv-en-werkcultuur-smz/2026-08-30-woo-besluit-2026086.md",
+      "json": "data/2026-08-30-woo-besluit-over-koers-uwv-en-werkcultuur-smz/2026-08-30-woo-besluit-2026086.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d61a1094-fcc9-49b8-9f3d-76b8497d7381/woo-besluit-2026100.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-voorlegger-rvb-vergadering-3-september-2024-bms",
+    "pdf_slug": "2026-08-16-woo-besluit-2026100",
+    "sha256": "d58da83707d8126f7536b2ffaf6251e23ca0b33572ee5478df37907b20bd6f74",
+    "retrieved_at": "2026-09-16T10:41:16+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-voorlegger-rvb-vergadering-3-september-2024-bms/2026-08-16-woo-besluit-2026100.md",
+      "json": "data/2026-08-16-woo-besluit-voorlegger-rvb-vergadering-3-september-2024-bms/2026-08-16-woo-besluit-2026100.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/86c09fdd-c4b2-4564-991f-611699aa239c/woo-besluit-2026038-bezwaar.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten",
+    "pdf_slug": "2026-08-16-woo-besluit-2026038-bezwaar",
+    "sha256": "bdae618ce4b574ce4a83db492d673b2ba394e9cca8cc70e0e856d4386b4962ff",
+    "retrieved_at": "2026-09-16T10:41:18+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten/2026-08-16-woo-besluit-2026038-bezwaar.md",
+      "json": "data/2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten/2026-08-16-woo-besluit-2026038-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9f0a005a-20b0-419c-8e5d-078036b7c0f2/foto-1-sp-uitvoering.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten",
+    "pdf_slug": "2026-08-16-foto-1-sp-uitvoering",
+    "sha256": "bad04ac127faa402ecd4cc85f6c7095cd6cfc0d26d033715ce2771840136cf29",
+    "retrieved_at": "2026-09-16T10:41:19+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten/2026-08-16-foto-1-sp-uitvoering.md",
+      "json": "data/2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten/2026-08-16-foto-1-sp-uitvoering.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/04f8f453-b679-4589-9ec6-cc5d7ab6f9ec/foto-2-sp-uitvoering.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten",
+    "pdf_slug": "2026-08-16-foto-2-sp-uitvoering",
+    "sha256": "225d69831f1b7af927fec6b43f03756a5b521708750e42fbb0e2d4f26363714e",
+    "retrieved_at": "2026-09-16T10:41:22+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten/2026-08-16-foto-2-sp-uitvoering.md",
+      "json": "data/2026-08-16-woo-besluit-bezwaar-opvragen-pasfotos-bij-gemeenten/2026-08-16-foto-2-sp-uitvoering.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/c35af738-f9d9-4402-9789-d3a176326c2b/woo-besluit-2026092.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-loon-almanak-2024-inzake-opgebouwd-recht-vakantiebijslag",
+    "pdf_slug": "2026-08-16-woo-besluit-2026092",
+    "sha256": "46788dff8e7d0ff0657d897212a3e907fb86e816f8ed6892c54b539488f7fb24",
+    "retrieved_at": "2026-09-16T10:41:24+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-loon-almanak-2024-inzake-opgebouwd-recht-vakantiebijslag/2026-08-16-woo-besluit-2026092.md",
+      "json": "data/2026-08-16-woo-besluit-loon-almanak-2024-inzake-opgebouwd-recht-vakantiebijslag/2026-08-16-woo-besluit-2026092.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/18e49da2-1ccc-410a-8a5e-691e57885a15/handboek-individueel-keuzebudget.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-loon-almanak-2024-inzake-opgebouwd-recht-vakantiebijslag",
+    "pdf_slug": "2026-08-16-handboek-individueel-keuzebudget",
+    "sha256": "af3e5e513fcd355059c1078663908bd69c1467d5a97576229ec900dc6a6cc968",
+    "retrieved_at": "2026-09-16T10:41:28+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-loon-almanak-2024-inzake-opgebouwd-recht-vakantiebijslag/2026-08-16-handboek-individueel-keuzebudget.md",
+      "json": "data/2026-08-16-woo-besluit-loon-almanak-2024-inzake-opgebouwd-recht-vakantiebijslag/2026-08-16-handboek-individueel-keuzebudget.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d59faf8a-c6e7-4529-be93-bbb94e9007d6/woo-besluit-2026097.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-dienstverbanden-client-uwv",
+    "pdf_slug": "2026-08-16-woo-besluit-2026097",
+    "sha256": "b20976d504944826b4f640cf3724b6b2126be0ae4f3b160fed48b051fc6e536b",
+    "retrieved_at": "2026-09-16T10:41:31+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-dienstverbanden-client-uwv/2026-08-16-woo-besluit-2026097.md",
+      "json": "data/2026-08-16-woo-besluit-dienstverbanden-client-uwv/2026-08-16-woo-besluit-2026097.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ffa12568-95c7-43c8-b818-5da05205441c/woo-besluit-2026084.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-registratie-van-post-met-als-afzender-ap-of-geanonimiseerde-onderneming",
+    "pdf_slug": "2026-08-04-woo-besluit-2026084",
+    "sha256": "75abbaa7ec830900fd4ad5f2a63b104b876172aa214e8c94bfca11a9c5a30936",
+    "retrieved_at": "2026-09-16T10:41:40+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-registratie-van-post-met-als-afzender-ap-of-geanonimiseerde-onderneming/2026-08-04-woo-besluit-2026084.md",
+      "json": "data/2026-08-04-woo-besluit-registratie-van-post-met-als-afzender-ap-of-geanonimiseerde-onderneming/2026-08-04-woo-besluit-2026084.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ae450a73-d26b-4df0-8946-923247fe5c99/woo-besluit-2026094.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-samenwerking-wajong-talenten",
+    "pdf_slug": "2026-09-10-woo-besluit-2026094",
+    "sha256": "33390e228156b52d324f703d07f6c06942e9f03d8d5e6bcafd56962f4856a623",
+    "retrieved_at": "2026-09-18T10:24:33+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-samenwerking-wajong-talenten/2026-09-10-woo-besluit-2026094.md",
+      "json": "data/2026-09-10-woo-besluit-samenwerking-wajong-talenten/2026-09-10-woo-besluit-2026094.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e669fa68-8717-4b19-a989-b100d4536161/woo-besluit-2026079.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-bemiddelingsservice-bms",
+    "pdf_slug": "2026-09-10-woo-besluit-2026079",
+    "sha256": "be7b9f4fc4289affd058aa230a2bfca0cca82f66b8966cb6b006f86154689b45",
+    "retrieved_at": "2026-09-18T10:24:36+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-woo-besluit-2026079.md",
+      "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-woo-besluit-2026079.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ed2c956b-8734-4654-9360-2668e080c0b1/20251216-voorlegger-werkgever-data-in-bms-fase-1-v08.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-bemiddelingsservice-bms",
+    "pdf_slug": "2026-09-10-20251216-voorlegger-werkgever-data-in-bms-fase-1-v08",
+    "sha256": "b67fa17ee0ebd28753b531090b8fa3080f394ab43f94c915ea2df60462d11701",
+    "retrieved_at": "2026-09-18T10:24:41+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-20251216-voorlegger-werkgever-data-in-bms-fase-1-v08.md",
+      "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-20251216-voorlegger-werkgever-data-in-bms-fase-1-v08.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/4ab8e61d-6cc5-46b0-80a3-10dc451a66cb/bijlage-3f-addendum-psa-bemiddelingsservice-fase-1-1-0.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-bemiddelingsservice-bms",
+    "pdf_slug": "2026-09-10-bijlage-3f-addendum-psa-bemiddelingsservice-fase-1-1-0",
+    "sha256": "80f0bf42fd1ad554faf925108c6272999b2a2c5f9c87cc8c7fa979692c83be7f",
+    "retrieved_at": "2026-09-18T10:24:48+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-bijlage-3f-addendum-psa-bemiddelingsservice-fase-1-1-0.md",
+      "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-bijlage-3f-addendum-psa-bemiddelingsservice-fase-1-1-0.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/957a7897-4d62-40e2-a99f-65a7a4956b34/bijlage-4d-20250311-voorlegger-stuurgroep-kvb-bms-def-v0-9.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-bemiddelingsservice-bms",
+    "pdf_slug": "2026-09-10-bijlage-4d-20250311-voorlegger-stuurgroep-kvb-bms-def-v0-9",
+    "sha256": "c368c2b4c0cdf467e07ca581aa53cdf83cda45523646b011b4a2f1abc3b67ae9",
+    "retrieved_at": "2026-09-18T10:24:50+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-bijlage-4d-20250311-voorlegger-stuurgroep-kvb-bms-def-v0-9.md",
+      "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-bijlage-4d-20250311-voorlegger-stuurgroep-kvb-bms-def-v0-9.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ecf2bd7c-3646-41fa-9f67-42b9734afd1f/psa-bemiddelingsservice-addendum-transitie-architectuur-1-0.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-bemiddelingsservice-bms",
+    "pdf_slug": "2026-09-10-psa-bemiddelingsservice-addendum-transitie-architectuur-1-0",
+    "sha256": "d22e749a1dc94b08e40c16d4f81c384a5fbb9880e91347fa0e0322a511e5786d",
+    "retrieved_at": "2026-09-18T10:24:52+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-psa-bemiddelingsservice-addendum-transitie-architectuur-1-0.md",
+      "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-psa-bemiddelingsservice-addendum-transitie-architectuur-1-0.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/01c35e92-5e4b-4fc0-9ab0-2bf774f4c037/psa-bemiddelingsservice-plateau-1-overgangssituatie-1-0-20230314.pdf": {
+    "publication_slug": "2026-09-10-woo-besluit-bemiddelingsservice-bms",
+    "pdf_slug": "2026-09-10-psa-bemiddelingsservice-plateau-1-overgangssituatie-1-0-20230314",
+    "sha256": "0e74b752ad19e31b7861e7d2d6ae633e67cecbbf466e27b4afbc779543861550",
+    "retrieved_at": "2026-09-18T10:24:55+00:00",
+    "paths": {
+      "md": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-psa-bemiddelingsservice-plateau-1-overgangssituatie-1-0-20230314.md",
+      "json": "data/2026-09-10-woo-besluit-bemiddelingsservice-bms/2026-09-10-psa-bemiddelingsservice-plateau-1-overgangssituatie-1-0-20230314.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a192eab7-c98e-4ce5-b925-566a399a9d3a/woo-besluit-2026095.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-informatieverzoek-bedrijfssamenwerking",
+    "pdf_slug": "2026-09-16-woo-besluit-2026095",
+    "sha256": "0cae12fc2ae881d6ea50e36247673a198a3641d221823219c49d3124f32c0f44",
+    "retrieved_at": "2026-09-23T10:37:20+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-informatieverzoek-bedrijfssamenwerking/2026-09-16-woo-besluit-2026095.md",
+      "json": "data/2026-09-16-woo-besluit-informatieverzoek-bedrijfssamenwerking/2026-09-16-woo-besluit-2026095.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/09d97747-5518-447b-a3cf-2a96631b0021/woo-besluit-2026096.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv",
+    "pdf_slug": "2026-09-16-woo-besluit-2026096",
+    "sha256": "c248ab9ec76d6066a0239409cc3217ffb13dcd55736adb88f334db89b9578c0d",
+    "retrieved_at": "2026-09-23T10:37:22+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-woo-besluit-2026096.md",
+      "json": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-woo-besluit-2026096.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e8c73182-3cb4-48d3-8116-ddbd4f582116/e-mails-over-gebruik -pasfoto.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv",
+    "pdf_slug": "2026-09-16-e-mails-over-gebruik-pasfoto",
+    "sha256": "2ac8587527a7b46e4a2bc3afe84afb4788759f4fd846f352d0b0758187eea108",
+    "retrieved_at": "2026-09-23T10:37:48+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-e-mails-over-gebruik-pasfoto.md",
+      "json": "data/2026-09-16-woo-besluit-gebruik-van-pasfotos-door-uwv/2026-09-16-e-mails-over-gebruik-pasfoto.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e1e6839c-ae48-43ea-b101-bb134499d3f2/woo-besluit-2026049b-bezwaar.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms",
+    "pdf_slug": "2026-09-16-woo-besluit-2026049b-bezwaar",
+    "sha256": "6756ad8cb50cb6659529484b0e510f8f0e7ed8efe7553ca4aebddaebc2778247",
+    "retrieved_at": "2026-09-23T10:37:51+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-woo-besluit-2026049b-bezwaar.md",
+      "json": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-woo-besluit-2026049b-bezwaar.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0d0b9176-364b-4f9e-b51e-69cc67b9b73d/rapport-evaluatie-pilot-ingebruikname-bms.pdf": {
+    "publication_slug": "2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms",
+    "pdf_slug": "2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms",
+    "sha256": "11a3ed9f0b1f0af431262617ad211836400ae629fbf5a218929dc2aac1cc7e67",
+    "retrieved_at": "2026-09-23T10:37:53+00:00",
+    "paths": {
+      "md": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms.md",
+      "json": "data/2026-09-16-woo-besluit-op-bezwaar-over-onderzoek-bms/2026-09-16-rapport-evaluatie-pilot-ingebruikname-bms.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9e136260-e620-44f5-a12e-15967f382b41/woo-besluit-2026105.pdf": {
+    "publication_slug": "2026-09-11-woo-besluit-samenwerking-met-een-dienstverlener",
+    "pdf_slug": "2026-09-11-woo-besluit-2026105",
+    "sha256": "db4b5f818bab91ec3a1f35341d5e71bd2966d071289c8a345f8e937da76a7251",
+    "retrieved_at": "2026-09-23T10:37:55+00:00",
+    "paths": {
+      "md": "data/2026-09-11-woo-besluit-samenwerking-met-een-dienstverlener/2026-09-11-woo-besluit-2026105.md",
+      "json": "data/2026-09-11-woo-besluit-samenwerking-met-een-dienstverlener/2026-09-11-woo-besluit-2026105.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/fa9723f1-6fd0-460c-9be4-59f7aef60f06/uwv-beleidskader-privacy-v2024-definitief-deel1.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel1",
+    "sha256": "6f1c766af4984a3b9c0b3c57d134fdc8e7e77d0a09dc0f61764ffde33fa93162",
+    "retrieved_at": "2026-10-01T12:15:37+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel1.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f1559caf-8d6d-40b3-99fb-a4c7c5c06f6d/uwv-beleidskader-privacy-v2024-definitief-deel2.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel2",
+    "sha256": "4525d658a0dbe31d36dcafaa25c76a22ccaf43a8d2d07edae1d6bdbf7dd1bca7",
+    "retrieved_at": "2026-10-01T12:15:41+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel2.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/03811a11-689a-4143-986a-7c4e7d0786fe/uwv-beleidskader-privacy-v2024-definitief-deel3.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel3",
+    "sha256": "fa2d8ed75b5708e2acb9a031a5067489ebf21d15b8ff6a0de9f73833a4cb8ad7",
+    "retrieved_at": "2026-10-01T12:15:45+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel3.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/62bd2f36-8cbc-4bc7-99d6-40a3c9bb9a36/uwv-beleidskader-privacy-v2024-definitief-deel4.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel4",
+    "sha256": "e7de89ca482b2ae3aec4ef7a2abb54bfc3d9842ed54c2eab543a079755c7a672",
+    "retrieved_at": "2026-10-01T12:15:49+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel4.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel4.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8eba2b01-c6e0-479e-b1c1-d15a68fd4024/uwv-beleidskader-privacy-v2024-definitief-deel5.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel5",
+    "sha256": "8daad68da9cff5228832cfcc81c4d7380f44dd786aa30c7790b66d328d8c6f58",
+    "retrieved_at": "2026-10-01T12:15:53+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel5.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel5.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/7253b699-c864-42a6-a44b-1cb1ac8c28f9/uwv-beleidskader-privacy-v2024-definitief-deel6.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel6",
+    "sha256": "87dd447dc3483eaf086b860a14e06d49f631bea1c957361ece179749289584f7",
+    "retrieved_at": "2026-10-01T12:15:57+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel6.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel6.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3897a657-4ae0-48b1-91bb-bf4713f3d035/uwv-beleidskader-privacy-v2024-definitief-deel7.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-processen-rondom-gegevensverwerking",
+    "pdf_slug": "2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel7",
+    "sha256": "8cd1699d453e2012e0a30c1e0dadc180bfbcaa6bdf742f065295a9a2df857f6b",
+    "retrieved_at": "2026-10-01T12:16:00+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel7.md",
+      "json": "data/2026-08-04-woo-besluit-processen-rondom-gegevensverwerking/2026-08-04-uwv-beleidskader-privacy-v2024-definitief-deel7.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cab46df4-13e7-4f97-a021-d72226f83326/woo-besluit-2026106.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-woo-besluit-2026106",
+    "sha256": "753a4f854b1b402e9ebcce47c742ec174ccc7c47fa0bebcca06629584787fe6b",
+    "retrieved_at": "2026-10-22T11:01:53+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-woo-besluit-2026106.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-woo-besluit-2026106.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d82a3fb8-fde5-4bc8-9a71-a63e0fa56909/doc-01-handleiding-schadevergoeding-deel1.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-01-handleiding-schadevergoeding-deel1",
+    "sha256": "a639c5c776ca795bb0ccc1a8c3e109a491a1e25f90f0555e8370adeaf487322b",
+    "retrieved_at": "2026-10-22T11:02:03+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-01-handleiding-schadevergoeding-deel1.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-01-handleiding-schadevergoeding-deel1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/ab4644f6-3ba8-4bd5-bd2c-222b26b31df1/doc-01-handleiding-schadevergoeding-deel2.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-01-handleiding-schadevergoeding-deel2",
+    "sha256": "f82643c6408ad88636e1498ae8b7455de61c003e2d5069af711cf61e07895603",
+    "retrieved_at": "2026-10-22T11:02:12+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-01-handleiding-schadevergoeding-deel2.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-01-handleiding-schadevergoeding-deel2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5604face-97e1-4ef0-bcfa-79eeb5da12fb/doc-01-handleiding-schadevergoeding-deel3.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-01-handleiding-schadevergoeding-deel3",
+    "sha256": "05ad380546b6aff23aab8400b5806b2c0b657c1d68a8e66e27fbd3425149122b",
+    "retrieved_at": "2026-10-22T11:02:18+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-01-handleiding-schadevergoeding-deel3.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-01-handleiding-schadevergoeding-deel3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/355183f9-4d1c-4c75-a5ab-28a5330868c7/doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel1.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel1",
+    "sha256": "214fb7792480109264641126f850fabd938c950cd4a00752a18da216e62ab5e5",
+    "retrieved_at": "2026-10-22T11:02:26+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel1.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel1.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/aef35c38-359f-469f-a322-09f0b079ac10/doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel2.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel2",
+    "sha256": "1d953e7cfab67d345fdad9051c418af1e958e3c6f9462ddbc5e63bfa3b51799f",
+    "retrieved_at": "2026-10-22T11:02:36+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel2.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel2.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5d1f9f65-d3b3-4366-8ed4-1cb42b00927c/doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel3.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel3",
+    "sha256": "074929dfff2457894fe917460d544cca30461a89af041dad347098e4ecccb7c3",
+    "retrieved_at": "2026-10-22T11:02:44+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel3.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel3.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/448039d2-336b-4826-b0e6-e9e45b9bd750/doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel4.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel4",
+    "sha256": "c785cf632b949cd850f2323f38165f07584fc6620553bf36c76e3f9cdd09d75b",
+    "retrieved_at": "2026-10-22T11:02:48+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel4.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-02-schadevergoeding-handboek-bezwaar-en-beroep-7-april-2011-deel4.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/07bcdd01-c118-4bfc-b4b2-347da942d608/doc-03-stappenplan-beoordeling-schadeclaim-20251106.pdf": {
+    "publication_slug": "2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten",
+    "pdf_slug": "2026-08-16-doc-03-stappenplan-beoordeling-schadeclaim-20251106",
+    "sha256": "9679c54052c91083a05159cb12947c2c45b2b1ad0db7b2a818748654850e70eb",
+    "retrieved_at": "2026-10-22T11:02:52+00:00",
+    "paths": {
+      "md": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-03-stappenplan-beoordeling-schadeclaim-20251106.md",
+      "json": "data/2026-08-16-woo-besluit-beoordeling-schadeclaims-na-onrechtmatige-besluiten/2026-08-16-doc-03-stappenplan-beoordeling-schadeclaim-20251106.json"
     }
   },
   "https://www.uwv.nl/assets-kai/files/6f376631-1bdb-415c-b887-5f8d2e1f95c3/woo-besluit-2026089.pdf": {
@@ -16369,6 +16949,56 @@
       "json": "data/2026-10-08-woo-besluit-over-de-risicoscan-verblijf-buiten-nederland/2026-10-08-bijlage-9-algoritmeregister-risicoscan-verblijf-buiten-nederland.json"
     }
   },
+  "https://www.uwv.nl/assets-kai/files/aac0b399-3918-435b-9cb1-02384bf18939/woo-besluit-2026116.pdf": {
+    "publication_slug": "2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering",
+    "pdf_slug": "2026-10-04-woo-besluit-2026116",
+    "sha256": "180da4ecbe41e7096edd3581093d6400f5561a2004990809db7ee190201e8a9e",
+    "retrieved_at": "2026-11-02T09:08:52+00:00",
+    "paths": {
+      "md": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-woo-besluit-2026116.md",
+      "json": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-woo-besluit-2026116.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e3101b08-5b36-4044-8e3d-3419ae04acb3/bijlage-compendium-participatiewet.pdf": {
+    "publication_slug": "2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering",
+    "pdf_slug": "2026-10-04-bijlage-compendium-participatiewet",
+    "sha256": "adb3bcc13b7e6cda2675a43832de0d5c91b43f80c6dd7f2450fd34aca2c27ab9",
+    "retrieved_at": "2026-11-02T09:09:21+00:00",
+    "paths": {
+      "md": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-bijlage-compendium-participatiewet.md",
+      "json": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-bijlage-compendium-participatiewet.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/121337c5-4b4d-46eb-a685-d2db8efafdc7/woo-besluit-2026117.pdf": {
+    "publication_slug": "2026-10-04-woo-besluit-over-beleid-bij-onrechtmatige-of-ongeoorloofde-raadpleging-suwinet",
+    "pdf_slug": "2026-10-04-woo-besluit-2026117",
+    "sha256": "8af928467f20087ebd26699996e7f5402394bd34207f010d7b7830781470d679",
+    "retrieved_at": "2026-10-23T10:59:22+00:00",
+    "paths": {
+      "md": "data/2026-10-04-woo-besluit-over-beleid-bij-onrechtmatige-of-ongeoorloofde-raadpleging-suwinet/2026-10-04-woo-besluit-2026117.md",
+      "json": "data/2026-10-04-woo-besluit-over-beleid-bij-onrechtmatige-of-ongeoorloofde-raadpleging-suwinet/2026-10-04-woo-besluit-2026117.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/02d6f327-3798-408c-8ed2-11095e707cca/bijlage-sanctieprotocol.pdf": {
+    "publication_slug": "2026-10-04-woo-besluit-over-beleid-bij-onrechtmatige-of-ongeoorloofde-raadpleging-suwinet",
+    "pdf_slug": "2026-10-04-bijlage-sanctieprotocol",
+    "sha256": "8e9d60b2e59c600823e37378a19cd3bb37bcca4e602b1b13d6703bee03dcfeeb",
+    "retrieved_at": "2026-10-23T10:59:23+00:00",
+    "paths": {
+      "md": "data/2026-10-04-woo-besluit-over-beleid-bij-onrechtmatige-of-ongeoorloofde-raadpleging-suwinet/2026-10-04-bijlage-sanctieprotocol.md",
+      "json": "data/2026-10-04-woo-besluit-over-beleid-bij-onrechtmatige-of-ongeoorloofde-raadpleging-suwinet/2026-10-04-bijlage-sanctieprotocol.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b2a26481-0b1c-4e34-a3d8-a3eb90d7991d/woo-besluit-2026109.pdf": {
+    "publication_slug": "2026-10-04-woo-besluit-risicoscan-verwijtbare-werkloosheid-en-vergelijkbare-uwv-risicomodellen",
+    "pdf_slug": "2026-10-04-woo-besluit-2026109",
+    "sha256": "4be00890480c8a86a56746c84026155e5a1c40a1ae4692677042e341258c7f9c",
+    "retrieved_at": "2026-10-23T10:59:25+00:00",
+    "paths": {
+      "md": "data/2026-10-04-woo-besluit-risicoscan-verwijtbare-werkloosheid-en-vergelijkbare-uwv-risicomodellen/2026-10-04-woo-besluit-2026109.md",
+      "json": "data/2026-10-04-woo-besluit-risicoscan-verwijtbare-werkloosheid-en-vergelijkbare-uwv-risicomodellen/2026-10-04-woo-besluit-2026109.json"
+    }
+  },
   "https://www.uwv.nl/assets-kai/files/9bed8763-4da9-4b96-a9b5-2c02ceeacd7d/woo-besluit-2026108.pdf": {
     "publication_slug": "2026-10-04-woo-besluit-interne-behandeling-en-doorgeleiding-van-fysieke-post-binnen-uwv",
     "pdf_slug": "2026-10-04-woo-besluit-2026108",
@@ -16469,24 +17099,334 @@
       "json": "data/2026-10-04-woo-besluit-interne-behandeling-en-doorgeleiding-van-fysieke-post-binnen-uwv/2026-10-04-bijlage-9-werkinstructie-postkamer-interne-post.json"
     }
   },
-  "https://www.uwv.nl/assets-kai/files/aac0b399-3918-435b-9cb1-02384bf18939/woo-besluit-2026116.pdf": {
-    "publication_slug": "2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering",
-    "pdf_slug": "2026-10-04-woo-besluit-2026116",
-    "sha256": "180da4ecbe41e7096edd3581093d6400f5561a2004990809db7ee190201e8a9e",
-    "retrieved_at": "2026-11-02T09:08:52+00:00",
+  "https://www.uwv.nl/assets-kai/files/df23a793-190f-498f-8e43-b2d4d8629b37/aanvang-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-aanvang-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "cd5bf2803b134d74c23ac8c327b3861301536ecf74b5e89a727e81ed4c89c74e",
+    "retrieved_at": "2026-10-28T11:58:24+00:00",
     "paths": {
-      "md": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-woo-besluit-2026116.md",
-      "json": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-woo-besluit-2026116.json"
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-aanvang-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-aanvang-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.json"
     }
   },
-  "https://www.uwv.nl/assets-kai/files/e3101b08-5b36-4044-8e3d-3419ae04acb3/bijlage-compendium-participatiewet.pdf": {
-    "publication_slug": "2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering",
-    "pdf_slug": "2026-10-04-bijlage-compendium-participatiewet",
-    "sha256": "adb3bcc13b7e6cda2675a43832de0d5c91b43f80c6dd7f2450fd34aca2c27ab9",
-    "retrieved_at": "2026-11-02T09:09:21+00:00",
+  "https://www.uwv.nl/assets-kai/files/8d9b6c16-e362-4f13-a1eb-2d7c236ccc2e/inleiding-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-inleiding-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "73ad4b4f10845f3e2fe11854b64afe687df20540c5132be7966fa709dbf829bd",
+    "retrieved_at": "2026-10-28T11:58:25+00:00",
     "paths": {
-      "md": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-bijlage-compendium-participatiewet.md",
-      "json": "data/2026-10-04-woo-besluit-werkwijzer-laattijdige-aanvragen-wajong-uitkering/2026-10-04-bijlage-compendium-participatiewet.json"
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-inleiding-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-inleiding-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/aee44582-a540-4175-8b04-db7947244d5d/categorieen-vrijwillige-verzekering-binnenland-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-categorieen-vrijwillige-verzekering-binnenland-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "349ce58a18836276919d93944d25786fe50a23cd0145b56ac08117e606561edd",
+    "retrieved_at": "2026-10-28T11:58:29+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-categorieen-vrijwillige-verzekering-binnenland-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-categorieen-vrijwillige-verzekering-binnenland-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/57dfb89f-c82c-432f-8358-cd037df38b57/categorieen-vrijwillige-verzekering-bij-werken-in-het-buitenland-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-categorieen-vrijwillige-verzekering-bij-werken-in-het-buitenland-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "05fda28d92953b212225608d5e598710785a1abd85c1772660f80501168ea0c0",
+    "retrieved_at": "2026-10-28T11:58:31+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-categorieen-vrijwillige-verzekering-bij-werken-in-het-buitenland-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-categorieen-vrijwillige-verzekering-bij-werken-in-het-buitenland-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cd0b403e-f2b0-4808-ac9d-ca50c4ff6aa2/premie-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-premie-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "563b7ffcd2664144958db1a0b9b85d86136a523fddd2715807111c0c2220b847",
+    "retrieved_at": "2026-10-28T11:58:34+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-premie-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-premie-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e0e06f00-bba2-4f8a-a16b-3042d8b24467/de-dga-en-de-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-de-dga-en-de-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "de03ea0d6baf3637c7f9294a6257988dfa96637cc846094c622fbc36aed494a2",
+    "retrieved_at": "2026-10-28T11:58:37+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-de-dga-en-de-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-de-dga-en-de-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/307553fd-9bcf-49ee-b819-1092267c6666/beeindiging-verzekering-door-uwv-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-beeindiging-verzekering-door-uwv-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "dac4b5e31d85ee4ddcd066432b280aff119591c8173d6b3e4262af4de725c21f",
+    "retrieved_at": "2026-10-28T11:58:39+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-beeindiging-verzekering-door-uwv-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-beeindiging-verzekering-door-uwv-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/194828fe-9397-4a7e-96fc-8175e5f9003d/voordelig-inschrijven-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-voordelig-inschrijven-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "d451180c098989acdbe75bdedffa22bf3bc3026994ecd1ae7645adf7f07ec970",
+    "retrieved_at": "2026-10-28T11:58:42+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-voordelig-inschrijven-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-voordelig-inschrijven-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/3bf12a83-575c-4303-b360-e05889b02d44/dagloonvaststelling-en-wijziging-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-dagloonvaststelling-en-wijziging-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "a610172ed0c145be3557169420bfc5b2c102f96d103f0365ab0a8d4f16179e47",
+    "retrieved_at": "2026-10-28T11:58:44+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-dagloonvaststelling-en-wijziging-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-dagloonvaststelling-en-wijziging-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/bf8a972e-2e11-4c5a-8d71-1b6f6d9b8492/tussentijdse-herziening-dagloon-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-tussentijdse-herziening-dagloon-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "8c0fe503dde1ac7b249a7dd7c3ef72ed33151c2e5f3bee4e03146ec58ca0849a",
+    "retrieved_at": "2026-10-28T11:58:46+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-tussentijdse-herziening-dagloon-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-tussentijdse-herziening-dagloon-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/e5790faf-64d4-49bf-bcfb-0a1bd95dfd2d/de-vrijwillige-verzekering-in-de-wia-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-de-vrijwillige-verzekering-in-de-wia-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "33b63105c579657f24a028ef9fbc27ae78f13c13d2b17f37941779dd919bb85a",
+    "retrieved_at": "2026-10-28T11:58:47+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-de-vrijwillige-verzekering-in-de-wia-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-de-vrijwillige-verzekering-in-de-wia-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/20cf80f6-b0db-4f84-b811-210979310f57/hoogte-wga-uitkering-bij-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-hoogte-wga-uitkering-bij-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "2618b0791ce87391e4bb0fc484e606cc380f0f21dff701d88c8ffb628b0b36bd",
+    "retrieved_at": "2026-10-28T11:58:49+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-hoogte-wga-uitkering-bij-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-hoogte-wga-uitkering-bij-vrijwillige-verzekering-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/98a7f5e6-4a3c-4f83-bec9-f2ce5a9227cd/ingang-hoogte-duur-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-ingang-hoogte-duur-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "15a5708da525335112583cf31af343117d5c3bc606b225326d9b64a441feceea",
+    "retrieved_at": "2026-10-28T11:58:54+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-ingang-hoogte-duur-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-ingang-hoogte-duur-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6d1dee9e-2e72-4beb-ae8a-cffaf4b7f41b/verrekenen-van-verdiensten-wia-deel-1-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verrekenen-van-verdiensten-wia-deel-1-geanonimiseerd",
+    "sha256": "2b55ac6f9cf4e12c57a41dd6162602ed58aa83dc3b4fbe8530fab338a3d8f951",
+    "retrieved_at": "2026-10-28T11:58:58+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-1-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-1-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cffa3f6c-8aee-4824-a84a-d8d41f455ac1/verrekenen-van-verdiensten-wia-deel-2-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verrekenen-van-verdiensten-wia-deel-2-geanonimiseerd",
+    "sha256": "4ee96eea8f582be9defd49a70f120ee2f1b695faf8a64f3bed24c270e80b040e",
+    "retrieved_at": "2026-10-28T11:59:02+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-2-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-2-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/9041ff11-8182-461c-9b81-45470e5a3426/verrekenen-van-verdiensten-wia-deel-3-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verrekenen-van-verdiensten-wia-deel-3-geanonimiseerd",
+    "sha256": "9ab74cf6e16c41d4f47d23b5425f4be47c5ad465f0090e84c5f797fe937ed68d",
+    "retrieved_at": "2026-10-28T11:59:06+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-3-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-3-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0a339ec2-819d-4b3f-afc5-6addb3fc72ad/verrekenen-van-verdiensten-wia-deel-4-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verrekenen-van-verdiensten-wia-deel-4-geanonimiseerd",
+    "sha256": "cd64277080e39cf41cc959a8ceab23256219781ad33d3adb1dfd3af57bd6394e",
+    "retrieved_at": "2026-10-28T11:59:14+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-4-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-4-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/1c21488a-c90f-4a96-9f97-2f89279c776d/verrekenen-van-verdiensten-wia-deel-5-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verrekenen-van-verdiensten-wia-deel-5-geanonimiseerd",
+    "sha256": "0ba9b91cbb8974e6bffced2b50a81564d1a691b6ce216b8ae8e79d01a2657134",
+    "retrieved_at": "2026-10-28T11:59:17+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-5-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verrekenen-van-verdiensten-wia-deel-5-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/00ef4e39-acec-489e-8d58-cb10eb84941b/inkomstenderving-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-inkomstenderving-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "2f00c7146e578ae8943f6a1aeccaf29b69adc50c8d164e908039ee139fccac90",
+    "retrieved_at": "2026-10-28T11:59:19+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-inkomstenderving-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-inkomstenderving-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/8b3c463d-15ff-4da9-a3bd-329772755a24/Verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-1-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-1-g",
+    "sha256": "b280a1f7da08abe7e6b3be385e4ebb59ec7a1d5e08cc33d5819dbc3706127cc2",
+    "retrieved_at": "2026-10-28T11:59:23+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-1-g.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-1-g.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/172bb553-3fe2-42f1-beab-eddb5df48f9d/Verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-2-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-2-g",
+    "sha256": "ecb21144f9f53bc55256da8565e744be76a8a41811898909dfea0c996568135c",
+    "retrieved_at": "2026-10-28T11:59:28+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-2-g.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-inkomsten-uit-zelfstandige-arbeid-inkomsten-resultaat-uit-overige-werkzaamheden-tijdens-wia-uitkering-deel-2-g.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/d0a85b6c-09d3-4548-8c6b-750605dd3cf1/verwerken-samenloop-aw-en-zw-ww-bij-maximering-daglonen-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verwerken-samenloop-aw-en-zw-ww-bij-maximering-daglonen-geanonimiseerd",
+    "sha256": "e476c8637a72e3ba67752747021d3de0e6e08490232abd1a48c08dac498eac87",
+    "retrieved_at": "2026-10-28T11:59:32+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-samenloop-aw-en-zw-ww-bij-maximering-daglonen-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-samenloop-aw-en-zw-ww-bij-maximering-daglonen-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/7750890a-2d49-484a-9996-5a52acf2f4aa/verwerken-samenloop-zw-en-of-wazo-aan-werknemer-met-wia-uitkering-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-verwerken-samenloop-zw-en-of-wazo-aan-werknemer-met-wia-uitkering-geanonimiseerd",
+    "sha256": "8339e8c726bf3bf280ad1c1ca1c7b45b27ed22bec9d2fd16e984170a6b6d9b28",
+    "retrieved_at": "2026-10-28T11:59:35+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-samenloop-zw-en-of-wazo-aan-werknemer-met-wia-uitkering-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-verwerken-samenloop-zw-en-of-wazo-aan-werknemer-met-wia-uitkering-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/5a65fb94-6318-450e-9ee2-2e3b671cbf2e/beoordeling-jaarstukken-handboek-omgeving-uwv-002-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-beoordeling-jaarstukken-handboek-omgeving-uwv-002-geanonimiseerd",
+    "sha256": "00a8f2cd0cde8cb9aa3e41540f0e381ec80cbe323f4d0b2c46a1d6857e7acc2b",
+    "retrieved_at": "2026-10-28T11:59:37+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-beoordeling-jaarstukken-handboek-omgeving-uwv-002-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-beoordeling-jaarstukken-handboek-omgeving-uwv-002-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f7a7ddf5-c2ce-44bd-b385-9181045de1a1/bijlage-1-betaald-ouderschapsverlof-bov-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-bijlage-1-betaald-ouderschapsverlof-bov-geanonimiseerd",
+    "sha256": "afc5da2f9df39b1892e32f254087e3c18d5381571a5846bfc4e3276436496b46",
+    "retrieved_at": "2026-10-28T11:59:42+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-bijlage-1-betaald-ouderschapsverlof-bov-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-bijlage-1-betaald-ouderschapsverlof-bov-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/a2afa871-b3b3-443b-822f-491957ef9c9d/flexibel-opnemen-bevallingsverlof-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-flexibel-opnemen-bevallingsverlof-geanonimiseerd",
+    "sha256": "639803c38d21675c5abee32884bfb85285d045024fa3b90dd6b85ce58ae76a54",
+    "retrieved_at": "2026-10-28T11:59:44+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-flexibel-opnemen-bevallingsverlof-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-flexibel-opnemen-bevallingsverlof-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/85b9cf12-6e91-49ba-8fe2-476f4541d749/voorbeelden-samentelling-ao-perioden-voor-zw-en-wia-bij-onderbreking-door-wazo-29-lid-5-zw-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-voorbeelden-samentelling-ao-perioden-voor-zw-en-wia-bij-onderbreking-door-wazo-29-lid-5-zw-handboek-omgeving-uwv-geanoni",
+    "sha256": "1c369f4fb8029f4d5ecfb02eee1f78694376e2f5972bf2046f3e1c5110daa7f5",
+    "retrieved_at": "2026-10-28T11:59:48+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-voorbeelden-samentelling-ao-perioden-voor-zw-en-wia-bij-onderbreking-door-wazo-29-lid-5-zw-handboek-omgeving-uwv-geanoni.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-voorbeelden-samentelling-ao-perioden-voor-zw-en-wia-bij-onderbreking-door-wazo-29-lid-5-zw-handboek-omgeving-uwv-geanoni.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0b0e37b8-fe0f-4f29-ae39-c59a6e36b591/voorwaarden-toelating-handboek-omgeving-uwv-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-voorwaarden-toelating-handboek-omgeving-uwv-geanonimiseerd",
+    "sha256": "8698e573721e62b0451ebb735bc7dad45b5eed9e31dc9f5b6747d7361daa2302",
+    "retrieved_at": "2026-10-28T11:59:50+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-voorwaarden-toelating-handboek-omgeving-uwv-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-voorwaarden-toelating-handboek-omgeving-uwv-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/6c56eecc-29a9-4c9b-ad18-3ec460abf6e2/zwangerschapsverlof-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-zwangerschapsverlof-geanonimiseerd",
+    "sha256": "2566b0eb59ab15eb320dca6849da96aa3f43b5071065862ed02376b5fbaf54ab",
+    "retrieved_at": "2026-10-28T11:59:52+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-zwangerschapsverlof-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-zwangerschapsverlof-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/33d27f17-c151-4c68-b199-45ddfab768bb/leeftijdsherziening-jeugdige-geanonimiseerd.pdf": {
+    "publication_slug": "2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-05-leeftijdsherziening-jeugdige-geanonimiseerd",
+    "sha256": "2edfa6427b23f61e2219a547296556397469a4a5cbfdc1c36905af08ed64ec34",
+    "retrieved_at": "2026-10-28T11:59:54+00:00",
+    "paths": {
+      "md": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-leeftijdsherziening-jeugdige-geanonimiseerd.md",
+      "json": "data/2026-08-05-aanvullende-stukken-woo-besluit-over-vrijwillige-verzekering-wia/2026-08-05-leeftijdsherziening-jeugdige-geanonimiseerd.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/0548b95c-ee96-4cb6-92ff-47ff7f73838e/woo-besluit-2026075.pdf": {
+    "publication_slug": "2026-08-04-woo-besluit-vrijwillige-verzekering-wia",
+    "pdf_slug": "2026-08-04-woo-besluit-2026075",
+    "sha256": "50c291842f5db5d23d54cd87bffaf708e8e1db4df876a6f45ce3686a43548430",
+    "retrieved_at": "2026-10-28T11:59:56+00:00",
+    "paths": {
+      "md": "data/2026-08-04-woo-besluit-vrijwillige-verzekering-wia/2026-08-04-woo-besluit-2026075.md",
+      "json": "data/2026-08-04-woo-besluit-vrijwillige-verzekering-wia/2026-08-04-woo-besluit-2026075.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/2b42f371-4788-4302-b8e1-b8c73ba790e7/woo-besluit-2026118.pdf": {
+    "publication_slug": "2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes",
+    "pdf_slug": "2026-10-09-woo-besluit-2026118",
+    "sha256": "cb769dc5ac082a0f78639ff2cfe3033f04fda542178c609768f4a43f056448c0",
+    "retrieved_at": "2026-11-02T09:08:30+00:00",
+    "paths": {
+      "md": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.md",
+      "json": "data/2026-10-09-woo-besluit-over-cao-codes-in-loonaangifte-en-sbi-codes/2026-10-09-woo-besluit-2026118.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/77243f5b-3f61-42ab-9855-d47f0dd363ce/woo-besluit-2026056-bezwaar.pdf": {
+    "publication_slug": "2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier",
+    "pdf_slug": "2026-10-09-woo-besluit-2026056-bezwaar",
+    "sha256": "14325e8918559ac8165a14df065d28c1c02754657c67d288508d4b0c98c23ccd",
+    "retrieved_at": "2026-11-02T09:08:28+00:00",
+    "paths": {
+      "md": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.md",
+      "json": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.json"
     }
   }
 }
