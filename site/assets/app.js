@@ -636,9 +636,10 @@ async function initSearch() {
       .map((result) => {
         const snippet = snippetAroundMatch(result.text_preview || result.text || "", terms);
         const ocrBadge = result.ocr_used ? '<span class="ocr-badge">OCR</span>' : "";
+        const href = `${BASE}${result.url}?q=${encodeURIComponent(query)}`;
         return `
           <article class="result-card">
-            <h2><a href="${BASE}${result.url}">${highlight(result.publication_title, terms)}</a> ${ocrBadge}</h2>
+            <h2><a href="${href}">${highlight(result.publication_title, terms)}</a> ${ocrBadge}</h2>
             <div class="result-meta">${formatDate(result.publication_date)} · ${highlight(result.pdf_label, terms)}</div>
             <div class="result-snippet">${highlight(snippet, terms)}</div>
           </article>

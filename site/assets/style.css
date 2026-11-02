@@ -526,10 +526,30 @@ mark {
   text-decoration: underline;
 }
 
-.doc-content {
-  padding: 1.25rem 1.5rem;
+.doc-content,
+.doc-text {
+  padding: 1.25rem 1.5rem 2rem;
   overflow: auto;
   flex: 1;
+  line-height: 1.65;
+}
+
+.doc-text p,
+.doc-text h2 {
+  margin: 0.7rem 0;
+}
+
+.doc-page-label {
+  margin: 1.4rem 0 0.4rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.doc-text-empty {
+  color: var(--muted);
 }
 
 .doc-content h2 {

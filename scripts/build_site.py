@@ -1140,12 +1140,31 @@ def render_frontmatter(payload: dict) -> str:
     return f'<section class="frontmatter-card"><h2>Metadata</h2><dl class="frontmatter-grid">{"".join(rows)}</dl></section>'
 
 
+def render_extracted_text(blocks: list) -> str:
+    parts: list[str] = []
+    current_page = None
+    for block in blocks or []:
+        text = str(block.get("text") or "").strip()
+        if not text:
+            continue
+        page = block.get("page")
+        if page and page != current_page:
+            current_page = page
+            parts.append(f'<p class="doc-page-label">Pagina {html.escape(str(page))}</p>')
+        tag = "h2" if block.get("type") == "heading" else "p"
+        parts.append(f"<{tag}>{html.escape(text)}</{tag}>")
+    if not parts:
+        return '<p class="doc-text-empty">Geen tekst beschikbaar voor dit document.</p>'
+    return "\n".join(parts)
+
+
 def render_doc_page(payload: dict, base_path: str) -> str:
     title = html.escape(payload.get("publication_title", "Document"))
     pdf_label = html.escape(payload.get("pdf_label", ""))
     pdf_url = html.escape(payload.get("pdf_url", ""))
     frontmatter_html = render_frontmatter(payload)
     header_html = render_site_header(title, pdf_label, base_path, active="")
+    text_html = render_extracted_text(payload.get("blocks") or [])
 
     return f"""<!DOCTYPE html>
 <html lang="nl">
@@ -1161,25 +1180,75 @@ def render_doc_page(payload: dict, base_path: str) -> str:
     <main class="doc-main">
       <a class="back-link" href="{html.escape(base_path)}">← Terug naar zoeken</a>
       {frontmatter_html}
-      <section class="doc-panel doc-panel-pdf">
+      <section class="doc-panel">
         <div class="panel-heading">
-          <h2>Originele PDF</h2>
-          <a class="pdf-open-link" href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open in nieuw tabblad</a>
+          <h2>Tekst</h2>
+          <a class="pdf-open-link" href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open de PDF</a>
         </div>
-        <div class="pdf-frame-wrap">
-          <iframe
-            class="pdf-frame"
-            src="{pdf_url}"
-            title="Originele PDF"
-            loading="lazy"
-          ></iframe>
-          <p class="pdf-fallback">
-            PDF niet zichtbaar? <a href="{pdf_url}" target="_blank" rel="noopener noreferrer">Open de PDF op uwv.nl</a>.
-          </p>
+        <div class="doc-text" id="doc-text">
+          {text_html}
         </div>
       </section>
     </main>
     {render_site_footer(base_path)}
+    <script>
+      (function () {{
+        const params = new URLSearchParams(window.location.search);
+        const query = (params.get("q") || "").trim();
+        const base = document.querySelector('meta[name="base-path"]')?.content || "/";
+        const back = document.querySelector(".back-link");
+        if (back && query) {{
+          back.href = base + "?q=" + encodeURIComponent(query);
+        }}
+        if (!query) {{
+          return;
+        }}
+        const terms = query.split(/\\s+/).filter(Boolean);
+        if (!terms.length) {{
+          return;
+        }}
+        const pattern = new RegExp(
+          "(" + terms.map((term) => term.replace(/[.*+?^${{}}()|[\\]\\\\]/g, "\\\\$&")).join("|") + ")",
+          "gi",
+        );
+        const root = document.querySelector("#doc-text");
+        if (!root) {{
+          return;
+        }}
+        const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+        const nodes = [];
+        while (walker.nextNode()) {{
+          nodes.push(walker.currentNode);
+        }}
+        let first = null;
+        for (const node of nodes) {{
+          const text = node.textContent || "";
+          pattern.lastIndex = 0;
+          if (!pattern.test(text)) {{
+            continue;
+          }}
+          pattern.lastIndex = 0;
+          const fragment = document.createDocumentFragment();
+          let last = 0;
+          for (const match of text.matchAll(pattern)) {{
+            const index = match.index || 0;
+            fragment.append(text.slice(last, index));
+            const mark = document.createElement("mark");
+            mark.textContent = match[0];
+            fragment.append(mark);
+            if (!first) {{
+              first = mark;
+            }}
+            last = index + match[0].length;
+          }}
+          fragment.append(text.slice(last));
+          node.parentNode.replaceChild(fragment, node);
+        }}
+        if (first) {{
+          first.scrollIntoView({{ block: "center" }});
+        }}
+      }})();
+    </script>
   </body>
 </html>
 """

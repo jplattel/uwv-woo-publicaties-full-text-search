@@ -109,7 +109,7 @@ class PublicationOrderTests(unittest.TestCase):
 
 
 class DocumentPageTests(unittest.TestCase):
-    def test_pdf_view_hides_hash_and_extracted_text(self) -> None:
+    def test_document_page_shows_text_and_can_highlight_a_query(self) -> None:
         html = render_doc_page(
             {
                 "publication_title": "Voorbeeld",
@@ -122,17 +122,23 @@ class DocumentPageTests(unittest.TestCase):
                 "source_page_url": "https://www.uwv.nl/voorbeeld",
                 "pdf_url": "https://www.uwv.nl/voorbeeld.pdf",
                 "sha256": "abc123def456abc123def456abc123def456abc123def456abc123def456abcd",
-                "blocks": [{"text": "Deze OCR-tekst hoort niet op de pagina."}],
+                "blocks": [
+                    {"type": "heading", "page": 1, "text": "Besluit"},
+                    {"type": "paragraph", "page": 1, "text": "Deze tekst hoort op de pagina."},
+                ],
             },
             "/",
         )
 
         self.assertIn("https://www.uwv.nl/voorbeeld.pdf", html)
-        self.assertIn('class="pdf-frame"', html)
+        self.assertNotIn('class="pdf-frame"', html)
+        self.assertNotIn("<iframe", html)
         self.assertNotIn("SHA256", html)
         self.assertNotIn("abc123def456", html)
-        self.assertNotIn("Deze OCR-tekst hoort niet op de pagina.", html)
-        self.assertNotIn("Geëxtraheerde tekst", html)
+        self.assertIn("Deze tekst hoort op de pagina.", html)
+        self.assertIn("<h2>Besluit</h2>", html)
+        self.assertIn('id="doc-text"', html)
+        self.assertIn('params.get("q")', html)
         self.assertIn('name="viewport"', html)
 
 
