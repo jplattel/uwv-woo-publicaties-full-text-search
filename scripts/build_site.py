@@ -1173,21 +1173,97 @@ def render_frontmatter(payload: dict) -> str:
     return f'<section class="frontmatter-card"><h2>Metadata</h2><dl class="frontmatter-grid">{"".join(rows)}</dl></section>'
 
 
+def _block_box(block: dict) -> tuple[float, float, float, float] | None:
+    bbox = block.get("bbox")
+    if not isinstance(bbox, (list, tuple)) or len(bbox) < 4:
+        return None
+    try:
+        x0, y0, x1, y1 = (float(bbox[0]), float(bbox[1]), float(bbox[2]), float(bbox[3]))
+    except (TypeError, ValueError):
+        return None
+    if x1 <= x0 or y1 <= y0:
+        return None
+    return x0, y0, x1, y1
+
+
+def _render_flow_block(block: dict) -> str:
+    text = html.escape(str(block.get("text") or "").strip())
+    tag = "h2" if block.get("type") == "heading" else "p"
+    return f"<{tag}>{text}</{tag}>"
+
+
+def _render_layout_page(blocks: list[dict]) -> str | None:
+    """Place each line in its stored box so columns and spacing stay put."""
+    placed: list[tuple[dict, tuple[float, float, float, float]]] = []
+    for block in blocks:
+        box = _block_box(block)
+        if box is None:
+            return None
+        placed.append((block, box))
+    if not placed:
+        return None
+
+    min_x = min(box[0] for _, box in placed)
+    min_y = min(box[1] for _, box in placed)
+    max_x = max(box[2] for _, box in placed)
+    max_y = max(box[3] for _, box in placed)
+    pad_x = max((max_x - min_x) * 0.03, 1.0)
+    pad_y = max((max_y - min_y) * 0.02, 1.0)
+    origin_x = min_x - pad_x
+    origin_y = min_y - pad_y
+    page_w = max(max_x - origin_x + pad_x, 1.0)
+    page_h = max(max_y - origin_y + pad_y, 1.0)
+
+    lines: list[str] = []
+    for block, (x0, y0, x1, y1) in placed:
+        text = str(block.get("text") or "").strip()
+        left = (x0 - origin_x) / page_w * 100
+        top = (y0 - origin_y) / page_h * 100
+        box_w = (x1 - x0) / page_w * 100
+        box_h = (y1 - y0) / page_h * 100
+        # Fit the line to the box: height in page-percent, width divided by characters.
+        char_count = max(len(text), 1)
+        fit_height = max(box_h * 0.92, 0.4)
+        fit_width = max(box_w / (char_count * 0.52), 0.4)
+        heading = " doc-line-heading" if block.get("type") == "heading" else ""
+        lines.append(
+            f'<span class="doc-line{heading}" style="left:{left:.2f}%;top:{top:.2f}%;'
+            f'font-size:min({fit_height:.2f}cqh,{fit_width:.2f}cqw)">{html.escape(text)}</span>'
+        )
+
+    return (
+        f'<div class="doc-sheet" style="aspect-ratio:{page_w:.2f} / {page_h:.2f}">'
+        + "".join(lines)
+        + "</div>"
+    )
+
+
 def render_extracted_text(blocks: list) -> str:
-    parts: list[str] = []
-    current_page = None
+    pages: dict[object, list[dict]] = {}
+    order: list[object] = []
     for block in blocks or []:
         text = str(block.get("text") or "").strip()
         if not text:
             continue
         page = block.get("page")
-        if page and page != current_page:
-            current_page = page
-            parts.append(f'<p class="doc-page-label">Pagina {html.escape(str(page))}</p>')
-        tag = "h2" if block.get("type") == "heading" else "p"
-        parts.append(f"<{tag}>{html.escape(text)}</{tag}>")
-    if not parts:
+        if page not in pages:
+            pages[page] = []
+            order.append(page)
+        pages[page].append(block)
+
+    if not order:
         return '<p class="doc-text-empty">Geen tekst beschikbaar voor dit document.</p>'
+
+    parts: list[str] = []
+    for page in order:
+        page_blocks = pages[page]
+        if page:
+            parts.append(f'<p class="doc-page-label">Pagina {html.escape(str(page))}</p>')
+        layout = _render_layout_page(page_blocks)
+        if layout is not None:
+            parts.append(layout)
+            continue
+        parts.extend(_render_flow_block(block) for block in page_blocks)
     return "\n".join(parts)
 
 

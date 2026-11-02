@@ -8,6 +8,7 @@ from scripts.build_site import (
     is_besluit_document,
     order_publication_documents,
     render_doc_page,
+    render_extracted_text,
     render_internal_dashboard,
     render_publications_page,
     render_statistics_page,
@@ -153,8 +154,35 @@ class DocumentPageTests(unittest.TestCase):
         self.assertIn("Deze tekst hoort op de pagina.", html)
         self.assertIn("<h2>Besluit</h2>", html)
         self.assertIn('id="doc-text"', html)
+        self.assertNotIn('class="doc-sheet"', html)
         self.assertIn('params.get("q")', html)
         self.assertIn('name="viewport"', html)
+
+    def test_ocr_lines_stay_inside_their_boxes(self) -> None:
+        html = render_extracted_text(
+            [
+                {
+                    "type": "paragraph",
+                    "page": 1,
+                    "bbox": [40, 40, 280, 52],
+                    "text": "Linkerkolom",
+                    "source": "ocr",
+                },
+                {
+                    "type": "paragraph",
+                    "page": 1,
+                    "bbox": [320, 42, 540, 54],
+                    "text": "Rechterkolom",
+                    "source": "ocr",
+                },
+            ]
+        )
+        self.assertIn('class="doc-sheet"', html)
+        self.assertIn("Linkerkolom", html)
+        self.assertIn("Rechterkolom", html)
+        self.assertIn("left:", html)
+        self.assertIn("top:", html)
+        self.assertNotIn("<p>Linkerkolom</p>", html)
 
 
 class PublicationsPageTests(unittest.TestCase):

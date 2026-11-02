@@ -539,6 +539,29 @@ mark {
   margin: 0.7rem 0;
 }
 
+.doc-sheet {
+  position: relative;
+  width: min(100%, 52rem);
+  margin: 0.4rem auto 1.6rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  container-type: size;
+  overflow: hidden;
+}
+
+.doc-line {
+  position: absolute;
+  margin: 0;
+  line-height: 1;
+  white-space: nowrap;
+  font-weight: 400;
+}
+
+.doc-line-heading {
+  font-weight: 650;
+}
+
 .doc-page-label {
   margin: 1.4rem 0 0.4rem;
   color: var(--muted);

@@ -5,3 +5,5 @@
 2026-11-02 09:28 [main] #019 Model: Extracted text instead of a PDF iframe. The origin
 2026-11-02 09:34 [main] #020 User: Can we also cache the search index when initialy loading? Bust it with a new...
 2026-11-02 09:35 [main] #021 Model: Id is the first 16 characters of a hash over the s
+2026-11-02 09:42 [main] #022 User: Text within their invisible boundary boxes so the
+2026-11-02 09:45 [main] #023 Model: Nd broke words such as
