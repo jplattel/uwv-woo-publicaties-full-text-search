@@ -17428,5 +17428,45 @@
       "md": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.md",
       "json": "data/2026-10-09-woo-besluit-op-bezwaar-over-inzage-in-een-persoonlijk-dossier/2026-10-09-woo-besluit-2026056-bezwaar.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/f9ce08e9-4c2e-4afb-8048-3f2f070b715e/woo-besluit-2026119.pdf": {
+    "publication_slug": "2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen",
+    "pdf_slug": "2026-11-15-woo-besluit-2026119",
+    "sha256": "0bc9b696cb18ec2e94bf8c870a87d8b92652042c6623f373a4349deaeba76e29",
+    "retrieved_at": "2026-11-20T14:45:26+00:00",
+    "paths": {
+      "md": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-woo-besluit-2026119.md",
+      "json": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-woo-besluit-2026119.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/46fac9e1-60aa-447d-9d6d-961b8524c70b/overzicht-twv-en-gvva.pdf": {
+    "publication_slug": "2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen",
+    "pdf_slug": "2026-11-15-overzicht-twv-en-gvva",
+    "sha256": "d3ec505ee908c959ed952b0490299acda9c9056a5a02f4c7c346d9e4b5b364df",
+    "retrieved_at": "2026-11-20T14:45:32+00:00",
+    "paths": {
+      "md": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-overzicht-twv-en-gvva.md",
+      "json": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-overzicht-twv-en-gvva.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/675af7f6-81b4-487d-9fb5-49c5e8b9b31f/prioriteitgenietend-aanbod.pdf": {
+    "publication_slug": "2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen",
+    "pdf_slug": "2026-11-15-prioriteitgenietend-aanbod",
+    "sha256": "dce9c611f9654549d712d87529c3735ed822b4aab326ab4a777d1aee5d8ea853",
+    "retrieved_at": "2026-11-20T14:45:51+00:00",
+    "paths": {
+      "md": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-prioriteitgenietend-aanbod.md",
+      "json": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-prioriteitgenietend-aanbod.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/cc9ec90c-f202-432e-a257-3e8996d15d23/vereiste-kwalificaties.pdf": {
+    "publication_slug": "2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen",
+    "pdf_slug": "2026-11-15-vereiste-kwalificaties",
+    "sha256": "731da31c0463ce779f7a45771de05516b7c1004a9f0aaf55b232e242d7cd03c6",
+    "retrieved_at": "2026-11-20T14:45:59+00:00",
+    "paths": {
+      "md": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-vereiste-kwalificaties.md",
+      "json": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-vereiste-kwalificaties.json"
+    }
   }
 }
