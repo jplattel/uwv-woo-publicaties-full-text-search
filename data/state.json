@@ -17468,5 +17468,75 @@
       "md": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-vereiste-kwalificaties.md",
       "json": "data/2026-11-15-woo-besluit-criteria-twv-aanvragen-gvva-adviesaanvragen/2026-11-15-vereiste-kwalificaties.json"
     }
+  },
+  "https://www.uwv.nl/assets-kai/files/c60434a4-e2f9-4053-af6a-c3aae8ffb986/vragen-woo-tolk-09-2026.pdf": {
+    "publication_slug": "2026-11-18-woo-besluit-tolken-nederlandse-gebarentaal-ngt",
+    "pdf_slug": "2026-11-18-vragen-woo-tolk-09-2026",
+    "sha256": "c1baffa9acaff9d013ebf5c2ad3a077e66e26920b3708a0ca85bd898053afbf4",
+    "retrieved_at": "2026-11-23T17:06:48+00:00",
+    "paths": {
+      "md": "data/2026-11-18-woo-besluit-tolken-nederlandse-gebarentaal-ngt/2026-11-18-vragen-woo-tolk-09-2026.md",
+      "json": "data/2026-11-18-woo-besluit-tolken-nederlandse-gebarentaal-ngt/2026-11-18-vragen-woo-tolk-09-2026.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/71a673e6-edd9-4807-add4-f279d1c8657e/woo-besluit-2026126.pdf": {
+    "publication_slug": "2026-11-18-woo-besluit-tolken-nederlandse-gebarentaal-ngt",
+    "pdf_slug": "2026-11-18-woo-besluit-2026126",
+    "sha256": "5330df1bbc424bc2a29cb2d4bcdba0ed5ec4e950f977fe978ac6f1b641329ef3",
+    "retrieved_at": "2026-11-23T17:06:49+00:00",
+    "paths": {
+      "md": "data/2026-11-18-woo-besluit-tolken-nederlandse-gebarentaal-ngt/2026-11-18-woo-besluit-2026126.md",
+      "json": "data/2026-11-18-woo-besluit-tolken-nederlandse-gebarentaal-ngt/2026-11-18-woo-besluit-2026126.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b191f0bf-e4ac-4638-9e4a-29f0aa42bddb/woo-besluit-2026141.pdf": {
+    "publication_slug": "2026-11-18-woo-besluit-niet-toegekende-proceskostenvergoeding-in-persoonlijk-dossier",
+    "pdf_slug": "2026-11-18-woo-besluit-2026141",
+    "sha256": "aa0e84b0700f28fab24061d03df17692047213c347b650242b3343df1335f54e",
+    "retrieved_at": "2026-11-23T17:06:51+00:00",
+    "paths": {
+      "md": "data/2026-11-18-woo-besluit-niet-toegekende-proceskostenvergoeding-in-persoonlijk-dossier/2026-11-18-woo-besluit-2026141.md",
+      "json": "data/2026-11-18-woo-besluit-niet-toegekende-proceskostenvergoeding-in-persoonlijk-dossier/2026-11-18-woo-besluit-2026141.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/dcaba33d-e505-41b1-a4f6-18c934e018d2/woo-besluit-2026112.pdf": {
+    "publication_slug": "2026-11-16-woo-besluit-opvragen-kopie-pasfoto",
+    "pdf_slug": "2026-11-16-woo-besluit-2026112",
+    "sha256": "14f3202f82af027e63b9985d0f431221241b61a416a41cb50523b2e674311803",
+    "retrieved_at": "2026-11-23T17:06:53+00:00",
+    "paths": {
+      "md": "data/2026-11-16-woo-besluit-opvragen-kopie-pasfoto/2026-11-16-woo-besluit-2026112.md",
+      "json": "data/2026-11-16-woo-besluit-opvragen-kopie-pasfoto/2026-11-16-woo-besluit-2026112.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/f57541ea-d8b3-4eca-a41a-f5aa6c5d3512/md-007-client-herkennen-bij-waarnemen-of-controle.pdf": {
+    "publication_slug": "2026-11-16-woo-besluit-opvragen-kopie-pasfoto",
+    "pdf_slug": "2026-11-16-md-007-client-herkennen-bij-waarnemen-of-controle",
+    "sha256": "faf0b22dc0c691541a1d21463c0813531ed4bc441ada1cb8b336890afc1be765",
+    "retrieved_at": "2026-11-23T17:06:54+00:00",
+    "paths": {
+      "md": "data/2026-11-16-woo-besluit-opvragen-kopie-pasfoto/2026-11-16-md-007-client-herkennen-bij-waarnemen-of-controle.md",
+      "json": "data/2026-11-16-woo-besluit-opvragen-kopie-pasfoto/2026-11-16-md-007-client-herkennen-bij-waarnemen-of-controle.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/b9483107-8272-4bb8-bce1-3731fed16f2d/handboek-uwv-client-herkennen.pdf": {
+    "publication_slug": "2026-11-16-woo-besluit-opvragen-kopie-pasfoto",
+    "pdf_slug": "2026-11-16-handboek-uwv-client-herkennen",
+    "sha256": "057892dfbaea739657250a8bba5c120091ef73bf36fc39c5434ce88170fd2886",
+    "retrieved_at": "2026-11-23T17:06:55+00:00",
+    "paths": {
+      "md": "data/2026-11-16-woo-besluit-opvragen-kopie-pasfoto/2026-11-16-handboek-uwv-client-herkennen.md",
+      "json": "data/2026-11-16-woo-besluit-opvragen-kopie-pasfoto/2026-11-16-handboek-uwv-client-herkennen.json"
+    }
+  },
+  "https://www.uwv.nl/assets-kai/files/66377610-56c5-4cd4-b4e8-60d5e0329337/woo-besluit-2026120.pdf": {
+    "publication_slug": "2026-11-15-woo-besluit-verzoek-gegevensuitwisseling-schuldhulpverlening-apeldoorn",
+    "pdf_slug": "2026-11-15-woo-besluit-2026120",
+    "sha256": "e872e9c9b9d49f60342d9cec11e10a14d29a92e2d57f7a96855fbd732a7223a8",
+    "retrieved_at": "2026-11-23T17:06:57+00:00",
+    "paths": {
+      "md": "data/2026-11-15-woo-besluit-verzoek-gegevensuitwisseling-schuldhulpverlening-apeldoorn/2026-11-15-woo-besluit-2026120.md",
+      "json": "data/2026-11-15-woo-besluit-verzoek-gegevensuitwisseling-schuldhulpverlening-apeldoorn/2026-11-15-woo-besluit-2026120.json"
+    }
   }
 }
